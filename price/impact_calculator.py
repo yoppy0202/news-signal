@@ -8,7 +8,8 @@ price/impact_calculator.py — イベント T0 価格を基準にした価格変
   4. price_impact テーブルに INSERT OR IGNORE（UNIQUE 制約で二重計算防止）
 
 【価格取得優先順】
-  Binance klines（CEX シンボル）→ Jupiter v6（Solana CA）→ DexScreener
+  CoinGecko market_chart/range（CEX シンボル・一括取得）→ Jupiter v6（Solana CA）→ DexScreener
+  ※ Binance は GitHub Actions IP でブロック（451）のため除外
 
 エントリポイント:
   from price.impact_calculator import run
@@ -34,33 +35,64 @@ WINDOWS: List[Tuple[str, int]] = [
     ("t_plus_24h", 1440),
 ]
 
-# Binance で USDT ペアが存在するメジャーシンボル
-CEX_SYMBOLS = {
-    "BTC", "ETH", "SOL", "BNB", "XRP", "ADA", "AVAX", "DOGE",
-    "TRX", "DOT", "MATIC", "LINK", "LTC", "TON", "SUI", "APT",
-    "ARB", "OP", "PEPE", "SHIB", "BONK", "WIF", "JUP", "PYTH",
+# CoinGecko market_chart/range 用 シンボル→ID マッピング
+COINGECKO_IDS = {
+    "BTC":  "bitcoin",
+    "ETH":  "ethereum",
+    "SOL":  "solana",
+    "XRP":  "ripple",
+    "BNB":  "binancecoin",
+    "DOGE": "dogecoin",
+    "ADA":  "cardano",
+    "AVAX": "avalanche-2",
+    "TRX":  "tron",
+    "DOT":  "polkadot",
+    "MATIC":"matic-network",
+    "LINK": "chainlink",
+    "LTC":  "litecoin",
+    "TON":  "the-open-network",
+    "SUI":  "sui",
+    "APT":  "aptos",
+    "ARB":  "arbitrum",
+    "OP":   "optimism",
 }
 
 
 # ---- 価格取得関数 -----------------------------------------------------------
 
-def _binance_kline_price(symbol: str, target_dt: datetime) -> Optional[float]:
-    """Binance klines API で target_dt 時点の終値を返す（1m 足の最初の足）。"""
-    if symbol.upper() not in CEX_SYMBOLS:
-        return None
-    pair = f"{symbol.upper()}USDT"
-    start_ms = int(target_dt.timestamp() * 1000)
+def _coingecko_price_series(symbol: str, event_dt: datetime) -> list:
+    """CoinGecko market_chart/range でイベント後の価格系列を一括取得。
+    1イベントにつき1リクエストで全ウィンドウ（T+5m〜T+24h）をカバーする。
+    戻り値: [[timestamp_ms, price], ...]
+
+    範囲を <24h に保つことで 5 分足データを取得（CoinGecko 無料仕様）。
+    """
+    cg_id = COINGECKO_IDS.get(symbol.upper())
+    if not cg_id:
+        return []
+    from_ts = int((event_dt + timedelta(minutes=3)).timestamp())
+    to_ts   = int((event_dt + timedelta(hours=23, minutes=57)).timestamp())
     data = fetch_json(
-        "https://api.binance.com/api/v3/klines",
-        params={"symbol": pair, "interval": "1m", "startTime": start_ms, "limit": 1},
-        interval=0.2,
+        f"https://api.coingecko.com/api/v3/coins/{cg_id}/market_chart/range",
+        params={"vs_currency": "usd", "from": from_ts, "to": to_ts},
+        interval=2.0,
     )
-    if not data or not isinstance(data, list) or not data[0]:
+    if not data:
+        return []
+    return data.get("prices", [])
+
+
+def _find_closest_price(series: list, target_dt: datetime, max_delta_minutes: int = 30) -> Optional[float]:
+    """series の中で target_dt に最も近いエントリを返す。
+    max_delta_minutes 以上離れているエントリは None を返す。
+    """
+    if not series:
         return None
-    try:
-        return float(data[0][4])  # close price
-    except (IndexError, TypeError, ValueError):
+    target_ms = int(target_dt.timestamp() * 1000)
+    closest = min(series, key=lambda x: abs(x[0] - target_ms))
+    if abs(closest[0] - target_ms) > max_delta_minutes * 60 * 1000:
         return None
+    return float(closest[1])
 
 
 def _jupiter_v6_price(ca: str) -> Optional[float]:
@@ -105,19 +137,21 @@ def fetch_price_at(
     ca: str,
     chain: str,
     target_dt: datetime,
+    price_series: Optional[list] = None,
 ) -> Optional[float]:
     """
-    Binance klines → Jupiter v6 → DexScreener の優先順で price_usd を返す。
-    過去の特定時刻を取れるのは Binance klines のみ。
-    Jupiter/DexScreener は「今の価格」を返すため、
-    target_dt が過去 5 分以内の場合のみ使用する（それ以外はスキップ）。
+    CoinGecko 系列 → Jupiter v6 → DexScreener の優先順で price_usd を返す。
+
+    price_series: _coingecko_price_series() で事前取得した [[ts_ms, price], ...]
+      → 渡されていれば最近傍価格をそこから取得（API 追加リクエスト不要）
+    Jupiter/DexScreener は「今の価格」のため、target_dt が直近 5 分以内の場合のみ使用。
     """
     now = datetime.now(timezone.utc)
     age_minutes = (now - target_dt).total_seconds() / 60
 
-    # 1. Binance klines（過去・現在どちらも対応）
-    if symbol and symbol.upper() in CEX_SYMBOLS:
-        p = _binance_kline_price(symbol, target_dt)
+    # 1. CoinGecko 系列（事前取得済みの場合）
+    if price_series:
+        p = _find_closest_price(price_series, target_dt)
         if p:
             return p
 
@@ -186,13 +220,20 @@ def run(limit: int = 100) -> int:
                 logger.warning(f"[IMPACT] timestamp 解析失敗 event_id={event_id}")
                 continue
 
+            # CoinGecko 価格系列を一括取得（1イベント1リクエスト、全ウィンドウをカバー）
+            price_series: list = []
+            if symbol and symbol.upper() in COINGECKO_IDS:
+                price_series = _coingecko_price_series(symbol, event_dt)
+                time.sleep(2.0)  # CoinGecko 無料枠レート制限への配慮
+
+            now = datetime.now(timezone.utc)
             for window_label, minutes in WINDOWS:
                 target_dt = event_dt + timedelta(minutes=minutes)
                 # 未来のウィンドウはスキップ
-                if target_dt > datetime.now(timezone.utc):
+                if target_dt > now:
                     continue
 
-                price_tx = fetch_price_at(symbol, ca, chain, target_dt)
+                price_tx = fetch_price_at(symbol, ca, chain, target_dt, price_series)
                 if price_tx is None:
                     pct_change = None
                 else:
@@ -214,8 +255,6 @@ def run(limit: int = 100) -> int:
                     continue
 
             conn.commit()
-            # Binance レート制限への配慮
-            time.sleep(0.1)
 
     logger.info(f"[IMPACT] 保存 {saved} 件")
     return saved

@@ -55,6 +55,8 @@ NS_IMPACT_HEADERS = [
     "price", "pct_change", "calculated_at",
 ]
 
+NS_NOTIFIED_HEADERS = ["event_id", "notified_at"]
+
 # ---- gspread クライアント --------------------------------------------------
 
 def _get_gspread_client():
@@ -91,6 +93,50 @@ def _get_or_create_worksheet(ss, tab_name: str, headers: List[str]):
         ws.append_row(headers, value_input_option="RAW")
         logger.info(f"[SHEETS] タブ作成: {tab_name}")
     return ws
+
+
+# ---- ns_notified ヘルパ（alert.py から使用） --------------------------------
+
+def open_spreadsheet():
+    """SHEETS_ID の Google Sheets を開く。失敗時は None。"""
+    if not SHEETS_ID:
+        return None
+    try:
+        client = _get_gspread_client()
+        return client.open_by_key(SHEETS_ID)
+    except Exception as e:
+        logger.error(f"[SHEETS] スプレッドシート接続失敗: {e}")
+        return None
+
+
+def load_notified_ids(ss) -> set:
+    """ns_notified タブから送信済み event_id を全件読み込む。"""
+    import gspread
+    try:
+        ws = ss.worksheet("ns_notified")
+        values = ws.get_all_values()
+        # values[0] はヘッダー行（スキップ）
+        return {row[0] for row in values[1:] if row and row[0]}
+    except gspread.WorksheetNotFound:
+        return set()
+    except Exception as e:
+        logger.error(f"[SHEETS] ns_notified 読み込み失敗: {e}")
+        return set()
+
+
+def append_notified_ids(ss, rows: list) -> bool:
+    """ns_notified タブに [(event_id, notified_at), ...] を一括追記する。"""
+    if not rows:
+        return True
+    try:
+        ws = _get_or_create_worksheet(ss, "ns_notified", NS_NOTIFIED_HEADERS)
+        data = [[str(r[0]), str(r[1])] for r in rows]
+        ws.append_rows(data, value_input_option="RAW")
+        logger.info(f"[SHEETS] ns_notified に {len(rows)} 件追記")
+        return True
+    except Exception as e:
+        logger.error(f"[SHEETS] ns_notified 追記失敗: {e}")
+        return False
 
 
 # ---- 状態管理（最終フラッシュIDをSQLiteで管理） ---------------------------

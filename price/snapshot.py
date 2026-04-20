@@ -35,6 +35,28 @@ MAJOR_TICKERS = {
     "TRX", "DOT", "MATIC", "LINK", "LTC", "TON", "SUI", "APT",
     "ARB", "OP", "PEPE", "SHIB", "BONK", "WIF", "JUP", "PYTH",
 }
+
+# CoinGecko Simple Price API 用 シンボル→ID マッピング
+COINGECKO_IDS = {
+    "BTC":  "bitcoin",
+    "ETH":  "ethereum",
+    "SOL":  "solana",
+    "XRP":  "ripple",
+    "BNB":  "binancecoin",
+    "DOGE": "dogecoin",
+    "ADA":  "cardano",
+    "AVAX": "avalanche-2",
+    "TRX":  "tron",
+    "DOT":  "polkadot",
+    "MATIC":"matic-network",
+    "LINK": "chainlink",
+    "LTC":  "litecoin",
+    "TON":  "the-open-network",
+    "SUI":  "sui",
+    "APT":  "aptos",
+    "ARB":  "arbitrum",
+    "OP":   "optimism",
+}
 RE_BARE_TICKER = re.compile(r"\b([A-Z]{2,6})\b")
 
 # EVM コントラクト: 0x + 40 hex
@@ -96,6 +118,30 @@ def extract_tokens(text: str) -> List[Dict[str, str]]:
 
 # --- 価格取得 -------------------------------------------------------------
 
+# CoinGecko 一括取得キャッシュ（run_price_snapshot() の先頭で1回だけ populate）
+_COINGECKO_CACHE: dict = {}  # coingecko_id → price
+
+
+def _prefetch_coingecko() -> None:
+    """COINGECKO_IDS の全銘柄を1リクエストで一括取得して _COINGECKO_CACHE に格納。
+    イベントごとに個別リクエストを送るとレート制限（429）に引っかかるため。
+    """
+    global _COINGECKO_CACHE
+    ids_str = ",".join(COINGECKO_IDS.values())
+    data = fetch_json(
+        "https://api.coingecko.com/api/v3/simple/price",
+        params={"ids": ids_str, "vs_currencies": "usd"},
+        interval=1.5,
+    )
+    if data:
+        _COINGECKO_CACHE = {
+            cg_id: float(node["usd"])
+            for cg_id, node in data.items()
+            if (node or {}).get("usd") is not None
+        }
+    logger.info(f"[SNAPSHOT] CoinGecko 一括取得: {len(_COINGECKO_CACHE)} 銘柄")
+
+
 def _jupiter_price(symbol_or_ca: str) -> Optional[Tuple[float, dict]]:
     """Jupiter Price API v2 で価格取得。ids にはシンボル or mint。"""
     if not symbol_or_ca:
@@ -114,19 +160,18 @@ def _jupiter_price(symbol_or_ca: str) -> Optional[Tuple[float, dict]]:
         return None
 
 
-def _binance_price(symbol: str) -> Optional[Tuple[float, dict]]:
-    """Binance REST で USDT ペア価格取得。"""
-    if not symbol:
+def _coingecko_price(symbol: str) -> Optional[Tuple[float, dict]]:
+    """_COINGECKO_CACHE から価格を返す（キャッシュがない場合は None）。
+    _prefetch_coingecko() を事前に呼んでキャッシュを作成すること。
+    """
+    cg_id = COINGECKO_IDS.get(symbol.upper())
+    if not cg_id:
         return None
-    pair = f"{symbol.upper()}USDT"
-    url = "https://api.binance.com/api/v3/ticker/price"
-    data = fetch_json(url, params={"symbol": pair})
-    if not data or "price" not in data:
+    price = _COINGECKO_CACHE.get(cg_id)
+    if price is None:
         return None
-    try:
-        return float(data["price"]), data
-    except (TypeError, ValueError):
-        return None
+    raw = {cg_id: {"usd": price}}
+    return float(price), raw
 
 
 def _dexscreener_price(ca: str) -> Optional[Tuple[float, dict]]:
@@ -157,31 +202,32 @@ def _dexscreener_price(ca: str) -> Optional[Tuple[float, dict]]:
 
 
 def fetch_price(token: Dict[str, str]) -> Optional[Dict]:
-    """Jupiter → Binance → DexScreener の順にフォールバック。
+    """CoinGecko → Jupiter → DexScreener の順にフォールバック。
     戻り値: {price_usd, source, raw_response} or None
 
-    【最適化】
-    - symbol のみ（CA なし）の主要 CEX トークンは Jupiter をスキップ
-      → Jupiter Price API v2 はシンボル文字列に 404 を返すため無駄なリトライを防ぐ
-    - CA が Solana mint（非 EVM）の場合のみ Jupiter を試す
+    【優先順】
+    1. CoinGecko Simple Price（COINGECKO_IDS に登録済みのシンボル）
+       → Binance は GitHub Actions IP でブロック（451）のため除外
+    2. Jupiter（Solana CA のみ。シンボル文字列は 404 になるためスキップ）
+    3. DexScreener（CA がある場合）
     """
     symbol = token.get("symbol") or ""
     ca = token.get("contract_addr") or ""
     chain = token.get("chain") or "unknown"
 
-    # 1. Jupiter (Solana mint CA がある場合のみ)
+    # 1. CoinGecko (COINGECKO_IDS に登録済みシンボル)
+    if symbol:
+        r = _coingecko_price(symbol)
+        if r:
+            price, raw = r
+            return {"price_usd": price, "source": "coingecko", "raw_response": raw}
+
+    # 2. Jupiter (Solana mint CA がある場合のみ)
     if ca and chain == "solana":
         r = _jupiter_price(ca)
         if r:
             price, raw = r
             return {"price_usd": price, "source": "jupiter", "raw_response": raw}
-
-    # 2. Binance (symbol)
-    if symbol:
-        r = _binance_price(symbol)
-        if r:
-            price, raw = r
-            return {"price_usd": price, "source": "binance", "raw_response": raw}
 
     # 3. DexScreener (CA がある場合)
     if ca:
@@ -199,6 +245,9 @@ def run_price_snapshot(limit: int = 50) -> int:
     """未取得イベントに対し銘柄抽出→価格取得→保存。戻り値: 保存件数。"""
     saved = 0
     now_iso = datetime.now(timezone.utc).isoformat()
+
+    # CoinGecko 全銘柄を1リクエストで一括取得（429 回避）
+    _prefetch_coingecko()
 
     with get_conn() as conn:
         init_db(conn)

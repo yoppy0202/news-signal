@@ -14,6 +14,7 @@
 | P-06 | Open         | Mid    | X (Twitter) collector を追加（Nitter or 公式API）                                |
 | P-07 | Open         | Mid    | 銘柄抽出を LLM / NER で高精度化                                                   |
 | P-08 | Done         | High   | Phase 4 実装（notifier/alert.py / notified_events テーブル / collector.yml更新）   |
+| P-12 | Done         | High   | バグ修正2件（notified_events永続化→Sheets / Binance451→CoinGecko）                |
 | P-09 | Open         | Low    | Render バックグラウンドワーカー化（cron-job.org 併用 or 常駐）                    |
 | P-10 | Open         | Low    | DB を外部ストレージに移行（S3 / R2 / Supabase 等）                                |
 | P-11 | Open         | Low    | gspread v6 対応（oauth2client → google-auth への移行）                            |
@@ -144,7 +145,46 @@
 - `TELEGRAM_CHAT_ID`: 送信先チャット ID（グループ ID）
 - `TELEGRAM_TOPIC_NEWS_IMPACT`: スーパーグループのトピック ID（省略可）
 
+### 2026-04-20 — バグ修正 2件 (P-12)
+
+#### 修正1: notified_events の GitHub Actions リセット問題
+- `notifier/alert.py` を Sheets バックエンド対応に書き換え
+  - `SHEETS_ID` 設定時: Google Sheets の `ns_notified` タブで管理
+    - 起動時に全 event_id を1回読み込み、実行後に一括追記（2 API コール/run）
+  - `SHEETS_ID` 未設定時: SQLite フォールバック（ローカル開発用・従来通り）
+- `storage/sheets_sync.py` に `ns_notified` 用関数を追加
+  - `open_spreadsheet()`: SHEETS_ID でスプレッドシートを開く
+  - `load_notified_ids(ss) -> set`: ns_notified タブから event_id を全件読み込み
+  - `append_notified_ids(ss, rows)`: 一括追記
+
+#### 修正2: Binance 451 対策
+- `price/snapshot.py`: Binance → CoinGecko Simple Price に置き換え
+  - `COINGECKO_IDS` マッピングを追加（18 銘柄）
+  - `_prefetch_coingecko()`: 全銘柄を**1リクエスト**で一括取得してキャッシュ
+    → 個別呼び出しによる 429 を回避
+  - `_coingecko_price()`: キャッシュ参照のみ（追加 API コールなし）
+- `price/impact_calculator.py`: Binance klines → CoinGecko market_chart/range に置き換え
+  - `_coingecko_price_series(symbol, event_dt)`: T+5m〜T+24h の価格系列を一括取得
+    - <24h の範囲を指定して5分足データを取得（CoinGecko 無料仕様）
+    - `time.sleep(2.0)` でレート制限に配慮
+  - `_find_closest_price(series, target_dt)`: 系列から最近傍価格を取得
+  - `fetch_price_at()`: price_series パラメータを追加
+
+**動作確認結果**
+| 指標 | 結果 |
+|---|---|
+| CoinGecko 一括取得 | 17 銘柄（1リクエスト）✓ |
+| 429 エラー | 解消（一括取得に切り替え後） ✓ |
+| 全体実行時間 | 3.3s（修正前は 429 により多数のリトライで遅延） |
+| backend | sqlite（SHEETS_ID 未設定時のフォールバック確認）✓ |
+| notified_total | 182 件 |
+
+**SHEETS_ID 設定後の期待動作**
+- `backend=sheets` でログ出力
+- `ns_notified` タブが自動作成される
+- 初回シードで既存 event_id が全件登録される
+
 ### 次セッションの開始手順
 1. `MASTER_LOG.md` の Open タスクを確認
-2. GitHub Actions Secrets に Telegram 認証情報を設定して本番通知をテスト
-3. RSS_FEEDS の拡張を検討するなら P-05（rekt.news 代替取得方法）
+2. GitHub Actions Secrets に `SHEETS_ID` + `GOOGLE_CREDENTIALS` を設定して Sheets バックエンドをテスト
+3. GitHub Actions Secrets に Telegram 認証情報を設定して本番通知をテスト

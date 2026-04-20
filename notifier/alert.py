@@ -6,16 +6,22 @@ notifier/alert.py — 高インパクトイベントの判定と Telegram 通知
   2. event_type == "listing" AND pct_change_1h > 10.0
   3. abs(pct_change_1h) > 15.0（急騰・急落）
 
+【notified_events 永続化バックエンド】
+  - SHEETS_ID が設定されている場合: Google Sheets の ns_notified タブ
+    → GitHub Actions でDBがリセットされても通知済みIDが保持される
+    → 起動時に全件読み込み、実行後に一括追記（APIコール最小化）
+  - SHEETS_ID 未設定の場合: SQLite（ローカル開発用フォールバック）
+
 【初回実行時の動作】
-  notified_events テーブルが空の場合、既存イベントを全件登録してから判定を開始。
-  → 過去 172 件への遡及通知を防ぐ。
+  ns_notified（またはnotified_events）が空の場合、既存イベントを全件登録してから判定。
+  → 過去イベントへの遡及通知を防ぐ。
 
 【通知先】
   TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID
   TELEGRAM_TOPIC_NEWS_IMPACT（オプション：設定時は指定トピックへ送信）
 
 【重複防止】
-  notified_events テーブルに送信済み event_id を記録し、同一 ID は再送しない。
+  通知済み・評価済みのevent_idはバックエンドに記録し、再評価しない。
 
 使用法:
   from notifier.alert import run
@@ -28,8 +34,8 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
 
-from shared.telegram_utils import send_message
 from storage.db import get_conn, init_db
+from storage.sheets_sync import append_notified_ids, load_notified_ids, open_spreadsheet
 
 logger = logging.getLogger(__name__)
 
@@ -51,7 +57,8 @@ except ImportError:
 
 BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 CHAT_ID   = os.environ.get("TELEGRAM_CHAT_ID", "")
-TOPIC_ID  = os.environ.get("TELEGRAM_TOPIC_NEWS_IMPACT", "")  # 未設定時はメイン
+TOPIC_ID  = os.environ.get("TELEGRAM_TOPIC_NEWS_IMPACT", "")
+SHEETS_ID = os.environ.get("SHEETS_ID", "")
 
 # ---- ヘルパ ---------------------------------------------------------------
 
@@ -86,7 +93,6 @@ def _send_alert(ev: dict) -> bool:
         logger.info(f"  message:\n{text}")
         return True
 
-    # トピック指定があれば reply_to_message_id として使う
     extra: dict = {}
     if TOPIC_ID:
         try:
@@ -139,77 +145,119 @@ def _should_notify(ev: dict) -> bool:
     return False
 
 
+# ---- 共通クエリ -----------------------------------------------------------
+
+_EVENTS_QUERY = """
+    SELECT
+        e.event_id,
+        e.source,
+        e.title,
+        e.url,
+        e.raw_text,
+        e.event_type,
+        e.sentiment_label,
+        e.timestamp_utc,
+        ps.symbol                                   AS token_symbol,
+        MAX(CASE WHEN pi.window_label = 't_plus_1h'  THEN pi.pct_change END) AS pct_change_1h,
+        MAX(CASE WHEN pi.window_label = 't_plus_24h' THEN pi.pct_change END) AS pct_change_24h
+      FROM events e
+ LEFT JOIN price_snapshots ps ON ps.event_id = e.event_id AND ps.price_usd IS NOT NULL
+ LEFT JOIN price_impact     pi ON pi.event_id = e.event_id
+      {where_clause}
+  GROUP BY e.event_id
+  ORDER BY e.timestamp_utc DESC
+     LIMIT 200
+"""
+
+
 # ---- エントリポイント -----------------------------------------------------
 
 def run(seed_existing: bool = True) -> dict:
     """
     高インパクトイベントを判定して Telegram 通知する。
 
-    seed_existing: True の場合、notified_events が空なら既存イベントを全件登録し
+    seed_existing: True の場合、バックエンドが空なら既存イベントを全件登録し
                    過去分の遡及通知を防ぐ。
 
-    戻り値: {"candidates": n, "sent": n, "dry_run": bool, "notified_total": n}
+    戻り値: {"candidates": n, "sent": n, "dry_run": bool, "notified_total": n, "backend": str}
     """
     now_iso = datetime.now(timezone.utc).isoformat()
     candidates = 0
     sent = 0
 
+    # ---- バックエンド選択 ----
+    use_sheets = bool(SHEETS_ID)
+    ss = None
+    sheets_notified_ids: set = set()
+
+    if use_sheets:
+        ss = open_spreadsheet()
+        if ss is None:
+            logger.warning("[ALERT] Sheets 接続失敗。SQLite フォールバックに切り替えます")
+            use_sheets = False
+        else:
+            sheets_notified_ids = load_notified_ids(ss)
+            logger.info(f"[ALERT] Sheets から送信済み {len(sheets_notified_ids)} 件を読み込み")
+
     with get_conn() as conn:
         init_db(conn)
         cur = conn.cursor()
 
-        # ---- 初回シード: notified_events が空なら既存イベントを全件登録 ----
+        # ---- 初回シード ----
         if seed_existing:
-            count = cur.execute("SELECT COUNT(*) FROM notified_events").fetchone()[0]
-            if count == 0:
-                cur.execute(
-                    """
-                    INSERT OR IGNORE INTO notified_events (event_id, notified_at)
-                    SELECT event_id, ? FROM events
-                    """,
-                    (now_iso,),
-                )
-                conn.commit()
-                seeded = cur.execute("SELECT COUNT(*) FROM notified_events").fetchone()[0]
-                logger.info(f"[ALERT] 初回シード: {seeded} 件を notified_events に登録（過去分スキップ）")
+            if use_sheets:
+                if not sheets_notified_ids:
+                    all_ids = [r[0] for r in cur.execute("SELECT event_id FROM events").fetchall()]
+                    if all_ids:
+                        seed_rows = [(eid, now_iso) for eid in all_ids]
+                        append_notified_ids(ss, seed_rows)
+                        sheets_notified_ids = set(all_ids)
+                        logger.info(f"[ALERT] Sheets 初回シード: {len(all_ids)} 件を ns_notified に登録")
+            else:
+                count = cur.execute("SELECT COUNT(*) FROM notified_events").fetchone()[0]
+                if count == 0:
+                    cur.execute(
+                        """
+                        INSERT OR IGNORE INTO notified_events (event_id, notified_at)
+                        SELECT event_id, ? FROM events
+                        """,
+                        (now_iso,),
+                    )
+                    conn.commit()
+                    seeded = cur.execute("SELECT COUNT(*) FROM notified_events").fetchone()[0]
+                    logger.info(f"[ALERT] 初回シード: {seeded} 件を notified_events に登録（過去分スキップ）")
 
-        # ---- 未通知イベントを price_impact と結合して取得 ----
-        rows = cur.execute(
-            """
-            SELECT
-                e.event_id,
-                e.source,
-                e.title,
-                e.url,
-                e.raw_text,
-                e.event_type,
-                e.sentiment_label,
-                e.timestamp_utc,
-                ps.symbol                                   AS token_symbol,
-                MAX(CASE WHEN pi.window_label = 't_plus_1h'  THEN pi.pct_change END) AS pct_change_1h,
-                MAX(CASE WHEN pi.window_label = 't_plus_24h' THEN pi.pct_change END) AS pct_change_24h
-              FROM events e
-         LEFT JOIN price_snapshots ps ON ps.event_id = e.event_id AND ps.price_usd IS NOT NULL
-         LEFT JOIN price_impact     pi ON pi.event_id = e.event_id
-             WHERE e.event_id NOT IN (SELECT event_id FROM notified_events)
-          GROUP BY e.event_id
-          ORDER BY e.timestamp_utc DESC
-             LIMIT 200
-            """
-        ).fetchall()
+        # ---- 未通知イベントを取得 ----
+        if use_sheets:
+            # Sheets モード: Python 側でフィルタ
+            all_rows = cur.execute(
+                _EVENTS_QUERY.format(where_clause="")
+            ).fetchall()
+            rows = [r for r in all_rows if r["event_id"] not in sheets_notified_ids]
+        else:
+            # SQLite モード: SQL で除外
+            rows = cur.execute(
+                _EVENTS_QUERY.format(
+                    where_clause="WHERE e.event_id NOT IN (SELECT event_id FROM notified_events)"
+                )
+            ).fetchall()
 
         logger.info(f"[ALERT] 未通知イベント {len(rows)} 件を評価")
+
+        new_notified: list = []  # Sheets への一括追記バッファ
 
         for row in rows:
             ev = dict(row)
             ev["tokens"] = [ev["token_symbol"]] if ev.get("token_symbol") else []
 
             if not _should_notify(ev):
-                # 通知不要でも送信済みにマーク（繰り返し評価しない）
-                cur.execute(
-                    "INSERT OR IGNORE INTO notified_events (event_id, notified_at) VALUES (?, ?)",
-                    (ev["event_id"], now_iso),
-                )
+                # 通知不要でも評価済みとしてマーク（再評価しない）
+                new_notified.append((ev["event_id"], now_iso))
+                if not use_sheets:
+                    cur.execute(
+                        "INSERT OR IGNORE INTO notified_events (event_id, notified_at) VALUES (?, ?)",
+                        (ev["event_id"], now_iso),
+                    )
                 continue
 
             candidates += 1
@@ -217,26 +265,37 @@ def run(seed_existing: bool = True) -> dict:
             if ok:
                 sent += 1
 
-            # 送信済みに登録（失敗時も登録して無限リトライを防ぐ）
-            cur.execute(
-                "INSERT OR IGNORE INTO notified_events (event_id, notified_at) VALUES (?, ?)",
-                (ev["event_id"], now_iso),
-            )
+            new_notified.append((ev["event_id"], now_iso))
+            if not use_sheets:
+                cur.execute(
+                    "INSERT OR IGNORE INTO notified_events (event_id, notified_at) VALUES (?, ?)",
+                    (ev["event_id"], now_iso),
+                )
+                conn.commit()
+
+        if not use_sheets:
             conn.commit()
 
-        conn.commit()
+        if use_sheets:
+            notified_total = len(sheets_notified_ids) + len(new_notified)
+        else:
+            notified_total = cur.execute("SELECT COUNT(*) FROM notified_events").fetchone()[0]
 
-        notified_total = cur.execute("SELECT COUNT(*) FROM notified_events").fetchone()[0]
+    # ---- Sheets への一括書き込み（run ループ後にまとめて） ----
+    if use_sheets and new_notified:
+        append_notified_ids(ss, new_notified)
 
+    backend = "sheets" if use_sheets else "sqlite"
     result = {
         "candidates": candidates,
         "sent":       sent,
         "dry_run":    _is_dry_run(),
         "notified_total": notified_total,
+        "backend":    backend,
     }
     logger.info(
         f"[ALERT] 完了: 通知対象={candidates} / 送信={sent} / "
-        f"dry_run={result['dry_run']} / notified_total={notified_total}"
+        f"dry_run={result['dry_run']} / notified_total={notified_total} / backend={backend}"
     )
     return result
 

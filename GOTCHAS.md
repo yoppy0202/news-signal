@@ -2,6 +2,35 @@
 
 > エラー解決直後にここへ追記する。一般論ではなく、このプロジェクトで踏んだ地雷のみ記録。
 
+## Phase 4 バグ修正 — 実行時に踏んだ罠（2026-04-20）
+
+### CoinGecko Simple Price を1シンボルずつ呼ぶと 429 になる
+- `snapshot.py` で各イベントごとに `/simple/price?ids=bitcoin&...` を叩くと、
+  32 件のイベントで 32 リクエストが一気に飛んで 429 Rate Limit に引っかかる
+- **対処**: `_prefetch_coingecko()` で全銘柄を `ids=bitcoin,ethereum,solana,...` と一括取得（1リクエスト）
+  してから `_COINGECKO_CACHE` に格納。`_coingecko_price()` はキャッシュから返すのみ
+
+### GitHub Actions の IP は Binance に 451 でブロックされる
+- `https://api.binance.com/api/v3/ticker/price` → 451 Legal Reasons
+- `https://api.binance.com/api/v3/klines` → 同様にブロック
+- **対処**: `snapshot.py` / `impact_calculator.py` のBinance呼び出しを CoinGecko に置き換え
+  - `snapshot.py`: CoinGecko Simple Price API (`/simple/price?ids=bitcoin&vs_currencies=usd`)
+  - `impact_calculator.py`: CoinGecko market_chart/range (`/coins/{id}/market_chart/range`)
+    - 1イベント1リクエストで全ウィンドウをカバー（レート制限対策）
+    - 範囲を `<24h` にすると5分足データが取得できる（CoinGecko 無料仕様）
+    - `time.sleep(2.0)` を入れて CoinGecko 無料枠（10-50 req/min）に配慮
+
+### GitHub Actions で notified_events が毎回リセットされる
+- GitHub Actions の SQLite DB は `actions/cache` で一時保持されるが、キャッシュミス時にリセット
+- `notified_events` が空になると全イベントが再通知対象になる（遡及通知バグ）
+- **対処**: `SHEETS_ID` が設定されている場合は Google Sheets の `ns_notified` タブで管理
+  - 起動時に `ns_notified` から全 event_id を読み込み（1 API コール）
+  - 評価後に一括追記（1 API コール）→ 合計2コールで済む
+  - `SHEETS_ID` 未設定時は SQLite にフォールバック（ローカル開発用）
+- `ns_notified` が空の初回実行時は既存イベントを全件シードして遡及通知を防ぐ
+
+---
+
 ## Phase 4 — 実行時に踏んだ罠（2026-04-20）
 
 ### 初回実行時の遡及通知に注意
