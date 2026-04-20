@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T14:08:09.549745+00:00",
+  "generated_at": "2026-04-20T15:42:42.862378+00:00",
   "events": [
     {
       "event_id": "db667f7b-5e35-424a-84c4-62e4c672474c",
@@ -68,10 +68,16 @@
       "url": "https://bitcoinmagazine.com/news/strategy-mstr-buys-2-54b-in-bitcoin",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-04-20T12:52:46+00:00",
       "raw_text": "Strategy (MSTR) Buys $2.54B in Bitcoin in Third-Largest Purchase, Surpasses BlackRock Holdings\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/01/Michael-Saylors-Strategy-MSTR-Spends-2.13-Billion-to-Buy",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.011,
+        "t_plus_15m": -0.0236,
+        "t_plus_1h": -0.287
+      }
     },
     {
       "event_id": "4896862f-b872-4284-817f-9cb9dee7bad8",
@@ -104,10 +110,16 @@
       "url": "https://cointelegraph.com/news/strategy-buys-34-164-bitcoin-total-holdings-hit-815-061-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-04-20T12:29:07+00:00",
       "raw_text": "Strategy buys 34,164 Bitcoin for $2.5B, holdings top 800,000 BTC\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy buys 34,164 Bitcoin for $2.5B, holdings top 800,000 BTC\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2lud",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1428,
+        "t_plus_15m": -0.0917,
+        "t_plus_1h": -0.1913
+      }
     },
     {
       "event_id": "32e39874-ef79-498c-95da-6db94d21125a",
@@ -128,10 +140,16 @@
       "url": "https://cointelegraph.com/news/bitcoin-metrics-line-up-bull-signals-78k-btc-price-level-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-04-20T12:20:47+00:00",
       "raw_text": "Bitcoin metrics line up bull signals with $78K the BTC price level to beat\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin metrics line up bull signals with $78K the BTC price level to beat\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2873,
+        "t_plus_15m": 0.1428,
+        "t_plus_1h": -0.2221
+      }
     },
     {
       "event_id": "58ec0582-11ad-450a-8c0f-39aff9c6900a",
@@ -332,10 +350,16 @@
       "url": "https://cointelegraph.com/news/btc-price-due-new-highs-five-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-04-20T10:18:21+00:00",
       "raw_text": "BTC price due new highs: Five things to know in Bitcoin this week\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BTC price due new highs: Five things to know in Bitcoin this week\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2l",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.252,
+        "t_plus_15m": 0.1243,
+        "t_plus_1h": 0.1147
+      }
     },
     {
       "event_id": "112dc7a8-32fc-4107-b72a-777179e83d11",
@@ -1364,10 +1388,17 @@
       "url": "https://bitcoinmagazine.com/news/sheri-biggs-discloses-250000-bitcoin",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-04-17T16:42:39+00:00",
       "raw_text": "Congresswoman Sheri Biggs Discloses Up to $250,000 BTC Investment via iShares Bitcoin ETF\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Congresswoman-Sheri-Biggs-Discloses-Up-to-250000-BTC-Investme",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 3.4118,
+        "t_plus_15m": 3.4118,
+        "t_plus_1h": 2.9283,
+        "t_plus_4h": 2.7477
+      }
     },
     {
       "event_id": "8b811afa-483d-49fc-b4a3-564ba7c09a28",
@@ -1856,10 +1887,18 @@
       "url": "https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc",
       "event_type": "listing",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "SOL",
+        "XRP"
+      ],
       "timestamp_utc": "2026-01-23T16:40:55+00:00",
       "raw_text": "Trump sues JPMorgan for $5B! Ledger prepares for $4B IPO! “Crypto Adoption is no longer reversible” says PWC!\n\nCrypto majors are red while Gold nears $5,000 and Silver closes in on $100; BTC -1% at $89,100; ETH -2% at $2,925, SOL -2% at $127; XRP -2% to $1.90. ZRO (+15%), AXS (+10%) and DASH (+8%) l",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 50.5298,
+        "t_plus_15m": 50.5298,
+        "t_plus_1h": 50.7521,
+        "t_plus_4h": 48.558
+      }
     },
     {
       "event_id": "150245bd-835f-4419-832d-b4b022e253bc",
@@ -1880,10 +1919,16 @@
       "url": "https://decrypt.co/videos/interviews/MqZOhomP/crypto-rebounds-after-trump-tacos-on-tariffs-bitgo-21b-ipo-solanas-skr-token-soars-250-fdv",
       "event_type": "hack",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-01-22T16:14:50+00:00",
       "raw_text": "Crypto rebounds after Trump TACO’s on Tariffs! BitGo $2.1B IPO! Solana’s SKR token soars 250% FDV!\n\nCrypto majors are green and rebounding after Trump pivoted on EU tariffs; BTC +2% at $89,900; ETH +2% at $2,995, SOL +2% at $130; XRP +3% to $1.94. CC (+15%), SKY (+11%) and SAND (+10%) led top movers",
-      "impact": {}
+      "impact": {
+        "t_plus_1h": 18.0495,
+        "t_plus_4h": 19.1285,
+        "t_plus_24h": 19.0741
+      }
     },
     {
       "event_id": "abf0fca7-7a78-4c48-add2-2da61d29bbef",
@@ -1916,10 +1961,17 @@
       "url": "https://decrypt.co/videos/interviews/O1HZN4PH/trump-tariffs-3-return-of-the-bull-market-nyse-tokenising-what-that-means-for-hype-claude-meme-meta",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "SOL",
+        "XRP"
+      ],
       "timestamp_utc": "2026-01-20T18:12:06+00:00",
       "raw_text": "Trump Tariffs 3: Return of the Bull Market! NYSE Tokenising, what that means for $Hype! Claude Meme Meta!\n\nCrypto majors are red following Trump’s tariff turmoil; BTC -2% at $91,100; ETH -4% at $3,105, SOL -3% at $129; XRP -2% to $1.93. CC (+12%), MYX (+5%) and SYRUP (+4%) led top movers. The NYSE b",
-      "impact": {}
+      "impact": {
+        "t_plus_1h": 48.7716,
+        "t_plus_4h": 48.7226,
+        "t_plus_24h": 48.4903
+      }
     },
     {
       "event_id": "80e1f334-fbbb-4cdc-af3c-c6e565fa474a",
@@ -1928,10 +1980,17 @@
       "url": "https://decrypt.co/videos/interviews/lokwS0bc/crypto-sells-off-amidst-trump-tariff-turmoil-trove-falls-90-in-awful-tge-pump-fund-announced",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC",
+        "ETH"
+      ],
       "timestamp_utc": "2026-01-20T16:07:15+00:00",
       "raw_text": "Crypto sells off amidst Trump Tariff Turmoil! $Trove falls 90% in awful TGE! Pump Fund announced!\n\nCrypto majors are red following Trump’s tariff turmoil; BTC -2% at $91,100; ETH -4% at $3,105, SOL -3% at $129; XRP -2% to $1.93. CC (+12%), MYX (+5%) and SYRUP (+4%) led top movers. The NYSE began pre",
-      "impact": {}
+      "impact": {
+        "t_plus_1h": 19.5721,
+        "t_plus_4h": 18.9686,
+        "t_plus_24h": 19.8246
+      }
     },
     {
       "event_id": "ef6893c6-1cbf-478b-9cd7-e30d99191d85",
@@ -1976,10 +2035,17 @@
       "url": "https://decrypt.co/videos/interviews/Iv1NIhI4/are-we-back-crypto-is-green-solana-intern-goes-rogue-pump-up-13-monero-hits-another-ath",
       "event_type": "hack",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "SOL"
+      ],
       "timestamp_utc": "2026-01-14T16:38:32+00:00",
       "raw_text": "Are we back? Crypto is Green! Solana Intern goes rogue! Pump up 13%! Monero hits another ATH!\n\nBTC: 95k (+3%) | BTC.D: 59.2% (-0.1%). ETH: 3313 (+6%) | BNB: 936 (+3%) | SOL: 145 (+2%). Top Gainers: IP, ICP, PUMP, PEPE, ENA. BTC ETFs: +$754m | ETH ETFs: +$130m. Crypto rallies on largest ETF inflow in",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 72.3913,
+        "t_plus_15m": 72.3913,
+        "t_plus_1h": 71.151,
+        "t_plus_4h": 72.6473
+      }
     },
     {
       "event_id": "93e15a65-ba22-4d54-adb2-f7359dd8756d",
@@ -1988,10 +2054,18 @@
       "url": "https://decrypt.co/videos/interviews/IuLdmgP6/pump-memes-heating-up-xmr-vs-zec-how-important-are-these-rate-cuts-under-exposed",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC",
+        "ETH",
+        "SOL",
+        "XRP"
+      ],
       "timestamp_utc": "2026-01-14T16:01:53+00:00",
       "raw_text": "Pump & Memes HEATING up! XMR vs ZEC! How important are these rate cuts? - Under Exposed\n\nCrypto majors are green; BTC +1.5% at $92,000; ETH +1% at $3,130, SOL +2% at $142; XRP +1% to $2.06. DASH (+60%), IP (+30%) and XMR (+13%) led top movers; XMR hit another new ATH at $680 (now $640). Gold and Sil",
-      "impact": {}
+      "impact": {
+        "t_plus_1h": 29.1818,
+        "t_plus_4h": 29.1619
+      }
     },
     {
       "event_id": "c6702aa9-e014-41f6-9b60-6582575124f1",
@@ -2060,10 +2134,16 @@
       "url": "https://decrypt.co/videos/interviews/GVQVX2ND/first-2026-dip-btc-at-92k-morgan-stanley-file-for-btc-eth-sol-etfs-hyperliquid-airdrop-speculation",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "TON"
+      ],
       "timestamp_utc": "2026-01-07T16:14:54+00:00",
       "raw_text": "First 2026 Dip! BTC at 92K! Morgan Stanley file for BTC, ETH & SOL ETFs! Hyperliquid Airdrop Speculation!\n\nCrypto majors fall for first time in 2026; BTC at $92k. Morgan Stanley files for BTC, ETH and SOL ETFs. US Senate schedules key vote for crypto market structure bill for next week. Hyperliquid ",
-      "impact": {}
+      "impact": {
+        "t_plus_1h": 44.7831,
+        "t_plus_4h": 42.3922,
+        "t_plus_24h": 44.367
+      }
     },
     {
       "event_id": "3eb64a6e-32d2-4c0b-965e-498853d7c9f7",
@@ -2072,10 +2152,20 @@
       "url": "https://decrypt.co/videos/interviews/XjhRjGIk/crypto-starts-2026-strong-venezuela-impacts-on-the-market-lighter-tge-reactions",
       "event_type": "hack",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC",
+        "ETH",
+        "SOL",
+        "XRP",
+        "SUI"
+      ],
       "timestamp_utc": "2026-01-06T18:16:42+00:00",
       "raw_text": "Crypto starts 2026 STRONG! Venezuela Impacts on the market! Lighter TGE reactions!\n\nThe global crypto market cap pushed another 2% to $3.22T as majors continue to grind up; BTC +1% at $93,780; ETH +2% at $3,240, SOL +3% at $139; XRP led up 12% to $2.37\nRENDER (+18%), SUI (+18%) and LIT (+15%) led to",
-      "impact": {}
+      "impact": {
+        "t_plus_1h": 22.1588,
+        "t_plus_4h": 23.8581,
+        "t_plus_24h": 21.174
+      }
     },
     {
       "event_id": "7e40a552-f5dc-464c-bf24-5302021c3544",
@@ -2184,21 +2274,21 @@
       },
       "unknown": {
         "count": 51,
-        "avg_1h": null,
+        "avg_1h": -0.1,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": null
+        "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
         "count": 42,
-        "avg_1h": null,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": null
+        "avg_1h": 24.16,
+        "avg_24h": 37.56,
+        "win_rate_1h_gt5pct": 66.7
       },
       "hack": {
         "count": 37,
-        "avg_1h": null,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": null
+        "avg_1h": 37.12,
+        "avg_24h": 20.12,
+        "win_rate_1h_gt5pct": 100.0
       },
       "whale_move": {
         "count": 4,
@@ -2208,9 +2298,9 @@
       },
       "listing": {
         "count": 2,
-        "avg_1h": null,
+        "avg_1h": 50.75,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": null
+        "win_rate_1h_gt5pct": 100.0
       }
     }
   }
