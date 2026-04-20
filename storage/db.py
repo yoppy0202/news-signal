@@ -1,0 +1,76 @@
+"""
+storage/db.py — SQLite 初期化と接続ヘルパ
+
+【テーブル】
+  - events         : RSS 等で収集したイベント本文
+  - price_snapshots: イベントに紐づく価格スナップショット
+
+使用法:
+  from storage.db import get_conn, init_db
+  with get_conn() as conn:
+      init_db(conn)
+"""
+
+import logging
+import os
+import sqlite3
+from contextlib import contextmanager
+from pathlib import Path
+
+logger = logging.getLogger(__name__)
+
+# DB パス（環境変数 NEWS_SIGNAL_DB があれば優先）
+DEFAULT_DB_PATH = Path(__file__).resolve().parent.parent / "data" / "news_signal.sqlite3"
+DB_PATH = Path(os.environ.get("NEWS_SIGNAL_DB", str(DEFAULT_DB_PATH)))
+
+
+SCHEMA = """
+CREATE TABLE IF NOT EXISTS events (
+    event_id       TEXT PRIMARY KEY,     -- UUID
+    source         TEXT NOT NULL,        -- 'rss:<feed_name>' など
+    url            TEXT,
+    title          TEXT,
+    raw_text       TEXT NOT NULL,
+    timestamp_utc  TEXT NOT NULL,        -- ISO8601 UTC
+    event_hash     TEXT NOT NULL UNIQUE, -- 重複排除キー
+    created_at     TEXT NOT NULL DEFAULT (datetime('now'))
+);
+
+CREATE INDEX IF NOT EXISTS idx_events_timestamp ON events(timestamp_utc);
+CREATE INDEX IF NOT EXISTS idx_events_source    ON events(source);
+
+CREATE TABLE IF NOT EXISTS price_snapshots (
+    snapshot_id    INTEGER PRIMARY KEY AUTOINCREMENT,
+    event_id       TEXT NOT NULL,
+    symbol         TEXT,                 -- 抽出シンボル（例: SOL, BONK）
+    contract_addr  TEXT,                 -- 抽出 CA（Solana/EVM 等）
+    chain          TEXT,                 -- 'solana' | 'evm' | 'cex' | 'unknown'
+    price_usd      REAL,
+    source         TEXT,                 -- 'jupiter' | 'binance' | 'dexscreener'
+    fetched_at_utc TEXT NOT NULL,
+    raw_response   TEXT,                 -- デバッグ用
+    FOREIGN KEY(event_id) REFERENCES events(event_id)
+);
+
+CREATE INDEX IF NOT EXISTS idx_snap_event  ON price_snapshots(event_id);
+CREATE INDEX IF NOT EXISTS idx_snap_symbol ON price_snapshots(symbol);
+"""
+
+
+def init_db(conn: sqlite3.Connection) -> None:
+    """スキーマを作成（IF NOT EXISTS なので冪等）。"""
+    conn.executescript(SCHEMA)
+    conn.commit()
+    logger.debug(f"DB 初期化完了: {DB_PATH}")
+
+
+@contextmanager
+def get_conn():
+    """コンテキストマネージャ。parent dir は自動作成。"""
+    DB_PATH.parent.mkdir(parents=True, exist_ok=True)
+    conn = sqlite3.connect(str(DB_PATH))
+    conn.row_factory = sqlite3.Row
+    try:
+        yield conn
+    finally:
+        conn.close()
