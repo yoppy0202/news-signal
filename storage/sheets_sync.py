@@ -103,9 +103,11 @@ def open_spreadsheet():
         return None
     try:
         client = _get_gspread_client()
-        return client.open_by_key(SHEETS_ID)
+        ss = client.open_by_key(SHEETS_ID)
+        logger.info(f"[SHEETS] open_spreadsheet() 成功: {ss.title!r}")
+        return ss
     except Exception as e:
-        logger.error(f"[SHEETS] スプレッドシート接続失敗: {e}")
+        logger.exception(f"[SHEETS] スプレッドシート接続失敗: {e}")
         return None
 
 

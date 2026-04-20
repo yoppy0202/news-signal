@@ -186,12 +186,14 @@ def run(seed_existing: bool = True) -> dict:
     sent = 0
 
     # ---- バックエンド選択 ----
+    logger.info(f"[ALERT] SHEETS_ID='{SHEETS_ID}' (長さ={len(SHEETS_ID)})")
     use_sheets = bool(SHEETS_ID)
     ss = None
     sheets_notified_ids: set = set()
 
     if use_sheets:
         ss = open_spreadsheet()
+        logger.info(f"[ALERT] open_spreadsheet() 戻り値: {ss!r}")
         if ss is None:
             logger.warning("[ALERT] Sheets 接続失敗。SQLite フォールバックに切り替えます")
             use_sheets = False
