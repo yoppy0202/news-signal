@@ -29,6 +29,12 @@
 - `.github/workflows/collector.yml`：15分おきに実行、DB は actions/cache で一時保持
 - 3ファイル（SKILL/GOTCHAS/MASTER_LOG）初期化
 
+### 2026-04-20 — CLAUDE.md 作成・設定確認 (P-01b)
+- `~/.claude/settings.json` / `~/.claude/CLAUDE.md` の内容を確認
+- `news-signal/CLAUDE.md` が存在しなかったため新規作成
+- Permission Mode / コスト管理 / セキュリティ の3セクションを追記
+- ポイント: Surf API はバッチのみ、.env は gitignore 済み確認
+
 ### 次セッションの開始手順
 1. `MASTER_LOG.md` の Open タスクを確認
 2. 通常は P-02（ローカル初回実行）から。`python main.py` でエラーが出たら GOTCHAS.md に追記
