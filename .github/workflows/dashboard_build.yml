@@ -1,0 +1,59 @@
+name: dashboard_build
+
+on:
+  schedule:
+    # 毎時 10 分に実行（impact_calc の :05 完了後）
+    - cron: "10 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: dashboard_build
+  cancel-in-progress: false
+
+permissions:
+  contents: write   # docs/ への push に必要
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Restore SQLite DB (cache)
+        uses: actions/cache@v4
+        with:
+          path: data/news_signal.sqlite3
+          key: news-signal-db-${{ github.run_id }}
+          restore-keys: |
+            news-signal-db-
+
+      - name: Build dashboard data
+        env:
+          PYTHONUNBUFFERED: "1"
+          SHEETS_ID:          ${{ secrets.SHEETS_ID }}
+          GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
+        run: python dashboard/build.py
+
+      - name: Commit & push docs/
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          git diff --cached --quiet || git commit -m "chore: auto-update dashboard [skip ci]"
+          git push

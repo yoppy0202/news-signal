@@ -8,7 +8,8 @@
 | P-01 | Done         | High   | Phase 0 雛形作成（shared/storage/collectors/price/main.py + Actions）            |
 | P-02 | Done         | High   | Phase 1 実装（sentiment/DB拡張/RSSフィード追加/main.py更新）                     |
 | P-03 | Done         | High   | Phase 2 実装（price_impact / sheets_sync / impact_calc.yml）                     |
-| P-04 | Open         | Mid    | rekt.news の代替取得方法（RSS が HTML を返すため feedparser 不可）               |
+| P-04 | Done         | High   | Phase 3 実装（dashboard/build.py / docs/index.html / dashboard_build.yml）       |
+| P-05 | Open         | Mid    | rekt.news の代替取得方法（RSS が HTML を返すため feedparser 不可）               |
 | P-05 | Open         | Mid    | RSS_FEEDS を YAML/JSON 外出しして追加容易に                                       |
 | P-06 | Open         | Mid    | X (Twitter) collector を追加（Nitter or 公式API）                                |
 | P-07 | Open         | Mid    | 銘柄抽出を LLM / NER で高精度化                                                   |
@@ -83,6 +84,39 @@
 **GitHub Actions Secrets に追加が必要**
 - `SHEETS_ID`: スプレッドシート ID
 - `GOOGLE_CREDENTIALS`: サービスアカウント credentials.json の1行JSON
+
+### 2026-04-20 — Phase 3 実装 (P-04)
+- `dashboard/build.py` 新規作成
+  - SQLite から events / price_impact を取得して docs/data.json を生成
+  - SHEETS_ID 未設定時は SQLite 直接読み取り（フォールバック）
+  - event_type 別の統計（count / avg_1h / avg_24h / win_rate）を計算
+- `docs/index.html` 新規作成（ダークテーマ静的ダッシュボード）
+  - Chart.js（CDN）で event_type × +1h 平均変化率を棒グラフ表示
+  - イベントフィード（タイムライン形式、最新200件）
+  - sentiment / event_type をカラーバッジで表示
+  - プラス変化率=緑 / マイナス=赤 / モバイル対応
+- `.github/workflows/dashboard_build.yml` 新規作成（毎時:10分実行）
+  - docs/ に data.json を生成後、[skip ci] タグ付きで自動コミット & push
+
+**動作確認結果**
+| 指標 | 結果 |
+|---|---|
+| events 件数 | 172 件 |
+| data.json サイズ | 134,618 bytes |
+| stats.by_event_type (全タイプ) | 下表参照 |
+
+| event_type | 件数 | +1h 平均 | +24h 平均 | 勝率(+5%超) |
+|---|---|---|---|---|
+| hack       | 35 | +3.00% | +0.81% | 0.0% |
+| listing    | 2  | +5.49% | +0.91% | 100.0% |
+| macro      | 38 | +1.43% | +0.49% | 0.0% |
+| narrative  | 47 | +2.97% | +1.15% | 0.0% |
+| unknown    | 46 | +1.44% | +1.17% | 16.7% |
+| whale_move | 4  | N/A    | N/A    | N/A |
+
+**GitHub Pages 設定手順**
+1. リポジトリ Settings → Pages → Source: **GitHub Actions** を選択
+2. `dashboard_build.yml` が master に push されると自動デプロイ
 
 ### 次セッションの開始手順
 1. `MASTER_LOG.md` の Open タスクを確認

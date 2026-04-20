@@ -5,6 +5,13 @@
 「イベント → 価格反応」の観測データを貯めることを目的とする。
 将来的にシグナル化・Telegram通知へ拡張する。
 
+## Phase 3 のゴール（完了）
+- `dashboard/build.py`: SQLite → docs/data.json 生成（172 events + 統計）
+- `docs/index.html`: Chart.js ダークテーマ静的ダッシュボード
+  - event_type 別棒グラフ / タイムラインフィード / カラーバッジ / モバイル対応
+- `.github/workflows/dashboard_build.yml`: 毎時 :10 に自動ビルド → [skip ci] コミット
+- GitHub Pages Source: GitHub Actions で公開（Settings → Pages で設定）
+
 ## Phase 2 のゴール（完了）
 - `price_impact` テーブル: T+5m/15m/1h/4h/24h の価格変化率を計算・保存
 - Binance klines で過去時刻の確定価格を取得（Jupiter/DexScreener は直近のみ）
@@ -26,7 +33,7 @@
 - GitHub Actions で15分ごとに `main.py` を走らせる
 - ローカル動作確認まで（Render 等のデプロイはまだ）
 
-## ディレクトリ構成
+## ディレクトリ構成（Phase 3 時点）
 ```
 news-signal/
 ├── main.py                     # エントリポイント（RSS→感情分析→価格スナップショット）
@@ -55,6 +62,13 @@ news-signal/
 ├── price/
 │   ├── snapshot.py             # T0 価格取得（Binance/Jupiter/DexScreener）
 │   └── impact_calculator.py    # Phase 2: T+5m/15m/1h/4h/24h 価格変化率計算
+│
+├── dashboard/                  # Phase 3 追加
+│   └── build.py                # SQLite → docs/data.json 生成
+│
+├── docs/                       # GitHub Pages ルート
+│   ├── index.html              # Chart.js ダークテーマダッシュボード
+│   └── data.json               # 自動生成（git 管理）
 │
 ├── SKILL.md
 ├── GOTCHAS.md

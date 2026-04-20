@@ -2,6 +2,25 @@
 
 > エラー解決直後にここへ追記する。一般論ではなく、このプロジェクトで踏んだ地雷のみ記録。
 
+## Phase 3 — 実行時に踏んだ罠（2026-04-20）
+
+### GitHub Actions からの docs/ 自動 push に `permissions` 設定が必要
+- `dashboard_build.yml` でコミット & push するには `permissions: contents: write` が必要
+- デフォルトの `GITHUB_TOKEN` は read-only なため push が 403 になる
+- **対処**: workflow に `permissions: contents: write` を明示設定
+
+### dashboard_build.yml の自動コミットで CI ループを防ぐ
+- build.py が docs/data.json を更新 → push → また workflow がトリガーされる無限ループの恐れ
+- **対処**: コミットメッセージに `[skip ci]` を付与（GitHub Actions はこれを見て自動スキップ）
+
+### GitHub Pages の Source を "GitHub Actions" に設定しないと公開されない
+- リポジトリ Settings → Pages → Source を **"Deploy from a branch"** のまま放置すると
+  `docs/` に index.html があっても公開されない
+- **対処**: Source を **"GitHub Actions"** に変更するか、
+  別途 `actions/deploy-pages` を使う（現状は docs/ push 方式で運用）
+
+---
+
 ## Phase 2 — 実行時に踏んだ罠（2026-04-20）
 
 ### Jupiter v6 は過去の時刻価格を取れない

@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>news-signal dashboard</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", monospace;
+      font-size: 13px;
+      padding: 16px;
+    }
+
+    h1 { font-size: 1.2rem; color: #58a6ff; margin-bottom: 4px; }
+    h2 { font-size: 0.95rem; color: #8b949e; margin: 20px 0 8px; text-transform: uppercase; letter-spacing: .06em; }
+    .meta { color: #8b949e; font-size: 11px; margin-bottom: 16px; }
+
+    /* ---- 統計テーブル ---- */
+    .stats-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 24px;
+      font-size: 12px;
+    }
+    .stats-table th {
+      background: #161b22;
+      color: #8b949e;
+      text-align: left;
+      padding: 6px 10px;
+      border-bottom: 1px solid #30363d;
+    }
+    .stats-table td {
+      padding: 5px 10px;
+      border-bottom: 1px solid #21262d;
+    }
+    .stats-table tr:hover td { background: #161b22; }
+
+    /* ---- イベントフィード ---- */
+    #feed { width: 100%; }
+    .ev-row {
+      display: grid;
+      grid-template-columns: 110px 80px 80px 80px 90px 60px 60px 1fr;
+      gap: 4px;
+      align-items: center;
+      padding: 4px 6px;
+      border-bottom: 1px solid #21262d;
+      font-size: 11px;
+    }
+    .ev-row:hover { background: #161b22; }
+    .ev-header {
+      color: #8b949e;
+      font-weight: 600;
+      background: #161b22;
+      border-bottom: 1px solid #30363d;
+    }
+    .ev-row a { color: #58a6ff; text-decoration: none; }
+    .ev-row a:hover { text-decoration: underline; }
+
+    /* 変化率の色 */
+    .pos  { color: #3fb950; font-weight: 600; }
+    .neg  { color: #f85149; font-weight: 600; }
+    .zero { color: #8b949e; }
+
+    /* バッジ */
+    .badge {
+      display: inline-block;
+      padding: 1px 6px;
+      border-radius: 10px;
+      font-size: 10px;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+    .badge-hack      { background: #f851491a; color: #f85149; border: 1px solid #f8514940; }
+    .badge-listing   { background: #3fb9501a; color: #3fb950; border: 1px solid #3fb95040; }
+    .badge-macro     { background: #58a6ff1a; color: #58a6ff; border: 1px solid #58a6ff40; }
+    .badge-narrative { background: #d2a8ff1a; color: #d2a8ff; border: 1px solid #d2a8ff40; }
+    .badge-whale_move{ background: #ffa6571a; color: #ffa657; border: 1px solid #ffa65740; }
+    .badge-unknown   { background: #30363d;   color: #8b949e; border: 1px solid #30363d;   }
+
+    .badge-positive { background: #3fb9501a; color: #3fb950; border: 1px solid #3fb95040; }
+    .badge-negative { background: #f851491a; color: #f85149; border: 1px solid #f8514940; }
+    .badge-neutral  { background: #30363d;   color: #8b949e; border: 1px solid #30363d;   }
+
+    /* チャートエリア */
+    .chart-wrap {
+      max-width: 600px;
+      margin: 0 0 24px;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 6px;
+      padding: 12px;
+    }
+
+    /* レスポンシブ */
+    @media (max-width: 768px) {
+      .ev-row { grid-template-columns: 1fr 1fr 1fr; }
+      .ev-row .col-time  { grid-column: 1 / -1; color: #8b949e; }
+      .ev-row .col-title { grid-column: 1 / -1; }
+      .ev-row .col-5m,
+      .ev-row .col-15m   { display: none; }
+    }
+
+    #loading { color: #8b949e; padding: 24px 0; }
+    #error   { color: #f85149; padding: 24px 0; }
+  </style>
+</head>
+<body>
+
+<h1>📡 news-signal dashboard</h1>
+<p class="meta" id="meta">データを読み込み中…</p>
+
+<div id="loading">⏳ Loading...</div>
+<div id="error" style="display:none"></div>
+<div id="content" style="display:none">
+
+  <h2>Event Type 統計</h2>
+  <table class="stats-table" id="stats-table">
+    <thead>
+      <tr>
+        <th>Event Type</th>
+        <th>件数</th>
+        <th>+1h 平均変化率</th>
+        <th>+24h 平均変化率</th>
+        <th>勝率 (+5%超 / 1h)</th>
+      </tr>
+    </thead>
+    <tbody id="stats-body"></tbody>
+  </table>
+
+  <div class="chart-wrap">
+    <canvas id="barChart" height="160"></canvas>
+  </div>
+
+  <h2>イベントフィード（最新 200 件）</h2>
+  <div id="feed">
+    <div class="ev-row ev-header">
+      <span>時刻 (UTC)</span>
+      <span>ソース</span>
+      <span>トークン</span>
+      <span>Event Type</span>
+      <span>Sentiment</span>
+      <span>+1h</span>
+      <span>+24h</span>
+      <span>タイトル</span>
+    </div>
+    <div id="feed-rows"></div>
+  </div>
+
+</div>
+
+<script>
+const PCT_FIELDS = ['t_plus_5m','t_plus_15m','t_plus_1h','t_plus_4h','t_plus_24h'];
+
+function pctHtml(val) {
+  if (val == null) return '<span class="zero">—</span>';
+  const cls = val > 0 ? 'pos' : val < 0 ? 'neg' : 'zero';
+  return `<span class="${cls}">${val > 0 ? '+' : ''}${val.toFixed(2)}%</span>`;
+}
+
+function badgeHtml(type, value) {
+  return `<span class="badge badge-${value}">${value}</span>`;
+}
+
+function fmtTime(ts) {
+  if (!ts) return '—';
+  const d = new Date(ts);
+  return d.toISOString().slice(0, 16).replace('T', ' ');
+}
+
+async function main() {
+  const loading = document.getElementById('loading');
+  const errorEl = document.getElementById('error');
+  const content = document.getElementById('content');
+
+  let data;
+  try {
+    const res = await fetch('data.json?t=' + Date.now());
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    data = await res.json();
+  } catch(e) {
+    loading.style.display = 'none';
+    errorEl.style.display = 'block';
+    errorEl.textContent = '❌ data.json の読み込みに失敗: ' + e.message;
+    return;
+  }
+
+  loading.style.display = 'none';
+  content.style.display = 'block';
+
+  document.getElementById('meta').textContent =
+    `生成: ${fmtTime(data.generated_at)} UTC  |  events: ${data.events.length} 件`;
+
+  // ---- 統計テーブル ----
+  const statsBody = document.getElementById('stats-body');
+  const byType = data.stats?.by_event_type || {};
+  const sortedTypes = Object.keys(byType).sort((a, b) => byType[b].count - byType[a].count);
+
+  sortedTypes.forEach(etype => {
+    const s = byType[etype];
+    const tr = document.createElement('tr');
+    tr.innerHTML = `
+      <td>${badgeHtml('event_type', etype)}</td>
+      <td>${s.count}</td>
+      <td>${pctHtml(s.avg_1h)}</td>
+      <td>${pctHtml(s.avg_24h)}</td>
+      <td>${s.win_rate_1h_gt5pct != null ? s.win_rate_1h_gt5pct + '%' : '—'}</td>
+    `;
+    statsBody.appendChild(tr);
+  });
+
+  // ---- Bar Chart: event_type × avg_1h ----
+  const chartLabels = sortedTypes.filter(t => byType[t].avg_1h != null);
+  const chartValues = chartLabels.map(t => byType[t].avg_1h);
+  const chartColors = chartValues.map(v => v >= 0 ? 'rgba(63,185,80,0.7)' : 'rgba(248,81,73,0.7)');
+
+  new Chart(document.getElementById('barChart'), {
+    type: 'bar',
+    data: {
+      labels: chartLabels,
+      datasets: [{
+        label: '+1h 平均変化率 (%)',
+        data: chartValues,
+        backgroundColor: chartColors,
+        borderColor: chartColors.map(c => c.replace('0.7', '1')),
+        borderWidth: 1,
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: { labels: { color: '#e6edf3' } }
+      },
+      scales: {
+        x: { ticks: { color: '#8b949e' }, grid: { color: '#21262d' } },
+        y: { ticks: { color: '#8b949e' }, grid: { color: '#21262d' } }
+      }
+    }
+  });
+
+  // ---- イベントフィード ----
+  const feedRows = document.getElementById('feed-rows');
+  const eventsToShow = data.events.slice(0, 200);
+
+  eventsToShow.forEach(ev => {
+    const div = document.createElement('div');
+    div.className = 'ev-row';
+    const imp = ev.impact || {};
+    const titleHtml = ev.url
+      ? `<a href="${ev.url}" target="_blank" rel="noopener">${ev.title || '(no title)'}</a>`
+      : (ev.title || '(no title)');
+
+    div.innerHTML = `
+      <span class="col-time">${fmtTime(ev.timestamp_utc)}</span>
+      <span>${(ev.source || '').replace('rss:', '')}</span>
+      <span>${ev.tokens.slice(0, 3).join(', ') || '—'}</span>
+      <span>${badgeHtml('event_type', ev.event_type || 'unknown')}</span>
+      <span>${badgeHtml('sentiment', ev.sentiment_label || 'neutral')}</span>
+      <span>${pctHtml(imp.t_plus_1h ?? null)}</span>
+      <span>${pctHtml(imp.t_plus_24h ?? null)}</span>
+      <span class="col-title">${titleHtml}</span>
+    `;
+    feedRows.appendChild(div);
+  });
+}
+
+main();
+</script>
+</body>
+</html>
