@@ -2,10 +2,11 @@
 storage/db.py — SQLite 初期化と接続ヘルパ
 
 【テーブル】
-  - events         : RSS 等で収集したイベント本文
-                     Phase 1: sentiment / sentiment_label / event_type カラム追加
-  - price_snapshots: イベントに紐づく T0 価格スナップショット
-  - price_impact   : Phase 2: T+5m/15m/1h/4h/24h の価格変化率
+  - events           : RSS 等で収集したイベント本文
+                       Phase 1: sentiment / sentiment_label / event_type カラム追加
+  - price_snapshots  : イベントに紐づく T0 価格スナップショット
+  - price_impact     : Phase 2: T+5m/15m/1h/4h/24h の価格変化率
+  - notified_events  : Phase 4: Telegram 送信済み event_id の記録（重複防止）
 
 使用法:
   from storage.db import get_conn, init_db
@@ -70,6 +71,11 @@ CREATE TABLE IF NOT EXISTS price_impact (
 
 CREATE INDEX IF NOT EXISTS idx_impact_event  ON price_impact(event_id);
 CREATE INDEX IF NOT EXISTS idx_impact_token  ON price_impact(token);
+
+CREATE TABLE IF NOT EXISTS notified_events (
+    event_id     TEXT PRIMARY KEY,
+    notified_at  TEXT NOT NULL
+);
 """
 
 

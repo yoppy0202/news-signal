@@ -5,6 +5,17 @@
 「イベント → 価格反応」の観測データを貯めることを目的とする。
 将来的にシグナル化・Telegram通知へ拡張する。
 
+## Phase 4 のゴール（完了）
+- `notifier/alert.py`: 高インパクトイベントを Telegram に通知
+  - 条件①: `event_type == "hack"` AND `sentiment_label == "negative"`
+  - 条件②: `event_type == "listing"` AND `pct_change_1h > 10.0`
+  - 条件③: `abs(pct_change_1h) > 15.0`（急騰・急落）
+- `notified_events` テーブル: 送信済み event_id を記録して重複送信を防止
+- 初回シードパターン: `notified_events` が空の場合に全件登録して遡及通知を回避
+- dry-run 対応: BOT_TOKEN/CHAT_ID 未設定ではログのみ出力
+- `message_thread_id` でスーパーグループのトピック宛送信（int 変換必須）
+- `collector.yml` に `TELEGRAM_TOPIC_NEWS_IMPACT` シークレットを追加
+
 ## Phase 3 のゴール（完了）
 - `dashboard/build.py`: SQLite → docs/data.json 生成（172 events + 統計）
 - `docs/index.html`: Chart.js ダークテーマ静的ダッシュボード
@@ -33,17 +44,18 @@
 - GitHub Actions で15分ごとに `main.py` を走らせる
 - ローカル動作確認まで（Render 等のデプロイはまだ）
 
-## ディレクトリ構成（Phase 3 時点）
+## ディレクトリ構成（Phase 4 時点）
 ```
 news-signal/
-├── main.py                     # エントリポイント（RSS→感情分析→価格スナップショット）
+├── main.py                     # エントリポイント（RSS→感情分析→価格スナップショット→アラート）
 ├── requirements.txt
 ├── .env.example
 ├── .gitignore
 ├── .github/
 │   └── workflows/
-│       ├── collector.yml       # 15分おき: RSS収集 + sentiment + snapshot
-│       └── impact_calc.yml     # 毎時:05: price_impact計算 + Sheets sync
+│       ├── collector.yml       # 15分おき: RSS収集 + sentiment + snapshot + alert
+│       ├── impact_calc.yml     # 毎時:05: price_impact計算 + Sheets sync
+│       └── dashboard_build.yml # 毎時:10: data.json生成 + GitHub Pages デプロイ
 │
 ├── shared/
 │   ├── fetch_utils.py          # requests ラッパー + fetch_json
@@ -62,6 +74,9 @@ news-signal/
 ├── price/
 │   ├── snapshot.py             # T0 価格取得（Binance/Jupiter/DexScreener）
 │   └── impact_calculator.py    # Phase 2: T+5m/15m/1h/4h/24h 価格変化率計算
+│
+├── notifier/                   # Phase 4 追加
+│   └── alert.py                # 高インパクトイベント Telegram 通知
 │
 ├── dashboard/                  # Phase 3 追加
 │   └── build.py                # SQLite → docs/data.json 生成
@@ -90,6 +105,7 @@ news-signal/
 ## 将来の拡張ポイント（メモ）
 - X(Twitter) collector の追加
 - LLM による銘柄抽出精度向上（現状は正規表現＋主要ティッカーホワイトリスト）
-- n分後 / 1h / 24h の価格追跡 → リターン計算
-- Telegram 通知（`shared/telegram_utils.py` を再利用）
+- rekt.news の代替取得方法（現状 RSS は HTML を返すため feedparser 不可）
 - Render へのバックグラウンドワーカー化
+- DB を外部ストレージに移行（S3 / R2 / Supabase 等）
+- gspread v6 対応（oauth2client → google-auth への移行）

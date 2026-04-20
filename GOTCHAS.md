@@ -2,6 +2,24 @@
 
 > エラー解決直後にここへ追記する。一般論ではなく、このプロジェクトで踏んだ地雷のみ記録。
 
+## Phase 4 — 実行時に踏んだ罠（2026-04-20）
+
+### 初回実行時の遡及通知に注意
+- `notified_events` が空の初回起動時、未通知扱いで全 172 件が判定対象になる
+- **対処**: `seed_existing=True`（デフォルト）で起動時に既存イベント全件をシードしてからアラート判定
+- `run(seed_existing=False)` は 2 回目以降のみ使う（またはテスト専用）
+
+### Telegram message_thread_id は整数型
+- スーパーグループのトピックに送るには `message_thread_id` を int で渡す必要がある
+- 環境変数はすべて str なので `int(TOPIC_ID)` の変換が必要
+- 変換失敗時はエラーではなく無視してメイントピックに送る設計
+
+### pct_change_1h が NULL のイベントでも hack+negative は通知される
+- price_impact がない（価格取得失敗）イベントでも条件 1（hack+negative）は成立する
+- これは意図した設計（exploit ニュースは価格変化率なしでも重要）
+
+---
+
 ## Phase 3 — 実行時に踏んだ罠（2026-04-20）
 
 ### GitHub Actions からの docs/ 自動 push に `permissions` 設定が必要

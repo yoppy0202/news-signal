@@ -13,7 +13,7 @@
 | P-05 | Open         | Mid    | RSS_FEEDS を YAML/JSON 外出しして追加容易に                                       |
 | P-06 | Open         | Mid    | X (Twitter) collector を追加（Nitter or 公式API）                                |
 | P-07 | Open         | Mid    | 銘柄抽出を LLM / NER で高精度化                                                   |
-| P-08 | Open         | Low    | Telegram 通知（`shared/telegram_utils.py` 再利用）                                |
+| P-08 | Done         | High   | Phase 4 実装（notifier/alert.py / notified_events テーブル / collector.yml更新）   |
 | P-09 | Open         | Low    | Render バックグラウンドワーカー化（cron-job.org 併用 or 常駐）                    |
 | P-10 | Open         | Low    | DB を外部ストレージに移行（S3 / R2 / Supabase 等）                                |
 | P-11 | Open         | Low    | gspread v6 対応（oauth2client → google-auth への移行）                            |
@@ -118,7 +118,33 @@
 1. リポジトリ Settings → Pages → Source: **GitHub Actions** を選択
 2. `dashboard_build.yml` が master に push されると自動デプロイ
 
+### 2026-04-20 — Phase 4 実装 (P-08)
+- `notifier/alert.py` 新規作成
+  - 通知条件: ① hack+negative ② listing +1h>10% ③ |pct_change_1h|>15%
+  - 初回シード: `notified_events` が空の場合、既存イベント全件を登録して遡及通知を防止
+  - 重複防止: `notified_events` テーブルで送信済み event_id を管理
+  - dry-run: `TELEGRAM_BOT_TOKEN` / `TELEGRAM_CHAT_ID` 未設定時はログのみ
+  - `message_thread_id` で Telegram スーパーグループトピック指定（int変換必要）
+- `storage/db.py` に `notified_events` テーブル追加（SCHEMA + `init_db` で自動作成）
+- `main.py` に Step 4: `run_alert()` を追加
+- `.github/workflows/collector.yml` に `TELEGRAM_TOPIC_NEWS_IMPACT` シークレット追加
+- `.env.example` に `TELEGRAM_TOPIC_NEWS_IMPACT=` 追加
+- `GOTCHAS.md` に Phase 4 の罠を追記（初回遡及通知 / message_thread_id 型 / NULL pct_change 挙動）
+
+**動作確認結果**
+| 指標 | 結果 |
+|---|---|
+| 初回シード | 172 件を notified_events に登録（遡及通知なし）|
+| 未通知評価 | candidates=0 / sent=0（172件すべてシード済み）|
+| dry-run 動作 | [ALERT][DRY-RUN] ログ出力確認 ✓ |
+| メッセージフォーマット | hack+negative イベントで整形確認 ✓ |
+
+**GitHub Actions Secrets に追加が必要**
+- `TELEGRAM_BOT_TOKEN`: Bot Token（`@BotFather` から取得）
+- `TELEGRAM_CHAT_ID`: 送信先チャット ID（グループ ID）
+- `TELEGRAM_TOPIC_NEWS_IMPACT`: スーパーグループのトピック ID（省略可）
+
 ### 次セッションの開始手順
 1. `MASTER_LOG.md` の Open タスクを確認
-2. 通常は P-02（ローカル初回実行）から。`python main.py` でエラーが出たら GOTCHAS.md に追記
-3. RSS_FEEDS の拡張を検討するなら P-03
+2. GitHub Actions Secrets に Telegram 認証情報を設定して本番通知をテスト
+3. RSS_FEEDS の拡張を検討するなら P-05（rekt.news 代替取得方法）
