@@ -5,6 +5,13 @@
 「イベント → 価格反応」の観測データを貯めることを目的とする。
 将来的にシグナル化・Telegram通知へ拡張する。
 
+## Phase 2 のゴール（完了）
+- `price_impact` テーブル: T+5m/15m/1h/4h/24h の価格変化率を計算・保存
+- Binance klines で過去時刻の確定価格を取得（Jupiter/DexScreener は直近のみ）
+- `storage/sheets_sync.py`: SQLite → Google Sheets の差分フラッシュ
+  - `sheets_sync_state` で最終 rowid/id を追跡
+- `.github/workflows/impact_calc.yml`: 毎時 :05 に impact_calc + sheets_sync を実行
+
 ## Phase 1 のゴール（完了）
 - VADER 感情分析 + キーワードルールベースで `event_type` を分類
 - `events` テーブルに `sentiment / sentiment_label / event_type` カラム追加（ALTER TABLE）
@@ -26,23 +33,28 @@ news-signal/
 ├── requirements.txt
 ├── .env.example
 ├── .gitignore
-├── .github/workflows/collector.yml  # 15分おきに main.py 実行
+├── .github/
+│   └── workflows/
+│       ├── collector.yml       # 15分おき: RSS収集 + sentiment + snapshot
+│       └── impact_calc.yml     # 毎時:05: price_impact計算 + Sheets sync
 │
-├── shared/                     # boatrace-signal から流用
+├── shared/
 │   ├── fetch_utils.py          # requests ラッパー + fetch_json
 │   └── telegram_utils.py       # get_env / send_message
 │
 ├── storage/
-│   └── db.py                   # SQLite 初期化 + マイグレーション
+│   ├── db.py                   # SQLite 初期化 + マイグレーション
+│   └── sheets_sync.py          # Phase 2: SQLite → Google Sheets 差分フラッシュ
 │
 ├── collectors/
-│   └── rss_collector.py        # feedparser による RSS ポーリング（7媒体）
+│   └── rss_collector.py        # feedparser RSS ポーリング（7媒体）
 │
-├── processors/                 # Phase 1 追加
+├── processors/
 │   └── sentiment.py            # VADER感情分析 + キーワードevent_type分類
 │
 ├── price/
-│   └── snapshot.py             # シンボル/CA抽出 + 価格取得
+│   ├── snapshot.py             # T0 価格取得（Binance/Jupiter/DexScreener）
+│   └── impact_calculator.py    # Phase 2: T+5m/15m/1h/4h/24h 価格変化率計算
 │
 ├── SKILL.md
 ├── GOTCHAS.md

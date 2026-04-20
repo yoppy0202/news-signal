@@ -4,7 +4,8 @@ storage/db.py — SQLite 初期化と接続ヘルパ
 【テーブル】
   - events         : RSS 等で収集したイベント本文
                      Phase 1: sentiment / sentiment_label / event_type カラム追加
-  - price_snapshots: イベントに紐づく価格スナップショット
+  - price_snapshots: イベントに紐づく T0 価格スナップショット
+  - price_impact   : Phase 2: T+5m/15m/1h/4h/24h の価格変化率
 
 使用法:
   from storage.db import get_conn, init_db
@@ -55,6 +56,20 @@ CREATE TABLE IF NOT EXISTS price_snapshots (
 
 CREATE INDEX IF NOT EXISTS idx_snap_event  ON price_snapshots(event_id);
 CREATE INDEX IF NOT EXISTS idx_snap_symbol ON price_snapshots(symbol);
+
+CREATE TABLE IF NOT EXISTS price_impact (
+    id             INTEGER PRIMARY KEY AUTOINCREMENT,
+    event_id       TEXT NOT NULL,
+    token          TEXT NOT NULL,       -- シンボル or CA
+    window_label   TEXT NOT NULL,       -- 't_plus_5m' | 't_plus_15m' | 't_plus_1h' | 't_plus_4h' | 't_plus_24h'
+    price          REAL,               -- 対象時刻の価格
+    pct_change     REAL,               -- (price - price_t0) / price_t0 * 100
+    calculated_at  TEXT NOT NULL,
+    UNIQUE(event_id, token, window_label)
+);
+
+CREATE INDEX IF NOT EXISTS idx_impact_event  ON price_impact(event_id);
+CREATE INDEX IF NOT EXISTS idx_impact_token  ON price_impact(token);
 """
 
 

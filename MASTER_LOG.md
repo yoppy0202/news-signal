@@ -7,14 +7,15 @@
 |------|--------------|--------|----------------------------------------------------------------------------------|
 | P-01 | Done         | High   | Phase 0 雛形作成（shared/storage/collectors/price/main.py + Actions）            |
 | P-02 | Done         | High   | Phase 1 実装（sentiment/DB拡張/RSSフィード追加/main.py更新）                     |
-| P-03 | Open         | Mid    | rekt.news の代替取得方法（RSS が HTML を返すため feedparser 不可）               |
-| P-04 | Open         | Mid    | RSS_FEEDS を YAML/JSON 外出しして追加容易に                                       |
-| P-05 | Open         | Mid    | X (Twitter) collector を追加（Nitter or 公式API）                                |
-| P-06 | Open         | Mid    | 銘柄抽出を LLM / NER で高精度化                                                   |
-| P-07 | Open         | Low    | n 分後 / 1h / 24h のフォロー価格取得 → リターン列                                 |
+| P-03 | Done         | High   | Phase 2 実装（price_impact / sheets_sync / impact_calc.yml）                     |
+| P-04 | Open         | Mid    | rekt.news の代替取得方法（RSS が HTML を返すため feedparser 不可）               |
+| P-05 | Open         | Mid    | RSS_FEEDS を YAML/JSON 外出しして追加容易に                                       |
+| P-06 | Open         | Mid    | X (Twitter) collector を追加（Nitter or 公式API）                                |
+| P-07 | Open         | Mid    | 銘柄抽出を LLM / NER で高精度化                                                   |
 | P-08 | Open         | Low    | Telegram 通知（`shared/telegram_utils.py` 再利用）                                |
 | P-09 | Open         | Low    | Render バックグラウンドワーカー化（cron-job.org 併用 or 常駐）                    |
 | P-10 | Open         | Low    | DB を外部ストレージに移行（S3 / R2 / Supabase 等）                                |
+| P-11 | Open         | Low    | gspread v6 対応（oauth2client → google-auth への移行）                            |
 
 ## セッションログ
 
@@ -57,6 +58,31 @@
 | event_type       | narrative: 47 / macro: 38 / hack: 35 / 分類なし: 46 / whale_move: 4 / listing: 2 |
 | price_snapshots  | 160 件（binance: 33 / none: 127）              |
 | 価格取得成功例   | BTC $75,277 / SOL $84.84 / XRP $1.41          |
+
+### 2026-04-20 — Phase 2 実装 (P-03)
+- `price/impact_calculator.py` 新規作成
+  - T+5m/15m/1h/4h/24h の価格変化率を計算
+  - Binance klines（過去時刻対応）→ Jupiter v6（直近 5 分以内のみ）→ DexScreener
+  - `price_impact` テーブルへ INSERT OR IGNORE
+- `storage/db.py` に `price_impact` テーブル追加
+- `storage/sheets_sync.py` 新規作成
+  - `ns_events` / `ns_price_impact` タブを自動作成して差分追記
+  - `sheets_sync_state` テーブルで最終同期 rowid/id を管理
+  - GOOGLE_CREDENTIALS（JSON環境変数）または credentials.json で認証
+- `.github/workflows/impact_calc.yml` 新規作成（毎時 :05 分に実行）
+- `requirements.txt` に gspread / oauth2client 追加
+
+**動作確認結果**
+| 指標 | 結果 |
+|---|---|
+| 計算 window 数 | 96 件（5 window × 20 events ≒ 100 - 未来ウィンドウ除外）|
+| pct_change 成功例 | DOGE +7.91%（t_plus_1h）/ ETH +6.17%（t_plus_4h）/ SOL -5.89%（t_plus_1h）|
+| Sheets sync | events=172 / price_impact=96 → Google Sheets 書き込み成功 ✓ |
+| Sheets sync（未設定時） | SHEETS_ID 未設定 → 正常スキップ（ok=False）|
+
+**GitHub Actions Secrets に追加が必要**
+- `SHEETS_ID`: スプレッドシート ID
+- `GOOGLE_CREDENTIALS`: サービスアカウント credentials.json の1行JSON
 
 ### 次セッションの開始手順
 1. `MASTER_LOG.md` の Open タスクを確認

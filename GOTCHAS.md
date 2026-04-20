@@ -2,6 +2,28 @@
 
 > エラー解決直後にここへ追記する。一般論ではなく、このプロジェクトで踏んだ地雷のみ記録。
 
+## Phase 2 — 実行時に踏んだ罠（2026-04-20）
+
+### Jupiter v6 は過去の時刻価格を取れない
+- `https://price.jup.ag/v6/price?ids={ca}` は「現在価格」のみ返す
+- T+1h 等の過去ウィンドウ計算には使えない
+- **対処**: `age_minutes <= 5` の場合のみ Jupiter/DexScreener を使用し、過去データは Binance klines のみ。CEX シンボル以外の過去価格は pct_change=NULL で保存
+
+### Binance klines の startTime は ms 単位
+- `startTime=1234567890` (秒) を渡すと数十年前のデータが返ってくる
+- `int(dt.timestamp() * 1000)` に変換して渡す必要がある
+
+### gspread v6 では `gspread.authorize()` が非推奨
+- 現バージョン（6.x）では `gspread.authorize(creds)` を使うと DeprecationWarning が出る
+- 将来は `google.oauth2.service_account.Credentials` + `gspread.Client` への移行が必要
+- Phase 2 では旧 oauth2client を継続使用（sol_signal_bot と実績のある組み合わせ）
+
+### sheets_sync_state テーブルの ON CONFLICT 構文
+- SQLite 3.24 以降で使える `INSERT ... ON CONFLICT DO UPDATE`（UPSERT）を使用
+- Python 3.11 + SQLite 3.39+ なら問題ないが、古い環境では `INSERT OR REPLACE` に変更が必要
+
+---
+
 ## Phase 1 — 実行時に踏んだ罠（2026-04-20）
 
 ### rekt.news/rss/ が XML ではなく HTML を返す
