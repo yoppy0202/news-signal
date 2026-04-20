@@ -2,6 +2,36 @@
 
 > エラー解決直後にここへ追記する。一般論ではなく、このプロジェクトで踏んだ地雷のみ記録。
 
+## Phase 5 — 設計上の注意点（2026-04-20）
+
+### Telethon のセッションは GitHub Actions で毎回リセットされる
+- デフォルトの `SQLiteSession` はファイル（`*.session`）に保存される
+- GitHub Actions ではファイルが毎回消えるため、毎回電話番号認証が要求されてしまう
+- **対処**: `StringSession` を使ってセッションを文字列化し、
+  `TELEGRAM_SESSION` として GitHub Secrets に保存する
+- 初回認証は `scripts/telegram_auth.py` をローカルで実行して文字列を取得
+
+### StringSession は TELEGRAM_SESSION が空文字の場合も注意
+- `StringSession("")` は有効なインスタンスを返すが、実質的に空セッション
+- 空文字をそのまま渡すと認証なしで接続を試みて失敗する
+- **対処**: `SESSION` が truthy な場合のみ `StringSession(SESSION)` を使う
+
+### Telethon の get_messages は新しい順で返す
+- `client.get_messages(entity, limit=50)` は最新50件を**降順（新しい順）**で返す
+- 24時間フィルタは `if msg_date < cutoff: break` で OK（古い順に出てきたら即 break）
+- `reverse=True` にすると古い順になるため24時間フィルタに break が使えなくなる
+
+### TELEGRAM_API_ID は整数型
+- 環境変数はすべて文字列のため `int(API_ID)` の変換が必要
+- 変換失敗時は収集をスキップしてエラーログを出す（exception を飛ばさない）
+
+### 公開チャンネルでも get_entity が失敗する場合がある
+- チャンネルのユーザー名が変更・削除・または存在しない場合 `UsernameNotOccupiedError`
+- プライベートチャンネルは `ChannelPrivateError`
+- どちらも except で catch してそのチャンネルをスキップする
+
+---
+
 ## Phase 4 バグ修正 — 実行時に踏んだ罠（2026-04-20）
 
 ### CoinGecko Simple Price を1シンボルずつ呼ぶと 429 になる

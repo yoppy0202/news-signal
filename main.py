@@ -1,11 +1,12 @@
 """
 main.py — news-signal エントリポイント
 
-【処理順序】（Phase 4）
-  1. RSS コレクタ      → events テーブルに保存
-  2. 感情分析          → events.sentiment / sentiment_label / event_type を UPDATE
-  3. 価格スナップショット → price_snapshots に保存
-  4. アラート通知      → 高インパクトイベントを Telegram に通知
+【処理順序】（Phase 5）
+  1. RSS コレクタ           → events テーブルに保存
+  1b. Telegram コレクタ     → events テーブルに保存（TELEGRAM_API_ID 未設定時スキップ）
+  2. 感情分析               → events.sentiment / sentiment_label / event_type を UPDATE
+  3. 価格スナップショット    → price_snapshots に保存
+  4. アラート通知            → 高インパクトイベントを Telegram に通知
 
 【実行】
   - ローカル: python main.py
@@ -18,6 +19,7 @@ import sys
 import time
 
 from collectors.rss_collector import run_rss_collector
+from collectors.telegram_collector import run_telegram_collector
 from notifier.alert import run as run_alert
 from price.snapshot import run_price_snapshot
 from processors.sentiment import run_sentiment
@@ -48,6 +50,13 @@ def main() -> int:
     except Exception as e:
         log.exception(f"RSS collector 失敗: {e}")
         new_events = 0
+
+    # 1b. Telegram 収集（TELEGRAM_API_ID 未設定時は自動スキップ）
+    try:
+        tg_events = run_telegram_collector()
+        new_events += tg_events
+    except Exception as e:
+        log.exception(f"Telegram collector 失敗: {e}")
 
     # 2. 感情分析
     try:

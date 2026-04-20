@@ -5,6 +5,15 @@
 「イベント → 価格反応」の観測データを貯めることを目的とする。
 将来的にシグナル化・Telegram通知へ拡張する。
 
+## Phase 5 のゴール（完了）
+- `collectors/telegram_collector.py`: Telethon で公開チャンネルを収集
+  - 対象: whale_alert / CoinDesk / cointelegraph / solana_news_official / defipulse
+  - StringSession で GitHub Actions 対応（セッションを Secrets で永続化）
+  - TELEGRAM_API_ID 未設定時は自動スキップ（main.py に変更不要）
+- `scripts/telegram_auth.py`: ローカル初回認証 → セッション文字列を出力
+- `main.py`: Step 1b として Telegram Collector を追加
+- `collector.yml`: TELEGRAM_API_ID / TELEGRAM_API_HASH / TELEGRAM_SESSION を追加
+
 ## Phase 4 のゴール（完了）
 - `notifier/alert.py`: 高インパクトイベントを Telegram に通知
   - 条件①: `event_type == "hack"` AND `sentiment_label == "negative"`
@@ -44,10 +53,10 @@
 - GitHub Actions で15分ごとに `main.py` を走らせる
 - ローカル動作確認まで（Render 等のデプロイはまだ）
 
-## ディレクトリ構成（Phase 4 時点）
+## ディレクトリ構成（Phase 5 時点）
 ```
 news-signal/
-├── main.py                     # エントリポイント（RSS→感情分析→価格スナップショット→アラート）
+├── main.py                     # エントリポイント（RSS→TG→感情分析→価格スナップショット→アラート）
 ├── requirements.txt
 ├── .env.example
 ├── .gitignore
@@ -66,7 +75,11 @@ news-signal/
 │   └── sheets_sync.py          # Phase 2: SQLite → Google Sheets 差分フラッシュ
 │
 ├── collectors/
-│   └── rss_collector.py        # feedparser RSS ポーリング（7媒体）
+│   ├── rss_collector.py        # feedparser RSS ポーリング（7媒体）
+│   └── telegram_collector.py   # Phase 5: Telethon 公開チャンネル収集
+│
+├── scripts/
+│   └── telegram_auth.py        # Phase 5: ローカル初回認証 → セッション文字列生成
 │
 ├── processors/
 │   └── sentiment.py            # VADER感情分析 + キーワードevent_type分類

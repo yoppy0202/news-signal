@@ -15,6 +15,7 @@
 | P-07 | Open         | Mid    | 銘柄抽出を LLM / NER で高精度化                                                   |
 | P-08 | Done         | High   | Phase 4 実装（notifier/alert.py / notified_events テーブル / collector.yml更新）   |
 | P-12 | Done         | High   | バグ修正2件（notified_events永続化→Sheets / Binance451→CoinGecko）                |
+| P-13 | Done         | High   | Phase 5 実装（Telegram チャンネル収集 / StringSession / 初回認証スクリプト）       |
 | P-09 | Open         | Low    | Render バックグラウンドワーカー化（cron-job.org 併用 or 常駐）                    |
 | P-10 | Open         | Low    | DB を外部ストレージに移行（S3 / R2 / Supabase 等）                                |
 | P-11 | Open         | Low    | gspread v6 対応（oauth2client → google-auth への移行）                            |
@@ -184,7 +185,39 @@
 - `ns_notified` タブが自動作成される
 - 初回シードで既存 event_id が全件登録される
 
+### 2026-04-20 — Phase 5 実装 (P-13)
+- `collectors/telegram_collector.py` 新規作成
+  - 公開チャンネル5件（whale_alert / CoinDesk / cointelegraph / solana_news_official / defipulse）
+  - 直近24時間・最大50件/チャンネル・3秒スリープ
+  - StringSession（GitHub Actions 対応）/ ファイルセッション（ローカル）を自動切替
+  - FloodWaitError / ChannelPrivateError / UsernameNotOccupiedError を個別に catch してスキップ
+  - TELEGRAM_API_ID 未設定時は即スキップ（main.py 側でも例外を握りつぶさない）
+- `scripts/telegram_auth.py` 新規作成
+  - StringSession で初回認証 → セッション文字列を標準出力に表示
+  - 環境変数 → 対話入力の優先順
+- `main.py` 更新: Step 1b として `run_telegram_collector()` を RSS の直後に追加
+- `.github/workflows/collector.yml` 更新: `TELEGRAM_API_ID` / `TELEGRAM_API_HASH` / `TELEGRAM_SESSION` を追加
+- `requirements.txt` に `telethon>=1.36.0` を追加
+- `.env.example` に Phase 5 用の4変数を追加
+
+**ローカル初回認証の手順**
+1. `my.telegram.org` でアプリを作成し API_ID / API_HASH を取得
+2. `.env` に以下を追記：
+   ```
+   TELEGRAM_API_ID=12345678
+   TELEGRAM_API_HASH=abcdef...
+   TELEGRAM_PHONE=+819012345678
+   ```
+3. `python scripts/telegram_auth.py` を実行し、認証コードを入力
+4. 出力された文字列を GitHub Secrets の `TELEGRAM_SESSION` に登録
+
+**GitHub Actions Secrets に追加が必要**
+- `TELEGRAM_API_ID`: my.telegram.org で取得した App api_id
+- `TELEGRAM_API_HASH`: my.telegram.org で取得した App api_hash
+- `TELEGRAM_SESSION`: `scripts/telegram_auth.py` で生成したセッション文字列
+
 ### 次セッションの開始手順
 1. `MASTER_LOG.md` の Open タスクを確認
-2. GitHub Actions Secrets に `SHEETS_ID` + `GOOGLE_CREDENTIALS` を設定して Sheets バックエンドをテスト
-3. GitHub Actions Secrets に Telegram 認証情報を設定して本番通知をテスト
+2. `python scripts/telegram_auth.py` を実行してセッション文字列を取得
+3. GitHub Actions Secrets に `TELEGRAM_API_ID` / `TELEGRAM_API_HASH` / `TELEGRAM_SESSION` を登録
+4. GitHub Actions Secrets に `SHEETS_ID` + `GOOGLE_CREDENTIALS` を設定して Sheets バックエンドをテスト
