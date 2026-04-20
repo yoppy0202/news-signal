@@ -3,6 +3,7 @@ storage/db.py — SQLite 初期化と接続ヘルパ
 
 【テーブル】
   - events         : RSS 等で収集したイベント本文
+                     Phase 1: sentiment / sentiment_label / event_type カラム追加
   - price_snapshots: イベントに紐づく価格スナップショット
 
 使用法:
@@ -57,11 +58,32 @@ CREATE INDEX IF NOT EXISTS idx_snap_symbol ON price_snapshots(symbol);
 """
 
 
+# Phase 1: events テーブルに追加するカラム（既存DBへの ALTER TABLE 用）
+MIGRATIONS = [
+    "ALTER TABLE events ADD COLUMN sentiment       REAL",
+    "ALTER TABLE events ADD COLUMN sentiment_label TEXT",
+    "ALTER TABLE events ADD COLUMN event_type      TEXT",
+]
+
+
 def init_db(conn: sqlite3.Connection) -> None:
-    """スキーマを作成（IF NOT EXISTS なので冪等）。"""
+    """スキーマを作成（IF NOT EXISTS なので冪等）。マイグレーションも実行。"""
     conn.executescript(SCHEMA)
     conn.commit()
+    _run_migrations(conn)
     logger.debug(f"DB 初期化完了: {DB_PATH}")
+
+
+def _run_migrations(conn: sqlite3.Connection) -> None:
+    """MIGRATIONS リストを順に試し、既存カラムへの追加はスキップ。"""
+    for sql in MIGRATIONS:
+        try:
+            conn.execute(sql)
+            conn.commit()
+            logger.info(f"  Migration 適用: {sql}")
+        except Exception:
+            # 'duplicate column name' は正常スキップ
+            pass
 
 
 @contextmanager

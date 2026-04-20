@@ -1,9 +1,10 @@
 """
-main.py — news-signal Phase 0 エントリポイント
+main.py — news-signal エントリポイント
 
-【処理】
-  1. RSS コレクタを実行し events テーブルに保存
-  2. 価格スナップショット処理で銘柄抽出→価格取得→price_snapshots に保存
+【処理順序】（Phase 1）
+  1. RSS コレクタ    → events テーブルに保存
+  2. 感情分析        → events.sentiment / sentiment_label / event_type を UPDATE
+  3. 価格スナップショット → price_snapshots に保存
 
 【実行】
   - ローカル: python main.py
@@ -17,6 +18,7 @@ import time
 
 from collectors.rss_collector import run_rss_collector
 from price.snapshot import run_price_snapshot
+from processors.sentiment import run_sentiment
 from storage.db import DB_PATH, get_conn, init_db
 
 
@@ -34,7 +36,7 @@ def main() -> int:
 
     t0 = time.time()
 
-    # 0. DB 初期化（冪等）
+    # 0. DB 初期化（冪等 + マイグレーション）
     with get_conn() as conn:
         init_db(conn)
 
@@ -45,7 +47,14 @@ def main() -> int:
         log.exception(f"RSS collector 失敗: {e}")
         new_events = 0
 
-    # 2. 価格スナップショット
+    # 2. 感情分析
+    try:
+        analyzed = run_sentiment()
+    except Exception as e:
+        log.exception(f"sentiment 失敗: {e}")
+        analyzed = 0
+
+    # 3. 価格スナップショット
     try:
         saved_snapshots = run_price_snapshot()
     except Exception as e:
@@ -54,8 +63,8 @@ def main() -> int:
 
     elapsed = time.time() - t0
     log.info(
-        f"完了: 新規イベント {new_events} 件 / スナップショット {saved_snapshots} 件 "
-        f"/ 経過 {elapsed:.1f}s"
+        f"完了: 新規イベント {new_events} 件 / 感情分析 {analyzed} 件 / "
+        f"スナップショット {saved_snapshots} 件 / 経過 {elapsed:.1f}s"
     )
     return 0
 

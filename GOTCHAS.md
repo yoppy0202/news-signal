@@ -2,6 +2,24 @@
 
 > エラー解決直後にここへ追記する。一般論ではなく、このプロジェクトで踏んだ地雷のみ記録。
 
+## Phase 1 — 実行時に踏んだ罠（2026-04-20）
+
+### rekt.news/rss/ が XML ではなく HTML を返す
+- `feedparser` が `bozo=1` を立て、entries が空になる
+- ログ: `text/html; charset=utf-8 is not an XML media type`
+- **対処**: 現状は bozo チェックでスキップ済み。rekt.news は別途 API/スクレイピングで対応が必要
+
+### Jupiter Price API v2 がシンボル文字列に 404 を返す
+- `https://api.jup.ag/price/v2?ids=BTC` → 404（Solana mint アドレスのみ受け付ける）
+- BTC/ETH/SOL/XRP など CEX 系シンボルをそのまま Jupiter に投げると 3 回リトライして全部失敗、大幅に遅くなる（1 シンボル約 6 秒）
+- **対処**: `fetch_price` を修正。`chain == 'solana'` かつ CA がある場合のみ Jupiter を使用し、その他は直接 Binance へ
+
+### SQLite ALTER TABLE の重複実行
+- 既に同名カラムがある状態で `ALTER TABLE ... ADD COLUMN` を実行すると例外が飛ぶ
+- **対処**: `_run_migrations` で try/except してスキップ（`duplicate column name` は正常フロー）
+
+---
+
 ## 初期セットアップ（Phase 0）
 現時点で実運用で踏んだ罠はまだ無い。予期される注意点のみメモとして残す。
 

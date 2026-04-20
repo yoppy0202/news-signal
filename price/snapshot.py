@@ -159,14 +159,19 @@ def _dexscreener_price(ca: str) -> Optional[Tuple[float, dict]]:
 def fetch_price(token: Dict[str, str]) -> Optional[Dict]:
     """Jupiter → Binance → DexScreener の順にフォールバック。
     戻り値: {price_usd, source, raw_response} or None
+
+    【最適化】
+    - symbol のみ（CA なし）の主要 CEX トークンは Jupiter をスキップ
+      → Jupiter Price API v2 はシンボル文字列に 404 を返すため無駄なリトライを防ぐ
+    - CA が Solana mint（非 EVM）の場合のみ Jupiter を試す
     """
     symbol = token.get("symbol") or ""
     ca = token.get("contract_addr") or ""
+    chain = token.get("chain") or "unknown"
 
-    # 1. Jupiter (ca 優先)
-    jup_key = ca or symbol
-    if jup_key:
-        r = _jupiter_price(jup_key)
+    # 1. Jupiter (Solana mint CA がある場合のみ)
+    if ca and chain == "solana":
+        r = _jupiter_price(ca)
         if r:
             price, raw = r
             return {"price_usd": price, "source": "jupiter", "raw_response": raw}
@@ -178,7 +183,7 @@ def fetch_price(token: Dict[str, str]) -> Optional[Dict]:
             price, raw = r
             return {"price_usd": price, "source": "binance", "raw_response": raw}
 
-    # 3. DexScreener (ca)
+    # 3. DexScreener (CA がある場合)
     if ca:
         r = _dexscreener_price(ca)
         if r:

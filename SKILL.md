@@ -5,7 +5,14 @@
 「イベント → 価格反応」の観測データを貯めることを目的とする。
 将来的にシグナル化・Telegram通知へ拡張する。
 
-## Phase 0 のゴール（本セッション範囲）
+## Phase 1 のゴール（完了）
+- VADER 感情分析 + キーワードルールベースで `event_type` を分類
+- `events` テーブルに `sentiment / sentiment_label / event_type` カラム追加（ALTER TABLE）
+- RSS フィード拡充（rekt.news / Solana 公式）
+- `main.py` の処理順序を rss → sentiment → snapshot に更新
+- Jupiter への無駄リトライ排除（Solana CA がある場合のみ使用）
+
+## Phase 0 のゴール（完了）
 - RSS フィードをポーリングして `events` テーブルに保存
 - 本文から銘柄（シンボル / CA）を抽出し、Jupiter → Binance → DexScreener の順で価格取得
 - `price_snapshots` テーブルに保存
@@ -15,7 +22,7 @@
 ## ディレクトリ構成
 ```
 news-signal/
-├── main.py                     # エントリポイント（RSS→価格スナップショット）
+├── main.py                     # エントリポイント（RSS→感情分析→価格スナップショット）
 ├── requirements.txt
 ├── .env.example
 ├── .gitignore
@@ -26,10 +33,13 @@ news-signal/
 │   └── telegram_utils.py       # get_env / send_message
 │
 ├── storage/
-│   └── db.py                   # SQLite 初期化 (events / price_snapshots)
+│   └── db.py                   # SQLite 初期化 + マイグレーション
 │
 ├── collectors/
-│   └── rss_collector.py        # feedparser による RSS ポーリング
+│   └── rss_collector.py        # feedparser による RSS ポーリング（7媒体）
+│
+├── processors/                 # Phase 1 追加
+│   └── sentiment.py            # VADER感情分析 + キーワードevent_type分類
 │
 ├── price/
 │   └── snapshot.py             # シンボル/CA抽出 + 価格取得

@@ -3,17 +3,18 @@
 > 新しいタスクは P-XX で採番、セッション終了前に必ず更新。
 
 ## タスク一覧
-| ID   | 状態         | 優先度 | 概要                                                                 |
-|------|--------------|--------|----------------------------------------------------------------------|
-| P-01 | Done         | High   | Phase 0 雛形作成（shared/storage/collectors/price/main.py + Actions）|
-| P-02 | Open         | High   | ローカルで `python main.py` が成功することを確認（初回実行）          |
-| P-03 | Open         | Mid    | RSS_FEEDS を YAML/JSON 外出しして追加容易に                           |
-| P-04 | Open         | Mid    | X (Twitter) collector を追加（Nitter or 公式API）                     |
-| P-05 | Open         | Mid    | 銘柄抽出を LLM / NER で高精度化                                       |
-| P-06 | Open         | Low    | n 分後 / 1h / 24h のフォロー価格取得 → リターン列                     |
-| P-07 | Open         | Low    | Telegram 通知（`shared/telegram_utils.py` 再利用）                    |
-| P-08 | Open         | Low    | Render バックグラウンドワーカー化（cron-job.org 併用 or 常駐）        |
-| P-09 | Open         | Low    | DB を外部ストレージに移行（S3 / R2 / Supabase 等）                    |
+| ID   | 状態         | 優先度 | 概要                                                                             |
+|------|--------------|--------|----------------------------------------------------------------------------------|
+| P-01 | Done         | High   | Phase 0 雛形作成（shared/storage/collectors/price/main.py + Actions）            |
+| P-02 | Done         | High   | Phase 1 実装（sentiment/DB拡張/RSSフィード追加/main.py更新）                     |
+| P-03 | Open         | Mid    | rekt.news の代替取得方法（RSS が HTML を返すため feedparser 不可）               |
+| P-04 | Open         | Mid    | RSS_FEEDS を YAML/JSON 外出しして追加容易に                                       |
+| P-05 | Open         | Mid    | X (Twitter) collector を追加（Nitter or 公式API）                                |
+| P-06 | Open         | Mid    | 銘柄抽出を LLM / NER で高精度化                                                   |
+| P-07 | Open         | Low    | n 分後 / 1h / 24h のフォロー価格取得 → リターン列                                 |
+| P-08 | Open         | Low    | Telegram 通知（`shared/telegram_utils.py` 再利用）                                |
+| P-09 | Open         | Low    | Render バックグラウンドワーカー化（cron-job.org 併用 or 常駐）                    |
+| P-10 | Open         | Low    | DB を外部ストレージに移行（S3 / R2 / Supabase 等）                                |
 
 ## セッションログ
 
@@ -34,6 +35,28 @@
 - `news-signal/CLAUDE.md` が存在しなかったため新規作成
 - Permission Mode / コスト管理 / セキュリティ の3セクションを追記
 - ポイント: Surf API はバッチのみ、.env は gitignore 済み確認
+
+### 2026-04-20 — Phase 1 実装 (P-02)
+- `processors/sentiment.py` 新規作成
+  - VADER で compound スコア（-1.0〜1.0）計算
+  - キーワードルールで `event_type` 分類（listing/hack/whale_move/macro/narrative）
+- `storage/db.py` 拡張: `_run_migrations` 関数で既存DB に sentiment/sentiment_label/event_type カラムを ALTER TABLE 追加
+- `collectors/rss_collector.py` に rekt.news / solana_official フィードを追加
+  - rekt.news は RSS が HTML を返すため feedparser で取得不可（GOTCHAS 追記）
+- `main.py` を rss → sentiment → snapshot の順に更新
+- `requirements.txt` に vaderSentiment>=3.3.2 追加
+- `price/snapshot.py` 最適化: Solana CA がない場合は Jupiter をスキップ
+  - Jupiter Price API v2 はシンボル文字列で 404 → 1シンボルあたり 6 秒の無駄を排除
+  - 実行時間 62秒 → 26秒 に短縮
+
+**動作確認結果（172件）**
+| 指標              | 結果                                           |
+|------------------|------------------------------------------------|
+| 取得イベント数    | 172 件（前回からの差分 28 件追加）             |
+| sentiment_label  | positive: 79 / negative: 56 / neutral: 37      |
+| event_type       | narrative: 47 / macro: 38 / hack: 35 / 分類なし: 46 / whale_move: 4 / listing: 2 |
+| price_snapshots  | 160 件（binance: 33 / none: 127）              |
+| 価格取得成功例   | BTC $75,277 / SOL $84.84 / XRP $1.41          |
 
 ### 次セッションの開始手順
 1. `MASTER_LOG.md` の Open タスクを確認

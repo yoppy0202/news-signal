@@ -25,14 +25,15 @@ from storage.db import get_conn, init_db
 logger = logging.getLogger(__name__)
 
 
-# Phase 0: 暗号通貨系の主要メディアを中心にスタート
-# 後でYAML化する想定
+# Phase 1: exploit専門メディアとSolana公式を追加
 RSS_FEEDS: List[Tuple[str, str]] = [
     ("coindesk",        "https://www.coindesk.com/arc/outboundfeeds/rss/"),
     ("cointelegraph",   "https://cointelegraph.com/rss"),
     ("decrypt",         "https://decrypt.co/feed"),
     ("theblock",        "https://www.theblock.co/rss.xml"),
     ("bitcoinmagazine", "https://bitcoinmagazine.com/feed"),
+    ("rekt",            "https://rekt.news/rss/"),           # exploit専門
+    ("solana_official", "https://solana.com/news/rss.xml"),  # Solana公式
 ]
 
 
