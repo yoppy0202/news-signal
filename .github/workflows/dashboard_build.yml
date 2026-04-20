@@ -11,9 +11,9 @@ concurrency:
   cancel-in-progress: false
 
 permissions:
-  contents: write   # docs/ への push に必要
-  pages: write
-  id-token: write
+  contents: write   # docs/ への git push に必要
+  pages: write      # GitHub Pages デプロイに必要
+  id-token: write   # OIDC 認証に必要
 
 jobs:
   build:
@@ -50,10 +50,29 @@ jobs:
           GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
         run: python dashboard/build.py
 
-      - name: Commit & push docs/
+      - name: Commit & push docs/ (data.json のバージョン管理用)
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/
           git diff --cached --quiet || git commit -m "chore: auto-update dashboard [skip ci]"
           git push
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs/
+
+  deploy:
+    needs: build
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
