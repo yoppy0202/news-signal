@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-04-20T19:21:54.489453+00:00",
+  "generated_at": "2026-04-20T20:59:26.821328+00:00",
   "events": [
+    {
+      "event_id": "964d205d-8575-4271-b178-0007288bcffa",
+      "source": "rss:bitcoinmagazine",
+      "title": "Bitcoin Price Retakes $76,500 as Iran Tensions and Oil Volatility Drive Market Uncertainty",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-retakes-76500-as-iran-tensions-and-oil-volatility-drive-market-uncertainty",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-20T20:03:06+00:00",
+      "raw_text": "Bitcoin Price Retakes $76,500 as Iran Tensions and Oil Volatility Drive Market Uncertainty\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Bitcoin-Price-Retakes-76500-as-Iran-Tensions-and-Oil-Volatil",
+      "impact": {}
+    },
+    {
+      "event_id": "81ef0273-0ee4-4533-b3b7-122cb61126cd",
+      "source": "rss:theblock",
+      "title": "DeFi losses top $600 million in weeks as Kelp DAO exploit drags TVL to one-year low",
+      "url": "https://www.theblock.co/post/398154/defi-losses-1-billion-weeks-kelp-dao-exploit-drags-tvl-one-year-low?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-20T19:56:32+00:00",
+      "raw_text": "DeFi losses top $600 million in weeks as Kelp DAO exploit drags TVL to one-year low\n\n<p>Kelp Dao, Aave and LayerZero are pointing the finger at each other and it is still unclear how losses will be distributed.</p>\n\n<p>Kelp Dao, Aave and LayerZero are pointing the finger at each other and it is stil",
+      "impact": {}
+    },
+    {
+      "event_id": "118b6050-4db9-47db-a7e2-52157111e6ab",
+      "source": "rss:theblock",
+      "title": "Grayscale’s amended Hyperliquid ETF filing drops Coinbase as custodian, names Anchorage",
+      "url": "https://www.theblock.co/post/398161/grayscales-amended-hyperliquid-etf-filing-drops-coinbase-custodian-anchorage?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-20T19:12:44+00:00",
+      "raw_text": "Grayscale’s amended Hyperliquid ETF filing drops Coinbase as custodian, names Anchorage\n\n<p>Grayscale previously tapped Anchorage as a secondary custodian for a portion of the firm’s Bitcoin and Ethereum trusts’ holdings.</p>\n\n<p>Grayscale previously tapped Anchorage as a secondary custodian for a p",
+      "impact": {}
+    },
     {
       "event_id": "afea2ca1-29e8-409b-894c-d193d4dafd73",
       "source": "rss:bitcoinmagazine",
@@ -14,16 +50,37 @@
       "impact": {}
     },
     {
+      "event_id": "7711ded1-a28e-4983-ab53-b800eda7bf62",
+      "source": "rss:cointelegraph",
+      "title": "One year under Paul Atkins, SEC's crypto stance shows break with past",
+      "url": "https://cointelegraph.com/news/paul-atkins-one-year-sec-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-20T19:02:33+00:00",
+      "raw_text": "One year under Paul Atkins, SEC's crypto stance shows break with past\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"One year under Paul Atkins, SEC's crypto stance shows break with past\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
+      "impact": {}
+    },
+    {
       "event_id": "4faf95a3-3863-48e4-a6ca-6ebbbba174c1",
       "source": "rss:cointelegraph",
       "title": "Price predictions 4/20: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA",
       "url": "https://cointelegraph.com/news/price-predictions-4-20-spx-dxy-btc-eth-bnb-xrp-sol-doge-hype-ada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC",
+        "ETH",
+        "BNB",
+        "XRP",
+        "SOL"
+      ],
       "timestamp_utc": "2026-04-20T18:52:11+00:00",
       "raw_text": "Price predictions 4/20: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 4/20: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0188,
+        "t_plus_15m": -0.1064
+      }
     },
     {
       "event_id": "0982f312-c406-4859-a28c-ebf310ad6708",
@@ -448,7 +505,8 @@
       "impact": {
         "t_plus_5m": -0.2393,
         "t_plus_15m": 0.07,
-        "t_plus_1h": -0.9279
+        "t_plus_1h": -0.9279,
+        "t_plus_4h": 0.9282
       }
     },
     {
@@ -2764,17 +2822,23 @@
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 48,
-        "avg_1h": 17.99,
-        "avg_24h": 37.56,
-        "win_rate_1h_gt5pct": 50.0
-      },
       "narrative": {
-        "count": 66,
+        "count": 67,
         "avg_1h": -0.24,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 38,
+        "avg_1h": 37.12,
+        "avg_24h": 20.12,
+        "win_rate_1h_gt5pct": 100.0
+      },
+      "macro": {
+        "count": 50,
+        "avg_1h": 17.99,
+        "avg_24h": 37.56,
+        "win_rate_1h_gt5pct": 50.0
       },
       "whale_move": {
         "count": 5,
@@ -2793,12 +2857,6 @@
         "avg_1h": 25.43,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 50.0
-      },
-      "hack": {
-        "count": 37,
-        "avg_1h": 37.12,
-        "avg_24h": 20.12,
-        "win_rate_1h_gt5pct": 100.0
       }
     }
   }
