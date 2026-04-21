@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-04-21T21:56:31.233705+00:00",
+  "generated_at": "2026-04-21T22:56:16.761862+00:00",
   "events": [
+    {
+      "event_id": "b8fbf3fe-ea16-4108-a539-f2e8f274f7f7",
+      "source": "rss:coindesk",
+      "title": "Crypto's great hope in Senate's Clarity Act still has a path to survive tight calendar",
+      "url": "https://www.coindesk.com/news-analysis/2026/04/21/crypto-s-great-hope-in-senate-s-clarity-act-still-has-a-path-to-survive-tight-calendar",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-21T22:45:47+00:00",
+      "raw_text": "Crypto's great hope in Senate's Clarity Act still has a path to survive tight calendar",
+      "impact": {}
+    },
+    {
+      "event_id": "f520ed96-8a42-46b6-a690-a2c1499e51f7",
+      "source": "rss:decrypt",
+      "title": "Coinbase Flags Proof-of-Stake Chains Like Ethereum, Solana as Potential Quantum Risks",
+      "url": "https://decrypt.co/365079/coinbase-proof-of-stake-blockchains-ethereum-solana-quantum-risk",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-21T21:54:18+00:00",
+      "raw_text": "Coinbase Flags Proof-of-Stake Chains Like Ethereum, Solana as Potential Quantum Risks\n\nAdvisory council says validator signatures and wallet cryptography could be vulnerable if future quantum computers break current encryption.",
+      "impact": {}
+    },
+    {
+      "event_id": "6b82f969-fcc3-4ba2-8540-1572726f6107",
+      "source": "rss:coindesk",
+      "title": "Inside the hunt for Satoshi: Filmmakers chase crypto’s biggest mystery",
+      "url": "https://www.coindesk.com/coindesk-news/2026/04/21/inside-the-hunt-for-satoshi-filmmakers-chase-crypto-s-biggest-mystery",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-21T21:54:18+00:00",
+      "raw_text": "Inside the hunt for Satoshi: Filmmakers chase crypto’s biggest mystery",
+      "impact": {}
+    },
+    {
+      "event_id": "f5fe7e17-b3c0-4fc6-b00f-196ccee485cf",
+      "source": "rss:decrypt",
+      "title": "Core Scientific Reveals $3.3 Billion Junk-Bond Sale to Pivot Further from Bitcoin Mining to AI",
+      "url": "https://decrypt.co/365080/core-scientific-3-3-billion-junk-bond-sale-pivot-bitcoin-mining-ai",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-21T21:53:33+00:00",
+      "raw_text": "Core Scientific Reveals $3.3 Billion Junk-Bond Sale to Pivot Further from Bitcoin Mining to AI\n\nCore Scientific, a Bitcoin miner turned data center operator, said that it plans to offer $3.3 billion worth of speculative-grade debt.",
+      "impact": {}
+    },
+    {
+      "event_id": "556ceb8e-f335-4db3-bc71-036fec8d9ec8",
+      "source": "rss:cointelegraph",
+      "title": "Kalshi mulls crypto expansion with perpetual futures launch: Report",
+      "url": "https://cointelegraph.com/news/kalshi-eyes-crypto-expansion-with-perpetual-futures-launch-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-21T21:08:46+00:00",
+      "raw_text": "Kalshi mulls crypto expansion with perpetual futures launch: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi mulls crypto expansion with perpetual futures launch: Report\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5",
+      "impact": {}
+    },
     {
       "event_id": "405ef04f-4a29-4c83-94da-743952d54c87",
       "source": "rss:coindesk",
@@ -20,10 +80,16 @@
       "url": "https://www.theblock.co/post/398372/etherealize-updates-long-term-eth-price-prediction-250000?utm_source=rss&utm_medium=rss",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-04-21T20:40:33+00:00",
       "raw_text": "Etherealize updates long-term ETH price prediction to $250,000\n\n<p>ETH would trade above $250,000 if Ethereum can capture the same monetary premium as bitcoin and gold carry as stores-of-value.</p>\n\n<p>ETH would trade above $250,000 if Ethereum can capture the same monetary premium as bitcoin and go",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0558,
+        "t_plus_15m": 0.0753,
+        "t_plus_1h": -0.0393
+      }
     },
     {
       "event_id": "40970974-414c-44d1-bad8-54991f0b6583",
@@ -32,10 +98,16 @@
       "url": "https://decrypt.co/292448/microstrategy-biggest-bitcoin-buys",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-04-21T20:33:50+00:00",
       "raw_text": "Strategy Now Holds $62 Billion in Bitcoin—These Are Its Biggest BTC Buys\n\nHow did Michael Saylor's firm amass a record stash of Bitcoin? Here's a look back at how Strategy made such massive gains.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0244,
+        "t_plus_15m": -0.0058,
+        "t_plus_1h": -0.1482
+      }
     },
     {
       "event_id": "3f9a7c86-ba01-447d-985f-eabd24cb600f",
@@ -159,7 +231,8 @@
       "raw_text": "Kalshi CEO Tarek Mansour To Speak at Bitcoin 2026 Conference on Prediction Markets and BTC\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Screenshot-2026-04-21-at-2.15.40-PM.png\" style=\"display: blo",
       "impact": {
         "t_plus_5m": 0.7554,
-        "t_plus_15m": 0.9992
+        "t_plus_15m": 0.9992,
+        "t_plus_1h": 0.6377
       }
     },
     {
@@ -4546,14 +4619,14 @@
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 114,
-        "avg_1h": 0.02,
+        "count": 117,
+        "avg_1h": 0.01,
         "avg_24h": 0.15,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 102,
-        "avg_1h": -0.2,
+        "count": 104,
+        "avg_1h": -0.19,
         "avg_24h": -0.61,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -4571,7 +4644,7 @@
       },
       "whale_move": {
         "count": 7,
-        "avg_1h": -0.54,
+        "avg_1h": -0.15,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
