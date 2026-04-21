@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-04-21T06:11:38.550110+00:00",
+  "generated_at": "2026-04-21T08:59:29.581216+00:00",
   "events": [
+    {
+      "event_id": "3ab562b0-db8c-4965-9b38-63bb59c24ffa",
+      "source": "rss:cointelegraph",
+      "title": "Inside the 'fake police raid' that forced a $1M Bitcoin transfer",
+      "url": "https://cointelegraph.com/news/crypto-coercion-attack-fake-police-raid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-21T06:59:51+00:00",
+      "raw_text": "Inside the 'fake police raid' that forced a $1M Bitcoin transfer\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Inside the 'fake police raid' that forced a $1M Bitcoin transfer\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2lud",
+      "impact": {}
+    },
+    {
+      "event_id": "8c1cd680-d371-4bc2-9a9d-3176b216acef",
+      "source": "rss:theblock",
+      "title": "Bank of Korea’s new chief vows to push CBDC, deposit tokens; leaves out stablecoins",
+      "url": "https://www.theblock.co/post/398223/bank-of-korea-new-chief-cbdc-deposit-tokens?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-21T06:53:22+00:00",
+      "raw_text": "Bank of Korea’s new chief vows to push CBDC, deposit tokens; leaves out stablecoins\n\n<p>BOK Governor Shin Hyun-song previously took a negative stance on stablecoins during his tenure at the BIS.</p>\n\n<p>BOK Governor Shin Hyun-song previously took a negative stance on stablecoins during his tenure at",
+      "impact": {}
+    },
+    {
+      "event_id": "e2de156c-64bd-4c8f-ba83-1097be4b9982",
+      "source": "rss:cointelegraph",
+      "title": "Singapore’s OCBC launches tokenized gold fund on Ethereum and Solana",
+      "url": "https://cointelegraph.com/news/ocbc-tokenized-gold-fund-ethereum-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-21T06:41:15+00:00",
+      "raw_text": "Singapore’s OCBC launches tokenized gold fund on Ethereum and Solana\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Singapore’s OCBC launches tokenized gold fund on Ethereum and Solana\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zM",
+      "impact": {}
+    },
+    {
+      "event_id": "7e464f01-abc6-4183-bfdc-5db393b80163",
+      "source": "rss:cointelegraph",
+      "title": "Arbitrum freezes $71M of Ether connected to Kelp exploit",
+      "url": "https://cointelegraph.com/news/arbitrum-freezes-71m-ether-connected-kelp-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-21T06:00:03+00:00",
+      "raw_text": "Arbitrum freezes $71M of Ether connected to Kelp exploit\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Arbitrum freezes $71M of Ether connected to Kelp exploit\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvb",
+      "impact": {}
+    },
+    {
+      "event_id": "cc5f710f-2305-4770-8aae-d5b79fce9afe",
+      "source": "rss:cointelegraph",
+      "title": "US senator urges delay of CLARITY Act Senate markup until May: Report",
+      "url": "https://cointelegraph.com/news/us-senator-asks-clarity-senate-markup-pushed-back-april?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-21T05:57:19+00:00",
+      "raw_text": "US senator urges delay of CLARITY Act Senate markup until May: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US senator urges delay of CLARITY Act Senate markup until May: Report\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
+      "impact": {}
+    },
+    {
+      "event_id": "7a8635dc-47a2-459a-b1f6-f3d2b8c35a39",
+      "source": "rss:coindesk",
+      "title": "Arbitrum freezes $71 million in ether tied to Kelp DAO exploit",
+      "url": "https://www.coindesk.com/markets/2026/04/21/arbitrum-freezes-usd71-million-in-ether-tied-to-kelp-dao-exploit",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-21T05:55:47+00:00",
+      "raw_text": "Arbitrum freezes $71 million in ether tied to Kelp DAO exploit",
+      "impact": {}
+    },
     {
       "event_id": "a8d2def7-d877-42f6-b433-dbcd86b56677",
       "source": "rss:coindesk",
@@ -20,10 +92,15 @@
       "url": "https://www.coindesk.com/markets/2026/04/21/ripple-wants-the-xrp-ledger-to-be-quantum-proof-by-2028-here-is-its-plan",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-04-21T05:43:23+00:00",
       "raw_text": "Ripple wants the XRP Ledger to be quantum-proof by 2028. Here is its plan",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0855,
+        "t_plus_15m": 0.1284
+      }
     },
     {
       "event_id": "0dcc06bf-d4cf-495f-a2fd-db026619bfff",
@@ -68,10 +145,16 @@
       "url": "https://www.theblock.co/post/398212/arbitrum-freezes-eth-kelp-dao-exploit?utm_source=rss&utm_medium=rss",
       "event_type": "hack",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-04-21T04:26:50+00:00",
       "raw_text": "Arbitrum freezes $71 million worth of ETH stolen in Kelp DAO exploit\n\n<p>The Arbitrum Security Council said the frozen funds will only be moved by further action through Arbitrum governance.</p>\n\n<p>The Arbitrum Security Council said the frozen funds will only be moved by further action through Arbi",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2104,
+        "t_plus_15m": -0.1803,
+        "t_plus_1h": 0.1701
+      }
     },
     {
       "event_id": "62436fc4-4ea3-43f4-b692-8d83da4cdf63",
@@ -119,6 +202,18 @@
       "tokens": [],
       "timestamp_utc": "2026-04-20T21:41:59+00:00",
       "raw_text": "Playdate Gaming Handheld Maker Bans Generative AI Tools for Development\n\nPanic, the firm behind the Playdate handheld, now prohibits creative AI applications while preserving developer productivity aids.",
+      "impact": {}
+    },
+    {
+      "event_id": "35bbfe52-df21-4d7c-94be-e845808f9b56",
+      "source": "rss:cointelegraph",
+      "title": "Last Week Tonight’s John Oliver says he won‘t placate prediction markets users",
+      "url": "https://cointelegraph.com/news/last-week-tonight-john-oliver-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-20T21:30:53+00:00",
+      "raw_text": "Last Week Tonight’s John Oliver says he won‘t placate prediction markets users\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Last Week Tonight’s John Oliver says he won‘t placate prediction markets users\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/imag",
       "impact": {}
     },
     {
@@ -3064,26 +3159,26 @@
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 75,
-        "avg_1h": -0.24,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
+      "hack": {
+        "count": 46,
+        "avg_1h": 27.88,
+        "avg_24h": 20.12,
+        "win_rate_1h_gt5pct": 75.0
       },
       "unknown": {
-        "count": 63,
+        "count": 64,
         "avg_1h": -0.15,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 43,
-        "avg_1h": 37.12,
-        "avg_24h": 20.12,
-        "win_rate_1h_gt5pct": 100.0
+      "narrative": {
+        "count": 77,
+        "avg_1h": -0.24,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 52,
+        "count": 53,
         "avg_1h": 17.99,
         "avg_24h": 37.56,
         "win_rate_1h_gt5pct": 50.0
