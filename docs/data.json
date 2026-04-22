@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-04-22T08:04:38.799726+00:00",
+  "generated_at": "2026-04-22T09:47:50.541526+00:00",
   "events": [
+    {
+      "event_id": "e2442de7-8516-4ae2-b279-eeb2c73c4a03",
+      "source": "rss:coindesk",
+      "title": "Another DeFi protocol loses millions in hack days after KelpDAO breach",
+      "url": "https://www.coindesk.com/markets/2026/04/22/another-defi-protocol-loses-millions-in-hack-days-after-kelpdao-breach",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-22T07:45:45+00:00",
+      "raw_text": "Another DeFi protocol loses millions in hack days after KelpDAO breach",
+      "impact": {}
+    },
+    {
+      "event_id": "4a885f07-9a88-4d51-83ed-f553db820665",
+      "source": "rss:theblock",
+      "title": "Russia passes crypto bill in first reading; permits use in foreign trade settlements",
+      "url": "https://www.theblock.co/post/398402/russias-crypto-bill-first-reading?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-22T06:59:18+00:00",
+      "raw_text": "Russia passes crypto bill in first reading; permits use in foreign trade settlements\n\n<p>The bill would prohibit the use of crypto for domestic payments but allow its use in foreign economic activities, according to TASS.</p>\n\n<p>The bill would prohibit the use of crypto for domestic payments but al",
+      "impact": {}
+    },
+    {
+      "event_id": "e41b8536-f77d-42a8-a886-ed3b3587a15d",
+      "source": "rss:cointelegraph",
+      "title": "AI drives surge in ‘bug bounty’ reports, but the ‘slop’ is rising too",
+      "url": "https://cointelegraph.com/news/ai-crypto-bug-bounty-submissions-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-22T06:57:50+00:00",
+      "raw_text": "AI drives surge in ‘bug bounty’ reports, but the ‘slop’ is rising too\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"AI drives surge in ‘bug bounty’ reports, but the ‘slop’ is rising too\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
+      "impact": {}
+    },
+    {
+      "event_id": "d091ae7c-b338-480d-817d-52ac52053b45",
+      "source": "rss:coindesk",
+      "title": "Bitcoin's 'Coinbase premium' just posted its longest bullish streak since October's record high of $126,000",
+      "url": "https://www.coindesk.com/markets/2026/04/22/bitcoin-s-coinbase-premium-just-posted-its-longest-bullish-streak-since-october-s-record-high-of-usd126-000",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-22T06:24:09+00:00",
+      "raw_text": "Bitcoin's 'Coinbase premium' just posted its longest bullish streak since October's record high of $126,000",
+      "impact": {}
+    },
+    {
+      "event_id": "c801bece-c5e7-47cc-985b-329fe88870fd",
+      "source": "rss:cointelegraph",
+      "title": "Privacy protocol Umbra shuts front end to stifle Kelp exploiters",
+      "url": "https://cointelegraph.com/news/privacy-protocol-umbra-shuts-front-end-in-attempt-to-stifle-kelp-exploiters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-22T06:11:20+00:00",
+      "raw_text": "Privacy protocol Umbra shuts front end to stifle Kelp exploiters\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Privacy protocol Umbra shuts front end to stifle Kelp exploiters\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2lud",
+      "impact": {}
+    },
     {
       "event_id": "9e5c002c-462d-4e49-b3aa-4b0f72d7e0fd",
       "source": "rss:cointelegraph",
@@ -124,7 +184,8 @@
       "impact": {
         "t_plus_5m": 0.1182,
         "t_plus_15m": 0.1659,
-        "t_plus_1h": 0.1314
+        "t_plus_1h": 0.1314,
+        "t_plus_4h": 0.6488
       }
     },
     {
@@ -142,7 +203,8 @@
       "impact": {
         "t_plus_5m": -0.6274,
         "t_plus_15m": -0.3712,
-        "t_plus_1h": 0.1345
+        "t_plus_1h": 0.1345,
+        "t_plus_4h": 1.2622
       }
     },
     {
@@ -676,6 +738,18 @@
       "tokens": [],
       "timestamp_utc": "2026-04-21T17:07:38+00:00",
       "raw_text": "Revolut targets a $200 billion IPO just months after its $75 billion share sale",
+      "impact": {}
+    },
+    {
+      "event_id": "044dee03-4427-4fcd-8c92-4b095f0eb308",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin price rally in progress but upside may be capped at $84K",
+      "url": "https://cointelegraph.com/news/bitcoin-price-rally-in-progress-but-upside-could-be-capped-at-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-21T16:55:37+00:00",
+      "raw_text": "Bitcoin price rally in progress but upside may be capped at $84K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price rally in progress but upside may be capped at $84K\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2lud",
       "impact": {}
     },
     {
@@ -4815,16 +4889,22 @@
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 67,
+        "avg_1h": 13.9,
+        "avg_24h": 20.12,
+        "win_rate_1h_gt5pct": 37.5
+      },
+      "unknown": {
+        "count": 123,
+        "avg_1h": 0.01,
+        "avg_24h": 0.15,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 109,
         "avg_1h": -0.19,
         "avg_24h": -0.61,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 121,
-        "avg_1h": 0.01,
-        "avg_24h": 0.15,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
@@ -4833,14 +4913,8 @@
         "avg_24h": null,
         "win_rate_1h_gt5pct": 50.0
       },
-      "hack": {
-        "count": 64,
-        "avg_1h": 13.9,
-        "avg_24h": 20.12,
-        "win_rate_1h_gt5pct": 37.5
-      },
       "macro": {
-        "count": 71,
+        "count": 72,
         "avg_1h": 13.09,
         "avg_24h": 28.23,
         "win_rate_1h_gt5pct": 36.4
