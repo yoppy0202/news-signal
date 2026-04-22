@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-04-22T19:37:08.048244+00:00",
+  "generated_at": "2026-04-22T21:08:10.649103+00:00",
   "events": [
+    {
+      "event_id": "94781097-1674-433f-910b-301fe9eda057",
+      "source": "rss:bitcoinmagazine",
+      "title": "FBI Director Kash Patel To Speak at Bitcoin 2026 Conference About “Ending the War on Bitcoin”",
+      "url": "https://bitcoinmagazine.com/conference/fbi-director-kash-patel-to-speak-at-bitcoin-2026-conference-about-ending-the-war-on-bitcoin",
+      "event_type": "whale_move",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-22T19:55:45+00:00",
+      "raw_text": "FBI Director Kash Patel To Speak at Bitcoin 2026 Conference About “Ending the War on Bitcoin”\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/NAKAMOTO_Day3_1230_How_Real_is_the_Quantum_Threat_1x1-3.j",
+      "impact": {}
+    },
+    {
+      "event_id": "5b7ae5e3-ac45-4600-8856-dbec80d63740",
+      "source": "rss:bitcoinmagazine",
+      "title": "The U.S. Military Is Running a Bitcoin Node, Admiral Paparo Reveals",
+      "url": "https://bitcoinmagazine.com/news/the-us-military-is-running-a-bitcoin-node",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-22T19:52:18+00:00",
+      "raw_text": "The U.S. Military Is Running a Bitcoin Node, Admiral Paparo Reveals\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/The-U.S.-Military-Is-Running-a-Bitcoin-Node-Admiral-Paparo-Reveals.jpg\" style=\"disp",
+      "impact": {}
+    },
+    {
+      "event_id": "51f014f7-34e7-4873-a676-bb098cf0ba9a",
+      "source": "rss:decrypt",
+      "title": "Pope’s Anti-AI Warnings May Be AI-Written, Detection Tool Claims",
+      "url": "https://decrypt.co/365151/pope-anti-ai-warnings-ai-written-detection-tool",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-22T19:33:36+00:00",
+      "raw_text": "Pope’s Anti-AI Warnings May Be AI-Written, Detection Tool Claims\n\nAI Detector Developer Pangram Labs’ browser extension tagged several posts from the Pope’s X account.",
+      "impact": {}
+    },
+    {
+      "event_id": "576a6b26-1aa0-4850-a861-b6496eb427e4",
+      "source": "rss:theblock",
+      "title": "Inside Plasma with Zaheer: The Future of Stablecoins",
+      "url": "https://www.theblock.co/post/398515/inside-plasma-with-zaheer-the-future-of-stablecoins?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-22T19:23:53+00:00",
+      "raw_text": "Inside Plasma with Zaheer: The Future of Stablecoins\n\n<p>Zaheer explains why stablecoins, better UX, and focused execution are key to crypto’s next phase of adoption.</p>\n\n<p>Zaheer explains why stablecoins, better UX, and focused execution are key to crypto’s next phase of adoption.</p>",
+      "impact": {}
+    },
+    {
+      "event_id": "71435468-4888-4b5f-b608-e295fc676358",
+      "source": "rss:decrypt",
+      "title": "Google Will Spend Up to $185 Billion This Year to Power AI 'Agentic Era': CEO",
+      "url": "https://decrypt.co/365153/google-spend-185-billion-this-year-power-agentic-era-ai-ceo",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-22T19:19:50+00:00",
+      "raw_text": "Google Will Spend Up to $185 Billion This Year to Power AI 'Agentic Era': CEO\n\nGoogle will invest up to $185 billion this year to build the infrastructure behind autonomous AI agents, CEO Sundar Pichai said Wednesday.",
+      "impact": {}
+    },
+    {
+      "event_id": "1a647b3f-8a88-474c-a13f-6e2c7d06751d",
+      "source": "rss:bitcoinmagazine",
+      "title": "“Bitcoin as Everyday Money” Event to Rally Industry Behind De Minimis Tax Framework at Bitcoin 2026",
+      "url": "https://bitcoinmagazine.com/politics/bitcoin-as-everyday-money-event-to-rally-industry-behind-de-minimis-tax-framework-at-bitcoin-2026",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-22T19:11:39+00:00",
+      "raw_text": "“Bitcoin as Everyday Money” Event to Rally Industry Behind De Minimis Tax Framework at Bitcoin 2026\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/tn2.webp\" style=\"display: block; margin: 1em auto;\"",
+      "impact": {}
+    },
     {
       "event_id": "a2e6bd7f-c53f-4b50-a71c-66548e851ce0",
       "source": "rss:decrypt",
@@ -5892,17 +5964,23 @@
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 132,
-        "avg_1h": -0.2,
-        "avg_24h": 0.82,
+      "whale_move": {
+        "count": 8,
+        "avg_1h": -0.15,
+        "avg_24h": 4.08,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 87,
+        "count": 88,
         "avg_1h": 11.08,
         "avg_24h": 28.23,
         "win_rate_1h_gt5pct": 30.8
+      },
+      "narrative": {
+        "count": 136,
+        "avg_1h": -0.2,
+        "avg_24h": 0.82,
+        "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
         "count": 154,
@@ -5921,12 +5999,6 @@
         "avg_1h": 25.43,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 50.0
-      },
-      "whale_move": {
-        "count": 7,
-        "avg_1h": -0.15,
-        "avg_24h": 4.08,
-        "win_rate_1h_gt5pct": 0.0
       }
     }
   }
