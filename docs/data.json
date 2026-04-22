@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-04-22T03:37:56.712463+00:00",
+  "generated_at": "2026-04-22T06:08:02.627843+00:00",
   "events": [
+    {
+      "event_id": "0c3fb34a-0a8a-45e1-96f7-be379ec165e3",
+      "source": "rss:cointelegraph",
+      "title": "Inside the MAS Sandbox: How Ripple is testing RLUSD for real trade settlements",
+      "url": "https://cointelegraph.com/explained/rlusd-mas-bloom-pilot-trade-finance-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-22T03:44:58+00:00",
+      "raw_text": "Inside the MAS Sandbox: How Ripple is testing RLUSD for real trade settlements\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Inside the MAS Sandbox: How Ripple is testing RLUSD for real trade settlements\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/imag",
+      "impact": {}
+    },
+    {
+      "event_id": "1da4b28e-c6ed-4f68-98b9-12e78b551a3b",
+      "source": "rss:theblock",
+      "title": "Sui-based Volo Protocol exploited; team pledges to absorb losses",
+      "url": "https://www.theblock.co/post/398393/sui-volo-protocol-exploited?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-22T03:25:49+00:00",
+      "raw_text": "Sui-based Volo Protocol exploited; team pledges to absorb losses\n\n<p>Sui-based liquid staking platform Volo reported that it was exploited for roughly $3.5 million from its WBTC, XAUm, and USDC vaults.</p>\n\n<p>Sui-based liquid staking platform Volo reported that it was exploited for roughly $3.5 mil",
+      "impact": {}
+    },
+    {
+      "event_id": "d402926c-814a-4d49-aec5-a9204f2d0557",
+      "source": "rss:bitcoinmagazine",
+      "title": "Relics of a Revolution, Part IV: The Bank Was Already Burning",
+      "url": "https://bitcoinmagazine.com/culture/relics-of-a-revolution-part-iv",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-22T03:01:43+00:00",
+      "raw_text": "Relics of a Revolution, Part IV: The Bank Was Already Burning\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Relics-of-a-Revolution-Part-IV-The-Bank-Was-Already-Burning.jpg\" style=\"display: block; m",
+      "impact": {}
+    },
+    {
+      "event_id": "17a4903a-b566-4db7-b63d-77107abda599",
+      "source": "rss:theblock",
+      "title": "Kelp DAO exploiter launders $80 million worth of ETH, mostly through THORChain: onchain analyst",
+      "url": "https://www.theblock.co/post/398382/kelp-dao-exploiter-launders-thorchain?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-22T02:24:02+00:00",
+      "raw_text": "Kelp DAO exploiter launders $80 million worth of ETH, mostly through THORChain: onchain analyst\n\n<p>The 24-hour swap volume on THORChain surged to $394 million, significantly exceeding usual daily volumes of under $35 million.</p>\n\n<p>The 24-hour swap volume on THORChain surged to $394 million, sign",
+      "impact": {}
+    },
+    {
+      "event_id": "7c101558-063a-4176-a266-17c30e42ac68",
+      "source": "rss:cointelegraph",
+      "title": "US admiral calls Bitcoin an instrument for US ‘power projection’",
+      "url": "https://cointelegraph.com/news/us-admiral-calls-bitcoin-instrument-us-power-projection?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-22T02:14:42+00:00",
+      "raw_text": "US admiral calls Bitcoin an instrument for US ‘power projection’\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US admiral calls Bitcoin an instrument for US ‘power projection’\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2lud",
+      "impact": {}
+    },
+    {
+      "event_id": "39ec617c-1535-4d93-a31a-07ea81c8602f",
+      "source": "rss:decrypt",
+      "title": "Anthropic's Claude Mythos AI Finds 271 Vulnerabilities in Firefox—Yes, It's Seriously Powerful",
+      "url": "https://decrypt.co/365099/anthropic-claude-mythos-ai-271-vulnerabilities-firefox-seriously-powerful",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-22T02:06:41+00:00",
+      "raw_text": "Anthropic's Claude Mythos AI Finds 271 Vulnerabilities in Firefox—Yes, It's Seriously Powerful\n\nAnthropic’s powerful Claude Mythos AI model found hundreds of vulnerabilities in Mozilla Firefox, highlighting its cybersecurity potential.",
+      "impact": {}
+    },
     {
       "event_id": "b8fbf3fe-ea16-4108-a539-f2e8f274f7f7",
       "source": "rss:coindesk",
@@ -88,7 +160,8 @@
       "impact": {
         "t_plus_5m": 0.0558,
         "t_plus_15m": 0.0753,
-        "t_plus_1h": -0.0393
+        "t_plus_1h": -0.0393,
+        "t_plus_4h": 0.4155
       }
     },
     {
@@ -106,7 +179,8 @@
       "impact": {
         "t_plus_5m": 0.0244,
         "t_plus_15m": -0.0058,
-        "t_plus_1h": -0.1482
+        "t_plus_1h": -0.1482,
+        "t_plus_4h": 0.7897
       }
     },
     {
@@ -4622,28 +4696,28 @@
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 117,
+        "count": 118,
         "avg_1h": 0.01,
         "avg_24h": 0.15,
         "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 64,
+        "avg_1h": 15.87,
+        "avg_24h": 20.12,
+        "win_rate_1h_gt5pct": 42.9
+      },
+      "macro": {
+        "count": 71,
+        "avg_1h": 14.38,
+        "avg_24h": 28.23,
+        "win_rate_1h_gt5pct": 40.0
       },
       "narrative": {
         "count": 104,
         "avg_1h": -0.19,
         "avg_24h": -0.61,
         "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 62,
-        "avg_1h": 15.87,
-        "avg_24h": 20.12,
-        "win_rate_1h_gt5pct": 42.9
-      },
-      "macro": {
-        "count": 68,
-        "avg_1h": 14.38,
-        "avg_24h": 28.23,
-        "win_rate_1h_gt5pct": 40.0
       },
       "whale_move": {
         "count": 7,
