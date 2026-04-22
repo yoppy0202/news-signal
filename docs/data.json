@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T21:08:10.649103+00:00",
+  "generated_at": "2026-04-22T22:03:20.773972+00:00",
   "events": [
     {
       "event_id": "94781097-1674-433f-910b-301fe9eda057",
@@ -68,10 +68,16 @@
       "url": "https://bitcoinmagazine.com/politics/bitcoin-as-everyday-money-event-to-rally-industry-behind-de-minimis-tax-framework-at-bitcoin-2026",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-04-22T19:11:39+00:00",
       "raw_text": "“Bitcoin as Everyday Money” Event to Rally Industry Behind De Minimis Tax Framework at Bitcoin 2026\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/tn2.webp\" style=\"display: block; margin: 1em auto;\"",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0669,
+        "t_plus_15m": 0.0941,
+        "t_plus_1h": -0.063
+      }
     },
     {
       "event_id": "a2e6bd7f-c53f-4b50-a71c-66548e851ce0",
@@ -280,7 +286,8 @@
       "impact": {
         "t_plus_5m": -0.0243,
         "t_plus_15m": -0.1968,
-        "t_plus_1h": -0.4708
+        "t_plus_1h": -0.4708,
+        "t_plus_4h": -0.0274
       }
     },
     {
@@ -334,7 +341,8 @@
       "impact": {
         "t_plus_5m": 0.5432,
         "t_plus_15m": 0.3105,
-        "t_plus_1h": -0.2638
+        "t_plus_1h": -0.2638,
+        "t_plus_4h": -0.0172
       }
     },
     {
@@ -400,7 +408,8 @@
       "impact": {
         "t_plus_5m": 0.3383,
         "t_plus_15m": 0.4558,
-        "t_plus_1h": 0.0601
+        "t_plus_1h": 0.0601,
+        "t_plus_4h": 0.0316
       }
     },
     {
@@ -5978,7 +5987,7 @@
       },
       "narrative": {
         "count": 136,
-        "avg_1h": -0.2,
+        "avg_1h": -0.18,
         "avg_24h": 0.82,
         "win_rate_1h_gt5pct": 0.0
       },
