@@ -1,6 +1,517 @@
 {
-  "generated_at": "2026-04-23T16:06:24.854659+00:00",
+  "generated_at": "2026-04-23T17:42:49.988495+00:00",
   "events": [
+    {
+      "event_id": "dc246051-092a-472b-98ff-c749a5ecc0d5",
+      "source": "rss:decrypt",
+      "title": "Founder of Solana Token Launchpad Believe Arrested on Assault, Strangulation Charges",
+      "url": "https://decrypt.co/365292/founder-solana-token-launchpad-believe-arrested",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T15:44:59+00:00",
+      "raw_text": "Founder of Solana Token Launchpad Believe Arrested on Assault, Strangulation Charges\n\nBenjamin Pasternak faces criminal charges following an investor class action lawsuit and accusations of breaching an OTC token deal.",
+      "impact": {}
+    },
+    {
+      "event_id": "42131c84-dd4d-415a-9ceb-69c3825eb911",
+      "source": "rss:decrypt",
+      "title": "White House Accuses China of 'Industrial-Scale' Theft From American AI Models",
+      "url": "https://decrypt.co/365285/white-house-accuses-china-industrial-scale-theft-american-ai-models",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T15:33:09+00:00",
+      "raw_text": "White House Accuses China of 'Industrial-Scale' Theft From American AI Models\n\nPresident Trump's administration says foreign actors are using jailbreaking techniques and fake accounts to extract American AI capabilities.",
+      "impact": {}
+    },
+    {
+      "event_id": "ad969fa3-c68f-42e3-b35e-ea1c640b857c",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin weekly close in focus after BTC price fails to revisit $80K",
+      "url": "https://cointelegraph.com/markets/bitcoin-weekly-close-in-focus-after-btc-price-fails-to-revisit-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-04-23T15:26:33+00:00",
+      "raw_text": "Bitcoin weekly close in focus after BTC price fails to revisit $80K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin weekly close in focus after BTC price fails to revisit $80K\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5",
+      "impact": {
+        "t_plus_5m": 0.0293,
+        "t_plus_15m": 0.0232,
+        "t_plus_1h": -0.1233
+      }
+    },
+    {
+      "event_id": "3c356389-962b-426f-a274-248fc728b93d",
+      "source": "rss:theblock",
+      "title": "‘Rally on trial’: Bitcoin breakout faces key $80,000 test as whales, ETF investors buy into volatility",
+      "url": "https://www.theblock.co/post/398625/rally-trial-analysts-bitcoin-breakout-test-80000-whales-etf-investors-buy-volatility?utm_source=rss&utm_medium=rss",
+      "event_type": "whale_move",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T15:24:16+00:00",
+      "raw_text": "‘Rally on trial’: Bitcoin breakout faces key $80,000 test as whales, ETF investors buy into volatility\n\n<p>Analysts say bitcoin's rally still faces a stiff test from profit-taking, macro risk and a crowded resistance zone.</p>\n\n<p>Analysts say bitcoin's rally still faces a stiff test from profit-tak",
+      "impact": {}
+    },
+    {
+      "event_id": "f0ecf8a2-47bb-45aa-8b5c-cf2eef062ff1",
+      "source": "rss:decrypt",
+      "title": "Sam Bankman-Fried Withdraws Motion for New Trial, Denies Ghostwriting Allegations",
+      "url": "https://decrypt.co/365277/sam-bankman-fried-withdraws-motion-new-trial-denies-ghostwriting",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T15:21:41+00:00",
+      "raw_text": "Sam Bankman-Fried Withdraws Motion for New Trial, Denies Ghostwriting Allegations\n\nThe disgraced FTX founder's parents have reportedly pushed for a pardon from President Donald Trump behind closed doors.",
+      "impact": {}
+    },
+    {
+      "event_id": "7dcf9e7a-6cad-4b6f-a4d2-9e6779cf8205",
+      "source": "rss:cointelegraph",
+      "title": "Spain seizes crypto cold wallets in illegal manga piracy raid",
+      "url": "https://cointelegraph.com/news/spain-seizes-crypto-cold-wallets-manga-piracy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T15:04:28+00:00",
+      "raw_text": "Spain seizes crypto cold wallets in illegal manga piracy raid\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Spain seizes crypto cold wallets in illegal manga piracy raid\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWd",
+      "impact": {}
+    },
+    {
+      "event_id": "5f6139b0-dc41-4e60-983e-3ee59fd57998",
+      "source": "rss:coindesk",
+      "title": "Crypto for Advisors: AI Agents Using Crypto",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/04/22/crypto-for-advisors-ai-agents-using-crypto",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T15:00:00+00:00",
+      "raw_text": "Crypto for Advisors: AI Agents Using Crypto",
+      "impact": {}
+    },
+    {
+      "event_id": "2c7017ee-8b37-468a-a657-e58695d9f8b2",
+      "source": "rss:decrypt",
+      "title": "French Weather Agency Alerts Police to Sensor ‘Interference’ After $35K Polymarket Payouts",
+      "url": "https://decrypt.co/365276/french-weather-agency-alerts-police-to-sensor-interference-after-35k-polymarket-payouts",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T14:58:52+00:00",
+      "raw_text": "French Weather Agency Alerts Police to Sensor ‘Interference’ After $35K Polymarket Payouts\n\nLong-shot bets on a market tied to the daily maximum temperature in Paris have raised eyebrows—and triggered a police complaint.",
+      "impact": {}
+    },
+    {
+      "event_id": "8dced07b-a5a1-43d8-bd5c-17ad2223a75c",
+      "source": "rss:theblock",
+      "title": "JPMorgan says DeFi exploits and stagnant TVL continue to limit institutional appeal",
+      "url": "https://www.theblock.co/post/398611/jpmorgan-defi-exploits-stagnant-tvl-limit-institutional-appeal?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T14:57:26+00:00",
+      "raw_text": "JPMorgan says DeFi exploits and stagnant TVL continue to limit institutional appeal\n\n<p>JPMorgan said persistent hacks appear to push investors toward Tether's USDT, as users move funds out of DeFi during stress.</p>\n\n<p>JPMorgan said persistent hacks appear to push investors toward Tether's USDT, a",
+      "impact": {}
+    },
+    {
+      "event_id": "d54b0c0c-466b-4f28-9726-586df0d61b1b",
+      "source": "rss:coindesk",
+      "title": "Tether freezes $344 million in USDT on Tron tied to 'illicit activity'",
+      "url": "https://www.coindesk.com/business/2026/04/23/tether-freezes-usd344-million-in-usdt-on-tron-tied-to-illicit-activity",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T14:53:38+00:00",
+      "raw_text": "Tether freezes $344 million in USDT on Tron tied to 'illicit activity'",
+      "impact": {}
+    },
+    {
+      "event_id": "5df094c6-6520-43c8-9433-107f103e0e2a",
+      "source": "rss:decrypt",
+      "title": "Tether Freezes $344 Million in USDT Stablecoins Flagged for Illicit Activity",
+      "url": "https://decrypt.co/365278/tether-freezes-344-million-usdt-stablecoins-flagged-illicit-activity",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T14:50:16+00:00",
+      "raw_text": "Tether Freezes $344 Million in USDT Stablecoins Flagged for Illicit Activity\n\nStablecoin issuer Tether said it coordinated with U.S. authorities to implement one of its largest asset freezes on record.",
+      "impact": {}
+    },
+    {
+      "event_id": "54857b53-56db-4918-afda-5158c558fd29",
+      "source": "rss:theblock",
+      "title": "Microsoft venture unit supports public rollout of AI builder for Base applications",
+      "url": "https://www.theblock.co/post/398614/microsoft-venture-unit-supports-public-rollout-ai-builder-base-applications?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T14:49:53+00:00",
+      "raw_text": "Microsoft venture unit supports public rollout of AI builder for Base applications\n\n<p>Space and Time, the blockchain data solution supported by Microsoft, secures the data layer underneath Dreamspace.</p>\n\n<p>Space and Time, the blockchain data solution supported by Microsoft, secures the data laye",
+      "impact": {}
+    },
+    {
+      "event_id": "80e44371-f43c-4b55-bb92-bf191ab744f0",
+      "source": "rss:bitcoinmagazine",
+      "title": "Pantera Capital Urges Satsuma to Dump All Bitcoin as Shares Collapse 99%",
+      "url": "https://bitcoinmagazine.com/news/pantera-urges-satsuma-to-sell-bitcoin",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-04-23T14:48:54+00:00",
+      "raw_text": "Pantera Capital Urges Satsuma to Dump All Bitcoin as Shares Collapse 99%\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Pantera-Capital-Urges-Satsuma-to-Dump-All-Bitcoin-as-Shares-Collapse-99.jpg\" s",
+      "impact": {
+        "t_plus_5m": -0.5951,
+        "t_plus_15m": -0.497,
+        "t_plus_1h": -0.1503
+      }
+    },
+    {
+      "event_id": "ecbe829c-72b4-48d3-b086-3c426c126ba7",
+      "source": "rss:coindesk",
+      "title": "JPMorgan says persistent security flaws curb DeFi’s institutional appeal",
+      "url": "https://www.coindesk.com/tech/2026/04/23/jpmorgan-says-persistent-security-flaws-curb-defi-s-institutional-appeal",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T14:38:42+00:00",
+      "raw_text": "JPMorgan says persistent security flaws curb DeFi’s institutional appeal",
+      "impact": {}
+    },
+    {
+      "event_id": "a6e938cb-5a22-47a8-8444-9408fc9131c8",
+      "source": "rss:coindesk",
+      "title": "BIS warns cryptocurrency exchanges are becoming ‘shadow banks,’ and why that's a risk",
+      "url": "https://www.coindesk.com/business/2026/04/23/bis-warns-cryptocurrency-exchanges-are-becoming-shadow-banks-and-why-that-s-a-risk",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T14:35:19+00:00",
+      "raw_text": "BIS warns cryptocurrency exchanges are becoming ‘shadow banks,’ and why that's a risk",
+      "impact": {}
+    },
+    {
+      "event_id": "13f6c619-5d9d-4ee7-8e04-1c564770a37e",
+      "source": "rss:cointelegraph",
+      "title": "FTX estate misses out on $3B Cursor stake value after $200K sale in 2023",
+      "url": "https://cointelegraph.com/news/ftx-estate-misses-3b-cursor-stake-value-200k-sale-2023?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T14:33:13+00:00",
+      "raw_text": "FTX estate misses out on $3B Cursor stake value after $200K sale in 2023\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"FTX estate misses out on $3B Cursor stake value after $200K sale in 2023\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
+      "impact": {}
+    },
+    {
+      "event_id": "ea953382-7ae9-487f-b4cc-27223d781493",
+      "source": "rss:decrypt",
+      "title": "Proposed House Bill Would Require Warrants for Government AI Surveillance",
+      "url": "https://decrypt.co/365231/proposed-house-bill-require-warrants-government-ai-surveillance",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T14:12:48+00:00",
+      "raw_text": "Proposed House Bill Would Require Warrants for Government AI Surveillance\n\nReps. Thomas Massie and Lauren Boebert introduced the Surveillance Accountability Act, targeting legal loopholes that allow warrantless access to Americans' data.",
+      "impact": {}
+    },
+    {
+      "event_id": "f272ca7b-5d58-41c4-bdeb-fc726ffb8c38",
+      "source": "rss:bitcoinmagazine",
+      "title": "100+ Crypto Firms Urge Senate to Advance Clarity Act, Warn of Innovation Moving Offshore",
+      "url": "https://bitcoinmagazine.com/news/100-crypto-firms-senate-to-advance-act",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T14:09:58+00:00",
+      "raw_text": "100+ Crypto Firms Urge Senate to Advance Clarity Act, Warn of Innovation Moving Offshore\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/100-Crypto-Firms-Urge-Senate-to-Advance-Clarity-Act.jpg\" style",
+      "impact": {}
+    },
+    {
+      "event_id": "f7f4b1a1-7396-4320-a9d5-9495ce1c926f",
+      "source": "rss:cointelegraph",
+      "title": "OKX accelerates US push with BitGo off-exchange settlement",
+      "url": "https://cointelegraph.com/news/okx-accelerates-us-push-with-bitgo-off-exchange-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T13:51:26+00:00",
+      "raw_text": "OKX accelerates US push with BitGo off-exchange settlement\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OKX accelerates US push with BitGo off-exchange settlement\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoL",
+      "impact": {}
+    },
+    {
+      "event_id": "11fce11e-c663-4865-8821-924f319dd29c",
+      "source": "rss:coindesk",
+      "title": "The $145 billion math: Why bitcoin’s quantum threat is manageable, not existential",
+      "url": "https://www.coindesk.com/markets/2026/04/23/the-usd145-billion-math-why-bitcoin-s-quantum-threat-is-manageable-not-existential",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T13:48:38+00:00",
+      "raw_text": "The $145 billion math: Why bitcoin’s quantum threat is manageable, not existential",
+      "impact": {}
+    },
+    {
+      "event_id": "bc5c097b-f413-410f-9833-adbb4440ffcd",
+      "source": "rss:coindesk",
+      "title": "Ripple-linked XRP slips amid bitcoin profit-taking, ETF delay",
+      "url": "https://www.coindesk.com/markets/2026/04/23/ripple-linked-xrp-slips-amid-bitcoin-profit-taking-etf-delay",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [
+        "XRP"
+      ],
+      "timestamp_utc": "2026-04-23T13:46:21+00:00",
+      "raw_text": "Ripple-linked XRP slips amid bitcoin profit-taking, ETF delay",
+      "impact": {
+        "t_plus_5m": -0.879,
+        "t_plus_15m": -0.9824,
+        "t_plus_1h": -0.3987
+      }
+    },
+    {
+      "event_id": "12614ba6-11fc-4805-ab6c-a79ba30f06d9",
+      "source": "rss:decrypt",
+      "title": "Google Takes Aim at Nvidia With New Tensor Chips to Power AI Boom",
+      "url": "https://decrypt.co/365264/google-takes-aim-nvidia-new-tensor-chips-power-ai-boom",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T13:41:03+00:00",
+      "raw_text": "Google Takes Aim at Nvidia With New Tensor Chips to Power AI Boom\n\nGoogle’s new processors target massive model training and the emerging AI agent economy, offering distinct builds for both needs.",
+      "impact": {}
+    },
+    {
+      "event_id": "ca4c2bfd-9b82-496c-8acb-540776ee56fc",
+      "source": "rss:theblock",
+      "title": "Tether freezes $344 million in USDT on Tron after wallets flagged by US authorities",
+      "url": "https://www.theblock.co/post/398599/tether-freezes-344-million-in-usdt-on-tron-after-wallets-flagged-by-u-s-authorities?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T13:25:42+00:00",
+      "raw_text": "Tether freezes $344 million in USDT on Tron after wallets flagged by US authorities\n\n<p>Tether says it froze $344 million in USDT on Tron in coordination with OFAC and U.S. law enforcement, one of the largest freezes on record.</p>\n\n<p>Tether says it froze $344 million in USDT on Tron in coordinatio",
+      "impact": {}
+    },
+    {
+      "event_id": "6b1179dc-8214-430d-80ee-eb3c706f5c30",
+      "source": "rss:cointelegraph",
+      "title": "Kelp DAO exploiter launders nearly all 75,700 in stolen ETH through THORchain",
+      "url": "https://cointelegraph.com/news/kelp-dao-hacker-launders-75-700-eth-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [
+        "ETH"
+      ],
+      "timestamp_utc": "2026-04-23T13:17:53+00:00",
+      "raw_text": "Kelp DAO exploiter launders nearly all 75,700 in stolen ETH through THORchain\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kelp DAO exploiter launders nearly all 75,700 in stolen ETH through THORchain\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
+      "impact": {
+        "t_plus_5m": -0.3414,
+        "t_plus_15m": -0.4587,
+        "t_plus_1h": -0.5342
+      }
+    },
+    {
+      "event_id": "e10e00b2-bd50-42c7-ab8e-1ee9ac2669ce",
+      "source": "rss:coindesk",
+      "title": "CoinDesk 20 performance update: Uniswap (UNI) drops 3.9%, leading index lower",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/04/23/coindesk-20-performance-update-uniswap-uni-drops-3-9-leading-index-lower",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T13:15:46+00:00",
+      "raw_text": "CoinDesk 20 performance update: Uniswap (UNI) drops 3.9%, leading index lower",
+      "impact": {}
+    },
+    {
+      "event_id": "7ad12631-37c7-4a84-b9ad-c5eae1054bee",
+      "source": "rss:theblock",
+      "title": "US military running Bitcoin node to test national security applications, admiral tells Congress",
+      "url": "https://www.theblock.co/post/398593/us-military-running-bitcoin-node-to-test-national-security-applications-admiral-tells-congress?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T13:09:01+00:00",
+      "raw_text": "US military running Bitcoin node to test national security applications, admiral tells Congress\n\n<p>Adm. Paparo told Congress that the U.S. military is running a Bitcoin node to test how the protocol can support national security.</p>\n\n<p>Adm. Paparo told Congress that the U.S. military is running a",
+      "impact": {}
+    },
+    {
+      "event_id": "5e16a9b7-0d8f-4f1c-b2d8-c35f8e411f5e",
+      "source": "rss:theblock",
+      "title": "Pantera among investors pushing bitcoin treasury firm Satsuma to sell $50 million hoard: Bloomberg",
+      "url": "https://www.theblock.co/post/398590/pantera-among-investors-pushing-bitcoin-treasury-firm-satsuma-to-sell-50-million-hoard-bloomberg?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T13:04:43+00:00",
+      "raw_text": "Pantera among investors pushing bitcoin treasury firm Satsuma to sell $50 million hoard: Bloomberg\n\n<p>Pantera backs shareholder push for Satsuma to sell $50 million bitcoin hoard after 99% stock plunge, according to Bloomberg.</p>\n\n<p>Pantera backs shareholder push for Satsuma to sell $50 million b",
+      "impact": {}
+    },
+    {
+      "event_id": "10b5fafd-7aa0-43d5-a928-ea24e1c5794e",
+      "source": "rss:coindesk",
+      "title": "More than 90% of Web3 games failed after $15 billion boom as gamers never showed up: Caladan",
+      "url": "https://www.coindesk.com/markets/2026/04/23/more-than-90-of-web3-games-failed-after-usd15-billion-boom-as-gamers-never-showed-up-caladan",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T13:02:32+00:00",
+      "raw_text": "More than 90% of Web3 games failed after $15 billion boom as gamers never showed up: Caladan",
+      "impact": {}
+    },
+    {
+      "event_id": "32896a21-627a-4291-8e8a-08481bda3ddb",
+      "source": "rss:decrypt",
+      "title": "'Excellent Window' for Strategic Accumulation as Bitcoin Risk Indicator Flips Bullish",
+      "url": "https://decrypt.co/365244/excellent-window-for-strategic-accumulation-as-bitcoin-risk-indicator-flips-bullish",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T12:41:04+00:00",
+      "raw_text": "'Excellent Window' for Strategic Accumulation as Bitcoin Risk Indicator Flips Bullish\n\nWith Bitcoin topping $79K Wednesday, a \"cleared risk landscape\" hints at a potential extension of its ongoing rally.",
+      "impact": {}
+    },
+    {
+      "event_id": "7629d664-d92f-41e2-baf7-de1bcc8d30f4",
+      "source": "rss:cointelegraph",
+      "title": "Andre Cronje’s Flying Tulip adds withdrawal circuit breaker as DeFi exploits mount",
+      "url": "https://cointelegraph.com/news/flying-tulip-withdrawal-circuit-breaker-defi-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T12:34:58+00:00",
+      "raw_text": "Andre Cronje’s Flying Tulip adds withdrawal circuit breaker as DeFi exploits mount\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Andre Cronje’s Flying Tulip adds withdrawal circuit breaker as DeFi exploits mount\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.",
+      "impact": {}
+    },
+    {
+      "event_id": "a5cf815a-2d4c-4b99-8c2a-60ce96761fbb",
+      "source": "rss:theblock",
+      "title": "Circle chief economist floats higher USDC rates on Aave amid KelpDAO fallout",
+      "url": "https://www.theblock.co/post/398577/circle-chief-economist-floats-higher-usdc-rates-on-aave-amid-kelpdao-fallout?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T12:30:23+00:00",
+      "raw_text": "Circle chief economist floats higher USDC rates on Aave amid KelpDAO fallout\n\n<p>Circle Chief Economist Gordon Liao proposed raising USDC borrowing rates on Aave to ease post-KelpDAO liquidity strains.</p>\n\n<p>Circle Chief Economist Gordon Liao proposed raising USDC borrowing rates on Aave to ease p",
+      "impact": {}
+    },
+    {
+      "event_id": "0ff8a9ad-de75-4ebd-aa62-60e62d4e25ef",
+      "source": "rss:decrypt",
+      "title": "Morning Minute: Bitcoin Clears $79,000, Then Reverses",
+      "url": "https://decrypt.co/365243/morning-minute-bitcoin-clears-79000-then-reverses",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T12:03:13+00:00",
+      "raw_text": "Morning Minute: Bitcoin Clears $79,000, Then Reverses\n\nJustin Sun is suing Trump’s World Liberty Financial, and the U.S. government is now openly running a Bitcoin node.",
+      "impact": {}
+    },
+    {
+      "event_id": "29f031fd-4a29-49e8-b237-0a509047738e",
+      "source": "rss:cointelegraph",
+      "title": "BlackRock drives 7-day Bitcoin ETF inflow streak as BTC nears $80,000",
+      "url": "https://cointelegraph.com/news/bitcoin-etf-1-9-billiow-7-day-inflow-streak-btc-near-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "listing",
+      "sentiment_label": "neutral",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-04-23T11:55:43+00:00",
+      "raw_text": "BlackRock drives 7-day Bitcoin ETF inflow streak as BTC nears $80,000\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BlackRock drives 7-day Bitcoin ETF inflow streak as BTC nears $80,000\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
+      "impact": {
+        "t_plus_5m": -0.9762,
+        "t_plus_15m": -0.8329,
+        "t_plus_1h": -1.0165,
+        "t_plus_4h": -0.2134
+      }
+    },
+    {
+      "event_id": "34b47494-d068-48de-a6fb-7bf3ef1f834b",
+      "source": "rss:decrypt",
+      "title": "Anthropic Using ‘Fear-Based Marketing’ to Promote Claude Mythos: Sam Altman",
+      "url": "https://decrypt.co/365240/anthropic-using-fear-based-marketing-to-promote-claude-mythos-sam-altman",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T11:54:15+00:00",
+      "raw_text": "Anthropic Using ‘Fear-Based Marketing’ to Promote Claude Mythos: Sam Altman\n\nThe OpenAI chief said warnings about rival Anthropic’s AI model may be exaggerated, as its cybersecurity capabilities draw scrutiny.",
+      "impact": {}
+    },
+    {
+      "event_id": "50496ed9-e3b2-4456-8e3a-abdfbb8a2436",
+      "source": "rss:coindesk",
+      "title": "U.S. military runs Bitcoin node, sees crypto as power projection versus China",
+      "url": "https://www.coindesk.com/markets/2026/04/23/us-military-runs-bitcoin-node-sees-crypto-as-power-projection-vs-china",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T11:52:19+00:00",
+      "raw_text": "U.S. military runs Bitcoin node, sees crypto as power projection versus China",
+      "impact": {}
+    },
+    {
+      "event_id": "3091f22c-6f63-4793-abee-3ff980b22a65",
+      "source": "rss:cointelegraph",
+      "title": "MetaMask co-founder Dan Finlay leaves Consensys after 10 years",
+      "url": "https://cointelegraph.com/news/metamask-dan-finlay-steps-down-after-decade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T11:46:06+00:00",
+      "raw_text": "MetaMask co-founder Dan Finlay leaves Consensys after 10 years\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MetaMask co-founder Dan Finlay leaves Consensys after 10 years\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZ",
+      "impact": {}
+    },
+    {
+      "event_id": "9eaa85b4-bb9a-447c-b5c0-96af05f80a64",
+      "source": "rss:cointelegraph",
+      "title": "Eric Trump, Michael Saylor, and Anatoly Yakovenko headline Consensus Miami 2026 as crypto's biggest stage returns",
+      "url": "https://cointelegraph.com/press-releases/eric-trump-michael-saylor-and-anatoly-yakovenko-headline-consensus-miami-2026-as-crypto-s-biggest-stage-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T11:44:22+00:00",
+      "raw_text": "Eric Trump, Michael Saylor, and Anatoly Yakovenko headline Consensus Miami 2026 as crypto's biggest stage returns\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Eric Trump, Michael Saylor, and Anatoly Yakovenko headline Consensus Miami 2026 as crypto's biggest stage returns",
+      "impact": {}
+    },
+    {
+      "event_id": "33af5b77-3a33-459c-9524-7a2502fa8065",
+      "source": "rss:coindesk",
+      "title": "Sam Bankman-Fried withdraws retrial motion. He believes he would not get a fair trial.",
+      "url": "https://www.coindesk.com/policy/2026/04/23/sam-bankman-fried-withdraws-retrial-motion-he-believes-he-would-not-get-a-fair-trial",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T11:26:59+00:00",
+      "raw_text": "Sam Bankman-Fried withdraws retrial motion. He believes he would not get a fair trial.",
+      "impact": {}
+    },
+    {
+      "event_id": "a30d43cc-5231-44ef-83dc-5c4152dc67d6",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin buyers show ‘renewed conviction’ with BTC price push toward $79K",
+      "url": "https://cointelegraph.com/markets/bitcoin-buyers-renewed-conviction-btc-price-push-toward-79k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T11:16:01+00:00",
+      "raw_text": "Bitcoin buyers show ‘renewed conviction’ with BTC price push toward $79K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin buyers show ‘renewed conviction’ with BTC price push toward $79K\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
+      "impact": {}
+    },
+    {
+      "event_id": "6293388a-797b-4ef4-bdde-02eae90c7e82",
+      "source": "rss:coindesk",
+      "title": "Bitcoin's bullish momentum runs into Pentagon-backed inflation warning",
+      "url": "https://www.coindesk.com/daybook-us/2026/04/23/bitcoin-s-bullish-momentum-runs-into-pentagon-backed-inflation-warning",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T11:14:28+00:00",
+      "raw_text": "Bitcoin's bullish momentum runs into Pentagon-backed inflation warning",
+      "impact": {}
+    },
     {
       "event_id": "3f033b69-4743-46a4-a2ba-0237e6bbb5f4",
       "source": "rss:decrypt",
@@ -86,6 +597,18 @@
       "impact": {}
     },
     {
+      "event_id": "d3395fa9-cc14-4fef-af11-d3b82d8b8220",
+      "source": "rss:cointelegraph",
+      "title": "Polymarket traders win $37K after Paris weather data glitch, raising suspicion",
+      "url": "https://cointelegraph.com/news/suspicion-rises-after-polymarket-traders-win-37k-on-paris-weather-data-glitch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T08:23:22+00:00",
+      "raw_text": "Polymarket traders win $37K after Paris weather data glitch, raising suspicion\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Polymarket traders win $37K after Paris weather data glitch, raising suspicion\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/imag",
+      "impact": {}
+    },
+    {
       "event_id": "b5aac92d-29ef-4b6c-8fe1-17b720e52c52",
       "source": "rss:coindesk",
       "title": "OpenAI appears to be poaching Coinbase’s marketing team",
@@ -167,6 +690,18 @@
       "tokens": [],
       "timestamp_utc": "2026-04-23T05:54:02+00:00",
       "raw_text": "Blockchain Capital is raising $700M for 2 new funds: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Blockchain Capital is raising $700M for 2 new funds: Report\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXB",
+      "impact": {}
+    },
+    {
+      "event_id": "a36efb95-3dab-4fce-bbef-a4e0fa611452",
+      "source": "rss:cointelegraph",
+      "title": "Ether taker volume rises by 72% as traders target ETH liquidity gap at $2.6K",
+      "url": "https://cointelegraph.com/markets/ether-taker-volume-rises-by-72percent-as-traders-target-eth-liquidity-gap-at-dollar2-6k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T05:47:21+00:00",
+      "raw_text": "Ether taker volume rises by 72% as traders target ETH liquidity gap at $2.6K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ether taker volume rises by 72% as traders target ETH liquidity gap at $2.6K\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/5",
       "impact": {}
     },
     {
@@ -318,6 +853,18 @@
       "impact": {}
     },
     {
+      "event_id": "00c61599-00ad-4c48-b32c-3639807695e2",
+      "source": "rss:cointelegraph",
+      "title": "Four reasons why the crypto market is rallying today: Will bulls maintain control?",
+      "url": "https://cointelegraph.com/markets/four-reasons-why-the-crypto-market-is-rallying-today-will-bulls-maintain-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T01:30:00+00:00",
+      "raw_text": "Four reasons why the crypto market is rallying today: Will bulls maintain control?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Four reasons why the crypto market is rallying today: Will bulls maintain control?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.",
+      "impact": {}
+    },
+    {
       "event_id": "c77c5eb0-6e7f-41b0-8b58-189900aacb40",
       "source": "rss:cointelegraph",
       "title": "LONGITUDE recap: Adam Back on Satoshi, crypto regulation needs tweaks",
@@ -327,6 +874,18 @@
       "tokens": [],
       "timestamp_utc": "2026-04-23T00:30:34+00:00",
       "raw_text": "LONGITUDE recap: Adam Back on Satoshi, crypto regulation needs tweaks\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"LONGITUDE recap: Adam Back on Satoshi, crypto regulation needs tweaks\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
+      "impact": {}
+    },
+    {
+      "event_id": "d53093ee-b923-4240-948e-4baa988dc924",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin chases monthly high above $80K as nearly all BTC price metrics turn bullish",
+      "url": "https://cointelegraph.com/markets/bitcoin-chases-monthly-high-above-dollar80k-as-nearly-all-btc-price-metrics-turn-bullish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T00:30:00+00:00",
+      "raw_text": "Bitcoin chases monthly high above $80K as nearly all BTC price metrics turn bullish\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin chases monthly high above $80K as nearly all BTC price metrics turn bullish\" class=\"type:primaryImage\" src=\"https://images.cointelegrap",
       "impact": {}
     },
     {
@@ -5800,604 +6359,21 @@
       "timestamp_utc": "2026-04-17T12:39:01+00:00",
       "raw_text": "SEC Officials Push US Crypto Ambitions in Debut Podcast Episode\n\nThe agency's chairman, Paul Atkins, sat down with two key commissioners to outline a shift away from enforcement.",
       "impact": {}
-    },
-    {
-      "event_id": "31e9b206-0386-4f76-bb23-973a1503acc1",
-      "source": "rss:decrypt",
-      "title": "Morning Minute: $11T+ Schwab Goes All In on Crypto",
-      "url": "https://decrypt.co/364715/morning-minute-11t-schwab-goes-all-in-on-crypto",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-17T12:21:42+00:00",
-      "raw_text": "Morning Minute: $11T+ Schwab Goes All In on Crypto\n\nSchwab's offering spot BTC &#038; ETH trading (with a hefty fee), while CFTC Chair Selig is getting hit from both sides of the political aisle.",
-      "impact": {}
-    },
-    {
-      "event_id": "bdac8294-68b0-410e-8662-de22851f011b",
-      "source": "rss:decrypt",
-      "title": "Negative Funding Rates Hit Yearly High as Bitcoin Tests $76K",
-      "url": "https://decrypt.co/364713/negative-funding-rates-hit-yearly-high-as-bitcoin-tests-76k",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-17T12:04:10+00:00",
-      "raw_text": "Negative Funding Rates Hit Yearly High as Bitcoin Tests $76K\n\nBitcoin funding rates hit year-high negative levels, setting up a potential short squeeze—or bull trap—as its price tests $76K.",
-      "impact": {}
-    },
-    {
-      "event_id": "b6ace3f7-fb3a-41fd-a96d-3190bf9b24a1",
-      "source": "rss:decrypt",
-      "title": "Circle Hit With Class Action Lawsuit Over $285M Drift Protocol Hack",
-      "url": "https://decrypt.co/364710/circle-hit-with-class-action-lawsuit-over-285m-drift-protocol-hack",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-17T11:10:35+00:00",
-      "raw_text": "Circle Hit With Class Action Lawsuit Over $285M Drift Protocol Hack\n\nLawyers allege Circle failed to freeze stolen USDC during an eight-hour window as hackers moved funds from the exploited trading platform.",
-      "impact": {}
-    },
-    {
-      "event_id": "9fbc553d-bcd1-47a6-9fb1-1a117557f8ab",
-      "source": "rss:decrypt",
-      "title": "Quantum Proposal Won’t Save Satoshi’s Bitcoin, Says Cardano Founder Hoskinson",
-      "url": "https://decrypt.co/364676/cardano-charles-hoskinson-bitcoin-quantum-debate",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-16T21:52:27+00:00",
-      "raw_text": "Quantum Proposal Won’t Save Satoshi’s Bitcoin, Says Cardano Founder Hoskinson\n\nCardano founder Charles Hoskinson says \"it's not possible\" to save all vulnerable Bitcoin from quantum computing under the current proposal.",
-      "impact": {}
-    },
-    {
-      "event_id": "21a26a81-0204-451d-a77a-06b5b2edef15",
-      "source": "rss:decrypt",
-      "title": "Ethereum Foundation Helps Expose North Korean Workers That Infiltrated Crypto Firms",
-      "url": "https://decrypt.co/364671/ethereum-foundation-helps-expose-north-korean-workers-crypto-firms",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-16T21:07:11+00:00",
-      "raw_text": "Ethereum Foundation Helps Expose North Korean Workers That Infiltrated Crypto Firms\n\nThe Ethereum Foundation reported that a six-month program helped expose around 100 DPRK IT workers across 53 crypto projects.",
-      "impact": {}
-    },
-    {
-      "event_id": "0378903c-cc66-4367-9faf-2e15269432d8",
-      "source": "rss:bitcoinmagazine",
-      "title": "Czech National Bank Governor Will Soon Speak on Why They’re Diversifying Their Reserves With Bitcoin",
-      "url": "https://bitcoinmagazine.com/conference/czech-national-bank-governor-will-soon-speak-on-why-theyre-diversifying-their-reserves-with-bitcoin",
-      "event_type": "whale_move",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-16T21:05:52+00:00",
-      "raw_text": "Czech National Bank Governor Will Soon Speak on Why They’re Diversifying Their Reserves With Bitcoin\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Screenshot-2026-04-16-at-3.21.16-PM.png\" style=\"di",
-      "impact": {}
-    },
-    {
-      "event_id": "35d55367-2702-44cc-8330-6f274b027785",
-      "source": "rss:decrypt",
-      "title": "OpenAI Super App Takes Shape: Codex Gets Computer Use, Browser, and Image Gen",
-      "url": "https://decrypt.co/364670/codex-computer-use-browser-image-gen-openai-super-app",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-16T20:43:06+00:00",
-      "raw_text": "OpenAI Super App Takes Shape: Codex Gets Computer Use, Browser, and Image Gen\n\nOpenAI's Codex desktop app now controls your Mac, runs its own browser, and generates images. The update pushes Codex further into territory occupied by Claude Code and OpenClaw.",
-      "impact": {}
-    },
-    {
-      "event_id": "06d59ee9-1d67-49ed-953b-ed8d979f57b5",
-      "source": "rss:decrypt",
-      "title": "Russian Crypto Exchange Grinex Halts Trading, Alleging $13M Exploit by 'Western Special Services'",
-      "url": "https://decrypt.co/364656/russian-crypto-exchange-grinex-halts-trading-13m-exploit",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-16T20:35:39+00:00",
-      "raw_text": "Russian Crypto Exchange Grinex Halts Trading, Alleging $13M Exploit by 'Western Special Services'\n\nRussian crypto exchange Grinex paused trading services after a $13 million exploit it says was conducted by \"foreign special services.\"",
-      "impact": {}
-    },
-    {
-      "event_id": "91cdd5d0-7d95-484e-b27f-997978c05301",
-      "source": "rss:decrypt",
-      "title": "Federal AI Use Soars, But Bottlenecks Threaten Momentum Amid Public Skepticism: Brookings",
-      "url": "https://decrypt.co/364659/federal-ai-use-soars-bottlenecks-threaten-momentum-skepticism",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-16T20:23:08+00:00",
-      "raw_text": "Federal AI Use Soars, But Bottlenecks Threaten Momentum Amid Public Skepticism: Brookings\n\nThe United States government has rapidly adopted AI tools in recent years, but skepticism towards both AI and agencies alike is only growing.",
-      "impact": {}
-    },
-    {
-      "event_id": "1e05cf4d-c070-4708-8027-464ef2118ef7",
-      "source": "rss:decrypt",
-      "title": "Suspicious Polymarket Trader Made $320K on Last-Minute 2025 Biden Pardons",
-      "url": "https://decrypt.co/364660/suspicious-polymarket-trader-320k-2025-biden-pardons",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-16T19:48:33+00:00",
-      "raw_text": "Suspicious Polymarket Trader Made $320K on Last-Minute 2025 Biden Pardons\n\nTwo linked wallets flawlessly bet on several pardons made by former President Joe Biden during his final minutes in office.",
-      "impact": {}
-    },
-    {
-      "event_id": "9bed1e88-45dd-4084-8259-b835accc849b",
-      "source": "rss:decrypt",
-      "title": "Your AI Chats Can Be Used Against You in Court—Law Firms Are Scrambling",
-      "url": "https://decrypt.co/364653/your-ai-chats-against-you-court-law-firms-scrambling",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-16T18:42:58+00:00",
-      "raw_text": "Your AI Chats Can Be Used Against You in Court—Law Firms Are Scrambling\n\nTwo months after a New York federal judge ruled AI conversations can be seized by prosecutors, more than a dozen major law firms have issued warnings to clients.",
-      "impact": {}
-    },
-    {
-      "event_id": "3c44d8c6-eb92-4d2e-8da1-88b02dd301e6",
-      "source": "rss:decrypt",
-      "title": "Stack BTC CEO Steps Down as Farage-Linked Bitcoin Venture Reshuffles Leadership",
-      "url": "https://decrypt.co/364619/stack-btc-ceo-steps-down-as-farage-linked-bitcoin-venture-reshuffles-leadership",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-16T17:43:22+00:00",
-      "raw_text": "Stack BTC CEO Steps Down as Farage-Linked Bitcoin Venture Reshuffles Leadership\n\nReform UK leader Nigel Farage announced his backing of the company following its relaunch under the Stack BTC name in March.",
-      "impact": {}
-    },
-    {
-      "event_id": "0fa1a6a3-f71b-41de-a12b-d9fe18f7b659",
-      "source": "rss:decrypt",
-      "title": "Claude Opus 4.7 Is Here: Anthropic’s Latest Model Delivers, But It’s a Token Eating Machine",
-      "url": "https://decrypt.co/364621/claude-opus-47-review-benchmarks-coding-test",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-16T17:42:43+00:00",
-      "raw_text": "Claude Opus 4.7 Is Here: Anthropic’s Latest Model Delivers, But It’s a Token Eating Machine\n\nAnthropic's new flagship model beat every benchmark we threw at it, eats tokens like a hungry teenager, and showed its reasoning out loud.",
-      "impact": {}
-    },
-    {
-      "event_id": "692dd8ac-42b4-4d7c-a0cc-66031ac370a6",
-      "source": "rss:decrypt",
-      "title": "Charles Schwab Weighs Prediction Markets Move as Bitcoin, Ethereum Trading Nears",
-      "url": "https://decrypt.co/364617/charles-schwab-weighs-prediction-markets-bitcoin-ethereum-trading-nears",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-16T17:26:22+00:00",
-      "raw_text": "Charles Schwab Weighs Prediction Markets Move as Bitcoin, Ethereum Trading Nears\n\nCharles Schwab President and CEO Rick Wurster indicated that America’s largest discount brokerage will likely support prediction markets.",
-      "impact": {}
-    },
-    {
-      "event_id": "96640c0f-f519-481d-9c23-a0d74f204231",
-      "source": "rss:decrypt",
-      "title": "CFTC Chair Mike Selig Faces Bipartisan Pushback on Prediction Markets, Hyperliquid Perps",
-      "url": "https://decrypt.co/364611/cftc-chair-mike-selig-bipartisan-pushback-prediction-markets-hyperliquid",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-16T16:57:52+00:00",
-      "raw_text": "CFTC Chair Mike Selig Faces Bipartisan Pushback on Prediction Markets, Hyperliquid Perps\n\nSports and war prediction markets and crypto-backed perpetual futures came under fire during a House committee hearing Thursday.",
-      "impact": {}
-    },
-    {
-      "event_id": "ef17acd7-d284-4eaf-8878-a450a86ac088",
-      "source": "rss:decrypt",
-      "title": "Meta Hikes Quest VR Prices Following PS5 Bump as RAM Shortage Rocks Tech World",
-      "url": "https://decrypt.co/364599/meta-hikes-quest-vr-prices-ps5-ram-shortage",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-16T16:47:45+00:00",
-      "raw_text": "Meta Hikes Quest VR Prices Following PS5 Bump as RAM Shortage Rocks Tech World\n\nThe global RAM shortage claims another victim, with Meta boosting Quest 3 and Quest 3S prices following other gadget price hikes.",
-      "impact": {}
-    },
-    {
-      "event_id": "455c78ad-9f50-4700-9c6c-2e4d745009d3",
-      "source": "rss:decrypt",
-      "title": "Drift Taps Tether for $148 Million Recovery Plan, Ditches Circle's USDC Following DeFi Exploit",
-      "url": "https://decrypt.co/364589/drift-tether-148-million-recovery-plan-ditches-circle-usdc",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-16T15:54:01+00:00",
-      "raw_text": "Drift Taps Tether for $148 Million Recovery Plan, Ditches Circle's USDC Following DeFi Exploit\n\nCircle has faced pushback online for standing pat as actors used its cross-chain protocol to move stolen funds.",
-      "impact": {}
-    },
-    {
-      "event_id": "69371e89-9f74-4394-808d-e07d662723c3",
-      "source": "rss:solana_official",
-      "title": "Raising the Bar on Solana Ecosystem Security",
-      "url": "https://solana.com/news/solana-ecosystem-security",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-06T19:30:00+00:00",
-      "raw_text": "Raising the Bar on Solana Ecosystem Security\n\nIntroducing STRIDE and Solana Incident Response Network",
-      "impact": {}
-    },
-    {
-      "event_id": "2c525b9d-b75a-4f8b-9041-4944ea15559d",
-      "source": "rss:solana_official",
-      "title": "Solana Ecosystem Roundup: March 2026",
-      "url": "https://solana.com/news/solana-ecosystem-roundup-march-2026",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-05T19:03:00+00:00",
-      "raw_text": "Solana Ecosystem Roundup: March 2026\n\nMarch brought a dense run of developments across regulation, real-world assets, enterprise infrastructure, payments, consumer apps, and protocol design. SOL received a clearer regulatory designation in the U.S., RWA activity on Solana reached new highs across ho",
-      "impact": {}
-    },
-    {
-      "event_id": "ab3536fe-d1ca-415d-9d23-793b89cee2bd",
-      "source": "rss:solana_official",
-      "title": "Solana Foundation Launches Solana Developer Platform",
-      "url": "https://solana.com/news/solana-developer-platform",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-03-24T12:50:00+00:00",
-      "raw_text": "Solana Foundation Launches Solana Developer Platform\n\nSolana Foundation launches Solana Developer Platform, a unified API platform for institutions and enterprises building on Solana.",
-      "impact": {}
-    },
-    {
-      "event_id": "df744495-4462-4d45-900a-b3ff5f9cc82e",
-      "source": "rss:solana_official",
-      "title": "Bits to Bricks: Can Stablecoins Prevent De-Dollarization?",
-      "url": "https://solana.com/news/bits-to-bricks-stablecoins-de-dollarization-alisha-chhangani",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-03-20T00:00:00+00:00",
-      "raw_text": "Bits to Bricks: Can Stablecoins Prevent De-Dollarization?\n\nAtlantic Council's Alisha Chhangani joins Bits to Bricks to discuss stablecoins, dollar dominance, CBDCs, and the future of digital currency.",
-      "impact": {}
-    },
-    {
-      "event_id": "a443d663-eee2-445e-a48d-099d5553b55c",
-      "source": "rss:solana_official",
-      "title": "Webinar Recap: Corporate Treasury Onchain — 24/7 Global Liquidity",
-      "url": "https://solana.com/news/webinar-recap-corporate-treasury-onchain",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-03-17T00:00:00+00:00",
-      "raw_text": "Webinar Recap: Corporate Treasury Onchain — 24/7 Global Liquidity\n\nDiscover how global enterprises are moving corporate treasury onchain. Learn how Solana and Fireblocks enable 24/7 liquidity, instant global payouts, and yield generation using stablecoins.",
-      "impact": {}
-    },
-    {
-      "event_id": "bf9bf77d-9684-465b-9801-36a7576533d5",
-      "source": "rss:solana_official",
-      "title": "Reimagining Global Payroll with Takenos",
-      "url": "https://solana.com/news/case-study-takenos",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-03-17T00:00:00+00:00",
-      "raw_text": "Reimagining Global Payroll with Takenos\n\nStreamlining Cross-Border Payments in Latin America and Beyond",
-      "impact": {}
-    },
-    {
-      "event_id": "029e99be-50a1-49c2-b56c-15f87c7d2685",
-      "source": "rss:solana_official",
-      "title": "Solana Ecosystem Report: February 2026",
-      "url": "https://solana.com/news/state-of-solana-february-2026",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-03-05T00:00:00+00:00",
-      "raw_text": "Solana Ecosystem Report: February 2026\n\nFebruary 2026 saw Solana's network-level metrics diverge from broader market contraction, with SOL-denominated TVL hitting all-time highs, RWA market cap reaching $1.71B, and stablecoin transactions surpassing $650B.",
-      "impact": {}
-    },
-    {
-      "event_id": "1d86703c-2471-4b38-8090-02623495c2bf",
-      "source": "rss:solana_official",
-      "title": "How Cards Became the Trojan Horse for Stablecoin Adoption",
-      "url": "https://solana.com/news/how-cards-became-the-trojan-horse-for-stablecoin-adoption",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-03-02T00:00:00+00:00",
-      "raw_text": "How Cards Became the Trojan Horse for Stablecoin Adoption\n\nRain's Nick Pinto explains why stablecoin-backed cards are scaling quickly, how Rain settles with Visa in USDC, and why cards may be the distribution layer that brings digital dollars into everyday commerce.",
-      "impact": {}
-    },
-    {
-      "event_id": "ebda7878-a93e-4e85-8fa6-52216abae9b2",
-      "source": "rss:solana_official",
-      "title": "Webinar Recap: Payments on Solana - A Production-Ready Ecosystem",
-      "url": "https://solana.com/news/payments-on-solana-production-ready-ecosystem-webinar",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-02-26T00:00:00+00:00",
-      "raw_text": "Webinar Recap: Payments on Solana - A Production-Ready Ecosystem\n\nRecap of the \"Payments on Solana\" webinar featuring Sheraz Shere and Ilan Gitter, covering why Visa, PayPal, and Worldpay are building on Solana across treasury management, remittances, neobanking, payouts, and merchant settlement.",
-      "impact": {}
-    },
-    {
-      "event_id": "c379a9fc-3713-4c90-bc29-49c3a9f76d5f",
-      "source": "rss:solana_official",
-      "title": "Matrixdock Brings XAUm to Solana, Expanding Institutional-Grade Tokenized Gold Access",
-      "url": "https://solana.com/news/matrixdock-xaum-launch",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-02-10T00:00:00+00:00",
-      "raw_text": "Matrixdock Brings XAUm to Solana, Expanding Institutional-Grade Tokenized Gold Access\n\nMatrixdock deploys XAUm, Asia's largest tokenized gold product, on Solana, enabling institutional-grade tokenized gold with near-instant settlement and DeFi integration.",
-      "impact": {}
-    },
-    {
-      "event_id": "1047a038-a76a-43ad-a8f7-ad0cbdb9cdf6",
-      "source": "rss:solana_official",
-      "title": "Solana Network Upgrades",
-      "url": "https://solana.com/news/solana-network-upgrades",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-02-03T00:00:00+00:00",
-      "raw_text": "Solana Network Upgrades\n\nA regularly-updated page giving the status of upgrades to the Solana network: Alpenglow, 100M CUs, SIMD 123, and more.",
-      "impact": {}
-    },
-    {
-      "event_id": "66e2f6cf-80b4-4f01-800f-2f69d6880653",
-      "source": "rss:solana_official",
-      "title": "WisdomTree Expands Tokenization Ecosystem to Solana",
-      "url": "https://solana.com/news/wisdomtree-tokenization-solana",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-01-28T00:00:00+00:00",
-      "raw_text": "WisdomTree Expands Tokenization Ecosystem to Solana\n\nToday, WisdomTree brings its full suite of regulated tokenized funds to Solana. Both institutional and retail investors can now access money market, equities, fixed income, alternatives, and asset allocation via WisdomTree Connect and WisdomTree P",
-      "impact": {}
-    },
-    {
-      "event_id": "005e206f-59ae-40fe-a9c4-147d958f5491",
-      "source": "rss:solana_official",
-      "title": "The Solana Foundation Delegation Program",
-      "url": "https://solana.com/news/solana-foundation-delegation-program-case-study",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-01-26T14:00:00+00:00",
-      "raw_text": "The Solana Foundation Delegation Program\n\nA Case Study on Validator Bootstrapping, Incentive Design, and Exit",
-      "impact": {}
-    },
-    {
-      "event_id": "c9ad7f54-efe1-425d-a844-c5af73811d9f",
-      "source": "rss:decrypt",
-      "title": "Trump sues JPMorgan for $5B! Ledger prepares for $4B IPO! “Crypto Adoption is no longer reversible” says PWC!",
-      "url": "https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [
-        "SOL",
-        "XRP"
-      ],
-      "timestamp_utc": "2026-01-23T16:40:55+00:00",
-      "raw_text": "Trump sues JPMorgan for $5B! Ledger prepares for $4B IPO! “Crypto Adoption is no longer reversible” says PWC!\n\nCrypto majors are red while Gold nears $5,000 and Silver closes in on $100; BTC -1% at $89,100; ETH -2% at $2,925, SOL -2% at $127; XRP -2% to $1.90. ZRO (+15%), AXS (+10%) and DASH (+8%) l",
-      "impact": {
-        "t_plus_5m": 50.5298,
-        "t_plus_15m": 50.5298,
-        "t_plus_1h": 50.7521,
-        "t_plus_4h": 48.558
-      }
-    },
-    {
-      "event_id": "150245bd-835f-4419-832d-b4b022e253bc",
-      "source": "rss:decrypt",
-      "title": "From Stellar to Canton: How Franklin Templeton Adopted Tokenization",
-      "url": "https://decrypt.co/videos/interviews/ZJJKjnAR/from-stellar-to-canton-how-franklin-templeton-adopted-tokenization",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-01-22T18:29:30+00:00",
-      "raw_text": "From Stellar to Canton: How Franklin Templeton Adopted Tokenization\n\nRoger Bayston, Head of Digital Assets at Franklin Templeton, unpacks how one of the world's largest asset managers embraced tokenization.",
-      "impact": {}
-    },
-    {
-      "event_id": "9caba8ef-f74a-46da-81e8-21c8b524a468",
-      "source": "rss:decrypt",
-      "title": "Crypto rebounds after Trump TACO’s on Tariffs! BitGo $2.1B IPO! Solana’s SKR token soars 250% FDV!",
-      "url": "https://decrypt.co/videos/interviews/MqZOhomP/crypto-rebounds-after-trump-tacos-on-tariffs-bitgo-21b-ipo-solanas-skr-token-soars-250-fdv",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-01-22T16:14:50+00:00",
-      "raw_text": "Crypto rebounds after Trump TACO’s on Tariffs! BitGo $2.1B IPO! Solana’s SKR token soars 250% FDV!\n\nCrypto majors are green and rebounding after Trump pivoted on EU tariffs; BTC +2% at $89,900; ETH +2% at $2,995, SOL +2% at $130; XRP +3% to $1.94. CC (+15%), SKY (+11%) and SAND (+10%) led top movers",
-      "impact": {
-        "t_plus_1h": 18.0495,
-        "t_plus_4h": 19.1285,
-        "t_plus_24h": 19.0741
-      }
-    },
-    {
-      "event_id": "abf0fca7-7a78-4c48-add2-2da61d29bbef",
-      "source": "rss:decrypt",
-      "title": "Trump’s speech at Davos gives small boost to Crypto! Saylor buys $2.13B BTC! Blondish Interview!",
-      "url": "https://decrypt.co/videos/interviews/nWmEOl4c/trumps-speech-at-davos-gives-small-boost-to-crypto-saylor-buys-213b-btc-blondish-interview",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-01-21T16:17:26+00:00",
-      "raw_text": "Trump’s speech at Davos gives small boost to Crypto! Saylor buys $2.13B BTC! Blondish Interview!\n\nCrypto majors are very red following a red Tuesday across markets; BTC -3% at $88,200; ETH -6% at $2,905, SOL -2% at $127; XRP -2% to $1.88. MYX (+11%) and ZRO (+10%) led top movers. Bitcoin and Solana ",
-      "impact": {}
-    },
-    {
-      "event_id": "309cce5c-d95f-4e3f-8dc6-4cf8d950f8cd",
-      "source": "rss:solana_official",
-      "title": "Ondo Global Markets: Access 200+ Tokenized U.S. Stocks and ETFs on Solana",
-      "url": "https://solana.com/news/ondo-global-markets-tokenized-stocks-etfs-solana",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-01-21T00:00:00+00:00",
-      "raw_text": "Ondo Global Markets: Access 200+ Tokenized U.S. Stocks and ETFs on Solana\n\nOndo Global Markets expands to Solana, offering over 200 tokenized U.S. stocks and ETFs onchain, becoming the largest real-world asset issuer on the network.",
-      "impact": {}
-    },
-    {
-      "event_id": "655e63d1-b4df-46e3-960f-75b782071e3c",
-      "source": "rss:decrypt",
-      "title": "Trump Tariffs 3: Return of the Bull Market! NYSE Tokenising, what that means for $Hype! Claude Meme Meta!",
-      "url": "https://decrypt.co/videos/interviews/O1HZN4PH/trump-tariffs-3-return-of-the-bull-market-nyse-tokenising-what-that-means-for-hype-claude-meme-meta",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "SOL",
-        "XRP"
-      ],
-      "timestamp_utc": "2026-01-20T18:12:06+00:00",
-      "raw_text": "Trump Tariffs 3: Return of the Bull Market! NYSE Tokenising, what that means for $Hype! Claude Meme Meta!\n\nCrypto majors are red following Trump’s tariff turmoil; BTC -2% at $91,100; ETH -4% at $3,105, SOL -3% at $129; XRP -2% to $1.93. CC (+12%), MYX (+5%) and SYRUP (+4%) led top movers. The NYSE b",
-      "impact": {
-        "t_plus_1h": 48.7716,
-        "t_plus_4h": 48.7226,
-        "t_plus_24h": 48.4903
-      }
-    },
-    {
-      "event_id": "80e1f334-fbbb-4cdc-af3c-c6e565fa474a",
-      "source": "rss:decrypt",
-      "title": "Crypto sells off amidst Trump Tariff Turmoil! $Trove falls 90% in awful TGE! Pump Fund announced!",
-      "url": "https://decrypt.co/videos/interviews/lokwS0bc/crypto-sells-off-amidst-trump-tariff-turmoil-trove-falls-90-in-awful-tge-pump-fund-announced",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC",
-        "ETH"
-      ],
-      "timestamp_utc": "2026-01-20T16:07:15+00:00",
-      "raw_text": "Crypto sells off amidst Trump Tariff Turmoil! $Trove falls 90% in awful TGE! Pump Fund announced!\n\nCrypto majors are red following Trump’s tariff turmoil; BTC -2% at $91,100; ETH -4% at $3,105, SOL -3% at $129; XRP -2% to $1.93. CC (+12%), MYX (+5%) and SYRUP (+4%) led top movers. The NYSE began pre",
-      "impact": {
-        "t_plus_1h": 19.5721,
-        "t_plus_4h": 18.9686,
-        "t_plus_24h": 19.8246
-      }
-    },
-    {
-      "event_id": "ef6893c6-1cbf-478b-9cd7-e30d99191d85",
-      "source": "rss:solana_official",
-      "title": "Understanding Proprietary AMMs",
-      "url": "https://solana.com/news/understanding-proprietary-amms",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-01-20T00:00:00+00:00",
-      "raw_text": "Understanding Proprietary AMMs\n\nA guide to how PropAMMs solve the fundamental problem of market making onchain.",
-      "impact": {}
-    },
-    {
-      "event_id": "92948158-5687-4be0-b79b-b53b5a494d56",
-      "source": "rss:solana_official",
-      "title": "Solana x Fireblocks: Institutional-Grade Treasury Infrastructure That Moves at Internet Speed",
-      "url": "https://solana.com/news/solana-fireblocks-institutional-treasury-infrastructure",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-01-20T00:00:00+00:00",
-      "raw_text": "Solana x Fireblocks: Institutional-Grade Treasury Infrastructure That Moves at Internet Speed\n\nDiscover how Solana and Fireblocks combine to deliver enterprise treasury operations with high-throughput blockchain performance, sub-cent transaction costs, and institutional-grade security controls.",
-      "impact": {}
-    },
-    {
-      "event_id": "40109d37-3bb8-4e74-a2e0-b7e7c89bcdf7",
-      "source": "rss:decrypt",
-      "title": "Massive Coinbase News! Bitcoin Rips to $96,750! Football.Fun TGE Interview with Founder!",
-      "url": "https://decrypt.co/videos/interviews/9g4stfJX/massive-coinbase-news-bitcoin-rips-to-96-750-footballfun-tge-interview-with-founder",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-01-15T16:49:34+00:00",
-      "raw_text": "Massive Coinbase News! Bitcoin Rips to $96,750! Football.Fun TGE Interview with Founder!\n\nCrypto majors are very green with Bitcoin making a new another 2-month high; BTC +2% at $96,7500; ETH +2% at $3,360, SOL even at $145; XRP -1% to $2.11. DCR (+30%), DASH (+10%), ICP (+10%) and ZEC (+7%) led top",
-      "impact": {}
-    },
-    {
-      "event_id": "b7b09e80-775b-436c-9510-a7fc445e0ca5",
-      "source": "rss:decrypt",
-      "title": "Are we back? Crypto is Green! Solana Intern goes rogue! Pump up 13%! Monero hits another ATH!",
-      "url": "https://decrypt.co/videos/interviews/Iv1NIhI4/are-we-back-crypto-is-green-solana-intern-goes-rogue-pump-up-13-monero-hits-another-ath",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [
-        "SOL"
-      ],
-      "timestamp_utc": "2026-01-14T16:38:32+00:00",
-      "raw_text": "Are we back? Crypto is Green! Solana Intern goes rogue! Pump up 13%! Monero hits another ATH!\n\nBTC: 95k (+3%) | BTC.D: 59.2% (-0.1%). ETH: 3313 (+6%) | BNB: 936 (+3%) | SOL: 145 (+2%). Top Gainers: IP, ICP, PUMP, PEPE, ENA. BTC ETFs: +$754m | ETH ETFs: +$130m. Crypto rallies on largest ETF inflow in",
-      "impact": {
-        "t_plus_5m": 72.3913,
-        "t_plus_15m": 72.3913,
-        "t_plus_1h": 71.151,
-        "t_plus_4h": 72.6473
-      }
-    },
-    {
-      "event_id": "93e15a65-ba22-4d54-adb2-f7359dd8756d",
-      "source": "rss:decrypt",
-      "title": "Pump & Memes HEATING up! XMR vs ZEC! How important are these rate cuts? - Under Exposed",
-      "url": "https://decrypt.co/videos/interviews/IuLdmgP6/pump-memes-heating-up-xmr-vs-zec-how-important-are-these-rate-cuts-under-exposed",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC",
-        "ETH",
-        "SOL",
-        "XRP"
-      ],
-      "timestamp_utc": "2026-01-14T16:01:53+00:00",
-      "raw_text": "Pump & Memes HEATING up! XMR vs ZEC! How important are these rate cuts? - Under Exposed\n\nCrypto majors are green; BTC +1.5% at $92,000; ETH +1% at $3,130, SOL +2% at $142; XRP +1% to $2.06. DASH (+60%), IP (+30%) and XMR (+13%) led top movers; XMR hit another new ATH at $680 (now $640). Gold and Sil",
-      "impact": {
-        "t_plus_1h": 29.1818,
-        "t_plus_4h": 29.1619
-      }
-    },
-    {
-      "event_id": "c6702aa9-e014-41f6-9b60-6582575124f1",
-      "source": "rss:decrypt",
-      "title": "PsyopAnime Meme up 30X! Are Memes back? Monero ATH! Interview W/ Joseph Chalom, CEO of Sharplink",
-      "url": "https://decrypt.co/videos/interviews/mefbKZgQ/psyopanime-meme-up-30x-are-memes-back-monero-ath-interview-w-joseph-chalom-ceo-of-sharplink",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-01-13T18:12:27+00:00",
-      "raw_text": "PsyopAnime Meme up 30X! Are Memes back? Monero ATH! Interview W/ Joseph Chalom, CEO of Sharplink\n\nCrypto majors are green; BTC +1.5% at $92,000; ETH +1% at $3,130, SOL +2% at $142; XRP +1% to $2.06. DASH (+60%), IP (+30%) and XMR (+13%) led top movers; XMR hit another new ATH at $680 (now $640). Gol",
-      "impact": {}
-    },
-    {
-      "event_id": "58d2ab4d-e272-4cfd-b473-3f455f5c4935",
-      "source": "rss:decrypt",
-      "title": "A16z raise $15B! Jerome Powell vs Trump! Crypto remains flat! Special Guest: Dudas!",
-      "url": "https://decrypt.co/videos/interviews/0y90noNs/a16z-raise-15b-jerome-powell-vs-trump-crypto-remains-flat-special-guest-dudas",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-01-12T17:15:46+00:00",
-      "raw_text": "A16z raise $15B! Jerome Powell vs Trump! Crypto remains flat! Special Guest: Dudas!\n\nCrypto majors are mostly flat headed into Monday open; btc even at $90,600; eth +1% at $3,110, sol +2% at $140; xrp -2% to $2.04. Ip (+20%) and xmr (+15%) led top movers; xmr hit a new ath at $590. Fed chair Jerome ",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 151,
-        "avg_1h": -0.18,
-        "avg_24h": 0.82,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 173,
+        "count": 176,
         "avg_1h": -0.09,
         "avg_24h": -0.63,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 89,
-        "avg_1h": 7.64,
-        "avg_24h": 16.69,
-        "win_rate_1h_gt5pct": 23.1
-      },
-      "hack": {
-        "count": 73,
-        "avg_1h": 12.72,
-        "avg_24h": 7.24,
-        "win_rate_1h_gt5pct": 28.6
+      "narrative": {
+        "count": 156,
+        "avg_1h": -0.17,
+        "avg_24h": 0.82,
+        "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
         "count": 7,
@@ -6405,11 +6381,23 @@
         "avg_24h": 4.08,
         "win_rate_1h_gt5pct": 0.0
       },
+      "hack": {
+        "count": 71,
+        "avg_1h": -0.12,
+        "avg_24h": 3.29,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 83,
+        "avg_1h": 0.13,
+        "avg_24h": -0.77,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "listing": {
         "count": 7,
-        "avg_1h": 25.43,
+        "avg_1h": -0.46,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 50.0
+        "win_rate_1h_gt5pct": 0.0
       }
     }
   }
