@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T23:57:29.663827+00:00",
+  "generated_at": "2026-04-23T03:43:14.193502+00:00",
   "events": [
     {
       "event_id": "6a67c4c4-2a93-4fb0-9a36-9fb3fba81825",
@@ -32,10 +32,16 @@
       "url": "https://decrypt.co/365221/us-government-runs-bitcoin-node-not-mining-btc",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-04-22T21:46:02+00:00",
       "raw_text": "US Government Runs a Bitcoin Node, But Not Mining BTC: US Admiral\n\nThe commander of U.S. forces in the Pacific said the military is investigating Bitcoin’s ability to “secure and protect networks.”",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.3777,
+        "t_plus_15m": 0.3496,
+        "t_plus_1h": 0.0522
+      }
     },
     {
       "event_id": "ba3aad1a-ba51-469d-ad30-d7296d574ca7",
@@ -244,7 +250,8 @@
       "impact": {
         "t_plus_5m": -0.0669,
         "t_plus_15m": 0.0941,
-        "t_plus_1h": -0.063
+        "t_plus_1h": -0.063,
+        "t_plus_4h": -0.4436
       }
     },
     {
@@ -6173,9 +6180,9 @@
       },
       "macro": {
         "count": 89,
-        "avg_1h": 11.08,
+        "avg_1h": 10.29,
         "avg_24h": 28.23,
-        "win_rate_1h_gt5pct": 30.8
+        "win_rate_1h_gt5pct": 28.6
       },
       "unknown": {
         "count": 161,
