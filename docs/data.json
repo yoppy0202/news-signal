@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-04-23T09:01:22.676026+00:00",
+  "generated_at": "2026-04-23T10:43:59.327558+00:00",
   "events": [
+    {
+      "event_id": "8eb87039-860b-4923-a261-5270d833b6d1",
+      "source": "rss:theblock",
+      "title": "Blockchain Capital seeks $700 million for two new funds: Bloomberg",
+      "url": "https://www.theblock.co/post/398560/blockchain-capital-seeks-700-million?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T08:37:26+00:00",
+      "raw_text": "Blockchain Capital seeks $700 million for two new funds: Bloomberg\n\n<p>Blockchain Capital could complete the fundraising in five to six months, Bloomberg reported, citing a source familiar with the matter.</p>\n\n<p>Blockchain Capital could complete the fundraising in five to six months, Bloomberg rep",
+      "impact": {}
+    },
     {
       "event_id": "b5aac92d-29ef-4b6c-8fe1-17b720e52c52",
       "source": "rss:coindesk",
@@ -136,7 +148,8 @@
       "impact": {
         "t_plus_5m": -0.1779,
         "t_plus_15m": -0.1258,
-        "t_plus_1h": -0.2903
+        "t_plus_1h": -0.2903,
+        "t_plus_4h": -0.6309
       }
     },
     {
@@ -168,7 +181,8 @@
       "impact": {
         "t_plus_5m": -0.1869,
         "t_plus_15m": -0.2076,
-        "t_plus_1h": -0.3113
+        "t_plus_1h": -0.3113,
+        "t_plus_4h": -0.5944
       }
     },
     {
@@ -6370,24 +6384,12 @@
       "timestamp_utc": "2026-01-06T16:13:32+00:00",
       "raw_text": "Global Crypto MCap up to $3.22 Trillion! XRP up 12%! Japan Endorse Crypto! Fear & Greed back to Neutral!\n\nThe global crypto market cap pushed another 2% to $3.22T as majors continue to grind up; BTC +1% at $93,780; ETH +2% at $3,240, SOL +3% at $139; XRP led up 12% to $2.37\nRENDER (+18%), SUI (+18%)",
       "impact": {}
-    },
-    {
-      "event_id": "a9bc74ec-7b12-4f3a-a3ea-bc2a8d32e579",
-      "source": "rss:decrypt",
-      "title": "Crypto is Green! Up 6-9%! Memes outperform! Pepe up 67%! Infinex Founder Interview!",
-      "url": "https://decrypt.co/videos/interviews/EmmJkWJn/crypto-is-green-up-6-9-memes-outperform-pepe-up-67-infinex-founder-interview",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-01-05T16:28:36+00:00",
-      "raw_text": "Crypto is Green! Up 6-9%! Memes outperform! Pepe up 67%! Infinex Founder Interview!\n\nThe global crypto market cap hit $3.16t (+1.5%) with majors trading higher; btc +2% at $93,000; eth +1% at $3,175, bnb +2.5% at $906, sol +1% at $135. Virtuals (+24%), render (_17%), btt (+11%) and fet (+11%) led to",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 150,
+        "count": 151,
         "avg_1h": -0.18,
         "avg_24h": 0.82,
         "win_rate_1h_gt5pct": 0.0
@@ -6399,7 +6401,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 92,
+        "count": 91,
         "avg_1h": 10.29,
         "avg_24h": 28.23,
         "win_rate_1h_gt5pct": 28.6
