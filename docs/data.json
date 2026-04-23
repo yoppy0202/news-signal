@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T21:58:18.083543+00:00",
+  "generated_at": "2026-04-23T23:02:28.436906+00:00",
   "events": [
     {
       "event_id": "95f73a29-7f26-4ba4-823f-d85268f5a09c",
@@ -8,10 +8,15 @@
       "url": "https://bitcoinmagazine.com/news/bitcoin-quantum-problem-governance-crisis",
       "event_type": "hack",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-04-23T21:01:23+00:00",
       "raw_text": "Bitcoin’s Quantum Problem Is Really a Governance Crisis in Disguise: UTXO\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/02/Bitcoins-50-Slide-Quantum-Scare-or-Capital-Rotation.jpg\" style=\"display: bloc",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0006,
+        "t_plus_15m": 0.0387
+      }
     },
     {
       "event_id": "5e0c4b3a-173b-4dee-9f2c-919d7c9103d9",
@@ -111,7 +116,8 @@
       "raw_text": "Lido proposes allocating up to $5.8 million in staked ETH to back Kelp exploit shortfall\n\n<p>The proposal follows last week's roughly $292-million exploit that hit Kelp DAO’s rsETH bridge,</p>\n\n<p>The proposal follows last week's roughly $292-million exploit that hit Kelp DAO’s rsETH bridge,</p>",
       "impact": {
         "t_plus_5m": -0.4136,
-        "t_plus_15m": -0.2669
+        "t_plus_15m": -0.2669,
+        "t_plus_1h": 0.0431
       }
     },
     {
@@ -140,7 +146,8 @@
       "raw_text": "Bitcoin enters disbelief phase as USDC exchange reserves push above $7.5B\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin enters disbelief phase as USDC exchange reserves push above $7.5B\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
       "impact": {
         "t_plus_5m": 0.0648,
-        "t_plus_15m": -0.0933
+        "t_plus_15m": -0.0933,
+        "t_plus_1h": -0.0856
       }
     },
     {
@@ -266,7 +273,8 @@
       "impact": {
         "t_plus_5m": -0.4615,
         "t_plus_15m": -0.0337,
-        "t_plus_1h": 0.0051
+        "t_plus_1h": 0.0051,
+        "t_plus_4h": 0.6146
       }
     },
     {
@@ -320,7 +328,8 @@
       "impact": {
         "t_plus_5m": 1.6047,
         "t_plus_15m": 1.4594,
-        "t_plus_1h": 0.2897
+        "t_plus_1h": 0.2897,
+        "t_plus_4h": 1.2629
       }
     },
     {
@@ -6383,7 +6392,7 @@
     "by_event_type": {
       "hack": {
         "count": 70,
-        "avg_1h": -0.12,
+        "avg_1h": -0.09,
         "avg_24h": 3.29,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6395,7 +6404,7 @@
       },
       "narrative": {
         "count": 162,
-        "avg_1h": -0.13,
+        "avg_1h": -0.12,
         "avg_24h": 0.82,
         "win_rate_1h_gt5pct": 0.0
       },
