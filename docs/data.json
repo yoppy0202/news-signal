@@ -1,6 +1,112 @@
 {
-  "generated_at": "2026-04-23T19:38:30.782132+00:00",
+  "generated_at": "2026-04-23T21:04:40.907913+00:00",
   "events": [
+    {
+      "event_id": "eea26352-12d0-4c53-b819-3e343dd5fc88",
+      "source": "rss:theblock",
+      "title": "Bitcoin ETF ‘flows turned positive for the year’: BNY’s global head of ETFs",
+      "url": "https://www.theblock.co/post/398699/bitcoin-etf-flows-turned-positive-year-bny-global-head-etfs?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T20:00:23+00:00",
+      "raw_text": "Bitcoin ETF ‘flows turned positive for the year’: BNY’s global head of ETFs\n\n<p>“Flows have turned positive for the year,” Global Head of ETFs at BNY Asset Servicing Ben Slavin told The Block. </p>\n\n<p>“Flows have turned positive for the year,” Global Head of ETFs at BNY Asset Servicing Ben Slavin t",
+      "impact": {}
+    },
+    {
+      "event_id": "60ee8ae5-b0ad-4512-8397-6b5326a12411",
+      "source": "rss:decrypt",
+      "title": "Circle Economist Proposes 50% Rate Ceiling to Snap Aave's USDC Liquidity Crisis",
+      "url": "https://decrypt.co/365353/circle-economist-50-rate-ceiling-snap-aave-usdc-liquidity-crisis",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T19:58:13+00:00",
+      "raw_text": "Circle Economist Proposes 50% Rate Ceiling to Snap Aave's USDC Liquidity Crisis\n\nSome users pushed back via Aave’s governance forum, fearing the changes would fuel liquidations on the lending protocol.",
+      "impact": {}
+    },
+    {
+      "event_id": "aa35e303-ad51-4451-b1e3-af3b091211e3",
+      "source": "rss:theblock",
+      "title": "Lido proposes allocating up to $5.8 million in staked ETH to back Kelp exploit shortfall",
+      "url": "https://www.theblock.co/post/398691/lido-proposes-5-8-million-staked-eth-back-kelp-exploit-shortfall?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [
+        "ETH"
+      ],
+      "timestamp_utc": "2026-04-23T19:33:06+00:00",
+      "raw_text": "Lido proposes allocating up to $5.8 million in staked ETH to back Kelp exploit shortfall\n\n<p>The proposal follows last week's roughly $292-million exploit that hit Kelp DAO’s rsETH bridge,</p>\n\n<p>The proposal follows last week's roughly $292-million exploit that hit Kelp DAO’s rsETH bridge,</p>",
+      "impact": {
+        "t_plus_5m": -0.4136,
+        "t_plus_15m": -0.2669
+      }
+    },
+    {
+      "event_id": "e87cc977-1253-45cb-be87-9dc536d0e0fc",
+      "source": "rss:cointelegraph",
+      "title": "Tether freezes $344M USDt stablecoins at US law enforcement request",
+      "url": "https://cointelegraph.com/news/tether-freezes-344m-usdt-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T19:26:55+00:00",
+      "raw_text": "Tether freezes $344M USDt stablecoins at US law enforcement request\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether freezes $344M USDt stablecoins at US law enforcement request\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5",
+      "impact": {}
+    },
+    {
+      "event_id": "a69db90b-dbc6-4148-9415-f9a4ce8a6295",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin enters disbelief phase as USDC exchange reserves push above $7.5B",
+      "url": "https://cointelegraph.com/markets/bitcoin-enters-disbelief-phase-as-usdc-exchange-reserves-push-above-dollar7-5b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-04-23T19:26:46+00:00",
+      "raw_text": "Bitcoin enters disbelief phase as USDC exchange reserves push above $7.5B\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin enters disbelief phase as USDC exchange reserves push above $7.5B\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
+      "impact": {
+        "t_plus_5m": 0.0648,
+        "t_plus_15m": -0.0933
+      }
+    },
+    {
+      "event_id": "bdfd253f-4b7d-4f14-abb8-73f5b3d707bd",
+      "source": "rss:decrypt",
+      "title": "OpenAI Releases GPT-5.5: Faster, Smarter—And Pricier",
+      "url": "https://decrypt.co/365333/openai-gpt-5-5-release-agentic-coding-benchmarks",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T19:25:16+00:00",
+      "raw_text": "OpenAI Releases GPT-5.5: Faster, Smarter—And Pricier\n\nOpenAI's newest model matches GPT-5.4's speed while outperforming it on nearly every benchmark. It's rolling out to paid ChatGPT users today.",
+      "impact": {}
+    },
+    {
+      "event_id": "af23b408-aa9c-485a-adb1-07774079f3a5",
+      "source": "rss:decrypt",
+      "title": "US Treasury Sanctions Powerful Cambodian Politician Allegedly Tied to Crypto Scam Network",
+      "url": "https://decrypt.co/365331/us-treasury-sanctions-powerful-cambodian-politician-crypto-scam-network",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T19:08:41+00:00",
+      "raw_text": "US Treasury Sanctions Powerful Cambodian Politician Allegedly Tied to Crypto Scam Network\n\nKok An, a Cambodian senator, is accused of running a massive crypto crime operation through his many resorts and casinos.",
+      "impact": {}
+    },
+    {
+      "event_id": "00692bdf-f828-4f8a-a0ad-6de2e4a977f4",
+      "source": "rss:cointelegraph",
+      "title": "MoonPay launches fiat-to-stablecoin virtual accounts in New York",
+      "url": "https://cointelegraph.com/news/moonpay-launches-fiat-to-stablecoin-virtual-accounts-in-new-york?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T18:58:57+00:00",
+      "raw_text": "MoonPay launches fiat-to-stablecoin virtual accounts in New York\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MoonPay launches fiat-to-stablecoin virtual accounts in New York\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2lud",
+      "impact": {}
+    },
     {
       "event_id": "e55f2b51-d1db-44f8-9526-d4ea7e10d25a",
       "source": "rss:coindesk",
@@ -80,10 +186,16 @@
       "url": "https://www.theblock.co/post/398612/bitmines-ether-staking-passes-70-holdings-latest-320-million-push?utm_source=rss&utm_medium=rss",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-04-23T17:48:50+00:00",
       "raw_text": "Bitmine’s ETH staking passes 70% of holdings after latest $320 million push\n\n<p>Ethereum treasury firm Bitmine has staked roughly 3.5 million ETH, worth more than $8 billion, out of its roughly 5.08 million ETH holdings.</p>\n\n<p>Ethereum treasury firm Bitmine has staked roughly 3.5 million ETH, wort",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.4615,
+        "t_plus_15m": -0.0337,
+        "t_plus_1h": 0.0051
+      }
     },
     {
       "event_id": "50938052-e62e-4c39-9a50-272ee4094fc0",
@@ -202,7 +314,8 @@
       "impact": {
         "t_plus_5m": 0.0293,
         "t_plus_15m": 0.0232,
-        "t_plus_1h": -0.1233
+        "t_plus_1h": -0.1233,
+        "t_plus_4h": -0.8252
       }
     },
     {
@@ -6264,128 +6377,20 @@
       "timestamp_utc": "2026-04-17T20:05:47+00:00",
       "raw_text": "Rep. Sheri Biggs Doubles Down on Bitcoin, Buys Up to $250K of BlackRock's ETF\n\nRep. Sheri Biggs purchased up to $250,000 worth of BlackRock's spot Bitcoin ETF last month, padding a position she entered into last July.",
       "impact": {}
-    },
-    {
-      "event_id": "fcd348ab-51a3-43d7-9a32-9757910519cf",
-      "source": "rss:bitcoinmagazine",
-      "title": "When Quantum Computers Come for Your Bitcoin: What Classical Property Law Says Happens Next",
-      "url": "https://bitcoinmagazine.com/legal/when-quantum-computers-come-for-your-bitcoin-what-classical-property-law-says-happens-next",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-17T19:45:14+00:00",
-      "raw_text": "When Quantum Computers Come for Your Bitcoin: What Classical Property Law Says Happens Next\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/quantumcourtroom.webp\" style=\"display: block; margin: 1em a",
-      "impact": {}
-    },
-    {
-      "event_id": "4fbbb185-b31f-492b-868c-51c1d3cecf8b",
-      "source": "rss:decrypt",
-      "title": "Sam Altman's World Teams With Zoom, Tinder to Better Verify Humans in the AI Age",
-      "url": "https://decrypt.co/364774/sam-altman-world-zoom-tinder-better-verify-humans-ai-age",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-17T19:39:44+00:00",
-      "raw_text": "Sam Altman's World Teams With Zoom, Tinder to Better Verify Humans in the AI Age\n\nIris-scanning crypto project World expands with Tinder's U.S. human verification rollout and Zoom's Deep Face feature.",
-      "impact": {}
-    },
-    {
-      "event_id": "8bdd2c05-7ecd-4f90-81af-59ffdb35e7f7",
-      "source": "rss:bitcoinmagazine",
-      "title": "The Whole Entire Universe: 21 Million, One Painting",
-      "url": "https://bitcoinmagazine.com/news/the-whole-entire-universe-21-million",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-17T19:36:05+00:00",
-      "raw_text": "The Whole Entire Universe: 21 Million, One Painting\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Pics-33-1.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.",
-      "impact": {}
-    },
-    {
-      "event_id": "a7d7b8e2-cb88-4981-b576-1626a2e87424",
-      "source": "rss:theblock",
-      "title": "Wrapped XRP launches on Solana, enabling broader DeFi access for token holders",
-      "url": "https://www.theblock.co/post/397951/wrapped-xrp-launches-solana-enabling-defi-access-token-holders?utm_source=rss&utm_medium=rss",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-17T18:52:57+00:00",
-      "raw_text": "Wrapped XRP launches on Solana, enabling broader DeFi access for token holders\n\n<p>The move follows Hex Trust saying in December wXRP would become available on Solana, Optimism, Ethereum, and HyperEVM.</p>\n\n<p>The move follows Hex Trust saying in December wXRP would become available on Solana, Optim",
-      "impact": {}
-    },
-    {
-      "event_id": "28fea750-5952-440a-82ea-801d56cea179",
-      "source": "rss:decrypt",
-      "title": "Elizabeth Warren Accuses SEC Chair Paul Atkins of Potentially Lying to Congress",
-      "url": "https://decrypt.co/364758/elizabeth-warren-accuses-sec-chair-paul-atkins-lying-congress",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-17T18:43:57+00:00",
-      "raw_text": "Elizabeth Warren Accuses SEC Chair Paul Atkins of Potentially Lying to Congress\n\nSenator Elizabeth Warren said Paul Atkins may have intentionally misled Congress by pushing back over the SEC's dwindling enforcement actions.",
-      "impact": {}
-    },
-    {
-      "event_id": "5f9d8237-3a8f-4807-aa85-0c5da94560d4",
-      "source": "rss:decrypt",
-      "title": "Crypto Trader Turns $2,500 Into $500K on Skyrocketing Ethereum Meme Coin",
-      "url": "https://decrypt.co/364767/crypto-trader-turns-2500-into-500k-skyrocketing-ethereum-meme-coin",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-17T18:26:05+00:00",
-      "raw_text": "Crypto Trader Turns $2,500 Into $500K on Skyrocketing Ethereum Meme Coin\n\nA meme coin trader turned $2,500 into nearly $500,000 in a matter of hours via the Elon Musk-linked ASTEROID token on Ethereum.",
-      "impact": {}
-    },
-    {
-      "event_id": "901dd14e-778e-4c6b-8fa3-4dd44720b79f",
-      "source": "rss:decrypt",
-      "title": "Anthropic’s Alarming Mythos Findings Replicated With Off-the-Shelf AI, Researchers Say",
-      "url": "https://decrypt.co/364744/anthropic-mythos-replicated-public-models-vidoc-security",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-17T18:00:42+00:00",
-      "raw_text": "Anthropic’s Alarming Mythos Findings Replicated With Off-the-Shelf AI, Researchers Say\n\nSecurity researchers used GPT-5.4 and Claude Opus 4.6 in an open-source harness to reproduce Anthropic's Mythos vulnerability findings for under $30 per scan.",
-      "impact": {}
-    },
-    {
-      "event_id": "f7707f13-e04f-41de-8645-aea2cd35fd44",
-      "source": "rss:decrypt",
-      "title": "Strategy Shares Pop as Bitcoin Holdings Flip Green, Near $61 Billion",
-      "url": "https://decrypt.co/364756/strategy-shares-pop-bitcoin-holdings-flip-green-near-61-billion",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-17T17:54:47+00:00",
-      "raw_text": "Strategy Shares Pop as Bitcoin Holdings Flip Green, Near $61 Billion\n\nThe Bitcoin-buying firm’s stockpile had shown losses on paper since early February.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 75,
+        "avg_1h": -0.15,
+        "avg_24h": -0.77,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 178,
+        "count": 181,
         "avg_1h": -0.09,
         "avg_24h": -0.63,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 162,
-        "avg_1h": -0.13,
-        "avg_24h": 0.82,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "listing": {
-        "count": 8,
-        "avg_1h": -0.46,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "whale_move": {
-        "count": 7,
-        "avg_1h": -0.15,
-        "avg_24h": 4.08,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
@@ -6394,10 +6399,22 @@
         "avg_24h": 3.29,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 76,
+      "narrative": {
+        "count": 161,
+        "avg_1h": -0.13,
+        "avg_24h": 0.82,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "listing": {
+        "count": 7,
+        "avg_1h": -0.46,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "whale_move": {
+        "count": 7,
         "avg_1h": -0.15,
-        "avg_24h": -0.77,
+        "avg_24h": 4.08,
         "win_rate_1h_gt5pct": 0.0
       }
     }
