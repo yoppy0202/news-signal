@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T23:58:53.663689+00:00",
+  "generated_at": "2026-04-24T03:46:52.812481+00:00",
   "events": [
     {
       "event_id": "18840877-fe30-49a5-ad46-0ab4a09f1a27",
@@ -68,10 +68,16 @@
       "url": "https://cointelegraph.com/markets/spot-eth-etf-inflows-hit-10-day-streak-will-ether-rally-to-3k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-04-23T21:25:30+00:00",
       "raw_text": "Spot ETH ETF inflows hit 10-day streak: Will Ether rally to $3K next?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Spot ETH ETF inflows hit 10-day streak: Will Ether rally to $3K next?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.3323,
+        "t_plus_15m": -0.1522,
+        "t_plus_1h": 0.1834
+      }
     },
     {
       "event_id": "9c1ebd92-79ae-4e40-a638-5eb7ec6e05c8",
@@ -226,7 +232,8 @@
       "impact": {
         "t_plus_5m": -0.4136,
         "t_plus_15m": -0.2669,
-        "t_plus_1h": 0.0431
+        "t_plus_1h": 0.0431,
+        "t_plus_4h": 0.2857
       }
     },
     {
@@ -256,7 +263,8 @@
       "impact": {
         "t_plus_5m": 0.0648,
         "t_plus_15m": -0.0933,
-        "t_plus_1h": -0.0856
+        "t_plus_1h": -0.0856,
+        "t_plus_4h": 0.4139
       }
     },
     {
@@ -1383,7 +1391,8 @@
         "t_plus_5m": 0.2426,
         "t_plus_15m": 0.2282,
         "t_plus_1h": 0.3171,
-        "t_plus_4h": -0.5024
+        "t_plus_4h": -0.5024,
+        "t_plus_24h": 0.0641
       }
     },
     {
@@ -6397,7 +6406,7 @@
     "by_event_type": {
       "macro": {
         "count": 74,
-        "avg_1h": -0.15,
+        "avg_1h": -0.12,
         "avg_24h": -0.77,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6410,7 +6419,7 @@
       "unknown": {
         "count": 181,
         "avg_1h": -0.09,
-        "avg_24h": -0.63,
+        "avg_24h": -0.52,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
