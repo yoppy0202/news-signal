@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-04-24T21:02:32.595486+00:00",
+  "generated_at": "2026-04-24T21:59:12.754329+00:00",
   "events": [
+    {
+      "event_id": "b4fd05f9-2483-43d2-99c7-ec3b718fb279",
+      "source": "rss:decrypt",
+      "title": "Brazil Issues Sweeping Ban Against Prediction Market Platforms",
+      "url": "https://decrypt.co/365509/brazil-sweeping-ban-against-prediction-market-platforms",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-24T21:19:05+00:00",
+      "raw_text": "Brazil Issues Sweeping Ban Against Prediction Market Platforms\n\nBrazil’s Finance Ministry cited investor protection concerns and rising gambling addiction as it blocked platforms like Polymarket and Kalshi.",
+      "impact": {}
+    },
+    {
+      "event_id": "6061c697-2c37-4d52-9e9e-90615308b525",
+      "source": "rss:theblock",
+      "title": "JPMorgan says tokenization will drive change across entire funds industry, but ‘good use cases’ still years away",
+      "url": "https://www.theblock.co/post/398876/jpmorgan-tokenization-will-change-entire-funds-industry-good-use-cases-years-away?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-24T21:12:35+00:00",
+      "raw_text": "JPMorgan says tokenization will drive change across entire funds industry, but ‘good use cases’ still years away\n\n<p>\"Tokenization is that it will become part of the ETF ecosystem, but we’re a couple of years away from some good use cases,” said the bank.</p>\n\n<p>\"Tokenization is that it will become",
+      "impact": {}
+    },
+    {
+      "event_id": "d53c5a95-cc5a-4a6d-a497-88407d89215b",
+      "source": "rss:coindesk",
+      "title": "Bitcoin is on track for its best month in a year. $5 billion USDT growth fuels the rebound",
+      "url": "https://www.coindesk.com/markets/2026/04/24/bitcoin-is-on-track-for-its-best-month-in-a-year-usd5-billion-usdt-growth-fuels-the-rebound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-24T21:04:46+00:00",
+      "raw_text": "Bitcoin is on track for its best month in a year. $5 billion USDT growth fuels the rebound",
+      "impact": {}
+    },
     {
       "event_id": "22776c64-9681-4a26-a3bb-4e51ed564f50",
       "source": "rss:decrypt",
@@ -32,10 +68,15 @@
       "url": "https://bitcoinmagazine.com/news/vaneck-flags-dual-bullish-for-bitcoin",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-04-24T20:33:37+00:00",
       "raw_text": "VanEck Flags Dual Bullish Signals for Bitcoin as Funding Turns Negative, Hash Rate Slips\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Morgan-Stanleys-Spot-Bitcoin-ETF-Tops-139M-in-Assets-Within-Ni",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0103,
+        "t_plus_15m": 0.0158
+      }
     },
     {
       "event_id": "9767bcc8-c797-4b84-a37e-1127f718b6f3",
@@ -56,10 +97,15 @@
       "url": "https://www.theblock.co/post/398863/aave-proposes-25000-eth-contribution-defi-united-plug-kelp-dao-exploit-hole?utm_source=rss&utm_medium=rss",
       "event_type": "hack",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-04-24T20:07:05+00:00",
       "raw_text": "Aave proposes 25,000 ETH contribution to DeFi United to plug Kelp DAO exploit hole\n\n<p>Protocols and individual DeFi users have collectively pledged enough to cover the Kelp DAO exploit losses.</p>\n\n<p>Protocols and individual DeFi users have collectively pledged enough to cover the Kelp DAO exploit",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2452,
+        "t_plus_15m": -0.3057
+      }
     },
     {
       "event_id": "34766e82-ebfd-4fa9-9094-d2870f6cccbf",
@@ -220,7 +266,8 @@
       "impact": {
         "t_plus_5m": 0.2031,
         "t_plus_15m": 0.0978,
-        "t_plus_1h": 0.1538
+        "t_plus_1h": 0.1538,
+        "t_plus_4h": 0.0911
       }
     },
     {
@@ -250,7 +297,8 @@
       "impact": {
         "t_plus_5m": -0.0296,
         "t_plus_15m": 0.139,
-        "t_plus_1h": 0.13
+        "t_plus_1h": 0.13,
+        "t_plus_4h": 0.163
       }
     },
     {
@@ -316,7 +364,8 @@
       "impact": {
         "t_plus_5m": 0.4962,
         "t_plus_15m": 0.2935,
-        "t_plus_1h": 0.0317
+        "t_plus_1h": 0.0317,
+        "t_plus_4h": -0.0742
       }
     },
     {
@@ -6438,74 +6487,32 @@
       "timestamp_utc": "2026-04-20T13:15:08+00:00",
       "raw_text": "UK gas firm downplays bitcoin mining plans after report suggested pivot\n\n<p>The firm said it is exploring the potential to deploy bitcoin mining, but remains committed to progressing the site for UK energy security.</p>\n\n<p>The firm said it is exploring the potential to deploy bitcoin mining, but re",
       "impact": {}
-    },
-    {
-      "event_id": "17e6dc7e-dd09-435c-9e4a-6d06718110f3",
-      "source": "rss:coindesk",
-      "title": "Bitmine buys 101,627 ether worth over $230 million, its largest weekly haul of 2026",
-      "url": "https://www.coindesk.com/business/2026/04/20/bitmine-buys-101-627-ether-worth-over-usd230-million-its-largest-weekly-haul-of-2026",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T12:57:30+00:00",
-      "raw_text": "Bitmine buys 101,627 ether worth over $230 million, its largest weekly haul of 2026",
-      "impact": {}
-    },
-    {
-      "event_id": "d627ee73-fb75-4d22-9632-bbbe1394762d",
-      "source": "rss:bitcoinmagazine",
-      "title": "Strategy (MSTR) Buys $2.54B in Bitcoin in Third-Largest Purchase, Surpasses BlackRock Holdings",
-      "url": "https://bitcoinmagazine.com/news/strategy-mstr-buys-2-54b-in-bitcoin",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-04-20T12:52:46+00:00",
-      "raw_text": "Strategy (MSTR) Buys $2.54B in Bitcoin in Third-Largest Purchase, Surpasses BlackRock Holdings\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/01/Michael-Saylors-Strategy-MSTR-Spends-2.13-Billion-to-Buy",
-      "impact": {
-        "t_plus_5m": -0.011,
-        "t_plus_15m": -0.0236,
-        "t_plus_1h": -0.287
-      }
-    },
-    {
-      "event_id": "4896862f-b872-4284-817f-9cb9dee7bad8",
-      "source": "rss:theblock",
-      "title": "Bitcoin holds ‘fragile equilibrium’ near $75K as ETF demand cushions crypto market despite Hormuz tensions: analysts",
-      "url": "https://www.theblock.co/post/398082/bitcoin-holds-fragile-equilibrium-near-75k-as-etf-demand-cushions-crypto-market-despite-hormuz-tensions-analysts?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T12:52:17+00:00",
-      "raw_text": "Bitcoin holds ‘fragile equilibrium’ near $75K as ETF demand cushions crypto market despite Hormuz tensions: analysts\n\n<p>Nearly $1 billion in spot bitcoin ETF inflows and rising stablecoin liquidity suggest institutional demand is still stemming pullbacks.</p>\n\n<p>Nearly $1 billion in spot bitcoin E",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 83,
-        "avg_1h": -0.13,
-        "avg_24h": -0.33,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 172,
+        "count": 173,
         "avg_1h": -0.1,
         "avg_24h": 0.56,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 51,
-        "avg_1h": -0.09,
-        "avg_24h": 3.29,
+      "macro": {
+        "count": 82,
+        "avg_1h": -0.12,
+        "avg_24h": -0.33,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
         "count": 181,
         "avg_1h": -0.08,
         "avg_24h": -0.63,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 51,
+        "avg_1h": -0.09,
+        "avg_24h": 3.29,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
