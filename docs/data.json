@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T22:55:40.898881+00:00",
+  "generated_at": "2026-04-24T23:53:41.234344+00:00",
   "events": [
     {
       "event_id": "9e029188-bab5-4ddd-98fb-78e0ee7b637b",
@@ -11,6 +11,18 @@
       "tokens": [],
       "timestamp_utc": "2026-04-24T22:09:13+00:00",
       "raw_text": "U.S. CFTC adds New York to string of states its suing to stop prediction market pushback",
+      "impact": {}
+    },
+    {
+      "event_id": "e78a82df-44c8-41c8-b041-72f1a814b6fc",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin developer Paul Sztorc announces BTC hard fork called eCash",
+      "url": "https://cointelegraph.com/news/bitcoin-dev-paul-sztorc-hard-fork-ecash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-24T21:55:00+00:00",
+      "raw_text": "Bitcoin developer Paul Sztorc announces BTC hard fork called eCash\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin developer Paul Sztorc announces BTC hard fork called eCash\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb",
       "impact": {}
     },
     {
@@ -6477,30 +6489,18 @@
       "timestamp_utc": "2026-04-20T13:37:43+00:00",
       "raw_text": "ZachXBT asks MemeCore to explain valuation and token supply\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ZachXBT asks MemeCore to explain valuation and token supply\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXB",
       "impact": {}
-    },
-    {
-      "event_id": "97dc1212-e76f-4e3d-bf4d-defa00137eee",
-      "source": "rss:coindesk",
-      "title": "CoinDesk 20 performance update: AAVE price plummets 22.9% over weekend",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/04/20/coindesk-20-performance-update-aave-price-plummets-22-9-over-weekend",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T13:32:26+00:00",
-      "raw_text": "CoinDesk 20 performance update: AAVE price plummets 22.9% over weekend",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 181,
+        "count": 180,
         "avg_1h": -0.08,
         "avg_24h": -0.63,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 174,
+        "count": 175,
         "avg_1h": -0.1,
         "avg_24h": 0.56,
         "win_rate_1h_gt5pct": 0.0
