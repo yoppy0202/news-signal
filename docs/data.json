@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-04-24T14:03:04.845506+00:00",
+  "generated_at": "2026-04-24T15:21:52.727347+00:00",
   "events": [
+    {
+      "event_id": "c00a1732-0bd2-47c1-8e5c-66dd4b8972e4",
+      "source": "rss:bitcoinmagazine",
+      "title": "Metaplanet Issues $50M in Zero-Interest Bonds to Buy More Bitcoin",
+      "url": "https://bitcoinmagazine.com/news/metaplanet-issues-50m-bonds-bitcoin",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-24T14:05:29+00:00",
+      "raw_text": "Metaplanet Issues $50M in Zero-Interest Bonds to Buy More Bitcoin\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Pics-38.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitc",
+      "impact": {}
+    },
+    {
+      "event_id": "3b838db0-40eb-4178-b124-b3538ee551cf",
+      "source": "rss:decrypt",
+      "title": "Meta Agrees to Deploy Millions of Amazon AI Chips in Deal Worth Billions",
+      "url": "https://decrypt.co/365441/meta-agrees-deploy-millions-amazon-ai-chips-deal-worth-billions",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-24T13:39:46+00:00",
+      "raw_text": "Meta Agrees to Deploy Millions of Amazon AI Chips in Deal Worth Billions\n\nFacebook parent company Meta has agreed to a multi-year deal to use Amazon’s AI chips in a deal that AWS says is worth billions of dollars.",
+      "impact": {}
+    },
+    {
+      "event_id": "a6632eb6-6489-4254-bea8-8a917298a170",
+      "source": "rss:cointelegraph",
+      "title": "Zondacrypto CEO goes off radar as Poland probe deepens",
+      "url": "https://cointelegraph.com/news/zonda-crypto-ceo-vanish-prosecutor-probe-poland?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-24T13:33:50+00:00",
+      "raw_text": "Zondacrypto CEO goes off radar as Poland probe deepens\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zondacrypto CEO goes off radar as Poland probe deepens\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91c",
+      "impact": {}
+    },
+    {
+      "event_id": "73bb6f32-cdbf-4ad4-91f4-f8202f72542b",
+      "source": "rss:coindesk",
+      "title": "CoinDesk 20 performance update: Aptos (APT) gains 3.5%, leading index higher",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/04/24/coindesk-20-performance-update-aptos-apt-gains-3-5-leading-index-higher",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-24T13:19:20+00:00",
+      "raw_text": "CoinDesk 20 performance update: Aptos (APT) gains 3.5%, leading index higher",
+      "impact": {}
+    },
+    {
+      "event_id": "8aa4eb1a-c594-46b3-ad7f-ac1e0f90ea7b",
+      "source": "rss:theblock",
+      "title": "Fluent launches Ethereum Layer 2 mainnet and BLEND token with $50 million day-one liquidity",
+      "url": "https://www.theblock.co/post/398756/fluent-launches-ethereum-layer-2-mainnet-and-blend-token-with-50-million-day-one-liquidity?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-24T13:00:02+00:00",
+      "raw_text": "Fluent launches Ethereum Layer 2 mainnet and BLEND token with $50 million day-one liquidity\n\n<p>Fluent launched its Ethereum Layer 2 mainnet alongside its BLEND token and a native stablecoin with $50 million in day-one liquidity.</p>\n\n<p>Fluent launched its Ethereum Layer 2 mainnet alongside its BLE",
+      "impact": {}
+    },
+    {
+      "event_id": "ef51e57e-4fcf-4adc-a9da-d3d5b7687cd4",
+      "source": "rss:theblock",
+      "title": "Researcher breaks 15-bit elliptic curve key in ‘largest quantum attack,’ wins 1 bitcoin bounty from Project Eleven",
+      "url": "https://www.theblock.co/post/398792/researcher-breaks-15-bit-elliptic-curve-key-wins-1-bitcoin-bounty-project-eleven?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-24T13:00:00+00:00",
+      "raw_text": "Researcher breaks 15-bit elliptic curve key in ‘largest quantum attack,’ wins 1 bitcoin bounty from Project Eleven\n\n<p>Independent researcher Giancarlo Lelli derived a 15-bit elliptic curve key on a publicly accessible quantum computer, Project Eleven said.</p>\n\n<p>Independent researcher Giancarlo L",
+      "impact": {}
+    },
     {
       "event_id": "ea165133-1642-450b-864f-b8c2233da888",
       "source": "rss:theblock",
@@ -32,10 +104,16 @@
       "url": "https://cointelegraph.com/markets/xrp-price-risks-40-decline-versus-bitcoin-despite-9-day-etf-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-04-24T11:55:11+00:00",
       "raw_text": "XRP price risks 40% decline versus Bitcoin despite 9-day ETF inflow streak\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"XRP price risks 40% decline versus Bitcoin despite 9-day ETF inflow streak\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1227,
+        "t_plus_15m": -0.1348,
+        "t_plus_1h": -0.4348
+      }
     },
     {
       "event_id": "2175d945-5730-45b7-80f8-e37357680fb6",
@@ -92,10 +170,16 @@
       "url": "https://decrypt.co/365431/aave-leads-defi-united-push-to-contain-292m-kelpdao-fallout",
       "event_type": "hack",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-04-24T11:24:33+00:00",
       "raw_text": "Aave Leads ‘DeFi United’ Push to Contain $292M KelpDAO Fallout\n\nAave's founder has pledged 5,000 ETH of his own money as a growing DeFi coalition races to contain the fallout from the KelpDAO exploit.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0494,
+        "t_plus_15m": -0.0657,
+        "t_plus_1h": -0.1068
+      }
     },
     {
       "event_id": "1411a6a8-0b8e-462e-a92a-40b43cbbc77a",
@@ -220,7 +304,8 @@
       "impact": {
         "t_plus_5m": -0.3606,
         "t_plus_15m": -0.0847,
-        "t_plus_1h": -0.2792
+        "t_plus_1h": -0.2792,
+        "t_plus_4h": 0.4666
       }
     },
     {
@@ -238,7 +323,8 @@
       "impact": {
         "t_plus_5m": -0.3216,
         "t_plus_15m": -0.2768,
-        "t_plus_1h": -0.2216
+        "t_plus_1h": -0.2216,
+        "t_plus_4h": 0.4368
       }
     },
     {
@@ -256,7 +342,8 @@
       "impact": {
         "t_plus_5m": -0.3006,
         "t_plus_15m": -0.3153,
-        "t_plus_1h": -0.0847
+        "t_plus_1h": -0.0847,
+        "t_plus_4h": 0.2845
       }
     },
     {
@@ -1201,7 +1288,8 @@
         "t_plus_5m": -0.879,
         "t_plus_15m": -0.9824,
         "t_plus_1h": -0.3987,
-        "t_plus_4h": -0.2242
+        "t_plus_4h": -0.2242,
+        "t_plus_24h": 0.5706
       }
     },
     {
@@ -6360,92 +6448,14 @@
       "timestamp_utc": "2026-04-20T04:51:50+00:00",
       "raw_text": "The $13 billion DeFi wipeout in two days, and it started with KelpDAO attack",
       "impact": {}
-    },
-    {
-      "event_id": "6a42f473-b63c-424d-96a0-2d21c07232e3",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin erases weekend gains as US-Iran ceasefire faces pressure",
-      "url": "https://cointelegraph.com/news/bitcoin-erases-weekend-gains-us-iran-ceasefire-falls-under-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T04:15:27+00:00",
-      "raw_text": "Bitcoin erases weekend gains as US-Iran ceasefire faces pressure\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin erases weekend gains as US-Iran ceasefire faces pressure\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2lud",
-      "impact": {}
-    },
-    {
-      "event_id": "c1c23fa9-d5e3-4313-abdc-578dd64c9e6d",
-      "source": "rss:theblock",
-      "title": "Polymarket seeks $400 million raise at $15 billion valuation: report",
-      "url": "https://www.theblock.co/post/398022/polymarket-funding-15-billion-valuation?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T04:08:02+00:00",
-      "raw_text": "Polymarket seeks $400 million raise at $15 billion valuation: report\n\n<p>Polymarket had a $9 billion post-money valuation in October after Intercontinental Exchange agreed to invest up to $2 billion.</p>\n\n<p>Polymarket had a $9 billion post-money valuation in October after Intercontinental Exchange ",
-      "impact": {}
-    },
-    {
-      "event_id": "03a6579d-a9f5-409d-9c63-d56353945a08",
-      "source": "rss:cointelegraph",
-      "title": "Aave's TVL tanks $8B a day after $293M Kelp DAO hack",
-      "url": "https://cointelegraph.com/news/aave-tvl-falls-8-billion-after-kelp-dao-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T03:13:37+00:00",
-      "raw_text": "Aave's TVL tanks $8B a day after $293M Kelp DAO hack\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Aave's TVL tanks $8B a day after $293M Kelp DAO hack\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvY",
-      "impact": {}
-    },
-    {
-      "event_id": "e8887666-c089-46cd-8380-3e1fb7e4cb2c",
-      "source": "rss:theblock",
-      "title": "The Funding: Why the bar for crypto VC is higher than ever",
-      "url": "https://www.theblock.co/post/398015/the-funding-why-the-bar-for-crypto-vc-is-higher-than-ever?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T02:35:09+00:00",
-      "raw_text": "The Funding: Why the bar for crypto VC is higher than ever\n\n<p>Venture funding in crypto is no longer as fast or easy as before. I spoke to several top VCs to understand why.</p>\n\n<p>Venture funding in crypto is no longer as fast or easy as before. I spoke to several top VCs to understand why.</p>",
-      "impact": {}
-    },
-    {
-      "event_id": "9370da3a-c624-4dff-94ee-6a31ab1a9afa",
-      "source": "rss:coindesk",
-      "title": "Hack at Vercel sends crypto developers scrambling to lock down API keys",
-      "url": "https://www.coindesk.com/tech/2026/04/20/hack-at-vercel-sends-crypto-developers-scrambling-to-lock-down-api-keys",
-      "event_type": "hack",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T01:47:28+00:00",
-      "raw_text": "Hack at Vercel sends crypto developers scrambling to lock down API keys",
-      "impact": {}
-    },
-    {
-      "event_id": "ab33b733-2e54-42f5-a824-1cf520363192",
-      "source": "rss:theblock",
-      "title": "Singapore-based Cobo launches agentic wallet with guardrails for AI-led onchain execution",
-      "url": "https://www.theblock.co/post/397856/cobo-launches-agentic-wallet?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T01:05:02+00:00",
-      "raw_text": "Singapore-based Cobo launches agentic wallet with guardrails for AI-led onchain execution\n\n<p>Cobo has launched Cobo Agentic Wallet, enabling AI agents to perform onchain tasks and incorporating multi-party computation for safety.</p>\n\n<p>Cobo has launched Cobo Agentic Wallet, enabling AI agents to ",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 179,
-        "avg_1h": -0.09,
-        "avg_24h": -0.63,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 78,
-        "avg_1h": -0.12,
-        "avg_24h": -0.77,
+        "count": 80,
+        "avg_1h": -0.15,
+        "avg_24h": -0.33,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
@@ -6455,9 +6465,15 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 62,
-        "avg_1h": -0.08,
+        "count": 61,
+        "avg_1h": -0.09,
         "avg_24h": 3.29,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 178,
+        "avg_1h": -0.09,
+        "avg_24h": -0.63,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
