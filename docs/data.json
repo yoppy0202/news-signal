@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-04-24T09:07:36.746487+00:00",
+  "generated_at": "2026-04-24T10:43:11.938277+00:00",
   "events": [
+    {
+      "event_id": "833c3547-9d85-4774-b8ba-bb39525acbb6",
+      "source": "rss:theblock",
+      "title": "Spot bitcoin ETFs draw $2 billion in net inflows over 8-day positive streak",
+      "url": "https://www.theblock.co/post/398757/spot-bitcoin-etf-8-day-streak?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-24T09:32:30+00:00",
+      "raw_text": "Spot bitcoin ETFs draw $2 billion in net inflows over 8-day positive streak\n\n<p>Spot bitcoin ETFs logged $223.2 million in net inflows on Thursday, led by $167.5 million into BlackRock's IBIT.</p>\n\n<p>Spot bitcoin ETFs logged $223.2 million in net inflows on Thursday, led by $167.5 million into Blac",
+      "impact": {}
+    },
+    {
+      "event_id": "4f7ded11-ce7e-48f7-8666-4591355ad162",
+      "source": "rss:coindesk",
+      "title": "India pushes e-rupee through welfare pilots as BRICS digital currency plan takes shape",
+      "url": "https://www.coindesk.com/policy/2026/04/24/india-pushes-digital-rupee-through-welfare-pilots-as-brics-cbdc-plan-takes-shape",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-24T09:25:07+00:00",
+      "raw_text": "India pushes e-rupee through welfare pilots as BRICS digital currency plan takes shape",
+      "impact": {}
+    },
+    {
+      "event_id": "9cd23bbd-2f38-4c5f-96c1-a83112129b90",
+      "source": "rss:coindesk",
+      "title": "U.S. government sits on $26.5 billion gain from Intel stake, as shares surge 22%",
+      "url": "https://www.coindesk.com/markets/2026/04/24/u-s-government-sits-on-usd26-5-billion-gain-from-intel-stake-as-shares-surge-22",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-24T09:05:15+00:00",
+      "raw_text": "U.S. government sits on $26.5 billion gain from Intel stake, as shares surge 22%",
+      "impact": {}
+    },
     {
       "event_id": "368a76ec-e16c-4143-a534-2dca87319da8",
       "source": "rss:coindesk",
@@ -8,10 +44,16 @@
       "url": "https://www.coindesk.com/markets/2026/04/24/bitcoin-holder-metaplanet-raises-usd50-million-in-zero-interest-bonds-to-buy-more-btc",
       "event_type": "narrative",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-04-24T08:02:38+00:00",
       "raw_text": "Bitcoin-holder Metaplanet raises $50 million to buy more BTC",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.3606,
+        "t_plus_15m": -0.0847,
+        "t_plus_1h": -0.2792
+      }
     },
     {
       "event_id": "a4e549e7-3a5d-47bc-a193-db828fec9a40",
@@ -20,10 +62,16 @@
       "url": "https://www.theblock.co/post/398735/mantle-proposes-30000-eth-loan?utm_source=rss&utm_medium=rss",
       "event_type": "hack",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-04-24T07:37:12+00:00",
       "raw_text": "Mantle proposes up to 30,000 ETH loan to address Aave bad debt from Kelp exploit\n\n<p>The Mantle team wrote that the loan would generate yield and strengthen the relationship between Mantle and Aave.</p>\n\n<p>The Mantle team wrote that the loan would generate yield and strengthen the relationship betw",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.3216,
+        "t_plus_15m": -0.2768,
+        "t_plus_1h": -0.2216
+      }
     },
     {
       "event_id": "25ad9bba-4726-4602-b42f-167de855ccae",
@@ -32,10 +80,16 @@
       "url": "https://www.theblock.co/post/398740/metaplanet-issues-bonds-bitcoin?utm_source=rss&utm_medium=rss",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-04-24T07:18:02+00:00",
       "raw_text": "Metaplanet issues $50 million in zero-interest bonds to buy more bitcoin\n\n<p>In the first quarter of this year, Metaplanet purchased 5,075 BTC, bringing its total to 40,177 BTC as of March 31.</p>\n\n<p>In the first quarter of this year, Metaplanet purchased 5,075 BTC, bringing its total to 40,177 BTC",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.3006,
+        "t_plus_15m": -0.3153,
+        "t_plus_1h": -0.0847
+      }
     },
     {
       "event_id": "d71bc5dc-121c-4e3b-b540-188518ab2cb3",
@@ -148,7 +202,8 @@
       "impact": {
         "t_plus_5m": -0.2812,
         "t_plus_15m": -0.3433,
-        "t_plus_1h": -0.105
+        "t_plus_1h": -0.105,
+        "t_plus_4h": 0.076
       }
     },
     {
@@ -628,6 +683,18 @@
       "tokens": [],
       "timestamp_utc": "2026-04-23T17:45:02+00:00",
       "raw_text": "Figure shares sink 9% as $1B lending milestone meets market volatility\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Figure shares sink 9% as $1B lending milestone meets market volatility\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6L",
+      "impact": {}
+    },
+    {
+      "event_id": "1a580ed1-a84a-4827-a7e2-6bd62370785d",
+      "source": "rss:theblock",
+      "title": "US sanctions Cambodian senator tied to crypto scam centers as DOJ restrains $700M in broader crackdown",
+      "url": "https://www.theblock.co/post/398658/us-sanctions-cambodian-senator-alleged-behind-crypto-scam-centers-crackdown-widens?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T17:04:19+00:00",
+      "raw_text": "US sanctions Cambodian senator tied to crypto scam centers as DOJ restrains $700M in broader crackdown\n\n<p>The US sanctioned a Cambodian senator tied to crypto scam centers as the DOJ restrained over $700 million in a broader crackdown.</p>\n\n<p>The US sanctioned a Cambodian senator tied to crypto sc",
       "impact": {}
     },
     {
@@ -6365,80 +6432,32 @@
       "timestamp_utc": "2026-04-19T14:56:27+00:00",
       "raw_text": "Aave sees $6 billion deposit drop as Kelp hack exposes structural risk for DeFi lender",
       "impact": {}
-    },
-    {
-      "event_id": "5ae8d829-7d8d-448e-a69e-eb43656c38e6",
-      "source": "rss:coindesk",
-      "title": "RaveDAO's RAVE token collapses 90% in a day as exchange probes widen",
-      "url": "https://www.coindesk.com/markets/2026/04/19/ravedao-s-rave-token-collapses-90-in-a-day-as-exchange-probes-widen",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-19T14:28:45+00:00",
-      "raw_text": "RaveDAO's RAVE token collapses 90% in a day as exchange probes widen",
-      "impact": {}
-    },
-    {
-      "event_id": "27ca55e0-30b0-4c68-bd05-c521c49cfcb5",
-      "source": "rss:coindesk",
-      "title": "Inside the rise of wrench attacks against crypto holders and how France has become the focus",
-      "url": "https://www.coindesk.com/business/2026/04/19/inside-the-rise-of-wrench-attacks-against-crypto-holders-and-how-france-has-become-the-focus",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-19T14:00:00+00:00",
-      "raw_text": "Inside the rise of wrench attacks against crypto holders and how France has become the focus",
-      "impact": {}
-    },
-    {
-      "event_id": "85690fb8-a4b6-4256-a973-50f4333c6df8",
-      "source": "rss:coindesk",
-      "title": "Nomura study says 65% of institutional investors see crypto as a vital portfolio diversifier",
-      "url": "https://www.coindesk.com/business/2026/04/19/nomura-study-says-65-of-institutional-investors-see-crypto-as-a-vital-portfolio-diversifier",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-19T13:00:00+00:00",
-      "raw_text": "Nomura study says 65% of institutional investors see crypto as a vital portfolio diversifier",
-      "impact": {}
-    },
-    {
-      "event_id": "4acd1291-f265-47be-b1e5-ea453f5791d0",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin price drops to $75K as new Hormuz closure puts focus on oil",
-      "url": "https://cointelegraph.com/news/bitcoin-price-drops-75k-new-hormuz-closure-focus-oil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-19T12:27:28+00:00",
-      "raw_text": "Bitcoin price drops to $75K as new Hormuz closure puts focus on oil\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price drops to $75K as new Hormuz closure puts focus on oil\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 164,
+      "macro": {
+        "count": 75,
         "avg_1h": -0.12,
-        "avg_24h": 0.7,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 68,
-        "avg_1h": -0.07,
-        "avg_24h": 3.29,
+        "avg_24h": -0.77,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 181,
+        "count": 180,
         "avg_1h": -0.09,
         "avg_24h": -0.63,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 74,
-        "avg_1h": -0.12,
-        "avg_24h": -0.77,
+      "narrative": {
+        "count": 165,
+        "avg_1h": -0.13,
+        "avg_24h": 0.7,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 67,
+        "avg_1h": -0.08,
+        "avg_24h": 3.29,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
