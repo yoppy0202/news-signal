@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-04-25T17:54:35.048377+00:00",
+  "generated_at": "2026-04-25T19:08:41.142439+00:00",
   "events": [
+    {
+      "event_id": "aed86ae4-5e0b-4eab-97cb-4b93ac719b0f",
+      "source": "rss:theblock",
+      "title": "CFTC sues New York over prediction market crackdown as 38 AGs back Massachusetts’ Kalshi case",
+      "url": "https://www.theblock.co/post/398886/cftc-sues-new-york-over-prediction-market-crackdown-as-38-ags-back-massachusetts-kalshi-case?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-25T17:42:59+00:00",
+      "raw_text": "CFTC sues New York over prediction market crackdown as 38 AGs back Massachusetts’ Kalshi case\n\n<p>The dueling actions mark the fourth state the CFTC has sued in three weeks and come three days after New York's AG sued Coinbase and Gemini.</p>\n\n<p>The dueling actions mark the fourth state the CFTC ha",
+      "impact": {}
+    },
     {
       "event_id": "506faf29-bf8e-493b-bd6d-754e2ca771ea",
       "source": "rss:coindesk",
@@ -6475,38 +6487,20 @@
       "timestamp_utc": "2026-04-20T16:07:23+00:00",
       "raw_text": "Bitcoin faces near-term pressure as liquidity tightens, Hilbert Group CIO says",
       "impact": {}
-    },
-    {
-      "event_id": "d9037dd4-1af5-4dae-b99e-db58d463f3cb",
-      "source": "rss:decrypt",
-      "title": "The Quantum Threat Is Coming for Bitcoin and Crypto—Here's How XRP Ledger Is Preparing",
-      "url": "https://decrypt.co/364897/quantum-threat-bitcoin-crypto-how-xrp-ledger-preparing",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-04-20T16:06:48+00:00",
-      "raw_text": "The Quantum Threat Is Coming for Bitcoin and Crypto—Here's How XRP Ledger Is Preparing\n\nQuantum computers could threaten Bitcoin, Ethereum, and other major networks. Here’s how Ripple plans to secure the XRP Ledger.",
-      "impact": {
-        "t_plus_5m": -0.1989,
-        "t_plus_15m": -0.1201,
-        "t_plus_1h": -0.4067
-      }
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 83,
-        "avg_1h": -0.07,
-        "avg_24h": -0.64,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 183,
+        "count": 184,
         "avg_1h": -0.04,
         "avg_24h": -0.89,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 82,
+        "avg_1h": -0.04,
+        "avg_24h": -0.64,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
