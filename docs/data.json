@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-04-25T14:57:46.876778+00:00",
+  "generated_at": "2026-04-25T15:53:45.470505+00:00",
   "events": [
+    {
+      "event_id": "76be69c4-8493-4e05-b89a-f1080f39f48d",
+      "source": "rss:coindesk",
+      "title": "Bitcoin at $40,000 would be 'near-unprecedented' statistical outcome, analyst says",
+      "url": "https://www.coindesk.com/markets/2026/04/25/bitcoin-at-usd40-000-would-be-near-unprecedented-statistical-outcome-analyst-says",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-25T15:00:00+00:00",
+      "raw_text": "Bitcoin at $40,000 would be 'near-unprecedented' statistical outcome, analyst says",
+      "impact": {}
+    },
+    {
+      "event_id": "6e8aa563-8ec7-4703-a6d7-f9e9c5b610cd",
+      "source": "rss:theblock",
+      "title": "Aave, Kelp, LayerZero ask Arbitrum DAO to release $71 million in frozen ETH to rsETH recovery effort",
+      "url": "https://www.theblock.co/post/398882/aave-kelp-layerzero-ask-arbitrum-dao-to-release-71-million-in-frozen-eth-to-rseth-recovery-effort?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-25T14:55:28+00:00",
+      "raw_text": "Aave, Kelp, LayerZero ask Arbitrum DAO to release $71 million in frozen ETH to rsETH recovery effort\n\n<p>The standard Constitutional AIP lifecycle runs roughly 49 days from forum publication to onchain execution, a timeline some delegates say is too long.</p>\n\n<p>The standard Constitutional AIP life",
+      "impact": {}
+    },
+    {
+      "event_id": "eec904f5-9cc9-4803-b6fd-0e9bdbb5efe0",
+      "source": "rss:cointelegraph",
+      "title": "CFTC sues New York over bid to apply gambling laws to prediction markets",
+      "url": "https://cointelegraph.com/news/cftc-sues-new-york-over-bid-to-apply-gambling-laws-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-25T14:03:17+00:00",
+      "raw_text": "CFTC sues New York over bid to apply gambling laws to prediction markets\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC sues New York over bid to apply gambling laws to prediction markets\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
+      "impact": {}
+    },
     {
       "event_id": "219fa7f0-0860-4e33-9216-829f05e3d214",
       "source": "rss:coindesk",
@@ -64,7 +100,8 @@
       "impact": {
         "t_plus_5m": -0.106,
         "t_plus_15m": -0.1018,
-        "t_plus_1h": -0.0748
+        "t_plus_1h": -0.0748,
+        "t_plus_4h": -0.1959
       }
     },
     {
@@ -6450,48 +6487,6 @@
       "timestamp_utc": "2026-04-20T15:29:41+00:00",
       "raw_text": "Coinbase Now Lets UK Users Borrow Against Their Bitcoin and Ethereum\n\nAfter launching crypto-backed loans in the U.S. last year, Coinbase has expanded the Bitcoin, Ethereum offering to U.K. users.",
       "impact": {}
-    },
-    {
-      "event_id": "1e178ff4-8a28-45ed-8fe9-e112e8758a92",
-      "source": "rss:coindesk",
-      "title": "UK gas-investment firm weighs bitcoin mining, draws criticism",
-      "url": "https://www.coindesk.com/business/2026/04/20/uk-gas-investment-firm-weighs-bitcoin-mining-draws-criticism",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T15:22:30+00:00",
-      "raw_text": "UK gas-investment firm weighs bitcoin mining, draws criticism",
-      "impact": {}
-    },
-    {
-      "event_id": "40b40351-1997-4769-a86f-fa7e17b9713c",
-      "source": "rss:coindesk",
-      "title": "Blockchain sleuth accuses RaveDAO of knowing who manipulated the price of its token",
-      "url": "https://www.coindesk.com/business/2026/04/20/blockchain-sleuth-accuses-ravedao-of-knowing-who-manipulated-the-price-of-its-token",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T15:16:08+00:00",
-      "raw_text": "Blockchain sleuth accuses RaveDAO of knowing who manipulated the price of its token",
-      "impact": {}
-    },
-    {
-      "event_id": "0faece44-973d-42ce-925b-ce9c3f6e788a",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin daily gains near 3% as stocks ignore US-Iran war threat, oil drops",
-      "url": "https://cointelegraph.com/news/bitcoin-daily-gains-near-3-stocks-ignore-us-iran-war-threat-oil-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-04-20T15:14:52+00:00",
-      "raw_text": "Bitcoin daily gains near 3% as stocks ignore US-Iran war threat, oil drops\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin daily gains near 3% as stocks ignore US-Iran war threat, oil drops\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
-      "impact": {
-        "t_plus_5m": -0.6253,
-        "t_plus_15m": -0.0085,
-        "t_plus_1h": -0.2831
-      }
     }
   ],
   "stats": {
@@ -6503,13 +6498,13 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 174,
-        "avg_1h": -0.09,
+        "count": 173,
+        "avg_1h": -0.07,
         "avg_24h": 0.5,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 80,
+        "count": 81,
         "avg_1h": -0.07,
         "avg_24h": -0.64,
         "win_rate_1h_gt5pct": 0.0
