@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-04-25T15:53:45.470505+00:00",
+  "generated_at": "2026-04-25T16:59:25.402996+00:00",
   "events": [
+    {
+      "event_id": "cb130a0e-d843-444b-92eb-fd73e68fa9fe",
+      "source": "rss:decrypt",
+      "title": "Bitcoin Hit Its Highest Price Since January—Why VanEck Analysts See More Potential Gains",
+      "url": "https://decrypt.co/365556/bitcoin-highest-price-january-why-vaneck-analysts-more-gains",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-25T16:31:33+00:00",
+      "raw_text": "Bitcoin Hit Its Highest Price Since January—Why VanEck Analysts See More Potential Gains\n\nBitcoin hash rate recovery and negative funding rates signal potential gains ahead, according to the ETF provider's latest network analysis.",
+      "impact": {}
+    },
+    {
+      "event_id": "715b2492-e7b3-4183-8e04-de584f622a30",
+      "source": "rss:coindesk",
+      "title": "Bitcoin falls after Trump reportedly canceled Steve Witkoff and Jared Kushner's Iran-talks trip",
+      "url": "https://www.coindesk.com/markets/2026/04/25/bitcoin-falls-after-trump-reportedly-canceled-steve-witkoff-and-jared-kushner-s-iran-talks-trip",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-25T16:20:02+00:00",
+      "raw_text": "Bitcoin falls after Trump reportedly canceled Steve Witkoff and Jared Kushner's Iran-talks trip",
+      "impact": {}
+    },
+    {
+      "event_id": "0852cc89-bcde-4f76-b062-6d995f88365d",
+      "source": "rss:coindesk",
+      "title": "Mike Tyson, Tether CEO, Cathie Wood among speakers at Trump's 'most exclusive' crypto conference",
+      "url": "https://www.coindesk.com/policy/2026/04/25/mike-tyson-tether-ceo-cathie-wood-among-speakers-at-trump-s-most-exclusive-crypto-conference",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-25T15:24:31+00:00",
+      "raw_text": "Mike Tyson, Tether CEO, Cathie Wood among speakers at Trump's 'most exclusive' crypto conference",
+      "impact": {}
+    },
     {
       "event_id": "76be69c4-8493-4e05-b89a-f1080f39f48d",
       "source": "rss:coindesk",
@@ -20,10 +56,15 @@
       "url": "https://www.theblock.co/post/398882/aave-kelp-layerzero-ask-arbitrum-dao-to-release-71-million-in-frozen-eth-to-rseth-recovery-effort?utm_source=rss&utm_medium=rss",
       "event_type": "narrative",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-04-25T14:55:28+00:00",
       "raw_text": "Aave, Kelp, LayerZero ask Arbitrum DAO to release $71 million in frozen ETH to rsETH recovery effort\n\n<p>The standard Constitutional AIP lifecycle runs roughly 49 days from forum publication to onchain execution, a timeline some delegates say is too long.</p>\n\n<p>The standard Constitutional AIP life",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0027,
+        "t_plus_15m": 0.0052
+      }
     },
     {
       "event_id": "eec904f5-9cc9-4803-b6fd-0e9bdbb5efe0",
@@ -6451,62 +6492,26 @@
       "timestamp_utc": "2026-04-20T16:01:04+00:00",
       "raw_text": "Ocean Network Builds ‘Airbnb for Compute’ Network Using Idle GPUs\n\nAmid the ongoing GPU shortage, Ocean Network is looking to connect the world’s massive amounts of idle computing power with those who need it.",
       "impact": {}
-    },
-    {
-      "event_id": "7d9c271a-c2df-421c-8b18-86ce5b6e6508",
-      "source": "rss:theblock",
-      "title": "Tether joins $8 million strategic funding round in RWA firm Kaio",
-      "url": "https://www.theblock.co/post/398108/tether-joins-8-million-strategic-funding-round-in-rwa-firm-kaio?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T15:50:24+00:00",
-      "raw_text": "Tether joins $8 million strategic funding round in RWA firm Kaio\n\n<p>\"Kaio’s unique position unlocks new pathways for capital formation and investment,\" Tether CEO Paolo Ardoino said.</p>\n\n<p>\"Kaio’s unique position unlocks new pathways for capital formation and investment,\" Tether CEO Paolo Ardoino",
-      "impact": {}
-    },
-    {
-      "event_id": "395f6b25-8a73-4f95-b134-7535be8eb778",
-      "source": "rss:theblock",
-      "title": "Tether discloses nearly 2 million-share stake in Bitmain-linked Antalpha",
-      "url": "https://www.theblock.co/post/398101/tether-discloses-2-million-share-stake-bitmain-linked-antalpha-ipo?utm_source=rss&utm_medium=rss",
-      "event_type": "listing",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T15:42:43+00:00",
-      "raw_text": "Tether discloses nearly 2 million-share stake in Bitmain-linked Antalpha\n\n<p>Nasdaq-listed Antalpha’s lending business is growing quickly despite a more than 27% drop in its stock price.</p>\n\n<p>Nasdaq-listed Antalpha’s lending business is growing quickly despite a more than 27% drop in its stock pr",
-      "impact": {}
-    },
-    {
-      "event_id": "f34c32e9-aeaa-4705-a3a5-044c1d477fe6",
-      "source": "rss:decrypt",
-      "title": "Coinbase Now Lets UK Users Borrow Against Their Bitcoin and Ethereum",
-      "url": "https://decrypt.co/364890/coinbase-now-lets-uk-users-borrow-against-their-bitcoin-and-ethereum",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T15:29:41+00:00",
-      "raw_text": "Coinbase Now Lets UK Users Borrow Against Their Bitcoin and Ethereum\n\nAfter launching crypto-backed loans in the U.S. last year, Coinbase has expanded the Bitcoin, Ethereum offering to U.K. users.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 82,
+        "avg_1h": -0.07,
+        "avg_24h": -0.64,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 181,
+        "count": 183,
         "avg_1h": -0.04,
         "avg_24h": -0.89,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 173,
+        "count": 171,
         "avg_1h": -0.07,
         "avg_24h": 0.5,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 81,
-        "avg_1h": -0.07,
-        "avg_24h": -0.64,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
@@ -6522,7 +6527,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
-        "count": 8,
+        "count": 7,
         "avg_1h": -0.46,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
