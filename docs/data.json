@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-04-25T16:59:25.402996+00:00",
+  "generated_at": "2026-04-25T17:54:35.048377+00:00",
   "events": [
+    {
+      "event_id": "506faf29-bf8e-493b-bd6d-754e2ca771ea",
+      "source": "rss:coindesk",
+      "title": "How Anthropic’s Mythos model is forcing the crypto industry to rethink everything about security",
+      "url": "https://www.coindesk.com/tech/2026/04/25/how-anthropic-s-mythos-model-is-forcing-the-crypto-industry-to-rethink-everything-about-security",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-25T17:00:00+00:00",
+      "raw_text": "How Anthropic’s Mythos model is forcing the crypto industry to rethink everything about security",
+      "impact": {}
+    },
     {
       "event_id": "cb130a0e-d843-444b-92eb-fd73e68fa9fe",
       "source": "rss:decrypt",
@@ -63,7 +75,8 @@
       "raw_text": "Aave, Kelp, LayerZero ask Arbitrum DAO to release $71 million in frozen ETH to rsETH recovery effort\n\n<p>The standard Constitutional AIP lifecycle runs roughly 49 days from forum publication to onchain execution, a timeline some delegates say is too long.</p>\n\n<p>The standard Constitutional AIP life",
       "impact": {
         "t_plus_5m": -0.0027,
-        "t_plus_15m": 0.0052
+        "t_plus_15m": 0.0052,
+        "t_plus_1h": -0.3389
       }
     },
     {
@@ -6480,24 +6493,12 @@
         "t_plus_15m": -0.1201,
         "t_plus_1h": -0.4067
       }
-    },
-    {
-      "event_id": "08d6f450-fd9a-4ba1-974f-4de90160aa7c",
-      "source": "rss:decrypt",
-      "title": "Ocean Network Builds ‘Airbnb for Compute’ Network Using Idle GPUs",
-      "url": "https://decrypt.co/364596/ocean-network-builds-airbnb-for-compute-network-using-idle-gpus",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T16:01:04+00:00",
-      "raw_text": "Ocean Network Builds ‘Airbnb for Compute’ Network Using Idle GPUs\n\nAmid the ongoing GPU shortage, Ocean Network is looking to connect the world’s massive amounts of idle computing power with those who need it.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "macro": {
-        "count": 82,
+        "count": 83,
         "avg_1h": -0.07,
         "avg_24h": -0.64,
         "win_rate_1h_gt5pct": 0.0
@@ -6509,8 +6510,8 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 171,
-        "avg_1h": -0.07,
+        "count": 170,
+        "avg_1h": -0.09,
         "avg_24h": 0.5,
         "win_rate_1h_gt5pct": 0.0
       },
