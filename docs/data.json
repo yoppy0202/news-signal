@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T11:00:15.364306+00:00",
+  "generated_at": "2026-04-25T11:51:07.827418+00:00",
   "events": [
     {
       "event_id": "7769ee5d-fd04-4d09-8414-484b157178b0",
@@ -8,10 +8,15 @@
       "url": "https://www.coindesk.com/tech/2026/04/25/clock-is-ticking-for-bitcoin-to-prevent-quantum-threat-as-it-could-drain-6-9-million-btc-including-satoshi-s",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-04-25T10:00:00+00:00",
       "raw_text": "Clock is ticking for bitcoin to prevent quantum threat as it could drain 6.9 million BTC including Satoshi’s",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.106,
+        "t_plus_15m": -0.1018
+      }
     },
     {
       "event_id": "23d2a741-20d5-4e3c-8a06-3dfda8420209",
