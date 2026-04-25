@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-04-25T22:53:53.436823+00:00",
+  "generated_at": "2026-04-25T23:52:20.354595+00:00",
   "events": [
+    {
+      "event_id": "af11db60-32ec-4ca0-ac6a-9c305cb3fdc8",
+      "source": "rss:cointelegraph",
+      "title": "US DOJ sentences man to 70 months in prison for role in $263M scam group",
+      "url": "https://cointelegraph.com/news/doj-sentence-70-months-263m-crypto-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-25T22:05:44+00:00",
+      "raw_text": "US DOJ sentences man to 70 months in prison for role in $263M scam group\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US DOJ sentences man to 70 months in prison for role in $263M scam group\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
+      "impact": {}
+    },
     {
       "event_id": "9d47c2ac-38d3-4bb4-ae0a-315f1001487e",
       "source": "rss:theblock",
@@ -345,7 +357,8 @@
         "t_plus_5m": 0.2797,
         "t_plus_15m": 0.2804,
         "t_plus_1h": -0.0304,
-        "t_plus_4h": 0.2594
+        "t_plus_4h": 0.2594,
+        "t_plus_24h": 0.1552
       }
     },
     {
@@ -6464,30 +6477,12 @@
         "t_plus_15m": -0.7889,
         "t_plus_1h": -0.1296
       }
-    },
-    {
-      "event_id": "9e30dd3b-9629-4fb4-929f-d60f79bfcccb",
-      "source": "rss:decrypt",
-      "title": "Crypto Funds Add $1.4B as Bitcoin Clears Two-Month Range",
-      "url": "https://decrypt.co/364907/crypto-funds-add-1-4b-as-bitcoin-clears-two-month-range",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-04-20T16:41:30+00:00",
-      "raw_text": "Crypto Funds Add $1.4B as Bitcoin Clears Two-Month Range\n\nBitcoin investment products accounted for $1.12 billion in inflows last week, as BTC hit its highest level since early February.",
-      "impact": {
-        "t_plus_5m": 0.0028,
-        "t_plus_15m": -0.1621,
-        "t_plus_1h": 0.3395
-      }
     }
   ],
   "stats": {
     "by_event_type": {
       "hack": {
-        "count": 52,
+        "count": 53,
         "avg_1h": -0.08,
         "avg_24h": 1.81,
         "win_rate_1h_gt5pct": 0.0
@@ -6495,12 +6490,12 @@
       "narrative": {
         "count": 170,
         "avg_1h": -0.09,
-        "avg_24h": 0.5,
+        "avg_24h": 0.46,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 184,
-        "avg_1h": -0.04,
+        "count": 183,
+        "avg_1h": -0.06,
         "avg_24h": -0.89,
         "win_rate_1h_gt5pct": 0.0
       },
