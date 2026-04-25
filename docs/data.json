@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-04-25T13:37:12.456566+00:00",
+  "generated_at": "2026-04-25T14:57:46.876778+00:00",
   "events": [
+    {
+      "event_id": "219fa7f0-0860-4e33-9216-829f05e3d214",
+      "source": "rss:coindesk",
+      "title": "Europe’s banks are going all in on crypto",
+      "url": "https://www.coindesk.com/opinion/2026/04/25/europe-s-banks-are-going-all-in-on-crypto",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-25T13:30:00+00:00",
+      "raw_text": "Europe’s banks are going all in on crypto",
+      "impact": {}
+    },
+    {
+      "event_id": "a7f802f3-2c24-4c21-8965-bfe574d2e0d0",
+      "source": "rss:coindesk",
+      "title": "Coinbase’s Jesse Pollak says AI agents are the next big wave for crypto payments",
+      "url": "https://www.coindesk.com/tech/2026/04/25/coinbase-s-jesse-pollak-says-ai-agents-are-the-next-big-wave-for-crypto-payments",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-25T13:00:00+00:00",
+      "raw_text": "Coinbase’s Jesse Pollak says AI agents are the next big wave for crypto payments",
+      "impact": {}
+    },
+    {
+      "event_id": "80db7bc1-7c7c-4a5a-9136-78189b73f51e",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin traders eye $73K next as weekly trend line holds price hostage",
+      "url": "https://cointelegraph.com/markets/bitcoin-traders-eye-73k-next-weekly-trend-line-holds-price-hostage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-25T12:22:17+00:00",
+      "raw_text": "Bitcoin traders eye $73K next as weekly trend line holds price hostage\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin traders eye $73K next as weekly trend line holds price hostage\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6L",
+      "impact": {}
+    },
     {
       "event_id": "883d6fc9-b67b-4cf1-aab1-a2701cab1482",
       "source": "rss:cointelegraph",
@@ -6456,55 +6492,6 @@
         "t_plus_15m": -0.0085,
         "t_plus_1h": -0.2831
       }
-    },
-    {
-      "event_id": "b66ae791-f73a-47bb-a4ee-98aa51810815",
-      "source": "rss:coindesk",
-      "title": "U.S. crypto adoption is rebounding, bitcoin still dominates, Deutsche Bank says",
-      "url": "https://www.coindesk.com/markets/2026/04/20/u-s-crypto-adoption-is-rebounding-bitcoin-still-dominates-deutsche-bank-says",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T15:12:09+00:00",
-      "raw_text": "U.S. crypto adoption is rebounding, bitcoin still dominates, Deutsche Bank says",
-      "impact": {}
-    },
-    {
-      "event_id": "13ae789b-07f2-4a03-a387-ee6f65d1e94e",
-      "source": "rss:theblock",
-      "title": "Ripple races to make XRP Ledger quantum-ready as computing threat turns ‘credible’",
-      "url": "https://www.theblock.co/post/398105/ripple-races-to-make-xrp-ledger-quantum-ready-as-computing-threat-turns-credible?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-04-20T15:10:38+00:00",
-      "raw_text": "Ripple races to make XRP Ledger quantum-ready as computing threat turns ‘credible’\n\n<p>The company also made the case that XRP Ledger is better prepared than other blockchains, including Ethereum.</p>\n\n<p>The company also made the case that XRP Ledger is better prepared than other blockchains, inclu",
-      "impact": {
-        "t_plus_5m": -1.1505,
-        "t_plus_15m": -0.2387,
-        "t_plus_1h": -0.1989
-      }
-    },
-    {
-      "event_id": "fc8d700d-9a80-4965-b989-2188ff53076e",
-      "source": "rss:decrypt",
-      "title": "Tom Lee's BitMine Nears Major Milestone With Largest Ethereum Buy This Year",
-      "url": "https://decrypt.co/364887/tom-lee-bitmine-nears-milestone-largest-ethereum-buy-this-year",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-04-20T14:45:33+00:00",
-      "raw_text": "Tom Lee's BitMine Nears Major Milestone With Largest Ethereum Buy This Year\n\nBitMine Immersion Technologies bought $235 million worth of Ethereum last week, bring its total holdings to nearly 5 million ETH.",
-      "impact": {
-        "t_plus_5m": -0.3426,
-        "t_plus_15m": -0.9284,
-        "t_plus_1h": -0.0247,
-        "t_plus_24h": 0.4052
-      }
     }
   ],
   "stats": {
@@ -6512,7 +6499,7 @@
       "unknown": {
         "count": 181,
         "avg_1h": -0.04,
-        "avg_24h": -0.7,
+        "avg_24h": -0.89,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
