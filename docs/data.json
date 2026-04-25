@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-04-24T23:53:41.234344+00:00",
+  "generated_at": "2026-04-25T03:29:31.250793+00:00",
   "events": [
+    {
+      "event_id": "b9318b96-0ed8-4a17-9509-ce80027c379d",
+      "source": "rss:cointelegraph",
+      "title": "US authorities freeze $344M in crypto linked to Iran",
+      "url": "https://cointelegraph.com/news/united-states-freeze-crypto-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-24T23:16:10+00:00",
+      "raw_text": "US authorities freeze $344M in crypto linked to Iran\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US authorities freeze $344M in crypto linked to Iran\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvY",
+      "impact": {}
+    },
     {
       "event_id": "9e029188-bab5-4ddd-98fb-78e0ee7b637b",
       "source": "rss:coindesk",
@@ -20,10 +32,16 @@
       "url": "https://cointelegraph.com/news/bitcoin-dev-paul-sztorc-hard-fork-ecash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-04-24T21:55:00+00:00",
       "raw_text": "Bitcoin developer Paul Sztorc announces BTC hard fork called eCash\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin developer Paul Sztorc announces BTC hard fork called eCash\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2797,
+        "t_plus_15m": 0.2804,
+        "t_plus_1h": -0.0304
+      }
     },
     {
       "event_id": "b4fd05f9-2483-43d2-99c7-ec3b718fb279",
@@ -6477,32 +6495,20 @@
       "timestamp_utc": "2026-04-20T13:44:30+00:00",
       "raw_text": "Coinbase, Bybit said to be working together on tokenization, custody and distribution of U.S. stocks",
       "impact": {}
-    },
-    {
-      "event_id": "baa19e78-f66a-4482-81d6-59d218f71c1e",
-      "source": "rss:cointelegraph",
-      "title": "ZachXBT asks MemeCore to explain valuation and token supply",
-      "url": "https://cointelegraph.com/news/investigator-concentration-concerns-memecore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T13:37:43+00:00",
-      "raw_text": "ZachXBT asks MemeCore to explain valuation and token supply\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ZachXBT asks MemeCore to explain valuation and token supply\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXB",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 175,
+        "avg_1h": -0.09,
+        "avg_24h": 0.56,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 180,
         "avg_1h": -0.08,
         "avg_24h": -0.63,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 175,
-        "avg_1h": -0.1,
-        "avg_24h": 0.56,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
