@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-04-25T03:29:31.250793+00:00",
+  "generated_at": "2026-04-25T05:56:02.176830+00:00",
   "events": [
+    {
+      "event_id": "77c1b666-7c65-4d68-ab88-fba49e031d71",
+      "source": "rss:cointelegraph",
+      "title": "Hyperliquid whale holds $38M short against Bitcoin, but does it matter?",
+      "url": "https://cointelegraph.com/markets/hyperliquid-whale-holds-38m-short-against-bitcoin-but-does-it-matter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "whale_move",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-25T02:35:18+00:00",
+      "raw_text": "Hyperliquid whale holds $38M short against Bitcoin, but does it matter?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hyperliquid whale holds $38M short against Bitcoin, but does it matter?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
+      "impact": {}
+    },
     {
       "event_id": "b9318b96-0ed8-4a17-9509-ce80027c379d",
       "source": "rss:cointelegraph",
@@ -40,7 +52,8 @@
       "impact": {
         "t_plus_5m": 0.2797,
         "t_plus_15m": 0.2804,
-        "t_plus_1h": -0.0304
+        "t_plus_1h": -0.0304,
+        "t_plus_4h": 0.2594
       }
     },
     {
@@ -142,7 +155,8 @@
       "impact": {
         "t_plus_5m": 0.0103,
         "t_plus_15m": 0.0158,
-        "t_plus_1h": -0.0292
+        "t_plus_1h": -0.0292,
+        "t_plus_4h": -0.3634
       }
     },
     {
@@ -172,7 +186,8 @@
       "impact": {
         "t_plus_5m": -0.2452,
         "t_plus_15m": -0.3057,
-        "t_plus_1h": -0.0086
+        "t_plus_1h": -0.0086,
+        "t_plus_4h": -0.426
       }
     },
     {
@@ -1152,6 +1167,18 @@
       "tokens": [],
       "timestamp_utc": "2026-04-24T01:09:37+00:00",
       "raw_text": "Altcoins have ‘30% to 60%’ upside if Bitcoin taps $86K: Analyst\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Altcoins have ‘30% to 60%’ upside if Bitcoin taps $86K: Analyst\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGV",
+      "impact": {}
+    },
+    {
+      "event_id": "d090340f-4329-44a7-815f-d7161de9bf27",
+      "source": "rss:solana_official",
+      "title": "One Page Per Asset: Inside Tokens.xyz",
+      "url": "https://solana.com/news/inside-tokens-xyz",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-23T23:17:00+00:00",
+      "raw_text": "One Page Per Asset: Inside Tokens.xyz\n\nTokens.xyz makes multiple onchain representations of the same underlying asset on Solana findable from a single page.",
       "impact": {}
     },
     {
@@ -6467,42 +6494,20 @@
       "timestamp_utc": "2026-04-20T13:58:31+00:00",
       "raw_text": "Japan to test government bonds as digital collateral on Canton\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Japan to test government bonds as digital collateral on Canton\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZ",
       "impact": {}
-    },
-    {
-      "event_id": "c7747934-b2ef-4196-a2c1-4e98252516bc",
-      "source": "rss:theblock",
-      "title": "Tom Lee says ‘crypto winter is much closer to ending’ as Bitmine buys another 101,627 ETH",
-      "url": "https://www.theblock.co/post/398096/tom-lee-says-crypto-winter-is-much-closer-to-ending-as-bitmine-buys-another-101627-eth?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-04-20T13:55:00+00:00",
-      "raw_text": "Tom Lee says ‘crypto winter is much closer to ending’ as Bitmine buys another 101,627 ETH\n\n<p>Bitmine bought 101,627 ETH in a week, pushing its treasury to 4.12% of ether's supply as chairman Lee calls crypto winter's end.</p>\n\n<p>Bitmine bought 101,627 ETH in a week, pushing its treasury to 4.12% o",
-      "impact": {
-        "t_plus_24h": -0.014
-      }
-    },
-    {
-      "event_id": "db667f7b-5e35-424a-84c4-62e4c672474c",
-      "source": "rss:coindesk",
-      "title": "Coinbase, Bybit said to be working together on tokenization, custody and distribution of U.S. stocks",
-      "url": "https://www.coindesk.com/business/2026/04/20/coinbase-bybit-said-to-be-working-together-on-tokenization-custody-and-distribution-of-u-s-stocks",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T13:44:30+00:00",
-      "raw_text": "Coinbase, Bybit said to be working together on tokenization, custody and distribution of U.S. stocks",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "whale_move": {
+        "count": 6,
+        "avg_1h": -0.15,
+        "avg_24h": 4.08,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 175,
+        "count": 174,
         "avg_1h": -0.09,
-        "avg_24h": 0.56,
+        "avg_24h": 0.66,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
@@ -6527,12 +6532,6 @@
         "count": 8,
         "avg_1h": -0.46,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "whale_move": {
-        "count": 5,
-        "avg_1h": -0.15,
-        "avg_24h": 4.08,
         "win_rate_1h_gt5pct": 0.0
       }
     }
