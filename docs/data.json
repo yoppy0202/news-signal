@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-04-25T05:56:02.176830+00:00",
+  "generated_at": "2026-04-25T07:43:29.854820+00:00",
   "events": [
+    {
+      "event_id": "3cbd2d50-76ba-480b-81f3-a435ac547cb5",
+      "source": "rss:coindesk",
+      "title": "Ripple-linked XRP stalls near $1.44 as 'triangle squeeze' nears breakout",
+      "url": "https://www.coindesk.com/markets/2026/04/25/ripple-linked-xrp-stalls-near-usd1-44-as-triangle-squeeze-nears-breakout",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-25T05:33:20+00:00",
+      "raw_text": "Ripple-linked XRP stalls near $1.44 as 'triangle squeeze' nears breakout",
+      "impact": {}
+    },
     {
       "event_id": "77c1b666-7c65-4d68-ab88-fba49e031d71",
       "source": "rss:cointelegraph",
@@ -656,6 +668,18 @@
       }
     },
     {
+      "event_id": "0ee4fea8-4a6f-4264-960e-13a77ea78290",
+      "source": "rss:coindesk",
+      "title": "SpaceX's $75 billion IPO could drain the liquidity that's helping lift bitcoin and crypto",
+      "url": "https://www.coindesk.com/markets/2026/04/24/spacex-s-usd75-billion-ipo-could-drain-the-liquidity-that-s-been-lifting-bitcoin-and-crypto",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-24T13:54:11+00:00",
+      "raw_text": "SpaceX's $75 billion IPO could drain the liquidity that's helping lift bitcoin and crypto",
+      "impact": {}
+    },
+    {
       "event_id": "3b838db0-40eb-4178-b124-b3538ee551cf",
       "source": "rss:decrypt",
       "title": "Meta Agrees to Deploy Millions of Amazon AI Chips in Deal Worth Billions",
@@ -1118,7 +1142,8 @@
         "t_plus_5m": -0.2812,
         "t_plus_15m": -0.3433,
         "t_plus_1h": -0.105,
-        "t_plus_4h": 0.076
+        "t_plus_4h": 0.076,
+        "t_plus_24h": 0.1459
       }
     },
     {
@@ -6462,42 +6487,16 @@
         "t_plus_1h": -0.6253,
         "t_plus_24h": 0.2564
       }
-    },
-    {
-      "event_id": "2df6bec6-5163-4568-a2bc-544245731c43",
-      "source": "rss:cointelegraph",
-      "title": "Bitmine buys 101,627 ETH in largest purchase since December 2025",
-      "url": "https://cointelegraph.com/news/bitmine-buys-101-627-eth-in-largest-purchase-since-december-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-04-20T14:15:12+00:00",
-      "raw_text": "Bitmine buys 101,627 ETH in largest purchase since December 2025\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitmine buys 101,627 ETH in largest purchase since December 2025\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2lud",
-      "impact": {
-        "t_plus_5m": -0.2393,
-        "t_plus_15m": 0.07,
-        "t_plus_1h": -0.9279,
-        "t_plus_4h": 0.9282,
-        "t_plus_24h": -0.1122
-      }
-    },
-    {
-      "event_id": "e6d0598b-6e14-4844-ae1c-d0fd7b23ffd3",
-      "source": "rss:cointelegraph",
-      "title": "Japan to test government bonds as digital collateral on Canton",
-      "url": "https://cointelegraph.com/news/jscc-to-test-use-of-japanese-bonds-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T13:58:31+00:00",
-      "raw_text": "Japan to test government bonds as digital collateral on Canton\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Japan to test government bonds as digital collateral on Canton\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZ",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 180,
+        "avg_1h": -0.04,
+        "avg_24h": -0.7,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "whale_move": {
         "count": 6,
         "avg_1h": -0.15,
@@ -6505,19 +6504,13 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 174,
+        "count": 175,
         "avg_1h": -0.09,
-        "avg_24h": 0.66,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 180,
-        "avg_1h": -0.08,
-        "avg_24h": -0.63,
+        "avg_24h": 0.58,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 81,
+        "count": 80,
         "avg_1h": -0.11,
         "avg_24h": -0.33,
         "win_rate_1h_gt5pct": 0.0
