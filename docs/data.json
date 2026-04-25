@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-04-25T11:51:07.827418+00:00",
+  "generated_at": "2026-04-25T13:37:12.456566+00:00",
   "events": [
+    {
+      "event_id": "883d6fc9-b67b-4cf1-aab1-a2701cab1482",
+      "source": "rss:cointelegraph",
+      "title": "Kalshi, Polymarket among 27 prediction platforms banned in Brazil",
+      "url": "https://cointelegraph.com/news/kalshi-polymarket-among-27-prediction-platforms-banned-in-brazil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-25T10:51:27+00:00",
+      "raw_text": "Kalshi, Polymarket among 27 prediction platforms banned in Brazil\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi, Polymarket among 27 prediction platforms banned in Brazil\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2l",
+      "impact": {}
+    },
     {
       "event_id": "7769ee5d-fd04-4d09-8414-484b157178b0",
       "source": "rss:coindesk",
@@ -15,7 +27,8 @@
       "raw_text": "Clock is ticking for bitcoin to prevent quantum threat as it could drain 6.9 million BTC including Satoshi’s",
       "impact": {
         "t_plus_5m": -0.106,
-        "t_plus_15m": -0.1018
+        "t_plus_15m": -0.1018,
+        "t_plus_1h": -0.0748
       }
     },
     {
@@ -33,7 +46,8 @@
       "impact": {
         "t_plus_5m": -0.3519,
         "t_plus_15m": -0.3877,
-        "t_plus_1h": -0.2377
+        "t_plus_1h": -0.2377,
+        "t_plus_4h": -0.7007
       }
     },
     {
@@ -772,7 +786,8 @@
       "impact": {
         "t_plus_5m": 0.5387,
         "t_plus_15m": 0.467,
-        "t_plus_1h": 0.0105
+        "t_plus_1h": 0.0105,
+        "t_plus_24h": 0.9097
       }
     },
     {
@@ -838,7 +853,8 @@
       "impact": {
         "t_plus_5m": -0.1227,
         "t_plus_15m": -0.1348,
-        "t_plus_1h": -0.4348
+        "t_plus_1h": -0.4348,
+        "t_plus_24h": -0.6776
       }
     },
     {
@@ -904,7 +920,8 @@
       "impact": {
         "t_plus_5m": -0.0494,
         "t_plus_15m": -0.0657,
-        "t_plus_1h": -0.1068
+        "t_plus_1h": -0.1068,
+        "t_plus_24h": -0.5773
       }
     },
     {
@@ -6488,38 +6505,26 @@
         "t_plus_1h": -0.0247,
         "t_plus_24h": 0.4052
       }
-    },
-    {
-      "event_id": "a5af2e38-1aa8-46db-82e4-531de7d55aa7",
-      "source": "rss:coindesk",
-      "title": "Kelp DAO claims LayerZero’s 'default' settings are what actually caused the massive $290 million disaster",
-      "url": "https://www.coindesk.com/tech/2026/04/20/kelp-dao-claims-layerzero-s-default-settings-are-what-actually-caused-the-usd290-million-disaster",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T14:41:02+00:00",
-      "raw_text": "Kelp DAO claims LayerZero’s 'default' settings are what actually caused the massive $290 million disaster",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 175,
-        "avg_1h": -0.09,
-        "avg_24h": 0.45,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 180,
+        "count": 181,
         "avg_1h": -0.04,
         "avg_24h": -0.7,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 174,
+        "avg_1h": -0.09,
+        "avg_24h": 0.5,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
         "count": 80,
         "avg_1h": -0.07,
-        "avg_24h": -0.62,
+        "avg_24h": -0.64,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
@@ -6531,7 +6536,7 @@
       "hack": {
         "count": 51,
         "avg_1h": -0.08,
-        "avg_24h": 2.41,
+        "avg_24h": 1.81,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
