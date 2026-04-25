@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-04-25T20:54:31.499194+00:00",
+  "generated_at": "2026-04-25T21:50:47.836316+00:00",
   "events": [
+    {
+      "event_id": "9d47c2ac-38d3-4bb4-ae0a-315f1001487e",
+      "source": "rss:theblock",
+      "title": "Litecoin rewrites three hours of history to undo its first major privacy-layer exploit",
+      "url": "https://www.theblock.co/post/398892/litecoin-rewrites-three-hours-of-history-to-undo-its-first-major-privacy-layer-exploit?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-25T20:51:39+00:00",
+      "raw_text": "Litecoin rewrites three hours of history to undo its first major privacy-layer exploit\n\n<p>Attackers used the more than three-hour fork window to attempt double-spends against cross-chain swap protocols.</p>\n\n<p>Attackers used the more than three-hour fork window to attempt double-spends against cro",
+      "impact": {}
+    },
     {
       "event_id": "aadc79e7-135e-4ee3-8ad0-bfa2a56f9d4e",
       "source": "rss:cointelegraph",
@@ -6470,22 +6482,16 @@
         "t_plus_15m": -0.1621,
         "t_plus_1h": 0.3395
       }
-    },
-    {
-      "event_id": "4d928720-c5cc-4d60-9f57-a12b08aad4fe",
-      "source": "rss:theblock",
-      "title": "A year under Paul Atkins: SEC crypto embrace grows as prediction markets draw scrutiny",
-      "url": "https://www.theblock.co/post/398117/a-year-under-paul-atkins-sec-crypto-embrace-grows-as-prediction-markets-draw-scrutiny?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T16:15:48+00:00",
-      "raw_text": "A year under Paul Atkins: SEC crypto embrace grows as prediction markets draw scrutiny\n\n<p>About a year into the job, SEC Chair Paul Atkins says he is on a mission to \"advance, clarify and transform\" or (ACT).</p>\n\n<p>About a year into the job, SEC Chair Paul Atkins says he is on a mission to \"advan",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 52,
+        "avg_1h": -0.08,
+        "avg_24h": 1.81,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 170,
         "avg_1h": -0.09,
@@ -6499,7 +6505,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 83,
+        "count": 82,
         "avg_1h": -0.04,
         "avg_24h": -0.64,
         "win_rate_1h_gt5pct": 0.0
@@ -6508,12 +6514,6 @@
         "count": 6,
         "avg_1h": -0.15,
         "avg_24h": 4.08,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 51,
-        "avg_1h": -0.08,
-        "avg_24h": 1.81,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
