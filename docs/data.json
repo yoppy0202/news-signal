@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-04-25T09:07:35.437810+00:00",
+  "generated_at": "2026-04-25T10:03:15.019836+00:00",
   "events": [
+    {
+      "event_id": "23d2a741-20d5-4e3c-8a06-3dfda8420209",
+      "source": "rss:cointelegraph",
+      "title": "XRP may rise 30% as traders withdraw 35M tokens from exchanges in a day",
+      "url": "https://cointelegraph.com/markets/xrp-price-may-rise-30-as-exchange-outflows-hit-nearly-35m-tokens-in-a-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-25T08:55:43+00:00",
+      "raw_text": "XRP may rise 30% as traders withdraw 35M tokens from exchanges in a day\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"XRP may rise 30% as traders withdraw 35M tokens from exchanges in a day\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
+      "impact": {}
+    },
     {
       "event_id": "f7849227-2bb0-4b4b-962d-fdf96289309a",
       "source": "rss:cointelegraph",
@@ -995,7 +1007,8 @@
         "t_plus_5m": -0.3606,
         "t_plus_15m": -0.0847,
         "t_plus_1h": -0.2792,
-        "t_plus_4h": 0.4666
+        "t_plus_4h": 0.4666,
+        "t_plus_24h": -0.495
       }
     },
     {
@@ -6475,32 +6488,20 @@
       "timestamp_utc": "2026-04-20T14:31:44+00:00",
       "raw_text": "Global stablecoin rulemaking slows, prompting BIS to urge cooperation to avoid fragmentation risks",
       "impact": {}
-    },
-    {
-      "event_id": "859a40f4-ee41-4a17-ae21-5e6aa8741860",
-      "source": "rss:coindesk",
-      "title": "Tether backs UAE tokenization firm KAIO in $8M funding round to bring Emirati funds onchain",
-      "url": "https://www.coindesk.com/business/2026/04/20/tether-backs-uae-tokenization-firm-kaio-in-usd8m-funding-round-to-bring-emirati-funds-onchain",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T14:19:00+00:00",
-      "raw_text": "Tether backs UAE tokenization firm KAIO in $8M funding round to bring Emirati funds onchain",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 181,
+        "avg_1h": -0.03,
+        "avg_24h": -0.7,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 80,
         "avg_1h": -0.07,
         "avg_24h": -0.62,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 180,
-        "avg_1h": -0.03,
-        "avg_24h": -0.7,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
@@ -6510,9 +6511,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 175,
+        "count": 174,
         "avg_1h": -0.09,
-        "avg_24h": 0.58,
+        "avg_24h": 0.45,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
