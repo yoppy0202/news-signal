@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-04-25T10:03:15.019836+00:00",
+  "generated_at": "2026-04-25T11:00:15.364306+00:00",
   "events": [
+    {
+      "event_id": "7769ee5d-fd04-4d09-8414-484b157178b0",
+      "source": "rss:coindesk",
+      "title": "Clock is ticking for bitcoin to prevent quantum threat as it could drain 6.9 million BTC including Satoshi’s",
+      "url": "https://www.coindesk.com/tech/2026/04/25/clock-is-ticking-for-bitcoin-to-prevent-quantum-threat-as-it-could-drain-6-9-million-btc-including-satoshi-s",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-25T10:00:00+00:00",
+      "raw_text": "Clock is ticking for bitcoin to prevent quantum threat as it could drain 6.9 million BTC including Satoshi’s",
+      "impact": {}
+    },
     {
       "event_id": "23d2a741-20d5-4e3c-8a06-3dfda8420209",
       "source": "rss:cointelegraph",
@@ -8,10 +20,16 @@
       "url": "https://cointelegraph.com/markets/xrp-price-may-rise-30-as-exchange-outflows-hit-nearly-35m-tokens-in-a-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-04-25T08:55:43+00:00",
       "raw_text": "XRP may rise 30% as traders withdraw 35M tokens from exchanges in a day\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"XRP may rise 30% as traders withdraw 35M tokens from exchanges in a day\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.3519,
+        "t_plus_15m": -0.3877,
+        "t_plus_1h": -0.2377
+      }
     },
     {
       "event_id": "f7849227-2bb0-4b4b-962d-fdf96289309a",
@@ -40,7 +58,8 @@
       "impact": {
         "t_plus_5m": 0.2129,
         "t_plus_15m": 0.1959,
-        "t_plus_1h": 0.2171
+        "t_plus_1h": 0.2171,
+        "t_plus_4h": 0.2498
       }
     },
     {
@@ -6476,25 +6495,19 @@
       "timestamp_utc": "2026-04-20T14:41:02+00:00",
       "raw_text": "Kelp DAO claims LayerZero’s 'default' settings are what actually caused the massive $290 million disaster",
       "impact": {}
-    },
-    {
-      "event_id": "eb9a72d0-f86c-4952-b6eb-734d2a5005c2",
-      "source": "rss:coindesk",
-      "title": "Global stablecoin rulemaking slows, prompting BIS to urge cooperation to avoid fragmentation risks",
-      "url": "https://www.coindesk.com/policy/2026/04/20/global-stablecoin-rulemaking-slows-prompting-bis-to-urge-cooperation-to-avoid-fragmentation-risks",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T14:31:44+00:00",
-      "raw_text": "Global stablecoin rulemaking slows, prompting BIS to urge cooperation to avoid fragmentation risks",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 175,
+        "avg_1h": -0.09,
+        "avg_24h": 0.45,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 181,
-        "avg_1h": -0.03,
+        "count": 180,
+        "avg_1h": -0.04,
         "avg_24h": -0.7,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6508,12 +6521,6 @@
         "count": 6,
         "avg_1h": -0.15,
         "avg_24h": 4.08,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 174,
-        "avg_1h": -0.09,
-        "avg_24h": 0.45,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
