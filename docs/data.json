@@ -1,6 +1,84 @@
 {
-  "generated_at": "2026-04-26T11:52:08.035720+00:00",
+  "generated_at": "2026-04-26T13:38:42.986978+00:00",
   "events": [
+    {
+      "event_id": "f1f6401e-5c78-453a-bed8-18b0936a7163",
+      "source": "rss:decrypt",
+      "title": "Your AI Agent Can Now Groan While Untangling Your Vibe Coded Mess",
+      "url": "https://decrypt.co/365511/ai-agent-groan-endless-toil-vibecoding-suffering",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-26T13:01:02+00:00",
+      "raw_text": "Your AI Agent Can Now Groan While Untangling Your Vibe Coded Mess\n\nA new GitHub plugin makes your coding agent emit escalating human moans as it suffers through your spaghetti code.",
+      "impact": {}
+    },
+    {
+      "event_id": "a9f0788d-373b-4d5b-b3e4-7f1870097f56",
+      "source": "rss:coindesk",
+      "title": "MiCA's not enough: Bybit CEO says firms need other licenses to turn a profit in Europe",
+      "url": "https://www.coindesk.com/policy/2026/04/26/mica-s-not-enough-bybit-ceo-says-firms-need-other-licenses-to-turn-a-profit-in-europe",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-26T13:00:00+00:00",
+      "raw_text": "MiCA's not enough: Bybit CEO says firms need other licenses to turn a profit in Europe",
+      "impact": {}
+    },
+    {
+      "event_id": "5e951609-e2ae-45d3-978f-5f47eccbb985",
+      "source": "rss:coindesk",
+      "title": "Coinbase's John D’Agostino says crypto platform stands alone as industry's full-service prime broker",
+      "url": "https://www.coindesk.com/business/2026/04/21/coinbase-s-john-d-agostino-says-exchange-stands-alone-as-crypto-s-full-service-prime-broker",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-26T12:00:00+00:00",
+      "raw_text": "Coinbase's John D’Agostino says crypto platform stands alone as industry's full-service prime broker",
+      "impact": {}
+    },
+    {
+      "event_id": "a5a827ff-44e2-4ff1-aaf3-8afbf7813da1",
+      "source": "rss:cointelegraph",
+      "title": "Ethereum Foundation unstakes 17K ETH after nearing 70K staked ETH milestone",
+      "url": "https://cointelegraph.com/news/ethereum-foundation-unstakes-17k-eth-after-nearing-70k-staked-eth-milestone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [
+        "ETH"
+      ],
+      "timestamp_utc": "2026-04-26T11:55:32+00:00",
+      "raw_text": "Ethereum Foundation unstakes 17K ETH after nearing 70K staked ETH milestone\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum Foundation unstakes 17K ETH after nearing 70K staked ETH milestone\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528",
+      "impact": {
+        "t_plus_5m": 0.3108,
+        "t_plus_15m": 0.2384,
+        "t_plus_1h": 0.021
+      }
+    },
+    {
+      "event_id": "e89d0bc9-3eba-4007-95dd-884e97bd3887",
+      "source": "rss:cointelegraph",
+      "title": "Trump’s official memecoin extends slide as he hosts exclusive investor gala",
+      "url": "https://cointelegraph.com/news/trump-s-official-memecoin-extends-slide-even-as-he-hosts-exclusive-investor-gala?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-26T08:58:23+00:00",
+      "raw_text": "Trump’s official memecoin extends slide as he hosts exclusive investor gala\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump’s official memecoin extends slide as he hosts exclusive investor gala\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528",
+      "impact": {}
+    },
+    {
+      "event_id": "c11feee0-cf63-4a25-8b0a-0c6a8f968411",
+      "source": "rss:coindesk",
+      "title": "Litecoin hit by denial-of-service attack, rewrites 13 blocks to reverse effect",
+      "url": "https://www.coindesk.com/markets/2026/04/26/litecoin-says-its-13-block-reorg-was-not-a-zero-day-but-github-commit-history-shows-otherwise",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-26T08:34:37+00:00",
+      "raw_text": "Litecoin hit by denial-of-service attack, rewrites 13 blocks to reverse effect",
+      "impact": {}
+    },
     {
       "event_id": "005294cb-06c9-48b5-88af-d08f995ddd1b",
       "source": "rss:coindesk",
@@ -6402,102 +6480,30 @@
       "timestamp_utc": "2026-04-20T18:43:10+00:00",
       "raw_text": "Palantir Faces Backlash Over AI-Driven Military Doctrine\n\nA weekend post summarizing ideas from CEO Alex Karp’s 2025 book reignites debate over Silicon Valley’s role in warfare and national defense.",
       "impact": {}
-    },
-    {
-      "event_id": "6bb8ec6b-4076-4281-bf91-aa084d340158",
-      "source": "rss:decrypt",
-      "title": "Prediction Markets Expect Prolonged Strait of Hormuz Disruption—And Oil Traders Are Betting Big",
-      "url": "https://decrypt.co/364914/prediction-markets-strait-of-hormuz-oil-traders",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T18:30:41+00:00",
-      "raw_text": "Prediction Markets Expect Prolonged Strait of Hormuz Disruption—And Oil Traders Are Betting Big\n\nPrediction markets suggest Strait of Hormuz traffic will not return to normal any time soon, and oil traders expect higher prices.",
-      "impact": {}
-    },
-    {
-      "event_id": "16130122-d046-4969-bc22-085cceeb0209",
-      "source": "rss:decrypt",
-      "title": "Nearly Half of New Streaming Music Is AI-Generated, Says Deezer—But Nobody’s Listening",
-      "url": "https://decrypt.co/364937/nearly-half-streaming-music-ai-generated-deezer-nobodys-listening",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T18:23:33+00:00",
-      "raw_text": "Nearly Half of New Streaming Music Is AI-Generated, Says Deezer—But Nobody’s Listening\n\nFrench streaming service Deezer says AI-generated music now accounts for nearly half of new uploads—but actual listening remains minimal.",
-      "impact": {}
-    },
-    {
-      "event_id": "fb3129d5-dcbc-49c4-ae1b-583abb6d6c50",
-      "source": "rss:cointelegraph",
-      "title": "Tether takes 8.2% stake in Bitcoin mining finance platform Antalpha",
-      "url": "https://cointelegraph.com/news/tether-takes-8-2-stake-in-antalpha-backing-bitcoin-mining-finance-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T18:10:31+00:00",
-      "raw_text": "Tether takes 8.2% stake in Bitcoin mining finance platform Antalpha\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether takes 8.2% stake in Bitcoin mining finance platform Antalpha\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5",
-      "impact": {}
-    },
-    {
-      "event_id": "8b615a2e-1336-474d-b2df-cfb898f3771d",
-      "source": "rss:decrypt",
-      "title": "RaveDAO Token Crashes, Sheds $6.6 Billion in Value as Exchanges Probe Alleged Manipulation",
-      "url": "https://decrypt.co/364911/ravedao-token-crashes-sheds-6-6-billion-exchanges-probe-alleged-manipulation",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T18:01:03+00:00",
-      "raw_text": "RaveDAO Token Crashes, Sheds $6.6 Billion in Value as Exchanges Probe Alleged Manipulation\n\nRaveDAO's token cratered this weekend after blockchain sleuth ZachXBT called on exchanges to investigate trading tied to its surging token.",
-      "impact": {}
-    },
-    {
-      "event_id": "0b691251-03db-4cf3-90d5-c4da84688e96",
-      "source": "rss:bitcoinmagazine",
-      "title": "Jason Lowery Appointed Special Assistant to U.S. Indo-Pacific Command Commander, Bringing Bitcoin Strategic Expertise",
-      "url": "https://bitcoinmagazine.com/politics/jason-lowery-appointed-special-assistant-to-u-s-indo-pacific-command-commander-bringing-bitcoin-strategic-expertise",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T17:41:48+00:00",
-      "raw_text": "Jason Lowery Appointed Special Assistant to U.S. Indo-Pacific Command Commander, Bringing Bitcoin Strategic Expertise\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/tn-1.webp\" style=\"display: block;",
-      "impact": {}
-    },
-    {
-      "event_id": "528ae780-1f34-4924-b80a-429261d2f3c9",
-      "source": "rss:decrypt",
-      "title": "NSA Is Using Anthropic's Powerful Claude Mythos AI as CEO Meets With White House: Report",
-      "url": "https://decrypt.co/364894/nsa-anthropic-mythos-ai-white-house-pentagon-supply-chain-risk",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T16:57:47+00:00",
-      "raw_text": "NSA Is Using Anthropic's Powerful Claude Mythos AI as CEO Meets With White House: Report\n\nThe NSA is reportedly running Anthropic's Claude Mythos Preview on classified networks, even as the Pentagon fights the AI giant in court.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "hack": {
-        "count": 54,
-        "avg_1h": -0.08,
-        "avg_24h": 1.81,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 170,
+        "count": 167,
         "avg_1h": -0.09,
         "avg_24h": 0.44,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 183,
-        "avg_1h": -0.06,
+        "count": 186,
+        "avg_1h": -0.05,
         "avg_24h": -0.78,
         "win_rate_1h_gt5pct": 0.0
       },
+      "hack": {
+        "count": 55,
+        "avg_1h": -0.08,
+        "avg_24h": 1.81,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 82,
+        "count": 81,
         "avg_1h": -0.04,
         "avg_24h": -0.64,
         "win_rate_1h_gt5pct": 0.0
