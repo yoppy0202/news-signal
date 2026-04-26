@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-04-26T08:21:39.054425+00:00",
+  "generated_at": "2026-04-26T10:04:02.209076+00:00",
   "events": [
+    {
+      "event_id": "005294cb-06c9-48b5-88af-d08f995ddd1b",
+      "source": "rss:coindesk",
+      "title": "Litecoin says 13-block reorg was not a 'zero-day' attack, GitHub commit history shows otherwise",
+      "url": "https://www.coindesk.com/markets/2026/04/26/litecoin-says-its-13-block-reorg-was-not-a-zero-day-but-github-commit-history-shows-otherwise",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-26T08:34:37+00:00",
+      "raw_text": "Litecoin says 13-block reorg was not a 'zero-day' attack, GitHub commit history shows otherwise",
+      "impact": {}
+    },
     {
       "event_id": "af11db60-32ec-4ca0-ac6a-9c305cb3fdc8",
       "source": "rss:cointelegraph",
@@ -6460,30 +6472,12 @@
       "timestamp_utc": "2026-04-20T16:57:47+00:00",
       "raw_text": "NSA Is Using Anthropic's Powerful Claude Mythos AI as CEO Meets With White House: Report\n\nThe NSA is reportedly running Anthropic's Claude Mythos Preview on classified networks, even as the Pentagon fights the AI giant in court.",
       "impact": {}
-    },
-    {
-      "event_id": "833f65b2-e256-4431-8c25-1ba643e3eebd",
-      "source": "rss:cointelegraph",
-      "title": "Ethereum whale opens $90M long bets as ETH price chart eyes $3.2K",
-      "url": "https://cointelegraph.com/news/ethereum-whale-opens-90m-long-bets-eth-price-chart-eyes-3-2k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "whale_move",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-04-20T16:42:53+00:00",
-      "raw_text": "Ethereum whale opens $90M long bets as ETH price chart eyes $3.2K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum whale opens $90M long bets as ETH price chart eyes $3.2K\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2l",
-      "impact": {
-        "t_plus_5m": -0.5152,
-        "t_plus_15m": -0.7889,
-        "t_plus_1h": -0.1296
-      }
     }
   ],
   "stats": {
     "by_event_type": {
       "hack": {
-        "count": 53,
+        "count": 54,
         "avg_1h": -0.08,
         "avg_24h": 1.81,
         "win_rate_1h_gt5pct": 0.0
@@ -6507,7 +6501,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
-        "count": 6,
+        "count": 5,
         "avg_1h": -0.15,
         "avg_24h": 4.08,
         "win_rate_1h_gt5pct": 0.0
