@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-04-26T22:56:07.111116+00:00",
+  "generated_at": "2026-04-26T23:53:36.559410+00:00",
   "events": [
+    {
+      "event_id": "4bd65eeb-2cab-4c64-add6-04965ce9b4e0",
+      "source": "rss:theblock",
+      "title": "Skilled Polymarket traders are a 3% minority, and everyone else funds their gains: study",
+      "url": "https://www.theblock.co/post/398902/skilled-polymarket-traders-are-a-3-minority-and-everyone-else-funds-their-gains-study?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-26T22:40:45+00:00",
+      "raw_text": "Skilled Polymarket traders are a 3% minority, and everyone else funds their gains: study\n\n<p>A working paper analyzing every Polymarket trade between 2023 and 2025, finds that about 3% of accounts generate the bulk of price discovery.</p>\n\n<p>A working paper analyzing every Polymarket trade between ",
+      "impact": {}
+    },
+    {
+      "event_id": "adc4a304-eb6e-4e74-a1e7-17d98995258e",
+      "source": "rss:cointelegraph",
+      "title": "'Historical average' could push Bitcoin bottom at $57K level: Analyst",
+      "url": "https://cointelegraph.com/news/bitcoin-bottom-57k-level-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-26T22:30:37+00:00",
+      "raw_text": "'Historical average' could push Bitcoin bottom at $57K level: Analyst\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"'Historical average' could push Bitcoin bottom at $57K level: Analyst\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
+      "impact": {}
+    },
     {
       "event_id": "48e420f1-68b3-4ef2-981e-b803e4f7da10",
       "source": "rss:bitcoinmagazine",
@@ -6458,48 +6482,24 @@
       "timestamp_utc": "2026-04-20T21:24:53+00:00",
       "raw_text": "Alibaba Drops Qwen 3.6 Max Preview—Its Most Powerful Model Yet\n\nAlibaba released Qwen3.6-Max-Preview, its most powerful AI model yet, topping six major coding benchmarks and posting gains in world knowledge and instruction following over its predecessor.",
       "impact": {}
-    },
-    {
-      "event_id": "cab45160-0657-4e1b-b828-a981f7e9000e",
-      "source": "rss:coindesk",
-      "title": "North Korea’s crypto heist playbook is expanding and DeFi keeps getting hit",
-      "url": "https://www.coindesk.com/tech/2026/04/20/north-korea-s-crypto-heist-playbook-is-expanding-and-defi-keeps-getting-hit",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T21:17:17+00:00",
-      "raw_text": "North Korea’s crypto heist playbook is expanding and DeFi keeps getting hit",
-      "impact": {}
-    },
-    {
-      "event_id": "7fdcde9f-b61d-4d06-b5e8-70f973c112f7",
-      "source": "rss:cointelegraph",
-      "title": "Bybit leads funding for Malaysia’s Hata dual-licensed crypto platform",
-      "url": "https://cointelegraph.com/news/bybit-leads-8m-round-in-malaysian-crypto-exchange-hata?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T21:05:36+00:00",
-      "raw_text": "Bybit leads funding for Malaysia’s Hata dual-licensed crypto platform\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bybit leads funding for Malaysia’s Hata dual-licensed crypto platform\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 167,
+        "avg_1h": -0.06,
+        "avg_24h": 0.66,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 79,
         "avg_1h": -0.02,
         "avg_24h": -0.64,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 166,
-        "avg_1h": -0.06,
-        "avg_24h": 0.66,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 188,
+        "count": 187,
         "avg_1h": -0.05,
         "avg_24h": -0.78,
         "win_rate_1h_gt5pct": 0.0
