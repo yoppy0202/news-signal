@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-04-26T13:38:42.986978+00:00",
+  "generated_at": "2026-04-26T14:59:08.763473+00:00",
   "events": [
+    {
+      "event_id": "cc7f69e6-12f3-4b8f-8ddd-f393066bedf3",
+      "source": "rss:coindesk",
+      "title": "Freezing 5.6 million dormant bitcoin could trigger ‘worst’ single-day repricing",
+      "url": "https://www.coindesk.com/business/2026/04/26/freezing-5-6-million-dormant-bitcoin-could-trigger-worst-single-day-repricing",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-26T14:00:00+00:00",
+      "raw_text": "Freezing 5.6 million dormant bitcoin could trigger ‘worst’ single-day repricing",
+      "impact": {}
+    },
+    {
+      "event_id": "28c04245-2084-484d-8909-be5b8d0d5ed0",
+      "source": "rss:coindesk",
+      "title": "Only 3% of traders drive prediction markets' accuracy, not the crowd, study finds",
+      "url": "https://www.coindesk.com/markets/2026/04/26/only-3-of-traders-drive-prediction-markets-accuracy-not-the-crowd-study-finds",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-26T13:47:50+00:00",
+      "raw_text": "Only 3% of traders drive prediction markets' accuracy, not the crowd, study finds",
+      "impact": {}
+    },
     {
       "event_id": "f1f6401e-5c78-453a-bed8-18b0936a7163",
       "source": "rss:decrypt",
@@ -6444,56 +6468,20 @@
       "timestamp_utc": "2026-04-20T19:02:33+00:00",
       "raw_text": "One year under Paul Atkins, SEC's crypto stance shows break with past\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"One year under Paul Atkins, SEC's crypto stance shows break with past\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
       "impact": {}
-    },
-    {
-      "event_id": "4faf95a3-3863-48e4-a6ca-6ebbbba174c1",
-      "source": "rss:cointelegraph",
-      "title": "Price predictions 4/20: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA",
-      "url": "https://cointelegraph.com/news/price-predictions-4-20-spx-dxy-btc-eth-bnb-xrp-sol-doge-hype-ada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "BTC",
-        "ETH",
-        "BNB",
-        "XRP",
-        "SOL"
-      ],
-      "timestamp_utc": "2026-04-20T18:52:11+00:00",
-      "raw_text": "Price predictions 4/20: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 4/20: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
-      "impact": {
-        "t_plus_5m": -0.0188,
-        "t_plus_15m": -0.1064,
-        "t_plus_1h": -0.2449,
-        "t_plus_4h": -0.5919,
-        "t_plus_24h": -1.2129
-      }
-    },
-    {
-      "event_id": "0982f312-c406-4859-a28c-ebf310ad6708",
-      "source": "rss:decrypt",
-      "title": "Palantir Faces Backlash Over AI-Driven Military Doctrine",
-      "url": "https://decrypt.co/364935/palantir-backlash-ai-driven-military-doctrine",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T18:43:10+00:00",
-      "raw_text": "Palantir Faces Backlash Over AI-Driven Military Doctrine\n\nA weekend post summarizing ideas from CEO Alex Karp’s 2025 book reignites debate over Silicon Valley’s role in warfare and national defense.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 167,
-        "avg_1h": -0.09,
-        "avg_24h": 0.44,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 186,
+        "count": 188,
         "avg_1h": -0.05,
         "avg_24h": -0.78,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 165,
+        "avg_1h": -0.08,
+        "avg_24h": 0.6,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
