@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-04-26T20:55:15.736204+00:00",
+  "generated_at": "2026-04-26T21:52:09.112032+00:00",
   "events": [
+    {
+      "event_id": "48e420f1-68b3-4ef2-981e-b803e4f7da10",
+      "source": "rss:bitcoinmagazine",
+      "title": "UTXO Management Launches Dual-Class Digital Credit Income Fund",
+      "url": "https://bitcoinmagazine.com/news/utxo-management-dual-class-digital-credit",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-26T20:27:53+00:00",
+      "raw_text": "UTXO Management Launches Dual-Class Digital Credit Income Fund\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/UTXO-Management-Launches-Dual-Class-Digital-Credit-Income-Fund.jpg\" style=\"display: bloc",
+      "impact": {}
+    },
+    {
+      "event_id": "d5aa0b92-1012-4768-b721-517f01c34caf",
+      "source": "rss:theblock",
+      "title": "22-year-old sentenced to 70 months for money laundering tied to $263 million crypto syndicate",
+      "url": "https://www.theblock.co/post/398899/22-year-old-sentenced-to-70-months-for-money-laundering-tied-to-263-million-crypto-syndicate?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-26T20:15:12+00:00",
+      "raw_text": "22-year-old sentenced to 70 months for money laundering tied to $263 million crypto syndicate\n\n<p>The Lamborghini-laden money laundering operation was \"built on greed so brazen it borders on the cartoonish,\" according to prosecutors. </p>\n\n<p>The Lamborghini-laden money laundering operation was \"bui",
+      "impact": {}
+    },
+    {
+      "event_id": "18a3bb10-37f1-4726-9cc1-7e827904eb7e",
+      "source": "rss:cointelegraph",
+      "title": "Strategy's Michael Saylor again hints at impending BTC purchase",
+      "url": "https://cointelegraph.com/news/strategy-michael-saylor-bitcoin-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-26T20:09:09+00:00",
+      "raw_text": "Strategy's Michael Saylor again hints at impending BTC purchase\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy's Michael Saylor again hints at impending BTC purchase\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGV",
+      "impact": {}
+    },
     {
       "event_id": "59decd98-a924-4d54-8e51-b7bc83f3c486",
       "source": "rss:decrypt",
@@ -6434,60 +6470,30 @@
       "timestamp_utc": "2026-04-20T21:05:36+00:00",
       "raw_text": "Bybit leads funding for Malaysia’s Hata dual-licensed crypto platform\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bybit leads funding for Malaysia’s Hata dual-licensed crypto platform\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
       "impact": {}
-    },
-    {
-      "event_id": "6bb32ae6-175b-47aa-b1ff-feba511cdd70",
-      "source": "rss:coindesk",
-      "title": "Aave could face up to $230 million in losses after Kelp DAO bridge exploit triggers DeFi chaos",
-      "url": "https://www.coindesk.com/tech/2026/04/20/aave-could-face-up-to-usd230-million-in-losses-after-kelp-dao-bridge-exploit-triggers-defi-chaos",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T21:03:44+00:00",
-      "raw_text": "Aave could face up to $230 million in losses after Kelp DAO bridge exploit triggers DeFi chaos",
-      "impact": {}
-    },
-    {
-      "event_id": "8cad9983-4431-4d06-bf4c-e965bff4bdff",
-      "source": "rss:coindesk",
-      "title": "Bitcoin bounces above $76,000 as DeFi suffers $14 billion exodus after KelpDAO hack",
-      "url": "https://www.coindesk.com/markets/2026/04/20/bitcoin-bounces-above-usd76-000-as-defi-suffers-usd14-billion-exodus-after-kelpdao-hack",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T20:53:22+00:00",
-      "raw_text": "Bitcoin bounces above $76,000 as DeFi suffers $14 billion exodus after KelpDAO hack",
-      "impact": {}
-    },
-    {
-      "event_id": "690e9a62-ba38-4c65-a9b1-cc4195651b29",
-      "source": "rss:theblock",
-      "title": "Pokémon TCG marketplaces near record as tokenized collectibles show staying power",
-      "url": "https://www.theblock.co/post/398139/pokemon-tcg-marketplaces-near-record-tokenized-collectibles-staying-power?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T20:45:35+00:00",
-      "raw_text": "Pokémon TCG marketplaces near record as tokenized collectibles show staying power\n\n<p>The tokenization layer of these platforms is being used as a liquidity wrapper, as opposed to a purely speculative venue.</p>\n\n<p>The tokenization layer of these platforms is being used as a liquidity wrapper, as o",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 79,
+        "avg_1h": -0.04,
+        "avg_24h": -0.64,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 165,
+        "count": 166,
         "avg_1h": -0.08,
         "avg_24h": 0.66,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 189,
+        "count": 188,
         "avg_1h": -0.05,
         "avg_24h": -0.78,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 57,
+        "count": 55,
         "avg_1h": -0.08,
         "avg_24h": 1.81,
         "win_rate_1h_gt5pct": 0.0
@@ -6496,12 +6502,6 @@
         "count": 6,
         "avg_1h": -0.15,
         "avg_24h": 4.08,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 77,
-        "avg_1h": -0.04,
-        "avg_24h": -0.64,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
