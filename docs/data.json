@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T21:52:09.112032+00:00",
+  "generated_at": "2026-04-26T22:56:07.111116+00:00",
   "events": [
     {
       "event_id": "48e420f1-68b3-4ef2-981e-b803e4f7da10",
@@ -8,10 +8,16 @@
       "url": "https://bitcoinmagazine.com/news/utxo-management-dual-class-digital-credit",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-04-26T20:27:53+00:00",
       "raw_text": "UTXO Management Launches Dual-Class Digital Credit Income Fund\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/UTXO-Management-Launches-Dual-Class-Digital-Credit-Income-Fund.jpg\" style=\"display: bloc",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.3161,
+        "t_plus_15m": 0.3017,
+        "t_plus_1h": 0.2462
+      }
     },
     {
       "event_id": "d5aa0b92-1012-4768-b721-517f01c34caf",
@@ -32,10 +38,16 @@
       "url": "https://cointelegraph.com/news/strategy-michael-saylor-bitcoin-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-04-26T20:09:09+00:00",
       "raw_text": "Strategy's Michael Saylor again hints at impending BTC purchase\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy's Michael Saylor again hints at impending BTC purchase\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGV",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2464,
+        "t_plus_15m": 0.1995,
+        "t_plus_1h": 0.3127
+      }
     },
     {
       "event_id": "59decd98-a924-4d54-8e51-b7bc83f3c486",
@@ -6476,13 +6488,13 @@
     "by_event_type": {
       "macro": {
         "count": 79,
-        "avg_1h": -0.04,
+        "avg_1h": -0.02,
         "avg_24h": -0.64,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
         "count": 166,
-        "avg_1h": -0.08,
+        "avg_1h": -0.06,
         "avg_24h": 0.66,
         "win_rate_1h_gt5pct": 0.0
       },
