@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-04-26T19:11:08.426869+00:00",
+  "generated_at": "2026-04-26T20:55:15.736204+00:00",
   "events": [
+    {
+      "event_id": "59decd98-a924-4d54-8e51-b7bc83f3c486",
+      "source": "rss:decrypt",
+      "title": "Coachella Uses Google DeepMind AI to Test the Future of Live Entertainment",
+      "url": "https://decrypt.co/365532/coachella-google-deepmind-ai-test-future-live-entertainment",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-26T19:04:43+00:00",
+      "raw_text": "Coachella Uses Google DeepMind AI to Test the Future of Live Entertainment\n\nCoachella is experimenting with AI-built artist tools, immersive digital worlds, and 3D performance archives that could shape future fan experiences.",
+      "impact": {}
+    },
+    {
+      "event_id": "4ec3e0ca-6248-4299-9c0a-f310d2b84b92",
+      "source": "rss:coindesk",
+      "title": "Running out of time on Clarity: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/04/26/running-out-of-time-on-clarity-state-of-crypto",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-26T18:30:00+00:00",
+      "raw_text": "Running out of time on Clarity: State of Crypto",
+      "impact": {}
+    },
+    {
+      "event_id": "3fcefac5-38c7-4abe-85ca-30a52c3aad50",
+      "source": "rss:cointelegraph",
+      "title": "Litecoin gives post-attack update, but other devs doubt zero-day theory",
+      "url": "https://cointelegraph.com/news/litecoin-post-mortem-chain-reorganization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-26T18:15:30+00:00",
+      "raw_text": "Litecoin gives post-attack update, but other devs doubt zero-day theory\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Litecoin gives post-attack update, but other devs doubt zero-day theory\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
+      "impact": {}
+    },
     {
       "event_id": "ffb5676d-4aa4-4314-b82b-2eb240691720",
       "source": "rss:coindesk",
@@ -6434,48 +6470,24 @@
       "timestamp_utc": "2026-04-20T20:45:35+00:00",
       "raw_text": "Pokémon TCG marketplaces near record as tokenized collectibles show staying power\n\n<p>The tokenization layer of these platforms is being used as a liquidity wrapper, as opposed to a purely speculative venue.</p>\n\n<p>The tokenization layer of these platforms is being used as a liquidity wrapper, as o",
       "impact": {}
-    },
-    {
-      "event_id": "ceeb48af-619e-40ab-b34f-5287b14b3cd5",
-      "source": "rss:theblock",
-      "title": "Inside Bitwise’s Avalanche ETP and institutional strategy with Matt Hougan",
-      "url": "https://www.theblock.co/post/398172/inside-bitwises-avalanche-etp-and-institutional-strategy-with-matt-hougan?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T20:24:41+00:00",
-      "raw_text": "Inside Bitwise’s Avalanche ETP and institutional strategy with Matt Hougan\n\n<p>Matt Hougan explains how ETFs, tokenization, and institutional capital are reshaping crypto and driving the next phase of growth.</p>\n\n<p>Matt Hougan explains how ETFs, tokenization, and institutional capital are reshapin",
-      "impact": {}
-    },
-    {
-      "event_id": "2e663605-13c1-4467-ab75-41b883ab8c79",
-      "source": "rss:decrypt",
-      "title": "UK Gas Firm Faces Pushback Over Plans to Mine Bitcoin",
-      "url": "https://decrypt.co/364944/uk-gas-firm-faces-pushback-plans-mine-bitcoin",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T20:16:57+00:00",
-      "raw_text": "UK Gas Firm Faces Pushback Over Plans to Mine Bitcoin\n\nReabold Resources faced criticism for plans to use a gas field to mine Bitcoin, but said serving U.K. energy demand remains its main focus.",
-      "impact": {}
-    },
-    {
-      "event_id": "964d205d-8575-4271-b178-0007288bcffa",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin Price Retakes $76,500 as Iran Tensions and Oil Volatility Drive Market Uncertainty",
-      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-retakes-76500-as-iran-tensions-and-oil-volatility-drive-market-uncertainty",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T20:03:06+00:00",
-      "raw_text": "Bitcoin Price Retakes $76,500 as Iran Tensions and Oil Volatility Drive Market Uncertainty\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Bitcoin-Price-Retakes-76500-as-Iran-Tensions-and-Oil-Volatil",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 165,
+        "avg_1h": -0.08,
+        "avg_24h": 0.66,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 189,
+        "avg_1h": -0.05,
+        "avg_24h": -0.78,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
-        "count": 56,
+        "count": 57,
         "avg_1h": -0.08,
         "avg_24h": 1.81,
         "win_rate_1h_gt5pct": 0.0
@@ -6486,20 +6498,8 @@
         "avg_24h": 4.08,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 188,
-        "avg_1h": -0.05,
-        "avg_24h": -0.78,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 166,
-        "avg_1h": -0.08,
-        "avg_24h": 0.66,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 78,
+        "count": 77,
         "avg_1h": -0.04,
         "avg_24h": -0.64,
         "win_rate_1h_gt5pct": 0.0
