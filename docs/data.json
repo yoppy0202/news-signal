@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-04-26T15:54:54.356203+00:00",
+  "generated_at": "2026-04-26T16:59:28.365906+00:00",
   "events": [
+    {
+      "event_id": "ffb5676d-4aa4-4314-b82b-2eb240691720",
+      "source": "rss:coindesk",
+      "title": "Aave raises nearly 80% of the $200 million it needs to cover bad debt left by Kelp DAO exploit",
+      "url": "https://www.coindesk.com/business/2026/04/26/aave-raises-nearly-80-of-the-usd200-million-it-needs-to-cover-bad-debt-left-by-kelp-dao-exploit",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-26T16:21:01+00:00",
+      "raw_text": "Aave raises nearly 80% of the $200 million it needs to cover bad debt left by Kelp DAO exploit",
+      "impact": {}
+    },
+    {
+      "event_id": "b64d246e-290b-4134-bda6-e6c839406f24",
+      "source": "rss:coindesk",
+      "title": "Why DeFi isn't dead despite massive exploits and $13 billion investor exodus",
+      "url": "https://www.coindesk.com/business/2026/04/26/why-defi-isn-t-dead-despite-massive-exploits-and-usd13-billion-investor-exodus",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-26T16:00:00+00:00",
+      "raw_text": "Why DeFi isn't dead despite massive exploits and $13 billion investor exodus",
+      "impact": {}
+    },
+    {
+      "event_id": "fa6f7487-68ef-4912-ab4e-ba781462c90e",
+      "source": "rss:coindesk",
+      "title": "Bitcoin whales build long positions as funding stays deeply negative",
+      "url": "https://www.coindesk.com/markets/2026/04/26/bitcoin-whales-build-long-positions-as-funding-stays-deeply-negative",
+      "event_type": "whale_move",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-26T14:13:42+00:00",
+      "raw_text": "Bitcoin whales build long positions as funding stays deeply negative",
+      "impact": {}
+    },
     {
       "event_id": "cc7f69e6-12f3-4b8f-8ddd-f393066bedf3",
       "source": "rss:coindesk",
@@ -11,6 +47,18 @@
       "tokens": [],
       "timestamp_utc": "2026-04-26T14:00:00+00:00",
       "raw_text": "Freezing 5.6 million dormant bitcoin could trigger ‘worst’ single-day repricing",
+      "impact": {}
+    },
+    {
+      "event_id": "625f3062-415b-40f4-9360-e08b60e36034",
+      "source": "rss:cointelegraph",
+      "title": "Market conditions force 1 in 3 crypto traders to cut everyday spending: Survey",
+      "url": "https://cointelegraph.com/news/market-conditions-force-1-in-3-crypto-traders-to-cut-everyday-spending-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-26T13:48:35+00:00",
+      "raw_text": "Market conditions force 1 in 3 crypto traders to cut everyday spending: Survey\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Market conditions force 1 in 3 crypto traders to cut everyday spending: Survey\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/imag",
       "impact": {}
     },
     {
@@ -6421,58 +6469,22 @@
       "timestamp_utc": "2026-04-20T20:03:06+00:00",
       "raw_text": "Bitcoin Price Retakes $76,500 as Iran Tensions and Oil Volatility Drive Market Uncertainty\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Bitcoin-Price-Retakes-76500-as-Iran-Tensions-and-Oil-Volatil",
       "impact": {}
-    },
-    {
-      "event_id": "81ef0273-0ee4-4533-b3b7-122cb61126cd",
-      "source": "rss:theblock",
-      "title": "DeFi losses top $600 million in weeks as Kelp DAO exploit drags TVL to one-year low",
-      "url": "https://www.theblock.co/post/398154/defi-losses-1-billion-weeks-kelp-dao-exploit-drags-tvl-one-year-low?utm_source=rss&utm_medium=rss",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T19:56:32+00:00",
-      "raw_text": "DeFi losses top $600 million in weeks as Kelp DAO exploit drags TVL to one-year low\n\n<p>Kelp Dao, Aave and LayerZero are pointing the finger at each other and it is still unclear how losses will be distributed.</p>\n\n<p>Kelp Dao, Aave and LayerZero are pointing the finger at each other and it is stil",
-      "impact": {}
-    },
-    {
-      "event_id": "118b6050-4db9-47db-a7e2-52157111e6ab",
-      "source": "rss:theblock",
-      "title": "Grayscale’s amended Hyperliquid ETF filing drops Coinbase as custodian, names Anchorage",
-      "url": "https://www.theblock.co/post/398161/grayscales-amended-hyperliquid-etf-filing-drops-coinbase-custodian-anchorage?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T19:12:44+00:00",
-      "raw_text": "Grayscale’s amended Hyperliquid ETF filing drops Coinbase as custodian, names Anchorage\n\n<p>Grayscale previously tapped Anchorage as a secondary custodian for a portion of the firm’s Bitcoin and Ethereum trusts’ holdings.</p>\n\n<p>Grayscale previously tapped Anchorage as a secondary custodian for a p",
-      "impact": {}
-    },
-    {
-      "event_id": "afea2ca1-29e8-409b-894c-d193d4dafd73",
-      "source": "rss:bitcoinmagazine",
-      "title": "Alcoa Nears Sale of Idle New York Smelter to NYDIG for Bitcoin Mining Use",
-      "url": "https://bitcoinmagazine.com/news/alcoa-nears-sale-of-idle-new-york",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T19:03:30+00:00",
-      "raw_text": "Alcoa Nears Sale of Idle New York Smelter to NYDIG for Bitcoin Mining Use\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Pics-34.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"http",
-      "impact": {}
-    },
-    {
-      "event_id": "7711ded1-a28e-4983-ab53-b800eda7bf62",
-      "source": "rss:cointelegraph",
-      "title": "One year under Paul Atkins, SEC's crypto stance shows break with past",
-      "url": "https://cointelegraph.com/news/paul-atkins-one-year-sec-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T19:02:33+00:00",
-      "raw_text": "One year under Paul Atkins, SEC's crypto stance shows break with past\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"One year under Paul Atkins, SEC's crypto stance shows break with past\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 56,
+        "avg_1h": -0.08,
+        "avg_24h": 1.81,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "whale_move": {
+        "count": 6,
+        "avg_1h": -0.15,
+        "avg_24h": 4.08,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 188,
         "avg_1h": -0.05,
@@ -6480,27 +6492,15 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 165,
+        "count": 166,
         "avg_1h": -0.08,
         "avg_24h": 0.66,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 55,
-        "avg_1h": -0.08,
-        "avg_24h": 1.81,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 81,
+        "count": 78,
         "avg_1h": -0.04,
         "avg_24h": -0.64,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "whale_move": {
-        "count": 5,
-        "avg_1h": -0.15,
-        "avg_24h": 4.08,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
