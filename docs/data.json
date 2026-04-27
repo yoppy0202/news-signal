@@ -1,6 +1,414 @@
 {
-  "generated_at": "2026-04-27T14:24:11.561010+00:00",
+  "generated_at": "2026-04-27T16:52:10.626621+00:00",
   "events": [
+    {
+      "event_id": "d3ccfcf8-c333-4607-981b-fbe13fb2d97b",
+      "source": "rss:decrypt",
+      "title": "OpenAI's Sam Altman Apologizes for Not Alerting Police Before Tumbler Ridge Mass Shooting",
+      "url": "https://decrypt.co/365645/openai-sam-altman-apologizes-not-alerting-police-tumbler-ridge-mass-shooting",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T16:05:57+00:00",
+      "raw_text": "OpenAI's Sam Altman Apologizes for Not Alerting Police Before Tumbler Ridge Mass Shooting\n\nSam Altman admitted that OpenAI should have warned law enforcement after banning the suspect’s account months before the attack.",
+      "impact": {}
+    },
+    {
+      "event_id": "286e20f1-8a97-42c3-869b-4c757a725e69",
+      "source": "rss:bitcoinmagazine",
+      "title": "Block Revamps Bitcoin Ecosystem With Bitkey Wallet, Cash App Features, and Proof of Reserves",
+      "url": "https://bitcoinmagazine.com/news/block-bitcoin-ecosystem-with-bitkey-wallet",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T15:57:35+00:00",
+      "raw_text": "Block Revamps Bitcoin Ecosystem With Bitkey Wallet, Cash App Features, and Proof of Reserves\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Block-Revamps-Bitcoin-Ecosystem-With-Bitkey-Wallet-Cash-Ap",
+      "impact": {}
+    },
+    {
+      "event_id": "e62f0184-5fa0-4fb1-91a0-2284b33c105f",
+      "source": "rss:coindesk",
+      "title": "Cross-border B2B stablecoin payments to hit $5 trillion by 2035, says Juniper Research",
+      "url": "https://www.coindesk.com/business/2026/04/27/cross-border-b2b-stablecoin-payments-to-rise-by-over-37-000-to-usd5t-by-2035",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T15:49:01+00:00",
+      "raw_text": "Cross-border B2B stablecoin payments to hit $5 trillion by 2035, says Juniper Research",
+      "impact": {}
+    },
+    {
+      "event_id": "36c93741-fd61-4f92-86ad-099256c68c76",
+      "source": "rss:coindesk",
+      "title": "Fidelity Digital Assets says bitcoin is leading crypto market stabilization",
+      "url": "https://www.coindesk.com/markets/2026/04/27/fidelity-digital-assets-says-bitcoin-is-leading-crypto-market-stabilization",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T15:44:00+00:00",
+      "raw_text": "Fidelity Digital Assets says bitcoin is leading crypto market stabilization",
+      "impact": {}
+    },
+    {
+      "event_id": "18146337-3b01-4109-a781-2be662032773",
+      "source": "rss:theblock",
+      "title": "‘Clear runway’ to 5,000 BTC: Benchmark initiates Asian food platform DDC, sees 70% upside",
+      "url": "https://www.theblock.co/post/398994/clear-runway-5000-btc-benchmark-initiates-ddc-70-upside?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T15:39:30+00:00",
+      "raw_text": "‘Clear runway’ to 5,000 BTC: Benchmark initiates Asian food platform DDC, sees 70% upside\n\n<p>DDC is investing in an \"AI-driven operating system\" to help guide its bitcoin purchases as it aims to reach 5,000 BTC by year-end 2026.</p>\n\n<p>DDC is investing in an \"AI-driven operating system\" to help gu",
+      "impact": {}
+    },
+    {
+      "event_id": "eab825cd-2a2b-44d9-bc0f-189123ac426f",
+      "source": "rss:decrypt",
+      "title": "China Blocks Meta's $2 Billion Acquisition of AI Startup Manus",
+      "url": "https://decrypt.co/365644/china-blocks-meta-2-billion-acquisition-ai-startup-manus",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T15:38:46+00:00",
+      "raw_text": "China Blocks Meta's $2 Billion Acquisition of AI Startup Manus\n\nBeijing's intervention in Meta's startup acquisition signals tighter scrutiny of foreign investments in China's AI sector.",
+      "impact": {}
+    },
+    {
+      "event_id": "e70f5c37-6728-4fd1-830d-ac91d4a153c8",
+      "source": "rss:theblock",
+      "title": "Luca Netz on building a brand people actually love",
+      "url": "https://www.theblock.co/post/399004/luca-netz-on-building-a-brand-people-actually-love?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T15:27:09+00:00",
+      "raw_text": "Luca Netz on building a brand people actually love\n\n<p>Netz explains how Pudgy Penguins is evolving from NFTs into a consumer brand by focusing on culture, IP, and mass adoption over speculation.</p>\n\n<p>Netz explains how Pudgy Penguins is evolving from NFTs into a consumer brand by focusing on cult",
+      "impact": {}
+    },
+    {
+      "event_id": "1376a0cc-46d7-41a5-a41a-95a392a89be0",
+      "source": "rss:theblock",
+      "title": "Gemini rolls out Agentic Trading allowing AI bots to directly manage crypto exchange trading accounts",
+      "url": "https://www.theblock.co/post/399001/gemini-rolls-out-agentic-trading-allowing-ai-bots-to-directly-manage-crypto-exchange-trading-accounts?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T15:15:17+00:00",
+      "raw_text": "Gemini rolls out Agentic Trading allowing AI bots to directly manage crypto exchange trading accounts\n\n<p>Gemini referred to the feature as “the first agentic trading tool to be available directly through a regulated US-based exchange.”</p>\n\n<p>Gemini referred to the feature as “the first agentic tr",
+      "impact": {}
+    },
+    {
+      "event_id": "09374b7c-dc0a-4a67-b12b-0581a3818b46",
+      "source": "rss:coindesk",
+      "title": "Canada’s crypto donation ban clears key vote with support from Conservatives",
+      "url": "https://www.coindesk.com/policy/2026/04/27/canada-s-crypto-donation-ban-clears-key-vote-with-support-from-conservatives",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T15:05:56+00:00",
+      "raw_text": "Canada’s crypto donation ban clears key vote with support from Conservatives",
+      "impact": {}
+    },
+    {
+      "event_id": "5b84e6dd-1ad2-431c-9120-56470c1d0072",
+      "source": "rss:decrypt",
+      "title": "Microsoft and OpenAI Rework AI Deal, Cutting Exclusivity and AGI Provisions",
+      "url": "https://decrypt.co/365630/microsoft-openai-rework-ai-deal-cutting-exclusivity-agi-provisions",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T14:57:43+00:00",
+      "raw_text": "Microsoft and OpenAI Rework AI Deal, Cutting Exclusivity and AGI Provisions\n\nThe restructured deal with Microsoft removes exclusivity provisions and revenue-sharing arrangements, freeing OpenAI to pursue additional allies.",
+      "impact": {}
+    },
+    {
+      "event_id": "0a41bee5-6095-4d39-bd18-9d7fb6672631",
+      "source": "rss:theblock",
+      "title": "‘The best days of crypto are ahead’: Bernstein sees asymmetric upside and structurally longer bull cycle",
+      "url": "https://www.theblock.co/post/398996/the-best-days-of-crypto-are-ahead-bernstein-sees-asymmetric-upside-and-structurally-longer-bull-cycle?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T14:40:34+00:00",
+      "raw_text": "‘The best days of crypto are ahead’: Bernstein sees asymmetric upside and structurally longer bull cycle\n\n<p>New institutional on-ramps, strong flows, and exhausted retail selling points to renewed asymmetric upside for bitcoin, Bernstein said.</p>\n\n<p>New institutional on-ramps, strong flows, and e",
+      "impact": {}
+    },
+    {
+      "event_id": "910968f5-ab27-479b-b6a7-d5efb9e504d4",
+      "source": "rss:coindesk",
+      "title": "As the bitcoin price rises, futures may look bearish, but they're not, analyst says",
+      "url": "https://www.coindesk.com/markets/2026/04/27/as-the-bitcoin-price-rises-futures-may-look-bearish-but-they-re-not-analyst-says",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T14:37:30+00:00",
+      "raw_text": "As the bitcoin price rises, futures may look bearish, but they're not, analyst says",
+      "impact": {}
+    },
+    {
+      "event_id": "6dfe9bb0-ea10-40f8-8dff-1449f5fabea7",
+      "source": "rss:decrypt",
+      "title": "Tom Lee's BitMine Makes Biggest Ethereum Buy So Far in 2026, Hitting 5 Million ETH Milestone",
+      "url": "https://decrypt.co/365619/tom-lees-bitmine-biggest-ethereum-buy-december-eth-milestone",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T14:21:54+00:00",
+      "raw_text": "Tom Lee's BitMine Makes Biggest Ethereum Buy So Far in 2026, Hitting 5 Million ETH Milestone\n\nBitMine Immersion Technologies now holds over 5 million ETH, following the leading Ethereum treasury firm's biggest buy since December.",
+      "impact": {}
+    },
+    {
+      "event_id": "45905eb1-118d-4408-af69-608b3a075d47",
+      "source": "rss:bitcoinmagazine",
+      "title": "Strive Expands Bitcoin Treasury With $61.4 Million Purchase, Holdings Reach 14,557 BTC",
+      "url": "https://bitcoinmagazine.com/news/strive-expands-bitcoin-treasury",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T14:15:03+00:00",
+      "raw_text": "Strive Expands Bitcoin Treasury With $61.4 Million Purchase, Holdings Reach 14,557 BTC\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Strive-Expands-Bitcoin-Treasury-With-61.4-Million-Purchase-Holdi",
+      "impact": {}
+    },
+    {
+      "event_id": "74f18577-bcad-4729-b3cc-29b1ea7352e5",
+      "source": "rss:cointelegraph",
+      "title": "Michael Saylor’s Strategy adds 3.2K Bitcoin at nearly $78K per BTC",
+      "url": "https://cointelegraph.com/news/michael-saylor-s-strategy-adds-3-2k-bitcoin-at-nearly-78k-per-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T14:05:14+00:00",
+      "raw_text": "Michael Saylor’s Strategy adds 3.2K Bitcoin at nearly $78K per BTC\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Michael Saylor’s Strategy adds 3.2K Bitcoin at nearly $78K per BTC\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb",
+      "impact": {}
+    },
+    {
+      "event_id": "42de00f0-5098-475e-bff8-eeab18b83c01",
+      "source": "rss:decrypt",
+      "title": "Bitcoin Giant Strategy's Buying Pace Falls 91% Amid STRC Cooldown",
+      "url": "https://decrypt.co/365620/bitcoin-giant-strategy-buying-pace-falls-strc-cooldown",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T13:57:33+00:00",
+      "raw_text": "Bitcoin Giant Strategy's Buying Pace Falls 91% Amid STRC Cooldown\n\nThe Bitcoin-buying firm leaned on common shares to grow its holdings after STRC powered its largest purchase in 16 months.",
+      "impact": {}
+    },
+    {
+      "event_id": "1ea6fbf3-30e6-48cf-bf0b-1f477bb0f279",
+      "source": "rss:cointelegraph",
+      "title": "Ethereum’s EEZ could pull other blockchains into its orbit",
+      "url": "https://cointelegraph.com/features/ethereum-eez-pull-other-blockchains-orbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T13:55:32+00:00",
+      "raw_text": "Ethereum’s EEZ could pull other blockchains into its orbit\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum’s EEZ could pull other blockchains into its orbit\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoL",
+      "impact": {}
+    },
+    {
+      "event_id": "431d52fb-2230-49ec-909e-6eef49439e35",
+      "source": "rss:bitcoinmagazine",
+      "title": "Strategy (MSTR) Expands Bitcoin Holdings by $255 Million as Treasury Yield Surges to 9.6%",
+      "url": "https://bitcoinmagazine.com/news/strategy-mstr-expands-bitcoin-holdings",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T13:53:47+00:00",
+      "raw_text": "Strategy (MSTR) Expands Bitcoin Holdings by $255 Million as Treasury Yield Surges to 9.6%\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/03/Strategy-MSTR-is-About-to-Have-More-Bitcoin-Than-BlackRocks-I",
+      "impact": {}
+    },
+    {
+      "event_id": "c11d73c1-37ed-46f6-b936-bac819832c15",
+      "source": "rss:solana_official",
+      "title": "Solana’s Quantum Readiness",
+      "url": "https://solana.com/news/quantum-readiness",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T13:50:00+00:00",
+      "raw_text": "Solana’s Quantum Readiness\n\nWhere Solana’s quantum readiness stands and the path forward, with independent research from Firedancer and Anza",
+      "impact": {}
+    },
+    {
+      "event_id": "b3cb9e85-ebd3-4596-a957-d5a37ecdfa8a",
+      "source": "rss:cointelegraph",
+      "title": "MiCA has made euro stablecoins safe but weak, new report argues",
+      "url": "https://cointelegraph.com/news/mica-euro-stablecoins-safe-but-weak-new-report-argues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T13:49:21+00:00",
+      "raw_text": "MiCA has made euro stablecoins safe but weak, new report argues\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MiCA has made euro stablecoins safe but weak, new report argues\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGV",
+      "impact": {}
+    },
+    {
+      "event_id": "a12dae0d-80d1-4332-b302-70b45393c557",
+      "source": "rss:coindesk",
+      "title": "Signal in the age of infinite noise",
+      "url": "https://www.coindesk.com/opinion/2026/04/27/signal-in-the-age-of-infinite-noise",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T13:45:02+00:00",
+      "raw_text": "Signal in the age of infinite noise",
+      "impact": {}
+    },
+    {
+      "event_id": "4d75c10f-de7b-46a2-8ed6-8595bce31677",
+      "source": "rss:coindesk",
+      "title": "Michael Saylor’s Strategy buys 3,273 bitcoin as it inches closer to its 1 million target",
+      "url": "https://www.coindesk.com/markets/2026/04/27/michael-saylor-s-strategy-buys-3-273-bitcoin-as-it-inches-closer-to-its-1-million-target",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T13:43:09+00:00",
+      "raw_text": "Michael Saylor’s Strategy buys 3,273 bitcoin as it inches closer to its 1 million target",
+      "impact": {}
+    },
+    {
+      "event_id": "5a4d3499-ea88-4bd1-ad96-f606629ee66a",
+      "source": "rss:theblock",
+      "title": "Strive acquires 789 BTC, bumping ninth-largest corporate bitcoin treasury over 14,000 BTC",
+      "url": "https://www.theblock.co/post/398986/strive-acquires-789-btc-bumping-ninth-largest-corporate-bitcoin-treasury-over-14000-btc?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T13:30:32+00:00",
+      "raw_text": "Strive acquires 789 BTC, bumping ninth-largest corporate bitcoin treasury over 14,000 BTC\n\n<p>Strive also recently tightened its preferred stock's trading range while boosting its monthly dividend yield to 12.75%.</p>\n\n<p>Strive also recently tightened its preferred stock's trading range while boost",
+      "impact": {}
+    },
+    {
+      "event_id": "fa8c4bfe-4b5e-4fac-8608-8bbfb0551074",
+      "source": "rss:theblock",
+      "title": "BitMine’s ether holdings top 5.078 million after largest purchase since December",
+      "url": "https://www.theblock.co/post/398982/bitmines-ether-holdings-top-5-078-million-after-largest-purchase-since-december?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T13:19:15+00:00",
+      "raw_text": "BitMine’s ether holdings top 5.078 million after largest purchase since December\n\n<p>BitMine said its ether holdings climbed to 5.078 million tokens after another 101,901 ETH purchase last week.</p>\n\n<p>BitMine said its ether holdings climbed to 5.078 million tokens after another 101,901 ETH purchas",
+      "impact": {}
+    },
+    {
+      "event_id": "765ef821-b03c-4aa7-bad5-c74b5e596e27",
+      "source": "rss:coindesk",
+      "title": "Bitmine buys $236 million in ether as Tom Lee touts ETH as 'wartime store of value'",
+      "url": "https://www.coindesk.com/business/2026/04/27/bitmine-buys-usd236-million-in-ether-as-tom-lee-touts-eth-as-wartime-store-of-value",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T13:17:02+00:00",
+      "raw_text": "Bitmine buys $236 million in ether as Tom Lee touts ETH as 'wartime store of value'",
+      "impact": {}
+    },
+    {
+      "event_id": "5f60d2c4-f5ba-4dc9-9373-82ed68185a7a",
+      "source": "rss:coindesk",
+      "title": "CoinDesk 20 performance update: Stellar (XLM) drops 3.4%, leading index lower",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/04/27/coindesk-20-performance-update-stellar-xlm-drops-3-4-leading-index-lower",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T13:15:34+00:00",
+      "raw_text": "CoinDesk 20 performance update: Stellar (XLM) drops 3.4%, leading index lower",
+      "impact": {}
+    },
+    {
+      "event_id": "b3c3c6f4-78fb-4662-ac28-9f9d3fc6ce96",
+      "source": "rss:decrypt",
+      "title": "Money Launderer Sentenced to 70 Months Over $263M Crypto Social-Engineering Scheme",
+      "url": "https://decrypt.co/365606/money-launderer-sentenced-to-70-months-over-263m-crypto-social-engineering-scheme",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T13:08:03+00:00",
+      "raw_text": "Money Launderer Sentenced to 70 Months Over $263M Crypto Social-Engineering Scheme\n\nCalifornia money launderer Evan Tangeman admitted to having processed millions in stolen cryptocurrency proceeds.",
+      "impact": {}
+    },
+    {
+      "event_id": "d9528c51-331d-41d9-bf28-8c3ac29acc0f",
+      "source": "rss:bitcoinmagazine",
+      "title": "Satori Coin Enters U.S. Market With Physical Bitcoin Collectibles",
+      "url": "https://bitcoinmagazine.com/news/satori-coin-enters-u-s-market",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T13:00:00+00:00",
+      "raw_text": "Satori Coin Enters U.S. Market With Physical Bitcoin Collectibles\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/chi-26-scaled.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https",
+      "impact": {}
+    },
+    {
+      "event_id": "d7faf914-4f63-43ae-b421-ab8501cf9dad",
+      "source": "rss:theblock",
+      "title": "TD Cowen reiterates buy rating on Smarter Web Company, says it remains UK’s only scaled bitcoin treasury vehicle",
+      "url": "https://www.theblock.co/post/398978/td-cowen-reiterates-buy-rating-on-smarter-web-company-says-it-remains-uks-only-scaled-bitcoin-treasury-vehicle?utm_source=rss&utm_medium=rss",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T12:55:52+00:00",
+      "raw_text": "TD Cowen reiterates buy rating on Smarter Web Company, says it remains UK’s only scaled bitcoin treasury vehicle\n\n<p>TD Cowen said The Smarter Web Company has strengthened its position as the only UK-listed bitcoin treasury vehicle at scale.</p>\n\n<p>TD Cowen said The Smarter Web Company has strength",
+      "impact": {}
+    },
+    {
+      "event_id": "34b55c25-222a-4d8f-afe9-96c1f787ae6a",
+      "source": "rss:decrypt",
+      "title": "Bitcoin ETFs Extend Longest Win Streak Since September, But Spot Demand Lags",
+      "url": "https://decrypt.co/365604/bitcoin-etfs-extend-longest-win-streak-since-september-but-spot-demand-lags",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T12:34:05+00:00",
+      "raw_text": "Bitcoin ETFs Extend Longest Win Streak Since September, But Spot Demand Lags\n\nThe nine-day inflow streak saw spot Bitcoin ETFs draw in $2.1 billion, but experts warn of “net negative” on-chain demand.",
+      "impact": {}
+    },
+    {
+      "event_id": "3835f5d6-61b3-488d-858f-26be05aecc85",
+      "source": "rss:theblock",
+      "title": "The Block appoints veteran media operator Steve Chung as CEO",
+      "url": "https://www.theblock.co/post/398948/the-block-appoints-steve-chung-ceo?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T12:30:00+00:00",
+      "raw_text": "The Block appoints veteran media operator Steve Chung as CEO\n\n<p>Chung takes over from Larry Cermak, who remains President of The Block, overseeing research, data, and product.</p>\n\n<p>Chung takes over from Larry Cermak, who remains President of The Block, overseeing research, data, and product.</p>",
+      "impact": {}
+    },
+    {
+      "event_id": "c5c248fa-6b1e-4c66-9a14-5bed4826b508",
+      "source": "rss:cointelegraph",
+      "title": "First 21-week trend line reclaim since October 2025: Five things to know in Bitcoin this week",
+      "url": "https://cointelegraph.com/markets/first-21-week-trend-line-reclaim-since-october-2025-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T12:11:46+00:00",
+      "raw_text": "First 21-week trend line reclaim since October 2025: Five things to know in Bitcoin this week\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"First 21-week trend line reclaim since October 2025: Five things to know in Bitcoin this week\" class=\"type:primaryImage\" src=\"https:/",
+      "impact": {}
+    },
+    {
+      "event_id": "75d19adc-acbf-4b51-9749-4bf981a91413",
+      "source": "rss:coindesk",
+      "title": "Pudgy Penguins rally coincides with token unlock as analyst flags exit liquidity risk",
+      "url": "https://www.coindesk.com/markets/2026/04/27/pudgy-penguins-rally-coincides-with-token-unlock-as-analyst-flags-exit-liquidity-risk",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T12:11:23+00:00",
+      "raw_text": "Pudgy Penguins rally coincides with token unlock as analyst flags exit liquidity risk",
+      "impact": {}
+    },
+    {
+      "event_id": "f04e7dbb-cbbd-438a-9e7d-6c30cfb001e4",
+      "source": "rss:coindesk",
+      "title": "Bitcoin funds take in $933 million as crypto ETFs hit highest AUM since February",
+      "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-funds-take-in-usd933-million-as-crypto-etfs-hit-highest-aum-since-february",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T12:07:04+00:00",
+      "raw_text": "Bitcoin funds take in $933 million as crypto ETFs hit highest AUM since February",
+      "impact": {}
+    },
     {
       "event_id": "bf12a768-9db8-4e9f-aea8-e3f0aeb69fc0",
       "source": "rss:theblock",
@@ -8,10 +416,16 @@
       "url": "https://www.theblock.co/post/398968/the-beat-goes-on-michael-saylor-strategy-bitcoin-buys?utm_source=rss&utm_medium=rss",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-04-27T12:06:16+00:00",
       "raw_text": "‘The beat goes on’: Michael Saylor’s Strategy adds 3,273 bitcoin for $255 million as holdings reach 818,334 BTC\n\n<p>Strategy's holdings account for 3.9% of the total 21 million bitcoin supply — worth around $63.7 billion.</p>\n\n<p>Strategy's holdings account for 3.9% of the total 21 million bitcoin s",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0359,
+        "t_plus_15m": 0.1182,
+        "t_plus_1h": -0.116
+      }
     },
     {
       "event_id": "8f648e3f-09e9-4d2d-bf0c-afeb191437d6",
@@ -20,9 +434,27 @@
       "url": "https://bitcoinmagazine.com/culture/samourai-letter-6-two-years-in",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-04-27T12:00:00+00:00",
       "raw_text": "Samourai Letter #6: Two Years In\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Rage6.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/culture/samourai-le",
+      "impact": {
+        "t_plus_5m": 0.0005,
+        "t_plus_15m": 0.1065,
+        "t_plus_1h": -0.1431
+      }
+    },
+    {
+      "event_id": "971284c8-9ed5-4362-8113-b610ce5c6da2",
+      "source": "rss:cointelegraph",
+      "title": "ETH price up 10% in April, so why is Ethereum Foundation selling?",
+      "url": "https://cointelegraph.com/markets/eth-price-up-10-in-april-so-why-is-ethereum-foundation-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T11:59:11+00:00",
+      "raw_text": "ETH price up 10% in April, so why is Ethereum Foundation selling?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ETH price up 10% in April, so why is Ethereum Foundation selling?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2l",
       "impact": {}
     },
     {
@@ -47,6 +479,18 @@
       "tokens": [],
       "timestamp_utc": "2026-04-27T11:32:46+00:00",
       "raw_text": "Kbank teams with Ripple on overseas blockchain remittance trial\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kbank teams with Ripple on overseas blockchain remittance trial\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGV",
+      "impact": {}
+    },
+    {
+      "event_id": "f2ce692b-f39b-447d-bd8e-45c25600253f",
+      "source": "rss:coindesk",
+      "title": "From SWIFT to onchain: South Korea’s biggest digital bank taps Ripple for high-speed global transfers",
+      "url": "https://www.coindesk.com/markets/2026/04/27/south-korea-s-kbank-tests-international-blockchain-transfers-with-ripple",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T11:29:35+00:00",
+      "raw_text": "From SWIFT to onchain: South Korea’s biggest digital bank taps Ripple for high-speed global transfers",
       "impact": {}
     },
     {
@@ -6016,505 +6460,44 @@
       "timestamp_utc": "2026-04-21T14:01:03+00:00",
       "raw_text": "Optimism Bills 'Privacy Boost' as Turning Point for Enterprises on Ethereum\n\nThe layer-2 Ethereum scaling network’s privacy offering is expected to expand to additional blockchains.",
       "impact": {}
-    },
-    {
-      "event_id": "c83ef685-dda7-4ced-8a79-7c521a6391ab",
-      "source": "rss:theblock",
-      "title": "DoorDash to offer stablecoin payouts with Tempo in push toward everyday crypto payments",
-      "url": "https://www.theblock.co/post/398270/doordash-to-offer-stablecoin-payouts-with-tempo-in-push-toward-everyday-crypto-payments?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T13:55:33+00:00",
-      "raw_text": "DoorDash to offer stablecoin payouts with Tempo in push toward everyday crypto payments\n\n<p>Stripe, Coastal Bank and ARQ are also deploying stablecoin payment flows on Tempo's network alongside DoorDash.</p>\n\n<p>Stripe, Coastal Bank and ARQ are also deploying stablecoin payment flows on Tempo's netw",
-      "impact": {}
-    },
-    {
-      "event_id": "d0f50c6e-eab2-4724-994b-2eaba60b7fdd",
-      "source": "rss:cointelegraph",
-      "title": "South Korea tax agency opens bidding for crypto tracing tool",
-      "url": "https://cointelegraph.com/news/south-korea-crypto-tax-ai-monitoring-system-procurement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T13:47:49+00:00",
-      "raw_text": "South Korea tax agency opens bidding for crypto tracing tool\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea tax agency opens bidding for crypto tracing tool\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyY",
-      "impact": {}
-    },
-    {
-      "event_id": "93b25987-66e8-4680-8d7c-e5c9dae87993",
-      "source": "rss:cointelegraph",
-      "title": "Crypto hackers stole $17B over past 10 years: DefiLlama",
-      "url": "https://cointelegraph.com/news/private-key-compromises-led-crypto-hack-losses-decade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T13:42:32+00:00",
-      "raw_text": "Crypto hackers stole $17B over past 10 years: DefiLlama\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto hackers stole $17B over past 10 years: DefiLlama\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9",
-      "impact": {}
-    },
-    {
-      "event_id": "0c36d01b-3421-4d95-ab27-2e1a296c836b",
-      "source": "rss:cointelegraph",
-      "title": "Canton, ZKsync clash over how blockchains enforce rules",
-      "url": "https://cointelegraph.com/news/canton-zksync-clash-blockchains-enforce-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T13:30:10+00:00",
-      "raw_text": "Canton, ZKsync clash over how blockchains enforce rules\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Canton, ZKsync clash over how blockchains enforce rules\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9",
-      "impact": {}
-    },
-    {
-      "event_id": "84012765-6e0b-405f-b5e4-b53575afbc00",
-      "source": "rss:coindesk",
-      "title": "CoinDesk 20 performance update: Stellar (XLM) gains 3.3% while index moves lower",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/04/21/coindesk-20-performance-update-stellar-xlm-gains-3-3-while-index-moves-lower",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T13:19:23+00:00",
-      "raw_text": "CoinDesk 20 performance update: Stellar (XLM) gains 3.3% while index moves lower",
-      "impact": {}
-    },
-    {
-      "event_id": "a7337450-2f30-4e8b-b4ed-d9e5a2c5d848",
-      "source": "rss:decrypt",
-      "title": "Bank of Korea's New Governor Prioritizes CBDCs Over Stablecoins in First Policy Address",
-      "url": "https://decrypt.co/365016/bank-of-koreas-new-governor-prioritizes-cbdcs-over-stablecoins-in-first-policy-address",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T13:02:10+00:00",
-      "raw_text": "Bank of Korea's New Governor Prioritizes CBDCs Over Stablecoins in First Policy Address\n\nThe central bank chief outlined digital finance priorities while legislative debates continue over private stablecoin frameworks.",
-      "impact": {}
-    },
-    {
-      "event_id": "03cca2b3-c01a-48d0-bfd9-3a9cb9b5831f",
-      "source": "rss:bitcoinmagazine",
-      "title": "Onramp Launches Finance Platform Combining Cash, Bitcoin and Gold in One Account",
-      "url": "https://bitcoinmagazine.com/news/onramp-launches-finance-platform-bitcoin",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T13:00:07+00:00",
-      "raw_text": "Onramp Launches Finance Platform Combining Cash, Bitcoin and Gold in One Account\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/03/Square-Begins-Automatic-Bitcoin-Payment-Rollout-to-Millions-of-U.S.-Me",
-      "impact": {}
-    },
-    {
-      "event_id": "b4955af6-c4d9-43e1-a4cb-a44494eda1c0",
-      "source": "rss:theblock",
-      "title": "Polymarket taps Bitget Wallet’s over 90 million users with integration",
-      "url": "https://www.theblock.co/post/398188/polymarket-taps-bitget-wallets-over-90-million-users-with-integration?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T13:00:00+00:00",
-      "raw_text": "Polymarket taps Bitget Wallet’s over 90 million users with integration\n\n<p>Polymarket's chief marketing officer said “Bitget Wallet provides a powerful entry point for a global user base.\"</p>\n\n<p>Polymarket's chief marketing officer said “Bitget Wallet provides a powerful entry point for a global u",
-      "impact": {}
-    },
-    {
-      "event_id": "8edaaa33-b9ba-4d1f-be9f-bc467b8db439",
-      "source": "rss:cointelegraph",
-      "title": "XRP holders back in profit as price eyes potential 55% breakout",
-      "url": "https://cointelegraph.com/news/xrp-holders-back-in-profit-price-gears-up-for-55-percent-breakout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-04-21T12:50:35+00:00",
-      "raw_text": "XRP holders back in profit as price eyes potential 55% breakout\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"XRP holders back in profit as price eyes potential 55% breakout\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGV",
-      "impact": {
-        "t_plus_5m": 0.0773,
-        "t_plus_15m": 0.2918,
-        "t_plus_1h": 0.1687
-      }
-    },
-    {
-      "event_id": "0bf233d5-e719-4fbd-afa2-9e130a0cf271",
-      "source": "rss:cointelegraph",
-      "title": "XRP holders back in profit as price gears up for a 55% breakout",
-      "url": "https://cointelegraph.com/news/xrp-holders-back-in-profit-price-gears-up-for-55-percent-breakout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-04-21T12:50:35+00:00",
-      "raw_text": "XRP holders back in profit as price gears up for a 55% breakout\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"XRP holders back in profit as price gears up for a 55% breakout\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGV",
-      "impact": {
-        "t_plus_5m": 0.0773,
-        "t_plus_15m": 0.2918,
-        "t_plus_1h": 0.1687,
-        "t_plus_24h": 1.2863
-      }
-    },
-    {
-      "event_id": "b5f12018-7eaa-44d7-88d8-f59dfb072bff",
-      "source": "rss:decrypt",
-      "title": "Iran Scammers Demand Bitcoin, USDT for Transit Through Strait of Hormuz: Report",
-      "url": "https://decrypt.co/365010/iran-scammers-demand-bitcoin-usdt-for-transit-through-strait-of-hormuz-report",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T12:37:42+00:00",
-      "raw_text": "Iran Scammers Demand Bitcoin, USDT for Transit Through Strait of Hormuz: Report\n\nFake crypto clearance demands are targeting ships stranded at Hormuz as the Iran conflict enters its third month.",
-      "impact": {}
-    },
-    {
-      "event_id": "98d7be31-6dfb-4744-8b5c-27ce4baada3b",
-      "source": "rss:cointelegraph",
-      "title": "VIX drops 45% in three weeks: Is Bitcoin price ready to retake $80K?",
-      "url": "https://cointelegraph.com/news/vix-drops-45-precent-three-weeks-btc-price-retake-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T12:25:47+00:00",
-      "raw_text": "VIX drops 45% in three weeks: Is Bitcoin price ready to retake $80K?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"VIX drops 45% in three weeks: Is Bitcoin price ready to retake $80K?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zM",
-      "impact": {}
-    },
-    {
-      "event_id": "5c43a208-349c-4b3d-9c4c-764d3d7a307d",
-      "source": "rss:theblock",
-      "title": "UK sets out plan to integrate payments rules covering stablecoins and tokenized deposits",
-      "url": "https://www.theblock.co/post/398244/uk-sets-out-plan-to-integrate-payments-rules-covering-stablecoins-and-tokenized-deposits?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T12:15:07+00:00",
-      "raw_text": "UK sets out plan to integrate payments rules covering stablecoins and tokenized deposits\n\n<p>HM Treasury proposed unifying UK payments rules for traditional services, stablecoins, and tokenized deposits during Fintech Week in London.</p>\n\n<p>HM Treasury proposed unifying UK payments rules for tradit",
-      "impact": {}
-    },
-    {
-      "event_id": "32a4166c-376e-4f5d-934d-b2112724d4d5",
-      "source": "rss:theblock",
-      "title": "Securitize names former IMF representative to board",
-      "url": "https://www.theblock.co/post/398181/securitize-names-former-imf-representative-to-board?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T12:00:00+00:00",
-      "raw_text": "Securitize names former IMF representative to board\n\n<p>Sunil Sabharwal served as a Senate-confirmed U.S. representative to the International Monetary Fund between 2016 and 2018.</p>\n\n<p>Sunil Sabharwal served as a Senate-confirmed U.S. representative to the International Monetary Fund between 2016 ",
-      "impact": {}
-    },
-    {
-      "event_id": "78ccad3f-2122-4211-afff-74785f343396",
-      "source": "rss:decrypt",
-      "title": "Morning Minute: Saylor's $2.54B Buy Buoys Bitcoin",
-      "url": "https://decrypt.co/365006/morning-minute-saylors-2-54b-buy-buoys-bitcoin",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC",
-        "ETH"
-      ],
-      "timestamp_utc": "2026-04-21T11:51:42+00:00",
-      "raw_text": "Morning Minute: Saylor's $2.54B Buy Buoys Bitcoin\n\nMichael Saylor and Tom Lee continued to buy BTC and ETH in big size, while Aave published its incident report from the KelpDAO exploit.",
-      "impact": {
-        "t_plus_5m": 0.0337,
-        "t_plus_15m": 0.0181,
-        "t_plus_1h": -0.7642,
-        "t_plus_4h": -0.8855,
-        "t_plus_24h": 2.3067
-      }
-    },
-    {
-      "event_id": "d75a2791-9056-418e-9e46-b7f7e35eb4d6",
-      "source": "rss:cointelegraph",
-      "title": "BitMEX taps Zodia Custody for off-exchange collateral trading",
-      "url": "https://cointelegraph.com/news/bitmex-zodia-custody-tighten-post-ftx-safeguards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T11:45:19+00:00",
-      "raw_text": "BitMEX taps Zodia Custody for off-exchange collateral trading\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitMEX taps Zodia Custody for off-exchange collateral trading\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWd",
-      "impact": {}
-    },
-    {
-      "event_id": "ce9e5c1f-45de-4dec-a91c-331865208663",
-      "source": "rss:coindesk",
-      "title": "Almost 80% of Japan's institutional investors plan to buy crypto within 3 years, survey finds",
-      "url": "https://www.coindesk.com/markets/2026/04/21/almost-80-of-japanese-institutional-investors-are-eyeing-crypto-for-their-portfolios-by-2029",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T11:44:35+00:00",
-      "raw_text": "Almost 80% of Japan's institutional investors plan to buy crypto within 3 years, survey finds",
-      "impact": {}
-    },
-    {
-      "event_id": "ce30dca3-62db-4e17-8b83-45c78dd95129",
-      "source": "rss:theblock",
-      "title": "Kelp DAO exploiter begins moving stolen funds across chains after Arbitrum ETH freeze",
-      "url": "https://www.theblock.co/post/398239/kelp-dao-exploiter-begins-moving-stolen-funds-across-chains-after-arbitrum-eth-freeze?utm_source=rss&utm_medium=rss",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-04-21T11:40:48+00:00",
-      "raw_text": "Kelp DAO exploiter begins moving stolen funds across chains after Arbitrum ETH freeze\n\n<p>Wallets tied to the approximate $292 million Kelp DAO exploit have begun moving funds across chains following Arbitrum’s ETH freeze.</p>\n\n<p>Wallets tied to the approximate $292 million Kelp DAO exploit have be",
-      "impact": {
-        "t_plus_5m": 0.1955,
-        "t_plus_15m": 0.0649,
-        "t_plus_1h": -0.1714,
-        "t_plus_24h": 3.0948
-      }
-    },
-    {
-      "event_id": "8e49b9b3-fe3f-4d5f-bef9-36f7649324b2",
-      "source": "rss:coindesk",
-      "title": "Bitcoin trades above a make-or-break level ahead of Warsh hearing",
-      "url": "https://www.coindesk.com/daybook-us/2026/04/21/bitcoin-trades-above-a-make-or-break-level-ahead-of-warsh-hearing",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T11:29:24+00:00",
-      "raw_text": "Bitcoin trades above a make-or-break level ahead of Warsh hearing",
-      "impact": {}
-    },
-    {
-      "event_id": "96a522fe-d32e-48cd-bdca-4978996735d6",
-      "source": "rss:decrypt",
-      "title": "Grandson of Mob Boss John Gotti Sentenced for Funneling Stolen COVID Funds Into Crypto",
-      "url": "https://decrypt.co/365004/grandson-of-mob-boss-john-gotti-sentenced-for-funneling-stolen-covid-funds-into-crypto",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T11:28:41+00:00",
-      "raw_text": "Grandson of Mob Boss John Gotti Sentenced for Funneling Stolen COVID Funds Into Crypto\n\nThe grandson of Gambino crime boss John Gotti pleaded guilty to wire fraud after funneling $420K in stolen pandemic relief funds into crypto.",
-      "impact": {}
-    },
-    {
-      "event_id": "df5d75ab-32a2-4d19-9a85-1093fe06802e",
-      "source": "rss:cointelegraph",
-      "title": "Kelp DAO attacker moves $175M in Ether after exploit: Arkham",
-      "url": "https://cointelegraph.com/news/kelp-exploiter-moves-175m-stolen-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T11:12:09+00:00",
-      "raw_text": "Kelp DAO attacker moves $175M in Ether after exploit: Arkham\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kelp DAO attacker moves $175M in Ether after exploit: Arkham\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyY",
-      "impact": {}
-    },
-    {
-      "event_id": "ddadaff8-04dc-4575-8714-869c4dfa74ed",
-      "source": "rss:decrypt",
-      "title": "Bitcoin Resistance at $78K and $83K Could Cap Rally: Schwab",
-      "url": "https://decrypt.co/365001/bitcoin-resistance-at-78k-and-83k-could-cap-rally-schwab",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T11:00:29+00:00",
-      "raw_text": "Bitcoin Resistance at $78K and $83K Could Cap Rally: Schwab\n\nThe Schwab Center for Financial Research warned that Bitcoin faces key resistance between $78,000 and $83,000 investor cost basis levels.",
-      "impact": {}
-    },
-    {
-      "event_id": "e2078991-bcea-4d35-894e-d205077f015e",
-      "source": "rss:coindesk",
-      "title": "Bitcoin climbs as risk sentiment improves, altcoins hit by exploit concerns",
-      "url": "https://www.coindesk.com/markets/2026/04/21/bitcoin-climbs-as-risk-sentiment-improves-altcoins-hit-by-exploit-concerns",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T10:36:06+00:00",
-      "raw_text": "Bitcoin climbs as risk sentiment improves, altcoins hit by exploit concerns",
-      "impact": {}
-    },
-    {
-      "event_id": "c4ff127a-b27c-4f8f-aaa4-8562d2f8e513",
-      "source": "rss:coindesk",
-      "title": "Crypto scammers offer ‘safe passage’ through Hormuz. At least one ship may have been conned.",
-      "url": "https://www.coindesk.com/business/2026/04/21/crypto-scammers-offer-safe-passage-through-hormuz-at-least-one-ship-may-have-been-conned",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T10:31:09+00:00",
-      "raw_text": "Crypto scammers offer ‘safe passage’ through Hormuz. At least one ship may have been conned.",
-      "impact": {}
-    },
-    {
-      "event_id": "32085bd7-734b-4f88-b3f8-317da17900ee",
-      "source": "rss:coindesk",
-      "title": "Bank of Korea’s new governor signals CBDC and bank token push, skips stablecoins in key address",
-      "url": "https://www.coindesk.com/policy/2026/04/21/bank-of-korea-s-new-governor-signals-cbdc-and-bank-token-push-skips-stablecoins-in-key-address",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T10:08:52+00:00",
-      "raw_text": "Bank of Korea’s new governor signals CBDC and bank token push, skips stablecoins in key address",
-      "impact": {}
-    },
-    {
-      "event_id": "923aa32a-a581-4e6d-a18b-d2d5168d8683",
-      "source": "rss:decrypt",
-      "title": "Arbitrum Security Council Freezes $71.5M in Ethereum Linked to $292M KelpDAO Exploit",
-      "url": "https://decrypt.co/364981/arbitrum-security-council-freezes-71-5m-in-ethereum-linked-to-292m-kelpdao-exploit",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T09:55:42+00:00",
-      "raw_text": "Arbitrum Security Council Freezes $71.5M in Ethereum Linked to $292M KelpDAO Exploit\n\nArbitrum's emergency response to the KelpDAO exploit has sparked praise and criticism over the network's ability to freeze stolen assets.",
-      "impact": {}
-    },
-    {
-      "event_id": "3e2ee6b9-71e1-4b8a-90b3-ba10bc55636a",
-      "source": "rss:decrypt",
-      "title": "Arbitrum Security Council Freezes $71.5M in Ethereum linked to $292M KelpDAO Exploit",
-      "url": "https://decrypt.co/364981/arbitrum-security-council-freezes-71-5m-in-ethereum-linked-to-292m-kelpdao-exploit",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T09:55:42+00:00",
-      "raw_text": "Arbitrum Security Council Freezes $71.5M in Ethereum linked to $292M KelpDAO Exploit\n\nArbitrum's emergency response to the KelpDAO exploit has sparked praise and criticism over the network's ability to freeze stolen assets.",
-      "impact": {}
-    },
-    {
-      "event_id": "1846fc81-f8b1-40e5-99be-6aed411adb9f",
-      "source": "rss:cointelegraph",
-      "title": "Scammers demand crypto from stranded ships in Strait of Hormuz: Report",
-      "url": "https://cointelegraph.com/news/fraudsters-pose-iranian-authorities-crypto-stranded-ships-hormuz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T09:53:55+00:00",
-      "raw_text": "Scammers demand crypto from stranded ships in Strait of Hormuz: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Scammers demand crypto from stranded ships in Strait of Hormuz: Report\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6L",
-      "impact": {}
-    },
-    {
-      "event_id": "c11b9b91-1631-4e81-b3ff-ad4278c6094c",
-      "source": "rss:coindesk",
-      "title": "Strategy overtakes BlackRock IBIT in bitcoin holdings after bear market buying",
-      "url": "https://www.coindesk.com/markets/2026/04/21/strategy-overtakes-blackrock-ibit-in-bitcoin-holdings-after-bear-market-buying",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T09:39:06+00:00",
-      "raw_text": "Strategy overtakes BlackRock IBIT in bitcoin holdings after bear market buying",
-      "impact": {}
-    },
-    {
-      "event_id": "a31e3549-446c-4b17-ad01-27a4e8bf26ca",
-      "source": "rss:coindesk",
-      "title": "Bitcoin is now calmer than South Korea's stock market. Here's why it matters",
-      "url": "https://www.coindesk.com/markets/2026/04/21/bitcoin-is-less-volatile-than-south-korea-s-stock-market-right-now",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T09:25:24+00:00",
-      "raw_text": "Bitcoin is now calmer than South Korea's stock market. Here's why it matters",
-      "impact": {}
-    },
-    {
-      "event_id": "9d2926ae-c921-4072-878a-dddee62918f2",
-      "source": "rss:coindesk",
-      "title": "Bitcoin is less volatile than South Korea's stock market right now",
-      "url": "https://www.coindesk.com/markets/2026/04/21/bitcoin-is-less-volatile-than-south-korea-s-stock-market-right-now",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T09:25:24+00:00",
-      "raw_text": "Bitcoin is less volatile than South Korea's stock market right now",
-      "impact": {}
-    },
-    {
-      "event_id": "5acf3af2-008f-4fc0-a0dc-00e38d460bde",
-      "source": "rss:cointelegraph",
-      "title": "Philippines SEC flags dYdX, six crypto platforms as unauthorized",
-      "url": "https://cointelegraph.com/news/philippines-sec-warns-dydx-crypto-platforms-investor-alert?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T09:22:30+00:00",
-      "raw_text": "Philippines SEC flags dYdX, six crypto platforms as unauthorized\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Philippines SEC flags dYdX, six crypto platforms as unauthorized\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2lud",
-      "impact": {}
-    },
-    {
-      "event_id": "aa372a71-6b6f-451c-9f00-99277866ddba",
-      "source": "rss:cointelegraph",
-      "title": "Philippines SEC warns on dYdX, six other unauthorized crypto platforms",
-      "url": "https://cointelegraph.com/news/philippines-sec-warns-dydx-crypto-platforms-investor-alert?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T09:22:30+00:00",
-      "raw_text": "Philippines SEC warns on dYdX, six other unauthorized crypto platforms\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Philippines SEC warns on dYdX, six other unauthorized crypto platforms\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6L",
-      "impact": {}
-    },
-    {
-      "event_id": "58bcf4dd-b777-4a12-9743-3b83413bf850",
-      "source": "rss:coindesk",
-      "title": "KelpDAO hackers are laundering millions in stolen crypto, data show",
-      "url": "https://www.coindesk.com/business/2026/04/21/data-shows-the-kelpdao-hackers-are-already-laundering-millions-in-stolen-crypto",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T09:12:40+00:00",
-      "raw_text": "KelpDAO hackers are laundering millions in stolen crypto, data show",
-      "impact": {}
-    },
-    {
-      "event_id": "7aa92f26-1ec4-4c89-8178-866af04522d7",
-      "source": "rss:theblock",
-      "title": "Scammers demand crypto ‘clearance’ fees from ships near Strait of Hormuz: report",
-      "url": "https://www.theblock.co/post/398233/scammers-demand-crypto-clearance-fees-from-ships-near-strait-of-hormuz-report?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T09:11:35+00:00",
-      "raw_text": "Scammers demand crypto ‘clearance’ fees from ships near Strait of Hormuz: report\n\n<p>Greek maritime risk firm MARISKS warned shippers of fraudulent Hormuz transit demands paid in bitcoin or USDT, according to Reuters.</p>\n\n<p>Greek maritime risk firm MARISKS warned shippers of fraudulent Hormuz tran",
-      "impact": {}
-    },
-    {
-      "event_id": "42dcfe0f-7c73-44a0-b01c-fb7bb8d48fce",
-      "source": "rss:cointelegraph",
-      "title": "Bank of Korea governor backs CBDCs, deposit tokens in first address",
-      "url": "https://cointelegraph.com/news/new-bank-of-korea-governor-backs-cbdcs-deposit-tokens-first-address?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T08:52:17+00:00",
-      "raw_text": "Bank of Korea governor backs CBDCs, deposit tokens in first address\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bank of Korea governor backs CBDCs, deposit tokens in first address\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 193,
-        "avg_1h": -0.08,
-        "avg_24h": -0.78,
+      "hack": {
+        "count": 45,
+        "avg_1h": 0.08,
+        "avg_24h": 1.22,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 77,
-        "avg_1h": -0.02,
+        "count": 80,
+        "avg_1h": -0.03,
         "avg_24h": -0.64,
         "win_rate_1h_gt5pct": 0.0
       },
+      "unknown": {
+        "count": 189,
+        "avg_1h": -0.11,
+        "avg_24h": -1.08,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 166,
+        "count": 172,
         "avg_1h": -0.06,
         "avg_24h": 0.66,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 52,
-        "avg_1h": -0.02,
-        "avg_24h": 1.81,
+      "listing": {
+        "count": 8,
+        "avg_1h": -1.02,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
         "count": 6,
         "avg_1h": -0.15,
         "avg_24h": 4.08,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "listing": {
-        "count": 6,
-        "avg_1h": -1.02,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       }
     }
