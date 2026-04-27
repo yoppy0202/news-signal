@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-04-27T22:04:51.056080+00:00",
+  "generated_at": "2026-04-27T23:07:22.588006+00:00",
   "events": [
+    {
+      "event_id": "fc4f1e9c-11d9-42fa-a03f-be2e57ccc669",
+      "source": "rss:coindesk",
+      "title": "Industry leaders are pouring hundreds of millions into a rescue plan for Aave users after massive crypto hack",
+      "url": "https://www.coindesk.com/tech/2026/04/27/industry-leaders-are-pouring-hundreds-of-millions-into-a-rescue-plan-for-aave-users-after-massive-crypto-hack",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T21:40:04+00:00",
+      "raw_text": "Industry leaders are pouring hundreds of millions into a rescue plan for Aave users after massive crypto hack",
+      "impact": {}
+    },
+    {
+      "event_id": "49ab3a33-957b-4d2b-a720-8c79ede28fbf",
+      "source": "rss:bitcoinmagazine",
+      "title": "House Republicans Warn That the America’s Bitcoin Weakness Will Benefit China",
+      "url": "https://bitcoinmagazine.com/news/house-republicans-bitcoin-weakness-china",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T21:32:45+00:00",
+      "raw_text": "House Republicans Warn That the America’s Bitcoin Weakness Will Benefit China\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/House-Republicans-Warn-That-the-Americas-Bitcoin-Weakness-Will-Benefit-Ch",
+      "impact": {}
+    },
+    {
+      "event_id": "44116713-baeb-4c64-a33e-8a0712c2c940",
+      "source": "rss:theblock",
+      "title": "White House crypto advisor hints at  ‘big announcement’ on Trump’s strategic bitcoin reserve in coming weeks",
+      "url": "https://www.theblock.co/post/399087/white-house-crypto-advisor-trump-strategic-bitcoin-reserve-coming-weeks?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T21:25:23+00:00",
+      "raw_text": "White House crypto advisor hints at  ‘big announcement’ on Trump’s strategic bitcoin reserve in coming weeks\n\n<p>Executive Director of the President’s Council of Advisors for Digital Assets Patrick Witt said bitcoin reserve legislation is progressing.</p>\n\n<p>Executive Director of the President’s Co",
+      "impact": {}
+    },
+    {
+      "event_id": "c93e9e45-3810-4cdf-990a-8e29e03b42e8",
+      "source": "rss:cointelegraph",
+      "title": "Tennessee crypto kiosk ban set to go into effect July 1",
+      "url": "https://cointelegraph.com/news/tennessee-crypto-kiosk-atm-ban-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T21:13:07+00:00",
+      "raw_text": "Tennessee crypto kiosk ban set to go into effect July 1\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tennessee crypto kiosk ban set to go into effect July 1 \" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2",
+      "impact": {}
+    },
     {
       "event_id": "ba3ecde5-0f5c-4fb9-8bf2-c9ba8b34034a",
       "source": "rss:bitcoinmagazine",
@@ -128,10 +176,21 @@
       "url": "https://cointelegraph.com/markets/price-predictions-427-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-ada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC",
+        "ETH",
+        "XRP",
+        "BNB",
+        "SOL",
+        "DOGE"
+      ],
       "timestamp_utc": "2026-04-27T19:59:19+00:00",
       "raw_text": "Price predictions 4/27: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 4/27: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0302,
+        "t_plus_15m": 0.0448,
+        "t_plus_1h": 0.1634
+      }
     },
     {
       "event_id": "6a87adc2-a3eb-4455-9cea-1d8eae3a452c",
@@ -1415,7 +1474,8 @@
         "t_plus_5m": 0.3161,
         "t_plus_15m": 0.3017,
         "t_plus_1h": 0.2462,
-        "t_plus_4h": 0.5701
+        "t_plus_4h": 0.5701,
+        "t_plus_24h": -1.4209
       }
     },
     {
@@ -6452,80 +6512,32 @@
       "timestamp_utc": "2026-04-21T17:55:23+00:00",
       "raw_text": "This Frankenstein AI Merges Claude Opus, GLM and Qwen—And Outperforms Top Models\n\nKyle Hessling stacked two of Jackrong's Qwopus finetunes into a single frankenmerge'—and then had to heal it. The result outperforms some of the top models.",
       "impact": {}
-    },
-    {
-      "event_id": "8529ea78-c7ef-433f-9edc-6a9d18740300",
-      "source": "rss:cointelegraph",
-      "title": "New York targets Coinbase, Gemini in fresh crackdown on prediction markets",
-      "url": "https://cointelegraph.com/news/new-york-sues-coinbase-gemini-unlicensed-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T17:50:51+00:00",
-      "raw_text": "New York targets Coinbase, Gemini in fresh crackdown on prediction markets\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"New York targets Coinbase, Gemini in fresh crackdown on prediction markets\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
-      "impact": {}
-    },
-    {
-      "event_id": "4532f022-70e8-4b77-b674-7e5776bf3b06",
-      "source": "rss:coindesk",
-      "title": "Bitcoin slides toward $75,000 amid Warsh hearing, stalling U.S.-Iran talks",
-      "url": "https://www.coindesk.com/markets/2026/04/21/bitcoin-slides-toward-usd75-000-as-warsh-says-trump-didn-t-demand-he-cut-rates",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T17:39:28+00:00",
-      "raw_text": "Bitcoin slides toward $75,000 amid Warsh hearing, stalling U.S.-Iran talks",
-      "impact": {}
-    },
-    {
-      "event_id": "7a9b1620-21c4-4e4e-88f5-f685fa7b4b17",
-      "source": "rss:coindesk",
-      "title": "Bitcoin slides toward $75,000 as Warsh says Trump didn't demand he cut rates",
-      "url": "https://www.coindesk.com/markets/2026/04/21/bitcoin-slides-toward-usd75-000-as-warsh-says-trump-didn-t-demand-he-cut-rates",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T17:39:28+00:00",
-      "raw_text": "Bitcoin slides toward $75,000 as Warsh says Trump didn't demand he cut rates",
-      "impact": {}
-    },
-    {
-      "event_id": "df09c536-c8b5-4710-bcf1-a4cfc877ef0b",
-      "source": "rss:decrypt",
-      "title": "New York Sues Coinbase and Gemini Over Prediction Markets, Seeking Billions in Damages",
-      "url": "https://decrypt.co/365048/new-york-sues-coinbase-gemini-prediction-market-offerings",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T17:36:45+00:00",
-      "raw_text": "New York Sues Coinbase and Gemini Over Prediction Markets, Seeking Billions in Damages\n\n\"Gemini and Coinbase’s so-called prediction markets are just illegal gambling operations,\" alleged New York AG Letitia James.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 83,
-        "avg_1h": 0.07,
-        "avg_24h": -0.64,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 181,
-        "avg_1h": 0.02,
-        "avg_24h": -1.08,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 46,
+        "count": 47,
         "avg_1h": 0.03,
         "avg_24h": -0.41,
         "win_rate_1h_gt5pct": 0.0
       },
+      "macro": {
+        "count": 84,
+        "avg_1h": 0.07,
+        "avg_24h": -0.83,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 177,
-        "avg_1h": -0.09,
+        "count": 178,
+        "avg_1h": -0.08,
         "avg_24h": 0.31,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 178,
+        "avg_1h": 0.02,
+        "avg_24h": -1.08,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
