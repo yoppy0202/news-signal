@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-04-27T06:39:47.677997+00:00",
+  "generated_at": "2026-04-27T09:28:42.418899+00:00",
   "events": [
+    {
+      "event_id": "e68a7a63-42c4-4ac6-8bd1-2f8757c93f3b",
+      "source": "rss:cointelegraph",
+      "title": "Prediction markets reflect 'wisdom of an informed minority,’ not crowd: Study",
+      "url": "https://cointelegraph.com/news/prediction-markets-reflect-wisdom-of-an-informed-minority-not-crowd-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T07:16:11+00:00",
+      "raw_text": "Prediction markets reflect 'wisdom of an informed minority,’ not crowd: Study\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Prediction markets reflect 'wisdom of an informed minority,’ not crowd: Study\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
+      "impact": {}
+    },
+    {
+      "event_id": "a2464bc1-188b-4f7c-a653-5872d0129c34",
+      "source": "rss:theblock",
+      "title": "Upbit partner KBank to test onchain cross-border remittances with Ripple",
+      "url": "https://www.theblock.co/post/398927/kbank-ripple-partnership?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T06:57:43+00:00",
+      "raw_text": "Upbit partner KBank to test onchain cross-border remittances with Ripple\n\n<p>KBank and Ripple have already completed the first phase of the PoC, in which they verified a wallet app-based remittance system.</p>\n\n<p>KBank and Ripple have already completed the first phase of the PoC, in which they veri",
+      "impact": {}
+    },
+    {
+      "event_id": "c7784ba0-6acc-4c9a-8f77-48db2add7443",
+      "source": "rss:coindesk",
+      "title": "A long-time developer wants to split Bitcoin blockchain and reassign Satoshi coins. The community is calling it a theft",
+      "url": "https://www.coindesk.com/tech/2026/04/27/a-long-time-developer-wants-to-fork-bitcoin-and-reassign-satoshi-coins-the-community-is-calling-it-a-theft",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T06:45:51+00:00",
+      "raw_text": "A long-time developer wants to split Bitcoin blockchain and reassign Satoshi coins. The community is calling it a theft",
+      "impact": {}
+    },
+    {
+      "event_id": "2d11e365-3cdd-4bc4-b747-c4ac84887bed",
+      "source": "rss:coindesk",
+      "title": "Pudgy Penguins, BAYC rally masks a shrinking NFT market as volumes and users fall",
+      "url": "https://www.coindesk.com/markets/2026/04/27/pudgy-penguins-bayc-rally-masks-a-shrinking-nft-market-as-volumes-and-users-fall",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T06:12:44+00:00",
+      "raw_text": "Pudgy Penguins, BAYC rally masks a shrinking NFT market as volumes and users fall",
+      "impact": {}
+    },
+    {
+      "event_id": "694509b1-554c-4d3f-94d8-ebb3a575e681",
+      "source": "rss:coindesk",
+      "title": "Bitcoin pulls back from 12-week high as Iran rally hits seller wall at $79,400",
+      "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-pulls-back-from-12-week-high-as-iran-rally-hits-seller-wall-at-usd79-400",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T05:47:29+00:00",
+      "raw_text": "Bitcoin pulls back from 12-week high as Iran rally hits seller wall at $79,400",
+      "impact": {}
+    },
     {
       "event_id": "b2fc68f0-4258-4874-ac41-6cee4707e1fe",
       "source": "rss:cointelegraph",
@@ -20,10 +80,16 @@
       "url": "https://cointelegraph.com/news/arbitrum-dao-asked-to-unfreeze-30k-eth-tied-to-kelp-hacker-direct-them-to-defi-united?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "hack",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-04-27T04:20:58+00:00",
       "raw_text": "Aave asks Arbitrum to send 30K ETH from Kelp exploiter to ‘DeFi United’\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Aave asks Arbitrum to send 30K ETH from Kelp exploiter to ‘DeFi United’\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 2.6678,
+        "t_plus_15m": 2.5995,
+        "t_plus_1h": 0.8495
+      }
     },
     {
       "event_id": "b6e67341-0028-4e5d-ab62-8d56e15b2d5a",
@@ -6424,90 +6490,30 @@
         "t_plus_1h": 0.1701,
         "t_plus_4h": 0.3448
       }
-    },
-    {
-      "event_id": "62436fc4-4ea3-43f4-b692-8d83da4cdf63",
-      "source": "rss:cointelegraph",
-      "title": "Aave risk manager models 2 bad debt scenarios from Kelp DAO exploit",
-      "url": "https://cointelegraph.com/news/aave-s-risk-manager-shares-2-scenarios-to-allocate-losses-from-kelp-dao-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T03:41:21+00:00",
-      "raw_text": "Aave risk manager models 2 bad debt scenarios from Kelp DAO exploit\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Aave risk manager models 2 bad debt scenarios from Kelp DAO exploit\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5",
-      "impact": {}
-    },
-    {
-      "event_id": "409f7b73-340a-42e4-9014-9e5da340688c",
-      "source": "rss:theblock",
-      "title": "Kelp DAO shifts blame to LayerZero for $292 million exploit; Aave examines bad debt scenarios",
-      "url": "https://www.theblock.co/post/398204/kelp-dao-shifts-blame-layerzero?utm_source=rss&utm_medium=rss",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T02:48:02+00:00",
-      "raw_text": "Kelp DAO shifts blame to LayerZero for $292 million exploit; Aave examines bad debt scenarios\n\n<p>Kelp DAO has countered LayerZero's earlier statement, saying the 1-of-1 DVN setup under criticism was shipped as the default at LayerZero.</p>\n\n<p>Kelp DAO has countered LayerZero's earlier statement, s",
-      "impact": {}
-    },
-    {
-      "event_id": "db3fa386-3065-4606-ae99-face7f9746e9",
-      "source": "rss:theblock",
-      "title": "Senate crypto bill faces April setback amid growing pressure to get legislation through: report",
-      "url": "https://www.theblock.co/post/398197/senate-crypto-bill-faces-april-setback?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T01:37:22+00:00",
-      "raw_text": "Senate crypto bill faces April setback amid growing pressure to get legislation through: report\n\n<p>Tensions are building to schedule a hearing to advance crypto market structure legislation, which could reportedly be pushed to May.</p>\n\n<p>Tensions are building to schedule a hearing to advance cryp",
-      "impact": {}
-    },
-    {
-      "event_id": "2a92404b-55b7-45ff-820c-d38fa057767a",
-      "source": "rss:decrypt",
-      "title": "Playdate Gaming Handheld Maker Bans Generative AI Tools for Development",
-      "url": "https://decrypt.co/364960/playdate-gaming-handheld-maker-bans-generative-ai-tools",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T21:41:59+00:00",
-      "raw_text": "Playdate Gaming Handheld Maker Bans Generative AI Tools for Development\n\nPanic, the firm behind the Playdate handheld, now prohibits creative AI applications while preserving developer productivity aids.",
-      "impact": {}
-    },
-    {
-      "event_id": "d00e1e31-d94f-403b-b3de-03776e88405d",
-      "source": "rss:cointelegraph",
-      "title": "John Oliver of ‘Last Week Tonight’ discusses prediction markets and manipulation",
-      "url": "https://cointelegraph.com/news/last-week-tonight-john-oliver-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-20T21:30:53+00:00",
-      "raw_text": "John Oliver of ‘Last Week Tonight’ discusses prediction markets and manipulation\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"John Oliver of ‘Last Week Tonight’ discusses prediction markets and manipulation\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 190,
+        "avg_1h": -0.05,
+        "avg_24h": -0.78,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 167,
+        "count": 168,
         "avg_1h": -0.06,
         "avg_24h": 0.66,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 56,
-        "avg_1h": -0.08,
+        "count": 54,
+        "avg_1h": -0.0,
         "avg_24h": 1.81,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 188,
-        "avg_1h": -0.05,
-        "avg_24h": -0.78,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 77,
+        "count": 76,
         "avg_1h": -0.02,
         "avg_24h": -0.64,
         "win_rate_1h_gt5pct": 0.0
