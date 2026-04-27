@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-04-27T09:28:42.418899+00:00",
+  "generated_at": "2026-04-27T11:57:29.103494+00:00",
   "events": [
+    {
+      "event_id": "9396c2c4-518b-49b7-a8bf-4fb1b8494729",
+      "source": "rss:decrypt",
+      "title": "Western Union to Launch Solana-Based Stablecoin Plus ‘Stable Card’ Next Month",
+      "url": "https://decrypt.co/365593/western-union-to-launch-solana-based-stablecoin-plus-stable-card-next-month",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T10:02:52+00:00",
+      "raw_text": "Western Union to Launch Solana-Based Stablecoin Plus ‘Stable Card’ Next Month\n\nThe USDPT stablecoin launching next month will serve as an alternative to SWIFT for agent settlements rather than consumer transactions.",
+      "impact": {}
+    },
+    {
+      "event_id": "f8f15179-30fc-457f-a3ed-e98ffbe87d4d",
+      "source": "rss:theblock",
+      "title": "French prosecutors charge 88 individuals linked to crypto wrench attacks",
+      "url": "https://www.theblock.co/post/398939/french-charge-88-crypto-wrench-attacks?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T09:35:59+00:00",
+      "raw_text": "French prosecutors charge 88 individuals linked to crypto wrench attacks\n\n<p>French authorities urged crypto holders to remain vigilant and avoid extensive exposure on social media that could make them targets.</p>\n\n<p>French authorities urged crypto holders to remain vigilant and avoid extensive ex",
+      "impact": {}
+    },
+    {
+      "event_id": "8875ede4-be41-4c4d-84e4-665d29cc438a",
+      "source": "rss:theblock",
+      "title": "Bitcoin leads $1.2B weekly haul for global crypto funds as institutional demand builds: CoinShares",
+      "url": "https://www.theblock.co/post/398938/bitcoin-leads-1-2b-weekly-haul-for-global-crypto-funds-as-institutional-demand-builds-coinshares?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T09:32:19+00:00",
+      "raw_text": "Bitcoin leads $1.2B weekly haul for global crypto funds as institutional demand builds: CoinShares\n\n<p>Improving institutional demand spurred by bitcoin's multi-week high pushed $1.2 billion in weekly flows to crypto funds.</p>\n\n<p>Improving institutional demand spurred by bitcoin's multi-week high ",
+      "impact": {}
+    },
+    {
+      "event_id": "bbcf20ad-9058-4446-8c19-9b4cff10eb10",
+      "source": "rss:theblock",
+      "title": "Luxor, MicroBT deepen ties with $100 million mining rig deal and planned investment",
+      "url": "https://www.theblock.co/post/398933/luxor-microbt-100-million-rig-deal?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T08:47:44+00:00",
+      "raw_text": "Luxor, MicroBT deepen ties with $100 million mining rig deal and planned investment\n\n<p>Luxor said it is committing $100 million to purchase MicroBT WhatsMiner rigs, while MicroBT has signed a term sheet to invest in Luxor.</p>\n\n<p>Luxor said it is committing $100 million to purchase MicroBT WhatsMi",
+      "impact": {}
+    },
+    {
+      "event_id": "9267e923-d103-4ba2-8e58-e165a0b8abad",
+      "source": "rss:coindesk",
+      "title": "Global interest rates, Robinhood, Galaxy earnings: Crypto Week Ahead",
+      "url": "https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T07:53:00+00:00",
+      "raw_text": "Global interest rates, Robinhood, Galaxy earnings: Crypto Week Ahead",
+      "impact": {}
+    },
+    {
+      "event_id": "43f98705-b5f4-4846-8c47-3abb85dea7dc",
+      "source": "rss:cointelegraph",
+      "title": "88 people charged over 12 crypto wrench attacks in France",
+      "url": "https://cointelegraph.com/news/88-people-charged-over-12-crypto-wrench-attacks-in-france?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T07:45:40+00:00",
+      "raw_text": "88 people charged over 12 crypto wrench attacks in France\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"88 people charged over 12 crypto wrench attacks in France\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmN",
+      "impact": {}
+    },
     {
       "event_id": "e68a7a63-42c4-4ac6-8bd1-2f8757c93f3b",
       "source": "rss:cointelegraph",
@@ -88,7 +160,8 @@
       "impact": {
         "t_plus_5m": 2.6678,
         "t_plus_15m": 2.5995,
-        "t_plus_1h": 0.8495
+        "t_plus_1h": 0.8495,
+        "t_plus_4h": -0.4699
       }
     },
     {
@@ -6404,112 +6477,26 @@
       "timestamp_utc": "2026-04-21T05:55:47+00:00",
       "raw_text": "Arbitrum freezes $71 million in ether tied to Kelp DAO exploit",
       "impact": {}
-    },
-    {
-      "event_id": "a8d2def7-d877-42f6-b433-dbcd86b56677",
-      "source": "rss:coindesk",
-      "title": "Bitcoin reclaims $75,000 as Iran ceasefire talks advance, equities rally resumes",
-      "url": "https://www.coindesk.com/markets/2026/04/21/bitcoin-reclaims-usd75-000-as-iran-ceasefire-talks-advance-equities-rally-resumes",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T05:45:58+00:00",
-      "raw_text": "Bitcoin reclaims $75,000 as Iran ceasefire talks advance, equities rally resumes",
-      "impact": {}
-    },
-    {
-      "event_id": "86880996-8647-4819-9d06-3f6883851fc1",
-      "source": "rss:coindesk",
-      "title": "Ripple wants the XRP Ledger to be quantum-proof by 2028. Here is its plan",
-      "url": "https://www.coindesk.com/markets/2026/04/21/ripple-wants-the-xrp-ledger-to-be-quantum-proof-by-2028-here-is-its-plan",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-04-21T05:43:23+00:00",
-      "raw_text": "Ripple wants the XRP Ledger to be quantum-proof by 2028. Here is its plan",
-      "impact": {
-        "t_plus_5m": 0.0855,
-        "t_plus_15m": 0.1284,
-        "t_plus_1h": 0.5869,
-        "t_plus_4h": 0.6026
-      }
-    },
-    {
-      "event_id": "0dcc06bf-d4cf-495f-a2fd-db026619bfff",
-      "source": "rss:cointelegraph",
-      "title": "Code is ‘functional’ free speech under the First Amendment: Coin Center",
-      "url": "https://cointelegraph.com/news/crypto-code-free-speech-coin-center-first-amendment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T04:47:58+00:00",
-      "raw_text": "Code is ‘functional’ free speech under the First Amendment: Coin Center\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Code is ‘functional’ free speech under the First Amendment: Coin Center\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
-      "impact": {}
-    },
-    {
-      "event_id": "82bd8015-89bb-4f2d-909c-461eca29d14e",
-      "source": "rss:cointelegraph",
-      "title": "Coinbase’s AI payments protocol x402 launches app store for AI agents",
-      "url": "https://cointelegraph.com/news/coinbase-ai-payments-protocol-x402-launches-ai-agent-app-store?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T04:40:53+00:00",
-      "raw_text": "Coinbase’s AI payments protocol x402 launches app store for AI agents\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase’s AI payments protocol x402 launches app store for AI agents\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
-      "impact": {}
-    },
-    {
-      "event_id": "ea9a8a73-410e-487a-9f50-ad8d014ab9df",
-      "source": "rss:cointelegraph",
-      "title": "NY lawmaker proposes ‘AI dividend’ to address potential job losses",
-      "url": "https://cointelegraph.com/news/ny-assemblyman-proposes-ai-dividend-address-ai-job-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T04:38:08+00:00",
-      "raw_text": "NY lawmaker proposes ‘AI dividend’ to address potential job losses\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"NY lawmaker proposes ‘AI dividend’ to address potential job losses\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb",
-      "impact": {}
-    },
-    {
-      "event_id": "f083f8a1-0d40-40ce-9755-15cf1c2e8378",
-      "source": "rss:theblock",
-      "title": "Arbitrum freezes $71 million worth of ETH stolen in Kelp DAO exploit",
-      "url": "https://www.theblock.co/post/398212/arbitrum-freezes-eth-kelp-dao-exploit?utm_source=rss&utm_medium=rss",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-04-21T04:26:50+00:00",
-      "raw_text": "Arbitrum freezes $71 million worth of ETH stolen in Kelp DAO exploit\n\n<p>The Arbitrum Security Council said the frozen funds will only be moved by further action through Arbitrum governance.</p>\n\n<p>The Arbitrum Security Council said the frozen funds will only be moved by further action through Arbi",
-      "impact": {
-        "t_plus_5m": -0.2104,
-        "t_plus_15m": -0.1803,
-        "t_plus_1h": 0.1701,
-        "t_plus_4h": 0.3448
-      }
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 190,
-        "avg_1h": -0.05,
+        "count": 191,
+        "avg_1h": -0.08,
         "avg_24h": -0.78,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 168,
-        "avg_1h": -0.06,
-        "avg_24h": 0.66,
+      "hack": {
+        "count": 55,
+        "avg_1h": -0.02,
+        "avg_24h": 1.81,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 54,
-        "avg_1h": -0.0,
-        "avg_24h": 1.81,
+      "narrative": {
+        "count": 166,
+        "avg_1h": -0.06,
+        "avg_24h": 0.66,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
