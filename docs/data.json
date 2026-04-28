@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-04-27T23:07:22.588006+00:00",
+  "generated_at": "2026-04-28T00:04:20.681662+00:00",
   "events": [
+    {
+      "event_id": "4ae69b2a-ebae-4550-8d73-46f56d9a5fc2",
+      "source": "rss:decrypt",
+      "title": "Elon Musk’s Fight With Colorado Over AI Law Hits Pause as State Considers Revisions",
+      "url": "https://decrypt.co/365751/elon-musk-colorado-ai-law-pause-state-considers-revisions",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T22:22:51+00:00",
+      "raw_text": "Elon Musk’s Fight With Colorado Over AI Law Hits Pause as State Considers Revisions\n\nThe joint motion halts deadlines and enforcement in xAI’s lawsuit while Colorado lawmakers weigh changes to the state’s AI bias law.",
+      "impact": {}
+    },
+    {
+      "event_id": "ff720e3d-e535-437c-996a-0b04909f72b5",
+      "source": "rss:cointelegraph",
+      "title": "Canada advances bill to ban crypto political donations",
+      "url": "https://cointelegraph.com/news/canada-advances-bill-ban-crypto-political-donations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T21:50:17+00:00",
+      "raw_text": "Canada advances bill to ban crypto political donations\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Canada advances bill to ban crypto political donations\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2Fwa",
+      "impact": {}
+    },
+    {
+      "event_id": "6df8afc3-25af-4b6e-88da-8ca8b560d805",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin whale holdings hit five-month high: Is BTC headed to $80K next?",
+      "url": "https://cointelegraph.com/markets/bitcoin-whale-holdings-hit-five-month-high-is-btc-headed-to-80k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "whale_move",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T21:44:05+00:00",
+      "raw_text": "Bitcoin whale holdings hit five-month high: Is BTC headed to $80K next?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin whale holdings hit five-month high: Is BTC headed to $80K next?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
+      "impact": {}
+    },
     {
       "event_id": "fc4f1e9c-11d9-42fa-a03f-be2e57ccc669",
       "source": "rss:coindesk",
@@ -6469,55 +6505,24 @@
       "timestamp_utc": "2026-04-21T18:34:06+00:00",
       "raw_text": "Mississippi Law School Requires AI Training as Courts Grapple With the Tech\n\nMississippi College School of Law now mandates artificial intelligence education for first-year students as legal institutions adapt to both the risks and potential uses of the technology.",
       "impact": {}
-    },
-    {
-      "event_id": "a9f4c84c-8370-4d44-84c5-27e4ad45f2aa",
-      "source": "rss:coindesk",
-      "title": "Crypto's massive exploit may force big banks to rethink their blockchain plans, Jefferies warns",
-      "url": "https://www.coindesk.com/business/2026/04/21/crypto-s-massive-exploit-may-force-big-banks-to-rethink-their-blockchain-plans-jefferies-warns",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T18:25:41+00:00",
-      "raw_text": "Crypto's massive exploit may force big banks to rethink their blockchain plans, Jefferies warns",
-      "impact": {}
-    },
-    {
-      "event_id": "6bcde960-e62f-42c2-9f72-ddb8121d4c1d",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin inflows to Binance fall to 2023 low as BTC bulls set target on $80K",
-      "url": "https://cointelegraph.com/news/bitcoin-inflows-to-binance-fall-to-2023-low-as-btc-bulls-set-target-on-dollar80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-04-21T18:00:00+00:00",
-      "raw_text": "Bitcoin inflows to Binance fall to 2023 low as BTC bulls set target on $80K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin inflows to Binance fall to 2023 low as BTC bulls set target on $80K\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528",
-      "impact": {
-        "t_plus_5m": 0.1218,
-        "t_plus_15m": 0.0772,
-        "t_plus_1h": 0.1001,
-        "t_plus_4h": 0.0677
-      }
-    },
-    {
-      "event_id": "9eb25856-bfee-4819-99d6-91e549d7b233",
-      "source": "rss:decrypt",
-      "title": "This Frankenstein AI Merges Claude Opus, GLM and Qwen—And Outperforms Top Models",
-      "url": "https://decrypt.co/365033/frankenstein-ai-claude-opus-glm-qwen-free",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T17:55:23+00:00",
-      "raw_text": "This Frankenstein AI Merges Claude Opus, GLM and Qwen—And Outperforms Top Models\n\nKyle Hessling stacked two of Jackrong's Qwopus finetunes into a single frankenmerge'—and then had to heal it. The result outperforms some of the top models.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 179,
+        "avg_1h": -0.08,
+        "avg_24h": 0.31,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "whale_move": {
+        "count": 6,
+        "avg_1h": 0.64,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
-        "count": 47,
+        "count": 46,
         "avg_1h": 0.03,
         "avg_24h": -0.41,
         "win_rate_1h_gt5pct": 0.0
@@ -6528,14 +6533,8 @@
         "avg_24h": -0.83,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 178,
-        "avg_1h": -0.08,
-        "avg_24h": 0.31,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 178,
+        "count": 177,
         "avg_1h": 0.02,
         "avg_24h": -1.08,
         "win_rate_1h_gt5pct": 0.0
@@ -6543,12 +6542,6 @@
       "listing": {
         "count": 8,
         "avg_1h": -0.1,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "whale_move": {
-        "count": 5,
-        "avg_1h": 0.64,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       }
