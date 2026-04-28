@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-04-28T22:09:34.587768+00:00",
+  "generated_at": "2026-04-28T23:09:32.350493+00:00",
   "events": [
+    {
+      "event_id": "d783f1c5-860a-4567-be75-cf0a7e31c7c1",
+      "source": "rss:theblock",
+      "title": "Judge rejects Sam Bankman-Fried’s new trial request, slams claims as ‘wildly conspiratorial’",
+      "url": "https://www.theblock.co/post/399283/judge-rejects-sam-bankman-fried-new-trial-request-slams-claims-wildly-conspiratorial?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T22:34:52+00:00",
+      "raw_text": "Judge rejects Sam Bankman-Fried’s new trial request, slams claims as ‘wildly conspiratorial’\n\n<p>U.S. District Judge Lewis Kaplan declined former FTX CEO Sam Bankman-Fried's request for a new trial. An appeal is still pending. </p>\n\n<p>U.S. District Judge Lewis Kaplan declined former FTX CEO Sam Ban",
+      "impact": {}
+    },
+    {
+      "event_id": "00edcd7e-490f-4089-b5d0-5d9eeba1bd0e",
+      "source": "rss:decrypt",
+      "title": "Woman Gets 71 Months in Prison Over Bitcoin Investment Fraud Targeting Elderly Victims",
+      "url": "https://decrypt.co/365894/woman-71-months-prison-bitcoin-investment-fraud-targeting-elderly-victims",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T22:01:02+00:00",
+      "raw_text": "Woman Gets 71 Months in Prison Over Bitcoin Investment Fraud Targeting Elderly Victims\n\nFederal prosecutors secured a prison term for a Saipan woman who defrauded elderly victims through a fake Bitcoin investment scheme",
+      "impact": {}
+    },
+    {
+      "event_id": "1e35ff30-905b-4a65-bacd-7fd86f83ef65",
+      "source": "rss:bitcoinmagazine",
+      "title": "Bitcoin 2027 Conference Returning to Nashville, Tennessee",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-2027-conference-nashville",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T21:48:13+00:00",
+      "raw_text": "Bitcoin 2027 Conference Returning to Nashville, Tennessee\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/B27-PR.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazi",
+      "impact": {}
+    },
+    {
+      "event_id": "780eef07-406d-4696-8e78-034db510cc86",
+      "source": "rss:decrypt",
+      "title": "OpenClaw Insider Builds the Enterprise Safety Layer the Project Never Shipped",
+      "url": "https://decrypt.co/365888/red-hat-tank-os-openclaw-enterprise-security",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T21:46:02+00:00",
+      "raw_text": "OpenClaw Insider Builds the Enterprise Safety Layer the Project Never Shipped\n\nRed Hat principal engineer and OpenClaw maintainer Sally O'Malley released Tank OS—a tool that sandboxes AI agents in isolated containers, keeping credentials locked and agents from interfering with each other or the host",
+      "impact": {}
+    },
     {
       "event_id": "5f4b46e1-fc18-4b3b-b324-a5894f35ab79",
       "source": "rss:decrypt",
@@ -44,10 +92,16 @@
       "url": "https://www.theblock.co/post/399275/layerzero-commits-10000-eth-to-defi-united-effort?utm_source=rss&utm_medium=rss",
       "event_type": "hack",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-04-28T20:50:44+00:00",
       "raw_text": "LayerZero commits 10,000 ETH to DeFi United effort\n\n<p>Kelp says it used the default configuration for its LayerZero-powered Decentralized Verifier Network that was exploited.</p>\n\n<p>Kelp says it used the default configuration for its LayerZero-powered Decentralized Verifier Network that was exploi",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.3199,
+        "t_plus_15m": 0.2595,
+        "t_plus_1h": -0.1081
+      }
     },
     {
       "event_id": "d4e80c1d-0879-4fa9-a223-9a12ffa4b81c",
@@ -59,6 +113,18 @@
       "tokens": [],
       "timestamp_utc": "2026-04-28T20:32:26+00:00",
       "raw_text": "Dead Internet? A Third of New Websites Are AI-Generated, Says Stanford\n\nA Stanford-led study quantified what everyone already suspected—but the findings aren't quite what people expected.",
+      "impact": {}
+    },
+    {
+      "event_id": "9bc9ea2e-1e22-42b4-8e0a-f9ca8cddfea3",
+      "source": "rss:coindesk",
+      "title": "Robinhood stock falls 8% after big earnings miss due to weak crypto trading revenue",
+      "url": "https://www.coindesk.com/markets/2026/04/28/robinhood-stock-shrugs-off-a-47-crash-in-crypto-revenue-thanks-to-a-massive-surge-in-event-betting",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T20:28:00+00:00",
+      "raw_text": "Robinhood stock falls 8% after big earnings miss due to weak crypto trading revenue",
       "impact": {}
     },
     {
@@ -104,10 +170,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-coinbase-premium-flashes-red-in-three-weeks-as-weekly-losses-top-793m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-04-28T19:56:21+00:00",
       "raw_text": "Bitcoin Coinbase Premium turns negative as BTC price drops, weekly losses top $829M\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin Coinbase Premium turns negative as BTC price drops, weekly losses top $829M\" class=\"type:primaryImage\" src=\"https://images.cointelegrap",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0457,
+        "t_plus_15m": -0.0331,
+        "t_plus_1h": 0.0832
+      }
     },
     {
       "event_id": "5d642fce-56bd-4234-a399-c3d38585dc40",
@@ -286,7 +358,8 @@
       "impact": {
         "t_plus_5m": -0.0267,
         "t_plus_15m": 0.0212,
-        "t_plus_1h": 0.0621
+        "t_plus_1h": 0.0621,
+        "t_plus_4h": 0.1856
       }
     },
     {
@@ -6452,92 +6525,32 @@
       "timestamp_utc": "2026-04-22T18:29:02+00:00",
       "raw_text": "UK’s Financial Conduct Authority Leads London Crackdown on Crypto Traders\n\nMulti-agency raid marks shift from warnings to physical enforcement as UK regulator finds zero legally registered P2P crypto traders.",
       "impact": {}
-    },
-    {
-      "event_id": "ef7b90a8-38c6-4703-aa51-d14425824dd5",
-      "source": "rss:bitcoinmagazine",
-      "title": "U.S. Treasury Secretary Presses Senate to Pass Crypto Market Structure Legislation",
-      "url": "https://bitcoinmagazine.com/news/u-s-treasury-crypto-secretary-senate",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T18:28:05+00:00",
-      "raw_text": "U.S. Treasury Secretary Presses Senate to Pass Crypto Market Structure Legislation\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/01/U.S.-Treasury-Confirms-That-All-Seized-Bitcoin-Will-Join-the-Strateg",
-      "impact": {}
-    },
-    {
-      "event_id": "600e6b74-8187-418d-a064-f641b0a77cd0",
-      "source": "rss:decrypt",
-      "title": "Justin Sun Alleges Trump's World Liberty Threatened to Burn His WLFI Tokens",
-      "url": "https://decrypt.co/365141/justin-sun-alleges-trump-world-liberty-threatened-burn-wlfi-tokens",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T17:56:20+00:00",
-      "raw_text": "Justin Sun Alleges Trump's World Liberty Threatened to Burn His WLFI Tokens\n\nAn investment in President Trump's meme coin allegedly upset members of World Liberty Financial’s team, the lawsuit claims.",
-      "impact": {}
-    },
-    {
-      "event_id": "a46e98da-126c-4bbb-bf6e-33d1e3fb9a0f",
-      "source": "rss:cointelegraph",
-      "title": "Thailand regulator mulls crypto futures expansion in licensing overhaul",
-      "url": "https://cointelegraph.com/news/thailand-s-sec-proposes-allowing-crypto-companies-to-offer-futures-directly?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T17:53:36+00:00",
-      "raw_text": "Thailand regulator mulls crypto futures expansion in licensing overhaul\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Thailand regulator mulls crypto futures expansion in licensing overhaul\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
-      "impact": {}
-    },
-    {
-      "event_id": "69edfc6a-a06b-4508-96fb-9dea257b0052",
-      "source": "rss:cointelegraph",
-      "title": "Kraken calls for de minimis exemption on crypto taxes after 2025 reports",
-      "url": "https://cointelegraph.com/news/kraken-de-minimus-exemption-crypto-taxes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T17:30:14+00:00",
-      "raw_text": "Kraken calls for de minimis exemption on crypto taxes after 2025 reports\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken calls for de minimis exemption on crypto taxes after 2025 reports\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
-      "impact": {}
-    },
-    {
-      "event_id": "140cd563-2895-449d-b4c4-cd182ae7205e",
-      "source": "rss:cointelegraph",
-      "title": "Kraken calls for de minimus exemption on crypto taxes after 2025 reports",
-      "url": "https://cointelegraph.com/news/kraken-de-minimus-exemption-crypto-taxes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T17:30:14+00:00",
-      "raw_text": "Kraken calls for de minimus exemption on crypto taxes after 2025 reports\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken calls for de minimus exemption on crypto taxes after 2025 reports\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 193,
+        "count": 194,
         "avg_1h": -0.0,
         "avg_24h": 0.14,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 174,
-        "avg_1h": 0.12,
-        "avg_24h": -0.65,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 39,
-        "avg_1h": 0.1,
-        "avg_24h": -0.8,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
         "count": 81,
         "avg_1h": 0.07,
         "avg_24h": -0.54,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 173,
+        "avg_1h": 0.11,
+        "avg_24h": -0.65,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 39,
+        "avg_1h": 0.08,
+        "avg_24h": -0.8,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
