@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T00:04:20.681662+00:00",
+  "generated_at": "2026-04-28T04:02:19.653838+00:00",
   "events": [
     {
       "event_id": "4ae69b2a-ebae-4550-8d73-46f56d9a5fc2",
@@ -32,10 +32,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-whale-holdings-hit-five-month-high-is-btc-headed-to-80k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "whale_move",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-04-27T21:44:05+00:00",
       "raw_text": "Bitcoin whale holdings hit five-month high: Is BTC headed to $80K next?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin whale holdings hit five-month high: Is BTC headed to $80K next?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2127,
+        "t_plus_15m": -0.3087,
+        "t_plus_1h": -0.0393
+      }
     },
     {
       "event_id": "fc4f1e9c-11d9-42fa-a03f-be2e57ccc669",
@@ -225,7 +231,8 @@
       "impact": {
         "t_plus_5m": 0.0302,
         "t_plus_15m": 0.0448,
-        "t_plus_1h": 0.1634
+        "t_plus_1h": 0.1634,
+        "t_plus_4h": 0.6509
       }
     },
     {
@@ -6517,7 +6524,7 @@
       },
       "whale_move": {
         "count": 6,
-        "avg_1h": 0.64,
+        "avg_1h": 0.3,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
