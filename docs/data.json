@@ -1,6 +1,198 @@
 {
-  "generated_at": "2026-04-28T20:38:12.592607+00:00",
+  "generated_at": "2026-04-28T22:09:34.587768+00:00",
   "events": [
+    {
+      "event_id": "5f4b46e1-fc18-4b3b-b324-a5894f35ab79",
+      "source": "rss:decrypt",
+      "title": "CFTC Backs Prediction Markets in Yet Another Lawsuit Against a State",
+      "url": "https://decrypt.co/365889/cftc-prediction-markets-lawsuit-wisconsin",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T21:21:51+00:00",
+      "raw_text": "CFTC Backs Prediction Markets in Yet Another Lawsuit Against a State\n\nCFTC Chair Mike Selig has vowed to sue any state that attempts to regulate prediction markets under its own gambling laws.",
+      "impact": {}
+    },
+    {
+      "event_id": "8aeddc99-c3f7-4f99-bcf7-44ba16e507bf",
+      "source": "rss:bitcoinmagazine",
+      "title": "Czech Central Bank Chief Backs Bitcoin as 1% Reserve Slice in ‘Conservative but Innovative’ Strategy",
+      "url": "https://bitcoinmagazine.com/news/czech-central-bank-chief-backs-bitcoin",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T21:05:37+00:00",
+      "raw_text": "Czech Central Bank Chief Backs Bitcoin as 1% Reserve Slice in ‘Conservative but Innovative’ Strategy\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Czech-Central-Bank-Chief-Backs-Bitcoin-as-1-Reserv",
+      "impact": {}
+    },
+    {
+      "event_id": "5bfeb67f-2289-4d32-b70b-1c735c4c8970",
+      "source": "rss:theblock",
+      "title": "Robinhood’s Q1 crypto revenue and trading volume fall nearly 50%",
+      "url": "https://www.theblock.co/post/399274/robinhoods-q1-crypto-revenue-and-trading-volume-fall-nearly-50?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T20:54:36+00:00",
+      "raw_text": "Robinhood’s Q1 crypto revenue and trading volume fall nearly 50%\n\n<p>The company reported a 7% year-over-year increase in transaction revenues, posting a total of $623 million for the quarter.</p>\n\n<p>The company reported a 7% year-over-year increase in transaction revenues, posting a total of $623 ",
+      "impact": {}
+    },
+    {
+      "event_id": "6930bb82-c4bf-45f5-b728-2635c536c6ae",
+      "source": "rss:theblock",
+      "title": "LayerZero commits 10,000 ETH to DeFi United effort",
+      "url": "https://www.theblock.co/post/399275/layerzero-commits-10000-eth-to-defi-united-effort?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T20:50:44+00:00",
+      "raw_text": "LayerZero commits 10,000 ETH to DeFi United effort\n\n<p>Kelp says it used the default configuration for its LayerZero-powered Decentralized Verifier Network that was exploited.</p>\n\n<p>Kelp says it used the default configuration for its LayerZero-powered Decentralized Verifier Network that was exploi",
+      "impact": {}
+    },
+    {
+      "event_id": "d4e80c1d-0879-4fa9-a223-9a12ffa4b81c",
+      "source": "rss:decrypt",
+      "title": "Dead Internet? A Third of New Websites Are AI-Generated, Says Stanford",
+      "url": "https://decrypt.co/365864/one-third-new-websites-ai-generated-study",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T20:32:26+00:00",
+      "raw_text": "Dead Internet? A Third of New Websites Are AI-Generated, Says Stanford\n\nA Stanford-led study quantified what everyone already suspected—but the findings aren't quite what people expected.",
+      "impact": {}
+    },
+    {
+      "event_id": "a1564606-e2b0-4ea5-8ca3-24ec1ee56f73",
+      "source": "rss:coindesk",
+      "title": "Robinhood stock shrugs off a 47% crash in crypto revenue thanks to a massive surge in event betting",
+      "url": "https://www.coindesk.com/markets/2026/04/28/robinhood-stock-shrugs-off-a-47-crash-in-crypto-revenue-thanks-to-a-massive-surge-in-event-betting",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T20:28:00+00:00",
+      "raw_text": "Robinhood stock shrugs off a 47% crash in crypto revenue thanks to a massive surge in event betting",
+      "impact": {}
+    },
+    {
+      "event_id": "def7d586-bffe-4dcb-aa4d-03debfa6c2ad",
+      "source": "rss:decrypt",
+      "title": "Robinhood Shares Slide on 34% Decrease in Crypto Revenue",
+      "url": "https://decrypt.co/365876/robinhood-shares-slide-34-decrease-crypto-revenue",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T20:26:00+00:00",
+      "raw_text": "Robinhood Shares Slide on 34% Decrease in Crypto Revenue\n\nRetail brokerage Robinhood's business has gotten a boost from prediction markets, though its crypto trading revenue fell in Q1.",
+      "impact": {}
+    },
+    {
+      "event_id": "445c7f16-71d7-4725-84b4-c3ec8d96b017",
+      "source": "rss:decrypt",
+      "title": "Google DeepMind Veteran Raises $1.1 Billion to Build AI That Isn’t Trained With Human Data",
+      "url": "https://decrypt.co/365853/google-deepmind-veteran-raises-1-1-billion-ai-isnt-trained-human-data",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T20:13:48+00:00",
+      "raw_text": "Google DeepMind Veteran Raises $1.1 Billion to Build AI That Isn’t Trained With Human Data\n\nIneffable Intelligence is betting that reinforcement learning is the path to superintelligence, rather than AI's large language models.",
+      "impact": {}
+    },
+    {
+      "event_id": "ec3f71b7-5aed-42da-b9a0-44934a9a5c84",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin Coinbase Premium turns negative as BTC price drops, weekly losses top $829M",
+      "url": "https://cointelegraph.com/markets/bitcoin-coinbase-premium-flashes-red-in-three-weeks-as-weekly-losses-top-793m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T19:56:21+00:00",
+      "raw_text": "Bitcoin Coinbase Premium turns negative as BTC price drops, weekly losses top $829M\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin Coinbase Premium turns negative as BTC price drops, weekly losses top $829M\" class=\"type:primaryImage\" src=\"https://images.cointelegrap",
+      "impact": {}
+    },
+    {
+      "event_id": "5d642fce-56bd-4234-a399-c3d38585dc40",
+      "source": "rss:coindesk",
+      "title": "Paul Tudor Jones calls bitcoin the 'best inflation hedge,' warns of overvalued stocks",
+      "url": "https://www.coindesk.com/markets/2026/04/28/paul-tudor-jones-calls-bitcoin-the-best-inflation-hedge-warns-of-overvalued-stocks",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T19:56:15+00:00",
+      "raw_text": "Paul Tudor Jones calls bitcoin the 'best inflation hedge,' warns of overvalued stocks",
+      "impact": {}
+    },
+    {
+      "event_id": "012e4e08-c87d-4bf4-b04c-7a5eb3073cea",
+      "source": "rss:theblock",
+      "title": "Ostium upgrades backend, adds offchain institutional liquidity providers like Jump",
+      "url": "https://www.theblock.co/post/399269/ostium-upgrades-backend-adds-offchain-institutional-liquidity-providers-jump?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T19:43:25+00:00",
+      "raw_text": "Ostium upgrades backend, adds offchain institutional liquidity providers like Jump\n\n<p>Following a major backend overhaul, Ostium pitches itself as a “decentralized execution layer” for global markets.</p>\n\n<p>Following a major backend overhaul, Ostium pitches itself as a “decentralized execution la",
+      "impact": {}
+    },
+    {
+      "event_id": "c3ea25e3-6166-48a1-a331-58418768ac8d",
+      "source": "rss:cointelegraph",
+      "title": "RedStone launches settlement layer to address RWA liquidity gap in DeFi lending",
+      "url": "https://cointelegraph.com/news/redstone-settlement-layer-rwa-liquidity-gap-defi-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T19:42:43+00:00",
+      "raw_text": "RedStone launches settlement layer to address RWA liquidity gap in DeFi lending\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"RedStone launches settlement layer to address RWA liquidity gap in DeFi lending\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/im",
+      "impact": {}
+    },
+    {
+      "event_id": "972e25a7-fc9c-4358-aeec-349611984d61",
+      "source": "rss:bitcoinmagazine",
+      "title": "Lightspark Launches Grid Global Accounts, Targeting Fragmented Global Payment System",
+      "url": "https://bitcoinmagazine.com/news/lightspark-launches-grid-global-accounts",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T19:40:47+00:00",
+      "raw_text": "Lightspark Launches Grid Global Accounts, Targeting Fragmented Global Payment System\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/GDOH1503-scaled.jpg\" style=\"display: block; margin: 1em auto;\" /><",
+      "impact": {}
+    },
+    {
+      "event_id": "f8bea3d7-79c6-4fda-94c9-51e75579fef5",
+      "source": "rss:bitcoinmagazine",
+      "title": "Your Bank is Becoming a Casino: River CEO Frames Bitcoin as the Alternative",
+      "url": "https://bitcoinmagazine.com/news/your-bank-is-a-casino-bitcoin-alternative",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T19:21:58+00:00",
+      "raw_text": "Your Bank is Becoming a Casino: River CEO Frames Bitcoin as the Alternative\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2024/11/riverrrr.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"h",
+      "impact": {}
+    },
+    {
+      "event_id": "63b861f6-bcbc-4c77-b846-6bfdba410f68",
+      "source": "rss:decrypt",
+      "title": "Soldier Charged in Polymarket Insider Trading Case Pleads Not Guilty",
+      "url": "https://decrypt.co/365858/soldier-charged-polymarket-insider-trading-case-pleads-not-guilty",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T19:21:17+00:00",
+      "raw_text": "Soldier Charged in Polymarket Insider Trading Case Pleads Not Guilty\n\nSpecial forces member Gannon Ken Van Dyke allegedly used inside knowledge of a Venezuelan military operation to make nearly $400K profit on Polymarket.",
+      "impact": {}
+    },
+    {
+      "event_id": "478cb4d6-4626-4e83-9c0c-3f1909da6e41",
+      "source": "rss:decrypt",
+      "title": "Google Signs AI Deal With Pentagon for Classified Work as Employees Object",
+      "url": "https://decrypt.co/365857/google-ai-deal-pentagon-classified-work",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T19:13:30+00:00",
+      "raw_text": "Google Signs AI Deal With Pentagon for Classified Work as Employees Object\n\nGoogle faces internal backlash as it signs a Pentagon AI deal for classified military work.",
+      "impact": {}
+    },
     {
       "event_id": "97bb94a6-6532-4e42-8271-378b653b8042",
       "source": "rss:theblock",
@@ -882,6 +1074,18 @@
       "impact": {}
     },
     {
+      "event_id": "12545b0f-1259-4b54-8a7c-393bdc4dd7ec",
+      "source": "rss:cointelegraph",
+      "title": "Liquid raises $18M as platforms move toward 24/7 cross-asset trading",
+      "url": "https://cointelegraph.com/news/liquid-raises-18m-seed-to-build-always-on-trading-across-crypto-and-traditional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T09:00:00+00:00",
+      "raw_text": "Liquid raises $18M as platforms move toward 24/7 cross-asset trading\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Liquid raises $18M as platforms move toward 24/7 cross-asset trading\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wY",
+      "impact": {}
+    },
+    {
       "event_id": "87eda108-3958-4f3b-89fa-4914d1999f58",
       "source": "rss:coindesk",
       "title": "Bitmine's ether buys are catching up to Strategy's bitcoin accumulation pace",
@@ -946,6 +1150,18 @@
       "tokens": [],
       "timestamp_utc": "2026-04-28T07:00:30+00:00",
       "raw_text": "Crypto lobby backs formal removal of ‘reputation risk’ from bank examinations\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto lobby backs formal removal of ‘reputation risk’ from bank examinations\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
+      "impact": {}
+    },
+    {
+      "event_id": "aa4b647e-5181-43b2-ae1b-50971c7725c3",
+      "source": "rss:cointelegraph",
+      "title": "Bybit Pay enters South Africa through MoneyBadger integration",
+      "url": "https://cointelegraph.com/news/bybit-pay-launches-in-south-africa-with-moneybadger-integration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T07:00:00+00:00",
+      "raw_text": "Bybit Pay enters South Africa through MoneyBadger integration\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bybit Pay enters South Africa through MoneyBadger integration\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS1",
       "impact": {}
     },
     {
@@ -6296,262 +6512,32 @@
       "timestamp_utc": "2026-04-22T17:30:14+00:00",
       "raw_text": "Kraken calls for de minimus exemption on crypto taxes after 2025 reports\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken calls for de minimus exemption on crypto taxes after 2025 reports\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
       "impact": {}
-    },
-    {
-      "event_id": "758fcb1c-4592-4019-9177-a61cb851cd84",
-      "source": "rss:theblock",
-      "title": "TD Cowen flags five hurdles to crypto bill beyond stablecoin yield issue",
-      "url": "https://www.theblock.co/post/398499/td-cowen-crypto-bill-hurdles-beyond-stablecoin-yield-issue?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T17:21:05+00:00",
-      "raw_text": "TD Cowen flags five hurdles to crypto bill beyond stablecoin yield issue\n\n<p>These include a lack of CFTC commissioners, conflicts tied to World Liberty Financial, and concerns around Iran's use of crypto payments.</p>\n\n<p>These include a lack of CFTC commissioners, conflicts tied to World Liberty F",
-      "impact": {}
-    },
-    {
-      "event_id": "1edc3f27-f990-4402-9915-a5be1beba712",
-      "source": "rss:cointelegraph",
-      "title": "Pyth Network to determine outcomes in Kalshi’s commodities expansion",
-      "url": "https://cointelegraph.com/news/kalshi-pyth-commodities-market-pricing-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T17:13:45+00:00",
-      "raw_text": "Pyth Network to determine outcomes in Kalshi’s commodities expansion\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Pyth Network to determine outcomes in Kalshi’s commodities expansion\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zM",
-      "impact": {}
-    },
-    {
-      "event_id": "f047e99c-77df-48ef-8548-085fe65066fb",
-      "source": "rss:decrypt",
-      "title": "OpenAI Just Open-Sourced a Tool That Scrubs Your Secrets Before ChatGPT Ever Sees Them",
-      "url": "https://decrypt.co/365139/openai-privacy-filter-open-source-pii-masking-model",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T16:56:25+00:00",
-      "raw_text": "OpenAI Just Open-Sourced a Tool That Scrubs Your Secrets Before ChatGPT Ever Sees Them\n\nOpenAI has released a small, free model that strips names, addresses, passwords, and account numbers out of any text, right on your laptop, before you paste it into an AI chatbot.",
-      "impact": {}
-    },
-    {
-      "event_id": "10be00b7-53d4-4293-911e-293047874700",
-      "source": "rss:decrypt",
-      "title": "Keel, Hive Shares Jump as Companies Continue Shift From Bitcoin Mining to AI",
-      "url": "https://decrypt.co/365130/keel-hive-shares-jump-continue-shift-bitcoin-mining-ai",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T16:51:06+00:00",
-      "raw_text": "Keel, Hive Shares Jump as Companies Continue Shift From Bitcoin Mining to AI\n\nHive raised $115 million while Keel (formerly Bitfarms) sold off a mining facility as both Bitcoin miners embrace the AI boom.",
-      "impact": {}
-    },
-    {
-      "event_id": "4d3a9fad-33bc-452f-815c-34dc9ec7be91",
-      "source": "rss:theblock",
-      "title": "Kalshi taps Pyth for new ‘Commodities Hub,’ offering gold, oil and lithium markets",
-      "url": "https://www.theblock.co/post/398501/kalshi-taps-pyth-commodities-hub-gold-oil-lithium-markets?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T16:41:50+00:00",
-      "raw_text": "Kalshi taps Pyth for new ‘Commodities Hub,’ offering gold, oil and lithium markets\n\n<p>Pyth aggregates price feeds from over 125 institutions, including exchanges and market makers, to provide 24/7 pricing data.</p>\n\n<p>Pyth aggregates price feeds from over 125 institutions, including exchanges and ",
-      "impact": {}
-    },
-    {
-      "event_id": "c80848c2-6f9b-46fc-a34f-42a1a812c11b",
-      "source": "rss:cointelegraph",
-      "title": "Robinhood Venture Fund's $75M stake in OpenAI aims to enable retail investments",
-      "url": "https://cointelegraph.com/news/robinhood-venture-fund-invests-75m-in-openai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T16:38:27+00:00",
-      "raw_text": "Robinhood Venture Fund's $75M stake in OpenAI aims to enable retail investments\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Robinhood Venture Fund's $75M stake in OpenAI aims to enable retail investments\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/im",
-      "impact": {}
-    },
-    {
-      "event_id": "b7518b1b-7680-4ce7-bce2-4176983007fc",
-      "source": "rss:theblock",
-      "title": "Crypto bill nears stablecoin rewards breakthrough as talks hit ‘good spot,’ but ethics concerns set to resurface",
-      "url": "https://www.theblock.co/post/398498/crypto-bill-nears-stablecoin-rewards-breakthrough-ethics-concerns-resurface?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T16:30:26+00:00",
-      "raw_text": "Crypto bill nears stablecoin rewards breakthrough as talks hit ‘good spot,’ but ethics concerns set to resurface\n\n<p>After months of negotiations over how a crypto bill should treat stablecoin rewards, a key negotiator says discussions are in a \"good spot.\"</p>\n\n<p>After months of negotiations over ",
-      "impact": {}
-    },
-    {
-      "event_id": "13cc14e8-7126-4214-9609-097bffec4d50",
-      "source": "rss:decrypt",
-      "title": "SpaceX Warns Investors Elon Musk’s Space-Based AI Data Centers May Not Pay Off",
-      "url": "https://decrypt.co/365132/spacex-warns-investors-elon-musk-space-ai-data-centers",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T16:28:44+00:00",
-      "raw_text": "SpaceX Warns Investors Elon Musk’s Space-Based AI Data Centers May Not Pay Off\n\nSpaceX’s IPO filing says orbital AI computing remains unproven and commercially uncertain despite Musk’s public push for space as AI’s next frontier.",
-      "impact": {}
-    },
-    {
-      "event_id": "d60486e3-9746-4ee2-bcfd-0ea98281ca86",
-      "source": "rss:decrypt",
-      "title": "'Axie Infinity' Gaming Network Ronin Sets Date for Ethereum Layer-2 Migration",
-      "url": "https://decrypt.co/365131/axie-infinity-gaming-network-ronin-ethereum-layer-2-migration",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T16:28:21+00:00",
-      "raw_text": "'Axie Infinity' Gaming Network Ronin Sets Date for Ethereum Layer-2 Migration\n\nThe Ronin gaming network will slash RON token inflation from over 20% to less than 1% while introducing automated developer rewards.",
-      "impact": {}
-    },
-    {
-      "event_id": "46e00408-a8ca-4fce-83df-fd1837472b6d",
-      "source": "rss:coindesk",
-      "title": "Banks seek to slow down implementation of crypto's GENIUS Act on stablecoin oversight",
-      "url": "https://www.coindesk.com/policy/2026/04/22/banks-seek-to-slow-down-implementation-of-crypto-s-genius-act-on-stablecoin-oversight",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T16:23:10+00:00",
-      "raw_text": "Banks seek to slow down implementation of crypto's GENIUS Act on stablecoin oversight",
-      "impact": {}
-    },
-    {
-      "event_id": "d6562d2d-0cfc-4188-8532-e699cfc3bdeb",
-      "source": "rss:coindesk",
-      "title": "The Protocol: Kelp DAO exploited for $292 million",
-      "url": "https://www.coindesk.com/tech/2026/04/22/the-protocol-kelp-dao-exploited-for-usd292-million",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T16:22:42+00:00",
-      "raw_text": "The Protocol: Kelp DAO exploited for $292 million",
-      "impact": {}
-    },
-    {
-      "event_id": "0e47b6fd-e6d7-4ae2-b599-1af618c240c3",
-      "source": "rss:cointelegraph",
-      "title": "Ethereum risks 10% decline versus Bitcoin despite record ETH staking",
-      "url": "https://cointelegraph.com/news/ethereum-decline-10percent-versus-bitcoin-despite-record-eth-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-04-22T16:19:07+00:00",
-      "raw_text": "Ethereum risks 10% decline versus Bitcoin despite record ETH staking\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum risks 10% decline versus Bitcoin despite record ETH staking\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zM",
-      "impact": {
-        "t_plus_5m": -0.0243,
-        "t_plus_15m": -0.1968,
-        "t_plus_1h": -0.4708,
-        "t_plus_4h": -0.0274
-      }
-    },
-    {
-      "event_id": "dc7e9558-fb03-4be1-a1ea-680968816cab",
-      "source": "rss:bitcoinmagazine",
-      "title": "Russia’s Sberbank Ready to Enter Crypto Trading as Russia Moves Toward Regulation",
-      "url": "https://bitcoinmagazine.com/news/russias-sberbank-ready-to-enter-crypto",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T16:15:00+00:00",
-      "raw_text": "Russia’s Sberbank Ready to Enter Crypto Trading as Russia Moves Toward Regulation\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Russias-Sberbank-Ready-to-Enter-Crypto-Trading-as-Russia-Moves-Toward",
-      "impact": {}
-    },
-    {
-      "event_id": "53756449-0e79-4d43-968b-4c1b5c65f00e",
-      "source": "rss:coindesk",
-      "title": "Crypto Long & Short: Protecting the people building DeFi infrastructure",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/04/22/crypto-long-and-short-protecting-the-people-building-defi-infrastructure",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T16:04:07+00:00",
-      "raw_text": "Crypto Long & Short: Protecting the people building DeFi infrastructure",
-      "impact": {}
-    },
-    {
-      "event_id": "8d197602-7a32-4cb9-9448-9be03a701983",
-      "source": "rss:coindesk",
-      "title": "The $292 million Kelp DAO exploit shows why crypto bridges are still one of the industry's weakest links",
-      "url": "https://www.coindesk.com/tech/2026/04/21/the-usd292-million-kelp-dao-exploit-shows-why-crypto-bridges-are-still-one-of-the-industry-s-weakest-links",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T16:01:30+00:00",
-      "raw_text": "The $292 million Kelp DAO exploit shows why crypto bridges are still one of the industry's weakest links",
-      "impact": {}
-    },
-    {
-      "event_id": "3e7082e9-8fd7-4f6f-8200-504abc0f0ddd",
-      "source": "rss:theblock",
-      "title": "Eric Trump’s American Bitcoin rises 12% amid increase in BTC mining capacity",
-      "url": "https://www.theblock.co/post/398491/eric-trumps-american-bitcoin-rises-12-amid-increase-in-btc-mining-capacity?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-04-22T16:00:05+00:00",
-      "raw_text": "Eric Trump’s American Bitcoin rises 12% amid increase in BTC mining capacity\n\n<p>American Bitcoin said that it completed the \"energization of ~11,298 Bitcoin miners at its Drumheller site.</p>\n\n<p>American Bitcoin said that it completed the \"energization of ~11,298 Bitcoin miners at its Drumheller s",
-      "impact": {
-        "t_plus_5m": 0.5432,
-        "t_plus_15m": 0.3105,
-        "t_plus_1h": -0.2638,
-        "t_plus_4h": -0.0172
-      }
-    },
-    {
-      "event_id": "ee7ef3a2-fd15-4910-91c9-968262eb87b0",
-      "source": "rss:coindesk",
-      "title": "Trump-linked American Bitcoin shares spike over 12% after announcing more mining power",
-      "url": "https://www.coindesk.com/business/2026/04/22/trump-linked-american-bitcoin-shares-spike-over-12-after-announcing-more-mining-power",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T15:57:28+00:00",
-      "raw_text": "Trump-linked American Bitcoin shares spike over 12% after announcing more mining power",
-      "impact": {}
-    },
-    {
-      "event_id": "29181f7b-c0e3-4087-b77f-590113566bc7",
-      "source": "rss:decrypt",
-      "title": "GSR Launches Actively Managed Bitcoin, Ethereum and Solana Basket ETF on Nasdaq",
-      "url": "https://decrypt.co/365127/gsr-actively-managed-bitcoin-ethereum-solana-etf-nasdaq",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T15:47:59+00:00",
-      "raw_text": "GSR Launches Actively Managed Bitcoin, Ethereum and Solana Basket ETF on Nasdaq\n\nCrypto market maker GSR has launched an actively managed ETF on the Nasdaq that includes Bitcoin, Ethereum, and Solana.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 176,
-        "avg_1h": 0.09,
-        "avg_24h": -0.65,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 189,
-        "avg_1h": -0.01,
+        "count": 193,
+        "avg_1h": -0.0,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 82,
-        "avg_1h": 0.07,
-        "avg_24h": -0.54,
+      "unknown": {
+        "count": 174,
+        "avg_1h": 0.12,
+        "avg_24h": -0.65,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 40,
+        "count": 39,
         "avg_1h": 0.1,
         "avg_24h": -0.8,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 81,
+        "avg_1h": 0.07,
+        "avg_24h": -0.54,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
