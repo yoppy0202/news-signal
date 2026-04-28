@@ -1,6 +1,306 @@
 {
-  "generated_at": "2026-04-28T06:41:29.015600+00:00",
+  "generated_at": "2026-04-28T09:32:02.520973+00:00",
   "events": [
+    {
+      "event_id": "87eda108-3958-4f3b-89fa-4914d1999f58",
+      "source": "rss:coindesk",
+      "title": "Bitmine's ether buys are catching up to Strategy's bitcoin accumulation pace",
+      "url": "https://www.coindesk.com/business/2026/04/28/bitmine-s-ether-buys-are-catching-up-to-strategy-s-bitcoin-accumulation-pace",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T08:27:42+00:00",
+      "raw_text": "Bitmine's ether buys are catching up to Strategy's bitcoin accumulation pace",
+      "impact": {}
+    },
+    {
+      "event_id": "314d17d2-108c-42e1-91e1-141db3efd861",
+      "source": "rss:theblock",
+      "title": "Jack Dorsey’s Block reveals $2.2 billion in bitcoin holdings in Q1",
+      "url": "https://www.theblock.co/post/399123/block-q1-bitcoin?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T07:45:39+00:00",
+      "raw_text": "Jack Dorsey’s Block reveals $2.2 billion in bitcoin holdings in Q1\n\n<p>Jack Dorsey's Block Inc. disclosed that it held a total of 28,355 BTC, including customer assets, as of March 2026.</p>\n\n<p>Jack Dorsey's Block Inc. disclosed that it held a total of 28,355 BTC, including customer assets, as of M",
+      "impact": {}
+    },
+    {
+      "event_id": "f7906f99-fcbd-405d-9806-0d920b3b4310",
+      "source": "rss:coindesk",
+      "title": "Ondo Finance adds proxy voting for holders of its $700 million tokenized equities",
+      "url": "https://www.coindesk.com/tech/2026/04/28/ondo-finance-adds-proxy-voting-for-holders-of-its-usd700-million-tokenized-equities",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T07:29:34+00:00",
+      "raw_text": "Ondo Finance adds proxy voting for holders of its $700 million tokenized equities",
+      "impact": {}
+    },
+    {
+      "event_id": "32b1be04-33d6-4ffb-87d8-12853a7b5506",
+      "source": "rss:cointelegraph",
+      "title": "Trump changes tune on prediction markets days after saying he disliked them",
+      "url": "https://cointelegraph.com/news/trump-changes-stance-after-saying-he-disliked-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T07:11:31+00:00",
+      "raw_text": "Trump changes tune on prediction markets days after saying he disliked them\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump changes tune on prediction markets days after saying he disliked them\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528",
+      "impact": {}
+    },
+    {
+      "event_id": "1ee45837-adcf-4d65-aef1-d1f13358e55f",
+      "source": "rss:cointelegraph",
+      "title": "Crypto lobby backs formal removal of ‘reputation risk’ from bank examinations",
+      "url": "https://cointelegraph.com/news/blockchain-association-supports-reputation-risk-removal-from-supervisory-programs-to-end-crypto-debanking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T07:00:30+00:00",
+      "raw_text": "Crypto lobby backs formal removal of ‘reputation risk’ from bank examinations\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto lobby backs formal removal of ‘reputation risk’ from bank examinations\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
+      "impact": {}
+    },
+    {
+      "event_id": "a65939ba-a6a6-490c-9668-b00911261f14",
+      "source": "rss:cointelegraph",
+      "title": "Three Bitcoin charts say BTC price may rally toward $82K",
+      "url": "https://cointelegraph.com/markets/three-bitcoin-charts-signaling-btc-price-rebound-to-82k-and-above?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T06:57:26+00:00",
+      "raw_text": "Three Bitcoin charts say BTC price may rally toward $82K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Three Bitcoin charts say BTC price may rally toward $82K\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL",
+      "impact": {}
+    },
+    {
+      "event_id": "599f5206-3e9c-44ee-9097-6fad1fdd778e",
+      "source": "rss:theblock",
+      "title": "DeFi United unveils plan to restore rsETH after $292 million Kelp DAO exploit",
+      "url": "https://www.theblock.co/post/399118/defi-united-detailed-plan?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T06:52:53+00:00",
+      "raw_text": "DeFi United unveils plan to restore rsETH after $292 million Kelp DAO exploit\n\n<p>The restoration process involves converting ETH into rsETH in tranches, which will then be transferred to the affected lockbox contract.</p>\n\n<p>The restoration process involves converting ETH into rsETH in tranches, w",
+      "impact": {}
+    },
+    {
+      "event_id": "242e9740-61ac-4f15-a996-1ef1f12786f6",
+      "source": "rss:coindesk",
+      "title": "Three Bank of Japan members call for a rate hike; yen rises while bitcoin falls",
+      "url": "https://www.coindesk.com/markets/2026/04/28/three-bank-of-japan-members-call-for-a-rate-hike-yen-rises-while-bitcoin-falls",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T06:40:07+00:00",
+      "raw_text": "Three Bank of Japan members call for a rate hike; yen rises while bitcoin falls",
+      "impact": {}
+    },
+    {
+      "event_id": "877e7369-67e4-4b01-a4b9-170e4a3ce95e",
+      "source": "rss:cointelegraph",
+      "title": "Acting AG Todd Blanche confirms ‘code is not a crime’ in DOJ pivot",
+      "url": "https://cointelegraph.com/news/acting-ag-blanche-signals-doj-pivot-code-is-not-a-crime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T06:08:37+00:00",
+      "raw_text": "Acting AG Todd Blanche confirms ‘code is not a crime’ in DOJ pivot\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Acting AG Todd Blanche confirms ‘code is not a crime’ in DOJ pivot\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb",
+      "impact": {}
+    },
+    {
+      "event_id": "14c04416-8194-4013-a7c7-e7775cdeb2a0",
+      "source": "rss:cointelegraph",
+      "title": "Dorsey's Block unveils Bitcoin proof-of-reserves in transparency move",
+      "url": "https://cointelegraph.com/news/jack-dorseys-block-unveils-btc-proof-of-reserves-in-transparency-move?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T06:05:15+00:00",
+      "raw_text": "Dorsey's Block unveils Bitcoin proof-of-reserves in transparency move\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Dorsey's Block unveils Bitcoin proof-of-reserves in transparency move\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
+      "impact": {}
+    },
+    {
+      "event_id": "fc46e975-3c85-4edb-9337-83f00d11f456",
+      "source": "rss:coindesk",
+      "title": "What next as XRP drops 3% under $1.40 on strong selling",
+      "url": "https://www.coindesk.com/markets/2026/04/28/what-next-as-xrp-drops-3-under-usd1-40-on-strong-selling",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T05:35:10+00:00",
+      "raw_text": "What next as XRP drops 3% under $1.40 on strong selling",
+      "impact": {}
+    },
+    {
+      "event_id": "6f753937-6371-4ff1-95ee-6f3adc9dd7ea",
+      "source": "rss:cointelegraph",
+      "title": "Solana clients Anza and Firedancer introduce post-quantum solution Falcon",
+      "url": "https://cointelegraph.com/news/solana-introduces-post-quantum-solution-falcon-on-two-validator-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T05:24:26+00:00",
+      "raw_text": "Solana clients Anza and Firedancer introduce post-quantum solution Falcon\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana clients Anza and Firedancer introduce post-quantum solution Falcon\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
+      "impact": {}
+    },
+    {
+      "event_id": "a1fd5e51-8b82-4f98-8e55-b0d9ab69d65e",
+      "source": "rss:coindesk",
+      "title": "Bitcoin loses $77,000, ether, solana slide as Hormuz standoff lifts oil to 3-week high",
+      "url": "https://www.coindesk.com/markets/2026/04/28/bitcoin-loses-usd77-000-ether-solana-slide-as-hormuz-standoff-lifts-oil-to-3-week-high",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T05:23:25+00:00",
+      "raw_text": "Bitcoin loses $77,000, ether, solana slide as Hormuz standoff lifts oil to 3-week high",
+      "impact": {}
+    },
+    {
+      "event_id": "a95e3163-d40a-4221-994d-e5a9733213a1",
+      "source": "rss:cointelegraph",
+      "title": "Scammers use Gmail dot alias trick to spoof Robinhood in phishing scam",
+      "url": "https://cointelegraph.com/news/hackers-use-gmails-dot-alias-trick-to-impersonate-robinhood-for-phishing-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T05:22:53+00:00",
+      "raw_text": "Scammers use Gmail dot alias trick to spoof Robinhood in phishing scam\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Scammers use Gmail dot alias trick to spoof Robinhood in phishing scam\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6L",
+      "impact": {}
+    },
+    {
+      "event_id": "284fcf76-6241-4625-9e68-9ccd23a61754",
+      "source": "rss:cointelegraph",
+      "title": "Tillis won’t support Senate crypto bill without ethics provision",
+      "url": "https://cointelegraph.com/news/sen-tillis-wont-support-senate-crypto-bill-without-ethics-provision?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T05:18:12+00:00",
+      "raw_text": "Tillis won’t support Senate crypto bill without ethics provision\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tillis won’t support Senate crypto bill without ethics provision\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkL",
+      "impact": {}
+    },
+    {
+      "event_id": "04360f8f-a10b-487e-aac6-bc4129b53898",
+      "source": "rss:coindesk",
+      "title": "Bitcoin pressured by Fed uncertainty, oil, and AI slowdown",
+      "url": "https://www.coindesk.com/markets/2026/04/28/the-uncertainty-of-the-fed-oil-and-a-possible-ai-slowdown-are-all-weighing-heavy-on-btc",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T04:42:11+00:00",
+      "raw_text": "Bitcoin pressured by Fed uncertainty, oil, and AI slowdown",
+      "impact": {}
+    },
+    {
+      "event_id": "ab81558c-2bc4-4be2-ab87-e02f1cacad97",
+      "source": "rss:cointelegraph",
+      "title": "MARA forms foundation to support Bitcoin network health, adoption",
+      "url": "https://cointelegraph.com/news/mara-forms-foundation-to-harden-bitcoin-against-quantum-other-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T04:36:26+00:00",
+      "raw_text": "MARA forms foundation to support Bitcoin network health, adoption\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MARA forms foundation to support Bitcoin network health, adoption \" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2",
+      "impact": {}
+    },
+    {
+      "event_id": "46d9492c-8e50-424c-a905-bb898df29acd",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin support resistance flip in play as longs to shorts delta highlights bullish bias",
+      "url": "https://cointelegraph.com/markets/bitcoin-support-resistance-flip-in-play-as-longs-to-shorts-delta-highlights-bullish-bias?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T03:48:14+00:00",
+      "raw_text": "Bitcoin support resistance flip in play as longs to shorts delta highlights bullish bias\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin support resistance flip in play as longs to shorts delta highlights bullish bias\" class=\"type:primaryImage\" src=\"https://images.co",
+      "impact": {}
+    },
+    {
+      "event_id": "52fe53a0-bfd2-433f-bca3-3cf345ab7dce",
+      "source": "rss:theblock",
+      "title": "Japan’s Bitbank rolls out crypto-linked credit card that pays bills in bitcoin",
+      "url": "https://www.theblock.co/post/399102/japans-bitbank-crypto-credit-card?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T03:42:34+00:00",
+      "raw_text": "Japan’s Bitbank rolls out crypto-linked credit card that pays bills in bitcoin\n\n<p>The card will allow users to pay their credit card bill in bitcoin, and receive a 0.5% cashback in crypto for their spending.</p>\n\n<p>The card will allow users to pay their credit card bill in bitcoin, and receive a 0",
+      "impact": {}
+    },
+    {
+      "event_id": "03e25a18-328a-4588-ab5f-f80626b357d5",
+      "source": "rss:theblock",
+      "title": "Saipan woman gets 71 months in prison for bitcoin fraud targeting senior victims",
+      "url": "https://www.theblock.co/post/399107/saipan-woman-bitcoin-fraud?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T03:00:15+00:00",
+      "raw_text": "Saipan woman gets 71 months in prison for bitcoin fraud targeting senior victims\n\n<p>The criminal built trust with her targets and solicited bitcoin investments under false pretenses, according to the DOJ.</p>\n\n<p>The criminal built trust with her targets and solicited bitcoin investments under fals",
+      "impact": {}
+    },
+    {
+      "event_id": "5ed2ae73-9cf0-4955-b612-640a39f25fea",
+      "source": "rss:theblock",
+      "title": "ZetaChain halts cross-chain transactions following attack on smart contract",
+      "url": "https://www.theblock.co/post/399092/zetachain-attack-smart-contract?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T01:41:47+00:00",
+      "raw_text": "ZetaChain halts cross-chain transactions following attack on smart contract\n\n<p>The attack has only impacted internal ZetaChain team wallets, and no user funds were affected, the team said.</p>\n\n<p>The attack has only impacted internal ZetaChain team wallets, and no user funds were affected, the tea",
+      "impact": {}
+    },
+    {
+      "event_id": "c6b22a24-91eb-4a4a-994b-585ff50b69d5",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin shorts create $1.4B liquidation risk: Is price squeeze to $80K next?",
+      "url": "https://cointelegraph.com/markets/bitcoin-shorts-create-14b-liquidation-risk-is-a-price-squeeze-to-80k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T01:26:36+00:00",
+      "raw_text": "Bitcoin shorts create $1.4B liquidation risk: Is price squeeze to $80K next?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin shorts create $1.4B liquidation risk: Is price squeeze to $80K next?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/5",
+      "impact": {}
+    },
+    {
+      "event_id": "37914c54-8720-4d31-996e-67712fc8a2db",
+      "source": "rss:bitcoinmagazine",
+      "title": "Billionaire Tim Draper: You Should Be Scared If You Don’t Own Bitcoin",
+      "url": "https://bitcoinmagazine.com/news/billionaire-tim-draper-scared-bitcoin",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T23:50:55+00:00",
+      "raw_text": "Billionaire Tim Draper: You Should Be Scared If You Don’t Own Bitcoin\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Billionaire-Tim-Draper-You-Should-Be-Scared-If-You-Dont-Own-Bitcoin-scaled.jpg\" s",
+      "impact": {}
+    },
+    {
+      "event_id": "6b48e6e2-87ab-415a-b065-ed252df8d0ea",
+      "source": "rss:cointelegraph",
+      "title": "Ether triple top strikes at $2.4K as ETH analysts doubt bullish trend change",
+      "url": "https://cointelegraph.com/markets/ether-triple-top-pattern-rejects-24k-as-eth-analyst-questions-uptrend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T23:19:40+00:00",
+      "raw_text": "Ether triple top strikes at $2.4K as ETH analysts doubt bullish trend change\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ether triple top strikes at $2.4K as ETH analysts doubt bullish trend change\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/5",
+      "impact": {}
+    },
+    {
+      "event_id": "001dbac3-3954-4d36-a294-d9dedab0a4bb",
+      "source": "rss:cointelegraph",
+      "title": "Israeli regulators approve shekel-pegged stablecoin",
+      "url": "https://cointelegraph.com/news/israel-shekel-pegged-stablecoin-bils?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-27T22:40:45+00:00",
+      "raw_text": "Israeli regulators approve shekel-pegged stablecoin\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Israeli regulators approve shekel-pegged stablecoin\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnR",
+      "impact": {}
+    },
     {
       "event_id": "4ae69b2a-ebae-4550-8d73-46f56d9a5fc2",
       "source": "rss:decrypt",
@@ -1451,7 +1751,8 @@
         "t_plus_5m": 2.6678,
         "t_plus_15m": 2.5995,
         "t_plus_1h": 0.8495,
-        "t_plus_4h": -0.4699
+        "t_plus_4h": -0.4699,
+        "t_plus_24h": -1.5919
       }
     },
     {
@@ -6185,366 +6486,38 @@
         "t_plus_1h": 0.1345,
         "t_plus_4h": 1.2622
       }
-    },
-    {
-      "event_id": "7c101558-063a-4176-a266-17c30e42ac68",
-      "source": "rss:cointelegraph",
-      "title": "US admiral calls Bitcoin an instrument for US ‘power projection’",
-      "url": "https://cointelegraph.com/news/us-admiral-calls-bitcoin-instrument-us-power-projection?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T02:14:42+00:00",
-      "raw_text": "US admiral calls Bitcoin an instrument for US ‘power projection’\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US admiral calls Bitcoin an instrument for US ‘power projection’\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2lud",
-      "impact": {}
-    },
-    {
-      "event_id": "39ec617c-1535-4d93-a31a-07ea81c8602f",
-      "source": "rss:decrypt",
-      "title": "Anthropic's Claude Mythos AI Finds 271 Vulnerabilities in Firefox—Yes, It's Seriously Powerful",
-      "url": "https://decrypt.co/365099/anthropic-claude-mythos-ai-271-vulnerabilities-firefox-seriously-powerful",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T02:06:41+00:00",
-      "raw_text": "Anthropic's Claude Mythos AI Finds 271 Vulnerabilities in Firefox—Yes, It's Seriously Powerful\n\nAnthropic’s powerful Claude Mythos AI model found hundreds of vulnerabilities in Mozilla Firefox, highlighting its cybersecurity potential.",
-      "impact": {}
-    },
-    {
-      "event_id": "b8fbf3fe-ea16-4108-a539-f2e8f274f7f7",
-      "source": "rss:coindesk",
-      "title": "Crypto's great hope in Senate's Clarity Act still has a path to survive tight calendar",
-      "url": "https://www.coindesk.com/news-analysis/2026/04/21/crypto-s-great-hope-in-senate-s-clarity-act-still-has-a-path-to-survive-tight-calendar",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T22:45:47+00:00",
-      "raw_text": "Crypto's great hope in Senate's Clarity Act still has a path to survive tight calendar",
-      "impact": {}
-    },
-    {
-      "event_id": "f520ed96-8a42-46b6-a690-a2c1499e51f7",
-      "source": "rss:decrypt",
-      "title": "Coinbase Flags Proof-of-Stake Chains Like Ethereum, Solana as Potential Quantum Risks",
-      "url": "https://decrypt.co/365079/coinbase-proof-of-stake-blockchains-ethereum-solana-quantum-risk",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T21:54:18+00:00",
-      "raw_text": "Coinbase Flags Proof-of-Stake Chains Like Ethereum, Solana as Potential Quantum Risks\n\nAdvisory council says validator signatures and wallet cryptography could be vulnerable if future quantum computers break current encryption.",
-      "impact": {}
-    },
-    {
-      "event_id": "6b82f969-fcc3-4ba2-8540-1572726f6107",
-      "source": "rss:coindesk",
-      "title": "Inside the hunt for Satoshi: Filmmakers chase crypto’s biggest mystery",
-      "url": "https://www.coindesk.com/coindesk-news/2026/04/21/inside-the-hunt-for-satoshi-filmmakers-chase-crypto-s-biggest-mystery",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T21:54:18+00:00",
-      "raw_text": "Inside the hunt for Satoshi: Filmmakers chase crypto’s biggest mystery",
-      "impact": {}
-    },
-    {
-      "event_id": "f5fe7e17-b3c0-4fc6-b00f-196ccee485cf",
-      "source": "rss:decrypt",
-      "title": "Core Scientific Reveals $3.3 Billion Junk-Bond Sale to Pivot Further from Bitcoin Mining to AI",
-      "url": "https://decrypt.co/365080/core-scientific-3-3-billion-junk-bond-sale-pivot-bitcoin-mining-ai",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T21:53:33+00:00",
-      "raw_text": "Core Scientific Reveals $3.3 Billion Junk-Bond Sale to Pivot Further from Bitcoin Mining to AI\n\nCore Scientific, a Bitcoin miner turned data center operator, said that it plans to offer $3.3 billion worth of speculative-grade debt.",
-      "impact": {}
-    },
-    {
-      "event_id": "556ceb8e-f335-4db3-bc71-036fec8d9ec8",
-      "source": "rss:cointelegraph",
-      "title": "Kalshi mulls crypto expansion with perpetual futures launch: Report",
-      "url": "https://cointelegraph.com/news/kalshi-eyes-crypto-expansion-with-perpetual-futures-launch-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T21:08:46+00:00",
-      "raw_text": "Kalshi mulls crypto expansion with perpetual futures launch: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi mulls crypto expansion with perpetual futures launch: Report\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5",
-      "impact": {}
-    },
-    {
-      "event_id": "405ef04f-4a29-4c83-94da-743952d54c87",
-      "source": "rss:coindesk",
-      "title": "New York sues Coinbase, Gemini over prediction market offerings",
-      "url": "https://www.coindesk.com/policy/2026/04/21/new-york-sues-coinbase-gemini-over-prediction-market-offerings",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T20:58:00+00:00",
-      "raw_text": "New York sues Coinbase, Gemini over prediction market offerings",
-      "impact": {}
-    },
-    {
-      "event_id": "3a82db57-09ed-4a1c-bbd7-2a277a267c29",
-      "source": "rss:theblock",
-      "title": "Etherealize updates long-term ETH price prediction to $250,000",
-      "url": "https://www.theblock.co/post/398372/etherealize-updates-long-term-eth-price-prediction-250000?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-04-21T20:40:33+00:00",
-      "raw_text": "Etherealize updates long-term ETH price prediction to $250,000\n\n<p>ETH would trade above $250,000 if Ethereum can capture the same monetary premium as bitcoin and gold carry as stores-of-value.</p>\n\n<p>ETH would trade above $250,000 if Ethereum can capture the same monetary premium as bitcoin and go",
-      "impact": {
-        "t_plus_5m": 0.0558,
-        "t_plus_15m": 0.0753,
-        "t_plus_1h": -0.0393,
-        "t_plus_4h": 0.4155
-      }
-    },
-    {
-      "event_id": "40970974-414c-44d1-bad8-54991f0b6583",
-      "source": "rss:decrypt",
-      "title": "Strategy Now Holds $62 Billion in Bitcoin—These Are Its Biggest BTC Buys",
-      "url": "https://decrypt.co/292448/microstrategy-biggest-bitcoin-buys",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-04-21T20:33:50+00:00",
-      "raw_text": "Strategy Now Holds $62 Billion in Bitcoin—These Are Its Biggest BTC Buys\n\nHow did Michael Saylor's firm amass a record stash of Bitcoin? Here's a look back at how Strategy made such massive gains.",
-      "impact": {
-        "t_plus_5m": 0.0244,
-        "t_plus_15m": -0.0058,
-        "t_plus_1h": -0.1482,
-        "t_plus_4h": 0.7897
-      }
-    },
-    {
-      "event_id": "3f9a7c86-ba01-447d-985f-eabd24cb600f",
-      "source": "rss:decrypt",
-      "title": "Revolut Targeting $200 Billion Valuation in IPO—But Not Until 2028: FT",
-      "url": "https://decrypt.co/365069/revolut-targeting-200-billion-valuation-ipo-not-until-2028",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T20:23:06+00:00",
-      "raw_text": "Revolut Targeting $200 Billion Valuation in IPO—But Not Until 2028: FT\n\nGlobal fintech firm Revolut is eying a $200 billion IPO, according to a report—but don't expect the move any time soon.",
-      "impact": {}
-    },
-    {
-      "event_id": "06018723-24e2-4073-97ee-216335b13af9",
-      "source": "rss:decrypt",
-      "title": "Google Fixes AI Coding Tool Flaw That Let Attackers Execute Malicious Code: Report",
-      "url": "https://decrypt.co/365068/google-fixes-ai-coding-tool-flaw-attackers-execute-malicious-code",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T20:02:05+00:00",
-      "raw_text": "Google Fixes AI Coding Tool Flaw That Let Attackers Execute Malicious Code: Report\n\nResearchers say a prompt injection bug in Google's Antigravity AI coding tool could have let attackers run commands, despite safeguards.",
-      "impact": {}
-    },
-    {
-      "event_id": "774b2835-d2a6-459a-b227-c37c00f50936",
-      "source": "rss:cointelegraph",
-      "title": "DoorDash to offer stablecoin payments to users via Tempo blockchain",
-      "url": "https://cointelegraph.com/news/doordash-stablecoin-payments-tempo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T20:00:38+00:00",
-      "raw_text": "DoorDash to offer stablecoin payments to users via Tempo blockchain\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DoorDash to offer stablecoin payments to users via Tempo blockchain\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5",
-      "impact": {}
-    },
-    {
-      "event_id": "1345475c-0645-49ff-8aa0-f7e2b199ddc7",
-      "source": "rss:coindesk",
-      "title": "Prediction markets are the new secret weapon for Coinbase and Robinhood growth",
-      "url": "https://www.coindesk.com/markets/2026/04/21/prediction-markets-are-the-new-secret-weapon-for-coinbase-and-robinhood-growth",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T19:49:51+00:00",
-      "raw_text": "Prediction markets are the new secret weapon for Coinbase and Robinhood growth",
-      "impact": {}
-    },
-    {
-      "event_id": "bf5679d2-dbfa-4aa2-83a4-468a75ac72df",
-      "source": "rss:cointelegraph",
-      "title": "Blockchain.com adds perpetual futures trading to self-custody wallets",
-      "url": "https://cointelegraph.com/news/blockchain-com-brings-perpetual-futures-trading-to-self-custody-wallets-via-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T19:48:14+00:00",
-      "raw_text": "Blockchain.com adds perpetual futures trading to self-custody wallets\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Blockchain.com adds perpetual futures trading to self-custody wallets\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
-      "impact": {}
-    },
-    {
-      "event_id": "10d320cc-ef43-4bb3-abe0-88ed77478ad5",
-      "source": "rss:decrypt",
-      "title": "Prediction Market Giants Kalshi, Polymarket Eye Perpetual Futures Push: Report",
-      "url": "https://decrypt.co/365070/prediction-market-giants-kalshi-polymarket-perpetual-futures",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T19:41:50+00:00",
-      "raw_text": "Prediction Market Giants Kalshi, Polymarket Eye Perpetual Futures Push: Report\n\nThe leading prediction market firms are reportedly planning to push deeper into derivatives by supporting perpetual futures trading.",
-      "impact": {}
-    },
-    {
-      "event_id": "6be9ca2e-614e-4396-a157-6c43d2a292d5",
-      "source": "rss:theblock",
-      "title": "Fed pick Warsh backs crypto’s place in finance as Warren raises ‘sock puppet’ concerns in hearing",
-      "url": "https://www.theblock.co/post/398364/fed-pick-warsh-backs-cryptos-place-in-finance-as-warren-raises-sock-puppet-concerns-in-hearing?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T19:28:05+00:00",
-      "raw_text": "Fed pick Warsh backs crypto’s place in finance as Warren raises ‘sock puppet’ concerns in hearing\n\n<p>Digital assets are already ingrained in the financial industry, said Federal Reserve chair pick Kevin Warsh during his nomination hearing.</p>\n\n<p>Digital assets are already ingrained in the financi",
-      "impact": {}
-    },
-    {
-      "event_id": "ea09fb42-f690-47ac-8a5a-08a934c63519",
-      "source": "rss:coindesk",
-      "title": "Core Scientific seeks $3.3 billion bond sale to further AI data center pivot",
-      "url": "https://www.coindesk.com/business/2026/04/21/core-scientific-seeks-usd3-3-billion-bond-sale-to-further-ai-data-center-pivot",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T19:27:43+00:00",
-      "raw_text": "Core Scientific seeks $3.3 billion bond sale to further AI data center pivot",
-      "impact": {}
-    },
-    {
-      "event_id": "02c8f0f1-37d8-4c92-9e6d-a150ed8ffea9",
-      "source": "rss:bitcoinmagazine",
-      "title": "Kalshi and Polymarket Enter the Crypto Race to Launch Perpetual Futures",
-      "url": "https://bitcoinmagazine.com/news/kalshi-and-polymarket-enter-the-crypto",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T19:15:33+00:00",
-      "raw_text": "Kalshi and Polymarket Enter the Crypto Race to Launch Perpetual Futures\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Tether-moves-over-70-million-in-bitcoin-to-reserves-on-chain-data-shows.jpg\" st",
-      "impact": {}
-    },
-    {
-      "event_id": "8742bae3-8ed4-4ebe-8a88-9ea5018aa07f",
-      "source": "rss:bitcoinmagazine",
-      "title": "Kalshi CEO Tarek Mansour To Speak at Bitcoin 2026 Conference on Prediction Markets and BTC",
-      "url": "https://bitcoinmagazine.com/conference/kalshi-ceo-tarek-mansour-to-speak-at-bitcoin-2026-conference-on-prediction-markets-and-btc",
-      "event_type": "whale_move",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-04-21T19:14:13+00:00",
-      "raw_text": "Kalshi CEO Tarek Mansour To Speak at Bitcoin 2026 Conference on Prediction Markets and BTC\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Screenshot-2026-04-21-at-2.15.40-PM.png\" style=\"display: blo",
-      "impact": {
-        "t_plus_5m": 0.7554,
-        "t_plus_15m": 0.9992,
-        "t_plus_1h": 0.6377,
-        "t_plus_4h": 0.9427
-      }
-    },
-    {
-      "event_id": "716eec9a-d96f-46f1-a2b3-c60e47a8e12f",
-      "source": "rss:coindesk",
-      "title": "Mob boss John Gotti’s grandson is headed to prison for a $1.1 million Covid fraud and crypto scheme",
-      "url": "https://www.coindesk.com/business/2026/04/21/mob-boss-john-gotti-s-grandson-is-headed-to-prison-for-a-usd1-1-million-covid-fraud-and-crypto-scheme",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T19:10:10+00:00",
-      "raw_text": "Mob boss John Gotti’s grandson is headed to prison for a $1.1 million Covid fraud and crypto scheme",
-      "impact": {}
-    },
-    {
-      "event_id": "8025c55a-dc5e-441f-85b6-aed345ccb776",
-      "source": "rss:theblock",
-      "title": "SoFi adds XRP deposits but users criticize lack of external wallet transfers",
-      "url": "https://www.theblock.co/post/398348/sofi-xrp-deposits-users-criticize-lack-external-transfers?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-04-21T18:57:46+00:00",
-      "raw_text": "SoFi adds XRP deposits but users criticize lack of external wallet transfers\n\n<p>According to SoFi's support page, the crypto platform does not permit XR transfers to outside wallets.</p>\n\n<p>According to SoFi's support page, the crypto platform does not permit XR transfers to outside wallets.</p>",
-      "impact": {
-        "t_plus_5m": 1.4067,
-        "t_plus_15m": 1.4273,
-        "t_plus_1h": 0.3779,
-        "t_plus_4h": 0.7688
-      }
-    },
-    {
-      "event_id": "c8cf74d2-ed44-4f75-81e6-ecd340a9cc21",
-      "source": "rss:theblock",
-      "title": "Peter Thiel-backed unicorn Ramp rolls out $0 conversions between USDT and dollars across product suite",
-      "url": "https://www.theblock.co/post/398354/peter-thiel-backed-unicorn-ramp-rolls-out-0-conversions-between-usdt-and-dollars-across-product-suite?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T18:50:54+00:00",
-      "raw_text": "Peter Thiel-backed unicorn Ramp rolls out $0 conversions between USDT and dollars across product suite\n\n<p>The fintech provider has rolled out support for Ethereum, Solana and Plasma-issued USDT tokens across its entire product suite.</p>\n\n<p>The fintech provider has rolled out support for Ethereum,",
-      "impact": {}
-    },
-    {
-      "event_id": "f851c508-2da6-4ce0-847e-eb9d8da0ec29",
-      "source": "rss:decrypt",
-      "title": "Tether Asserts Stablecoin Dominance Over Circle's USDC Amid Major Crypto Hacks",
-      "url": "https://decrypt.co/365049/tether-stablecoin-dominance-over-circle-usdc-major-crypto-hacks",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T18:34:42+00:00",
-      "raw_text": "Tether Asserts Stablecoin Dominance Over Circle's USDC Amid Major Crypto Hacks\n\nTether's USDT market cap hit an all-time high, with DeFi users appearing to favor the stablecoin over USDC as a refuge from industry fallout.",
-      "impact": {}
-    },
-    {
-      "event_id": "d5f10700-9a52-4bea-8beb-16d11e235eea",
-      "source": "rss:decrypt",
-      "title": "Mississippi Law School Requires AI Training as Courts Grapple With the Tech",
-      "url": "https://decrypt.co/365063/mississippi-law-school-ai-training-courts",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-21T18:34:06+00:00",
-      "raw_text": "Mississippi Law School Requires AI Training as Courts Grapple With the Tech\n\nMississippi College School of Law now mandates artificial intelligence education for first-year students as legal institutions adapt to both the risks and potential uses of the technology.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 177,
+        "avg_1h": 0.01,
+        "avg_24h": -1.08,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 179,
+        "count": 181,
         "avg_1h": -0.08,
         "avg_24h": 0.31,
         "win_rate_1h_gt5pct": 0.0
       },
-      "whale_move": {
-        "count": 6,
-        "avg_1h": 0.3,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 46,
-        "avg_1h": 0.03,
-        "avg_24h": -0.41,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 84,
+        "count": 81,
         "avg_1h": 0.07,
         "avg_24h": -0.83,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 177,
-        "avg_1h": 0.02,
-        "avg_24h": -1.08,
+      "hack": {
+        "count": 48,
+        "avg_1h": 0.03,
+        "avg_24h": -0.8,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "whale_move": {
+        "count": 5,
+        "avg_1h": -0.04,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
