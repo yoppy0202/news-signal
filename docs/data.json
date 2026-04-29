@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-04-29T06:34:29.399581+00:00",
+  "generated_at": "2026-04-29T09:22:14.354382+00:00",
   "events": [
+    {
+      "event_id": "c7598e4f-5f45-4375-8752-55acfc10d52c",
+      "source": "rss:theblock",
+      "title": "Hong Kong warns of fake tokens posing as HSBC’s stablecoin",
+      "url": "https://www.theblock.co/post/399308/hong-kong-warns-fake-stablecoins?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-29T06:56:48+00:00",
+      "raw_text": "Hong Kong warns of fake tokens posing as HSBC’s stablecoin\n\n<p>HSBC and Anchorpoint Financial both clarified that they have not launched any stablecoins in Hong Kong, but plan to do so this year.</p>\n\n<p>HSBC and Anchorpoint Financial both clarified that they have not launched any stablecoins in Hon",
+      "impact": {}
+    },
+    {
+      "event_id": "cc5ba2ec-3911-420e-961c-13f9a2382699",
+      "source": "rss:cointelegraph",
+      "title": "CFTC pulls Wisconsin into fight over prediction market jurisdiction",
+      "url": "https://cointelegraph.com/news/cftc-sues-wisconsin-over-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-29T05:27:05+00:00",
+      "raw_text": "CFTC pulls Wisconsin into fight over prediction market jurisdiction\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC pulls Wisconsin into fight over prediction market jurisdiction\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXl",
+      "impact": {}
+    },
+    {
+      "event_id": "0431f15e-5a11-42e0-bc48-e0de3bc26ec8",
+      "source": "rss:coindesk",
+      "title": "Canada proposes ban on crypto ATMs as fraud cases mount",
+      "url": "https://www.coindesk.com/markets/2026/04/29/canada-proposes-ban-on-bitcoin-atms-as-fraud-cases-mount",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-29T05:14:33+00:00",
+      "raw_text": "Canada proposes ban on crypto ATMs as fraud cases mount",
+      "impact": {}
+    },
+    {
+      "event_id": "d0ee5348-1642-4a9f-b7ab-83211995d230",
+      "source": "rss:theblock",
+      "title": "Ethereum ICO whale moves $23 million in ETH after 10-year dormancy",
+      "url": "https://www.theblock.co/post/399300/ethereum-ico-whale-moves-23-million?utm_source=rss&utm_medium=rss",
+      "event_type": "whale_move",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-29T05:11:11+00:00",
+      "raw_text": "Ethereum ICO whale moves $23 million in ETH after 10-year dormancy\n\n<p>The Ethereum whale address received the ETH on July 30, 2015, after participating in the ICO event with $3,100.</p>\n\n<p>The Ethereum whale address received the ETH on July 30, 2015, after participating in the ICO event with $3,10",
+      "impact": {}
+    },
+    {
+      "event_id": "c1a56136-813c-455a-a4c1-bfd7735d28e2",
+      "source": "rss:coindesk",
+      "title": "XRP falls to $1.38 after breaking below $1.40 on rising selling pressure",
+      "url": "https://www.coindesk.com/markets/2026/04/29/xrp-falls-to-usd1-38-after-breaking-below-usd1-40-on-rising-selling-pressure",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-29T04:52:22+00:00",
+      "raw_text": "XRP falls to $1.38 after breaking below $1.40 on rising selling pressure",
+      "impact": {}
+    },
     {
       "event_id": "459864ef-084e-4d71-800d-50bb98b178b4",
       "source": "rss:coindesk",
@@ -112,7 +172,8 @@
       "impact": {
         "t_plus_5m": 0.1148,
         "t_plus_15m": 0.0887,
-        "t_plus_1h": 0.1737
+        "t_plus_1h": 0.1737,
+        "t_plus_4h": 0.8996
       }
     },
     {
@@ -1505,7 +1566,8 @@
       "impact": {
         "t_plus_5m": 0.273,
         "t_plus_15m": 0.2061,
-        "t_plus_1h": 0.175
+        "t_plus_1h": 0.175,
+        "t_plus_24h": 0.3146
       }
     },
     {
@@ -6481,92 +6543,32 @@
       "timestamp_utc": "2026-04-22T21:14:22+00:00",
       "raw_text": "Kalshi flags more insider trading cases, including politician who appeared on FBoy Island",
       "impact": {}
-    },
-    {
-      "event_id": "0a0ac5d7-6236-4cd2-81e8-7354ccd20aec",
-      "source": "rss:cointelegraph",
-      "title": "PUSD stablecoin deploys on ADI Chain, targeting $3T Islamic finance market",
-      "url": "https://cointelegraph.com/news/pusd-stablecoin-deploys-on-adi-chain-targeting-3t-islamic-finance-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T21:11:15+00:00",
-      "raw_text": "PUSD stablecoin deploys on ADI Chain, targeting $3T Islamic finance market\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"PUSD stablecoin deploys on ADI Chain, targeting $3T Islamic finance market\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
-      "impact": {}
-    },
-    {
-      "event_id": "057bdc1a-844d-4dc7-8459-0a60314c9a12",
-      "source": "rss:decrypt",
-      "title": "Kalshi Fines Meme Coin Candidate Mark Moran, Others for Betting on Their Own Elections",
-      "url": "https://decrypt.co/365212/kalshi-fines-candidate-mark-moran-others-betting-own-elections",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T20:50:52+00:00",
-      "raw_text": "Kalshi Fines Meme Coin Candidate Mark Moran, Others for Betting on Their Own Elections\n\nMoran, a candidate running for U.S. Senate in Virginia, previously described self-wagers as “free advertising.”",
-      "impact": {}
-    },
-    {
-      "event_id": "4b740cce-8af1-49dd-98ab-780fe83fae0e",
-      "source": "rss:decrypt",
-      "title": "Xiaomi's New MiMo 2.5 Pro AI Can See, Hear, and Act—All in One Model",
-      "url": "https://decrypt.co/365184/xiaomi-mimo-2-5-pro-ai-see-hear-act-one-model",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T20:42:35+00:00",
-      "raw_text": "Xiaomi's New MiMo 2.5 Pro AI Can See, Hear, and Act—All in One Model\n\nFive weeks after MiMo-V2-Pro stunned the AI world, Xiaomi is back with a model that adds eyes and ears—at half the price.",
-      "impact": {}
-    },
-    {
-      "event_id": "c3dbc98f-2dfc-4284-b793-f55af3c2e0ec",
-      "source": "rss:coindesk",
-      "title": "Elon Musk's Tesla reports unchanged bitcoin holdings, books $173 million digital asset loss",
-      "url": "https://www.coindesk.com/markets/2026/04/22/elon-musk-s-tesla-reports-unchanged-bitcoin-holdings-books-usd173-million-digital-asset-loss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T20:36:19+00:00",
-      "raw_text": "Elon Musk's Tesla reports unchanged bitcoin holdings, books $173 million digital asset loss",
-      "impact": {}
-    },
-    {
-      "event_id": "2977ca62-1a0f-4047-8a4d-5f116e73880a",
-      "source": "rss:decrypt",
-      "title": "AngelList's USVC Gives Investors Exposure to OpenAI, Anthropic and xAI—Starting at $500",
-      "url": "https://decrypt.co/365157/angellist-usvc-investors-exposure-openai-anthropic-xai-starting-500",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T20:33:09+00:00",
-      "raw_text": "AngelList's USVC Gives Investors Exposure to OpenAI, Anthropic and xAI—Starting at $500\n\nAngelList's new USVC fund allows non-accredited retail investors to gain exposure to major private firms like Anthropic and OpenAI.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 87,
-        "avg_1h": 0.07,
-        "avg_24h": -0.54,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 171,
+        "count": 173,
         "avg_1h": 0.11,
-        "avg_24h": -0.65,
+        "avg_24h": -0.53,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 190,
+        "count": 187,
         "avg_1h": 0.0,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
-        "count": 5,
+        "count": 6,
         "avg_1h": -0.04,
         "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 87,
+        "avg_1h": 0.07,
+        "avg_24h": -0.54,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
