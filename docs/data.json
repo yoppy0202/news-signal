@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-04-28T23:09:32.350493+00:00",
+  "generated_at": "2026-04-29T00:06:43.530975+00:00",
   "events": [
+    {
+      "event_id": "9435c655-5c5f-4bbd-9935-c89da2df4511",
+      "source": "rss:bitcoinmagazine",
+      "title": "Strategy’s (MSTR) Michael Saylor Says STRC is ‘Going Viral’ After $8.5 Billion Run‑Up",
+      "url": "https://bitcoinmagazine.com/news/strategys-mstr-michael-saylor-says-strc",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T23:33:54+00:00",
+      "raw_text": "Strategy’s (MSTR) Michael Saylor Says STRC is ‘Going Viral’ After $8.5 Billion Run‑Up\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Strategys-MSTR-Michael-Saylor-Says-STRC-is-Going-Viral-After-8.5-",
+      "impact": {}
+    },
+    {
+      "event_id": "38ec8518-dba4-4438-b393-22457e5fc62e",
+      "source": "rss:decrypt",
+      "title": "AI Agent Deletes Startup’s Database in 9 Seconds, Founder Says",
+      "url": "https://decrypt.co/365897/ai-agent-deletes-startup-database-9-seconds-founder-says",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-28T23:00:02+00:00",
+      "raw_text": "AI Agent Deletes Startup’s Database in 9 Seconds, Founder Says\n\nPocketOS founder Jeremy Crane claims a Cursor agent running Claude Opus wiped production data and backups through a single Railway API call.",
+      "impact": {}
+    },
     {
       "event_id": "d783f1c5-860a-4567-be75-cf0a7e31c7c1",
       "source": "rss:theblock",
@@ -6501,48 +6525,24 @@
         "t_plus_1h": -0.063,
         "t_plus_4h": -0.4436
       }
-    },
-    {
-      "event_id": "9016c519-d6f7-42e2-8e90-656877f6699a",
-      "source": "rss:coindesk",
-      "title": "The question isn't whether privacy. It's what sort of privacy",
-      "url": "https://www.coindesk.com/opinion/2026/04/22/the-question-isn-t-whether-privacy-it-s-what-sort-of-privacy",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T18:30:00+00:00",
-      "raw_text": "The question isn't whether privacy. It's what sort of privacy",
-      "impact": {}
-    },
-    {
-      "event_id": "a2e6bd7f-c53f-4b50-a71c-66548e851ce0",
-      "source": "rss:decrypt",
-      "title": "UK’s Financial Conduct Authority Leads London Crackdown on Crypto Traders",
-      "url": "https://decrypt.co/365148/uk-financial-conduct-authority-leads-london-crackdown-crypto-traders",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T18:29:02+00:00",
-      "raw_text": "UK’s Financial Conduct Authority Leads London Crackdown on Crypto Traders\n\nMulti-agency raid marks shift from warnings to physical enforcement as UK regulator finds zero legally registered P2P crypto traders.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 194,
-        "avg_1h": -0.0,
-        "avg_24h": 0.14,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 81,
+        "count": 83,
         "avg_1h": 0.07,
         "avg_24h": -0.54,
         "win_rate_1h_gt5pct": 0.0
       },
+      "narrative": {
+        "count": 193,
+        "avg_1h": -0.0,
+        "avg_24h": 0.14,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 173,
+        "count": 172,
         "avg_1h": 0.11,
         "avg_24h": -0.65,
         "win_rate_1h_gt5pct": 0.0
