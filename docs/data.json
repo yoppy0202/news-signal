@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-04-29T22:09:53.394273+00:00",
+  "generated_at": "2026-04-29T23:10:08.092307+00:00",
   "events": [
+    {
+      "event_id": "a97612f1-451b-4495-a95f-d466a7ef64c8",
+      "source": "rss:decrypt",
+      "title": "Google and Microsoft Just Proved the AI Trade Is Alive—While OpenAI Is Sweating",
+      "url": "https://decrypt.co/366100/google-microsoft-ai-trade-openai-revenue-estimates",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-29T22:14:49+00:00",
+      "raw_text": "Google and Microsoft Just Proved the AI Trade Is Alive—While OpenAI Is Sweating\n\nAlphabet and Microsoft crushed Q1 estimates on the same day, with Google Cloud up 63% and Microsoft's AI business hitting a $37 billion run rate.",
+      "impact": {}
+    },
+    {
+      "event_id": "bc393184-5e3e-4d08-ae6f-50f2a0da2fcf",
+      "source": "rss:coindesk",
+      "title": "Jack Mallers' Twenty One Capital surges after majority holder Tether proposes 3-way merger",
+      "url": "https://www.coindesk.com/markets/2026/04/29/jack-mallers-twenty-one-capital-surges-after-majority-holder-tether-proposes-3-way-merger",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-29T22:12:53+00:00",
+      "raw_text": "Jack Mallers' Twenty One Capital surges after majority holder Tether proposes 3-way merger",
+      "impact": {}
+    },
+    {
+      "event_id": "55d3ba85-0a45-4dbb-b6db-55d5edad91b0",
+      "source": "rss:theblock",
+      "title": "Zcash ETF volume doubles as ZEC’s shielded supply hits record highs",
+      "url": "https://www.theblock.co/post/399264/zcash-etf-volume-doubles-zec-shielded-supply-record-highs?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-29T22:11:03+00:00",
+      "raw_text": "Zcash ETF volume doubles as ZEC’s shielded supply hits record highs\n\n<p>It will be worth watching whether the ZCSH ETF can sustain over $2 million in daily volume into the new month.</p>\n\n<p>It will be worth watching whether the ZCSH ETF can sustain over $2 million in daily volume into the new month",
+      "impact": {}
+    },
+    {
+      "event_id": "4d3d4530-3cd0-4b44-a60f-a2da3a7419dd",
+      "source": "rss:theblock",
+      "title": "SWEAT protocol thwarts multi-million dollar exploit, restores user balances",
+      "url": "https://www.theblock.co/post/399498/sweat-protocol-thwarts-multi-million-dollar-exploit-restores-user-balances?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-29T21:27:46+00:00",
+      "raw_text": "SWEAT protocol thwarts multi-million dollar exploit, restores user balances\n\n<p>Blockaid estimates the attacker stole roughly 13.71 billion SWEAT, about 65% of the total supply, worth about $3.5 million at the time.</p>\n\n<p>Blockaid estimates the attacker stole roughly 13.71 billion SWEAT, about 65%",
+      "impact": {}
+    },
+    {
+      "event_id": "987123fc-bbde-4864-b0fb-ff8fb039e8a7",
+      "source": "rss:decrypt",
+      "title": "Labor Department Launches AI Apprenticeship Portal as Trump Admin Continues AI Policy Push",
+      "url": "https://decrypt.co/366097/labor-department-ai-apprenticeship-portal",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-29T21:22:39+00:00",
+      "raw_text": "Labor Department Launches AI Apprenticeship Portal as Trump Admin Continues AI Policy Push\n\nThe Labor Department unveils an online hub to help workers and employers build AI skills amid a quickly changing jobs market.",
+      "impact": {}
+    },
     {
       "event_id": "04243ccf-6c09-4f9a-bd5f-fe1dcf05dcac",
       "source": "rss:coindesk",
@@ -11,6 +71,18 @@
       "tokens": [],
       "timestamp_utc": "2026-04-29T21:07:33+00:00",
       "raw_text": "Big Tech's multi-billion dollar AI bets are still on track as Mag 7 giants report earnings",
+      "impact": {}
+    },
+    {
+      "event_id": "f2d9aad5-43ba-45b8-9784-06bbc5fd432b",
+      "source": "rss:cointelegraph",
+      "title": "RealOpen and TRON verify $9.4M in USDT for crypto-enabled real estate purchases",
+      "url": "https://cointelegraph.com/press-releases/realopen-and-tron-verify-94m-in-usdt-for-crypto-enabled-real-estate-purchases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-29T21:02:38+00:00",
+      "raw_text": "RealOpen and TRON verify $9.4M in USDT for crypto-enabled real estate purchases\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"RealOpen and TRON verify $9.4M in USDT for crypto-enabled real estate purchases\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/im",
       "impact": {}
     },
     {
@@ -56,10 +128,16 @@
       "url": "https://bitcoinmagazine.com/news/eric-trump-john-koudounis-bitcoin-asset",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-04-29T20:28:14+00:00",
       "raw_text": "Eric Trump, John Koudounis Call Bitcoin a Global Reserve Asset, Float $1M Price Target\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Bitcoin-scaled.jpg\" style=\"display: block; margin: 1em auto;\" />",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2583,
+        "t_plus_15m": -0.1332,
+        "t_plus_1h": -0.0263
+      }
     },
     {
       "event_id": "d32673d5-c9a7-428e-9cf4-e870ea080936",
@@ -116,10 +194,19 @@
       "url": "https://cointelegraph.com/markets/price-predictions-429-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC",
+        "ETH",
+        "XRP",
+        "BNB"
+      ],
       "timestamp_utc": "2026-04-29T19:39:32+00:00",
       "raw_text": "Price predictions 4/29: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, XMR\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 4/29: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, XMR \" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.5299,
+        "t_plus_15m": -0.4679,
+        "t_plus_1h": -0.1343
+      }
     },
     {
       "event_id": "8cbf16ad-ac7e-4ac6-9bab-82069213c468",
@@ -6414,117 +6501,38 @@
       "timestamp_utc": "2026-04-23T22:48:28+00:00",
       "raw_text": "US Soldier Charged for Alleged $400K Polymarket Insider Trading on Maduro Removal\n\nFederal prosecutors say an Army soldier made over $400K betting on Venezuela-related outcomes on Polymarket using classified intelligence.",
       "impact": {}
-    },
-    {
-      "event_id": "16c93f6a-7258-4aa5-8b64-832ad6c948f3",
-      "source": "rss:theblock",
-      "title": "DOJ arrests US soldier accused of using secret intel to make Polymarket bet on Nicolás Maduro’s capture",
-      "url": "https://www.theblock.co/post/398725/doj-arrests-us-soldier-polymarket-maduros?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-23T22:44:58+00:00",
-      "raw_text": "DOJ arrests US soldier accused of using secret intel to make Polymarket bet on Nicolás Maduro’s capture\n\n<p>The DOJ arrested a U.S. Army soldier accused of using confidential information to place bets on the prediction market Polymarket.</p>\n\n<p>The DOJ arrested a U.S. Army soldier accused of using ",
-      "impact": {}
-    },
-    {
-      "event_id": "e29f4e6e-8431-48f4-a4b9-98eab15f3994",
-      "source": "rss:theblock",
-      "title": "DOJ arrests US solider accused of using secret intel to make Polymarket bet on Nicolás Maduro’s capture",
-      "url": "https://www.theblock.co/post/398725/doj-arrests-us-solider-accused-secret-intel-polymarket-bet-nicolas-maduros-capture?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-23T22:44:58+00:00",
-      "raw_text": "DOJ arrests US solider accused of using secret intel to make Polymarket bet on Nicolás Maduro’s capture\n\n<p>The DOJ arrested a U.S. Army soldier accused of using confidential information to place bets on the prediction market Polymarket.</p>\n\n<p>The DOJ arrested a U.S. Army soldier accused of using ",
-      "impact": {}
-    },
-    {
-      "event_id": "9a992dff-ca92-461e-9148-b3d168b41446",
-      "source": "rss:coindesk",
-      "title": "U.S. arrests Army green beret for $400,000 Polymarket bets on Venezuela raid he was in",
-      "url": "https://www.coindesk.com/policy/2026/04/23/u-s-arrests-soldier-for-polymarket-bets-on-nicolas-maduro-raid-he-participated-in",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-23T22:11:37+00:00",
-      "raw_text": "U.S. arrests Army green beret for $400,000 Polymarket bets on Venezuela raid he was in",
-      "impact": {}
-    },
-    {
-      "event_id": "91f5791e-1a00-4420-b913-647768e7c5f7",
-      "source": "rss:cointelegraph",
-      "title": "Crypto-aligned Fellowship PAC bets big on Texas Senate race",
-      "url": "https://cointelegraph.com/news/fellowship-pac-crypto-texas-senate-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-23T21:46:33+00:00",
-      "raw_text": "Crypto-aligned Fellowship PAC bets big on Texas Senate race\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto-aligned Fellowship PAC bets big on Texas Senate race\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXB",
-      "impact": {}
-    },
-    {
-      "event_id": "216b36ef-596c-44a6-b064-7c283d97ef63",
-      "source": "rss:decrypt",
-      "title": "Anthropic Beats OpenAI on Secondary Markets With $1 Trillion Implied Valuation",
-      "url": "https://decrypt.co/365384/anthropic-1-trillion-valuation-secondary-markets-openai",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-23T21:38:28+00:00",
-      "raw_text": "Anthropic Beats OpenAI on Secondary Markets With $1 Trillion Implied Valuation\n\nOn Forge Global, Anthropic shares are hovering around $1 trillion while OpenAI trades at $880 billion — a reversal nobody saw coming three months ago.",
-      "impact": {}
-    },
-    {
-      "event_id": "d6e56694-a20a-4d7d-97d0-abd7357460e2",
-      "source": "rss:cointelegraph",
-      "title": "Spot ETH ETF inflows hit 10-day streak: Will Ether rally to $3K next?",
-      "url": "https://cointelegraph.com/markets/spot-eth-etf-inflows-hit-10-day-streak-will-ether-rally-to-3k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-04-23T21:25:30+00:00",
-      "raw_text": "Spot ETH ETF inflows hit 10-day streak: Will Ether rally to $3K next?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Spot ETH ETF inflows hit 10-day streak: Will Ether rally to $3K next?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
-      "impact": {
-        "t_plus_5m": -0.3323,
-        "t_plus_15m": -0.1522,
-        "t_plus_1h": 0.1834,
-        "t_plus_4h": -0.3692
-      }
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 183,
+        "count": 185,
         "avg_1h": 0.01,
         "avg_24h": 0.11,
         "win_rate_1h_gt5pct": 0.0
       },
+      "unknown": {
+        "count": 167,
+        "avg_1h": 0.14,
+        "avg_24h": -0.47,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 100,
-        "avg_1h": 0.08,
+        "count": 97,
+        "avg_1h": 0.07,
         "avg_24h": -0.91,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 167,
-        "avg_1h": 0.15,
-        "avg_24h": -0.47,
+      "hack": {
+        "count": 38,
+        "avg_1h": 0.17,
+        "avg_24h": -0.8,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
         "count": 7,
         "avg_1h": 0.81,
         "avg_24h": -0.89,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 37,
-        "avg_1h": 0.17,
-        "avg_24h": -0.8,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
