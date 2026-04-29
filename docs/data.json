@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-04-29T04:00:14.648894+00:00",
+  "generated_at": "2026-04-29T06:34:29.399581+00:00",
   "events": [
+    {
+      "event_id": "459864ef-084e-4d71-800d-50bb98b178b4",
+      "source": "rss:coindesk",
+      "title": "Bitcoin rises to $77,000 ahead of Fed decision as Trump preps for lengthy Hormuz block",
+      "url": "https://www.coindesk.com/markets/2026/04/29/bitcoin-rises-to-usd77-000-ahead-of-fed-decision-as-trump-preps-for-lengthy-hormuz-block",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-29T04:27:13+00:00",
+      "raw_text": "Bitcoin rises to $77,000 ahead of Fed decision as Trump preps for lengthy Hormuz block",
+      "impact": {}
+    },
+    {
+      "event_id": "ad2301f2-7d70-4cea-9186-e59ffdf11d2b",
+      "source": "rss:cointelegraph",
+      "title": "Robinhood dips as Q1 earnings miss and crypto revenue, volume fall nearly 50%",
+      "url": "https://cointelegraph.com/news/robinhoods-prediction-market-drives-q1-revenue-as-crypto-takes-a-back-seat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-29T04:22:36+00:00",
+      "raw_text": "Robinhood dips as Q1 earnings miss and crypto revenue, volume fall nearly 50%\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Robinhood dips as Q1 earnings miss and crypto revenue, volume fall nearly 50%\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
+      "impact": {}
+    },
+    {
+      "event_id": "9348e0ff-c08a-463b-9125-e7bd054e1830",
+      "source": "rss:theblock",
+      "title": "Canada moves to ban crypto ATMs, labeling them as ‘primary method’ for fraud",
+      "url": "https://www.theblock.co/post/399294/canada-crypto-atm-ban?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-29T04:20:43+00:00",
+      "raw_text": "Canada moves to ban crypto ATMs, labeling them as ‘primary method’ for fraud\n\n<p>The government said it aims to shut down a 'primary method' used by scammers to defraud victims and facilitate money laundering.</p>\n\n<p>The government said it aims to shut down a 'primary method' used by scammers to de",
+      "impact": {}
+    },
+    {
+      "event_id": "24234951-1ed2-480e-84fa-786e90e90168",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin’s recent rally is largely fueled by Strategy purchases: Bitwise's Hougan",
+      "url": "https://cointelegraph.com/news/recent-btc-rally-fueled-by-strategy-btc-purchases-bitwise-cio-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "whale_move",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-29T04:01:52+00:00",
+      "raw_text": "Bitcoin’s recent rally is largely fueled by Strategy purchases: Bitwise's Hougan\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin’s recent rally is largely fueled by Strategy purchases: Bitwise's Hougan\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/",
+      "impact": {}
+    },
+    {
+      "event_id": "8355e594-fe92-42da-83f1-c476bdd2a53e",
+      "source": "rss:coindesk",
+      "title": "Institutional money is coming for bitcoin, but Adam Back says it moves slower than you think",
+      "url": "https://www.coindesk.com/business/2026/04/29/institutional-money-is-coming-for-bitcoin-but-adam-back-says-it-moves-slower-than-you-think",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-29T04:00:00+00:00",
+      "raw_text": "Institutional money is coming for bitcoin, but Adam Back says it moves slower than you think",
+      "impact": {}
+    },
+    {
+      "event_id": "4855e29e-69e6-4d9d-ad2c-ec9d5b704ce6",
+      "source": "rss:theblock",
+      "title": "Pump.fun burns $370 million in PUMP token, commits 50% of future revenue for buyback-burn program",
+      "url": "https://www.theblock.co/post/399288/pump-fun-burns-370-million-pump?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-29T02:25:14+00:00",
+      "raw_text": "Pump.fun burns $370 million in PUMP token, commits 50% of future revenue for buyback-burn program\n\n<p>The remaining 50% will be used to make 'big bets' to grow the platform in the coming five to 10 years, co-founder Alon Cohen said.</p>\n\n<p>The remaining 50% will be used to make 'big bets' to grow t",
+      "impact": {}
+    },
     {
       "event_id": "cfa74c63-983b-474b-84b4-560986e17d17",
       "source": "rss:bitcoinmagazine",
@@ -14,16 +86,34 @@
       "impact": {}
     },
     {
+      "event_id": "bb705561-fcb2-4c78-9ef6-0ab8eb3688a4",
+      "source": "rss:cointelegraph",
+      "title": "Judge rejects new trial for former FTX CEO Sam Bankman-Fried",
+      "url": "https://cointelegraph.com/news/judge-denies-new-trial-sam-bankman-fried?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-29T00:41:01+00:00",
+      "raw_text": "Judge rejects new trial for former FTX CEO Sam Bankman-Fried\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Judge rejects new trial for former FTX CEO Sam Bankman-Fried\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10c",
+      "impact": {}
+    },
+    {
       "event_id": "6318763b-b63e-487e-8e1f-c0b05700ea85",
       "source": "rss:bitcoinmagazine",
       "title": "‘This Time Is Different’: A First of Its Kind Documentary Covering Bitcoin’s Four Year Cycle, David Bailey, And Nakamoto in Production",
       "url": "https://bitcoinmagazine.com/news/this-time-is-different-bitcoin-documentary",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-04-29T00:09:08+00:00",
       "raw_text": "‘This Time Is Different’: A First of Its Kind Documentary Covering Bitcoin’s Four Year Cycle, David Bailey, And Nakamoto in Production\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/TTID-Thumbnail-C",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1148,
+        "t_plus_15m": 0.0887,
+        "t_plus_1h": 0.1737
+      }
     },
     {
       "event_id": "83682c73-4f1d-4154-901d-3353433a51d6",
@@ -51,7 +141,9 @@
       "raw_text": "Strategy’s (MSTR) Michael Saylor Says STRC is ‘Going Viral’ After $8.5 Billion Run‑Up\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Strategys-MSTR-Michael-Saylor-Says-STRC-is-Going-Viral-After-8.5-",
       "impact": {
         "t_plus_5m": 0.0114,
-        "t_plus_15m": 0.0756
+        "t_plus_15m": 0.0756,
+        "t_plus_1h": 0.0818,
+        "t_plus_4h": 0.7316
       }
     },
     {
@@ -105,7 +197,8 @@
       "impact": {
         "t_plus_5m": -0.0577,
         "t_plus_15m": 0.0578,
-        "t_plus_1h": -0.0744
+        "t_plus_1h": -0.0744,
+        "t_plus_4h": 0.2437
       }
     },
     {
@@ -171,7 +264,8 @@
       "impact": {
         "t_plus_5m": 0.3199,
         "t_plus_15m": 0.2595,
-        "t_plus_1h": -0.1081
+        "t_plus_1h": -0.1081,
+        "t_plus_4h": -0.0191
       }
     },
     {
@@ -6447,98 +6541,20 @@
       "timestamp_utc": "2026-04-22T20:33:09+00:00",
       "raw_text": "AngelList's USVC Gives Investors Exposure to OpenAI, Anthropic and xAI—Starting at $500\n\nAngelList's new USVC fund allows non-accredited retail investors to gain exposure to major private firms like Anthropic and OpenAI.",
       "impact": {}
-    },
-    {
-      "event_id": "21188221-7526-4dec-a8e7-45b70a80a387",
-      "source": "rss:cointelegraph",
-      "title": "Banking group asks for more time to comment on US stablecoin bill",
-      "url": "https://cointelegraph.com/news/banking-groups-ask-for-more-time-to-comment-on-genius-act-potentially-delaying-implementation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T20:32:17+00:00",
-      "raw_text": "Banking group asks for more time to comment on US stablecoin bill\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Banking group asks for more time to comment on US stablecoin bill\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2l",
-      "impact": {}
-    },
-    {
-      "event_id": "e5696744-ebf5-45e8-9a97-618a3badd040",
-      "source": "rss:cointelegraph",
-      "title": "Trump-linked American Bitcoin energizes 11,298 new ASICs",
-      "url": "https://cointelegraph.com/news/trump-american-bitcoin-energizes-11-298-asics?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T20:17:47+00:00",
-      "raw_text": "Trump-linked American Bitcoin energizes 11,298 new ASICs\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump-linked American Bitcoin energizes 11,298 new ASICs\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvb",
-      "impact": {}
-    },
-    {
-      "event_id": "93366d83-1c9a-4295-a460-1e37afdf272c",
-      "source": "rss:theblock",
-      "title": "New York Governor Hochul targets prediction markets amid growing concerns of insider betting",
-      "url": "https://www.theblock.co/post/398520/new-york-governor-hochul-targets-prediction-markets-concerns-insider-betting?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T20:14:19+00:00",
-      "raw_text": "New York Governor Hochul targets prediction markets amid growing concerns of insider betting\n\n<p>New York Governor Kathy Hochul signed an executive order banning state employees from using insider information to bet on prediction markets.</p>\n\n<p>New York Governor Kathy Hochul signed an executive or",
-      "impact": {}
-    },
-    {
-      "event_id": "0b986646-72ad-4ca0-bd3a-d68af08b8b14",
-      "source": "rss:decrypt",
-      "title": "New York, Illinois Ban Government Employees From Insider Trading on Prediction Markets",
-      "url": "https://decrypt.co/365158/new-york-illinois-ban-employees-insider-trading-prediction-markets",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T20:06:26+00:00",
-      "raw_text": "New York, Illinois Ban Government Employees From Insider Trading on Prediction Markets\n\nThe states banned government employees from trading on insider information—a growing concern as prediction markets related to politics surge in popularity.",
-      "impact": {}
-    },
-    {
-      "event_id": "94781097-1674-433f-910b-301fe9eda057",
-      "source": "rss:bitcoinmagazine",
-      "title": "FBI Director Kash Patel To Speak at Bitcoin 2026 Conference About “Ending the War on Bitcoin”",
-      "url": "https://bitcoinmagazine.com/conference/fbi-director-kash-patel-to-speak-at-bitcoin-2026-conference-about-ending-the-war-on-bitcoin",
-      "event_type": "whale_move",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T19:55:45+00:00",
-      "raw_text": "FBI Director Kash Patel To Speak at Bitcoin 2026 Conference About “Ending the War on Bitcoin”\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/NAKAMOTO_Day3_1230_How_Real_is_the_Quantum_Threat_1x1-3.j",
-      "impact": {}
-    },
-    {
-      "event_id": "5b7ae5e3-ac45-4600-8856-dbec80d63740",
-      "source": "rss:bitcoinmagazine",
-      "title": "The U.S. Military Is Running a Bitcoin Node, Admiral Paparo Reveals",
-      "url": "https://bitcoinmagazine.com/news/the-us-military-is-running-a-bitcoin-node",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T19:52:18+00:00",
-      "raw_text": "The U.S. Military Is Running a Bitcoin Node, Admiral Paparo Reveals\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/The-U.S.-Military-Is-Running-a-Bitcoin-Node-Admiral-Paparo-Reveals.jpg\" style=\"disp",
-      "impact": {}
-    },
-    {
-      "event_id": "51f014f7-34e7-4873-a676-bb098cf0ba9a",
-      "source": "rss:decrypt",
-      "title": "Pope’s Anti-AI Warnings May Be AI-Written, Detection Tool Claims",
-      "url": "https://decrypt.co/365151/pope-anti-ai-warnings-ai-written-detection-tool",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-22T19:33:36+00:00",
-      "raw_text": "Pope’s Anti-AI Warnings May Be AI-Written, Detection Tool Claims\n\nAI Detector Developer Pangram Labs’ browser extension tagged several posts from the Pope’s X account.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "macro": {
-        "count": 86,
-        "avg_1h": 0.06,
+        "count": 87,
+        "avg_1h": 0.07,
         "avg_24h": -0.54,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 171,
+        "avg_1h": 0.11,
+        "avg_24h": -0.65,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
@@ -6547,10 +6563,10 @@
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 172,
-        "avg_1h": 0.11,
-        "avg_24h": -0.65,
+      "whale_move": {
+        "count": 5,
+        "avg_1h": -0.04,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
@@ -6563,12 +6579,6 @@
         "count": 8,
         "avg_1h": -0.1,
         "avg_24h": -0.89,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "whale_move": {
-        "count": 5,
-        "avg_1h": -0.04,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       }
     }
