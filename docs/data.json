@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-04-30T22:07:24.973400+00:00",
+  "generated_at": "2026-04-30T23:08:04.208779+00:00",
   "events": [
+    {
+      "event_id": "c9380b3f-9ac6-4a55-ab2c-12ea5ed41576",
+      "source": "rss:coindesk",
+      "title": "U.S. senators won't be weighing in on prediction markets bets after banning themselves",
+      "url": "https://www.coindesk.com/policy/2026/04/30/u-s-senators-won-t-be-weighing-in-on-prediction-markets-bets-after-banning-themselves",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-30T22:13:13+00:00",
+      "raw_text": "U.S. senators won't be weighing in on prediction markets bets after banning themselves",
+      "impact": {}
+    },
     {
       "event_id": "f666e8a7-e236-46b1-b2ed-cebfd61ad80d",
       "source": "rss:decrypt",
@@ -44,10 +56,16 @@
       "url": "https://www.theblock.co/post/399681/arbitrum-dao-starts-vote-to-release-30766-frozen-eth-to-defi-united-following-kelp-dao-attack?utm_source=rss&utm_medium=rss",
       "event_type": "hack",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-04-30T20:58:46+00:00",
       "raw_text": "Arbitrum DAO starts vote to release 30,766 frozen ETH to DeFi United, following Kelp DAO attack\n\n<p>The Arbitrum Security Council froze 30,766 ETH that the Kelp DAO attacker had moved to an Arbitrum One address.</p>\n\n<p>The Arbitrum Security Council froze 30,766 ETH that the Kelp DAO attacker had mo",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.358,
+        "t_plus_15m": 0.3071,
+        "t_plus_1h": -0.0127
+      }
     },
     {
       "event_id": "f7fc292b-a71a-4339-a6fb-124cede98f78",
@@ -310,7 +328,8 @@
       "impact": {
         "t_plus_5m": 0.0987,
         "t_plus_15m": 0.141,
-        "t_plus_1h": -0.1466
+        "t_plus_1h": -0.1466,
+        "t_plus_4h": 0.3663
       }
     },
     {
@@ -6430,22 +6449,16 @@
       "timestamp_utc": "2026-04-25T17:00:00+00:00",
       "raw_text": "How Anthropic’s Mythos model is forcing the crypto industry to rethink everything about security",
       "impact": {}
-    },
-    {
-      "event_id": "cb130a0e-d843-444b-92eb-fd73e68fa9fe",
-      "source": "rss:decrypt",
-      "title": "Bitcoin Hit Its Highest Price Since January—Why VanEck Analysts See More Potential Gains",
-      "url": "https://decrypt.co/365556/bitcoin-highest-price-january-why-vaneck-analysts-more-gains",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-25T16:31:33+00:00",
-      "raw_text": "Bitcoin Hit Its Highest Price Since January—Why VanEck Analysts See More Potential Gains\n\nBitcoin hash rate recovery and negative funding rates signal potential gains ahead, according to the ETF provider's latest network analysis.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 164,
+        "avg_1h": 0.15,
+        "avg_24h": -0.51,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 186,
         "avg_1h": 0.04,
@@ -6454,20 +6467,14 @@
       },
       "hack": {
         "count": 41,
-        "avg_1h": 0.37,
+        "avg_1h": 0.3,
         "avg_24h": -1.59,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 96,
+        "count": 95,
         "avg_1h": 0.15,
         "avg_24h": -0.65,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 163,
-        "avg_1h": 0.15,
-        "avg_24h": -0.51,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
