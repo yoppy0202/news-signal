@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-04-30T06:38:29.658513+00:00",
+  "generated_at": "2026-04-30T09:23:45.647428+00:00",
   "events": [
+    {
+      "event_id": "b08bef03-ac6a-487f-baf8-0d9a2dd2f007",
+      "source": "rss:coindesk",
+      "title": "Ouch. The U.S. 30-year Treasury yield just hit 5% and bitcoin may pay the price",
+      "url": "https://www.coindesk.com/markets/2026/04/30/ouch-the-u-s-30-year-treasury-yield-just-hit-5-and-bitcoin-may-pay-the-price",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-30T06:31:57+00:00",
+      "raw_text": "Ouch. The U.S. 30-year Treasury yield just hit 5% and bitcoin may pay the price",
+      "impact": {}
+    },
+    {
+      "event_id": "d040bf4e-41fc-4745-99d8-7fe56b0f5517",
+      "source": "rss:theblock",
+      "title": "South Korea’s Shinhan Card to test real-world stablecoin payments on Solana",
+      "url": "https://www.theblock.co/post/399519/shinhan-card-stablecoin-solana?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-04-30T06:10:05+00:00",
+      "raw_text": "South Korea’s Shinhan Card to test real-world stablecoin payments on Solana\n\n<p>Shinhan Card has partnered with the Solana Foundation for a proof-of-concept project testing a real-world payment system using stablecoins.</p>\n\n<p>Shinhan Card has partnered with the Solana Foundation for a proof-of-con",
+      "impact": {}
+    },
+    {
+      "event_id": "9a0dde4d-fc65-486e-9dde-caad9ec52b66",
+      "source": "rss:coindesk",
+      "title": "Bitcoin slides toward $75,000, ETH, SOL, XRP drop as oil hits four-year high",
+      "url": "https://www.coindesk.com/markets/2026/04/30/bitcoin-slides-toward-usd75-000-eth-sol-xrp-drop-as-oil-hits-four-year-high",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-30T06:02:31+00:00",
+      "raw_text": "Bitcoin slides toward $75,000, ETH, SOL, XRP drop as oil hits four-year high",
+      "impact": {}
+    },
+    {
+      "event_id": "32793867-abfc-4d2a-8f16-4965d7613b4c",
+      "source": "rss:cointelegraph",
+      "title": "WLFI drops 14% as controversial token unlock goes to vote",
+      "url": "https://cointelegraph.com/news/wlfi-token-tanks-10-as-voting-begins-on-controversial-token-lock-up-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-30T05:56:28+00:00",
+      "raw_text": "WLFI drops 14% as controversial token unlock goes to vote\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"WLFI drops 14% as controversial token unlock goes to vote\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3J",
+      "impact": {}
+    },
+    {
+      "event_id": "8beb99d1-4bc6-4524-b1d3-c709b351532f",
+      "source": "rss:cointelegraph",
+      "title": "Twenty One Capital rises on proposed merger with Strike and Elektron",
+      "url": "https://cointelegraph.com/news/twenty-one-capital-proposed-merger-strike-elektron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-30T04:58:25+00:00",
+      "raw_text": "Twenty One Capital rises on proposed merger with Strike and Elektron\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Twenty One Capital rises on proposed merger with Strike and Elektron\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wY",
+      "impact": {}
+    },
+    {
+      "event_id": "d26b5038-85b9-40b0-a089-57749b0a40a1",
+      "source": "rss:coindesk",
+      "title": "Hyperliquid’s HYPE token could be its prediction market weapon, Arthur Hayes says",
+      "url": "https://www.coindesk.com/markets/2026/04/30/hyperliquid-s-hype-token-could-be-its-prediction-market-weapon-arthur-hayes-says",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-30T04:54:23+00:00",
+      "raw_text": "Hyperliquid’s HYPE token could be its prediction market weapon, Arthur Hayes says",
+      "impact": {}
+    },
     {
       "event_id": "761b10e5-8307-451d-ad04-4c270a727534",
       "source": "rss:theblock",
@@ -44,10 +116,17 @@
       "url": "https://cointelegraph.com/markets/bitcoin-futures-signal-caution-long-to-short-ratio?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-04-30T00:22:35+00:00",
       "raw_text": "Bitcoin futures signal caution as long-to-short ratio signals positioning shift\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin futures signal caution as long-to-short ratio signals positioning shift\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/im",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.3767,
+        "t_plus_15m": 0.7992,
+        "t_plus_1h": 0.9506,
+        "t_plus_4h": 0.2401
+      }
     },
     {
       "event_id": "c919a5b1-e2b5-499b-aadc-aa5fccbfa67d",
@@ -277,6 +356,18 @@
       "tokens": [],
       "timestamp_utc": "2026-04-29T20:10:14+00:00",
       "raw_text": "Meta Launches USDC Stablecoin Creator Payouts on Solana and Polygon via Stripe\n\nFacebook and Instagram parent company Meta is now offering stablecoin payouts to content creators in certain countries.",
+      "impact": {}
+    },
+    {
+      "event_id": "52ecf9fc-e444-489e-a67f-629f69364f33",
+      "source": "rss:cointelegraph",
+      "title": "Stable Sea integrates WisdomTree tokenized Treasury fund for cash management",
+      "url": "https://cointelegraph.com/news/stable-sea-integrates-wisdomtree-tokenized-treasury-fund-for-corporate-cash-management?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-29T19:57:45+00:00",
+      "raw_text": "Stable Sea integrates WisdomTree tokenized Treasury fund for cash management\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stable Sea integrates WisdomTree tokenized Treasury fund for cash management\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/5",
       "impact": {}
     },
     {
@@ -6419,96 +6510,18 @@
         "t_plus_1h": -0.0847,
         "t_plus_4h": 0.2845
       }
-    },
-    {
-      "event_id": "d71bc5dc-121c-4e3b-b540-188518ab2cb3",
-      "source": "rss:cointelegraph",
-      "title": "White House confirms Trump to address memecoin gala on Saturday",
-      "url": "https://cointelegraph.com/news/trump-to-address-memecoin-event-after-speculation-of-no-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-24T07:17:14+00:00",
-      "raw_text": "White House confirms Trump to address memecoin gala on Saturday\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"White House confirms Trump to address memecoin gala on Saturday\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGV",
-      "impact": {}
-    },
-    {
-      "event_id": "07d3f156-ba1a-45c6-90ff-323311dcfd04",
-      "source": "rss:cointelegraph",
-      "title": "US DOJ strike force 'restrains' $701M in crypto in ongoing scam crackdown",
-      "url": "https://cointelegraph.com/news/us-scam-center-task-force-restrains-crypto-in-southeast-asia-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-24T07:15:03+00:00",
-      "raw_text": "US DOJ strike force 'restrains' $701M in crypto in ongoing scam crackdown\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US DOJ strike force 'restrains' $701M in crypto in ongoing scam crackdown\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
-      "impact": {}
-    },
-    {
-      "event_id": "603a2559-ff95-4f67-b357-f014e1d21a3e",
-      "source": "rss:coindesk",
-      "title": "Morgan Stanley is positioning itself as the reserve manager for the stablecoin industry",
-      "url": "https://www.coindesk.com/markets/2026/04/24/morgan-stanley-is-positioning-itself-as-the-reserve-manager-for-the-stablecoin-industry",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-24T06:39:39+00:00",
-      "raw_text": "Morgan Stanley is positioning itself as the reserve manager for the stablecoin industry",
-      "impact": {}
-    },
-    {
-      "event_id": "85f60fb2-981e-4f3a-9e23-ebe0034ebb8a",
-      "source": "rss:cointelegraph",
-      "title": "Morgan Stanley launches stablecoin offering through money market fund",
-      "url": "https://cointelegraph.com/news/morgan-stanley-launches-stablecoin-offering-through-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-24T06:17:07+00:00",
-      "raw_text": "Morgan Stanley launches stablecoin offering through money market fund\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Morgan Stanley launches stablecoin offering through money market fund\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
-      "impact": {}
-    },
-    {
-      "event_id": "89d1e727-4019-4d09-aa0d-4ad69805d6d0",
-      "source": "rss:coindesk",
-      "title": "Bitcoin ETFs just pulled in $2 billion in 8 days while short-term holders quietly started selling",
-      "url": "https://www.coindesk.com/markets/2026/04/24/bitcoin-etfs-just-pulled-usd2-billion-in-8-days-while-short-term-holders-quietly-started-selling",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-24T06:07:38+00:00",
-      "raw_text": "Bitcoin ETFs just pulled in $2 billion in 8 days while short-term holders quietly started selling",
-      "impact": {}
-    },
-    {
-      "event_id": "d0362bee-7590-4328-9bd3-dca248aa02dd",
-      "source": "rss:coindesk",
-      "title": "Bitcoin ETFs just pulled $2 billion in 8 days while short-term holders quietly started selling",
-      "url": "https://www.coindesk.com/markets/2026/04/24/bitcoin-etfs-just-pulled-usd2-billion-in-8-days-while-short-term-holders-quietly-started-selling",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-24T06:07:38+00:00",
-      "raw_text": "Bitcoin ETFs just pulled $2 billion in 8 days while short-term holders quietly started selling",
-      "impact": {}
-    },
-    {
-      "event_id": "54d6b2b8-387a-4344-a9e6-5bcd94442f7b",
-      "source": "rss:cointelegraph",
-      "title": "US vows to fight ‘industrial scale’ AI theft by Chinese firms",
-      "url": "https://cointelegraph.com/news/us-government-reveals-plan-counter-foreign-ai-distillation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-24T06:05:37+00:00",
-      "raw_text": "US vows to fight ‘industrial scale’ AI theft by Chinese firms\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US vows to fight ‘industrial scale’ AI theft by Chinese firms\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWd",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 167,
+        "avg_1h": 0.14,
+        "avg_24h": -0.47,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 184,
+        "count": 182,
         "avg_1h": 0.01,
         "avg_24h": 0.11,
         "win_rate_1h_gt5pct": 0.0
@@ -6526,15 +6539,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 99,
-        "avg_1h": 0.07,
+        "count": 97,
+        "avg_1h": 0.12,
         "avg_24h": -0.82,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 163,
-        "avg_1h": 0.14,
-        "avg_24h": -0.47,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
