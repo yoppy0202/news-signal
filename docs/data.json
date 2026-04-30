@@ -1,6 +1,90 @@
 {
-  "generated_at": "2026-04-30T20:17:54.508785+00:00",
+  "generated_at": "2026-04-30T22:07:24.973400+00:00",
   "events": [
+    {
+      "event_id": "f666e8a7-e236-46b1-b2ed-cebfd61ad80d",
+      "source": "rss:decrypt",
+      "title": "Mistral AI Drops New Open-Source Model. The Internet Is Not Impressed, Except for One Thing",
+      "url": "https://decrypt.co/366275/mistral-ai-open-source-model-agents-internet-not-impressed",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-30T21:31:03+00:00",
+      "raw_text": "Mistral AI Drops New Open-Source Model. The Internet Is Not Impressed, Except for One Thing\n\nMistral Medium 3.5 is the rare Western entry in the open-source top tier, but it costs multiples more than Chinese rivals that beat it on benchmarks.",
+      "impact": {}
+    },
+    {
+      "event_id": "db3f00b3-675c-48b1-91c3-4c9cb0dd0de9",
+      "source": "rss:cointelegraph",
+      "title": "Stablecoins overtake Bitcoin in Latin America crypto purchases — Bitso",
+      "url": "https://cointelegraph.com/news/stablecoins-surpass-bitcoin-latin-america-crypto-purchases-bitso-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-30T21:12:00+00:00",
+      "raw_text": "Stablecoins overtake Bitcoin in Latin America crypto purchases — Bitso\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stablecoins overtake Bitcoin in Latin America crypto purchases — Bitso\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6L",
+      "impact": {}
+    },
+    {
+      "event_id": "043c2246-6cc2-4271-850d-03f5cd8e00ea",
+      "source": "rss:theblock",
+      "title": "Crypto market structure bill nears May push as ethics disputes and Trump ties cloud path forward",
+      "url": "https://www.theblock.co/post/399680/crypto-market-structure-bill-nears-may-push-as-ethics-disputes-and-trump-ties-cloud-path-forward?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-30T21:08:33+00:00",
+      "raw_text": "Crypto market structure bill nears May push as ethics disputes and Trump ties cloud path forward\n\n<p>Crypto legislation is gaining momentum, with lawmakers eyeing a potential mid-May markup—even as key disputes remain unresolved.</p>\n\n<p>Crypto legislation is gaining momentum, with lawmakers eyeing ",
+      "impact": {}
+    },
+    {
+      "event_id": "691af02a-e6ae-4121-9f3a-0756c06c414a",
+      "source": "rss:theblock",
+      "title": "Arbitrum DAO starts vote to release 30,766 frozen ETH to DeFi United, following Kelp DAO attack",
+      "url": "https://www.theblock.co/post/399681/arbitrum-dao-starts-vote-to-release-30766-frozen-eth-to-defi-united-following-kelp-dao-attack?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-30T20:58:46+00:00",
+      "raw_text": "Arbitrum DAO starts vote to release 30,766 frozen ETH to DeFi United, following Kelp DAO attack\n\n<p>The Arbitrum Security Council froze 30,766 ETH that the Kelp DAO attacker had moved to an Arbitrum One address.</p>\n\n<p>The Arbitrum Security Council froze 30,766 ETH that the Kelp DAO attacker had mo",
+      "impact": {}
+    },
+    {
+      "event_id": "f7fc292b-a71a-4339-a6fb-124cede98f78",
+      "source": "rss:decrypt",
+      "title": "Elon Musk Says xAI Used OpenAI Models to Train Grok",
+      "url": "https://decrypt.co/366274/elon-musk-xai-used-openai-models-train-grok",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-30T20:52:43+00:00",
+      "raw_text": "Elon Musk Says xAI Used OpenAI Models to Train Grok\n\nThe admission in federal court is a rare acknowledgment of the use of distillation techniques as AI firms compete to build more capable and cheaper models.",
+      "impact": {}
+    },
+    {
+      "event_id": "a6bfee5e-b134-46f9-b118-dca6e344b71e",
+      "source": "rss:decrypt",
+      "title": "Bitcoin Crash Incoming? April Surge Was Built on Shaky Ground, Analysts Warn",
+      "url": "https://decrypt.co/366267/bitcoin-crash-incoming-april-surge-built-shaky-ground-analysts-warn",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-04-30T20:30:19+00:00",
+      "raw_text": "Bitcoin Crash Incoming? April Surge Was Built on Shaky Ground, Analysts Warn\n\nAnalysts warn that the Bitcoin rally was fueled by speculative futures trading, mirroring conditions that preceded the 2022 crypto crash.",
+      "impact": {}
+    },
+    {
+      "event_id": "1fd97511-08cc-4c3f-9f3f-23f7f9bcbe27",
+      "source": "rss:decrypt",
+      "title": "OpenAI Rolls Out Advanced Account Security for ChatGPT Users",
+      "url": "https://decrypt.co/366262/openai-advanced-account-security-chatgpt-users",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-30T19:51:43+00:00",
+      "raw_text": "OpenAI Rolls Out Advanced Account Security for ChatGPT Users\n\nOpenAI's new opt-in security feature requires passkeys, limits recovery options, and excludes chats from training.",
+      "impact": {}
+    },
     {
       "event_id": "88c15207-5386-4e8c-b0e6-3875bd43db79",
       "source": "rss:theblock",
@@ -56,10 +140,16 @@
       "url": "https://cointelegraph.com/markets/bitcoins-75k-cost-basis-cluster-emerges-as-key-support-zone-for-cycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-04-30T18:56:06+00:00",
       "raw_text": "Bitcoin’s $75K cost basis emerges as key support zone for current bull trend\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin’s $75K cost basis emerges as key support zone for current bull trend\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/5",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1058,
+        "t_plus_15m": -0.0837,
+        "t_plus_1h": -0.0112
+      }
     },
     {
       "event_id": "779bdab9-7bd5-4ea9-97dc-67a13a2f7b91",
@@ -250,7 +340,8 @@
       "impact": {
         "t_plus_5m": 0.1629,
         "t_plus_15m": 0.2119,
-        "t_plus_1h": -0.0546
+        "t_plus_1h": -0.0546,
+        "t_plus_4h": 0.1757
       }
     },
     {
@@ -991,6 +1082,18 @@
       "impact": {}
     },
     {
+      "event_id": "e9078227-65c2-4cba-909e-d7a43e2902fb",
+      "source": "rss:cointelegraph",
+      "title": "Kraken bundles crypto and tokenized stocks in pursuit of multi-asset investors",
+      "url": "https://cointelegraph.com/news/kraken-launches-bundled-crypto-and-tokenized-stock-portfolios-with-automatic-rebalancing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-04-30T07:00:00+00:00",
+      "raw_text": "Kraken bundles crypto and tokenized stocks in pursuit of multi-asset investors\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken bundles crypto and tokenized stocks in pursuit of multi-asset investors\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/imag",
+      "impact": {}
+    },
+    {
       "event_id": "1ec01e9f-ff04-4a5a-b2ec-cabd43bb16d1",
       "source": "rss:cointelegraph",
       "title": "MARA accelerates mining-to-AI pivot with $1.5B Ohio power plant deal",
@@ -1427,7 +1530,8 @@
         "BTC",
         "ETH",
         "XRP",
-        "BNB"
+        "BNB",
+        "SOL"
       ],
       "timestamp_utc": "2026-04-29T19:39:32+00:00",
       "raw_text": "Price predictions 4/29: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, XMR\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 4/29: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, XMR \" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_",
@@ -1435,7 +1539,8 @@
         "t_plus_5m": -0.5299,
         "t_plus_15m": -0.4679,
         "t_plus_1h": -0.1343,
-        "t_plus_4h": -0.0541
+        "t_plus_4h": -0.0541,
+        "t_plus_24h": 0.8639
       }
     },
     {
@@ -6337,136 +6442,32 @@
       "timestamp_utc": "2026-04-25T16:31:33+00:00",
       "raw_text": "Bitcoin Hit Its Highest Price Since January—Why VanEck Analysts See More Potential Gains\n\nBitcoin hash rate recovery and negative funding rates signal potential gains ahead, according to the ETF provider's latest network analysis.",
       "impact": {}
-    },
-    {
-      "event_id": "715b2492-e7b3-4183-8e04-de584f622a30",
-      "source": "rss:coindesk",
-      "title": "Bitcoin falls after Trump reportedly canceled Steve Witkoff and Jared Kushner's Iran-talks trip",
-      "url": "https://www.coindesk.com/markets/2026/04/25/bitcoin-falls-after-trump-reportedly-canceled-steve-witkoff-and-jared-kushner-s-iran-talks-trip",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-25T16:20:02+00:00",
-      "raw_text": "Bitcoin falls after Trump reportedly canceled Steve Witkoff and Jared Kushner's Iran-talks trip",
-      "impact": {}
-    },
-    {
-      "event_id": "0852cc89-bcde-4f76-b062-6d995f88365d",
-      "source": "rss:coindesk",
-      "title": "Mike Tyson, Tether CEO, Cathie Wood among speakers at Trump's 'most exclusive' crypto conference",
-      "url": "https://www.coindesk.com/policy/2026/04/25/mike-tyson-tether-ceo-cathie-wood-among-speakers-at-trump-s-most-exclusive-crypto-conference",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-25T15:24:31+00:00",
-      "raw_text": "Mike Tyson, Tether CEO, Cathie Wood among speakers at Trump's 'most exclusive' crypto conference",
-      "impact": {}
-    },
-    {
-      "event_id": "76be69c4-8493-4e05-b89a-f1080f39f48d",
-      "source": "rss:coindesk",
-      "title": "Bitcoin at $40,000 would be 'near-unprecedented' statistical outcome, analyst says",
-      "url": "https://www.coindesk.com/markets/2026/04/25/bitcoin-at-usd40-000-would-be-near-unprecedented-statistical-outcome-analyst-says",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-25T15:00:00+00:00",
-      "raw_text": "Bitcoin at $40,000 would be 'near-unprecedented' statistical outcome, analyst says",
-      "impact": {}
-    },
-    {
-      "event_id": "6e8aa563-8ec7-4703-a6d7-f9e9c5b610cd",
-      "source": "rss:theblock",
-      "title": "Aave, Kelp, LayerZero ask Arbitrum DAO to release $71 million in frozen ETH to rsETH recovery effort",
-      "url": "https://www.theblock.co/post/398882/aave-kelp-layerzero-ask-arbitrum-dao-to-release-71-million-in-frozen-eth-to-rseth-recovery-effort?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-04-25T14:55:28+00:00",
-      "raw_text": "Aave, Kelp, LayerZero ask Arbitrum DAO to release $71 million in frozen ETH to rsETH recovery effort\n\n<p>The standard Constitutional AIP lifecycle runs roughly 49 days from forum publication to onchain execution, a timeline some delegates say is too long.</p>\n\n<p>The standard Constitutional AIP life",
-      "impact": {
-        "t_plus_5m": -0.0027,
-        "t_plus_15m": 0.0052,
-        "t_plus_1h": -0.3389,
-        "t_plus_4h": -0.184,
-        "t_plus_24h": 1.2597
-      }
-    },
-    {
-      "event_id": "eec904f5-9cc9-4803-b6fd-0e9bdbb5efe0",
-      "source": "rss:cointelegraph",
-      "title": "CFTC sues New York over bid to apply gambling laws to prediction markets",
-      "url": "https://cointelegraph.com/news/cftc-sues-new-york-over-bid-to-apply-gambling-laws-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-25T14:03:17+00:00",
-      "raw_text": "CFTC sues New York over bid to apply gambling laws to prediction markets\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC sues New York over bid to apply gambling laws to prediction markets\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
-      "impact": {}
-    },
-    {
-      "event_id": "219fa7f0-0860-4e33-9216-829f05e3d214",
-      "source": "rss:coindesk",
-      "title": "Europe’s banks are going all in on crypto",
-      "url": "https://www.coindesk.com/opinion/2026/04/25/europe-s-banks-are-going-all-in-on-crypto",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-25T13:30:00+00:00",
-      "raw_text": "Europe’s banks are going all in on crypto",
-      "impact": {}
-    },
-    {
-      "event_id": "a7f802f3-2c24-4c21-8965-bfe574d2e0d0",
-      "source": "rss:coindesk",
-      "title": "Coinbase’s Jesse Pollak says AI agents are the next big wave for crypto payments",
-      "url": "https://www.coindesk.com/tech/2026/04/25/coinbase-s-jesse-pollak-says-ai-agents-are-the-next-big-wave-for-crypto-payments",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-25T13:00:00+00:00",
-      "raw_text": "Coinbase’s Jesse Pollak says AI agents are the next big wave for crypto payments",
-      "impact": {}
-    },
-    {
-      "event_id": "80db7bc1-7c7c-4a5a-9136-78189b73f51e",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin traders eye $73K next as weekly trend line holds price hostage",
-      "url": "https://cointelegraph.com/markets/bitcoin-traders-eye-73k-next-weekly-trend-line-holds-price-hostage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-25T12:22:17+00:00",
-      "raw_text": "Bitcoin traders eye $73K next as weekly trend line holds price hostage\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin traders eye $73K next as weekly trend line holds price hostage\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6L",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 186,
+        "avg_1h": 0.04,
+        "avg_24h": -0.55,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
-        "count": 40,
+        "count": 41,
         "avg_1h": 0.37,
         "avg_24h": -1.59,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 185,
-        "avg_1h": 0.01,
-        "avg_24h": -0.1,
+      "macro": {
+        "count": 96,
+        "avg_1h": 0.15,
+        "avg_24h": -0.65,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 166,
+        "count": 163,
         "avg_1h": 0.15,
-        "avg_24h": -0.86,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 95,
-        "avg_1h": 0.16,
-        "avg_24h": -0.65,
+        "avg_24h": -0.51,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
