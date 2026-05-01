@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T20:10:39.022614+00:00",
+  "generated_at": "2026-05-01T22:01:43.007866+00:00",
   "events": [
     {
       "event_id": "cf9ed6cb-b390-4d13-b4ba-4fc5c82431dc",
@@ -20,10 +20,16 @@
       "url": "https://cointelegraph.com/markets/xrp-sentiment-hits-2-year-high-but-why-is-price-stuck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-05-01T19:22:16+00:00",
       "raw_text": "XRP sentiment hits 2-year high, but why is price stuck?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"XRP sentiment hits 2-year high, but why is price stuck?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2F",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.3332,
+        "t_plus_15m": 0.2747,
+        "t_plus_1h": -0.0058
+      }
     },
     {
       "event_id": "9be1797b-ab80-4e4a-8b8a-fcd1bc842020",
@@ -32,10 +38,19 @@
       "url": "https://cointelegraph.com/markets/price-predictions-51-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC",
+        "ETH",
+        "XRP",
+        "BNB"
+      ],
       "timestamp_utc": "2026-05-01T19:07:51+00:00",
       "raw_text": "Price predictions 5/1: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, XMR\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 5/1: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, XMR\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1528,
+        "t_plus_15m": 0.0304,
+        "t_plus_1h": -0.0684
+      }
     },
     {
       "event_id": "595460ba-bfd3-4417-b756-47f44e0ceaf4",
@@ -892,7 +907,8 @@
         "t_plus_5m": 0.358,
         "t_plus_15m": 0.3071,
         "t_plus_1h": -0.0127,
-        "t_plus_4h": 0.1295
+        "t_plus_4h": 0.1295,
+        "t_plus_24h": 1.2273
       }
     },
     {
@@ -6463,13 +6479,13 @@
     "by_event_type": {
       "macro": {
         "count": 98,
-        "avg_1h": 0.12,
+        "avg_1h": 0.11,
         "avg_24h": -0.12,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
         "count": 164,
-        "avg_1h": 0.12,
+        "avg_1h": 0.11,
         "avg_24h": -0.51,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6482,7 +6498,7 @@
       "hack": {
         "count": 32,
         "avg_1h": 0.16,
-        "avg_24h": null,
+        "avg_24h": 1.23,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
