@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-05-01T13:50:47.945844+00:00",
+  "generated_at": "2026-05-01T15:12:15.548440+00:00",
   "events": [
+    {
+      "event_id": "4c552f7e-1857-46d7-a86f-b0e051325ec8",
+      "source": "rss:coindesk",
+      "title": "Institutional demand to drive bitcoin market cap to $16 trillion by 2030: Ark Invest",
+      "url": "https://www.coindesk.com/markets/2026/05/01/institutional-demand-to-drive-bitcoin-market-cap-to-usd16-trillion-by-2030-ark-invest",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-01T13:31:53+00:00",
+      "raw_text": "Institutional demand to drive bitcoin market cap to $16 trillion by 2030: Ark Invest",
+      "impact": {}
+    },
+    {
+      "event_id": "2b421c4e-e066-43ca-a893-2d4032d8fdf6",
+      "source": "rss:decrypt",
+      "title": "Senators Warren, Wyden Quiz Commerce Secretary Lutnick Over Tether Loan to Children’s Trust",
+      "url": "https://decrypt.co/366312/senators-warren-wyden-quiz-commerce-secretary-lutnick-over-tether-loan-to-childrens-trust",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-01T13:31:27+00:00",
+      "raw_text": "Senators Warren, Wyden Quiz Commerce Secretary Lutnick Over Tether Loan to Children’s Trust\n\nThe probe follows reports that Dynasty Trust A, which benefits Lutnick’s children, borrowed an undisclosed sum from the stablecoin issuer.",
+      "impact": {}
+    },
+    {
+      "event_id": "90a8ed76-d4d4-4afd-b136-31e3c15c327e",
+      "source": "rss:coindesk",
+      "title": "CoinDesk 20 performance update: Bittensor (TAO) gains 5.5%, leading index higher",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/05/01/coindesk-20-performance-update-bittensor-tao-gains-5-5-leading-index-higher",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-01T13:21:26+00:00",
+      "raw_text": "CoinDesk 20 performance update: Bittensor (TAO) gains 5.5%, leading index higher",
+      "impact": {}
+    },
+    {
+      "event_id": "1a19134c-4cd5-437b-a3de-36cc328c1c8b",
+      "source": "rss:theblock",
+      "title": "Tether posts over $1 billion Q1 profit as reserve buffer reaches record $8.2 billion",
+      "url": "https://www.theblock.co/post/399722/tether-posts-over-1-billion-q1-profit-as-reserve-buffer-reaches-record-8-2-billion?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-01T12:59:47+00:00",
+      "raw_text": "Tether posts over $1 billion Q1 profit as reserve buffer reaches record $8.2 billion\n\n<p>Tether's approximate $141 billion exposure to U.S. Treasurys positions it as one of the largest holders globally.</p>\n\n<p>Tether's approximate $141 billion exposure to U.S. Treasurys positions it as one of the l",
+      "impact": {}
+    },
+    {
+      "event_id": "d694c4a5-bb56-4148-a797-73a73740d3f7",
+      "source": "rss:cointelegraph",
+      "title": "Did Dogecoin bottom first? DOGE price poised for 20% gains as whales return",
+      "url": "https://cointelegraph.com/markets/dogecoin-targets-20-gains-as-doge-whale-holdings-reach-new-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "whale_move",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-01T12:42:40+00:00",
+      "raw_text": "Did Dogecoin bottom first? DOGE price poised for 20% gains as whales return\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Did Dogecoin bottom first? DOGE price poised for 20% gains as whales return\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528",
+      "impact": {}
+    },
     {
       "event_id": "5146db75-4e18-4002-98b6-a9c240c20403",
       "source": "rss:theblock",
@@ -32,10 +92,16 @@
       "url": "https://decrypt.co/366297/bitcoin-closes-april-up-12-as-strategys-mstr-posts-first-positive-month-since-july",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-01T11:47:53+00:00",
       "raw_text": "Bitcoin Closes April Up 12% as Strategy's MSTR Posts First Positive Month Since July\n\nBitcoin rallied 12% in April as Strategy added $4.1 billion in BTC, but on-chain data suggests gains may be speculative.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.8101,
+        "t_plus_15m": -0.686,
+        "t_plus_1h": -0.0157
+      }
     },
     {
       "event_id": "033693ad-ad47-4785-a106-745b129b6af2",
@@ -6376,112 +6442,44 @@
       "timestamp_utc": "2026-04-27T05:47:29+00:00",
       "raw_text": "Bitcoin pulls back from 12-week high as Iran rally hits seller wall at $79,400",
       "impact": {}
-    },
-    {
-      "event_id": "b2fc68f0-4258-4874-ac41-6cee4707e1fe",
-      "source": "rss:cointelegraph",
-      "title": "Western Union eyes May for its stablecoin USDPT rollout",
-      "url": "https://cointelegraph.com/news/western-union-usdpt-stablecoin-may-launch-dan-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T05:24:58+00:00",
-      "raw_text": "Western Union eyes May for its stablecoin USDPT rollout\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Western Union eyes May for its stablecoin USDPT rollout\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9",
-      "impact": {}
-    },
-    {
-      "event_id": "6fc8056d-c382-49ae-8cc7-2c32216c5cd0",
-      "source": "rss:cointelegraph",
-      "title": "Aave asks Arbitrum to send 30K ETH from Kelp exploiter to ‘DeFi United’",
-      "url": "https://cointelegraph.com/news/arbitrum-dao-asked-to-unfreeze-30k-eth-tied-to-kelp-hacker-direct-them-to-defi-united?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-04-27T04:20:58+00:00",
-      "raw_text": "Aave asks Arbitrum to send 30K ETH from Kelp exploiter to ‘DeFi United’\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Aave asks Arbitrum to send 30K ETH from Kelp exploiter to ‘DeFi United’\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
-      "impact": {
-        "t_plus_5m": 2.6678,
-        "t_plus_15m": 2.5995,
-        "t_plus_1h": 0.8495,
-        "t_plus_4h": -0.4699,
-        "t_plus_24h": -1.5919
-      }
-    },
-    {
-      "event_id": "b6e67341-0028-4e5d-ab62-8d56e15b2d5a",
-      "source": "rss:theblock",
-      "title": "Western Union to launch stablecoin next month, with ‘Stable Card’ planned for global consumers",
-      "url": "https://www.theblock.co/post/398905/western-union-stablecoin-next-month?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T03:29:58+00:00",
-      "raw_text": "Western Union to launch stablecoin next month, with ‘Stable Card’ planned for global consumers\n\n<p>WU is also launching a network connecting digital wallets to its existing retail infrastructure, and a stablecoin card for payments.</p>\n\n<p>WU is also launching a network connecting digital wallets to",
-      "impact": {}
-    },
-    {
-      "event_id": "2d9398ee-c95d-4278-b1ab-d0bd8f728050",
-      "source": "rss:theblock",
-      "title": "Bitcoin climbs above $79,000, Asian equities rise amid ‘subdued’ geopolitical tensions",
-      "url": "https://www.theblock.co/post/398908/bitcoin-climbs-above-79000?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T03:12:10+00:00",
-      "raw_text": "Bitcoin climbs above $79,000, Asian equities rise amid ‘subdued’ geopolitical tensions\n\n<p>The Crypto Fear & Greed Index rose to 47, returning to the 'Neutral' zone from around 12 in 'Extreme Fear' last month.</p>\n\n<p>The Crypto Fear & Greed Index rose to 47, returning to the 'Neutral' zone from aro",
-      "impact": {}
-    },
-    {
-      "event_id": "4bd65eeb-2cab-4c64-add6-04965ce9b4e0",
-      "source": "rss:theblock",
-      "title": "Skilled Polymarket traders are a 3% minority, and everyone else funds their gains: study",
-      "url": "https://www.theblock.co/post/398902/skilled-polymarket-traders-are-a-3-minority-and-everyone-else-funds-their-gains-study?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-26T22:40:45+00:00",
-      "raw_text": "Skilled Polymarket traders are a 3% minority, and everyone else funds their gains: study\n\n<p>A working paper analyzing every Polymarket trade between 2023 and 2025, finds that about 3% of accounts generate the bulk of price discovery.</p>\n\n<p>A working paper analyzing every Polymarket trade between ",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 189,
-        "avg_1h": 0.02,
-        "avg_24h": -0.55,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 170,
+        "count": 171,
         "avg_1h": 0.11,
         "avg_24h": -0.51,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 93,
+        "count": 94,
         "avg_1h": 0.11,
         "avg_24h": -0.12,
         "win_rate_1h_gt5pct": 0.0
       },
+      "narrative": {
+        "count": 187,
+        "avg_1h": 0.01,
+        "avg_24h": -0.55,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "whale_move": {
+        "count": 5,
+        "avg_1h": 0.13,
+        "avg_24h": -2.02,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
-        "count": 35,
-        "avg_1h": 0.3,
-        "avg_24h": -1.59,
+        "count": 34,
+        "avg_1h": 0.16,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
         "count": 9,
         "avg_1h": 0.81,
         "avg_24h": -0.89,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "whale_move": {
-        "count": 4,
-        "avg_1h": 0.13,
-        "avg_24h": -2.02,
         "win_rate_1h_gt5pct": 0.0
       }
     }
