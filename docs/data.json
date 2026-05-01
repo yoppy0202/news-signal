@@ -1,6 +1,150 @@
 {
-  "generated_at": "2026-05-01T15:12:15.548440+00:00",
+  "generated_at": "2026-05-01T17:10:19.876278+00:00",
   "events": [
+    {
+      "event_id": "669b8672-3982-4d64-9e1a-93975fbed51d",
+      "source": "rss:coindesk",
+      "title": "Tether posts $1.04 billion Q1 profit, reaches $8.23 billion reserve buffer",
+      "url": "https://www.coindesk.com/business/2026/05/01/tether-posts-usd1-04-billion-q1-profit-reaches-usd8-23-billion-reserve-buffer",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-01T16:23:59+00:00",
+      "raw_text": "Tether posts $1.04 billion Q1 profit, reaches $8.23 billion reserve buffer",
+      "impact": {}
+    },
+    {
+      "event_id": "061b6c42-2ab3-4580-b050-a1960ba9f163",
+      "source": "rss:decrypt",
+      "title": "Riot Platforms Stock Pops as Bitcoin Miner Reports Data Center Revenue, Doubled AMD Deal",
+      "url": "https://decrypt.co/366347/riot-stock-pops-bitcoin-miner-data-center-revenue-doubled-amd-deal",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-01T16:10:35+00:00",
+      "raw_text": "Riot Platforms Stock Pops as Bitcoin Miner Reports Data Center Revenue, Doubled AMD Deal\n\nThe Bitcoin mining company's pivot to AI infrastructure hosting generated its first data center revenue as AMD expanded its capacity.",
+      "impact": {}
+    },
+    {
+      "event_id": "f7047c08-c613-4339-ae6a-b6ca020371fd",
+      "source": "rss:decrypt",
+      "title": "Ethereum ETFs Shed $184M Over 4-Day Negative Streak",
+      "url": "https://decrypt.co/366343/ethereum-etfs-shed-184m-over-4-day-negative-streak",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-01T15:47:39+00:00",
+      "raw_text": "Ethereum ETFs Shed $184M Over 4-Day Negative Streak\n\nOutflows from Ethereum ETFs extended to a 4-day streak as Bitcoin funds shed $490 million, even as the S&#038;P 500 hit an all-time high.",
+      "impact": {}
+    },
+    {
+      "event_id": "efeeace6-c558-4bfc-a3c2-8ae8264e8cbe",
+      "source": "rss:coindesk",
+      "title": "AI agent forms its own company, gets ready to trade crypto",
+      "url": "https://www.coindesk.com/tech/2026/05/01/ai-agent-forms-its-own-company-gets-ready-to-trade-crypto",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-01T15:37:15+00:00",
+      "raw_text": "AI agent forms its own company, gets ready to trade crypto",
+      "impact": {}
+    },
+    {
+      "event_id": "6f115dc3-df50-41bd-baf4-c29a1e67de29",
+      "source": "rss:decrypt",
+      "title": "MoonPay Launches Debit Mastercard That Lets AI Agents Pay With Stablecoins",
+      "url": "https://decrypt.co/366341/moonpay-launches-debit-mastercard-ai-agents-pay-stablecoins",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-01T15:16:44+00:00",
+      "raw_text": "MoonPay Launches Debit Mastercard That Lets AI Agents Pay With Stablecoins\n\nMoonPay’s new debit Mastercard lets autonomous AI agents spend stablecoins at any online Mastercard merchant.",
+      "impact": {}
+    },
+    {
+      "event_id": "2e8dc7d7-3a1c-4107-9ce8-1d53e0987c65",
+      "source": "rss:decrypt",
+      "title": "Tether Reports Billion-Dollar Q1 Profit Amid Crypto Slump—And Says Audit Has Begun",
+      "url": "https://decrypt.co/366324/tether-reports-billion-dollar-profit-amid-crypto-slump-audit-begun",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-01T15:03:07+00:00",
+      "raw_text": "Tether Reports Billion-Dollar Q1 Profit Amid Crypto Slump—And Says Audit Has Begun\n\nStablecoin giant Tether says it holds over $141 billion in U.S. Treasuries, a figure that has never been verified by a full audit.",
+      "impact": {}
+    },
+    {
+      "event_id": "5568f419-5a69-416b-a5a9-b4c03e3a5e01",
+      "source": "rss:coindesk",
+      "title": "Bitcoin takes another aim at $80,000 as stocks rise, oil drops on Iran optimism",
+      "url": "https://www.coindesk.com/markets/2026/05/01/bitcoin-takes-another-aim-at-usd80-000-as-stocks-rise-oil-drops-on-iran-optimism",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-01T15:01:41+00:00",
+      "raw_text": "Bitcoin takes another aim at $80,000 as stocks rise, oil drops on Iran optimism",
+      "impact": {}
+    },
+    {
+      "event_id": "67773489-919e-4d11-99d4-171e98977745",
+      "source": "rss:theblock",
+      "title": "WisdomTree’s crypto ETPs reported net inflows of $137 million in Q1",
+      "url": "https://www.theblock.co/post/399725/wisdomtrees-crypto-etps-reported-net-inflows-of-137-million-in-q1?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-01T14:35:20+00:00",
+      "raw_text": "WisdomTree’s crypto ETPs reported net inflows of $137 million in Q1\n\n<p>Cumulatively, assets under management for the firm's crypto ETPs rose to roughly $1.8 billion during Q1 of this year.</p>\n\n<p>Cumulatively, assets under management for the firm's crypto ETPs rose to roughly $1.8 billion during Q",
+      "impact": {}
+    },
+    {
+      "event_id": "c6275fb3-7837-4653-bbeb-7b7b3243cf10",
+      "source": "rss:theblock",
+      "title": "Crypto onramping solution Fun raises $72 million Series A co-led by Multicoin Capital and SignalFire",
+      "url": "https://www.theblock.co/post/399726/crypto-onramping-solution-fun-raises-72-million-series-a-co-led-by-multicoin-capital-and-signalfire?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-01T14:12:45+00:00",
+      "raw_text": "Crypto onramping solution Fun raises $72 million Series A co-led by Multicoin Capital and SignalFire\n\n<p>Fun powers deposits, withdrawals, and settlement flows for some of crypto’s leading apps, including Polymarket, Lighter, and Aave.</p>\n\n<p>Fun powers deposits, withdrawals, and settlement flows f",
+      "impact": {}
+    },
+    {
+      "event_id": "43fefd06-8a96-4310-a3a1-f756149e5d2b",
+      "source": "rss:decrypt",
+      "title": "Dogecoin Hits 2-Month High as DOGE Mining Firm Plans to Go Public via Merger",
+      "url": "https://decrypt.co/366320/dogecoin-2-month-high-doge-mining-firm-go-public",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-01T14:12:08+00:00",
+      "raw_text": "Dogecoin Hits 2-Month High as DOGE Mining Firm Plans to Go Public via Merger\n\nNasdaq-listed pharmaceutical company Shuttle pivots to crypto mining in first major institutional play for Dogecoin mining.",
+      "impact": {}
+    },
+    {
+      "event_id": "57282414-f6f1-455e-b3ab-8799ece76329",
+      "source": "rss:cointelegraph",
+      "title": "DeFi can freeze stolen funds, but not everyone agrees it should",
+      "url": "https://cointelegraph.com/features/defi-freeze-stolen-funds-everyone-agrees-it-should?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-01T14:00:00+00:00",
+      "raw_text": "DeFi can freeze stolen funds, but not everyone agrees it should\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DeFi can freeze stolen funds, but not everyone agrees it should\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx",
+      "impact": {}
+    },
+    {
+      "event_id": "d183e009-a7bb-4caa-8214-e1994a7b92f4",
+      "source": "rss:cointelegraph",
+      "title": "Crypto VC funding plunges to $659M in April, hits near two-year low",
+      "url": "https://cointelegraph.com/news/crypto-vc-funding-plunges-to-659m-in-april-to-2024-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-01T13:53:26+00:00",
+      "raw_text": "Crypto VC funding plunges to $659M in April, hits near two-year low\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto VC funding plunges to $659M in April, hits near two-year low\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXl",
+      "impact": {}
+    },
     {
       "event_id": "4c552f7e-1857-46d7-a86f-b0e051325ec8",
       "source": "rss:coindesk",
@@ -56,10 +200,16 @@
       "url": "https://cointelegraph.com/markets/dogecoin-targets-20-gains-as-doge-whale-holdings-reach-new-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "whale_move",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "DOGE"
+      ],
       "timestamp_utc": "2026-05-01T12:42:40+00:00",
       "raw_text": "Did Dogecoin bottom first? DOGE price poised for 20% gains as whales return\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Did Dogecoin bottom first? DOGE price poised for 20% gains as whales return\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.522,
+        "t_plus_15m": -0.5644,
+        "t_plus_1h": 0.1083
+      }
     },
     {
       "event_id": "5146db75-4e18-4002-98b6-a9c240c20403",
@@ -6298,188 +6448,44 @@
       "timestamp_utc": "2026-04-27T10:37:43+00:00",
       "raw_text": "Bitcoin reverses from $79,500 as oil surge triggers broader crypto selloff",
       "impact": {}
-    },
-    {
-      "event_id": "9396c2c4-518b-49b7-a8bf-4fb1b8494729",
-      "source": "rss:decrypt",
-      "title": "Western Union to Launch Solana-Based Stablecoin Plus ‘Stable Card’ Next Month",
-      "url": "https://decrypt.co/365593/western-union-to-launch-solana-based-stablecoin-plus-stable-card-next-month",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T10:02:52+00:00",
-      "raw_text": "Western Union to Launch Solana-Based Stablecoin Plus ‘Stable Card’ Next Month\n\nThe USDPT stablecoin launching next month will serve as an alternative to SWIFT for agent settlements rather than consumer transactions.",
-      "impact": {}
-    },
-    {
-      "event_id": "f8f15179-30fc-457f-a3ed-e98ffbe87d4d",
-      "source": "rss:theblock",
-      "title": "French prosecutors charge 88 individuals linked to crypto wrench attacks",
-      "url": "https://www.theblock.co/post/398939/french-charge-88-crypto-wrench-attacks?utm_source=rss&utm_medium=rss",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T09:35:59+00:00",
-      "raw_text": "French prosecutors charge 88 individuals linked to crypto wrench attacks\n\n<p>French authorities urged crypto holders to remain vigilant and avoid extensive exposure on social media that could make them targets.</p>\n\n<p>French authorities urged crypto holders to remain vigilant and avoid extensive ex",
-      "impact": {}
-    },
-    {
-      "event_id": "8875ede4-be41-4c4d-84e4-665d29cc438a",
-      "source": "rss:theblock",
-      "title": "Bitcoin leads $1.2B weekly haul for global crypto funds as institutional demand builds: CoinShares",
-      "url": "https://www.theblock.co/post/398938/bitcoin-leads-1-2b-weekly-haul-for-global-crypto-funds-as-institutional-demand-builds-coinshares?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T09:32:19+00:00",
-      "raw_text": "Bitcoin leads $1.2B weekly haul for global crypto funds as institutional demand builds: CoinShares\n\n<p>Improving institutional demand spurred by bitcoin's multi-week high pushed $1.2 billion in weekly flows to crypto funds.</p>\n\n<p>Improving institutional demand spurred by bitcoin's multi-week high ",
-      "impact": {}
-    },
-    {
-      "event_id": "bbcf20ad-9058-4446-8c19-9b4cff10eb10",
-      "source": "rss:theblock",
-      "title": "Luxor, MicroBT deepen ties with $100 million mining rig deal and planned investment",
-      "url": "https://www.theblock.co/post/398933/luxor-microbt-100-million-rig-deal?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T08:47:44+00:00",
-      "raw_text": "Luxor, MicroBT deepen ties with $100 million mining rig deal and planned investment\n\n<p>Luxor said it is committing $100 million to purchase MicroBT WhatsMiner rigs, while MicroBT has signed a term sheet to invest in Luxor.</p>\n\n<p>Luxor said it is committing $100 million to purchase MicroBT WhatsMi",
-      "impact": {}
-    },
-    {
-      "event_id": "9267e923-d103-4ba2-8e58-e165a0b8abad",
-      "source": "rss:coindesk",
-      "title": "Global interest rates, Robinhood, Galaxy earnings: Crypto Week Ahead",
-      "url": "https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T07:53:00+00:00",
-      "raw_text": "Global interest rates, Robinhood, Galaxy earnings: Crypto Week Ahead",
-      "impact": {}
-    },
-    {
-      "event_id": "43f98705-b5f4-4846-8c47-3abb85dea7dc",
-      "source": "rss:cointelegraph",
-      "title": "88 people charged over 12 crypto wrench attacks in France",
-      "url": "https://cointelegraph.com/news/88-people-charged-over-12-crypto-wrench-attacks-in-france?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T07:45:40+00:00",
-      "raw_text": "88 people charged over 12 crypto wrench attacks in France\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"88 people charged over 12 crypto wrench attacks in France\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmN",
-      "impact": {}
-    },
-    {
-      "event_id": "e68a7a63-42c4-4ac6-8bd1-2f8757c93f3b",
-      "source": "rss:cointelegraph",
-      "title": "Prediction markets reflect 'wisdom of an informed minority,’ not crowd: Study",
-      "url": "https://cointelegraph.com/news/prediction-markets-reflect-wisdom-of-an-informed-minority-not-crowd-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T07:16:11+00:00",
-      "raw_text": "Prediction markets reflect 'wisdom of an informed minority,’ not crowd: Study\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Prediction markets reflect 'wisdom of an informed minority,’ not crowd: Study\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
-      "impact": {}
-    },
-    {
-      "event_id": "2b263bcf-2b9a-4916-998d-1699975f1fd2",
-      "source": "rss:cointelegraph",
-      "title": "Ethereum backers pledge up to 30,000 ETH to rsETH recovery after bridge incident",
-      "url": "https://cointelegraph.com/news/ethereum-backers-commit-up-to-30000-eth-to-rseth-recovery-after-bridge-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T07:00:00+00:00",
-      "raw_text": "Ethereum backers pledge up to 30,000 ETH to rsETH recovery after bridge incident\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum backers pledge up to 30,000 ETH to rsETH recovery after bridge incident\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/",
-      "impact": {}
-    },
-    {
-      "event_id": "a2464bc1-188b-4f7c-a653-5872d0129c34",
-      "source": "rss:theblock",
-      "title": "Upbit partner KBank to test onchain cross-border remittances with Ripple",
-      "url": "https://www.theblock.co/post/398927/kbank-ripple-partnership?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T06:57:43+00:00",
-      "raw_text": "Upbit partner KBank to test onchain cross-border remittances with Ripple\n\n<p>KBank and Ripple have already completed the first phase of the PoC, in which they verified a wallet app-based remittance system.</p>\n\n<p>KBank and Ripple have already completed the first phase of the PoC, in which they veri",
-      "impact": {}
-    },
-    {
-      "event_id": "c7784ba0-6acc-4c9a-8f77-48db2add7443",
-      "source": "rss:coindesk",
-      "title": "A long-time developer wants to split Bitcoin blockchain and reassign Satoshi coins. The community is calling it a theft",
-      "url": "https://www.coindesk.com/tech/2026/04/27/a-long-time-developer-wants-to-fork-bitcoin-and-reassign-satoshi-coins-the-community-is-calling-it-a-theft",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T06:45:51+00:00",
-      "raw_text": "A long-time developer wants to split Bitcoin blockchain and reassign Satoshi coins. The community is calling it a theft",
-      "impact": {}
-    },
-    {
-      "event_id": "2d11e365-3cdd-4bc4-b747-c4ac84887bed",
-      "source": "rss:coindesk",
-      "title": "Pudgy Penguins, BAYC rally masks a shrinking NFT market as volumes and users fall",
-      "url": "https://www.coindesk.com/markets/2026/04/27/pudgy-penguins-bayc-rally-masks-a-shrinking-nft-market-as-volumes-and-users-fall",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T06:12:44+00:00",
-      "raw_text": "Pudgy Penguins, BAYC rally masks a shrinking NFT market as volumes and users fall",
-      "impact": {}
-    },
-    {
-      "event_id": "694509b1-554c-4d3f-94d8-ebb3a575e681",
-      "source": "rss:coindesk",
-      "title": "Bitcoin pulls back from 12-week high as Iran rally hits seller wall at $79,400",
-      "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-pulls-back-from-12-week-high-as-iran-rally-hits-seller-wall-at-usd79-400",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T05:47:29+00:00",
-      "raw_text": "Bitcoin pulls back from 12-week high as Iran rally hits seller wall at $79,400",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 171,
+        "count": 168,
         "avg_1h": 0.11,
         "avg_24h": -0.51,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 94,
-        "avg_1h": 0.11,
-        "avg_24h": -0.12,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 187,
+        "count": 189,
         "avg_1h": 0.01,
         "avg_24h": -0.55,
         "win_rate_1h_gt5pct": 0.0
       },
-      "whale_move": {
-        "count": 5,
-        "avg_1h": 0.13,
-        "avg_24h": -2.02,
+      "macro": {
+        "count": 96,
+        "avg_1h": 0.11,
+        "avg_24h": -0.12,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "listing": {
+        "count": 10,
+        "avg_1h": 0.81,
+        "avg_24h": -0.89,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 34,
+        "count": 32,
         "avg_1h": 0.16,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "listing": {
-        "count": 9,
-        "avg_1h": 0.81,
-        "avg_24h": -0.89,
+      "whale_move": {
+        "count": 5,
+        "avg_1h": 0.12,
+        "avg_24h": -2.02,
         "win_rate_1h_gt5pct": 0.0
       }
     }
