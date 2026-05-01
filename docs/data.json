@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-01T17:10:19.876278+00:00",
+  "generated_at": "2026-05-01T18:10:46.798536+00:00",
   "events": [
+    {
+      "event_id": "fa656b0f-e143-4213-bc2a-801ce356c100",
+      "source": "rss:coindesk",
+      "title": "A new narrative for bitcoin that will last",
+      "url": "https://www.coindesk.com/opinion/2026/05/01/a-new-narrative-for-bitcoin-that-will-last",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-01T17:33:00+00:00",
+      "raw_text": "A new narrative for bitcoin that will last",
+      "impact": {}
+    },
+    {
+      "event_id": "037e546b-ca6c-4e76-9345-e84a5a1bc3ee",
+      "source": "rss:decrypt",
+      "title": "Pentagon Signs AI Deals With Google, OpenAI, Nvidia, Microsoft, Amazon and SpaceX",
+      "url": "https://decrypt.co/366351/pentagon-ai-deals-google-openai-nvidia-microsoft-amazon-spacex",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-01T17:22:53+00:00",
+      "raw_text": "Pentagon Signs AI Deals With Google, OpenAI, Nvidia, Microsoft, Amazon and SpaceX\n\nThe Department of Defense's agreements will enable AI from the likes of Google and OpenAI to run on top-secret military networks.",
+      "impact": {}
+    },
+    {
+      "event_id": "b4a910e8-0339-46ef-a3c1-033f7b6c6be4",
+      "source": "rss:theblock",
+      "title": "European crypto asset manager CoinShares records $7.4 billion AUM in first annual filing since Nasdaq listing",
+      "url": "https://www.theblock.co/post/399741/european-crypto-asset-manager-coinshares-2025-earnings?utm_source=rss&utm_medium=rss",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-01T16:43:33+00:00",
+      "raw_text": "European crypto asset manager CoinShares records $7.4 billion AUM in first annual filing since Nasdaq listing\n\n<p>CoinShare saw revenue of $126.4 million on its asset management business in 2025, up 13% from the $111.7 million the year prior.</p>\n\n<p>CoinShare saw revenue of $126.4 million on its as",
+      "impact": {}
+    },
     {
       "event_id": "669b8672-3982-4d64-9e1a-93975fbed51d",
       "source": "rss:coindesk",
@@ -23,6 +59,18 @@
       "tokens": [],
       "timestamp_utc": "2026-05-01T16:10:35+00:00",
       "raw_text": "Riot Platforms Stock Pops as Bitcoin Miner Reports Data Center Revenue, Doubled AMD Deal\n\nThe Bitcoin mining company's pivot to AI infrastructure hosting generated its first data center revenue as AMD expanded its capacity.",
+      "impact": {}
+    },
+    {
+      "event_id": "0ee9f7a9-d48a-4f59-839f-4107f3d74ab8",
+      "source": "rss:cointelegraph",
+      "title": "Crypto Biz: Capital has no consensus",
+      "url": "https://cointelegraph.com/news/crypto-biz-capital-has-no-consensus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-01T16:00:30+00:00",
+      "raw_text": "Crypto Biz: Capital has no consensus\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: Capital has no consensus\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJJTIwV",
       "impact": {}
     },
     {
@@ -116,10 +164,16 @@
       "url": "https://decrypt.co/366320/dogecoin-2-month-high-doge-mining-firm-go-public",
       "event_type": "listing",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "DOGE"
+      ],
       "timestamp_utc": "2026-05-01T14:12:08+00:00",
       "raw_text": "Dogecoin Hits 2-Month High as DOGE Mining Firm Plans to Go Public via Merger\n\nNasdaq-listed pharmaceutical company Shuttle pivots to crypto mining in first major institutional play for Dogecoin mining.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.3084,
+        "t_plus_15m": -0.2595,
+        "t_plus_1h": 0.0215
+      }
     },
     {
       "event_id": "57282414-f6f1-455e-b3ab-8799ece76329",
@@ -208,7 +262,8 @@
       "impact": {
         "t_plus_5m": -0.522,
         "t_plus_15m": -0.5644,
-        "t_plus_1h": 0.1083
+        "t_plus_1h": 0.1083,
+        "t_plus_4h": -0.6312
       }
     },
     {
@@ -250,7 +305,8 @@
       "impact": {
         "t_plus_5m": -0.8101,
         "t_plus_15m": -0.686,
-        "t_plus_1h": -0.0157
+        "t_plus_1h": -0.0157,
+        "t_plus_4h": 0.7948
       }
     },
     {
@@ -443,6 +499,18 @@
       "tokens": [],
       "timestamp_utc": "2026-05-01T07:01:47+00:00",
       "raw_text": "Strategy keeps STRC dividend at 11.5% as stock logs first monthly gain in nine",
+      "impact": {}
+    },
+    {
+      "event_id": "865fce18-da87-4467-b81b-41e30901b049",
+      "source": "rss:cointelegraph",
+      "title": "MoonPay launches card enabling AI agents to spend stablecoins via Mastercard",
+      "url": "https://cointelegraph.com/news/moonpay-unveils-agent-ready-card-to-let-ai-spend-stablecoins-via-mastercard-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-01T07:00:00+00:00",
+      "raw_text": "MoonPay launches card enabling AI agents to spend stablecoins via Mastercard\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MoonPay launches card enabling AI agents to spend stablecoins via Mastercard\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/5",
       "impact": {}
     },
     {
@@ -6388,80 +6456,14 @@
       "timestamp_utc": "2026-04-27T11:14:37+00:00",
       "raw_text": "Bitcoin hits wall at $80,000, one analyst says the pullback is temporary",
       "impact": {}
-    },
-    {
-      "event_id": "b918701d-4ea7-4db3-8a02-bb41a61f19aa",
-      "source": "rss:theblock",
-      "title": "‘Better than bailouts?’: Curve founder proposes market-based bad debt recovery model for DeFi lending amid KelpDAO fallout",
-      "url": "https://www.theblock.co/post/398958/better-than-bailouts-curve-founder-proposes-market-based-bad-debt-recovery-model-for-defi-lending-amid-kelpdao-fallout?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T11:02:19+00:00",
-      "raw_text": "‘Better than bailouts?’: Curve founder proposes market-based bad debt recovery model for DeFi lending amid KelpDAO fallout\n\n<p>Curve founder Michael Egorov proposed a new way to recover bad debt in DeFi lending markets amid industry debates on the KelpDAO incident.</p>\n\n<p>Curve founder Michael Egor",
-      "impact": {}
-    },
-    {
-      "event_id": "6276786a-4087-49b3-a206-b3e46b2ede9c",
-      "source": "rss:cointelegraph",
-      "title": "Tether launches open-source mining framework to unify Bitcoin infrastructure",
-      "url": "https://cointelegraph.com/news/tether-launches-open-source-mining-framework-to-unify-bitcoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T11:00:00+00:00",
-      "raw_text": "Tether launches open-source mining framework to unify Bitcoin infrastructure\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether launches open-source mining framework to unify Bitcoin infrastructure\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/5",
-      "impact": {}
-    },
-    {
-      "event_id": "9e377662-6397-4a7f-8ea0-ca29e9a177a2",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin leads $1.2B weekly inflows into crypto investment products",
-      "url": "https://cointelegraph.com/news/crypto-funds-1-2-billion-inflows-four-week-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T10:58:36+00:00",
-      "raw_text": "Bitcoin leads $1.2B weekly inflows into crypto investment products\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin leads $1.2B weekly inflows into crypto investment products\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb",
-      "impact": {}
-    },
-    {
-      "event_id": "18619942-0092-450f-91b4-7361785b08e9",
-      "source": "rss:coindesk",
-      "title": "EU’s largest measures against Russia yet include escalation of crypto sanctions evasion",
-      "url": "https://www.coindesk.com/policy/2026/04/27/eu-s-largest-measures-against-russia-yet-include-escalation-of-crypto-sanctions-evasion",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T10:42:48+00:00",
-      "raw_text": "EU’s largest measures against Russia yet include escalation of crypto sanctions evasion",
-      "impact": {}
-    },
-    {
-      "event_id": "27c79846-ba83-4d4f-9f1f-b88ffc414047",
-      "source": "rss:coindesk",
-      "title": "Bitcoin reverses from $79,500 as oil surge triggers broader crypto selloff",
-      "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-reverses-from-usd79-500-as-oil-surge-triggers-broader-crypto-selloff",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T10:37:43+00:00",
-      "raw_text": "Bitcoin reverses from $79,500 as oil surge triggers broader crypto selloff",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 168,
+        "count": 167,
         "avg_1h": 0.11,
         "avg_24h": -0.51,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 189,
-        "avg_1h": 0.01,
-        "avg_24h": -0.55,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
@@ -6471,9 +6473,15 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
-        "count": 10,
-        "avg_1h": 0.81,
+        "count": 11,
+        "avg_1h": 0.42,
         "avg_24h": -0.89,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 189,
+        "avg_1h": 0.01,
+        "avg_24h": -0.55,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
