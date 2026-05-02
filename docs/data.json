@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-02T08:42:39.957272+00:00",
+  "generated_at": "2026-05-02T10:07:44.196660+00:00",
   "events": [
+    {
+      "event_id": "59db7ada-7615-47af-84cd-8723132988d2",
+      "source": "rss:cointelegraph",
+      "title": "Ethereum Foundation sells another 10,000 ETH to BitMine in third OTC deal",
+      "url": "https://cointelegraph.com/news/ethereum-foundation-sells-another-10000-eth-to-bitmine-in-third-otc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-02T08:03:06+00:00",
+      "raw_text": "Ethereum Foundation sells another 10,000 ETH to BitMine in third OTC deal\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum Foundation sells another 10,000 ETH to BitMine in third OTC deal\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
+      "impact": {}
+    },
     {
       "event_id": "a65a67ad-556f-436c-a763-7898a2b68dcc",
       "source": "rss:coindesk",
@@ -6452,33 +6464,14 @@
         "t_plus_1h": 0.8094,
         "t_plus_24h": -0.8866
       }
-    },
-    {
-      "event_id": "74f18577-bcad-4729-b3cc-29b1ea7352e5",
-      "source": "rss:cointelegraph",
-      "title": "Michael Saylor’s Strategy adds 3.2K Bitcoin at nearly $78K per BTC",
-      "url": "https://cointelegraph.com/news/michael-saylor-s-strategy-adds-3-2k-bitcoin-at-nearly-78k-per-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-04-27T14:05:14+00:00",
-      "raw_text": "Michael Saylor’s Strategy adds 3.2K Bitcoin at nearly $78K per BTC\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Michael Saylor’s Strategy adds 3.2K Bitcoin at nearly $78K per BTC\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb",
-      "impact": {
-        "t_plus_5m": 1.3157,
-        "t_plus_15m": 1.3723,
-        "t_plus_1h": 1.1365,
-        "t_plus_24h": -0.8171
-      }
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
         "count": 164,
-        "avg_1h": 0.06,
-        "avg_24h": -0.0,
+        "avg_1h": 0.0,
+        "avg_24h": 0.2,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
