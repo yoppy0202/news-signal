@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-02T17:59:41.234552+00:00",
+  "generated_at": "2026-05-02T19:14:57.613585+00:00",
   "events": [
+    {
+      "event_id": "b9ab939f-5666-4eda-8ae7-dd34e956b83f",
+      "source": "rss:decrypt",
+      "title": "Oscars Ban AI Performances and Screenplays From Eligibility",
+      "url": "https://decrypt.co/366405/oscars-ban-ai-performances-screenplays-eligibility",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-02T18:17:28+00:00",
+      "raw_text": "Oscars Ban AI Performances and Screenplays From Eligibility\n\nNew rules require human actors and writers for Oscar consideration.",
+      "impact": {}
+    },
     {
       "event_id": "c19fc635-b8c4-4e09-9375-30d0bd99a9aa",
       "source": "rss:coindesk",
@@ -127,6 +139,18 @@
         "t_plus_1h": -0.0554,
         "t_plus_4h": -0.1409
       }
+    },
+    {
+      "event_id": "10f4302b-e737-41dc-9fbb-e795d0578f37",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin mining stocks climb in 2026 as BTC lags behind",
+      "url": "https://cointelegraph.com/news/bitcoin-mining-stocks-climb-in-2026-as-btc-lags-behind?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-02T07:00:00+00:00",
+      "raw_text": "Bitcoin mining stocks climb in 2026 as BTC lags behind\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin mining stocks climb in 2026 as BTC lags behind\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2Fwa",
+      "impact": {}
     },
     {
       "event_id": "a65a67ad-556f-436c-a763-7898a2b68dcc",
@@ -6433,50 +6457,20 @@
       "timestamp_utc": "2026-04-27T15:49:01+00:00",
       "raw_text": "Cross-border B2B stablecoin payments to hit $5 trillion by 2035, says Juniper Research",
       "impact": {}
-    },
-    {
-      "event_id": "36c93741-fd61-4f92-86ad-099256c68c76",
-      "source": "rss:coindesk",
-      "title": "Fidelity Digital Assets says bitcoin is leading crypto market stabilization",
-      "url": "https://www.coindesk.com/markets/2026/04/27/fidelity-digital-assets-says-bitcoin-is-leading-crypto-market-stabilization",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T15:44:00+00:00",
-      "raw_text": "Fidelity Digital Assets says bitcoin is leading crypto market stabilization",
-      "impact": {}
-    },
-    {
-      "event_id": "18146337-3b01-4109-a781-2be662032773",
-      "source": "rss:theblock",
-      "title": "‘Clear runway’ to 5,000 BTC: Benchmark initiates Asian food platform DDC, sees 70% upside",
-      "url": "https://www.theblock.co/post/398994/clear-runway-5000-btc-benchmark-initiates-ddc-70-upside?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-04-27T15:39:30+00:00",
-      "raw_text": "‘Clear runway’ to 5,000 BTC: Benchmark initiates Asian food platform DDC, sees 70% upside\n\n<p>DDC is investing in an \"AI-driven operating system\" to help guide its bitcoin purchases as it aims to reach 5,000 BTC by year-end 2026.</p>\n\n<p>DDC is investing in an \"AI-driven operating system\" to help gu",
-      "impact": {
-        "t_plus_5m": 0.3287,
-        "t_plus_15m": -0.01,
-        "t_plus_1h": -0.1201
-      }
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 166,
-        "avg_1h": -0.02,
-        "avg_24h": 0.2,
+      "narrative": {
+        "count": 191,
+        "avg_1h": -0.0,
+        "avg_24h": -0.36,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 190,
-        "avg_1h": -0.01,
-        "avg_24h": -0.36,
+      "unknown": {
+        "count": 165,
+        "avg_1h": -0.02,
+        "avg_24h": 0.2,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
