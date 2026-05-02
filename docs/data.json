@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-02T11:05:12.933094+00:00",
+  "generated_at": "2026-05-02T11:55:53.602969+00:00",
   "events": [
+    {
+      "event_id": "5646ac1a-96bd-4b89-9859-dfdd0c333190",
+      "source": "rss:cointelegraph",
+      "title": "Riot posts $167M in Q1 revenue as data center arm pulls in $33M in first quarter",
+      "url": "https://cointelegraph.com/news/riot-posts-167m-in-q1-revenue-as-data-center-arm-pulls-in-33m-in-first-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-02T10:18:31+00:00",
+      "raw_text": "Riot posts $167M in Q1 revenue as data center arm pulls in $33M in first quarter\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Riot posts $167M in Q1 revenue as data center arm pulls in $33M in first quarter\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/",
+      "impact": {}
+    },
     {
       "event_id": "59db7ada-7615-47af-84cd-8723132988d2",
       "source": "rss:cointelegraph",
@@ -6452,31 +6464,12 @@
         "t_plus_15m": 1.677,
         "t_plus_1h": 0.5206
       }
-    },
-    {
-      "event_id": "45905eb1-118d-4408-af69-608b3a075d47",
-      "source": "rss:bitcoinmagazine",
-      "title": "Strive Expands Bitcoin Treasury With $61.4 Million Purchase, Holdings Reach 14,557 BTC",
-      "url": "https://bitcoinmagazine.com/news/strive-expands-bitcoin-treasury",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-04-27T14:15:03+00:00",
-      "raw_text": "Strive Expands Bitcoin Treasury With $61.4 Million Purchase, Holdings Reach 14,557 BTC\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Strive-Expands-Bitcoin-Treasury-With-61.4-Million-Purchase-Holdi",
-      "impact": {
-        "t_plus_5m": 1.3723,
-        "t_plus_15m": 1.3967,
-        "t_plus_1h": 0.8094,
-        "t_plus_24h": -0.8866
-      }
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 164,
+        "count": 165,
         "avg_1h": 0.0,
         "avg_24h": 0.2,
         "win_rate_1h_gt5pct": 0.0
@@ -6494,9 +6487,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
-        "count": 11,
-        "avg_1h": 0.42,
-        "avg_24h": -0.89,
+        "count": 10,
+        "avg_1h": 0.02,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
