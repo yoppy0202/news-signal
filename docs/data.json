@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-02T23:00:23.415483+00:00",
+  "generated_at": "2026-05-02T23:57:59.072700+00:00",
   "events": [
+    {
+      "event_id": "ba40bc77-7eb2-4583-9755-be81e65c14c2",
+      "source": "rss:cointelegraph",
+      "title": "US CISA adds ‘insane’ Linux Copy Fail flaw to watch list",
+      "url": "https://cointelegraph.com/news/linux-copy-fail-a-trivially-exploitable-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-02T23:07:05+00:00",
+      "raw_text": "US CISA adds ‘insane’ Linux Copy Fail flaw to watch list\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US CISA adds ‘insane’ Linux Copy Fail flaw to watch list\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL",
+      "impact": {}
+    },
     {
       "event_id": "d67bb16d-c80c-436e-8c52-fbef88620b73",
       "source": "rss:theblock",
@@ -6447,30 +6459,18 @@
       "timestamp_utc": "2026-04-27T16:38:29+00:00",
       "raw_text": "Curve founder pitches market-based fix for $700K bad debt in contrast to Aave bailout",
       "impact": {}
-    },
-    {
-      "event_id": "f01ba9f3-d6fc-4056-a10c-6e86ee34b80a",
-      "source": "rss:coindesk",
-      "title": "Solana developers outline plan to protect network from quantum threats",
-      "url": "https://www.coindesk.com/tech/2026/04/27/solana-developers-outline-plan-to-protect-network-from-quantum-threats",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T16:30:56+00:00",
-      "raw_text": "Solana developers outline plan to protect network from quantum threats",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 193,
+        "count": 194,
         "avg_1h": 0.0,
         "avg_24h": -0.36,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 165,
+        "count": 164,
         "avg_1h": -0.02,
         "avg_24h": 0.22,
         "win_rate_1h_gt5pct": 0.0
