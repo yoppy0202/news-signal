@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-05-02T06:19:04.384378+00:00",
+  "generated_at": "2026-05-02T08:42:39.957272+00:00",
   "events": [
+    {
+      "event_id": "a65a67ad-556f-436c-a763-7898a2b68dcc",
+      "source": "rss:coindesk",
+      "title": "Bitcoin above $78,000 as Senate clears Clarity Act yield hurdle, S&P 500 sets new record",
+      "url": "https://www.coindesk.com/markets/2026/05/02/bitcoin-above-usd78-000-as-senate-clears-clarity-act-yield-hurdle-s-and-p-500-sets-new-record",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-02T06:49:39+00:00",
+      "raw_text": "Bitcoin above $78,000 as Senate clears Clarity Act yield hurdle, S&P 500 sets new record",
+      "impact": {}
+    },
+    {
+      "event_id": "9e2af126-91dc-4438-85cb-29296814edf9",
+      "source": "rss:coindesk",
+      "title": "New Bitcoin quantum proposal offers Satoshi Nakamoto a way to prove control without moving BTC",
+      "url": "https://www.coindesk.com/tech/2026/05/02/new-bitcoin-quantum-proposal-offers-satoshi-nakamoto-a-way-to-prove-control-without-moving-btc",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-05-02T06:24:06+00:00",
+      "raw_text": "New Bitcoin quantum proposal offers Satoshi Nakamoto a way to prove control without moving BTC",
+      "impact": {
+        "t_plus_5m": -0.0684,
+        "t_plus_15m": -0.0151,
+        "t_plus_1h": 0.1624
+      }
+    },
+    {
+      "event_id": "b158cb67-f17e-4330-afab-0bb6ba0e3f70",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin doesn’t need a fresh narrative to reclaim $100K: Analyst",
+      "url": "https://cointelegraph.com/news/bitcoin-doesnt-need-a-fresh-narrative-to-reclaim-100k-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-02T06:11:22+00:00",
+      "raw_text": "Bitcoin doesn’t need a fresh narrative to reclaim $100K: Analyst\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin doesn’t need a fresh narrative to reclaim $100K: Analyst\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkL",
+      "impact": {}
+    },
     {
       "event_id": "736cda73-2631-4005-8761-37a07210cbfe",
       "source": "rss:cointelegraph",
@@ -8,10 +50,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-rally-extends-yet-btc-options-price-only-25-chance-of-84k-in-may?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-02T04:42:07+00:00",
       "raw_text": "Bitcoin rally extends, yet BTC options price only 25% chance of $84K in May\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin rally extends, yet BTC options price only 25% chance of $84K in May\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1079,
+        "t_plus_15m": -0.1065,
+        "t_plus_1h": -0.0875
+      }
     },
     {
       "event_id": "8cf561ad-96dc-475d-be22-fdd1ba3ad220",
@@ -6423,75 +6471,32 @@
         "t_plus_1h": 1.1365,
         "t_plus_24h": -0.8171
       }
-    },
-    {
-      "event_id": "42de00f0-5098-475e-bff8-eeab18b83c01",
-      "source": "rss:decrypt",
-      "title": "Bitcoin Giant Strategy's Buying Pace Falls 91% Amid STRC Cooldown",
-      "url": "https://decrypt.co/365620/bitcoin-giant-strategy-buying-pace-falls-strc-cooldown",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T13:57:33+00:00",
-      "raw_text": "Bitcoin Giant Strategy's Buying Pace Falls 91% Amid STRC Cooldown\n\nThe Bitcoin-buying firm leaned on common shares to grow its holdings after STRC powered its largest purchase in 16 months.",
-      "impact": {}
-    },
-    {
-      "event_id": "1ea6fbf3-30e6-48cf-bf0b-1f477bb0f279",
-      "source": "rss:cointelegraph",
-      "title": "Ethereum’s EEZ could pull other blockchains into its orbit",
-      "url": "https://cointelegraph.com/features/ethereum-eez-pull-other-blockchains-orbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T13:55:32+00:00",
-      "raw_text": "Ethereum’s EEZ could pull other blockchains into its orbit\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum’s EEZ could pull other blockchains into its orbit\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoL",
-      "impact": {}
-    },
-    {
-      "event_id": "431d52fb-2230-49ec-909e-6eef49439e35",
-      "source": "rss:bitcoinmagazine",
-      "title": "Strategy (MSTR) Expands Bitcoin Holdings by $255 Million as Treasury Yield Surges to 9.6%",
-      "url": "https://bitcoinmagazine.com/news/strategy-mstr-expands-bitcoin-holdings",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-04-27T13:53:47+00:00",
-      "raw_text": "Strategy (MSTR) Expands Bitcoin Holdings by $255 Million as Treasury Yield Surges to 9.6%\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/03/Strategy-MSTR-is-About-to-Have-More-Bitcoin-Than-BlackRocks-I",
-      "impact": {
-        "t_plus_5m": 1.2493,
-        "t_plus_15m": 1.3157,
-        "t_plus_1h": 1.4731,
-        "t_plus_24h": -0.6168
-      }
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 193,
-        "avg_1h": -0.0,
-        "avg_24h": -0.63,
+      "unknown": {
+        "count": 164,
+        "avg_1h": 0.06,
+        "avg_24h": -0.0,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 163,
-        "avg_1h": 0.05,
-        "avg_24h": -0.0,
+      "macro": {
+        "count": 97,
+        "avg_1h": 0.03,
+        "avg_24h": 0.46,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 192,
+        "avg_1h": -0.01,
+        "avg_24h": -0.63,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
         "count": 11,
         "avg_1h": 0.42,
         "avg_24h": -0.89,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 97,
-        "avg_1h": 0.11,
-        "avg_24h": 0.24,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
