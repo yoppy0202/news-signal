@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-02T20:57:17.540064+00:00",
+  "generated_at": "2026-05-02T21:56:09.821652+00:00",
   "events": [
+    {
+      "event_id": "9d1c1819-ad69-4409-9f6a-2c49c1a19fd9",
+      "source": "rss:theblock",
+      "title": "CryptoQuant says bitcoin’s April price surge was ‘speculative’ as spot demand remains weak, warns of correction risk",
+      "url": "https://www.theblock.co/post/399790/cryptoquant-bitcoin-april-price-surge-speculative-spot-demand-weak-correction-risk?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-02T20:33:31+00:00",
+      "raw_text": "CryptoQuant says bitcoin’s April price surge was ‘speculative’ as spot demand remains weak, warns of correction risk\n\n<p>Bitcoin's price rose about 20% in April, but the rally was driven by speculative perpetual futures demand while spot demand remained weak, CryptoQuant said.</p>\n\n<p>Bitcoin's pric",
+      "impact": {}
+    },
     {
       "event_id": "0e258a05-29c3-4746-bff1-9d41584f33ed",
       "source": "rss:theblock",
@@ -163,6 +175,18 @@
         "t_plus_1h": -0.0554,
         "t_plus_4h": -0.1409
       }
+    },
+    {
+      "event_id": "213c7773-ffdc-4a98-8e58-3e7a60e685b7",
+      "source": "rss:cointelegraph",
+      "title": "Kraken parent Payward closes Bitnomial deal to expand US crypto derivatives",
+      "url": "https://cointelegraph.com/news/kraken-parent-payward-closes-bitnomial-deal-to-expand-us-crypto-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-02T07:00:00+00:00",
+      "raw_text": "Kraken parent Payward closes Bitnomial deal to expand US crypto derivatives\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken parent Payward closes Bitnomial deal to expand US crypto derivatives \" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/52",
+      "impact": {}
     },
     {
       "event_id": "10f4302b-e737-41dc-9fbb-e795d0578f37",
@@ -381,7 +405,8 @@
         "t_plus_5m": 0.3332,
         "t_plus_15m": 0.2747,
         "t_plus_1h": -0.0058,
-        "t_plus_4h": -0.4397
+        "t_plus_4h": -0.4397,
+        "t_plus_24h": 0.2771
       }
     },
     {
@@ -6434,50 +6459,20 @@
       "timestamp_utc": "2026-04-27T16:22:16+00:00",
       "raw_text": "Bitcoin is climbing on thin volume, leaving rally vulnerable to macro shock",
       "impact": {}
-    },
-    {
-      "event_id": "d94fcda2-05b1-4b19-bb7f-d91f4eb2f633",
-      "source": "rss:theblock",
-      "title": "DeFi United push hits $300M as Consensys and Joseph Lubin contribute 30,000 ETH",
-      "url": "https://www.theblock.co/post/399010/defi-united-push-hits-300m-as-consensys-and-joseph-lubin-contribute-30000-eth?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-04-27T16:09:25+00:00",
-      "raw_text": "DeFi United push hits $300M as Consensys and Joseph Lubin contribute 30,000 ETH\n\n<p>The industry-wide effort dubbed DeFi United had raised roughly $235 million worth of Ethereum as of Monday.</p>\n\n<p>The industry-wide effort dubbed DeFi United had raised roughly $235 million worth of Ethereum as of ",
-      "impact": {
-        "t_plus_5m": -0.5491,
-        "t_plus_15m": -0.5689,
-        "t_plus_1h": -0.4097
-      }
-    },
-    {
-      "event_id": "d3ccfcf8-c333-4607-981b-fbe13fb2d97b",
-      "source": "rss:decrypt",
-      "title": "OpenAI's Sam Altman Apologizes for Not Alerting Police Before Tumbler Ridge Mass Shooting",
-      "url": "https://decrypt.co/365645/openai-sam-altman-apologizes-not-alerting-police-tumbler-ridge-mass-shooting",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T16:05:57+00:00",
-      "raw_text": "OpenAI's Sam Altman Apologizes for Not Alerting Police Before Tumbler Ridge Mass Shooting\n\nSam Altman admitted that OpenAI should have warned law enforcement after banning the suspect’s account months before the attack.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 165,
-        "avg_1h": -0.02,
-        "avg_24h": 0.2,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
         "count": 192,
-        "avg_1h": -0.02,
+        "avg_1h": 0.0,
         "avg_24h": -0.36,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 166,
+        "avg_1h": -0.02,
+        "avg_24h": 0.22,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
@@ -6487,7 +6482,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 32,
+        "count": 31,
         "avg_1h": 0.16,
         "avg_24h": 1.23,
         "win_rate_1h_gt5pct": 0.0
