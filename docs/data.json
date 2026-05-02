@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-02T21:56:09.821652+00:00",
+  "generated_at": "2026-05-02T23:00:23.415483+00:00",
   "events": [
+    {
+      "event_id": "d67bb16d-c80c-436e-8c52-fbef88620b73",
+      "source": "rss:theblock",
+      "title": "BlackRock urges OCC to drop tokenized reserve cap idea, expand eligible assets in GENIUS Act comment letter",
+      "url": "https://www.theblock.co/post/399812/blackrock-urges-occ-to-drop-tokenized-reserve-cap-idea-expand-eligible-assets-in-genius-act-comment-letter?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-02T22:19:07+00:00",
+      "raw_text": "BlackRock urges OCC to drop tokenized reserve cap idea, expand eligible assets in GENIUS Act comment letter\n\n<p>The world's largest asset manager opposed a potential 20% cap on tokenized reserve assets, a constraint that would limit products like its BUIDL fund.</p>\n\n<p>The world's largest asset man",
+      "impact": {}
+    },
     {
       "event_id": "9d1c1819-ad69-4409-9f6a-2c49c1a19fd9",
       "source": "rss:theblock",
@@ -6447,30 +6459,18 @@
       "timestamp_utc": "2026-04-27T16:30:56+00:00",
       "raw_text": "Solana developers outline plan to protect network from quantum threats",
       "impact": {}
-    },
-    {
-      "event_id": "f62d4896-f0d6-4664-90d5-e395ed3d5240",
-      "source": "rss:coindesk",
-      "title": "Bitcoin is climbing on thin volume, leaving rally vulnerable to macro shock",
-      "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-is-climbing-on-thin-volume-leaving-this-rally-vulnerable-to-macro-shock",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T16:22:16+00:00",
-      "raw_text": "Bitcoin is climbing on thin volume, leaving rally vulnerable to macro shock",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 192,
+        "count": 193,
         "avg_1h": 0.0,
         "avg_24h": -0.36,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 166,
+        "count": 165,
         "avg_1h": -0.02,
         "avg_24h": 0.22,
         "win_rate_1h_gt5pct": 0.0
