@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-02T17:03:49.109684+00:00",
+  "generated_at": "2026-05-02T17:59:41.234552+00:00",
   "events": [
+    {
+      "event_id": "c19fc635-b8c4-4e09-9375-30d0bd99a9aa",
+      "source": "rss:coindesk",
+      "title": "Brazil's central bank bans stablecoin and crypto settlement in cross-border payments",
+      "url": "https://www.coindesk.com/policy/2026/05/02/brazil-s-central-bank-bans-stablecoin-and-crypto-settlement-in-cross-border-payments",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-02T16:56:08+00:00",
+      "raw_text": "Brazil's central bank bans stablecoin and crypto settlement in cross-border payments",
+      "impact": {}
+    },
     {
       "event_id": "339fb51c-4e5e-43fa-a634-047922a25909",
       "source": "rss:coindesk",
@@ -6451,24 +6463,12 @@
         "t_plus_15m": -0.01,
         "t_plus_1h": -0.1201
       }
-    },
-    {
-      "event_id": "eab825cd-2a2b-44d9-bc0f-189123ac426f",
-      "source": "rss:decrypt",
-      "title": "China Blocks Meta's $2 Billion Acquisition of AI Startup Manus",
-      "url": "https://decrypt.co/365644/china-blocks-meta-2-billion-acquisition-ai-startup-manus",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T15:38:46+00:00",
-      "raw_text": "China Blocks Meta's $2 Billion Acquisition of AI Startup Manus\n\nBeijing's intervention in Meta's startup acquisition signals tighter scrutiny of foreign investments in China's AI sector.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 165,
+        "count": 166,
         "avg_1h": -0.02,
         "avg_24h": 0.2,
         "win_rate_1h_gt5pct": 0.0
@@ -6480,7 +6480,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 98,
+        "count": 97,
         "avg_1h": 0.03,
         "avg_24h": 0.46,
         "win_rate_1h_gt5pct": 0.0
