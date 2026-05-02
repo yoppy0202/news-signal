@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-02T15:58:02.338530+00:00",
+  "generated_at": "2026-05-02T17:03:49.109684+00:00",
   "events": [
+    {
+      "event_id": "339fb51c-4e5e-43fa-a634-047922a25909",
+      "source": "rss:coindesk",
+      "title": "Crypto industry backs CLARITY Act yield compromise, pushes Senate Banking for markup",
+      "url": "https://www.coindesk.com/policy/2026/05/02/crypto-industry-backs-clarity-act-yield-compromise-pushes-senate-banking-for-markup",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-02T16:01:01+00:00",
+      "raw_text": "Crypto industry backs CLARITY Act yield compromise, pushes Senate Banking for markup",
+      "impact": {}
+    },
+    {
+      "event_id": "c929b75b-dd3a-4e6f-a74f-00501e851046",
+      "source": "rss:coindesk",
+      "title": "Bitcoin's 'hazardous' airdrop: Why developers are warning against Paul Sztorc’s eCash fork",
+      "url": "https://www.coindesk.com/tech/2026/05/02/bitcoin-s-hazardous-airdrop-why-developers-are-warning-against-paul-sztorc-s-ecash-fork",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-02T16:00:00+00:00",
+      "raw_text": "Bitcoin's 'hazardous' airdrop: Why developers are warning against Paul Sztorc’s eCash fork",
+      "impact": {}
+    },
+    {
+      "event_id": "c5e37314-0dad-4f66-a2fb-f34a5c6d5aba",
+      "source": "rss:theblock",
+      "title": "Coinbase says deal reached on Clarity Act stablecoin yield, clearing path to long-stalled Senate markup",
+      "url": "https://www.theblock.co/post/399780/coinbase-says-deal-reached-on-clarity-act-stablecoin-yield-clearing-path-to-long-stalled-senate-markup?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-02T15:40:00+00:00",
+      "raw_text": "Coinbase says deal reached on Clarity Act stablecoin yield, clearing path to long-stalled Senate markup\n\n<p>Coinbase CEO Brian Armstrong urged the Senate Banking Committee to \"mark it up\" as a months-long stalemate appears to be at an end. </p>\n\n<p>Coinbase CEO Brian Armstrong urged the Senate Banki",
+      "impact": {}
+    },
     {
       "event_id": "f85f0a1b-35c7-4c72-92a1-b1b88a97248c",
       "source": "rss:cointelegraph",
@@ -6427,62 +6463,26 @@
       "timestamp_utc": "2026-04-27T15:38:46+00:00",
       "raw_text": "China Blocks Meta's $2 Billion Acquisition of AI Startup Manus\n\nBeijing's intervention in Meta's startup acquisition signals tighter scrutiny of foreign investments in China's AI sector.",
       "impact": {}
-    },
-    {
-      "event_id": "e70f5c37-6728-4fd1-830d-ac91d4a153c8",
-      "source": "rss:theblock",
-      "title": "Luca Netz on building a brand people actually love",
-      "url": "https://www.theblock.co/post/399004/luca-netz-on-building-a-brand-people-actually-love?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T15:27:09+00:00",
-      "raw_text": "Luca Netz on building a brand people actually love\n\n<p>Netz explains how Pudgy Penguins is evolving from NFTs into a consumer brand by focusing on culture, IP, and mass adoption over speculation.</p>\n\n<p>Netz explains how Pudgy Penguins is evolving from NFTs into a consumer brand by focusing on cult",
-      "impact": {}
-    },
-    {
-      "event_id": "1376a0cc-46d7-41a5-a41a-95a392a89be0",
-      "source": "rss:theblock",
-      "title": "Gemini rolls out Agentic Trading allowing AI bots to directly manage crypto exchange trading accounts",
-      "url": "https://www.theblock.co/post/399001/gemini-rolls-out-agentic-trading-allowing-ai-bots-to-directly-manage-crypto-exchange-trading-accounts?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T15:15:17+00:00",
-      "raw_text": "Gemini rolls out Agentic Trading allowing AI bots to directly manage crypto exchange trading accounts\n\n<p>Gemini referred to the feature as “the first agentic trading tool to be available directly through a regulated US-based exchange.”</p>\n\n<p>Gemini referred to the feature as “the first agentic tr",
-      "impact": {}
-    },
-    {
-      "event_id": "09374b7c-dc0a-4a67-b12b-0581a3818b46",
-      "source": "rss:coindesk",
-      "title": "Canada’s crypto donation ban clears key vote with support from Conservatives",
-      "url": "https://www.coindesk.com/policy/2026/04/27/canada-s-crypto-donation-ban-clears-key-vote-with-support-from-conservatives",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T15:05:56+00:00",
-      "raw_text": "Canada’s crypto donation ban clears key vote with support from Conservatives",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 98,
-        "avg_1h": 0.03,
-        "avg_24h": 0.46,
+      "unknown": {
+        "count": 165,
+        "avg_1h": -0.02,
+        "avg_24h": 0.2,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 191,
+        "count": 190,
         "avg_1h": -0.01,
         "avg_24h": -0.36,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 164,
-        "avg_1h": -0.02,
-        "avg_24h": 0.2,
+      "macro": {
+        "count": 98,
+        "avg_1h": 0.03,
+        "avg_24h": 0.46,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
