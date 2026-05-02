@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-05-02T19:14:57.613585+00:00",
+  "generated_at": "2026-05-02T20:57:17.540064+00:00",
   "events": [
+    {
+      "event_id": "0e258a05-29c3-4746-bff1-9d41584f33ed",
+      "source": "rss:theblock",
+      "title": "Leading Iranian crypto exchange Nobitex was founded by sons of elite political family tied to supreme leaders: Reuters",
+      "url": "https://www.theblock.co/post/399784/leading-iranian-crypto-exchange-nobitex-was-founded-by-sons-of-elite-political-family-tied-to-supreme-leaders-reuters?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-02T18:57:20+00:00",
+      "raw_text": "Leading Iranian crypto exchange Nobitex was founded by sons of elite political family tied to supreme leaders: Reuters\n\n<p>Reuters found that hundreds of millions of dollars in transactions tied to sanctioned Iranian state entities have moved through Nobitex since 2018.</p>\n\n<p>Reuters found that hu",
+      "impact": {}
+    },
+    {
+      "event_id": "d57e5520-a002-4772-abfe-a389d94e9749",
+      "source": "rss:decrypt",
+      "title": "OpenAI GPT Image 2 vs Google Nano Banana 2: Which AI Image Generator Is Best?",
+      "url": "https://decrypt.co/366408/openai-gpt-image-2-vs-google-nano-banana-2-review",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-02T18:50:19+00:00",
+      "raw_text": "OpenAI GPT Image 2 vs Google Nano Banana 2: Which AI Image Generator Is Best?\n\nWhich state-of-the-art AI image generator is most effective at producing A+ results? We put GPT Image 2 and Nano Banana 2 to the test.",
+      "impact": {}
+    },
     {
       "event_id": "b9ab939f-5666-4eda-8ae7-dd34e956b83f",
       "source": "rss:decrypt",
@@ -147,10 +171,17 @@
       "url": "https://cointelegraph.com/news/bitcoin-mining-stocks-climb-in-2026-as-btc-lags-behind?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-02T07:00:00+00:00",
       "raw_text": "Bitcoin mining stocks climb in 2026 as BTC lags behind\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin mining stocks climb in 2026 as BTC lags behind\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2Fwa",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1671,
+        "t_plus_15m": -0.176,
+        "t_plus_1h": -0.2996,
+        "t_plus_4h": -0.2408
+      }
     },
     {
       "event_id": "a65a67ad-556f-436c-a763-7898a2b68dcc",
@@ -6433,48 +6464,24 @@
       "timestamp_utc": "2026-04-27T16:05:57+00:00",
       "raw_text": "OpenAI's Sam Altman Apologizes for Not Alerting Police Before Tumbler Ridge Mass Shooting\n\nSam Altman admitted that OpenAI should have warned law enforcement after banning the suspect’s account months before the attack.",
       "impact": {}
-    },
-    {
-      "event_id": "286e20f1-8a97-42c3-869b-4c757a725e69",
-      "source": "rss:bitcoinmagazine",
-      "title": "Block Revamps Bitcoin Ecosystem With Bitkey Wallet, Cash App Features, and Proof of Reserves",
-      "url": "https://bitcoinmagazine.com/news/block-bitcoin-ecosystem-with-bitkey-wallet",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T15:57:35+00:00",
-      "raw_text": "Block Revamps Bitcoin Ecosystem With Bitkey Wallet, Cash App Features, and Proof of Reserves\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Block-Revamps-Bitcoin-Ecosystem-With-Bitkey-Wallet-Cash-Ap",
-      "impact": {}
-    },
-    {
-      "event_id": "e62f0184-5fa0-4fb1-91a0-2284b33c105f",
-      "source": "rss:coindesk",
-      "title": "Cross-border B2B stablecoin payments to hit $5 trillion by 2035, says Juniper Research",
-      "url": "https://www.coindesk.com/business/2026/04/27/cross-border-b2b-stablecoin-payments-to-rise-by-over-37-000-to-usd5t-by-2035",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T15:49:01+00:00",
-      "raw_text": "Cross-border B2B stablecoin payments to hit $5 trillion by 2035, says Juniper Research",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 191,
-        "avg_1h": -0.0,
-        "avg_24h": -0.36,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
         "count": 165,
         "avg_1h": -0.02,
         "avg_24h": 0.2,
         "win_rate_1h_gt5pct": 0.0
       },
+      "narrative": {
+        "count": 192,
+        "avg_1h": -0.02,
+        "avg_24h": -0.36,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 97,
+        "count": 96,
         "avg_1h": 0.03,
         "avg_24h": 0.46,
         "win_rate_1h_gt5pct": 0.0
