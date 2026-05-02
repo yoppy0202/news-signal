@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T10:07:44.196660+00:00",
+  "generated_at": "2026-05-02T11:05:12.933094+00:00",
   "events": [
     {
       "event_id": "59db7ada-7615-47af-84cd-8723132988d2",
@@ -8,10 +8,16 @@
       "url": "https://cointelegraph.com/news/ethereum-foundation-sells-another-10000-eth-to-bitmine-in-third-otc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-05-02T08:03:06+00:00",
       "raw_text": "Ethereum Foundation sells another 10,000 ETH to BitMine in third OTC deal\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum Foundation sells another 10,000 ETH to BitMine in third OTC deal\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2082,
+        "t_plus_15m": -0.1824,
+        "t_plus_1h": -0.0554
+      }
     },
     {
       "event_id": "a65a67ad-556f-436c-a763-7898a2b68dcc",
@@ -70,7 +76,8 @@
       "impact": {
         "t_plus_5m": -0.1079,
         "t_plus_15m": -0.1065,
-        "t_plus_1h": -0.0875
+        "t_plus_1h": -0.0875,
+        "t_plus_4h": 0.107
       }
     },
     {
