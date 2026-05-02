@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-02T11:55:53.602969+00:00",
+  "generated_at": "2026-05-02T13:44:34.290753+00:00",
   "events": [
+    {
+      "event_id": "7fd3c984-2ec7-4c69-a03e-a6708d674d3e",
+      "source": "rss:decrypt",
+      "title": "OpenClaw Put Apple Back in the AI Game—And Now They Can't Build Macs Fast Enough",
+      "url": "https://decrypt.co/366389/openclaw-apple-mac-mini-shortage-ai-2026",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-02T13:01:02+00:00",
+      "raw_text": "OpenClaw Put Apple Back in the AI Game—And Now They Can't Build Macs Fast Enough\n\nThe Mac mini went from a $599 desktop nobody cared about to the hottest piece of AI hardware on the planet. One open-source agent framework did it.",
+      "impact": {}
+    },
+    {
+      "event_id": "5966013d-ab67-446b-9b44-8aa5675e8305",
+      "source": "rss:coindesk",
+      "title": "Prediction markets are ditching the 'casino' label to become a regular part of how people track the news",
+      "url": "https://www.coindesk.com/markets/2026/05/02/prediction-markets-are-ditching-the-casino-label-to-become-a-regular-part-of-how-people-track-the-news",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-02T13:00:00+00:00",
+      "raw_text": "Prediction markets are ditching the 'casino' label to become a regular part of how people track the news",
+      "impact": {}
+    },
+    {
+      "event_id": "9e651f7a-7271-4283-8369-bc9fa864ac99",
+      "source": "rss:coindesk",
+      "title": "The $292M crypto hack exposed DeFi's weak spots. Here’s what must change, insiders say",
+      "url": "https://www.coindesk.com/business/2026/05/02/the-usd292m-crypto-hack-exposed-defi-s-weak-spots-here-s-what-must-change-insiders-say",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-02T13:00:00+00:00",
+      "raw_text": "The $292M crypto hack exposed DeFi's weak spots. Here’s what must change, insiders say",
+      "impact": {}
+    },
     {
       "event_id": "5646ac1a-96bd-4b89-9859-dfdd0c333190",
       "source": "rss:cointelegraph",
@@ -58,7 +94,8 @@
       "impact": {
         "t_plus_5m": -0.0684,
         "t_plus_15m": -0.0151,
-        "t_plus_1h": 0.1624
+        "t_plus_1h": 0.1624,
+        "t_plus_4h": 0.0323
       }
     },
     {
@@ -703,7 +740,8 @@
         "t_plus_5m": -0.8101,
         "t_plus_15m": -0.686,
         "t_plus_1h": -0.0157,
-        "t_plus_4h": 0.7948
+        "t_plus_4h": 0.7948,
+        "t_plus_24h": 0.1851
       }
     },
     {
@@ -6422,56 +6460,26 @@
       "timestamp_utc": "2026-04-27T14:57:43+00:00",
       "raw_text": "Microsoft and OpenAI Rework AI Deal, Cutting Exclusivity and AGI Provisions\n\nThe restructured deal with Microsoft removes exclusivity provisions and revenue-sharing arrangements, freeing OpenAI to pursue additional allies.",
       "impact": {}
-    },
-    {
-      "event_id": "0a41bee5-6095-4d39-bd18-9d7fb6672631",
-      "source": "rss:theblock",
-      "title": "‘The best days of crypto are ahead’: Bernstein sees asymmetric upside and structurally longer bull cycle",
-      "url": "https://www.theblock.co/post/398996/the-best-days-of-crypto-are-ahead-bernstein-sees-asymmetric-upside-and-structurally-longer-bull-cycle?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T14:40:34+00:00",
-      "raw_text": "‘The best days of crypto are ahead’: Bernstein sees asymmetric upside and structurally longer bull cycle\n\n<p>New institutional on-ramps, strong flows, and exhausted retail selling points to renewed asymmetric upside for bitcoin, Bernstein said.</p>\n\n<p>New institutional on-ramps, strong flows, and e",
-      "impact": {}
-    },
-    {
-      "event_id": "910968f5-ab27-479b-b6a7-d5efb9e504d4",
-      "source": "rss:coindesk",
-      "title": "As the bitcoin price rises, futures may look bearish, but they're not, analyst says",
-      "url": "https://www.coindesk.com/markets/2026/04/27/as-the-bitcoin-price-rises-futures-may-look-bearish-but-they-re-not-analyst-says",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T14:37:30+00:00",
-      "raw_text": "As the bitcoin price rises, futures may look bearish, but they're not, analyst says",
-      "impact": {}
-    },
-    {
-      "event_id": "6dfe9bb0-ea10-40f8-8dff-1449f5fabea7",
-      "source": "rss:decrypt",
-      "title": "Tom Lee's BitMine Makes Biggest Ethereum Buy So Far in 2026, Hitting 5 Million ETH Milestone",
-      "url": "https://decrypt.co/365619/tom-lees-bitmine-biggest-ethereum-buy-december-eth-milestone",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-04-27T14:21:54+00:00",
-      "raw_text": "Tom Lee's BitMine Makes Biggest Ethereum Buy So Far in 2026, Hitting 5 Million ETH Milestone\n\nBitMine Immersion Technologies now holds over 5 million ETH, following the leading Ethereum treasury firm's biggest buy since December.",
-      "impact": {
-        "t_plus_5m": 1.6039,
-        "t_plus_15m": 1.677,
-        "t_plus_1h": 0.5206
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 192,
+        "avg_1h": -0.01,
+        "avg_24h": -0.36,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 165,
-        "avg_1h": 0.0,
+        "count": 164,
+        "avg_1h": -0.02,
         "avg_24h": 0.2,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 32,
+        "avg_1h": 0.16,
+        "avg_24h": 1.23,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
@@ -6480,22 +6488,10 @@
         "avg_24h": 0.46,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 192,
-        "avg_1h": -0.01,
-        "avg_24h": -0.63,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "listing": {
         "count": 10,
         "avg_1h": 0.02,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 31,
-        "avg_1h": 0.16,
-        "avg_24h": 1.23,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
