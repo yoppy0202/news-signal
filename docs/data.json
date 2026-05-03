@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-05-03T11:55:40.865208+00:00",
+  "generated_at": "2026-05-03T13:45:11.930072+00:00",
   "events": [
+    {
+      "event_id": "1b1da1ca-84fb-49c5-ac80-dfa4a3c91255",
+      "source": "rss:coindesk",
+      "title": "Mike Cagney’s second act: Turning blockchain into Wall Street’s new plumbing",
+      "url": "https://www.coindesk.com/business/2026/05/03/mike-cagney-s-second-act-turning-blockchain-into-wall-street-s-new-plumbing",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-03T13:00:00+00:00",
+      "raw_text": "Mike Cagney’s second act: Turning blockchain into Wall Street’s new plumbing",
+      "impact": {}
+    },
+    {
+      "event_id": "e6375096-9f19-4212-ad66-379211d88ea6",
+      "source": "rss:cointelegraph",
+      "title": "Iran’s largest crypto exchange founded by sons of family tied to supreme leaders: Reuters",
+      "url": "https://cointelegraph.com/news/irans-largest-crypto-exchange-founded-by-sons-of-family-tied-to-supreme-leaders-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-03T11:12:56+00:00",
+      "raw_text": "Iran’s largest crypto exchange founded by sons of family tied to supreme leaders: Reuters\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Iran’s largest crypto exchange founded by sons of family tied to supreme leaders: Reuters\" class=\"type:primaryImage\" src=\"https://images.",
+      "impact": {}
+    },
     {
       "event_id": "3a73800a-3bbd-413c-b819-f369a12af3ee",
       "source": "rss:cointelegraph",
@@ -6433,42 +6457,12 @@
       "timestamp_utc": "2026-04-27T17:15:53+00:00",
       "raw_text": "Trump Walks Back Prediction Market Criticism, Says 'Smart People' He Knows Like Them\n\nTrump said last week he didn’t like prediction markets, but then changed his tune, arguing the U.S. should not get left behind in the space.",
       "impact": {}
-    },
-    {
-      "event_id": "19fbff07-770f-4f16-b742-b2d426191c98",
-      "source": "rss:cointelegraph",
-      "title": "Bernstein sees IREN pivoting from Bitcoin mining to $3.7B AI cloud business",
-      "url": "https://cointelegraph.com/news/bernstein-sees-iren-pivoting-from-bitcoin-mining-to-37b-ai-cloud-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T17:15:28+00:00",
-      "raw_text": "Bernstein sees IREN pivoting from Bitcoin mining to $3.7B AI cloud business\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bernstein sees IREN pivoting from Bitcoin mining to $3.7B AI cloud business\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528",
-      "impact": {}
-    },
-    {
-      "event_id": "de0685b0-5031-43c4-8a80-ca452111997f",
-      "source": "rss:theblock",
-      "title": "Aven bitcoin Visa card will offer BTC-backed line of credit of up to $1 million",
-      "url": "https://www.theblock.co/post/399027/aven-bitcoin-visa-card-btc-backed-line-credit-1-million?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-04-27T17:05:00+00:00",
-      "raw_text": "Aven bitcoin Visa card will offer BTC-backed line of credit of up to $1 million\n\n<p>Aven's new bitcoin credit card will offer fixed-rate, fixed-term loans of up to 10 years at a 7.99% APR as well as unlimited 2% cash back.</p>\n\n<p>Aven's new bitcoin credit card will offer fixed-rate, fixed-term loan",
-      "impact": {
-        "t_plus_5m": -0.1922,
-        "t_plus_15m": -0.2222,
-        "t_plus_1h": -0.0982
-      }
     }
   ],
   "stats": {
     "by_event_type": {
       "macro": {
-        "count": 98,
+        "count": 99,
         "avg_1h": 0.03,
         "avg_24h": 0.46,
         "win_rate_1h_gt5pct": 0.0
@@ -6480,7 +6474,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 192,
+        "count": 191,
         "avg_1h": 0.0,
         "avg_24h": -0.27,
         "win_rate_1h_gt5pct": 0.0
