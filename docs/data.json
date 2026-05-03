@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-03T06:37:19.726942+00:00",
+  "generated_at": "2026-05-03T08:54:32.053707+00:00",
   "events": [
+    {
+      "event_id": "c6362c86-49e3-4f02-b877-a6d441bbd07e",
+      "source": "rss:cointelegraph",
+      "title": "Crypto industry will be ‘just fine’ if CLARITY Act doesn’t pass: Chris Perkins",
+      "url": "https://cointelegraph.com/news/crypto-industry-will-be-just-fine-if-clarity-act-doesnt-pass-chris-perkins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-03T05:51:03+00:00",
+      "raw_text": "Crypto industry will be ‘just fine’ if CLARITY Act doesn’t pass: Chris Perkins\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto industry will be ‘just fine’ if CLARITY Act doesn’t pass: Chris Perkins\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/imag",
+      "impact": {}
+    },
     {
       "event_id": "03780905-b900-4c4d-b365-8e83cdec160a",
       "source": "rss:cointelegraph",
@@ -271,7 +283,8 @@
         "t_plus_5m": -0.0684,
         "t_plus_15m": -0.0151,
         "t_plus_1h": 0.1624,
-        "t_plus_4h": 0.0323
+        "t_plus_4h": 0.0323,
+        "t_plus_24h": -0.0725
       }
     },
     {
@@ -302,7 +315,8 @@
         "t_plus_5m": -0.1079,
         "t_plus_15m": -0.1065,
         "t_plus_1h": -0.0875,
-        "t_plus_4h": 0.107
+        "t_plus_4h": 0.107,
+        "t_plus_24h": -0.0598
       }
     },
     {
@@ -6447,42 +6461,30 @@
       "timestamp_utc": "2026-04-27T16:56:47+00:00",
       "raw_text": "Crypto Exchange Gemini Launches Agentic Trading Feature for AI Agents\n\nGemini has integrated AI models like Claude and ChatGPT to execute automated trading strategies via an open protocol.",
       "impact": {}
-    },
-    {
-      "event_id": "38026eaf-da88-4cda-94dc-ecdbb4258748",
-      "source": "rss:decrypt",
-      "title": "Litecoin Rewrites Transaction History After Exploit, Apologizes for Social Posts",
-      "url": "https://decrypt.co/365648/litecoin-rewrites-transaction-history-exploit-apologizes-social-posts",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T16:40:50+00:00",
-      "raw_text": "Litecoin Rewrites Transaction History After Exploit, Apologizes for Social Posts\n\nLitecoin was affected by a bug this weekend that allowed an attacker to transfer digital assets—transactions that were later wiped away.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 97,
+        "avg_1h": 0.03,
+        "avg_24h": 0.46,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 165,
         "avg_1h": -0.02,
-        "avg_24h": 0.22,
+        "avg_24h": 0.17,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
         "count": 193,
         "avg_1h": 0.0,
-        "avg_24h": -0.36,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 96,
-        "avg_1h": 0.03,
-        "avg_24h": 0.46,
+        "avg_24h": -0.28,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 31,
+        "count": 30,
         "avg_1h": 0.16,
         "avg_24h": 1.23,
         "win_rate_1h_gt5pct": 0.0
