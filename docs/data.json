@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-05-03T19:14:49.667003+00:00",
+  "generated_at": "2026-05-03T20:58:54.081682+00:00",
   "events": [
+    {
+      "event_id": "de13de4a-75b3-4e1b-b898-a468ba73a049",
+      "source": "rss:decrypt",
+      "title": "You Installed Hermes. Now Make It Look Better Than ChatGPT or Claude",
+      "url": "https://decrypt.co/366535/you-installed-hermes-make-look-better-chatgpt-claude",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-03T19:55:35+00:00",
+      "raw_text": "You Installed Hermes. Now Make It Look Better Than ChatGPT or Claude\n\nThe terminal is fine. But if you actually want to live in your Hermes agent, here are the four best GUIs the community has built—and how to run them.",
+      "impact": {}
+    },
+    {
+      "event_id": "cb0bd0b4-eaff-46f0-bec2-cfd8d3ae815c",
+      "source": "rss:theblock",
+      "title": "North Korea terrorism creditors move to seize Arbitrum-frozen Kelp DAO ETH ahead of DeFi United vote",
+      "url": "https://www.theblock.co/post/399819/north-korea-terrorism-creditors-move-to-seize-arbitrum-frozen-kelp-dao-eth-ahead-of-defi-united-vote?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-03T18:39:47+00:00",
+      "raw_text": "North Korea terrorism creditors move to seize Arbitrum-frozen Kelp DAO ETH ahead of DeFi United vote\n\n<p>The plaintiffs are not Kelp DAO hack victims but families holding three unsatisfied terrorism judgments against North Korea looking to collect on debts. </p>\n\n<p>The plaintiffs are not Kelp DAO h",
+      "impact": {}
+    },
+    {
+      "event_id": "cdfe5548-654a-4bac-90ad-d40854f24389",
+      "source": "rss:coindesk",
+      "title": "Policy Summit and other things at Consensus 2026: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/05/03/policy-summit-and-other-things-at-consensus-2026-state-of-crypto",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-03T18:30:00+00:00",
+      "raw_text": "Policy Summit and other things at Consensus 2026: State of Crypto",
+      "impact": {}
+    },
+    {
+      "event_id": "92cc0ed0-b4fc-4375-9d7a-1df336739970",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin preps highest weekly close since January as BTC price nears $79K",
+      "url": "https://cointelegraph.com/markets/bitcoin-preps-highest-weekly-close-since-january-as-btc-price-nears-79k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-03T16:26:22+00:00",
+      "raw_text": "Bitcoin preps highest weekly close since January as BTC price nears $79K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin preps highest weekly close since January as BTC price nears $79K\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
+      "impact": {}
+    },
+    {
+      "event_id": "7821cee8-9ec1-4403-bfb5-d7f5667fb63a",
+      "source": "rss:decrypt",
+      "title": "North Korea's Crypto Hack Playbook Won't Work on Canton Network, Says Digital Asset CEO",
+      "url": "https://decrypt.co/366086/north-korea-crypto-hack-playbook-wont-work-canton-ceo",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-03T15:33:28+00:00",
+      "raw_text": "North Korea's Crypto Hack Playbook Won't Work on Canton Network, Says Digital Asset CEO\n\nBecause Canton allows participants to implement guardrails, Digital Asset's Yuval Rooz isn't afraid of North Korean-linked hacking groups.",
+      "impact": {}
+    },
     {
       "event_id": "adff215d-d3c1-4db7-97f5-b3800faaaa36",
       "source": "rss:coindesk",
@@ -131,6 +191,18 @@
       "tokens": [],
       "timestamp_utc": "2026-05-02T22:19:07+00:00",
       "raw_text": "BlackRock urges OCC to drop tokenized reserve cap idea, expand eligible assets in GENIUS Act comment letter\n\n<p>The world's largest asset manager opposed a potential 20% cap on tokenized reserve assets, a constraint that would limit products like its BUIDL fund.</p>\n\n<p>The world's largest asset man",
+      "impact": {}
+    },
+    {
+      "event_id": "45e77b17-d9bf-4b21-91ba-e1bbac4b01cd",
+      "source": "rss:cointelegraph",
+      "title": "Wallets seized by OFAC may not be Iranian; other state actors instead: Analyst",
+      "url": "https://cointelegraph.com/news/wallets-seized-by-ofac-may-not-be-iranian-other-state-actors-instead-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-02T22:00:00+00:00",
+      "raw_text": "Wallets seized by OFAC may not be Iranian; other state actors instead: Analyst\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Wallets seized by OFAC may not be Iranian; other state actors instead: Analyst\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/imag",
       "impact": {}
     },
     {
@@ -6368,116 +6440,32 @@
         "t_plus_15m": -0.1702,
         "t_plus_1h": -0.0246
       }
-    },
-    {
-      "event_id": "bf2386cb-bb0b-4e0a-82d0-8b6941720b85",
-      "source": "rss:coindesk",
-      "title": "MARA Holdings targets bitcoin quantum threat and network resilience with new foundation",
-      "url": "https://www.coindesk.com/markets/2026/04/27/mara-holdings-targets-bitcoin-quantum-threat-and-network-resilience-with-new-foundation",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T17:49:27+00:00",
-      "raw_text": "MARA Holdings targets bitcoin quantum threat and network resilience with new foundation",
-      "impact": {}
-    },
-    {
-      "event_id": "1dbfd94b-ab0e-4ca6-9790-b8b97e8ed747",
-      "source": "rss:bitcoinmagazine",
-      "title": "$1.3M-Funded OpenAgents Pays Gamers and Everyday PCs in Bitcoin via Pylon Distributed AI Network",
-      "url": "https://bitcoinmagazine.com/business/1-3m-funded-openagents-pays-gamers-and-everyday-pcs-in-bitcoin-via-pylon-distributed-ai-network",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T17:47:17+00:00",
-      "raw_text": "$1.3M-Funded OpenAgents Pays Gamers and Everyday PCs in Bitcoin via Pylon Distributed AI Network\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/tn-2.webp\" style=\"display: block; margin: 1em auto;\" /",
-      "impact": {}
-    },
-    {
-      "event_id": "fb54a904-2e7a-4c3b-bf00-224a181f2f07",
-      "source": "rss:decrypt",
-      "title": "Google Employees Demand CEO Block Military AI Contracts in Open Letter",
-      "url": "https://decrypt.co/365674/google-employees-demand-ceo-block-military-ai-contracts-in-open-letter",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T17:44:42+00:00",
-      "raw_text": "Google Employees Demand CEO Block Military AI Contracts in Open Letter\n\nSome 580 Google employees have signed the letter to CEO Sundar Pichai, citing ethical concerns over military use of AI.",
-      "impact": {}
-    },
-    {
-      "event_id": "42e43da0-4099-4a4a-983b-a7f2365d0c14",
-      "source": "rss:theblock",
-      "title": "Sen. Tillis becomes ‘latest roadblock’ for crypto bill as he pushes ethics provisions, TD Cowen says",
-      "url": "https://www.theblock.co/post/399044/sen-tillis-latest-roadblock-crypto-bill-ethics-provisions-td-cowen?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T17:39:20+00:00",
-      "raw_text": "Sen. Tillis becomes ‘latest roadblock’ for crypto bill as he pushes ethics provisions, TD Cowen says\n\n<p>Thom Tillis has reportedly said he would not support the crypto bill if it does not include conflict-of-interest provisions.</p>\n\n<p>Thom Tillis has reportedly said he would not support the crypt",
-      "impact": {}
-    },
-    {
-      "event_id": "b51d770f-c0bd-4550-b10a-09bebf757122",
-      "source": "rss:decrypt",
-      "title": "Publicly Traded Strive Buys $60 Million in Bitcoin, Plans BTC Business Summit",
-      "url": "https://decrypt.co/365672/publicly-traded-strive-buys-60-million-bitcoin-business-summit",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-04-27T17:37:43+00:00",
-      "raw_text": "Publicly Traded Strive Buys $60 Million in Bitcoin, Plans BTC Business Summit\n\nStrive Inc. purchased 789 more Bitcoin while its subsidiary prepares to educate business leaders on corporate crypto adoption.",
-      "impact": {
-        "t_plus_5m": 0.0287,
-        "t_plus_15m": -0.1153,
-        "t_plus_1h": -0.1523
-      }
-    },
-    {
-      "event_id": "646db37a-f5e4-4700-8353-835d46d82073",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin Magazine Announces BM TV, a Daily Market Broadcast Set for Summer 2026 Launch",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-magazine-announces-bm-tv",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-04-27T17:35:20+00:00",
-      "raw_text": "Bitcoin Magazine Announces BM TV, a Daily Market Broadcast Set for Summer 2026 Launch\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/IMG_0703.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n",
-      "impact": {
-        "t_plus_5m": 0.0399,
-        "t_plus_15m": -0.0498,
-        "t_plus_1h": -0.14
-      }
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 98,
-        "avg_1h": 0.03,
-        "avg_24h": 0.46,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 166,
-        "avg_1h": -0.02,
+        "count": 167,
+        "avg_1h": -0.01,
         "avg_24h": 0.17,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 191,
-        "avg_1h": 0.0,
-        "avg_24h": -0.27,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 30,
+        "count": 32,
         "avg_1h": 0.16,
         "avg_24h": 1.23,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 98,
+        "avg_1h": 0.04,
+        "avg_24h": 0.46,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 188,
+        "avg_1h": 0.0,
+        "avg_24h": -0.27,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
