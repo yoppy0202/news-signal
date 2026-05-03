@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-05-03T13:45:11.930072+00:00",
+  "generated_at": "2026-05-03T15:03:16.854293+00:00",
   "events": [
+    {
+      "event_id": "adff215d-d3c1-4db7-97f5-b3800faaaa36",
+      "source": "rss:coindesk",
+      "title": "U.S. voters don't trust Trump administration to oversee crypto sector, CoinDesk poll finds",
+      "url": "https://www.coindesk.com/policy/2026/05/03/u-s-voters-don-t-trust-trump-administration-to-oversee-crypto-sector-coindesk-poll-finds",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-03T14:00:00+00:00",
+      "raw_text": "U.S. voters don't trust Trump administration to oversee crypto sector, CoinDesk poll finds",
+      "impact": {}
+    },
+    {
+      "event_id": "401c0d31-c360-43a5-a8ec-ef7f0517fccb",
+      "source": "rss:coindesk",
+      "title": "Americans still prefer banks over crypto for financial access, CoinDesk's survey shows",
+      "url": "https://www.coindesk.com/policy/2026/05/03/americans-still-prefer-banks-over-crypto-for-financial-access-coindesk-s-survey-shows",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-03T14:00:00+00:00",
+      "raw_text": "Americans still prefer banks over crypto for financial access, CoinDesk's survey shows",
+      "impact": {}
+    },
+    {
+      "event_id": "cf683e70-7f28-435c-b401-b127a7c9aa6f",
+      "source": "rss:coindesk",
+      "title": "Crypto is at bottom of U.S. voters' priorities heading into elections, CoinDesk survey shows",
+      "url": "https://www.coindesk.com/policy/2026/05/03/crypto-is-at-the-bottom-of-u-s-voters-priorities-heading-into-the-midterm-coindesk-survey-shows",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-03T14:00:00+00:00",
+      "raw_text": "Crypto is at bottom of U.S. voters' priorities heading into elections, CoinDesk survey shows",
+      "impact": {}
+    },
+    {
+      "event_id": "13f9de2c-1adc-4e85-a249-c16b4d75f96e",
+      "source": "rss:cointelegraph",
+      "title": "Americans distrust crypto, AI as industry super PACs flood midterms, poll finds",
+      "url": "https://cointelegraph.com/news/americans-distrust-crypto-ai-as-industry-super-pacs-flood-midterms-poll-finds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-03T13:00:00+00:00",
+      "raw_text": "Americans distrust crypto, AI as industry super PACs flood midterms, poll finds\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Americans distrust crypto, AI as industry super PACs flood midterms, poll finds\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/im",
+      "impact": {}
+    },
     {
       "event_id": "1b1da1ca-84fb-49c5-ac80-dfa4a3c91255",
       "source": "rss:coindesk",
@@ -6404,71 +6452,18 @@
         "t_plus_15m": -0.0498,
         "t_plus_1h": -0.14
       }
-    },
-    {
-      "event_id": "2596bc3a-3492-4020-b898-dcb378a6d165",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin Self-Custody Framed as Civil Liberty at Bitcoin 2026 Conference",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-self-custody-framed-civil-liberty",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T17:31:37+00:00",
-      "raw_text": "Bitcoin Self-Custody Framed as Civil Liberty at Bitcoin 2026 Conference\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/GDOH7612-scaled.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href",
-      "impact": {}
-    },
-    {
-      "event_id": "e00f765d-14cf-4a5c-a3fd-fefef4797a46",
-      "source": "rss:bitcoinmagazine",
-      "title": "MARA Launches Bitcoin-Focused Foundation, Opens $100,000 Community Grant Vote",
-      "url": "https://bitcoinmagazine.com/news/mara-launches-bitcoin-focused-foundation",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-04-27T17:30:00+00:00",
-      "raw_text": "MARA Launches Bitcoin-Focused Foundation, Opens $100,000 Community Grant Vote\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Pics-39.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"",
-      "impact": {
-        "t_plus_5m": 0.0562,
-        "t_plus_15m": 0.0287
-      }
-    },
-    {
-      "event_id": "ee92c967-2ad7-44a2-91fc-da667947e06d",
-      "source": "rss:coindesk",
-      "title": "Bitcoin pulls back to $76,600 as rising oil price and Iran risks stall the rally",
-      "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-pulls-back-to-usd76-600-as-rising-oil-price-and-iran-risks-stall-the-rally",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T17:17:25+00:00",
-      "raw_text": "Bitcoin pulls back to $76,600 as rising oil price and Iran risks stall the rally",
-      "impact": {}
-    },
-    {
-      "event_id": "c5fb483e-3d03-45b8-9bc6-1fbae1de82cf",
-      "source": "rss:decrypt",
-      "title": "Trump Walks Back Prediction Market Criticism, Says 'Smart People' He Knows Like Them",
-      "url": "https://decrypt.co/365657/trump-prediction-markets-smart-people-like-them",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T17:15:53+00:00",
-      "raw_text": "Trump Walks Back Prediction Market Criticism, Says 'Smart People' He Knows Like Them\n\nTrump said last week he didn’t like prediction markets, but then changed his tune, arguing the U.S. should not get left behind in the space.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "macro": {
-        "count": 99,
+        "count": 98,
         "avg_1h": 0.03,
         "avg_24h": 0.46,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 165,
+        "count": 166,
         "avg_1h": -0.02,
         "avg_24h": 0.17,
         "win_rate_1h_gt5pct": 0.0
