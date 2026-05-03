@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T20:58:54.081682+00:00",
+  "generated_at": "2026-05-03T21:57:03.458951+00:00",
   "events": [
     {
       "event_id": "de13de4a-75b3-4e1b-b898-a468ba73a049",
@@ -20,10 +20,16 @@
       "url": "https://www.theblock.co/post/399819/north-korea-terrorism-creditors-move-to-seize-arbitrum-frozen-kelp-dao-eth-ahead-of-defi-united-vote?utm_source=rss&utm_medium=rss",
       "event_type": "hack",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-05-03T18:39:47+00:00",
       "raw_text": "North Korea terrorism creditors move to seize Arbitrum-frozen Kelp DAO ETH ahead of DeFi United vote\n\n<p>The plaintiffs are not Kelp DAO hack victims but families holding three unsatisfied terrorism judgments against North Korea looking to collect on debts. </p>\n\n<p>The plaintiffs are not Kelp DAO h",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2018,
+        "t_plus_15m": -0.1249,
+        "t_plus_1h": -0.0176
+      }
     },
     {
       "event_id": "cdfe5548-654a-4bac-90ad-d40854f24389",
@@ -44,10 +50,17 @@
       "url": "https://cointelegraph.com/markets/bitcoin-preps-highest-weekly-close-since-january-as-btc-price-nears-79k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-03T16:26:22+00:00",
       "raw_text": "Bitcoin preps highest weekly close since January as BTC price nears $79K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin preps highest weekly close since January as BTC price nears $79K\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1331,
+        "t_plus_15m": -0.0574,
+        "t_plus_1h": -0.0265,
+        "t_plus_4h": 0.0486
+      }
     },
     {
       "event_id": "7821cee8-9ec1-4403-bfb5-d7f5667fb63a",
@@ -6452,7 +6465,7 @@
       },
       "hack": {
         "count": 32,
-        "avg_1h": 0.16,
+        "avg_1h": 0.12,
         "avg_24h": 1.23,
         "win_rate_1h_gt5pct": 0.0
       },
