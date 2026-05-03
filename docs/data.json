@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-03T10:14:16.339035+00:00",
+  "generated_at": "2026-05-03T11:55:40.865208+00:00",
   "events": [
+    {
+      "event_id": "3a73800a-3bbd-413c-b819-f369a12af3ee",
+      "source": "rss:cointelegraph",
+      "title": "New York forces Uphold to pay $5M over fraudulent crypto investment scheme",
+      "url": "https://cointelegraph.com/news/new-york-forces-uphold-to-pay-5m-over-fraudulent-crypto-investment-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-03T08:56:10+00:00",
+      "raw_text": "New York forces Uphold to pay $5M over fraudulent crypto investment scheme\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"New York forces Uphold to pay $5M over fraudulent crypto investment scheme\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
+      "impact": {}
+    },
     {
       "event_id": "c6362c86-49e3-4f02-b877-a6d441bbd07e",
       "source": "rss:cointelegraph",
@@ -6451,24 +6463,12 @@
         "t_plus_15m": -0.2222,
         "t_plus_1h": -0.0982
       }
-    },
-    {
-      "event_id": "15ec3843-569a-4c87-8191-ba192abf5949",
-      "source": "rss:decrypt",
-      "title": "Crypto Exchange Gemini Launches Agentic Trading Feature for AI Agents",
-      "url": "https://decrypt.co/365661/crypto-exchange-gemini-agentic-trading-feature-ai-agents",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T16:56:47+00:00",
-      "raw_text": "Crypto Exchange Gemini Launches Agentic Trading Feature for AI Agents\n\nGemini has integrated AI models like Claude and ChatGPT to execute automated trading strategies via an open protocol.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "macro": {
-        "count": 97,
+        "count": 98,
         "avg_1h": 0.03,
         "avg_24h": 0.46,
         "win_rate_1h_gt5pct": 0.0
@@ -6480,7 +6480,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 193,
+        "count": 192,
         "avg_1h": 0.0,
         "avg_24h": -0.27,
         "win_rate_1h_gt5pct": 0.0
