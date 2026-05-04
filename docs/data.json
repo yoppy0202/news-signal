@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-04T00:00:05.790228+00:00",
+  "generated_at": "2026-05-04T04:04:34.812249+00:00",
   "events": [
+    {
+      "event_id": "40543e82-528f-4917-b1ee-aad378c03c7a",
+      "source": "rss:coindesk",
+      "title": "Morgan Stanley's Oldenburg: Bitcoin on U.S. bank balance sheets is coming, just not yet",
+      "url": "https://www.coindesk.com/markets/2026/05/03/morgan-stanley-s-oldenburg-bitcoin-on-u-s-bank-balance-sheets-is-coming-just-not-yet",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-04T00:30:00+00:00",
+      "raw_text": "Morgan Stanley's Oldenburg: Bitcoin on U.S. bank balance sheets is coming, just not yet",
+      "impact": {}
+    },
     {
       "event_id": "c7d80087-a26a-4904-b093-06289850a615",
       "source": "rss:cointelegraph",
@@ -8,10 +20,16 @@
       "url": "https://cointelegraph.com/news/strategy-takes-a-bitcoin-buying-breather-ahead-of-q1-earnings-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-03T21:56:18+00:00",
       "raw_text": "Strategy takes Bitcoin buying breather ahead of Q1 earnings report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy takes Bitcoin buying breather ahead of Q1 earnings report\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2029,
+        "t_plus_15m": 0.4021,
+        "t_plus_1h": 0.7341
+      }
     },
     {
       "event_id": "977c9238-9fc6-4f4a-bb7c-b5fe1108d142",
@@ -6436,25 +6454,13 @@
       "timestamp_utc": "2026-04-27T18:33:50+00:00",
       "raw_text": "‘Bitcoin Isn’t Going Anywhere’: Trump Officials Discuss DOJ, FBI Refocus on Crypto Crime, Not Developers\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/GDOH8154-scaled.jpg\" style=\"display: block; ma",
       "impact": {}
-    },
-    {
-      "event_id": "9d3a8935-8749-452b-a2f7-0fcf97ce84ef",
-      "source": "rss:bitcoinmagazine",
-      "title": "Senator Lummis Puts Congress On The Clock, Vows May Push To Rescue Stalled Clarity Act",
-      "url": "https://bitcoinmagazine.com/news/senator-lummis-puts-congress-on-the-clock",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T18:27:45+00:00",
-      "raw_text": "Senator Lummis Puts Congress On The Clock, Vows May Push To Rescue Stalled Clarity Act\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/GDOH7949-1-scaled.jpg\" style=\"display: block; margin: 1em auto;\"",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 167,
-        "avg_1h": -0.01,
+        "count": 168,
+        "avg_1h": 0.02,
         "avg_24h": 0.17,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6465,7 +6471,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 97,
+        "count": 96,
         "avg_1h": 0.04,
         "avg_24h": 0.46,
         "win_rate_1h_gt5pct": 0.0
