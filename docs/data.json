@@ -1,6 +1,138 @@
 {
-  "generated_at": "2026-05-04T16:58:21.860246+00:00",
+  "generated_at": "2026-05-04T18:50:31.007594+00:00",
   "events": [
+    {
+      "event_id": "46a5544b-5574-4288-baa2-9f3dee284d5e",
+      "source": "rss:coindesk",
+      "title": "Circle, Coinbase lead crypto stocks rally amid Clarity Act progress, bitcoin hitting $80,000",
+      "url": "https://www.coindesk.com/markets/2026/05/04/circle-coinbase-lead-crypto-stock-rally-amid-clarity-act-progress-bitcoin-above-usd80-000",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-04T17:34:28+00:00",
+      "raw_text": "Circle, Coinbase lead crypto stocks rally amid Clarity Act progress, bitcoin hitting $80,000",
+      "impact": {}
+    },
+    {
+      "event_id": "e892d81b-8570-40e1-bb2e-50df910c7b93",
+      "source": "rss:decrypt",
+      "title": "Western Union Launches USDPT Stablecoin on Solana via Anchorage Digital",
+      "url": "https://decrypt.co/366677/western-union-usdpt-stablecoin-solana-anchorage-digital",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-04T17:31:33+00:00",
+      "raw_text": "Western Union Launches USDPT Stablecoin on Solana via Anchorage Digital\n\nRemittance giant Western Union’s USDPT token will power cross-border payments and a consumer spending product launching in 40+ countries.",
+      "impact": {}
+    },
+    {
+      "event_id": "3a1f1569-bb62-4a5d-847a-a613df739f95",
+      "source": "rss:theblock",
+      "title": "Coinbase-incubated Base network adopts Succinct’s zero-knowledge tech",
+      "url": "https://www.theblock.co/post/399926/coinbase-incubated-base-network-adopts-succincts-zero-knowledge-tech?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-04T17:18:18+00:00",
+      "raw_text": "Coinbase-incubated Base network adopts Succinct’s zero-knowledge tech\n\n<p>Base, launched as an optimistic rollup, is hybridizing its tech stack with Succinct's SP1 zero-knowledge virtual machine.</p>\n\n<p>Base, launched as an optimistic rollup, is hybridizing its tech stack with Succinct's SP1 zero-k",
+      "impact": {}
+    },
+    {
+      "event_id": "8addefb7-cc42-4fa0-9d83-44a32007f15e",
+      "source": "rss:decrypt",
+      "title": "'This Is Fine' Creator Says AI Startup Stole His Meme for Subway Ads",
+      "url": "https://decrypt.co/366650/this-is-fine-creator-ai-startup-stole-meme-subway-ads",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-04T17:12:59+00:00",
+      "raw_text": "'This Is Fine' Creator Says AI Startup Stole His Meme for Subway Ads\n\nKC Green, who drew the iconic burning-dog comic in 2013, says Artisan used his artwork in a paid ad campaign without his knowledge—and told followers to vandalize it on sight.",
+      "impact": {}
+    },
+    {
+      "event_id": "015008c9-db5f-4b60-aedd-4ccbc7db6cdd",
+      "source": "rss:decrypt",
+      "title": "Texas Residents Sue MARA Holdings Over Bitcoin Mining Noise",
+      "url": "https://decrypt.co/366654/texas-lawsuit-mara-holdings-bitcoin-mining-noise",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-04T16:51:46+00:00",
+      "raw_text": "Texas Residents Sue MARA Holdings Over Bitcoin Mining Noise\n\nThe new lawsuit targets MARA’s Granbury site as cryptocurrency mining companies pivot to providing AI infrastructure.",
+      "impact": {}
+    },
+    {
+      "event_id": "a07adbbf-5bb8-4d9b-bc2e-c4c9fa2ef447",
+      "source": "rss:cointelegraph",
+      "title": "Prediction markets entering institutional era after first block trade — Bernstein",
+      "url": "https://cointelegraph.com/news/bernstein-prediction-markets-institutional-block-trade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-04T16:51:14+00:00",
+      "raw_text": "Prediction markets entering institutional era after first block trade — Bernstein\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Prediction markets entering institutional era after first block trade — Bernstein\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.co",
+      "impact": {}
+    },
+    {
+      "event_id": "aa512eb7-5820-40df-9c01-4292d3e4199a",
+      "source": "rss:bitcoinmagazine",
+      "title": "Strive’s (ASST) Bitcoin Treasury Crosses 15,000 BTC After $33.9 Million Purchase",
+      "url": "https://bitcoinmagazine.com/news/strives-bitcoin-treasury-15000",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-05-04T16:47:52+00:00",
+      "raw_text": "Strive’s (ASST) Bitcoin Treasury Crosses 15,000 BTC After $33.9 Million Purchase\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/strive.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href",
+      "impact": {
+        "t_plus_5m": -0.4386,
+        "t_plus_15m": -0.3501,
+        "t_plus_1h": -0.1661
+      }
+    },
+    {
+      "event_id": "d1b8b670-0cda-4ad0-9ad0-e08454ad8f8d",
+      "source": "rss:decrypt",
+      "title": "SEC Delays Rollout of ETFs Tied to Prediction Markets: Reuters",
+      "url": "https://decrypt.co/366653/sec-delays-rollout-etfs-tied-prediction-markets-reuters",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-04T16:45:36+00:00",
+      "raw_text": "SEC Delays Rollout of ETFs Tied to Prediction Markets: Reuters\n\nThe SEC extended its review period for ETFs that would have tracked prediction market odds on political races and economic indicators.",
+      "impact": {}
+    },
+    {
+      "event_id": "c6f79008-daee-479a-89ce-b741619947fd",
+      "source": "rss:cointelegraph",
+      "title": "Ethereum holders are back in profit as ETH price chart targets $3K",
+      "url": "https://cointelegraph.com/markets/ethereum-holders-back-in-profit-as-eth-price-gears-for-3k-breakout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [
+        "ETH"
+      ],
+      "timestamp_utc": "2026-05-04T16:30:03+00:00",
+      "raw_text": "Ethereum holders are back in profit as ETH price chart targets $3K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum holders are back in profit as ETH price chart targets $3K\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb",
+      "impact": {
+        "t_plus_5m": -0.7311,
+        "t_plus_15m": -0.5998,
+        "t_plus_1h": -0.2639
+      }
+    },
+    {
+      "event_id": "32b6c3ce-1ece-4fcf-a88f-f299a65cb9c0",
+      "source": "rss:coindesk",
+      "title": "The government should promote innovation, not punish it",
+      "url": "https://www.coindesk.com/opinion/2026/05/04/the-government-should-promote-innovation-not-punish-it",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-04T16:30:00+00:00",
+      "raw_text": "The government should promote innovation, not punish it",
+      "impact": {}
+    },
     {
       "event_id": "41c27f7d-0e6a-4e78-902e-886934e99134",
       "source": "rss:coindesk",
@@ -92,10 +224,16 @@
       "url": "https://decrypt.co/366639/bitmine-buys-240-million-ethereum-tom-lee-heralds-crypto-spring",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-05-04T15:19:59+00:00",
       "raw_text": "BitMine Buys $240 Million in Ethereum as Tom Lee Heralds Arrival of 'Crypto Spring'\n\nTom Lee's BitMine Immersion Technologies made its third straight weekly Ethereum buy above 100K ETH as the coin continues rising.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.5442,
+        "t_plus_15m": -0.4355,
+        "t_plus_1h": -0.433
+      }
     },
     {
       "event_id": "61813ae4-458c-4c32-9724-6afb9dd3a7ca",
@@ -176,10 +314,16 @@
       "url": "https://cointelegraph.com/news/hut-8-secures-200m-bitcoin-backed-credit-facility-from-falconx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-04T14:40:40+00:00",
       "raw_text": "Hut 8 refinances Bitcoin-backed loan with $200M FalconX deal\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hut 8 refinances Bitcoin-backed loan with $200M FalconX deal\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10c",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.8211,
+        "t_plus_15m": 0.2351,
+        "t_plus_1h": -0.6364
+      }
     },
     {
       "event_id": "d0637d12-070f-4ad5-8bc5-1cbb7a2d8f52",
@@ -188,10 +332,16 @@
       "url": "https://decrypt.co/366624/strategy-skips-bitcoin-buy-btc-80k-first-time-since-january",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-04T14:39:48+00:00",
       "raw_text": "Strategy Skips Bitcoin Buy as BTC Hits $80K for First Time Since January\n\nBitcoin just hit its highest price in months, right as $65 billion treasury firm Strategy took a rare week off from BTC accumulation.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.8211,
+        "t_plus_15m": 0.2351,
+        "t_plus_1h": -0.6364
+      }
     },
     {
       "event_id": "f3781b2e-6fc0-49d3-b95e-d8d989e5409b",
@@ -200,10 +350,16 @@
       "url": "https://www.theblock.co/post/399883/bitmine-adds-101745-eth-in-third-straight-weekly-buy-above-100000-tokens?utm_source=rss&utm_medium=rss",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-05-04T14:33:11+00:00",
       "raw_text": "BitMine adds 101,745 ETH for $238 million in third straight weekly buy above 100,000 tokens\n\n<p>BitMine Immersion's latest weekly buy pushes total ether holdings to 5.18 million tokens worth around $12.1 billion.</p>\n\n<p>BitMine Immersion's latest weekly buy pushes total ether holdings to 5.18 milli",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0528,
+        "t_plus_15m": 0.187,
+        "t_plus_1h": -0.4355
+      }
     },
     {
       "event_id": "2427ea4c-b2d5-46f6-b754-8ebec5c9864a",
@@ -248,10 +404,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-in-disbelief-rally-as-traders-eye-84k-btc-price-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-04T14:08:41+00:00",
       "raw_text": "Bitcoin in ‘disbelief rally’ as traders spot $84K BTC price target\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin in ‘disbelief rally’ as traders spot $84K BTC price target\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -1.659,
+        "t_plus_15m": -1.2607,
+        "t_plus_1h": -0.0717
+      }
     },
     {
       "event_id": "32716190-430a-4142-8193-31573de041de",
@@ -909,7 +1071,8 @@
         "t_plus_5m": -0.1331,
         "t_plus_15m": -0.0574,
         "t_plus_1h": -0.0265,
-        "t_plus_4h": 0.0486
+        "t_plus_4h": 0.0486,
+        "t_plus_24h": 1.4711
       }
     },
     {
@@ -6253,153 +6416,26 @@
       "timestamp_utc": "2026-04-28T13:01:01+00:00",
       "raw_text": "Stablecoin payroll firm Toku taps Paxos Labs’ Amplify to offer yield on paychecks\n\n<p>Toku has integrated Paxos Labs’ Amplify platform, enabling employees to earn yield on their pay “the moment it lands.”</p>\n\n<p>Toku has integrated Paxos Labs’ Amplify platform, enabling employees to earn yield on t",
       "impact": {}
-    },
-    {
-      "event_id": "6a99f4e7-3c60-4919-a169-a77a9e462566",
-      "source": "rss:cointelegraph",
-      "title": "Startale to add Privacy Boost transfers to Sony-linked Soneium app",
-      "url": "https://cointelegraph.com/news/startale-app-taps-privacy-boost-for-private-transfers-on-soneium?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-28T13:00:00+00:00",
-      "raw_text": "Startale to add Privacy Boost transfers to Sony-linked Soneium app\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Startale to add Privacy Boost transfers to Sony-linked Soneium app\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb",
-      "impact": {}
-    },
-    {
-      "event_id": "e7e89b27-e7e5-49e7-a24b-ff70372f13d3",
-      "source": "rss:coindesk",
-      "title": "CFTC's AI will review U.S. crypto registration applications, chairman tells CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/04/27/cftc-s-ai-will-review-u-s-crypto-registration-applications-chairman-tells-coindesk",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-28T13:00:00+00:00",
-      "raw_text": "CFTC's AI will review U.S. crypto registration applications, chairman tells CoinDesk",
-      "impact": {}
-    },
-    {
-      "event_id": "9ad57344-780f-4972-83a3-c55828391caa",
-      "source": "rss:cointelegraph",
-      "title": "Stablecoin transfer volume drops 19% even as supply keeps rising: RWA.xyz",
-      "url": "https://cointelegraph.com/news/stablecoin-supply-grows-as-transfer-volume-drops-nearly-20-rwaxyz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-28T12:53:25+00:00",
-      "raw_text": "Stablecoin transfer volume drops 19% even as supply keeps rising: RWA.xyz\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stablecoin transfer volume drops 19% even as supply keeps rising: RWA.xyz\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
-      "impact": {}
-    },
-    {
-      "event_id": "b649d19c-5fec-4d9c-ad48-d0472d38df7d",
-      "source": "rss:decrypt",
-      "title": "Bitcoin's Next Move Hinges on $82K CME Gap as Earnings, FOMC Loom",
-      "url": "https://decrypt.co/365783/bitcoins-next-move-hinges-on-82k-cme-gap-as-earnings-fomc-loom",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-28T12:21:26+00:00",
-      "raw_text": "Bitcoin's Next Move Hinges on $82K CME Gap as Earnings, FOMC Loom\n\nBig Tech earnings and the FOMC are challenging investor risk appetite, with $82K as a make-or-break level for Bitcoin’s recovery rally.",
-      "impact": {}
-    },
-    {
-      "event_id": "7e6cff08-1c7f-4236-9368-d43b4e6b06ff",
-      "source": "rss:theblock",
-      "title": "US SEC seeks comment on NYSE Arca proposal for 85% eligible-asset rule in crypto ETF listings",
-      "url": "https://www.theblock.co/post/399135/us-sec-seeks-comment-on-nyse-arca-proposal-for-85-eligible-asset-rule-in-crypto-etf-listings?utm_source=rss&utm_medium=rss",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-28T12:10:38+00:00",
-      "raw_text": "US SEC seeks comment on NYSE Arca proposal for 85% eligible-asset rule in crypto ETF listings\n\n<p>The SEC is seeking public comment on an NYSE Arca proposal requiring 85% of a commodity-based crypto trust’s assets to meet existing listing rules.</p>\n\n<p>The SEC is seeking public comment on an NYSE A",
-      "impact": {}
-    },
-    {
-      "event_id": "e73ec033-1794-4320-b523-a93dd6f7e743",
-      "source": "rss:cointelegraph",
-      "title": "Ondo brings proxy voting to tokenized stocks and ETFs with Broadridge",
-      "url": "https://cointelegraph.com/news/ondo-partners-with-broadridge-to-bring-proxy-voting-to-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-28T12:10:25+00:00",
-      "raw_text": "Ondo brings proxy voting to tokenized stocks and ETFs with Broadridge\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ondo brings proxy voting to tokenized stocks and ETFs with Broadridge\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
-      "impact": {}
-    },
-    {
-      "event_id": "5bd58a6c-8ec6-4430-bae6-71ef45f76189",
-      "source": "rss:cointelegraph",
-      "title": "Is Ethereum safe above $2K? Traders are watching these ETH price levels",
-      "url": "https://cointelegraph.com/markets/is-ethereum-safe-above-2k-traders-are-watching-these-eth-price-levels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-04-28T11:52:34+00:00",
-      "raw_text": "Is Ethereum safe above $2K? Traders are watching these ETH price levels\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Is Ethereum safe above $2K? Traders are watching these ETH price levels\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
-      "impact": {
-        "t_plus_5m": 0.4115,
-        "t_plus_15m": 0.4647,
-        "t_plus_1h": 0.5646,
-        "t_plus_4h": 0.6279
-      }
-    },
-    {
-      "event_id": "83e995ab-aee8-436b-b336-e53fd8fbc2e9",
-      "source": "rss:decrypt",
-      "title": "Morning Minute: Fidelity Is Cautiously Bullish on Crypto",
-      "url": "https://decrypt.co/365776/morning-minute-fidelity-is-cautiously-bullish-on-crypto",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-28T11:28:49+00:00",
-      "raw_text": "Morning Minute: Fidelity Is Cautiously Bullish on Crypto\n\nFidelity says crypto may finally be finding its floor, while the White House is teasing a major strategic Bitcoin reserve update.",
-      "impact": {}
-    },
-    {
-      "event_id": "9fd1be0b-824e-4d24-819d-2268768ada1b",
-      "source": "rss:coindesk",
-      "title": "Bulls want bitcoin back above $80,000. Macro says not so fast.",
-      "url": "https://www.coindesk.com/daybook-us/2026/04/28/bulls-want-bitcoin-back-above-usd80-000-macro-says-not-so-fast",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-28T11:17:58+00:00",
-      "raw_text": "Bulls want bitcoin back above $80,000. Macro says not so fast.",
-      "impact": {}
-    },
-    {
-      "event_id": "4d399aef-c496-44b6-835c-3daf4e77f292",
-      "source": "rss:decrypt",
-      "title": "OpenAI Fell Short of Its Own Targets as Compute Costs Piled Up: Report",
-      "url": "https://decrypt.co/365774/openai-fell-short-of-its-own-targets-as-compute-costs-piled-up-report",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-28T11:14:54+00:00",
-      "raw_text": "OpenAI Fell Short of Its Own Targets as Compute Costs Piled Up: Report\n\nInternal stumbles over ChatGPT growth and a looming IPO are putting Sam Altman's spend-everything compute strategy under the microscope.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
         "count": 173,
-        "avg_1h": 0.04,
-        "avg_24h": 0.15,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 98,
-        "avg_1h": 0.04,
-        "avg_24h": 0.46,
+        "avg_1h": -0.04,
+        "avg_24h": 0.34,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 187,
-        "avg_1h": -0.07,
+        "count": 186,
+        "avg_1h": -0.16,
         "avg_24h": -0.13,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 100,
+        "avg_1h": 0.02,
+        "avg_24h": 0.46,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
@@ -6409,7 +6445,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
-        "count": 10,
+        "count": 9,
         "avg_1h": 0.02,
         "avg_24h": -1.13,
         "win_rate_1h_gt5pct": 0.0
