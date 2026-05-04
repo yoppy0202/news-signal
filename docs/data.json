@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-04T09:30:29.599951+00:00",
+  "generated_at": "2026-05-04T12:03:29.288343+00:00",
   "events": [
+    {
+      "event_id": "686622d7-3d2b-4d79-8562-5d7609454af4",
+      "source": "rss:theblock",
+      "title": "North Korea blames ‘reptile media’ over reports of crypto theft",
+      "url": "https://www.theblock.co/post/399854/north-korea-blames-crypto-theft-reports?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-04T08:40:49+00:00",
+      "raw_text": "North Korea blames ‘reptile media’ over reports of crypto theft\n\n<p>North Korea rejected U.S. cybercrime claims as 'absurd slander,' blaming media as crypto theft attributed to the country exceeded $6 billion.</p>\n\n<p>North Korea rejected U.S. cybercrime claims as 'absurd slander,' blaming media as ",
+      "impact": {}
+    },
+    {
+      "event_id": "361a6ddb-c0db-45e0-bd76-fcc0253362c9",
+      "source": "rss:cointelegraph",
+      "title": "US law firm attempts to block transfer of frozen ETH from Kelp exploit",
+      "url": "https://cointelegraph.com/news/law-firm-tries-to-claim-kelp-exploit-eth-because-clients-owed-by-dprk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-04T08:27:35+00:00",
+      "raw_text": "US law firm attempts to block transfer of frozen ETH from Kelp exploit\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US law firm attempts to block transfer of frozen ETH from Kelp exploit\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6L",
+      "impact": {}
+    },
+    {
+      "event_id": "e9192ec1-a665-4b27-b155-27eeee860b93",
+      "source": "rss:coindesk",
+      "title": "Jobs data, earnings calls: Crypto Week Ahead",
+      "url": "https://www.coindesk.com/markets/2026/05/04/jobs-data-earnings-calls-crypto-week-ahead",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-04T08:00:00+00:00",
+      "raw_text": "Jobs data, earnings calls: Crypto Week Ahead",
+      "impact": {}
+    },
     {
       "event_id": "fb138359-7500-4eec-b489-cacf44514c08",
       "source": "rss:coindesk",
@@ -74,6 +110,18 @@
       "impact": {}
     },
     {
+      "event_id": "5568c317-6e0c-4380-9f92-681dc607e4c5",
+      "source": "rss:cointelegraph",
+      "title": "‘Stablecoins’ are an outdated term from crypto’s early years: A16z",
+      "url": "https://cointelegraph.com/news/stablecoins-are-an-outdated-term-a16z-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-04T04:44:12+00:00",
+      "raw_text": "‘Stablecoins’ are an outdated term from crypto’s early years: A16z\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"‘Stablecoins’ are an outdated term from crypto’s early years: A16z\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb",
+      "impact": {}
+    },
+    {
       "event_id": "bd8fb60e-e4b8-4b7c-9ee2-675f930f83e1",
       "source": "rss:cointelegraph",
       "title": "‘Stablecoins’ are an outdated term from crypto’s early years: a16z",
@@ -112,7 +160,8 @@
       "impact": {
         "t_plus_5m": 0.5241,
         "t_plus_15m": 0.4186,
-        "t_plus_1h": 0.2002
+        "t_plus_1h": 0.2002,
+        "t_plus_4h": -0.0044
       }
     },
     {
@@ -6387,68 +6436,14 @@
       "timestamp_utc": "2026-04-27T21:00:36+00:00",
       "raw_text": "Lawmakers Warn Crypto Clarity Will Decide U.S. Leadership as 2026 Election Looms\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Lawmakers-Warn-Crypto-Clarity-Will-Decide-U.S.-Leadership-as-2026-Elec",
       "impact": {}
-    },
-    {
-      "event_id": "e633eeef-b3fe-4ad8-9d47-e48389598f0d",
-      "source": "rss:coindesk",
-      "title": "Bitcoin rally shows signs of fatigue as key indicators turn bearish",
-      "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-rally-shows-signs-of-fatigue-as-key-indicators-turn-bearish",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T21:00:00+00:00",
-      "raw_text": "Bitcoin rally shows signs of fatigue as key indicators turn bearish",
-      "impact": {}
-    },
-    {
-      "event_id": "62e28e59-69fe-4c64-a09a-bf4ddbc01775",
-      "source": "rss:decrypt",
-      "title": "Aave-Led 'DeFi United' Relief Effort Raises $300 Million to Cover Kelp DAO Exploit Losses",
-      "url": "https://decrypt.co/365724/aave-led-defi-united-relief-effort-raises-300m-kelp-dao-losses",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T20:56:27+00:00",
-      "raw_text": "Aave-Led 'DeFi United' Relief Effort Raises $300 Million to Cover Kelp DAO Exploit Losses\n\nThe Aave-led relief effort has gained widespread support, securing enough commitments to replenish the swiped funds.",
-      "impact": {}
-    },
-    {
-      "event_id": "658dd881-ceaf-4ab8-93d8-ef551fcd7a75",
-      "source": "rss:theblock",
-      "title": "‘We don’t take Satoshi’s bitcoin’: eCash fork sparks backlash over ‘reassigned’ coins",
-      "url": "https://www.theblock.co/post/399054/we-dont-take-satoshis-bitcoin-ecash-fork-backlash-reassigned-coins?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T20:48:07+00:00",
-      "raw_text": "‘We don’t take Satoshi’s bitcoin’: eCash fork sparks backlash over ‘reassigned’ coins\n\n<p>The eCash fork will act as a live test of Paul Sztorc’s long-running drivechains-sidechains vision for the bitcoin network.</p>\n\n<p>The eCash fork will act as a live test of Paul Sztorc’s long-running drivechai",
-      "impact": {}
-    },
-    {
-      "event_id": "158a9e9e-b8b4-4579-899c-e1cf8e9197a3",
-      "source": "rss:decrypt",
-      "title": "OpenAI Is Building Its Own Smartphone Chip With Qualcomm and MediaTek: Report",
-      "url": "https://decrypt.co/365726/openai-smartphone-chip-qualcomm-mediatek",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-27T20:45:08+00:00",
-      "raw_text": "OpenAI Is Building Its Own Smartphone Chip With Qualcomm and MediaTek: Report\n\nSix weeks after telling staff to stop chasing distractions, OpenAI is reportedly planning a phone targeting 400 million units a year.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 93,
-        "avg_1h": 0.04,
-        "avg_24h": 0.46,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 174,
-        "avg_1h": 0.05,
-        "avg_24h": 0.17,
+      "narrative": {
+        "count": 186,
+        "avg_1h": 0.02,
+        "avg_24h": -0.13,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
@@ -6457,10 +6452,16 @@
         "avg_24h": 1.23,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 186,
-        "avg_1h": 0.02,
-        "avg_24h": -0.13,
+      "unknown": {
+        "count": 174,
+        "avg_1h": 0.05,
+        "avg_24h": 0.17,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 93,
+        "avg_1h": 0.04,
+        "avg_24h": 0.46,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
