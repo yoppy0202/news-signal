@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T12:03:29.288343+00:00",
+  "generated_at": "2026-05-04T14:27:29.155934+00:00",
   "events": [
     {
       "event_id": "686622d7-3d2b-4d79-8562-5d7609454af4",
@@ -20,10 +20,16 @@
       "url": "https://cointelegraph.com/news/law-firm-tries-to-claim-kelp-exploit-eth-because-clients-owed-by-dprk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "hack",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-05-04T08:27:35+00:00",
       "raw_text": "US law firm attempts to block transfer of frozen ETH from Kelp exploit\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US law firm attempts to block transfer of frozen ETH from Kelp exploit\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6L",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 1.3757,
+        "t_plus_15m": 1.3736,
+        "t_plus_1h": 1.4792
+      }
     },
     {
       "event_id": "e9192ec1-a665-4b27-b155-27eeee860b93",
@@ -6448,7 +6454,7 @@
       },
       "hack": {
         "count": 32,
-        "avg_1h": 0.12,
+        "avg_1h": 0.35,
         "avg_24h": 1.23,
         "win_rate_1h_gt5pct": 0.0
       },
