@@ -1,6 +1,198 @@
 {
-  "generated_at": "2026-05-05T18:23:02.465088+00:00",
+  "generated_at": "2026-05-05T20:15:41.420511+00:00",
   "events": [
+    {
+      "event_id": "79c512a6-41c6-448f-8bd9-e10432805482",
+      "source": "rss:decrypt",
+      "title": "Cybercrime Might Be the One Job AI Isn’t Taking, Study Suggests",
+      "url": "https://decrypt.co/366855/cybercrime-hacking-ai-study",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-05T19:16:24+00:00",
+      "raw_text": "Cybercrime Might Be the One Job AI Isn’t Taking, Study Suggests\n\nA Cambridge-led study finds AI is not turning hackers into superhackers. It’s mostly helping them write blog spam.",
+      "impact": {}
+    },
+    {
+      "event_id": "19f95ce6-1ca2-4e77-a5b5-07d398f13487",
+      "source": "rss:theblock",
+      "title": "SoFi to launch its stablecoin on Solana, citing speed and cost",
+      "url": "https://www.theblock.co/post/400098/sofi-to-launch-its-stablecoin-on-solana-citing-speed-and-cost?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-05T19:15:55+00:00",
+      "raw_text": "SoFi to launch its stablecoin on Solana, citing speed and cost\n\n<p>SoFiUSD is a fully reserved U.S. dollar stablecoin issued by SoFi Bank, a nationally chartered bank.</p>\n\n<p>SoFiUSD is a fully reserved U.S. dollar stablecoin issued by SoFi Bank, a nationally chartered bank.</p>",
+      "impact": {}
+    },
+    {
+      "event_id": "799455f4-facc-44c1-a83f-bbe76ef72fd8",
+      "source": "rss:cointelegraph",
+      "title": "Tennessee Bankers Association names Stablecore as preferred digital asset provider",
+      "url": "https://cointelegraph.com/news/tennessee-bankers-association-stablecore-digital-asset-provider?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-05T19:11:47+00:00",
+      "raw_text": "Tennessee Bankers Association names Stablecore as preferred digital asset provider\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tennessee Bankers Association names Stablecore as preferred digital asset provider\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.",
+      "impact": {}
+    },
+    {
+      "event_id": "a419e25a-6914-4b39-8764-d8710de0e1a1",
+      "source": "rss:coindesk",
+      "title": "Drift outlines a recovery plan for users after $295 million DPRK-linked exploit",
+      "url": "https://www.coindesk.com/business/2026/05/05/drift-outlines-a-recovery-plan-for-users-after-usd295-million-dprk-linked-exploit",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-05T18:57:18+00:00",
+      "raw_text": "Drift outlines a recovery plan for users after $295 million DPRK-linked exploit",
+      "impact": {}
+    },
+    {
+      "event_id": "356e23a9-73ad-470e-a28e-af3bc4d4f549",
+      "source": "rss:coindesk",
+      "title": "Tokenization won't disrupt banking rails but improve them, Wall Street executives say",
+      "url": "https://www.coindesk.com/business/2026/05/05/tokenization-won-t-disrupt-banking-rails-but-improve-them-wall-street-executives-say",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-05T18:55:33+00:00",
+      "raw_text": "Tokenization won't disrupt banking rails but improve them, Wall Street executives say",
+      "impact": {}
+    },
+    {
+      "event_id": "cf100335-0773-4a82-998b-4244e3c1ff86",
+      "source": "rss:coindesk",
+      "title": "Bitcoin extends gains to $81,500 as tokenization push lifts Bullish, Galaxy, Centrifuge",
+      "url": "https://www.coindesk.com/markets/2026/05/05/bitcoin-extends-gains-to-usd81-500-as-tokenization-push-lifts-bullish-galaxy-centrifuge",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-05T18:52:16+00:00",
+      "raw_text": "Bitcoin extends gains to $81,500 as tokenization push lifts Bullish, Galaxy, Centrifuge",
+      "impact": {}
+    },
+    {
+      "event_id": "69417706-0c73-4fde-a470-af536af7fde9",
+      "source": "rss:cointelegraph",
+      "title": "Crypto Fear and Greed Index turns neutral for first time since January: Is $100K BTC next?",
+      "url": "https://cointelegraph.com/markets/crypto-fear-and-greed-flips-to-neutral-for-the-first-time-since-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-05T18:35:46+00:00",
+      "raw_text": "Crypto Fear and Greed Index turns neutral for first time since January: Is $100K BTC next?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Fear and Greed Index turns neutral for first time since January: Is $100K BTC next?\" class=\"type:primaryImage\" src=\"https://image",
+      "impact": {}
+    },
+    {
+      "event_id": "d25f2c8b-d74d-4bb0-a6ea-0a41b75488ff",
+      "source": "rss:decrypt",
+      "title": "OpenAI Just Upgraded ChatGPT's Default Model—Here's What GPT-5.5 Instant Actually Does",
+      "url": "https://decrypt.co/366842/openai-upgraded-chatgpt-default-model-what-gpt-5-5-instant-does",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-05T18:29:40+00:00",
+      "raw_text": "OpenAI Just Upgraded ChatGPT's Default Model—Here's What GPT-5.5 Instant Actually Does\n\nGPT-5.5 Instant is now the default ChatGPT model. It makes fewer things up, answers more concisely, and finally remembers what you told it last week.",
+      "impact": {}
+    },
+    {
+      "event_id": "77effd5d-5663-402b-a459-f9734794e9e4",
+      "source": "rss:decrypt",
+      "title": "Pennsylvania Sues Character.AI Over Chatbot Posing as Licensed Psychiatrist",
+      "url": "https://decrypt.co/366833/pennsylvania-sues-character-ai-chatbot-posing-licensed-psychiatrist",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-05T18:20:26+00:00",
+      "raw_text": "Pennsylvania Sues Character.AI Over Chatbot Posing as Licensed Psychiatrist\n\nPennsylvania Governor Josh Shapiro said the lawsuit targets AI bots that misrepresent themselves as licensed medical professionals.",
+      "impact": {}
+    },
+    {
+      "event_id": "57f6efea-e20a-41b0-aa23-f2ac4dfc3e49",
+      "source": "rss:cointelegraph",
+      "title": "US prosecutors ask for leniency for ex-Celsius exec, citing cooperation",
+      "url": "https://cointelegraph.com/news/us-prosecutors-recommendation-celsius-exec-sentencing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-05T18:01:30+00:00",
+      "raw_text": "US prosecutors ask for leniency for ex-Celsius exec, citing cooperation\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US prosecutors ask for leniency for ex-Celsius exec, citing cooperation\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
+      "impact": {}
+    },
+    {
+      "event_id": "f9c80d9a-f8b2-4f0f-92d3-3b28a1a1e309",
+      "source": "rss:decrypt",
+      "title": "French Chipmaker Sequans Dumps Half Its Bitcoin as Treasury Hype Meets Reality",
+      "url": "https://decrypt.co/366834/french-chipmaker-sequans-dumps-bitcoin",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-05T17:39:39+00:00",
+      "raw_text": "French Chipmaker Sequans Dumps Half Its Bitcoin as Treasury Hype Meets Reality\n\nSequans Communications liquidated nearly half its Bitcoin treasury as mounting losses and debt obligations forced a strategic reversal.",
+      "impact": {}
+    },
+    {
+      "event_id": "ec530209-038a-43df-a14a-a8884d8c075b",
+      "source": "rss:coindesk",
+      "title": "Rep. Steven Horsford pitches PARITY Act as 'durable floor' for crypto tax at Consensus Miami",
+      "url": "https://www.coindesk.com/policy/2026/05/05/rep-steven-horsford-pitches-parity-act-as-durable-floor-for-crypto-tax-at-consensus-miami",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-05T17:27:58+00:00",
+      "raw_text": "Rep. Steven Horsford pitches PARITY Act as 'durable floor' for crypto tax at Consensus Miami",
+      "impact": {}
+    },
+    {
+      "event_id": "f68b18dd-6f83-4f2d-98a5-524897d946f5",
+      "source": "rss:theblock",
+      "title": "State Street and Galaxy launch fund on Solana designed to ‘sweep’ stablecoins into productive vehicle",
+      "url": "https://www.theblock.co/post/400086/state-street-and-galaxy-launch-fund-on-solana-designed-to-sweep-stablecoins-into-productive-vehicle?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-05T17:27:16+00:00",
+      "raw_text": "State Street and Galaxy launch fund on Solana designed to ‘sweep’ stablecoins into productive vehicle\n\n<p>The State Street Galaxy Onchain Liquidity Sweep Fund lets investors push stablecoins into a yield-bearing tokenized fund.</p>\n\n<p>The State Street Galaxy Onchain Liquidity Sweep Fund lets invest",
+      "impact": {}
+    },
+    {
+      "event_id": "35ca10c6-0ab9-4472-804a-de83ff6d51b5",
+      "source": "rss:decrypt",
+      "title": "Iggy Azalea Faces Lawsuit Over Solana Meme Coin",
+      "url": "https://decrypt.co/366832/iggy-azalea-lawsuit-solana-mother-meme-coin",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-05T17:26:19+00:00",
+      "raw_text": "Iggy Azalea Faces Lawsuit Over Solana Meme Coin\n\nInvestors allege the rapper misled buyers about the token’s real-world utility.",
+      "impact": {}
+    },
+    {
+      "event_id": "f8257c2e-c2e5-41be-a4ee-8e597ee7aba7",
+      "source": "rss:coindesk",
+      "title": "Solana’s 'Alpenglow' upgrade could arrive next quarter, co-founder Yakovenko says",
+      "url": "https://www.coindesk.com/tech/2026/05/05/solana-s-alpenglow-upgrade-could-arrive-next-quarter-co-founder-yakovenko-says",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-05T17:24:01+00:00",
+      "raw_text": "Solana’s 'Alpenglow' upgrade could arrive next quarter, co-founder Yakovenko says",
+      "impact": {}
+    },
+    {
+      "event_id": "983dbf7a-ea08-4699-af49-410b85e624b9",
+      "source": "rss:coindesk",
+      "title": "Western Union’s Solana-based stablecoin could reshape its payment model, analyst says",
+      "url": "https://www.coindesk.com/business/2026/05/05/western-union-s-solana-based-stablecoin-could-reshape-its-payment-model-analyst-says",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-05T17:22:22+00:00",
+      "raw_text": "Western Union’s Solana-based stablecoin could reshape its payment model, analyst says",
+      "impact": {}
+    },
     {
       "event_id": "90efaa78-5f63-4410-ba73-2930b5431ca6",
       "source": "rss:theblock",
@@ -56,10 +248,16 @@
       "url": "https://cointelegraph.com/markets/xrp-replays-2025-fractal-that-sparked-a-66-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-05-05T17:02:42+00:00",
       "raw_text": "XRP price copies 2025 chart fractal that last time sparked 66% gains\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"XRP price copies 2025 chart fractal that last time sparked 66% gains\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wY",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2962,
+        "t_plus_15m": -0.1814,
+        "t_plus_1h": -0.0763
+      }
     },
     {
       "event_id": "d0739206-34c5-4833-a5f7-4253cc85ce38",
@@ -448,7 +646,8 @@
       "impact": {
         "t_plus_5m": -0.2471,
         "t_plus_15m": -0.0399,
-        "t_plus_1h": -0.2303
+        "t_plus_1h": -0.2303,
+        "t_plus_4h": -0.3587
       }
     },
     {
@@ -538,7 +737,8 @@
       "impact": {
         "t_plus_5m": -0.4102,
         "t_plus_15m": 0.0149,
-        "t_plus_1h": -0.1239
+        "t_plus_1h": -0.1239,
+        "t_plus_4h": -0.4544
       }
     },
     {
@@ -949,6 +1149,18 @@
       "tokens": [],
       "timestamp_utc": "2026-05-05T07:07:27+00:00",
       "raw_text": "Stablecoin proposal still ‘falls short’ of protecting bank deposits: US banks\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stablecoin proposal still ‘falls short’ of protecting bank deposits: US banks\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
+      "impact": {}
+    },
+    {
+      "event_id": "823efca3-cb60-4656-8d4f-38e9e8bf1256",
+      "source": "rss:cointelegraph",
+      "title": "Kraken partners with MoneyGram for global crypto cash-outs",
+      "url": "https://cointelegraph.com/news/kraken-taps-moneygram-network-to-enable-global-crypto-to-cash-withdrawals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-05T07:00:00+00:00",
+      "raw_text": "Kraken partners with MoneyGram for global crypto cash-outs\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken partners with MoneyGram for global crypto cash-outs\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub",
       "impact": {}
     },
     {
@@ -6236,222 +6448,16 @@
       "timestamp_utc": "2026-04-29T12:45:43+00:00",
       "raw_text": "Securitize, Computershare open path for $70 trillion in U.S. stocks to move onchain",
       "impact": {}
-    },
-    {
-      "event_id": "dac458d2-6435-43ba-9f42-a10779d1dbad",
-      "source": "rss:coindesk",
-      "title": "Securitize, Computershare open path for $70 trillion U.S. stocks to move onchain",
-      "url": "https://www.coindesk.com/business/2026/04/29/securitize-computershare-open-path-for-usd70-trillion-u-s-stocks-to-move-onchain",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-29T12:45:43+00:00",
-      "raw_text": "Securitize, Computershare open path for $70 trillion U.S. stocks to move onchain",
-      "impact": {}
-    },
-    {
-      "event_id": "38d923cc-a20f-4ace-a36b-024b1005d213",
-      "source": "rss:coindesk",
-      "title": "GSR says Crypto Core3 ETF is simple gateway for mainstream investors",
-      "url": "https://www.coindesk.com/coindesk-news/2026/04/29/gsr-says-crypto-core3-etf-is-simple-gateway-for-mainstream-investors",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-29T12:43:44+00:00",
-      "raw_text": "GSR says Crypto Core3 ETF is simple gateway for mainstream investors",
-      "impact": {}
-    },
-    {
-      "event_id": "5bcfef7b-ead5-436a-8563-f587f4e91ac1",
-      "source": "rss:cointelegraph",
-      "title": "ZetaChain dismissed bug report that could have prevented $334K exploit",
-      "url": "https://cointelegraph.com/news/zetachain-dismissed-bug-report-that-could-have-prevented-334k-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-29T12:17:29+00:00",
-      "raw_text": "ZetaChain dismissed bug report that could have prevented $334K exploit\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ZetaChain dismissed bug report that could have prevented $334K exploit\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6L",
-      "impact": {}
-    },
-    {
-      "event_id": "846cb24c-25f8-452e-b890-f6610bc5ed66",
-      "source": "rss:coindesk",
-      "title": "Galaxy leads $20 million investment in Fence to overhaul back end of $6 trillion credit market",
-      "url": "https://www.coindesk.com/business/2026/04/28/galaxy-digital-leads-usd20-million-investment-in-fence-to-overhaul-back-end-of-usd6-trillion-credit-market",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-29T12:17:12+00:00",
-      "raw_text": "Galaxy leads $20 million investment in Fence to overhaul back end of $6 trillion credit market",
-      "impact": {}
-    },
-    {
-      "event_id": "6dd9ac84-5b22-4595-abcf-7e9273d8274b",
-      "source": "rss:coindesk",
-      "title": "Galaxy Digital leads $20 million investment in Fence to overhaul back end of $6 trillion credit market",
-      "url": "https://www.coindesk.com/business/2026/04/28/galaxy-digital-leads-usd20-million-investment-in-fence-to-overhaul-back-end-of-usd6-trillion-credit-market",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-29T12:17:12+00:00",
-      "raw_text": "Galaxy Digital leads $20 million investment in Fence to overhaul back end of $6 trillion credit market",
-      "impact": {}
-    },
-    {
-      "event_id": "76ec6509-578d-4c9e-b73b-2a5a273e7e5f",
-      "source": "rss:coindesk",
-      "title": "MoonPay acquires Israeli crypto security firm Sodot in $100 million stock deal",
-      "url": "https://www.coindesk.com/business/2026/04/29/moonpay-acquires-israeli-crypto-security-firm-sodot-in-usd100-million-stock-deal",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-29T12:13:52+00:00",
-      "raw_text": "MoonPay acquires Israeli crypto security firm Sodot in $100 million stock deal",
-      "impact": {}
-    },
-    {
-      "event_id": "0ff653fe-2472-4bef-8699-f1460c3c291c",
-      "source": "rss:coindesk",
-      "title": "First central bank to test bitcoin says asset is ‘too risky’ for reserves",
-      "url": "https://www.coindesk.com/markets/2026/04/29/price-of-bitcoin-could-go-higher-or-can-go-to-zero-says-czech-central-bank-governor",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-29T12:11:14+00:00",
-      "raw_text": "First central bank to test bitcoin says asset is ‘too risky’ for reserves",
-      "impact": {}
-    },
-    {
-      "event_id": "923132a1-7a7a-484c-906d-045265d2f7d2",
-      "source": "rss:coindesk",
-      "title": "Price of bitcoin could go higher or ‘can go to zero,’ says Czech central bank governor",
-      "url": "https://www.coindesk.com/markets/2026/04/29/price-of-bitcoin-could-go-higher-or-can-go-to-zero-says-czech-central-bank-governor",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-29T12:11:14+00:00",
-      "raw_text": "Price of bitcoin could go higher or ‘can go to zero,’ says Czech central bank governor",
-      "impact": {}
-    },
-    {
-      "event_id": "ce4c3535-6572-46e1-b597-e1fab14538a3",
-      "source": "rss:theblock",
-      "title": "Stable Sea taps WisdomTree to bring tokenized Treasury access to small and medium-sized businesses",
-      "url": "https://www.theblock.co/post/399349/stable-sea-taps-wisdomtree-tokenized-treasurys-businesses?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-29T12:05:02+00:00",
-      "raw_text": "Stable Sea taps WisdomTree to bring tokenized Treasury access to small and medium-sized businesses\n\n<p>“We want to be the default for 'money at rest' within the onchain space,” WisdomTree Head of Digital Assets Will Peck said.</p>\n\n<p>“We want to be the default for 'money at rest' within the onchain",
-      "impact": {}
-    },
-    {
-      "event_id": "1204c6e3-fb93-447b-8059-124d546f969b",
-      "source": "rss:coindesk",
-      "title": "A tiny group is winning on Polymarket as under 1% of wallets take half the profits",
-      "url": "https://www.coindesk.com/markets/2026/04/29/a-tiny-group-is-winning-on-polymarket-as-under-1-of-wallets-take-half-the-profits",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-29T12:00:19+00:00",
-      "raw_text": "A tiny group is winning on Polymarket as under 1% of wallets take half the profits",
-      "impact": {}
-    },
-    {
-      "event_id": "67fd4226-8430-4fff-a7b4-5bf34ce605f2",
-      "source": "rss:decrypt",
-      "title": "Morning Minute: Paul Tudor Jones Calls Bitcoin Strongest Inflation Hedge",
-      "url": "https://decrypt.co/365934/morning-minute-paul-tudor-jones-calls-bitcoin-strongest-inflation-hedge",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-29T11:55:03+00:00",
-      "raw_text": "Morning Minute: Paul Tudor Jones Calls Bitcoin Strongest Inflation Hedge\n\nCrypto majors rebound ahead of FOMC, despite oil surging, while Polymarket is making a push to enter the U.S.",
-      "impact": {}
-    },
-    {
-      "event_id": "accde31b-10f8-452e-9f90-444458e20aca",
-      "source": "rss:theblock",
-      "title": "‘DeFi bent, not broken’: Standard Chartered says rsETH episode won’t derail path to $2T RWA market",
-      "url": "https://www.theblock.co/post/399355/defi-bent-not-broken-standard-chartered-says-rseth-episode-wont-derail-path-to-2t-rwa-market?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-29T11:53:25+00:00",
-      "raw_text": "‘DeFi bent, not broken’: Standard Chartered says rsETH episode won’t derail path to $2T RWA market\n\n<p>The bank said DeFi’s $300 million-plus rescue effort and structural upgrades reinforce its long-term $2 trillion real-world asset thesis.</p>\n\n<p>The bank said DeFi’s $300 million-plus rescue effor",
-      "impact": {}
-    },
-    {
-      "event_id": "e7fe4ba0-9c8d-48b2-b55c-61b7667e006c",
-      "source": "rss:coindesk",
-      "title": "Bitcoin trading volume is falling fast. That rarely ends smoothly.",
-      "url": "https://www.coindesk.com/daybook-us/2026/04/29/bitcoin-trading-volume-is-falling-fast-that-rarely-ends-smoothly",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-29T11:38:27+00:00",
-      "raw_text": "Bitcoin trading volume is falling fast. That rarely ends smoothly.",
-      "impact": {}
-    },
-    {
-      "event_id": "f8d63e57-a90e-4c0e-9e2a-b686b7a45059",
-      "source": "rss:decrypt",
-      "title": "Ethereum ICO Whale Who Turned $3,100 Into $23M Wakes Up After a Decade",
-      "url": "https://decrypt.co/365926/ethereum-ico-whale-who-turned-3100-into-23m-wakes-up-after-a-decade",
-      "event_type": "whale_move",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-04-29T11:27:57+00:00",
-      "raw_text": "Ethereum ICO Whale Who Turned $3,100 Into $23M Wakes Up After a Decade\n\nA wallet dormant since 2015 just moved 10,000 ETH—but analysts say a custody restructuring, not a sell, is the likely explanation.",
-      "impact": {
-        "t_plus_5m": 0.7656,
-        "t_plus_15m": 0.768,
-        "t_plus_1h": 0.0084,
-        "t_plus_4h": -1.0692,
-        "t_plus_24h": -2.0235
-      }
-    },
-    {
-      "event_id": "16762455-9ee9-4e2c-b45c-48ea9faae172",
-      "source": "rss:coindesk",
-      "title": "Tether leads Belo's $14 million raise to expand stablecoin payments across Latin America",
-      "url": "https://www.coindesk.com/business/2026/04/28/tether-leads-belo-s-usd14-million-raise-to-expand-stablecoin-payments-across-latin-america",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-29T11:13:32+00:00",
-      "raw_text": "Tether leads Belo's $14 million raise to expand stablecoin payments across Latin America",
-      "impact": {}
-    },
-    {
-      "event_id": "6a76639d-b019-4628-8cd4-0015eed54afe",
-      "source": "rss:theblock",
-      "title": "Ripple, OKX expand RLUSD access with over 280 spot pairs, derivatives use",
-      "url": "https://www.theblock.co/post/399298/ripple-okx-expand-rlusd-access?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-29T11:00:00+00:00",
-      "raw_text": "Ripple, OKX expand RLUSD access with over 280 spot pairs, derivatives use\n\n<p>OKX customers can now use RLUSD 'to trade and collateralize positions across both spot and derivatives markets.'</p>\n\n<p>OKX customers can now use RLUSD 'to trade and collateralize positions across both spot and derivative",
-      "impact": {}
-    },
-    {
-      "event_id": "b8499e31-259d-4988-b45f-6dc5933bb8d6",
-      "source": "rss:cointelegraph",
-      "title": "Dunamu, Hana Financial take blockchain remittance system live with POSCO",
-      "url": "https://cointelegraph.com/news/dunamu-hana-financial-take-blockchain-remittance-system-live-with-posco?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-29T10:59:59+00:00",
-      "raw_text": "Dunamu, Hana Financial take blockchain remittance system live with POSCO\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Dunamu, Hana Financial take blockchain remittance system live with POSCO\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 28,
+        "avg_1h": 0.48,
+        "avg_24h": 1.73,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 178,
         "avg_1h": -0.05,
@@ -6459,15 +6465,15 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 188,
-        "avg_1h": 0.25,
+        "count": 190,
+        "avg_1h": 0.23,
         "avg_24h": 0.15,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 27,
-        "avg_1h": 0.48,
-        "avg_24h": 1.73,
+      "macro": {
+        "count": 89,
+        "avg_1h": 0.03,
+        "avg_24h": 0.8,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
@@ -6476,16 +6482,10 @@
         "avg_24h": -1.13,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 91,
-        "avg_1h": 0.03,
-        "avg_24h": 0.8,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "whale_move": {
-        "count": 3,
-        "avg_1h": 0.06,
-        "avg_24h": -1.81,
+        "count": 2,
+        "avg_1h": 0.09,
+        "avg_24h": -1.59,
         "win_rate_1h_gt5pct": 0.0
       }
     }
