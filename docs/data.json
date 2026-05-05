@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-05T06:27:07.329138+00:00",
+  "generated_at": "2026-05-05T09:17:46.680577+00:00",
   "events": [
+    {
+      "event_id": "1fabc969-dad1-4b1f-8faf-7362ee500851",
+      "source": "rss:coindesk",
+      "title": "DeFi lender Aave asks court to block $71 million crypto seizure tied to North Korea claims",
+      "url": "https://www.coindesk.com/policy/2026/05/05/defi-lender-aave-asks-court-to-block-usd71-million-crypto-seizure-tied-to-north-korea-claims",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-05T08:18:23+00:00",
+      "raw_text": "DeFi lender Aave asks court to block $71 million crypto seizure tied to North Korea claims",
+      "impact": {}
+    },
+    {
+      "event_id": "ade477d5-692b-4d91-82fd-993b9f6d0a40",
+      "source": "rss:cointelegraph",
+      "title": "Stablecoin proposal still ‘falls short’ of protecting bank deposits: US banks",
+      "url": "https://cointelegraph.com/news/bankers-still-says-new-proposal-in-clarity-act-falls-short-of-protecting-bank-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-05T07:07:27+00:00",
+      "raw_text": "Stablecoin proposal still ‘falls short’ of protecting bank deposits: US banks\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stablecoin proposal still ‘falls short’ of protecting bank deposits: US banks\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
+      "impact": {}
+    },
+    {
+      "event_id": "26f553f4-6ed0-4ceb-ac95-04f383a265ab",
+      "source": "rss:coindesk",
+      "title": "Bitcoin used to hate inflation. Now it might be the opposite",
+      "url": "https://www.coindesk.com/markets/2026/05/05/bitcoin-used-to-hate-inflation-now-it-might-be-the-opposite",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-05T06:45:26+00:00",
+      "raw_text": "Bitcoin used to hate inflation. Now it might be the opposite",
+      "impact": {}
+    },
     {
       "event_id": "9d7a7358-fec5-4c13-9a37-5253c9084ecf",
       "source": "rss:coindesk",
@@ -14,16 +50,47 @@
       "impact": {}
     },
     {
+      "event_id": "32fa859d-7287-4b29-b063-cd9eea77f570",
+      "source": "rss:cointelegraph",
+      "title": "Haun Ventures raises $1B, adding AI to crypto focus",
+      "url": "https://cointelegraph.com/news/haun-ventures-raises-1b-crypto-ai-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-05T06:12:09+00:00",
+      "raw_text": "Haun Ventures raises $1B, adding AI to crypto focus\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Haun Ventures raises $1B, adding AI to crypto focus\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnR",
+      "impact": {}
+    },
+    {
+      "event_id": "d3e22b9b-8e62-44d8-80ee-99b834555188",
+      "source": "rss:cointelegraph",
+      "title": "Polygon rolls out private stablecoin payments targeting institutions",
+      "url": "https://cointelegraph.com/news/polygon-rolls-out-private-payments-for-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-05T06:08:31+00:00",
+      "raw_text": "Polygon rolls out private stablecoin payments targeting institutions\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Polygon rolls out private stablecoin payments targeting institutions\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wY",
+      "impact": {}
+    },
+    {
       "event_id": "3d59b76a-3037-4e46-8f1c-e46052e592ee",
       "source": "rss:coindesk",
       "title": "Bitcoin crosses $81,000, ETH, SOL, DOGE steady as options desks bid on further price jump",
       "url": "https://www.coindesk.com/markets/2026/05/05/bitcoin-crosses-usd81-000-eth-sol-doge-steady-as-options-desks-bid-on-further-price-jump",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "ETH",
+        "SOL",
+        "DOGE"
+      ],
       "timestamp_utc": "2026-05-05T05:50:16+00:00",
       "raw_text": "Bitcoin crosses $81,000, ETH, SOL, DOGE steady as options desks bid on further price jump",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1295,
+        "t_plus_15m": 0.1118
+      }
     },
     {
       "event_id": "2e8bb0b3-157f-477f-b318-3a4869c60174",
@@ -32,10 +99,16 @@
       "url": "https://www.coindesk.com/markets/2026/05/05/xrp-slips-below-usd1-40-on-heavy-volume-tightening-range-puts-breakout-in-focus",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-05-05T05:16:24+00:00",
       "raw_text": "XRP slips below $1.40 on heavy volume, tightening range puts breakout in focus",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0453,
+        "t_plus_15m": 0.209,
+        "t_plus_1h": 0.2271
+      }
     },
     {
       "event_id": "4e96241d-c3fc-4a8c-88d0-c4521adc7125",
@@ -44,10 +117,16 @@
       "url": "https://cointelegraph.com/news/aave-asks-court-to-lift-restraining-notice-on-frozen-kelp-exploit-ether?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-05-05T03:51:15+00:00",
       "raw_text": "Aave files emergency motion to lift restraining notice on frozen ETH\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Aave files emergency motion to lift restraining notice on frozen ETH\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wY",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1967,
+        "t_plus_15m": 0.2377,
+        "t_plus_1h": 0.131
+      }
     },
     {
       "event_id": "822c5373-3118-40ef-b70e-2028736b5a78",
@@ -1285,7 +1364,8 @@
         "t_plus_5m": 0.5241,
         "t_plus_15m": 0.4186,
         "t_plus_1h": 0.2002,
-        "t_plus_4h": -0.0044
+        "t_plus_4h": -0.0044,
+        "t_plus_24h": -0.6079
       }
     },
     {
@@ -6380,87 +6460,20 @@
       "timestamp_utc": "2026-04-28T16:30:52+00:00",
       "raw_text": "Riot extends $200 million Coinbase credit facility, and bitcoin weakness could mean more sales",
       "impact": {}
-    },
-    {
-      "event_id": "464a25c3-bdf0-43ec-bc9d-9eccfb41de9a",
-      "source": "rss:theblock",
-      "title": "Galaxy posts $216 million Q1 loss amid crypto ‘transition year,’ Novogratz bullish on data center growth",
-      "url": "https://www.theblock.co/post/399181/galaxy-216-million-q1-loss-crypto-transition-year-novogratz-bullish-data-centers?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-28T16:21:52+00:00",
-      "raw_text": "Galaxy posts $216 million Q1 loss amid crypto ‘transition year,’ Novogratz bullish on data center growth\n\n<p>Galaxy’s data center business is nearing an inflection point, with revenue expected to ramp up in the second quarter.</p>\n\n<p>Galaxy’s data center business is nearing an inflection point, wit",
-      "impact": {}
-    },
-    {
-      "event_id": "cc9196c4-3dc4-4b28-8709-17e2df713dff",
-      "source": "rss:coindesk",
-      "title": "Microsoft says legacy banks are hitting a breaking point as AI takes over the heavy lifting",
-      "url": "https://www.coindesk.com/business/2026/04/28/microsoft-says-legacy-banks-are-hitting-a-breaking-point-as-ai-takes-over-the-heavy-lifting",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-28T16:10:59+00:00",
-      "raw_text": "Microsoft says legacy banks are hitting a breaking point as AI takes over the heavy lifting",
-      "impact": {}
-    },
-    {
-      "event_id": "1fb11ace-4375-4d18-8975-e7b4e1fe2af1",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin price hits one-week low as $100 oil sparks fresh Asia crisis fears",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-hits-one-week-low-as-100-oil-sparks-fresh-asia-crisis-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-04-28T16:07:44+00:00",
-      "raw_text": "Bitcoin price hits one-week low as $100 oil sparks fresh Asia crisis fears\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price hits one-week low as $100 oil sparks fresh Asia crisis fears\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
-      "impact": {
-        "t_plus_5m": 0.061,
-        "t_plus_15m": 0.0617,
-        "t_plus_1h": 0.1183,
-        "t_plus_4h": 0.517
-      }
-    },
-    {
-      "event_id": "9bf61abf-e00a-4f21-945a-218d4501d64a",
-      "source": "rss:theblock",
-      "title": "RWA yield platform Nuva, co-incubated by Animoca, raises $5.2 million in seed funding",
-      "url": "https://www.theblock.co/post/399222/rwa-yield-platform-nuva-animoca-seed-funding?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-28T16:00:03+00:00",
-      "raw_text": "RWA yield platform Nuva, co-incubated by Animoca, raises $5.2 million in seed funding\n\n<p>Nuva is a marketplace for tokenized real-world assets that aims to help users earn yield by connecting issuers and users directly.</p>\n\n<p>Nuva is a marketplace for tokenized real-world assets that aims to help",
-      "impact": {}
-    },
-    {
-      "event_id": "b36107c5-4b88-4022-a367-7787cc0169a5",
-      "source": "rss:theblock",
-      "title": "Amboss launches RailsX for self-custodial bitcoin and stablecoin trading on Lightning",
-      "url": "https://www.theblock.co/post/399134/amboss-launches-railsx-for-self-custodial-bitcoin-and-stablecoin-trading-on-lightning?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-28T16:00:00+00:00",
-      "raw_text": "Amboss launches RailsX for self-custodial bitcoin and stablecoin trading on Lightning\n\n<p>RailsX launches with bitcoin-stablecoin pairs USDT-L and USDC-L from Speed Wallet, with users retaining full control of their keys.</p>\n\n<p>RailsX launches with bitcoin-stablecoin pairs USDT-L and USDC-L from S",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 174,
-        "avg_1h": -0.02,
-        "avg_24h": 0.34,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
         "count": 186,
         "avg_1h": -0.16,
         "avg_24h": -0.13,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 175,
+        "avg_1h": -0.01,
+        "avg_24h": 0.22,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
@@ -6470,7 +6483,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 98,
+        "count": 97,
         "avg_1h": 0.02,
         "avg_24h": 0.46,
         "win_rate_1h_gt5pct": 0.0
