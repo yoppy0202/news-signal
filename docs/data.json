@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-05-05T09:17:46.680577+00:00",
+  "generated_at": "2026-05-05T11:37:05.696103+00:00",
   "events": [
+    {
+      "event_id": "e23e53c3-6a11-454f-a805-9e43c892d4f6",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin ETFs pull in $532M as BTC reclaims $80K amid ‘post-ceasefire recovery’",
+      "url": "https://cointelegraph.com/news/spot-bitcoin-etfs-pull-in-520m-as-btc-reclaims-80000-amid-post-ceasefire-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-05-05T09:56:13+00:00",
+      "raw_text": "Bitcoin ETFs pull in $532M as BTC reclaims $80K amid ‘post-ceasefire recovery’\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs pull in $532M as BTC reclaims $80K amid ‘post-ceasefire recovery’\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/imag",
+      "impact": {
+        "t_plus_5m": -0.1662,
+        "t_plus_15m": -0.0506,
+        "t_plus_1h": 0.0669
+      }
+    },
+    {
+      "event_id": "6af424f1-8481-451a-9878-7f165ad4cbfa",
+      "source": "rss:theblock",
+      "title": "US spot bitcoin ETFs draw $532 million as inflows extend to a third day, led by BlackRock and Fidelity",
+      "url": "https://www.theblock.co/post/399990/us-spot-bitcoin-etfs-draw-532-million-as-inflows-extend-to-a-third-day-led-by-blackrock-and-fidelity?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-05T09:54:15+00:00",
+      "raw_text": "US spot bitcoin ETFs draw $532 million as inflows extend to a third day, led by BlackRock and Fidelity\n\n<p>U.S. spot bitcoin ETFs drew $532 million on Monday, marking a third straight day of inflows, led by BlackRock and Fidelity.</p>\n\n<p>U.S. spot bitcoin ETFs drew $532 million on Monday, marking a",
+      "impact": {}
+    },
+    {
+      "event_id": "c8303ea1-9adf-4aae-ab55-a31ceb4861e5",
+      "source": "rss:theblock",
+      "title": "Coinbase Australia launches crypto support for self-directed retirement funds",
+      "url": "https://www.theblock.co/post/399982/coinbase-australia-launches-smsf-support?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-05T08:42:56+00:00",
+      "raw_text": "Coinbase Australia launches crypto support for self-directed retirement funds\n\n<p>Coinbase Australia has launched crypto support for self-directed retirement funds, offering investors another avenue to diversify portfolios.</p>\n\n<p>Coinbase Australia has launched crypto support for self-directed ret",
+      "impact": {}
+    },
     {
       "event_id": "1fabc969-dad1-4b1f-8faf-7362ee500851",
       "source": "rss:coindesk",
@@ -89,7 +131,9 @@
       "raw_text": "Bitcoin crosses $81,000, ETH, SOL, DOGE steady as options desks bid on further price jump",
       "impact": {
         "t_plus_5m": 0.1295,
-        "t_plus_15m": 0.1118
+        "t_plus_15m": 0.1118,
+        "t_plus_1h": -0.0367,
+        "t_plus_4h": -0.2934
       }
     },
     {
@@ -107,7 +151,8 @@
       "impact": {
         "t_plus_5m": 0.0453,
         "t_plus_15m": 0.209,
-        "t_plus_1h": 0.2271
+        "t_plus_1h": 0.2271,
+        "t_plus_4h": 0.31
       }
     },
     {
@@ -125,7 +170,8 @@
       "impact": {
         "t_plus_5m": 0.1967,
         "t_plus_15m": 0.2377,
-        "t_plus_1h": 0.131
+        "t_plus_1h": 0.131,
+        "t_plus_4h": 0.2365
       }
     },
     {
@@ -1132,10 +1178,14 @@
       "url": "https://cointelegraph.com/markets/btc-price-can-easily-hit-95k-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-04T11:05:33+00:00",
       "raw_text": "BTC price can ‘easily’ hit $95K: Five things to know in Bitcoin this week\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BTC price can ‘easily’ hit $95K: Five things to know in Bitcoin this week\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
-      "impact": {}
+      "impact": {
+        "t_plus_24h": 0.7598
+      }
     },
     {
       "event_id": "8bc41540-83f5-4599-9d63-b0fad9d3ba66",
@@ -1213,7 +1263,8 @@
         "t_plus_5m": 1.3757,
         "t_plus_15m": 1.3736,
         "t_plus_1h": 1.4792,
-        "t_plus_4h": 0.5582
+        "t_plus_4h": 0.5582,
+        "t_plus_24h": 2.2251
       }
     },
     {
@@ -6424,68 +6475,32 @@
       "timestamp_utc": "2026-04-28T16:58:35+00:00",
       "raw_text": "Polymarket eyes return of main exchange to the US, in talks with CFTC: Bloomberg\n\n<p>Polymarket is exploring a path to bring its main exchange back to the United States, according to reporting from Bloomberg.</p>\n\n<p>Polymarket is exploring a path to bring its main exchange back to the United States",
       "impact": {}
-    },
-    {
-      "event_id": "1c01fac7-dd7b-4cd3-9bb5-a2bfcadf03ef",
-      "source": "rss:decrypt",
-      "title": "Stablecoin Giant Tether Reveals Plans for Modular Bitcoin Mining Hardware",
-      "url": "https://decrypt.co/365840/stablecoin-giant-tether-modular-bitcoin-mining-hardware",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-28T16:50:38+00:00",
-      "raw_text": "Stablecoin Giant Tether Reveals Plans for Modular Bitcoin Mining Hardware\n\nLeading stablecoin issuer Tether has teamed with Canaan and ACME Swisstech to develop customizable, upgradable Bitcoin mining rigs.",
-      "impact": {}
-    },
-    {
-      "event_id": "8c1c2d90-b62e-40fd-8735-205c1095c6b0",
-      "source": "rss:coindesk",
-      "title": "Polymarket reportedly seeking CFTC approval to reopen main exchange to U.S. traders",
-      "url": "https://www.coindesk.com/policy/2026/04/28/polymarket-seeks-cftc-approval-to-reopen-main-exchange-to-u-s-traders",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-28T16:35:02+00:00",
-      "raw_text": "Polymarket reportedly seeking CFTC approval to reopen main exchange to U.S. traders",
-      "impact": {}
-    },
-    {
-      "event_id": "64de6db5-c433-449d-97ea-0f71e4922e79",
-      "source": "rss:coindesk",
-      "title": "Riot extends $200 million Coinbase credit facility, and bitcoin weakness could mean more sales",
-      "url": "https://www.coindesk.com/markets/2026/04/28/riot-extends-usd200-million-coinbase-credit-facility-and-bitcoin-weakness-could-mean-more-sales",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-28T16:30:52+00:00",
-      "raw_text": "Riot extends $200 million Coinbase credit facility, and bitcoin weakness could mean more sales",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 186,
-        "avg_1h": -0.16,
-        "avg_24h": -0.13,
+      "macro": {
+        "count": 99,
+        "avg_1h": 0.02,
+        "avg_24h": 0.46,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 175,
+        "count": 174,
         "avg_1h": -0.01,
         "avg_24h": 0.22,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 185,
+        "avg_1h": -0.16,
+        "avg_24h": 0.05,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
         "count": 29,
         "avg_1h": 0.34,
-        "avg_24h": 1.23,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 97,
-        "avg_1h": 0.02,
-        "avg_24h": 0.46,
+        "avg_24h": 1.73,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
