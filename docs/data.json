@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T00:04:42.534753+00:00",
+  "generated_at": "2026-05-05T03:46:33.451182+00:00",
   "events": [
     {
       "event_id": "ac7e6157-9003-4a3c-8c15-d6b831a8a05e",
@@ -80,10 +80,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-eyes-80k-support-flip-with-key-holder-cost-basis-in-focus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-04T20:38:43+00:00",
       "raw_text": "Bitcoin short-term cost basis approaches profitability, but $80K must flip to support first\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin short-term cost basis approaches profitability, but $80K must flip to support first\" class=\"type:primaryImage\" src=\"https://ima",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0101,
+        "t_plus_15m": 0.0091,
+        "t_plus_1h": 0.4251
+      }
     },
     {
       "event_id": "d7383125-3751-4ffe-bcb1-98a66d9b2b53",
@@ -166,7 +172,8 @@
       "impact": {
         "t_plus_5m": 0.0391,
         "t_plus_15m": 0.0876,
-        "t_plus_1h": -0.1026
+        "t_plus_1h": -0.1026,
+        "t_plus_4h": -0.2898
       }
     },
     {
@@ -211,7 +218,8 @@
       "impact": {
         "t_plus_5m": 0.255,
         "t_plus_15m": 0.102,
-        "t_plus_1h": -0.0363
+        "t_plus_1h": -0.0363,
+        "t_plus_4h": 0.1878
       }
     },
     {
@@ -6443,7 +6451,7 @@
     "by_event_type": {
       "unknown": {
         "count": 169,
-        "avg_1h": -0.04,
+        "avg_1h": -0.02,
         "avg_24h": 0.34,
         "win_rate_1h_gt5pct": 0.0
       },
