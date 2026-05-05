@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-05-04T22:12:55.020750+00:00",
+  "generated_at": "2026-05-05T00:04:42.534753+00:00",
   "events": [
+    {
+      "event_id": "ac7e6157-9003-4a3c-8c15-d6b831a8a05e",
+      "source": "rss:theblock",
+      "title": "SC Ventures named first external shareholder of GSR following strategic investment",
+      "url": "https://www.theblock.co/post/399950/sc-ventures-first-external-shareholder-gsr-strategic-investment?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-04T23:00:00+00:00",
+      "raw_text": "SC Ventures named first external shareholder of GSR following strategic investment\n\n<p>The move deepens a relationship between the firms struck when GSR invested in the SC Ventures-backed tokenization platform Libeara.</p>\n\n<p>The move deepens a relationship between the firms struck when GSR investe",
+      "impact": {}
+    },
+    {
+      "event_id": "b612c3ea-780b-41b9-8eb5-b0f60a0b62d0",
+      "source": "rss:decrypt",
+      "title": "Someone Built an Open-Source 'Theoretical Mythos' to Reverse-Engineer Anthropic's Most Dangerous AI",
+      "url": "https://decrypt.co/366745/openmythos-claude-mythos-architecture-open-source-reconstruction",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-04T22:31:02+00:00",
+      "raw_text": "Someone Built an Open-Source 'Theoretical Mythos' to Reverse-Engineer Anthropic's Most Dangerous AI\n\nOpenMythos is a from-scratch attempt to reconstruct the architecture behind Claude Mythos, the cyber-capable model Anthropic refuses to release. It's speculation in code form.",
+      "impact": {}
+    },
+    {
+      "event_id": "f58907b4-55fc-4110-af99-4b9bd7e12a3f",
+      "source": "rss:decrypt",
+      "title": "Aave Fights to Unfreeze $71 Million as Kelp DAO Hack Spills Into Court",
+      "url": "https://decrypt.co/366744/aave-unfreeze-71m-arbitrum-kelp-dao-hack",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-04T21:56:03+00:00",
+      "raw_text": "Aave Fights to Unfreeze $71 Million as Kelp DAO Hack Spills Into Court\n\nA federal case over frozen crypto could determine whether DeFi recovery funds can be seized to satisfy unrelated judgments.",
+      "impact": {}
+    },
+    {
+      "event_id": "e28ad187-69b7-442a-bbd9-c2c320f80b50",
+      "source": "rss:cointelegraph",
+      "title": "DTCC eyes October tokenized securities launch with 50 DeFi and TradFi giants",
+      "url": "https://cointelegraph.com/news/dtcc-eyes-october-tokenized-securities-launch-with-dozens-of-wall-street-giants?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-04T21:55:00+00:00",
+      "raw_text": "DTCC eyes October tokenized securities launch with 50 DeFi and TradFi giants\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DTCC eyes October tokenized securities launch with 50 DeFi and TradFi giants \" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/",
+      "impact": {}
+    },
+    {
+      "event_id": "49720fba-cfa3-47a0-b1ca-c3b6de578236",
+      "source": "rss:decrypt",
+      "title": "K-Pop Firm's Stock Plunges as It Dumps Bitcoin Treasury Plan for AI Pivot",
+      "url": "https://decrypt.co/366740/k-pop-firm-stock-plunges-dumps-bitcoin-treasury-plan-ai-pivot",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-04T21:15:24+00:00",
+      "raw_text": "K-Pop Firm's Stock Plunges as It Dumps Bitcoin Treasury Plan for AI Pivot\n\nK Wave Media is shifting $485 million in funding from its Bitcoin treasury strategy towards an AI infrastructure play.",
+      "impact": {}
+    },
     {
       "event_id": "aeff3ac7-4646-443f-989d-7852238b25ec",
       "source": "rss:theblock",
@@ -11,6 +71,18 @@
       "tokens": [],
       "timestamp_utc": "2026-05-04T21:02:25+00:00",
       "raw_text": "Exodus payments pivot hits ‘critical threshold,’ opens new revenue streams: Benchmark\n\n<p>Payments infrastructure from Exodus' W3C deal could see revenue move from crypto swaps into more recurring income streams.</p>\n\n<p>Payments infrastructure from Exodus' W3C deal could see revenue move from crypt",
+      "impact": {}
+    },
+    {
+      "event_id": "31c90c1c-fa87-4a4a-9130-103785f767d3",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin short-term cost basis approaches profitability, but $80K must flip to support first",
+      "url": "https://cointelegraph.com/markets/bitcoin-eyes-80k-support-flip-with-key-holder-cost-basis-in-focus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-04T20:38:43+00:00",
+      "raw_text": "Bitcoin short-term cost basis approaches profitability, but $80K must flip to support first\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin short-term cost basis approaches profitability, but $80K must flip to support first\" class=\"type:primaryImage\" src=\"https://ima",
       "impact": {}
     },
     {
@@ -32,10 +104,16 @@
       "url": "https://bitcoinmagazine.com/markets/bitcoin-price-breaks-80000",
       "event_type": "whale_move",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-04T20:20:14+00:00",
       "raw_text": "Bitcoin Price Reclaims $80,000 Amid Surging ETF Demand, Positive Iran News\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Bitcoin-Price-Reclaims-80000-Amid-Surging-ETF-Demand-Positive-Iran-News-.jpg",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.058,
+        "t_plus_15m": -0.061,
+        "t_plus_1h": 0.074
+      }
     },
     {
       "event_id": "a768ecbf-185f-4721-b6e4-1dd5ff251661",
@@ -87,7 +165,8 @@
       "raw_text": "Bitcoin-Funded ‘Satoshi Scholarship’ Opens Lomond School Doors to Global Students\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Bitcoin-Funded-‘Satoshi-Scholarship-Opens-Lomond-School-Doors-to-Glob",
       "impact": {
         "t_plus_5m": 0.0391,
-        "t_plus_15m": 0.0876
+        "t_plus_15m": 0.0876,
+        "t_plus_1h": -0.1026
       }
     },
     {
@@ -6358,116 +6437,44 @@
       "timestamp_utc": "2026-04-28T15:18:44+00:00",
       "raw_text": "'Crypto Godfather' says bitcoin has not reached its bottom and a new all-time high is off the table for 2026",
       "impact": {}
-    },
-    {
-      "event_id": "5707da90-7beb-4e3e-9090-8b283666c646",
-      "source": "rss:bitcoinmagazine",
-      "title": "Amboss Activates RailsX, Enabling Self-Custody Stablecoin Trading on Bitcoin Lightning",
-      "url": "https://bitcoinmagazine.com/news/amboss-activates-railsx-self-custody",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-28T15:07:54+00:00",
-      "raw_text": "Amboss Activates RailsX, Enabling Self-Custody Stablecoin Trading on Bitcoin Lightning\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Amboss-Activates-RailsX-Enabling-Self-Custody-Stablecoin-Trading",
-      "impact": {}
-    },
-    {
-      "event_id": "a331f51d-9055-4b79-a4fd-88b285ff1af5",
-      "source": "rss:cointelegraph",
-      "title": "Galaxy Digital posts $216M Q1 loss as crypto market slides 20%",
-      "url": "https://cointelegraph.com/news/galaxy-216-million-q1-2026-loss-crypto-market-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-28T15:06:32+00:00",
-      "raw_text": "Galaxy Digital posts $216M Q1 loss as crypto market slides 20%\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Galaxy Digital posts $216M Q1 loss as crypto market slides 20%\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1b",
-      "impact": {}
-    },
-    {
-      "event_id": "4ca3715c-cc16-4f6c-8dfe-4d0d521bdfa0",
-      "source": "rss:theblock",
-      "title": "Tether develops modular bitcoin mining systems with Canaan in latest infrastructure push",
-      "url": "https://www.theblock.co/post/399196/tether-develops-modular-bitcoin-mining-systems-with-canaan-in-latest-infrastructure-push?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-28T14:53:58+00:00",
-      "raw_text": "Tether develops modular bitcoin mining systems with Canaan in latest infrastructure push\n\n<p>Tether said it is developing new modular bitcoin mining systems with Canaan and ACME Swisstech in a deeper pusher into infrastructure.</p>\n\n<p>Tether said it is developing new modular bitcoin mining systems ",
-      "impact": {}
-    },
-    {
-      "event_id": "de3f9620-7065-4bdb-b74a-ec048ca2ee3a",
-      "source": "rss:cointelegraph",
-      "title": "AML crackdown eclipses securities enforcement as crypto’s top regulatory risk: Report",
-      "url": "https://cointelegraph.com/news/aml-crackdown-eclipses-securities-enforcement-crypto-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-28T14:50:36+00:00",
-      "raw_text": "AML crackdown eclipses securities enforcement as crypto’s top regulatory risk: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"AML crackdown eclipses securities enforcement as crypto’s top regulatory risk: Report\" class=\"type:primaryImage\" src=\"https://images.cointele",
-      "impact": {}
-    },
-    {
-      "event_id": "e9adb4dd-45ea-4eec-8608-f68258325150",
-      "source": "rss:cointelegraph",
-      "title": "Can Bitcoin hit $250K this year? Traders say it may be time to ‘sell in May’",
-      "url": "https://cointelegraph.com/markets/can-bitcoin-hit-250k-this-year-top-btc-chart-watchers-weigh?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-28T14:43:59+00:00",
-      "raw_text": "Can Bitcoin hit $250K this year? Traders say it may be time to ‘sell in May’\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Can Bitcoin hit $250K this year? Traders say it may be time to ‘sell in May’\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/5",
-      "impact": {}
-    },
-    {
-      "event_id": "5d8991e6-4405-488c-8805-96ab6c8c954a",
-      "source": "rss:coindesk",
-      "title": "Not a theft, but a statement: Inside the Bitcoin proposal to reassign Satoshi-linked coins",
-      "url": "https://www.coindesk.com/tech/2026/04/28/bitcoiners-are-calling-ecash-a-hard-fork-theft-but-it-doesn-t-even-touch-satoshi-s-btc",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-28T14:41:31+00:00",
-      "raw_text": "Not a theft, but a statement: Inside the Bitcoin proposal to reassign Satoshi-linked coins",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 170,
+        "count": 169,
         "avg_1h": -0.04,
         "avg_24h": 0.34,
         "win_rate_1h_gt5pct": 0.0
       },
+      "narrative": {
+        "count": 187,
+        "avg_1h": -0.16,
+        "avg_24h": -0.13,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 30,
+        "avg_1h": 0.34,
+        "avg_24h": 1.23,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 100,
+        "count": 99,
         "avg_1h": 0.02,
         "avg_24h": 0.46,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
         "count": 5,
-        "avg_1h": 0.18,
+        "avg_1h": 0.15,
         "avg_24h": -1.81,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 186,
-        "avg_1h": -0.16,
-        "avg_24h": -0.13,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
         "count": 10,
-        "avg_1h": 0.02,
+        "avg_1h": -0.04,
         "avg_24h": -1.13,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 29,
-        "avg_1h": 0.34,
-        "avg_24h": 1.23,
         "win_rate_1h_gt5pct": 0.0
       }
     }
