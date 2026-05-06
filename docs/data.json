@@ -1,6 +1,168 @@
 {
-  "generated_at": "2026-05-06T16:52:19.420331+00:00",
+  "generated_at": "2026-05-06T18:54:12.042324+00:00",
   "events": [
+    {
+      "event_id": "f394683a-6956-424b-a8ee-2398c4390716",
+      "source": "rss:coindesk",
+      "title": "Crypto bill won't move without a ban on officials' industry ties, says U.S. Senator Gillibrand",
+      "url": "https://www.coindesk.com/policy/2026/05/06/crypto-bill-won-t-move-without-a-ban-on-officials-industry-ties-says-u-s-senator-gillibrand",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-06T17:08:15+00:00",
+      "raw_text": "Crypto bill won't move without a ban on officials' industry ties, says U.S. Senator Gillibrand",
+      "impact": {}
+    },
+    {
+      "event_id": "f9739ff6-d95e-45c7-8a03-213640dbaf39",
+      "source": "rss:bitcoinmagazine",
+      "title": "Boltz Launches Non-Custodial USDC Swaps, Bridging Bitcoin Directly to Circle’s Regulated Dollar",
+      "url": "https://bitcoinmagazine.com/business/boltz-launches-non-custodial-usdc-swaps-bridging-bitcoin-directly-to-circles-regulated-dollar",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-06T17:00:00+00:00",
+      "raw_text": "Boltz Launches Non-Custodial USDC Swaps, Bridging Bitcoin Directly to Circle’s Regulated Dollar\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Gemini_Generated_Image_l4r3qal4r3qal4r3.webp\" style=\"di",
+      "impact": {}
+    },
+    {
+      "event_id": "763f17ca-7b75-4a9e-89ef-bfbdb8f96984",
+      "source": "rss:decrypt",
+      "title": "Google DeepMind Takes Stake in 'Eve Online' Maker, Will Use Game to Test AI Behavior",
+      "url": "https://decrypt.co/366991/google-deepmind-takes-stake-in-eve-online-maker-will-use-game-to-test-ai-behavior",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-06T16:59:13+00:00",
+      "raw_text": "Google DeepMind Takes Stake in 'Eve Online' Maker, Will Use Game to Test AI Behavior\n\nThe wild world of space simulation game Eve Online will soon become an AI research destination for Google DeepMind thanks to a new deal.",
+      "impact": {}
+    },
+    {
+      "event_id": "43ead433-349e-40a5-b2fe-00f7f890efda",
+      "source": "rss:coindesk",
+      "title": "The end of ads: Coinbase engineer says AI agents could kill the internet’s favorite business model",
+      "url": "https://www.coindesk.com/tech/2026/05/06/the-end-of-ads-coinbase-engineer-says-ai-agents-could-kill-the-internet-s-favorite-business-model",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-06T16:44:38+00:00",
+      "raw_text": "The end of ads: Coinbase engineer says AI agents could kill the internet’s favorite business model",
+      "impact": {}
+    },
+    {
+      "event_id": "b8b543a9-1fb1-40c3-a9c4-8016d31be4a8",
+      "source": "rss:cointelegraph",
+      "title": "Ether tests $2.4K as accumulators add 246K ETH: How high can price go?",
+      "url": "https://cointelegraph.com/markets/ether-tests-24k-accumulators-add-264k-eth-how-high-can-price-go?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [
+        "ETH"
+      ],
+      "timestamp_utc": "2026-05-06T16:32:46+00:00",
+      "raw_text": "Ether tests $2.4K as accumulators add 246K ETH: How high can price go?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ether tests $2.4K as accumulators add 246K ETH: How high can price go?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6L",
+      "impact": {
+        "t_plus_5m": -0.1878,
+        "t_plus_15m": -0.0383,
+        "t_plus_1h": -0.2728
+      }
+    },
+    {
+      "event_id": "90183e5e-390e-4898-997a-f215396c12f4",
+      "source": "rss:coindesk",
+      "title": "Kevin O’Leary says Wall Street’s tokenization boom is all talk without crypto rules",
+      "url": "https://www.coindesk.com/markets/2026/05/06/kevin-o-leary-says-wall-street-s-tokenization-boom-is-all-talk-without-crypto-rules",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-06T16:27:36+00:00",
+      "raw_text": "Kevin O’Leary says Wall Street’s tokenization boom is all talk without crypto rules",
+      "impact": {}
+    },
+    {
+      "event_id": "96c9e8fb-c29e-4726-8e66-5cfa9264316d",
+      "source": "rss:theblock",
+      "title": "Sen. Gillibrand: No crypto bill without ethics provision amid President Trump’s ties through memecoins, World Liberty",
+      "url": "https://www.theblock.co/post/400275/sen-gillibrand-no-crypto-bill-without-ethics-provision-amid-president-trumps-ties-through-memecoins-world-liberty?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-06T16:19:09+00:00",
+      "raw_text": "Sen. Gillibrand: No crypto bill without ethics provision amid President Trump’s ties through memecoins, World Liberty\n\n<p>There will be no deal without an ethics provision in sweeping cryptocurrency market structure legislation, warned Sen. Kirsten Gillibrand.</p>\n\n<p>There will be no deal without a",
+      "impact": {}
+    },
+    {
+      "event_id": "53a66543-304a-46aa-b838-35090a4d9aa1",
+      "source": "rss:coindesk",
+      "title": "Crypto Long & Short: In quiet crypto markets, yield is the trade",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/05/06/crypto-long-and-short-in-quiet-crypto-markets-yield-is-the-trade",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-06T16:00:00+00:00",
+      "raw_text": "Crypto Long & Short: In quiet crypto markets, yield is the trade",
+      "impact": {}
+    },
+    {
+      "event_id": "e5db1612-4d9b-4915-a972-20a7c1495fb8",
+      "source": "rss:theblock",
+      "title": "Morgan Stanley pilots crypto trading on E*Trade with 50-basis-point fee: Bloomberg",
+      "url": "https://www.theblock.co/post/400259/morgan-stanley-pilots-crypto-trading-on-etrade-with-50-basis-point-fee-bloomberg?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-06T15:44:58+00:00",
+      "raw_text": "Morgan Stanley pilots crypto trading on E*Trade with 50-basis-point fee: Bloomberg\n\n<p>Morgan Stanley pilots crypto trading at 50 basis points, expanding digital asset push weeks after launching a bitcoin ETF.</p>\n\n<p>Morgan Stanley pilots crypto trading at 50 basis points, expanding digital asset p",
+      "impact": {}
+    },
+    {
+      "event_id": "2ad4ba98-0c79-48d6-bf3b-46b71721fd74",
+      "source": "rss:decrypt",
+      "title": "Strategy Yield ETN Gives UK Investors Exposure to Bitcoin Giant's STRC Shares",
+      "url": "https://decrypt.co/366984/strategy-yield-etn-uk-investors-exposure-bitcoin-giant-strc-shares",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-06T15:40:26+00:00",
+      "raw_text": "Strategy Yield ETN Gives UK Investors Exposure to Bitcoin Giant's STRC Shares\n\nThe 21Shares exchange-traded note gives U.K. investors exposure to preferred shares of top Bitcoin treasury firm, Strategy.",
+      "impact": {}
+    },
+    {
+      "event_id": "6ca51653-966e-429a-a0fc-3cdb6604163f",
+      "source": "rss:theblock",
+      "title": "Kraken launches regulated crypto spot margin trading in US on heels of Bitnomial deal",
+      "url": "https://www.theblock.co/post/400247/kraken-launches-regulated-crypto-spot-margin-trading-us-bitnomial-deal?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-06T15:39:50+00:00",
+      "raw_text": "Kraken launches regulated crypto spot margin trading in US on heels of Bitnomial deal\n\n<p>The rollout marks the first product built on Payward’s newly acquired Bitnomial licenses, with perpetuals and options expected later.</p>\n\n<p>The rollout marks the first product built on Payward’s newly acquire",
+      "impact": {}
+    },
+    {
+      "event_id": "e477c4a8-0f04-4b2c-be20-1543a052667d",
+      "source": "rss:decrypt",
+      "title": "Reform UK’s Farage Claims 'No Obligation' to Declare Tether Billionaire's $6.7M Gift",
+      "url": "https://decrypt.co/366973/reform-uks-farage-claims-no-obligation-to-declare-tether-billionaires-6-7m-gift",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-06T15:38:53+00:00",
+      "raw_text": "Reform UK’s Farage Claims 'No Obligation' to Declare Tether Billionaire's $6.7M Gift\n\nFarage insisted that the gift from Christopher Harborne was for his personal security and had been reviewed “from every legal angle.”",
+      "impact": {}
+    },
+    {
+      "event_id": "1f4704f1-1f9b-40f8-8575-e0383ba23604",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin price rejects at $83K as Trump calls Iran deal 'big assumption'",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-rejects-83k-trump-calls-iran-deal-big-assumption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-06T15:37:38+00:00",
+      "raw_text": "Bitcoin price rejects at $83K as Trump calls Iran deal 'big assumption'\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price rejects at $83K as Trump calls Iran deal 'big assumption'\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
+      "impact": {}
+    },
     {
       "event_id": "d67172b1-d4db-47fb-8117-32e2de2351a4",
       "source": "rss:coindesk",
@@ -412,7 +574,8 @@
       "impact": {
         "t_plus_5m": 0.3551,
         "t_plus_15m": 0.5067,
-        "t_plus_1h": -0.0965
+        "t_plus_1h": -0.0965,
+        "t_plus_4h": -0.3605
       }
     },
     {
@@ -466,7 +629,8 @@
       "impact": {
         "t_plus_5m": 0.5943,
         "t_plus_15m": 0.5708,
-        "t_plus_1h": 0.34
+        "t_plus_1h": 0.34,
+        "t_plus_4h": -0.6225
       }
     },
     {
@@ -496,7 +660,8 @@
       "impact": {
         "t_plus_5m": 0.5581,
         "t_plus_15m": 0.6009,
-        "t_plus_1h": 0.3654
+        "t_plus_1h": 0.3654,
+        "t_plus_4h": -0.5404
       }
     },
     {
@@ -586,7 +751,8 @@
       "impact": {
         "t_plus_5m": -0.3211,
         "t_plus_15m": -0.2805,
-        "t_plus_1h": 0.2037
+        "t_plus_1h": 0.2037,
+        "t_plus_4h": -1.0156
       }
     },
     {
@@ -774,6 +940,18 @@
       "tokens": [],
       "timestamp_utc": "2026-05-06T07:23:57+00:00",
       "raw_text": "Crypto derivatives have converged with Wall Street. Equity perps could soon prove it.",
+      "impact": {}
+    },
+    {
+      "event_id": "d90f93fb-c489-4e27-a3aa-c08c3708acba",
+      "source": "rss:cointelegraph",
+      "title": "Kraken brings spot margin trading onshore for eligible US retail traders",
+      "url": "https://cointelegraph.com/news/kraken-opens-regulated-spot-margin-trading-to-us-retail-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-06T07:00:00+00:00",
+      "raw_text": "Kraken brings spot margin trading onshore for eligible US retail traders\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken brings spot margin trading onshore for eligible US retail traders\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
       "impact": {}
     },
     {
@@ -6271,204 +6449,36 @@
       "timestamp_utc": "2026-04-30T12:39:11+00:00",
       "raw_text": "OKX rolls out protocol for autonomous AI agents to pay and transact\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OKX rolls out protocol for autonomous AI agents to pay and transact\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXl",
       "impact": {}
-    },
-    {
-      "event_id": "37ee1e14-725f-4241-b5ae-ff202d4a001a",
-      "source": "rss:coindesk",
-      "title": "Germany’s AllUnity expands EURAU to Solana as euro stablecoins gain traction",
-      "url": "https://www.coindesk.com/business/2026/04/30/germany-s-allunity-expands-eurau-to-solana-as-euro-stablecoins-gain-traction",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-30T11:58:32+00:00",
-      "raw_text": "Germany’s AllUnity expands EURAU to Solana as euro stablecoins gain traction",
-      "impact": {}
-    },
-    {
-      "event_id": "6d5b7506-1c08-4bbe-8944-ff6f30ca292c",
-      "source": "rss:coindesk",
-      "title": "The Green Beret was just the start: New data suggests military insider trading crisis on Polymarket",
-      "url": "https://www.coindesk.com/markets/2026/04/30/polymarket-s-military-markets-show-signs-of-insider-edge-report-suggests",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-30T11:57:29+00:00",
-      "raw_text": "The Green Beret was just the start: New data suggests military insider trading crisis on Polymarket",
-      "impact": {}
-    },
-    {
-      "event_id": "cf8d8019-293f-4ef0-ba56-dd1ad5bd11cd",
-      "source": "rss:cointelegraph",
-      "title": "Crypto hack losses top $630M in April, highest since February 2025",
-      "url": "https://cointelegraph.com/news/crypto-hacks-cause-630m-losses-in-april-highest-since-february-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-30T11:47:52+00:00",
-      "raw_text": "Crypto hack losses top $630M in April, highest since February 2025\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto hack losses top $630M in April, highest since February 2025\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb",
-      "impact": {}
-    },
-    {
-      "event_id": "a4317d37-22c1-4275-b107-34a1a99d2794",
-      "source": "rss:theblock",
-      "title": "MegaETH token goes live as major exchanges open MEGA trading",
-      "url": "https://www.theblock.co/post/399563/megaeth-token-goes-live-as-major-exchanges-open-mega-trading?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-04-30T11:26:32+00:00",
-      "raw_text": "MegaETH token goes live as major exchanges open MEGA trading\n\n<p>MegaETH’s MEGA token went live on April 30, completing a seven-day countdown triggered after the project hit its first KPI with 10 live apps.</p>\n\n<p>MegaETH’s MEGA token went live on April 30, completing a seven-day countdown triggere",
-      "impact": {}
-    },
-    {
-      "event_id": "e93814ef-2695-4645-9058-22711854c695",
-      "source": "rss:cointelegraph",
-      "title": "US seized $500M in Iranian crypto assets, Treasury secretary says",
-      "url": "https://cointelegraph.com/news/us-seized-500m-in-iranian-crypto-assets-treasury-secretary-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-30T11:21:51+00:00",
-      "raw_text": "US seized $500M in Iranian crypto assets, Treasury secretary says\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US seized $500M in Iranian crypto assets, Treasury secretary says\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2F",
-      "impact": {}
-    },
-    {
-      "event_id": "73180576-ba20-4652-a775-c865bc550998",
-      "source": "rss:coindesk",
-      "title": "Seasonal trends favor bulls even as bitcoin ends April in a defensive mood",
-      "url": "https://www.coindesk.com/daybook-us/2026/04/30/seasonal-trends-favor-bulls-even-as-bitcoin-ends-april-in-a-defensive-mood",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-30T11:15:12+00:00",
-      "raw_text": "Seasonal trends favor bulls even as bitcoin ends April in a defensive mood",
-      "impact": {}
-    },
-    {
-      "event_id": "745a7174-6895-4f04-bcd5-d1b091ecc554",
-      "source": "rss:cointelegraph",
-      "title": "South Korea’s Shinhan Card taps Solana to test real-world stablecoin payments",
-      "url": "https://cointelegraph.com/news/south-korean-credit-card-giant-partners-with-solana-for-stablecoin-payments-defi-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-30T11:10:47+00:00",
-      "raw_text": "South Korea’s Shinhan Card taps Solana to test real-world stablecoin payments\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea’s Shinhan Card taps Solana to test real-world stablecoin payments\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
-      "impact": {}
-    },
-    {
-      "event_id": "d739884e-78a9-48a6-b85c-606a4171848d",
-      "source": "rss:coindesk",
-      "title": "Bitcoin faces $80,000 resistance as derivatives show signs of risk aversion",
-      "url": "https://www.coindesk.com/markets/2026/04/30/bitcoin-faces-usd80-000-resistance-as-derivatives-shows-signs-of-risk-aversion",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-30T11:01:26+00:00",
-      "raw_text": "Bitcoin faces $80,000 resistance as derivatives show signs of risk aversion",
-      "impact": {}
-    },
-    {
-      "event_id": "a31ed6f0-b8af-4128-90c0-5dbff0690293",
-      "source": "rss:coindesk",
-      "title": "Bitcoin faces $80,000 resistance as derivatives shows signs of risk aversion",
-      "url": "https://www.coindesk.com/markets/2026/04/30/bitcoin-faces-usd80-000-resistance-as-derivatives-shows-signs-of-risk-aversion",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-30T11:01:26+00:00",
-      "raw_text": "Bitcoin faces $80,000 resistance as derivatives shows signs of risk aversion",
-      "impact": {}
-    },
-    {
-      "event_id": "df076dba-da4b-44d7-87b8-eb3fe40b86dd",
-      "source": "rss:theblock",
-      "title": "Wasabi Protocol hit by more than $5 million exploit across multiple chains, security firms say",
-      "url": "https://www.theblock.co/post/399558/wasabi-protocol-hit-by-more-than-5-million-exploit-across-multiple-chains-security-firms-say?utm_source=rss&utm_medium=rss",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-30T10:57:49+00:00",
-      "raw_text": "Wasabi Protocol hit by more than $5 million exploit across multiple chains, security firms say\n\n<p>Blockaid and CertiK said a compromised admin key was used to upgrade Wasabi Protocol contracts and drain funds.</p>\n\n<p>Blockaid and CertiK said a compromised admin key was used to upgrade Wasabi Proto",
-      "impact": {}
-    },
-    {
-      "event_id": "04bcbf3e-2b6e-48b1-a19d-b1389848b6da",
-      "source": "rss:cointelegraph",
-      "title": "Australia draft payments vision eyes stablecoin interoperability",
-      "url": "https://cointelegraph.com/news/australia-payment-planners-flag-tokenized-money-as-future-rail-issue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-30T10:54:06+00:00",
-      "raw_text": "Australia draft payments vision eyes stablecoin interoperability\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Australia draft payments vision eyes stablecoin interoperability\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkL",
-      "impact": {}
-    },
-    {
-      "event_id": "7e63eca7-5ead-4c6f-bb61-978561b4fd42",
-      "source": "rss:coindesk",
-      "title": "Wasabi Protocol drained of $4.5 million in apparent admin key compromise",
-      "url": "https://www.coindesk.com/tech/2026/04/30/wasabi-protocol-drained-for-usd4-5-million-in-apparent-admin-key-compromise",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-30T10:37:47+00:00",
-      "raw_text": "Wasabi Protocol drained of $4.5 million in apparent admin key compromise",
-      "impact": {}
-    },
-    {
-      "event_id": "a268f56c-7ce1-4103-b6d5-d97bb54d4670",
-      "source": "rss:coindesk",
-      "title": "Wasabi Protocol drained for $4.5 million in apparent admin key compromise",
-      "url": "https://www.coindesk.com/tech/2026/04/30/wasabi-protocol-drained-for-usd4-5-million-in-apparent-admin-key-compromise",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-30T10:37:47+00:00",
-      "raw_text": "Wasabi Protocol drained for $4.5 million in apparent admin key compromise",
-      "impact": {}
-    },
-    {
-      "event_id": "a731e9e0-b3e0-474d-84af-ae6d6854e36a",
-      "source": "rss:cointelegraph",
-      "title": "Crypto becomes most muted topic on X, and AI slop may be the culprit",
-      "url": "https://cointelegraph.com/news/crypto-becomes-most-muted-topic-on-x-and-ai-slop-may-be-the-culprit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-30T10:27:33+00:00",
-      "raw_text": "Crypto becomes most muted topic on X, and AI slop may be the culprit\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto becomes most muted topic on X, and AI slop may be the culprit\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wY",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 188,
+        "avg_1h": -0.12,
+        "avg_24h": 0.66,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 71,
+        "avg_1h": -0.0,
+        "avg_24h": 1.54,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 197,
+        "avg_1h": 0.24,
+        "avg_24h": 3.41,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "listing": {
         "count": 12,
         "avg_1h": -0.04,
         "avg_24h": -1.13,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 187,
-        "avg_1h": -0.11,
-        "avg_24h": 0.66,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 196,
-        "avg_1h": 0.24,
-        "avg_24h": 3.41,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 69,
-        "avg_1h": -0.0,
-        "avg_24h": 1.54,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 34,
+        "count": 30,
         "avg_1h": 0.48,
         "avg_24h": 1.73,
         "win_rate_1h_gt5pct": 0.0
