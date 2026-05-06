@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-05T23:59:30.856329+00:00",
+  "generated_at": "2026-05-06T04:00:26.923835+00:00",
   "events": [
+    {
+      "event_id": "010e2692-6a70-42a3-ac90-34fa88525b41",
+      "source": "rss:coindesk",
+      "title": "Michael Saylor's Strategy signals potential bitcoin sale to fund dividends obligations",
+      "url": "https://www.coindesk.com/business/2026/05/05/michael-saylor-s-strategy-signals-potential-bitcoin-sale-to-fund-dividends-obligations",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-05T23:43:44+00:00",
+      "raw_text": "Michael Saylor's Strategy signals potential bitcoin sale to fund dividends obligations",
+      "impact": {}
+    },
     {
       "event_id": "9ea9bdb6-fad1-4f89-9d30-d03bfc9ecc2a",
       "source": "rss:coindesk",
@@ -80,10 +92,16 @@
       "url": "https://decrypt.co/366894/cme-launch-bitcoin-volatility-futures-independent-btc-price",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-05T22:01:02+00:00",
       "raw_text": "CME Gearing Up to Launch Bitcoin Volatility Futures Independent From BTC’s Price\n\nCME's upcoming futures product will track whether the market thinks the price of Bitcoin is about to swing wildly or stay steady.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.4679,
+        "t_plus_15m": 0.2353,
+        "t_plus_1h": -0.0992
+      }
     },
     {
       "event_id": "b16d6e6c-d2fc-48e1-9ed7-1a7a0f42d377",
@@ -260,10 +278,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-eyes-clear-path-to-90k-as-79b-shorts-unwind-since-february?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-05T21:13:22+00:00",
       "raw_text": "Bitcoin short liquidations push BTC to multi-month highs: Is $90K next?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin short liquidations push BTC to multi-month highs: Is $90K next?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.4817,
+        "t_plus_15m": 0.4382,
+        "t_plus_1h": 0.2353
+      }
     },
     {
       "event_id": "cf19bb2e-f4bc-4de7-9880-022d923db860",
@@ -472,7 +496,8 @@
       "impact": {
         "t_plus_5m": -0.2627,
         "t_plus_15m": -0.2053,
-        "t_plus_1h": -0.119
+        "t_plus_1h": -0.119,
+        "t_plus_4h": -0.5781
       }
     },
     {
@@ -6422,22 +6447,16 @@
       "timestamp_utc": "2026-04-29T16:38:48+00:00",
       "raw_text": "OpenAI Sued Over Failure to Warn Police Before Tumbler Ridge Mass Shooting\n\nA California lawsuit could test whether AI companies have a legal duty to report violent threats after a mass shooting in British Columbia.",
       "impact": {}
-    },
-    {
-      "event_id": "16512b33-4d6f-44db-bfa3-a780368bad88",
-      "source": "rss:decrypt",
-      "title": "Canadian Government Pushes for Sweeping Ban on Bitcoin, Crypto ATMs",
-      "url": "https://decrypt.co/365983/canadian-government-pushes-sweeping-ban-bitcoin-crypto-atms",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-29T16:20:39+00:00",
-      "raw_text": "Canadian Government Pushes for Sweeping Ban on Bitcoin, Crypto ATMs\n\nThe country hosts nearly 4,000 crypto ATMs, second only to the U.S.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 184,
+        "avg_1h": -0.04,
+        "avg_24h": 0.57,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 188,
         "avg_1h": 0.26,
@@ -6450,14 +6469,8 @@
         "avg_24h": 1.73,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 183,
-        "avg_1h": -0.05,
-        "avg_24h": 0.57,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 81,
+        "count": 80,
         "avg_1h": 0.01,
         "avg_24h": 1.2,
         "win_rate_1h_gt5pct": 0.0
