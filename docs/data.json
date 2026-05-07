@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-06T23:05:19.772151+00:00",
+  "generated_at": "2026-05-07T00:00:51.353758+00:00",
   "events": [
+    {
+      "event_id": "9e729020-3d92-4138-8f35-6243c16a1dfd",
+      "source": "rss:bitcoinmagazine",
+      "title": "Why eBay Should Ignore GameStop and Use Bitcoin to Save $1.2 Billion in Transaction Costs",
+      "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/ebay-ignore-gamestop-bitcoin",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-06T22:58:57+00:00",
+      "raw_text": "Why eBay Should Ignore GameStop and Use Bitcoin to Save $1.2 Billion in Transaction Costs\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Why-eBay-Should-Ignore-GameStop-and-Start-Using-Bitcoin-to-Sa",
+      "impact": {}
+    },
     {
       "event_id": "25a80d27-0280-4cd4-9383-90c155e15902",
       "source": "rss:coindesk",
@@ -20,10 +32,15 @@
       "url": "https://www.coindesk.com/business/2026/05/06/bitcoin-real-estate-strategy-could-outperform-reits-says-grant-cardone-he-adds-btc-to-treasury",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-06T22:32:30+00:00",
       "raw_text": "Grant Cardone says bitcoin-real estate strategy could outperform REITs, adds more BTC to treasury",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0046,
+        "t_plus_15m": -0.0342
+      }
     },
     {
       "event_id": "eeb0d718-92aa-48cd-89af-4cae3fe0cf6e",
@@ -104,10 +121,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-market-dominance-moves-above-61-will-altcoins-follow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "listing",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-06T22:00:25+00:00",
       "raw_text": "Bitcoin market dominance moves above 61%: Will altcoins follow?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin market dominance moves above 61%: Will altcoins follow?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2124,
+        "t_plus_15m": 0.0978,
+        "t_plus_1h": 0.0636
+      }
     },
     {
       "event_id": "7d7c5c97-af7f-4ac2-b0d4-dbca4b3adbf0",
@@ -304,7 +327,8 @@
       "impact": {
         "t_plus_5m": 0.2556,
         "t_plus_15m": 0.3909,
-        "t_plus_1h": 0.5024
+        "t_plus_1h": 0.5024,
+        "t_plus_4h": 0.1802
       }
     },
     {
@@ -6427,24 +6451,18 @@
       "timestamp_utc": "2026-04-30T17:21:05+00:00",
       "raw_text": "Crypto Is the Most Muted Topic on Elon Musk’s X, Ahead of Politics: Product Head\n\nInternal data shows users mute crypto more than politics and global conflict on X’s For You feed.",
       "impact": {}
-    },
-    {
-      "event_id": "548a18dd-0578-4490-b560-e9569984e22d",
-      "source": "rss:decrypt",
-      "title": "Polymarket Launches Market Integrity Tools Following Soldier’s Insider Trading Arrest",
-      "url": "https://decrypt.co/366177/polymarket-launches-market-integrity-tools-following-soldiers-insider-trading-arrest",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-30T17:11:02+00:00",
-      "raw_text": "Polymarket Launches Market Integrity Tools Following Soldier’s Insider Trading Arrest\n\nThe team-up between Polymarket and Chainalysis aims to bring institutional-grade compliance monitoring to crypto prediction markets.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 71,
+        "avg_1h": 0.06,
+        "avg_24h": 1.54,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 192,
+        "count": 191,
         "avg_1h": 0.31,
         "avg_24h": 3.41,
         "win_rate_1h_gt5pct": 0.0
@@ -6455,15 +6473,9 @@
         "avg_24h": 0.55,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 70,
-        "avg_1h": 0.06,
-        "avg_24h": 1.54,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "listing": {
         "count": 13,
-        "avg_1h": -0.04,
+        "avg_1h": -0.01,
         "avg_24h": -1.13,
         "win_rate_1h_gt5pct": 0.0
       },
