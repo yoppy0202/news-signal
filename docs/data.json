@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T17:01:44.374291+00:00",
+  "generated_at": "2026-05-07T18:56:28.717775+00:00",
   "events": [
     {
       "event_id": "5ebafb91-c1d8-4798-b5bd-95b7bf1a1ac4",
@@ -116,10 +116,16 @@
       "url": "https://www.coindesk.com/markets/2026/05/07/bitcoin-tests-bollinger-bands-breakout-as-creator-flips-bullish-on-btc",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-07T14:09:01+00:00",
       "raw_text": "Bitcoin tests Bollinger Bands breakout as creator flips bullish on BTC",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.5532,
+        "t_plus_15m": 0.3311,
+        "t_plus_1h": -0.0289
+      }
     },
     {
       "event_id": "2c848681-da54-4286-86c0-29014c985b97",
@@ -200,10 +206,16 @@
       "url": "https://cointelegraph.com/news/core-scientific-q1-loss-bitcoin-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-07T13:33:00+00:00",
       "raw_text": "Core Scientific posts $347M loss as AI hosting overtakes Bitcoin mining\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Core Scientific posts $347M loss as AI hosting overtakes Bitcoin mining\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.634,
+        "t_plus_15m": 0.2604,
+        "t_plus_1h": 0.0566
+      }
     },
     {
       "event_id": "1d7f3649-789f-4f70-8abe-91a481494eff",
@@ -320,10 +332,17 @@
       "url": "https://www.theblock.co/post/400393/td-cowen-raises-strategy-price-target-to-395-on-shift-toward-strc-issuance-and-improved-btc-yield-outlook?utm_source=rss&utm_medium=rss",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-07T12:37:02+00:00",
       "raw_text": "TD Cowen raises Strategy price target to $395 on shift toward STRC issuance and improved BTC Yield outlook\n\n<p>TD Cowen raised its MSTR price target to $395, citing an STRC preferred issuance shift and a revised BTC Yield forecast for fiscal 2026.</p>\n\n<p>TD Cowen raised its MSTR price target to $39",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 1.0457,
+        "t_plus_15m": 1.0209,
+        "t_plus_1h": 0.7966,
+        "t_plus_4h": -0.305
+      }
     },
     {
       "event_id": "a079fd97-ceac-4018-a070-d6d69603fa58",
@@ -332,10 +351,17 @@
       "url": "https://cointelegraph.com/markets/bitcoin-analysts-say-this-level-must-break-btc-price-confirm-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-07T12:26:09+00:00",
       "raw_text": "Bitcoin analysts say this level must break for BTC price to confirm bottom\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin analysts say this level must break for BTC price to confirm bottom\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 1.018,
+        "t_plus_15m": 1.0382,
+        "t_plus_1h": 1.1019,
+        "t_plus_4h": -0.4136
+      }
     },
     {
       "event_id": "c28c2efa-5242-4192-a949-4633da986030",
@@ -352,7 +378,8 @@
       "impact": {
         "t_plus_5m": -0.0081,
         "t_plus_15m": 0.0119,
-        "t_plus_1h": 0.075
+        "t_plus_1h": 0.075,
+        "t_plus_4h": -1.4251
       }
     },
     {
@@ -418,7 +445,8 @@
       "impact": {
         "t_plus_5m": -0.1285,
         "t_plus_15m": -0.0746,
-        "t_plus_1h": -0.0081
+        "t_plus_1h": -0.0081,
+        "t_plus_4h": -1.4977
       }
     },
     {
@@ -472,7 +500,8 @@
       "impact": {
         "t_plus_5m": -0.2438,
         "t_plus_15m": -0.1138,
-        "t_plus_1h": -0.2473
+        "t_plus_1h": -0.2473,
+        "t_plus_4h": -0.925
       }
     },
     {
@@ -6451,7 +6480,7 @@
       },
       "narrative": {
         "count": 189,
-        "avg_1h": 0.3,
+        "avg_1h": 0.36,
         "avg_24h": 3.95,
         "win_rate_1h_gt5pct": 0.0
       },
