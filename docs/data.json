@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-05-07T04:00:11.699410+00:00",
+  "generated_at": "2026-05-07T06:49:25.577083+00:00",
   "events": [
+    {
+      "event_id": "3bcc2cb3-3498-4040-8b63-b5cee91c501c",
+      "source": "rss:coindesk",
+      "title": "Three signals pointing to a possible bitcoin move to $85,000",
+      "url": "https://www.coindesk.com/markets/2026/05/07/three-signals-pointing-to-a-possible-bitcoin-move-to-usd85-000",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-07T05:36:52+00:00",
+      "raw_text": "Three signals pointing to a possible bitcoin move to $85,000",
+      "impact": {}
+    },
+    {
+      "event_id": "1b7da210-a6e4-4def-81d5-578739b537fb",
+      "source": "rss:coindesk",
+      "title": "BNY, world's largest custody bank, expands crypto services in Abu Dhabi",
+      "url": "https://www.coindesk.com/business/2026/05/07/bny-world-s-largest-custody-bank-expands-crypto-services-in-abu-dhabi",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-07T05:30:00+00:00",
+      "raw_text": "BNY, world's largest custody bank, expands crypto services in Abu Dhabi",
+      "impact": {}
+    },
+    {
+      "event_id": "b7b0682a-f6dd-4def-95ea-d314d95e4b17",
+      "source": "rss:cointelegraph",
+      "title": "Aave liquidates Kelp DAO hacker's rsETH positions on Ethereum, Arbitrum",
+      "url": "https://cointelegraph.com/news/aave-liquidates-kelp-dao-hackers-rseth-stash-ethereum-arbitrum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "listing",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-07T05:08:55+00:00",
+      "raw_text": "Aave liquidates Kelp DAO hacker's rsETH positions on Ethereum, Arbitrum\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Aave liquidates Kelp DAO hacker's rsETH positions on Ethereum, Arbitrum\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
+      "impact": {}
+    },
+    {
+      "event_id": "fd4e59bf-053b-4bad-8f79-406eb81ec421",
+      "source": "rss:coindesk",
+      "title": "Ripple, JPMorgan settle first cross-border tokenized Treasury redemption on XRP Ledger",
+      "url": "https://www.coindesk.com/markets/2026/05/07/ripple-jpmorgan-settle-first-cross-border-tokenized-treasury-redemption-on-xrp-ledger",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-07T04:58:55+00:00",
+      "raw_text": "Ripple, JPMorgan settle first cross-border tokenized Treasury redemption on XRP Ledger",
+      "impact": {}
+    },
+    {
+      "event_id": "0187ad78-6188-4f8f-ae2e-decf05224518",
+      "source": "rss:coindesk",
+      "title": "Dogecoin slides 4%, bitcoin rally pauses as Iran ceasefire optimism lifts equities",
+      "url": "https://www.coindesk.com/markets/2026/05/07/dogecoin-slides-4-bitcoin-rally-pauses-as-iran-ceasefire-optimism-lifts-equities",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-07T04:33:44+00:00",
+      "raw_text": "Dogecoin slides 4%, bitcoin rally pauses as Iran ceasefire optimism lifts equities",
+      "impact": {}
+    },
+    {
+      "event_id": "022fc8ce-32a0-40c6-a2e2-c5a7312d7548",
+      "source": "rss:cointelegraph",
+      "title": "Stablecoin adoption to scale on back of ‘very large’ tech firms: Bitwise",
+      "url": "https://cointelegraph.com/news/stablecoin-scale-adoption-by-tech-giants-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-07T04:16:33+00:00",
+      "raw_text": "Stablecoin adoption to scale on back of ‘very large’ tech firms: Bitwise\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stablecoin adoption to scale on back of ‘very large’ tech firms: Bitwise\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
+      "impact": {}
+    },
     {
       "event_id": "497184af-3418-4148-b22d-0d47883aced3",
       "source": "rss:theblock",
@@ -20,10 +92,16 @@
       "url": "https://cointelegraph.com/news/jpmorgan-mastercard-first-cross-border-us-treasury-settlement-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-05-07T02:05:55+00:00",
       "raw_text": "JPMorgan, Mastercard make first cross-border US Treasury transfer via XRP Ledger\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"JPMorgan, Mastercard make first cross-border US Treasury transfer via XRP Ledger\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1918,
+        "t_plus_15m": 0.0425,
+        "t_plus_1h": 0.0323
+      }
     },
     {
       "event_id": "7133c14b-57a6-4eed-930e-8dae2b48f6dc",
@@ -44,10 +122,16 @@
       "url": "https://www.theblock.co/post/400327/eric-trump-american-bitcoin-82-million-loss-q1?utm_source=rss&utm_medium=rss",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-07T01:58:01+00:00",
       "raw_text": "Eric Trump’s American Bitcoin reports $82 million loss in Q1 amid ‘record’ mining production\n\n<p>American Bitcoin mined 817 BTC during the first quarter, marking its highest quarterly production on record.</p>\n\n<p>American Bitcoin mined 817 BTC during the first quarter, marking its highest quarterly",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2136,
+        "t_plus_15m": -0.0056,
+        "t_plus_1h": 0.1855
+      }
     },
     {
       "event_id": "d0bce7c7-1ac6-4fa8-a57e-661c2bb9f6bb",
@@ -100,7 +184,8 @@
       "impact": {
         "t_plus_5m": 0.0046,
         "t_plus_15m": -0.0342,
-        "t_plus_1h": 0.1042
+        "t_plus_1h": 0.1042,
+        "t_plus_4h": -0.3867
       }
     },
     {
@@ -190,7 +275,8 @@
       "impact": {
         "t_plus_5m": 0.2124,
         "t_plus_15m": 0.0978,
-        "t_plus_1h": 0.0636
+        "t_plus_1h": 0.0636,
+        "t_plus_4h": -0.1541
       }
     },
     {
@@ -6373,117 +6459,38 @@
       "timestamp_utc": "2026-04-30T19:30:05+00:00",
       "raw_text": "From Cathie Wood to Cantor Fitzgerald, the big money is betting that Robinhood’s crypto slump is just a temporary speed bump",
       "impact": {}
-    },
-    {
-      "event_id": "51394c53-4006-425b-8a20-1abfa9388961",
-      "source": "rss:decrypt",
-      "title": "Senate Votes to Ban Senators and Staff From Using Prediction Markets",
-      "url": "https://decrypt.co/366243/senate-votes-ban-senators-staff-using-prediction-markets",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-30T19:16:38+00:00",
-      "raw_text": "Senate Votes to Ban Senators and Staff From Using Prediction Markets\n\nS. Res. 708 prohibits senators and staff from using prediction markets, and became effective immediately upon passage.",
-      "impact": {}
-    },
-    {
-      "event_id": "2c4de582-00e3-466d-bee7-e43fabed7bf3",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin’s $75K cost basis emerges as key support zone for current bull trend",
-      "url": "https://cointelegraph.com/markets/bitcoins-75k-cost-basis-cluster-emerges-as-key-support-zone-for-cycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-04-30T18:56:06+00:00",
-      "raw_text": "Bitcoin’s $75K cost basis emerges as key support zone for current bull trend\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin’s $75K cost basis emerges as key support zone for current bull trend\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/5",
-      "impact": {
-        "t_plus_5m": -0.1058,
-        "t_plus_15m": -0.0837,
-        "t_plus_1h": -0.0112,
-        "t_plus_4h": -0.2179
-      }
-    },
-    {
-      "event_id": "779bdab9-7bd5-4ea9-97dc-67a13a2f7b91",
-      "source": "rss:decrypt",
-      "title": "North Korean Hackers Have Stolen $6 Billion in Crypto—Including 76% of 2026's Spoils: TRM",
-      "url": "https://decrypt.co/366241/north-korean-hackers-stolen-6-billion-crypto-trm",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-30T18:42:53+00:00",
-      "raw_text": "North Korean Hackers Have Stolen $6 Billion in Crypto—Including 76% of 2026's Spoils: TRM\n\nPyongyang-linked hackers drained $577 million from two DeFi platforms in April, underscoring an escalating threat to crypto markets.",
-      "impact": {}
-    },
-    {
-      "event_id": "ac22da46-fd8b-471b-a10a-d61e4c9581f7",
-      "source": "rss:theblock",
-      "title": "Senate moves to ban themselves from prediction market trading amid insider concerns",
-      "url": "https://www.theblock.co/post/399667/senate-moves-to-ban-themselves-from-prediction-market-trading-amid-insider-concerns?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-04-30T18:36:41+00:00",
-      "raw_text": "Senate moves to ban themselves from prediction market trading amid insider concerns\n\n<p>U.S. senators are now barred from trading on prediction markets following the unanimous passage of a resolution on Thursday.</p>\n\n<p>U.S. senators are now barred from trading on prediction markets following the u",
-      "impact": {}
-    },
-    {
-      "event_id": "3102d434-6551-4d30-8256-fab9c49ad6c5",
-      "source": "rss:decrypt",
-      "title": "OpenAI Finally Explains Why ChatGPT Wouldn't Stop Talking About Goblins",
-      "url": "https://decrypt.co/366197/openai-explains-chatgpt-mention-goblins",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-30T18:16:37+00:00",
-      "raw_text": "OpenAI Finally Explains Why ChatGPT Wouldn't Stop Talking About Goblins\n\nWhy did OpenAI have to write \"never mention goblins\" into its production code on ChatGPT? The company has published a post-mortem.",
-      "impact": {}
-    },
-    {
-      "event_id": "221ad6a4-0c54-48c2-bbe6-225898c9e596",
-      "source": "rss:theblock",
-      "title": "Senators Warren, Wyden press Tether and Commerce Secretary Lutnick over loan to family trust",
-      "url": "https://www.theblock.co/post/399660/senators-warren-wyden-press-tether-commerce-secretary-lutnick-loan-family-trust?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-04-30T18:12:05+00:00",
-      "raw_text": "Senators Warren, Wyden press Tether and Commerce Secretary Lutnick over loan to family trust\n\n<p>Sens. Warren and Wyden are pressing Tether and Commerce Secretary Lutnick over a reported loan made to a trust tied to Lutnick’s children.</p>\n\n<p>Sens. Warren and Wyden are pressing Tether and Commerce ",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 193,
-        "avg_1h": -0.09,
+        "count": 196,
+        "avg_1h": -0.08,
         "avg_24h": 0.55,
         "win_rate_1h_gt5pct": 0.0
       },
+      "listing": {
+        "count": 14,
+        "avg_1h": -0.01,
+        "avg_24h": -1.13,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 189,
-        "avg_1h": 0.31,
+        "count": 188,
+        "avg_1h": 0.29,
         "avg_24h": 3.41,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 31,
+        "count": 30,
         "avg_1h": 0.48,
         "avg_24h": 1.73,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 71,
+        "count": 69,
         "avg_1h": 0.06,
         "avg_24h": 1.54,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "listing": {
-        "count": 13,
-        "avg_1h": -0.01,
-        "avg_24h": -1.13,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
