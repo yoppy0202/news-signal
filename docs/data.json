@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-08T03:50:36.206951+00:00",
+  "generated_at": "2026-05-08T06:07:04.775762+00:00",
   "events": [
+    {
+      "event_id": "2eed0e33-6b56-4860-914f-33a53e4aa8aa",
+      "source": "rss:cointelegraph",
+      "title": "Coinbase shares slide on $400M Q1 loss, revenue miss",
+      "url": "https://cointelegraph.com/news/coinbase-shares-slide-q1-loss-revenue-miss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-08T04:12:44+00:00",
+      "raw_text": "Coinbase shares slide on $400M Q1 loss, revenue miss\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase shares slide on $400M Q1 loss, revenue miss\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hc",
+      "impact": {}
+    },
+    {
+      "event_id": "5b1ab90d-3fda-46c0-b9bb-5f853d1b36ca",
+      "source": "rss:cointelegraph",
+      "title": "Block Inc rises 8% as Q1 gives ‘earnings surprise’ despite Bitcoin dip",
+      "url": "https://cointelegraph.com/news/blocks-rises-8-percent-after-q1-earnings-surprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-08T03:20:03+00:00",
+      "raw_text": "Block Inc rises 8% as Q1 gives ‘earnings surprise’ despite Bitcoin dip\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Block Inc rises 8% as Q1 gives ‘earnings surprise’ despite Bitcoin dip \" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6",
+      "impact": {}
+    },
+    {
+      "event_id": "407d1ce4-9f69-4b4c-98f0-c394524bab4f",
+      "source": "rss:theblock",
+      "title": "Solv Protocol drops LayerZero in favor of Chainlink for $700 million tokenized bitcoin",
+      "url": "https://www.theblock.co/post/400520/solv-protocol-layerzero-chainlink?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-08T02:17:09+00:00",
+      "raw_text": "Solv Protocol drops LayerZero in favor of Chainlink for $700 million tokenized bitcoin\n\n<p>It cited security as the core reason for the migration, in an apparent response to the recent exploit of LayerZero-powered Kelp DAO.</p>\n\n<p>It cited security as the core reason for the migration, in an appare",
+      "impact": {}
+    },
     {
       "event_id": "2c83e272-c83d-4c5f-a798-f4ba4317e51e",
       "source": "rss:theblock",
@@ -196,7 +232,8 @@
       "impact": {
         "t_plus_5m": -0.1778,
         "t_plus_15m": -0.4023,
-        "t_plus_1h": -0.1073
+        "t_plus_1h": -0.1073,
+        "t_plus_4h": -0.3439
       }
     },
     {
@@ -250,7 +287,8 @@
       "impact": {
         "t_plus_5m": 0.08,
         "t_plus_15m": -0.0198,
-        "t_plus_1h": -0.3716
+        "t_plus_1h": -0.3716,
+        "t_plus_4h": -0.1416
       }
     },
     {
@@ -570,6 +608,18 @@
       "tokens": [],
       "timestamp_utc": "2026-05-07T15:32:37+00:00",
       "raw_text": "Panther Protocol deploys privacy infrastructure on Polygon\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Panther Protocol deploys privacy infrastructure on Polygon\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub",
+      "impact": {}
+    },
+    {
+      "event_id": "3a7cb096-2ddd-4001-ba17-898c2fd928d4",
+      "source": "rss:coindesk",
+      "title": "Ripple-linked XRP slips 2.5% below $1.42 as traders watch breakout",
+      "url": "https://www.coindesk.com/markets/2026/05/07/ripple-linked-xrp-slips-25-below-usd1-42-as-traders-watch-breakout",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-07T15:30:08+00:00",
+      "raw_text": "Ripple-linked XRP slips 2.5% below $1.42 as traders watch breakout",
       "impact": {}
     },
     {
@@ -1632,7 +1682,8 @@
         "t_plus_5m": 0.2136,
         "t_plus_15m": -0.0056,
         "t_plus_1h": 0.1855,
-        "t_plus_4h": 0.1097
+        "t_plus_4h": 0.1097,
+        "t_plus_24h": -1.4893
       }
     },
     {
@@ -6390,89 +6441,26 @@
       "timestamp_utc": "2026-05-03T20:20:00+00:00",
       "raw_text": "How Canton Network Lets Institutions Guard Against DeFi Security Risks: Digital Asset CEO\n\nBecause Canton allows participants to implement guardrails, Digital Asset's Yuval Rooz said institutions can protect against bad actors.",
       "impact": {}
-    },
-    {
-      "event_id": "de13de4a-75b3-4e1b-b898-a468ba73a049",
-      "source": "rss:decrypt",
-      "title": "You Installed Hermes. Now Make It Look Better Than ChatGPT or Claude",
-      "url": "https://decrypt.co/366535/you-installed-hermes-make-look-better-chatgpt-claude",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-03T19:55:35+00:00",
-      "raw_text": "You Installed Hermes. Now Make It Look Better Than ChatGPT or Claude\n\nThe terminal is fine. But if you actually want to live in your Hermes agent, here are the four best GUIs the community has built—and how to run them.",
-      "impact": {}
-    },
-    {
-      "event_id": "cb0bd0b4-eaff-46f0-bec2-cfd8d3ae815c",
-      "source": "rss:theblock",
-      "title": "North Korea terrorism creditors move to seize Arbitrum-frozen Kelp DAO ETH ahead of DeFi United vote",
-      "url": "https://www.theblock.co/post/399819/north-korea-terrorism-creditors-move-to-seize-arbitrum-frozen-kelp-dao-eth-ahead-of-defi-united-vote?utm_source=rss&utm_medium=rss",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-05-03T18:39:47+00:00",
-      "raw_text": "North Korea terrorism creditors move to seize Arbitrum-frozen Kelp DAO ETH ahead of DeFi United vote\n\n<p>The plaintiffs are not Kelp DAO hack victims but families holding three unsatisfied terrorism judgments against North Korea looking to collect on debts. </p>\n\n<p>The plaintiffs are not Kelp DAO h",
-      "impact": {
-        "t_plus_5m": -0.2018,
-        "t_plus_15m": -0.1249,
-        "t_plus_1h": -0.0176,
-        "t_plus_4h": 0.1861
-      }
-    },
-    {
-      "event_id": "cdfe5548-654a-4bac-90ad-d40854f24389",
-      "source": "rss:coindesk",
-      "title": "Policy Summit and other things at Consensus 2026: State of Crypto",
-      "url": "https://www.coindesk.com/policy/2026/05/03/policy-summit-and-other-things-at-consensus-2026-state-of-crypto",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-03T18:30:00+00:00",
-      "raw_text": "Policy Summit and other things at Consensus 2026: State of Crypto",
-      "impact": {}
-    },
-    {
-      "event_id": "92cc0ed0-b4fc-4375-9d7a-1df336739970",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin preps highest weekly close since January as BTC price nears $79K",
-      "url": "https://cointelegraph.com/markets/bitcoin-preps-highest-weekly-close-since-january-as-btc-price-nears-79k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-03T16:26:22+00:00",
-      "raw_text": "Bitcoin preps highest weekly close since January as BTC price nears $79K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin preps highest weekly close since January as BTC price nears $79K\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
-      "impact": {
-        "t_plus_5m": -0.1331,
-        "t_plus_15m": -0.0574,
-        "t_plus_1h": -0.0265,
-        "t_plus_4h": 0.0486,
-        "t_plus_24h": 1.4711
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 190,
+        "avg_1h": 0.43,
+        "avg_24h": 6.0,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 206,
+        "count": 205,
         "avg_1h": -0.03,
-        "avg_24h": 0.28,
+        "avg_24h": -0.05,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
         "count": 30,
-        "avg_1h": 0.4,
+        "avg_1h": 0.61,
         "avg_24h": 2.23,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 189,
-        "avg_1h": 0.43,
-        "avg_24h": 6.0,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
