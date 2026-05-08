@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-05-08T22:09:32.860007+00:00",
+  "generated_at": "2026-05-08T23:09:23.013166+00:00",
   "events": [
+    {
+      "event_id": "9f64c4a3-c931-4355-825f-d48762dc303c",
+      "source": "rss:decrypt",
+      "title": "Banking Industry Says Clarity Act Stablecoin Proposal Would Enable 'Evasion'",
+      "url": "https://decrypt.co/367351/banking-industry-clarity-act-stablecoin-evasion",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-08T21:47:36+00:00",
+      "raw_text": "Banking Industry Says Clarity Act Stablecoin Proposal Would Enable 'Evasion'\n\nSenators had hoped the issue, which has plagued crypto legislation for months, had been put to bed with a proposed compromise last week.",
+      "impact": {}
+    },
+    {
+      "event_id": "073518a1-7035-4442-9c3b-fa530677577c",
+      "source": "rss:bitcoinmagazine",
+      "title": "What does Bitcoin “Power Projection” mean to the U.S. Military?",
+      "url": "https://bitcoinmagazine.com/politics/what-does-bitcoin-power-projection-mean-to-the-u-s-military",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-08T21:45:05+00:00",
+      "raw_text": "What does Bitcoin “Power Projection” mean to the U.S. Military?\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/2.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmaga",
+      "impact": {}
+    },
+    {
+      "event_id": "4d009341-ea7f-4b37-8300-e3312df366d7",
+      "source": "rss:cointelegraph",
+      "title": "Estonia's FSA issues investor warning about Zondacrypto",
+      "url": "https://cointelegraph.com/news/estonia-fsa-investor-warning-zondacrypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-08T21:34:29+00:00",
+      "raw_text": "Estonia's FSA issues investor warning about Zondacrypto\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Estonia's FSA issues investor warning about Zondacrypto\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9",
+      "impact": {}
+    },
+    {
+      "event_id": "d982af12-3a68-477f-8166-669df03d68ad",
+      "source": "rss:cointelegraph",
+      "title": "Swiss Bitcoin reserve campaign set to lapse after failing to gather signatures",
+      "url": "https://cointelegraph.com/news/swiss-bitcoin-reserve-campaign-to-lapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-08T21:21:42+00:00",
+      "raw_text": "Swiss Bitcoin reserve campaign set to lapse after failing to gather signatures\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Swiss Bitcoin reserve campaign set to lapse after failing to gather signatures\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/imag",
+      "impact": {}
+    },
     {
       "event_id": "6eaf1d2f-d4ff-4640-9337-53eb524bc2d0",
       "source": "rss:theblock",
@@ -26,6 +74,18 @@
       "impact": {}
     },
     {
+      "event_id": "c47ae3a3-6657-4c70-819b-3f7a34f710c5",
+      "source": "rss:cointelegraph",
+      "title": "Kraken parent company applies for OCC charter in move toward banking",
+      "url": "https://cointelegraph.com/news/kraken-payward-occ-charter-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-08T20:47:00+00:00",
+      "raw_text": "Kraken parent company applies for OCC charter in move toward banking\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken parent company applies for OCC charter in move toward banking\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zM",
+      "impact": {}
+    },
+    {
       "event_id": "874022bb-090b-485e-bec0-f352dec9643e",
       "source": "rss:theblock",
       "title": "CryptoQuant says bitcoin profit-taking could increase further amid ‘bear market rally’",
@@ -44,10 +104,16 @@
       "url": "https://decrypt.co/367309/terawulfs-ai-compute-revenue-outpaces-bitcoin-mining-amid-427-million-loss",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-08T20:29:14+00:00",
       "raw_text": "TeraWulf's AI Compute Revenue Outpaces Bitcoin Mining Amid $427 Million Loss\n\nPublicly traded Bitcoin miner and data center operator TeraWulf reported a hefty net loss in Q1 as its AI revenue took over from BTC.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1072,
+        "t_plus_15m": 0.1002,
+        "t_plus_1h": 0.0521
+      }
     },
     {
       "event_id": "52177ee3-c1d8-4f88-a24a-ba94ef17b756",
@@ -6391,119 +6457,45 @@
       "timestamp_utc": "2026-05-04T20:32:03+00:00",
       "raw_text": "Haun Ventures Raises $1 Billion Fund for the Intersection of Crypto and AI Agents\n\nKatie Haun’s venture firm closes a $1 billion fund to target crypto infrastructure and systems for AI agents to transact autonomously.",
       "impact": {}
-    },
-    {
-      "event_id": "59ef7c19-31dd-435f-82e3-5384c6aba9fe",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin Price Reclaims $80,000 Amid Surging ETF Demand, Positive Iran News",
-      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-breaks-80000",
-      "event_type": "whale_move",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-04T20:20:14+00:00",
-      "raw_text": "Bitcoin Price Reclaims $80,000 Amid Surging ETF Demand, Positive Iran News\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Bitcoin-Price-Reclaims-80000-Amid-Surging-ETF-Demand-Positive-Iran-News-.jpg",
-      "impact": {
-        "t_plus_5m": -0.058,
-        "t_plus_15m": -0.061,
-        "t_plus_1h": 0.074,
-        "t_plus_4h": -0.1332
-      }
-    },
-    {
-      "event_id": "a768ecbf-185f-4721-b6e4-1dd5ff251661",
-      "source": "rss:decrypt",
-      "title": "DeepClaude Lets You Run Claude Code With DeepSeek's Brain for 17x Cheaper",
-      "url": "https://decrypt.co/366729/deepclaude-run-claude-code-deepseek-brain-17x-cheaper",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-04T20:19:37+00:00",
-      "raw_text": "DeepClaude Lets You Run Claude Code With DeepSeek's Brain for 17x Cheaper\n\nA new open-source script swaps Claude Code's expensive Anthropic backend for DeepSeek V4 Pro, OpenRouter, or Fireworks AI—keeping the agent loop, slashing the bill.",
-      "impact": {}
-    },
-    {
-      "event_id": "d268e9e4-60a9-4848-91c3-bdf789bca5b9",
-      "source": "rss:coindesk",
-      "title": "GameStop's $55.5 billion eBay takeover bid puts its $368 million bitcoin stash in the crosshairs",
-      "url": "https://www.coindesk.com/business/2026/05/04/gamestop-s-usd55-5-billion-ebay-takeover-bid-puts-its-usd368-million-bitcoin-stash-in-the-crosshairs",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-04T20:16:04+00:00",
-      "raw_text": "GameStop's $55.5 billion eBay takeover bid puts its $368 million bitcoin stash in the crosshairs",
-      "impact": {}
-    },
-    {
-      "event_id": "d7c918fa-2f6e-4ce3-8d39-d1cc35794717",
-      "source": "rss:cointelegraph",
-      "title": "Tether Gold tops $3.3B as demand for bullion-backed tokens rises",
-      "url": "https://cointelegraph.com/news/tether-gold-tops-33b-as-demand-for-bullion-backed-tokens-rises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-04T19:51:05+00:00",
-      "raw_text": "Tether Gold tops $3.3B as demand for bullion-backed tokens rises\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether Gold tops $3.3B as demand for bullion-backed tokens rises\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkL",
-      "impact": {}
-    },
-    {
-      "event_id": "2d273d52-3aab-48e6-a17c-78ec5ebc5b3c",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin-Funded ‘Satoshi Scholarship’ Opens Lomond School Doors to Global Students",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-funded-satoshi-scholarship-opens",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-04T19:42:45+00:00",
-      "raw_text": "Bitcoin-Funded ‘Satoshi Scholarship’ Opens Lomond School Doors to Global Students\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Bitcoin-Funded-‘Satoshi-Scholarship-Opens-Lomond-School-Doors-to-Glob",
-      "impact": {
-        "t_plus_5m": 0.0391,
-        "t_plus_15m": 0.0876,
-        "t_plus_1h": -0.1026,
-        "t_plus_4h": -0.2898
-      }
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 57,
-        "avg_1h": 0.12,
-        "avg_24h": -0.62,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 205,
+        "count": 208,
         "avg_1h": -0.08,
         "avg_24h": -0.13,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 190,
-        "avg_1h": 0.5,
-        "avg_24h": 5.48,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 32,
+        "count": 33,
         "avg_1h": -0.17,
         "avg_24h": -0.56,
         "win_rate_1h_gt5pct": 0.0
       },
+      "narrative": {
+        "count": 189,
+        "avg_1h": 0.48,
+        "avg_24h": 5.48,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 56,
+        "avg_1h": 0.12,
+        "avg_24h": -0.62,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "listing": {
-        "count": 14,
-        "avg_1h": -0.02,
+        "count": 13,
+        "avg_1h": 0.06,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
-        "count": 2,
-        "avg_1h": 0.07,
+        "count": 1,
+        "avg_1h": null,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
+        "win_rate_1h_gt5pct": null
       }
     }
   }
