@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-05-08T07:56:10.261115+00:00",
+  "generated_at": "2026-05-08T09:49:37.833597+00:00",
   "events": [
+    {
+      "event_id": "cd5bdcbb-7055-4e70-87a2-e54764d2f647",
+      "source": "rss:theblock",
+      "title": "Arbitrum DAO approves $70 million ETH release for Kelp DAO recovery",
+      "url": "https://www.theblock.co/post/400527/arbitrum-dao-approves-eth-release?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-08T07:25:40+00:00",
+      "raw_text": "Arbitrum DAO approves $70 million ETH release for Kelp DAO recovery\n\n<p>However, a May 1 court order restricted Arbitrum DAO from moving the recovered funds, prompting Aave to file an emergency motion against it.</p>\n\n<p>However, a May 1 court order restricted Arbitrum DAO from moving the recovered ",
+      "impact": {}
+    },
+    {
+      "event_id": "243d78cf-09df-4bc1-90a7-9e0da3c5a068",
+      "source": "rss:cointelegraph",
+      "title": "Aptos Foundation, Aptos Labs commit $50M to development as it eyes AI agent future",
+      "url": "https://cointelegraph.com/news/aptos-foundation-labs-commit-50m-sees-opportunity-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-08T07:08:53+00:00",
+      "raw_text": "Aptos Foundation, Aptos Labs commit $50M to development as it eyes AI agent future\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Aptos Foundation, Aptos Labs commit $50M to development as it eyes AI agent future\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.",
+      "impact": {}
+    },
+    {
+      "event_id": "520a22f5-3436-4536-9d24-6d8674799f48",
+      "source": "rss:coindesk",
+      "title": "Consensus panelists explain why Perp DEXes remain a tough sell for institutional investors",
+      "url": "https://www.coindesk.com/markets/2026/05/08/perp-dexs-still-don-t-work-for-institutions-consensus-panelists-explain-why",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-08T06:44:34+00:00",
+      "raw_text": "Consensus panelists explain why Perp DEXes remain a tough sell for institutional investors",
+      "impact": {}
+    },
+    {
+      "event_id": "2aa50b3c-c4f9-433f-b68a-b4cdc16b0d61",
+      "source": "rss:cointelegraph",
+      "title": "AWS Northern Virginia data center overheats, impacting Coinbase",
+      "url": "https://cointelegraph.com/news/aws-data-center-overheating-impacting-coinbase-others?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-08T06:25:52+00:00",
+      "raw_text": "AWS Northern Virginia data center overheats, impacting Coinbase\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"AWS Northern Virginia data center overheats, impacting Coinbase\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx",
+      "impact": {}
+    },
     {
       "event_id": "d6b56597-b4af-46a7-bcb1-71b101f3908f",
       "source": "rss:coindesk",
@@ -44,10 +92,16 @@
       "url": "https://www.coindesk.com/markets/2026/05/08/bitcoin-slips-to-usd79-000-doge-leads-majors-losses-as-negative-funding-rates-set-10-year-record",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "DOGE"
+      ],
       "timestamp_utc": "2026-05-08T05:00:28+00:00",
       "raw_text": "Bitcoin slips to $79,000, DOGE leads majors losses as negative funding rates set 10-year record",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.3826,
+        "t_plus_15m": 0.413,
+        "t_plus_1h": 0.0572
+      }
     },
     {
       "event_id": "2eed0e33-6b56-4860-914f-33a53e4aa8aa",
@@ -155,6 +209,18 @@
       "tokens": [],
       "timestamp_utc": "2026-05-07T22:01:03+00:00",
       "raw_text": "Trump Sons Haven't Abandoned World Liberty Financial, Crypto Firm Insists\n\nWorld Liberty co-founder Zach Witkoff also said Thursday that the crypto firm is “in the final stages” of receiving bank charter approval from the Trump administration.",
+      "impact": {}
+    },
+    {
+      "event_id": "b0c7d0ea-f3d5-4913-90ba-425de2cf3c52",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin exchange reserves fall to two-year low after $8B exodus",
+      "url": "https://cointelegraph.com/markets/8b-bitcoin-exodus-drains-exchange-reserves-to-multi-year-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-07T21:52:34+00:00",
+      "raw_text": "Bitcoin exchange reserves fall to two-year low after $8B exodus\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin exchange reserves fall to two-year low after $8B exodus\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmN",
       "impact": {}
     },
     {
@@ -321,6 +387,18 @@
       "impact": {}
     },
     {
+      "event_id": "9a9757af-a586-4073-a62c-bc278b61ed94",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin slips below $80K despite BTC ETF inflows topping $1B",
+      "url": "https://cointelegraph.com/markets/bitcoin-slips-below-80k-while-weekly-etf-inflows-hit-january-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-07T20:05:09+00:00",
+      "raw_text": "Bitcoin slips below $80K despite BTC ETF inflows topping $1B\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin slips below $80K despite BTC ETF inflows topping $1B\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmNvaW50Z",
+      "impact": {}
+    },
+    {
       "event_id": "d2c6a0d9-3f00-4155-b73e-da76f1cda428",
       "source": "rss:cointelegraph",
       "title": "Bitcoin falls under $80K but four-month high in weekly BTC ETF inflows may curb selling",
@@ -481,6 +559,18 @@
       "tokens": [],
       "timestamp_utc": "2026-05-07T17:50:08+00:00",
       "raw_text": "ZachXBT accuses projects like LAB of ‘highly questionable price action’, posts $10,000 bounty for info on alleged market manipulation\n\n<p>ZachXBT has called out several projects for alleged manipulation, most recently including the AI trading terminal project called LAB.</p>\n\n<p>ZachXBT has called o",
+      "impact": {}
+    },
+    {
+      "event_id": "bc43b263-d77a-4519-b144-dcb5a457eb2c",
+      "source": "rss:cointelegraph",
+      "title": "Kalshi valuation doubles to $22B after $1B funding round",
+      "url": "https://cointelegraph.com/news/kalshi-22b-valuation-1b-funding-prediction-markets-boom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-07T17:43:18+00:00",
+      "raw_text": "Kalshi valuation doubles to $22B after $1B funding round\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi valuation doubles to $22B after $1B funding round\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmNvaW50ZWxlZ3Jhc",
       "impact": {}
     },
     {
@@ -764,6 +854,18 @@
       "impact": {}
     },
     {
+      "event_id": "c50205c6-b498-4568-9102-c65d93f88b60",
+      "source": "rss:cointelegraph",
+      "title": "Kraken parent Payward to buy Reap in $600 million stablecoin payments push",
+      "url": "https://cointelegraph.com/news/kraken-payward-reap-acquisition-600-million-asia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-07T15:00:08+00:00",
+      "raw_text": "Kraken parent Payward to buy Reap in $600 million stablecoin payments push\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken parent Payward to buy Reap in $600 million stablecoin payments push\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
+      "impact": {}
+    },
+    {
       "event_id": "16e55a74-88d4-4b8e-bec9-73511cb45ca2",
       "source": "rss:cointelegraph",
       "title": "Kraken parent Payward to buy Reap in $600M stablecoin payments push",
@@ -821,6 +923,18 @@
       "tokens": [],
       "timestamp_utc": "2026-05-07T14:49:54+00:00",
       "raw_text": "Polygon reduces block time to 1.75 seconds as payments push accelerates\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Polygon reduces block time to 1.75 seconds as payments push accelerates\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
+      "impact": {}
+    },
+    {
+      "event_id": "6e1a8ef2-9d03-4be2-9e03-284a5c33fdc8",
+      "source": "rss:cointelegraph",
+      "title": "XRP analysts watch key support zone as $12 price target emerges",
+      "url": "https://cointelegraph.com/markets/xrp-probably-going-to-12-dollars-price-holds-bottom-for-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-07T14:46:55+00:00",
+      "raw_text": "XRP analysts watch key support zone as $12 price target emerges\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"XRP analysts watch key support zone as $12 price target emerges\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmN",
       "impact": {}
     },
     {
@@ -1138,6 +1252,18 @@
         "t_plus_1h": 0.7966,
         "t_plus_4h": -0.305
       }
+    },
+    {
+      "event_id": "7444cf03-a31b-4aa4-87ad-6209eab7e900",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin must clear $88K to confirm bottom, analysts say",
+      "url": "https://cointelegraph.com/markets/bitcoin-analysts-say-this-level-must-break-btc-price-confirm-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-07T12:26:09+00:00",
+      "raw_text": "Bitcoin must clear $88K to confirm bottom, analysts say\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin must clear $88K to confirm bottom, analysts say\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmNvaW50ZWxlZ3JhcGg",
+      "impact": {}
     },
     {
       "event_id": "a079fd97-ceac-4018-a070-d6d69603fa58",
@@ -6313,134 +6439,6 @@
       "timestamp_utc": "2026-05-04T04:44:12+00:00",
       "raw_text": "‘Stablecoins’ are an outdated term from crypto’s early years: A16z\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"‘Stablecoins’ are an outdated term from crypto’s early years: A16z\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb",
       "impact": {}
-    },
-    {
-      "event_id": "bd8fb60e-e4b8-4b7c-9ee2-675f930f83e1",
-      "source": "rss:cointelegraph",
-      "title": "‘Stablecoins’ are an outdated term from crypto’s early years: a16z",
-      "url": "https://cointelegraph.com/news/stablecoins-are-an-outdated-term-a16z-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-04T04:44:12+00:00",
-      "raw_text": "‘Stablecoins’ are an outdated term from crypto’s early years: a16z\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"‘Stablecoins’ are an outdated term from crypto’s early years: a16z\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb",
-      "impact": {}
-    },
-    {
-      "event_id": "4af2037a-904f-42a0-a8f2-5d509ea393b8",
-      "source": "rss:coindesk",
-      "title": "Veteran trader Peter Brandt sees bitcoin hitting $250,000, but only after a bottom later this year",
-      "url": "https://www.coindesk.com/markets/2026/05/04/veteran-trader-peter-brandt-sees-bitcoin-hitting-usd250-000-but-only-after-a-bottom-later-this-year",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-04T04:43:46+00:00",
-      "raw_text": "Veteran trader Peter Brandt sees bitcoin hitting $250,000, but only after a bottom later this year",
-      "impact": {}
-    },
-    {
-      "event_id": "c8c75632-34c8-4bc7-9c25-59e90589f36e",
-      "source": "rss:coindesk",
-      "title": "XRP zooms above $1.40 on rising volume, putting focus on further breakout",
-      "url": "https://www.coindesk.com/markets/2026/05/04/xrp-zooms-above-usd1-40-on-rising-volume-putting-focus-on-further-breakout",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-05-04T04:40:24+00:00",
-      "raw_text": "XRP zooms above $1.40 on rising volume, putting focus on further breakout",
-      "impact": {
-        "t_plus_5m": 0.5241,
-        "t_plus_15m": 0.4186,
-        "t_plus_1h": 0.2002,
-        "t_plus_4h": -0.0044,
-        "t_plus_24h": -0.6079
-      }
-    },
-    {
-      "event_id": "0d8eec97-1ddb-4170-8c28-ac7803b87e9b",
-      "source": "rss:coindesk",
-      "title": "Dogecoin jumps 4% to lead gains among majors as bitcoin zooms higher",
-      "url": "https://www.coindesk.com/markets/2026/05/04/dogecoin-jumps-4-to-lead-gains-among-majors-as-bitcoin-zooms-higher",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-04T04:34:58+00:00",
-      "raw_text": "Dogecoin jumps 4% to lead gains among majors as bitcoin zooms higher",
-      "impact": {}
-    },
-    {
-      "event_id": "3cb5c9fe-9404-493f-bed7-d8a8d722d40b",
-      "source": "rss:coindesk",
-      "title": "Bitcoin reclaims $80,000 as flows build, but traders hedge and doubt a breakout",
-      "url": "https://www.coindesk.com/markets/2026/05/04/bitcoin-reclaims-usd80-000-as-flows-build-but-traders-hedge-and-doubt-a-breakout",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-04T04:26:44+00:00",
-      "raw_text": "Bitcoin reclaims $80,000 as flows build, but traders hedge and doubt a breakout",
-      "impact": {}
-    },
-    {
-      "event_id": "64ce7747-b477-4f24-8b69-d0885ca5a93b",
-      "source": "rss:cointelegraph",
-      "title": "Stablecoin firms have a $112B additional opportunity in LATAM remittance",
-      "url": "https://cointelegraph.com/news/stablecoin-firms-should-focus-on-non-us-corridors-in-latam-to-capture-opportunities-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-04T04:23:39+00:00",
-      "raw_text": "Stablecoin firms have a $112B additional opportunity in LATAM remittance\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stablecoin firms have a $112B additional opportunity in LATAM remittance\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
-      "impact": {}
-    },
-    {
-      "event_id": "0cf4b968-bfaa-4887-b27d-f616a23eccaf",
-      "source": "rss:cointelegraph",
-      "title": "Stablecoin firms have a $112B additional opportunity in LATAM remittance: Bybit",
-      "url": "https://cointelegraph.com/news/stablecoin-firms-should-focus-on-non-us-corridors-in-latam-to-capture-opportunities-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-04T04:23:39+00:00",
-      "raw_text": "Stablecoin firms have a $112B additional opportunity in LATAM remittance: Bybit\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stablecoin firms have a $112B additional opportunity in LATAM remittance: Bybit\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/im",
-      "impact": {}
-    },
-    {
-      "event_id": "51e05594-0c4f-441e-9c20-3897b1625614",
-      "source": "rss:cointelegraph",
-      "title": "Stablecoin firms have a $112B opportunity in LATAM remittance outside of US-Mexico: Bybit",
-      "url": "https://cointelegraph.com/news/stablecoin-firms-should-focus-on-non-us-corridors-in-latam-to-capture-opportunities-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-04T04:23:39+00:00",
-      "raw_text": "Stablecoin firms have a $112B opportunity in LATAM remittance outside of US-Mexico: Bybit\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stablecoin firms have a $112B opportunity in LATAM remittance outside of US-Mexico: Bybit\" class=\"type:primaryImage\" src=\"https://images.",
-      "impact": {}
-    },
-    {
-      "event_id": "7596506c-40de-4667-a6e7-b97867d84fce",
-      "source": "rss:theblock",
-      "title": "Bitcoin rises past $80,000, breaking ‘major’ psychological resistance zone",
-      "url": "https://www.theblock.co/post/399835/bitcoin-rises-past-80000-trump-hormuz-mission?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-04T04:04:11+00:00",
-      "raw_text": "Bitcoin rises past $80,000, breaking ‘major’ psychological resistance zone\n\n<p>Trump said the US will guide stranded ships through the Strait of Hormuz, while an Iranian official warned that this could violate ceasefire.</p>\n\n<p>Trump said the US will guide stranded ships through the Strait of Hormu",
-      "impact": {}
-    },
-    {
-      "event_id": "27549127-1fae-43f0-9993-1db45f141c42",
-      "source": "rss:theblock",
-      "title": "Michael Saylor’s Strategy pauses weekly bitcoin purchases ahead of Q1 earnings release",
-      "url": "https://www.theblock.co/post/399828/strategy-pauses-bitcoin-purchase-q1-earnings?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-04T03:05:49+00:00",
-      "raw_text": "Michael Saylor’s Strategy pauses weekly bitcoin purchases ahead of Q1 earnings release\n\n<p>Strategy's Q1 earnings report is set to release on Tuesday, with Wall Street expecting a $18.98 loss per share.</p>\n\n<p>Strategy's Q1 earnings report is set to release on Tuesday, with Wall Street expecting a ",
-      "impact": {}
     }
   ],
   "stats": {
@@ -6451,6 +6449,12 @@
         "avg_24h": 6.0,
         "win_rate_1h_gt5pct": 0.0
       },
+      "macro": {
+        "count": 60,
+        "avg_1h": 0.1,
+        "avg_24h": -0.62,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
         "count": 31,
         "avg_1h": 0.61,
@@ -6458,15 +6462,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 204,
-        "avg_1h": -0.05,
-        "avg_24h": -0.05,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 58,
-        "avg_1h": 0.1,
-        "avg_24h": -0.62,
+        "count": 202,
+        "avg_1h": -0.06,
+        "avg_24h": 0.02,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
