@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-05-08T06:07:04.775762+00:00",
+  "generated_at": "2026-05-08T07:56:10.261115+00:00",
   "events": [
+    {
+      "event_id": "d6b56597-b4af-46a7-bcb1-71b101f3908f",
+      "source": "rss:coindesk",
+      "title": "AI agents could solve crypto’s user problem",
+      "url": "https://www.coindesk.com/markets/2026/05/08/ai-agents-could-solve-crypto-s-user-problem",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-08T05:31:18+00:00",
+      "raw_text": "AI agents could solve crypto’s user problem",
+      "impact": {}
+    },
+    {
+      "event_id": "282aa9db-6da9-4689-8c52-79953b6310e9",
+      "source": "rss:theblock",
+      "title": "Aptos commits $50 million across ecosystem projects, including agentic AI",
+      "url": "https://www.theblock.co/post/400523/aptos-commits-50-million-across-stack?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-08T05:24:47+00:00",
+      "raw_text": "Aptos commits $50 million across ecosystem projects, including agentic AI\n\n<p>Aptos announced a $50 million commitment to grow the blockchain's ecosystem, covering first-party products and protocol infrastructure.</p>\n\n<p>Aptos announced a $50 million commitment to grow the blockchain's ecosystem, c",
+      "impact": {}
+    },
+    {
+      "event_id": "1cb30a12-cc97-42da-b21c-226b774bda35",
+      "source": "rss:cointelegraph",
+      "title": "Chaos Labs says oracles secure after attempted ‘nation-state’ wallet attack",
+      "url": "https://cointelegraph.com/news/chaos-labs-nation-state-wallet-attack-oracles-secure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-08T05:16:42+00:00",
+      "raw_text": "Chaos Labs says oracles secure after attempted ‘nation-state’ wallet attack\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Chaos Labs says oracles secure after attempted ‘nation-state’ wallet attack\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528",
+      "impact": {}
+    },
+    {
+      "event_id": "690cd3f5-615a-493d-aafd-4f234be19a43",
+      "source": "rss:coindesk",
+      "title": "Bitcoin slips to $79,000, DOGE leads majors losses as negative funding rates set 10-year record",
+      "url": "https://www.coindesk.com/markets/2026/05/08/bitcoin-slips-to-usd79-000-doge-leads-majors-losses-as-negative-funding-rates-set-10-year-record",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-08T05:00:28+00:00",
+      "raw_text": "Bitcoin slips to $79,000, DOGE leads majors losses as negative funding rates set 10-year record",
+      "impact": {}
+    },
     {
       "event_id": "2eed0e33-6b56-4860-914f-33a53e4aa8aa",
       "source": "rss:cointelegraph",
@@ -617,10 +665,17 @@
       "url": "https://www.coindesk.com/markets/2026/05/07/ripple-linked-xrp-slips-25-below-usd1-42-as-traders-watch-breakout",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-05-07T15:30:08+00:00",
       "raw_text": "Ripple-linked XRP slips 2.5% below $1.42 as traders watch breakout",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.027,
+        "t_plus_15m": 0.1625,
+        "t_plus_1h": 0.1386,
+        "t_plus_4h": -0.2682
+      }
     },
     {
       "event_id": "0ff4ad0e-0aa3-4946-bc95-f4aee3b8e7ab",
@@ -6386,85 +6441,30 @@
       "timestamp_utc": "2026-05-04T03:05:49+00:00",
       "raw_text": "Michael Saylor’s Strategy pauses weekly bitcoin purchases ahead of Q1 earnings release\n\n<p>Strategy's Q1 earnings report is set to release on Tuesday, with Wall Street expecting a $18.98 loss per share.</p>\n\n<p>Strategy's Q1 earnings report is set to release on Tuesday, with Wall Street expecting a ",
       "impact": {}
-    },
-    {
-      "event_id": "40543e82-528f-4917-b1ee-aad378c03c7a",
-      "source": "rss:coindesk",
-      "title": "Morgan Stanley's Oldenburg: Bitcoin on U.S. bank balance sheets is coming, just not yet",
-      "url": "https://www.coindesk.com/markets/2026/05/03/morgan-stanley-s-oldenburg-bitcoin-on-u-s-bank-balance-sheets-is-coming-just-not-yet",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-04T00:30:00+00:00",
-      "raw_text": "Morgan Stanley's Oldenburg: Bitcoin on U.S. bank balance sheets is coming, just not yet",
-      "impact": {}
-    },
-    {
-      "event_id": "c7d80087-a26a-4904-b093-06289850a615",
-      "source": "rss:cointelegraph",
-      "title": "Strategy takes Bitcoin buying breather ahead of Q1 earnings report",
-      "url": "https://cointelegraph.com/news/strategy-takes-a-bitcoin-buying-breather-ahead-of-q1-earnings-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-03T21:56:18+00:00",
-      "raw_text": "Strategy takes Bitcoin buying breather ahead of Q1 earnings report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy takes Bitcoin buying breather ahead of Q1 earnings report\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb",
-      "impact": {
-        "t_plus_5m": 0.2029,
-        "t_plus_15m": 0.4021,
-        "t_plus_1h": 0.7341,
-        "t_plus_4h": 0.71
-      }
-    },
-    {
-      "event_id": "977c9238-9fc6-4f4a-bb7c-b5fe1108d142",
-      "source": "rss:theblock",
-      "title": "New York AG settles for $5 million with Uphold in first enforcement action against a crypto yield product promoter",
-      "url": "https://www.theblock.co/post/399825/new-york-ag-settles-for-5-million-with-uphold-in-first-enforcement-action-against-a-crypto-yield-product-promoter?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-03T21:26:02+00:00",
-      "raw_text": "New York AG settles for $5 million with Uphold in first enforcement action against a crypto yield product promoter\n\n<p>The settlement is the first New York enforcement action to target a platform that promoted someone else's crypto yield product rather than its own issuer.</p>\n\n<p>The settlement is ",
-      "impact": {}
-    },
-    {
-      "event_id": "f9a5789c-0774-4b6c-8e64-3fea21ee784f",
-      "source": "rss:decrypt",
-      "title": "How Canton Network Lets Institutions Guard Against DeFi Security Risks: Digital Asset CEO",
-      "url": "https://decrypt.co/366086/how-canton-network-lets-institutions-guard-against-defi-security-risks",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-03T20:20:00+00:00",
-      "raw_text": "How Canton Network Lets Institutions Guard Against DeFi Security Risks: Digital Asset CEO\n\nBecause Canton allows participants to implement guardrails, Digital Asset's Yuval Rooz said institutions can protect against bad actors.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 190,
+        "count": 191,
         "avg_1h": 0.43,
         "avg_24h": 6.0,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 205,
-        "avg_1h": -0.03,
-        "avg_24h": -0.05,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 30,
+        "count": 31,
         "avg_1h": 0.61,
         "avg_24h": 2.23,
         "win_rate_1h_gt5pct": 0.0
       },
+      "unknown": {
+        "count": 204,
+        "avg_1h": -0.05,
+        "avg_24h": -0.05,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 59,
+        "count": 58,
         "avg_1h": 0.1,
         "avg_24h": -0.62,
         "win_rate_1h_gt5pct": 0.0
