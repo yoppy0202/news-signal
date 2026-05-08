@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-05-08T20:15:15.405106+00:00",
+  "generated_at": "2026-05-08T22:09:32.860007+00:00",
   "events": [
+    {
+      "event_id": "6eaf1d2f-d4ff-4640-9337-53eb524bc2d0",
+      "source": "rss:theblock",
+      "title": "Duke law lecturer argues Trump-connected World Liberty Financial issued a security",
+      "url": "https://www.theblock.co/post/400616/duke-law-lecturer-trump-connected-world-liberty-financial-issued-security?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-08T21:03:42+00:00",
+      "raw_text": "Duke law lecturer argues Trump-connected World Liberty Financial issued a security\n\n<p>Lee Reiners argues World Liberty's so-called governance token is not a so-called digital commodity or pure governance tool.</p>\n\n<p>Lee Reiners argues World Liberty's so-called governance token is not a so-called ",
+      "impact": {}
+    },
+    {
+      "event_id": "158b5ef5-32a3-4985-bebe-ec5db7f8534c",
+      "source": "rss:coindesk",
+      "title": "Coinbase rebounds as altcoins surge with bitcoin holding above $80,000",
+      "url": "https://www.coindesk.com/markets/2026/05/08/coinbase-rebounds-as-altcoins-surge-with-bitcoin-holding-above-usd80-000",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-08T20:59:25+00:00",
+      "raw_text": "Coinbase rebounds as altcoins surge with bitcoin holding above $80,000",
+      "impact": {}
+    },
+    {
+      "event_id": "874022bb-090b-485e-bec0-f352dec9643e",
+      "source": "rss:theblock",
+      "title": "CryptoQuant says bitcoin profit-taking could increase further amid ‘bear market rally’",
+      "url": "https://www.theblock.co/post/400613/cryptoquant-bitcoin-profit-taking-bear-market-rally?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-08T20:44:35+00:00",
+      "raw_text": "CryptoQuant says bitcoin profit-taking could increase further amid ‘bear market rally’\n\n<p>Bitcoin holders are increasingly taking profits after the rally, though a correction may still take time to materialize, CryptoQuant said.</p>\n\n<p>Bitcoin holders are increasingly taking profits after the rall",
+      "impact": {}
+    },
+    {
+      "event_id": "61593dc4-a846-4113-839c-e49f611ed8ba",
+      "source": "rss:decrypt",
+      "title": "TeraWulf's AI Compute Revenue Outpaces Bitcoin Mining Amid $427 Million Loss",
+      "url": "https://decrypt.co/367309/terawulfs-ai-compute-revenue-outpaces-bitcoin-mining-amid-427-million-loss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-08T20:29:14+00:00",
+      "raw_text": "TeraWulf's AI Compute Revenue Outpaces Bitcoin Mining Amid $427 Million Loss\n\nPublicly traded Bitcoin miner and data center operator TeraWulf reported a hefty net loss in Q1 as its AI revenue took over from BTC.",
+      "impact": {}
+    },
+    {
+      "event_id": "52177ee3-c1d8-4f88-a24a-ba94ef17b756",
+      "source": "rss:theblock",
+      "title": "‘Shifted the vibes:’ Stablecoin deal revives crypto bill despite lingering ethics disputes",
+      "url": "https://www.theblock.co/post/400608/shifted-vibes-stablecoin-deal-revives-crypto-bill-despite-lingering-ethics-disputes?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-08T20:20:38+00:00",
+      "raw_text": "‘Shifted the vibes:’ Stablecoin deal revives crypto bill despite lingering ethics disputes\n\n<p>Vibes are on the upswing a week after lawmakers reached a compromise on what had become a major sticking point in passing crypto legislation. </p>\n\n<p>Vibes are on the upswing a week after lawmakers reache",
+      "impact": {}
+    },
+    {
+      "event_id": "8c8cd9ba-0e5d-4d64-acbd-88bcae9d33bc",
+      "source": "rss:decrypt",
+      "title": "Intel Stock Hits All-Time High After Preliminary Chip Deal With Apple",
+      "url": "https://decrypt.co/367320/intel-all-time-high-chip-deal-apple",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-08T20:17:26+00:00",
+      "raw_text": "Intel Stock Hits All-Time High After Preliminary Chip Deal With Apple\n\nA preliminary Apple-Intel manufacturing agreement—backed by a White House push—sent Intel stock above $130 on Friday.",
+      "impact": {}
+    },
     {
       "event_id": "96f621ba-4677-4cc2-b289-bd5073eb1376",
       "source": "rss:decrypt",
@@ -44,10 +116,20 @@
       "url": "https://cointelegraph.com/markets/price-predictions-58-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC",
+        "ETH",
+        "BNB",
+        "XRP",
+        "SOL"
+      ],
       "timestamp_utc": "2026-05-08T19:03:52+00:00",
       "raw_text": "Price predictions 5/8: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 5/8: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1194,
+        "t_plus_15m": -0.126,
+        "t_plus_1h": 0.0027
+      }
     },
     {
       "event_id": "d9d49b68-fb62-4c01-84c5-0eceaf6bf6d1",
@@ -6383,114 +6465,32 @@
         "t_plus_1h": -0.1026,
         "t_plus_4h": -0.2898
       }
-    },
-    {
-      "event_id": "1762f729-6aa5-405a-94ee-b15e94072ec4",
-      "source": "rss:decrypt",
-      "title": "US Government Says China's Best AI Models Lag Behind. Experts Aren't So Sure",
-      "url": "https://decrypt.co/366685/us-says-china-best-ai-models-lag-behind-experts-not-sure",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-04T18:58:45+00:00",
-      "raw_text": "US Government Says China's Best AI Models Lag Behind. Experts Aren't So Sure\n\nNIST's CAISI evaluated DeepSeek V4 Pro using private benchmarks and a cost-comparison filter that excluded every US model except GPT-5.4 mini. Critics call the methodology convenient.",
-      "impact": {}
-    },
-    {
-      "event_id": "5d7cb201-186f-412d-addc-9048fd869a8a",
-      "source": "rss:decrypt",
-      "title": "Colorado Lawmakers Move to Replace Contentious AI Law With New Rules",
-      "url": "https://decrypt.co/366683/colorado-replace-contentious-ai-law-new-rules",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-04T18:41:52+00:00",
-      "raw_text": "Colorado Lawmakers Move to Replace Contentious AI Law With New Rules\n\nA new proposed bill aims to ease industry pressure while preserving safeguards for consumers.",
-      "impact": {}
-    },
-    {
-      "event_id": "1eef4dae-a4c4-4dba-b2bd-5d17876b0fca",
-      "source": "rss:cointelegraph",
-      "title": "Price predictions 5/4: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA",
-      "url": "https://cointelegraph.com/markets/price-predictions-54-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-ada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC",
-        "ETH",
-        "XRP",
-        "BNB"
-      ],
-      "timestamp_utc": "2026-05-04T18:39:10+00:00",
-      "raw_text": "Price predictions 5/4: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 5/4: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
-      "impact": {
-        "t_plus_5m": 0.255,
-        "t_plus_15m": 0.102,
-        "t_plus_1h": -0.0363,
-        "t_plus_4h": 0.1878
-      }
-    },
-    {
-      "event_id": "6d3a3ce3-8707-42e3-9e07-abc6fe5e8b83",
-      "source": "rss:coindesk",
-      "title": "Hut 8 swaps Coinbase loan for cheaper FalconX deal, slashing borrowing costs as it bets big on AI",
-      "url": "https://www.coindesk.com/markets/2026/04/28/hut-8-swaps-coinbase-credit-line-for-cheaper-falconx-deal-slashing-borrowing-costs-as-it-bets-big-on-ai",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-04T18:31:44+00:00",
-      "raw_text": "Hut 8 swaps Coinbase loan for cheaper FalconX deal, slashing borrowing costs as it bets big on AI",
-      "impact": {}
-    },
-    {
-      "event_id": "5bd8d475-950f-45ad-87ec-7a76426cb61f",
-      "source": "rss:theblock",
-      "title": "Aave fights court-ordered $73 million ETH freeze, argues ‘a thief does not own what he steals’",
-      "url": "https://www.theblock.co/post/399923/aave-fights-73-million-eth-freeze-argues-thief-does-not-own-what-steals?utm_source=rss&utm_medium=rss",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-04T18:24:34+00:00",
-      "raw_text": "Aave fights court-ordered $73 million ETH freeze, argues ‘a thief does not own what he steals’\n\n<p>Aave LLC filed an emergency motion in federal court seeking to lift an order that froze ether tied to last month's Kelp DAO exploit.</p>\n\n<p>Aave LLC filed an emergency motion in federal court seeking ",
-      "impact": {}
-    },
-    {
-      "event_id": "4977d7c7-46a9-4c93-90a5-7b02a8dff1f3",
-      "source": "rss:theblock",
-      "title": "South Korea’s largest crypto exchange Upbit launches Ethereum blockchain with Optimism Foundation support",
-      "url": "https://www.theblock.co/post/399935/south-koreas-largest-crypto-exchange-upbit-launches-ethereum-blockchain-with-optimism-foundation-support?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-04T18:18:21+00:00",
-      "raw_text": "South Korea’s largest crypto exchange Upbit launches Ethereum blockchain with Optimism Foundation support\n\n<p>Upbit is the Optimism Foundation's first client on its \"self-managed\" enterprise tier, giving it control over its core rollup architecture.</p>\n\n<p>Upbit is the Optimism Foundation's first c",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 192,
-        "avg_1h": 0.5,
-        "avg_24h": 5.48,
+      "macro": {
+        "count": 57,
+        "avg_1h": 0.12,
+        "avg_24h": -0.62,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 203,
+        "count": 205,
         "avg_1h": -0.08,
         "avg_24h": -0.13,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 33,
-        "avg_1h": -0.17,
-        "avg_24h": -0.56,
+      "narrative": {
+        "count": 190,
+        "avg_1h": 0.5,
+        "avg_24h": 5.48,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 56,
-        "avg_1h": 0.12,
-        "avg_24h": -0.62,
+      "hack": {
+        "count": 32,
+        "avg_1h": -0.17,
+        "avg_24h": -0.56,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
