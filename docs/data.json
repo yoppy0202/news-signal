@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T06:25:16.784425+00:00",
+  "generated_at": "2026-05-09T08:49:19.491374+00:00",
   "events": [
     {
       "event_id": "f4d13adc-4399-4038-a2c8-2220d79c8ad5",
@@ -8,9 +8,27 @@
       "url": "https://www.coindesk.com/policy/2026/05/09/judge-clears-path-for-aave-to-move-usd71-million-in-eth-linked-to-north-korea-hack",
       "event_type": "hack",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-05-09T04:16:36+00:00",
       "raw_text": "Judge clears path for Aave to move $71 million in ETH linked to North Korea hack",
+      "impact": {
+        "t_plus_5m": 0.1975,
+        "t_plus_15m": 0.1053,
+        "t_plus_1h": -0.0015
+      }
+    },
+    {
+      "event_id": "be8144f1-6af7-4ae3-8d90-ffba0dcd044d",
+      "source": "rss:cointelegraph",
+      "title": "US CLARITY Act sees ‘big step forward’ as markup set for May 14",
+      "url": "https://cointelegraph.com/news/us-clarity-act-markup-date-set-tim-scott-crypto-industry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-09T02:01:55+00:00",
+      "raw_text": "US CLARITY Act sees ‘big step forward’ as markup set for May 14\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" US CLARITY Act sees ‘big step forward’ as markup set for May 14\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZX",
       "impact": {}
     },
     {
@@ -40,7 +58,8 @@
       "impact": {
         "t_plus_5m": -0.1376,
         "t_plus_15m": -0.1461,
-        "t_plus_1h": -0.0523
+        "t_plus_1h": -0.0523,
+        "t_plus_4h": 0.1399
       }
     },
     {
@@ -1022,10 +1041,17 @@
       "url": "https://www.coindesk.com/markets/2026/05/08/arbitrum-delegates-back-usd71-million-eth-recovery-plan-despite-u-s-seizure-fight",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-05-08T08:59:21+00:00",
       "raw_text": "Arbitrum delegates back $71 Million ETH recovery plan despite U.S. seizure fight",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -1.4264,
+        "t_plus_15m": -1.1299,
+        "t_plus_1h": -1.3196,
+        "t_plus_4h": -1.2233
+      }
     },
     {
       "event_id": "d11dc0c4-21f4-4129-961c-3a3ff7197cf3",
@@ -6453,25 +6479,13 @@
       "timestamp_utc": "2026-05-04T23:00:00+00:00",
       "raw_text": "SC Ventures named first external shareholder of GSR following strategic investment\n\n<p>The move deepens a relationship between the firms struck when GSR invested in the SC Ventures-backed tokenization platform Libeara.</p>\n\n<p>The move deepens a relationship between the firms struck when GSR investe",
       "impact": {}
-    },
-    {
-      "event_id": "4543121a-b9ad-4445-b461-7d864f7147c1",
-      "source": "rss:cointelegraph",
-      "title": "World Liberty sues Justin Sun for defamation in WLFI dispute",
-      "url": "https://cointelegraph.com/news/trump-linked-wlfi-platform-sues-justin-sun-for-defamation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-04T22:34:41+00:00",
-      "raw_text": "World Liberty sues Justin Sun for defamation in WLFI dispute\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"World Liberty sues Justin Sun for defamation in WLFI dispute\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10c",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "hack": {
         "count": 33,
-        "avg_1h": -0.13,
+        "avg_1h": -0.1,
         "avg_24h": -0.56,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6489,7 +6503,7 @@
       },
       "unknown": {
         "count": 209,
-        "avg_1h": -0.09,
+        "avg_1h": -0.13,
         "avg_24h": -0.13,
         "win_rate_1h_gt5pct": 0.0
       },
