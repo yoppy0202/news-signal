@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-09T16:06:48.694134+00:00",
+  "generated_at": "2026-05-09T17:09:31.457880+00:00",
   "events": [
+    {
+      "event_id": "d5624d1c-4b93-4403-8204-5df2adc50c56",
+      "source": "rss:theblock",
+      "title": "LayerZero issues public apology for Kelp DAO exploit response, admits fault in single-verifier setup",
+      "url": "https://www.theblock.co/post/400629/layerzero-issues-public-apology-for-kelp-dao-exploit-response-admits-fault-in-single-verifier-setup?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-09T16:35:35+00:00",
+      "raw_text": "LayerZero issues public apology for Kelp DAO exploit response, admits fault in single-verifier setup\n\n<p>LayerZero also disclosed a previously unreported incident in which a multisig signer used their production hardware wallet to execute a personal trade.</p>\n\n<p>LayerZero also disclosed a previous",
+      "impact": {}
+    },
+    {
+      "event_id": "41ffd9d6-ff20-49a4-9486-fc14e8c8b097",
+      "source": "rss:coindesk",
+      "title": "It might be too late for bitcoin’s quantum migration, Project Eleven report argues",
+      "url": "https://www.coindesk.com/business/2026/05/09/it-might-be-too-late-for-bitcoin-s-quantum-migration-project-eleven-report-argues",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-09T16:00:00+00:00",
+      "raw_text": "It might be too late for bitcoin’s quantum migration, Project Eleven report argues",
+      "impact": {}
+    },
+    {
+      "event_id": "d72fb474-85c8-461a-b419-3956d6cbfdc8",
+      "source": "rss:coindesk",
+      "title": "Crypto industry cheers Senate Clarity Act markup date as market structure push resumes",
+      "url": "https://www.coindesk.com/policy/2026/05/09/crypto-industry-cheers-senate-clarity-act-markup-date-as-market-structure-push-resumes",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-09T15:56:49+00:00",
+      "raw_text": "Crypto industry cheers Senate Clarity Act markup date as market structure push resumes",
+      "impact": {}
+    },
     {
       "event_id": "fa72128a-37b0-4baa-9f9d-3382b8182d21",
       "source": "rss:coindesk",
@@ -11,6 +47,18 @@
       "tokens": [],
       "timestamp_utc": "2026-05-09T15:41:38+00:00",
       "raw_text": "Emerging-market users are treating crypto exchanges like banking apps, Binance says",
+      "impact": {}
+    },
+    {
+      "event_id": "a607d279-7794-43a2-9967-d861ddfc28ac",
+      "source": "rss:cointelegraph",
+      "title": "Why a 2017 Linux bug is now a major concern for the crypto industry",
+      "url": "https://cointelegraph.com/features/copy-fail-linux-vulnerability-crypto-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-09T15:30:00+00:00",
+      "raw_text": "Why a 2017 Linux bug is now a major concern for the crypto industry\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Why a 2017 Linux bug is now a major concern for the crypto industry \" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy",
       "impact": {}
     },
     {
@@ -124,7 +172,8 @@
       "impact": {
         "t_plus_5m": 0.1899,
         "t_plus_15m": 0.2353,
-        "t_plus_1h": 0.21
+        "t_plus_1h": 0.21,
+        "t_plus_4h": -0.2037
       }
     },
     {
@@ -6416,80 +6465,32 @@
       "timestamp_utc": "2026-05-05T08:18:23+00:00",
       "raw_text": "DeFi lender Aave asks court to block $71 million crypto seizure tied to North Korea claims",
       "impact": {}
-    },
-    {
-      "event_id": "ade477d5-692b-4d91-82fd-993b9f6d0a40",
-      "source": "rss:cointelegraph",
-      "title": "Stablecoin proposal still ‘falls short’ of protecting bank deposits: US banks",
-      "url": "https://cointelegraph.com/news/bankers-still-says-new-proposal-in-clarity-act-falls-short-of-protecting-bank-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-05T07:07:27+00:00",
-      "raw_text": "Stablecoin proposal still ‘falls short’ of protecting bank deposits: US banks\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stablecoin proposal still ‘falls short’ of protecting bank deposits: US banks\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
-      "impact": {}
-    },
-    {
-      "event_id": "1b5f3e79-1bd0-4f11-8d44-0b6abcb768fd",
-      "source": "rss:cointelegraph",
-      "title": "MoonPay buys DFlow to expand into Solana trading infrastructure",
-      "url": "https://cointelegraph.com/news/moonpay-acquires-dflow-to-expand-into-solana-trading-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-05T07:00:00+00:00",
-      "raw_text": "MoonPay buys DFlow to expand into Solana trading infrastructure\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MoonPay buys DFlow to expand into Solana trading infrastructure\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx",
-      "impact": {}
-    },
-    {
-      "event_id": "823efca3-cb60-4656-8d4f-38e9e8bf1256",
-      "source": "rss:cointelegraph",
-      "title": "Kraken partners with MoneyGram for global crypto cash-outs",
-      "url": "https://cointelegraph.com/news/kraken-taps-moneygram-network-to-enable-global-crypto-to-cash-withdrawals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-05T07:00:00+00:00",
-      "raw_text": "Kraken partners with MoneyGram for global crypto cash-outs\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken partners with MoneyGram for global crypto cash-outs\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub",
-      "impact": {}
-    },
-    {
-      "event_id": "26f553f4-6ed0-4ceb-ac95-04f383a265ab",
-      "source": "rss:coindesk",
-      "title": "Bitcoin used to hate inflation. Now it might be the opposite",
-      "url": "https://www.coindesk.com/markets/2026/05/05/bitcoin-used-to-hate-inflation-now-it-might-be-the-opposite",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-05T06:45:26+00:00",
-      "raw_text": "Bitcoin used to hate inflation. Now it might be the opposite",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 206,
-        "avg_1h": -0.14,
-        "avg_24h": -0.16,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 188,
-        "avg_1h": 0.5,
-        "avg_24h": 5.5,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 35,
+        "count": 36,
         "avg_1h": -0.04,
         "avg_24h": 0.19,
         "win_rate_1h_gt5pct": 0.0
       },
+      "unknown": {
+        "count": 205,
+        "avg_1h": -0.14,
+        "avg_24h": -0.16,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 57,
+        "count": 58,
         "avg_1h": 0.1,
         "avg_24h": -0.62,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 187,
+        "avg_1h": 0.5,
+        "avg_24h": 5.5,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
