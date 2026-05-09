@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-09T21:58:18.301729+00:00",
+  "generated_at": "2026-05-09T23:01:21.726090+00:00",
   "events": [
+    {
+      "event_id": "081c16ee-a088-4d1e-9e22-013f108c6575",
+      "source": "rss:cointelegraph",
+      "title": "Strategy CEO Phong Le says company will sell BTC only in specific cases",
+      "url": "https://cointelegraph.com/news/strategy-ceo-phong-le-strategy-selling-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-09T21:21:00+00:00",
+      "raw_text": "Strategy CEO Phong Le says company will sell BTC only in specific cases\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy CEO Phong Le says company will sell BTC only in specific cases\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
+      "impact": {}
+    },
     {
       "event_id": "d2f2d1e8-fd0b-46c7-8567-7bb6e4ab9760",
       "source": "rss:theblock",
@@ -8,10 +20,15 @@
       "url": "https://www.theblock.co/post/400642/arbitrums-71-million-in-eth-cleared-for-aave-transfer-as-north-korea-terrorism-creditors-retain-legal-claim?utm_source=rss&utm_medium=rss",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-05-09T21:02:50+00:00",
       "raw_text": "Arbitrum’s $71 million in ETH cleared for Aave transfer as North Korea terrorism creditors retain legal claim\n\n<p>The order shields anyone who votes on the transfer from being held in violation of the freeze, though the ultimate fate of the funds remains unclear. </p>\n\n<p>The order shields anyone wh",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.05,
+        "t_plus_15m": 0.0584
+      }
     },
     {
       "event_id": "6854376d-6a4b-46d6-ba83-660388ceb9a9",
@@ -410,7 +427,8 @@
         "t_plus_5m": -0.1828,
         "t_plus_15m": -0.1357,
         "t_plus_1h": -0.0395,
-        "t_plus_4h": 0.0505
+        "t_plus_4h": 0.0505,
+        "t_plus_24h": 0.5311
       }
     },
     {
@@ -6439,24 +6457,12 @@
       "timestamp_utc": "2026-05-05T10:36:25+00:00",
       "raw_text": "UAE free zone launches blockchain-based business IDs for registered firms\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UAE free zone launches blockchain-based business IDs for registered firms\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
       "impact": {}
-    },
-    {
-      "event_id": "8e5255ac-37df-410c-a64b-f37f3ed7f9e1",
-      "source": "rss:theblock",
-      "title": "Ripple shares North Korea-linked threat data as crypto attacks shift to social engineering",
-      "url": "https://www.theblock.co/post/399996/ripple-north-korea-threat-data?utm_source=rss&utm_medium=rss",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-05T10:30:39+00:00",
-      "raw_text": "Ripple shares North Korea-linked threat data as crypto attacks shift to social engineering\n\n<p>The recent $280 million Drift incident has demonstrated a shift toward more sophisticated social engineering tactics.</p>\n\n<p>The recent $280 million Drift incident has demonstrated a shift toward more sop",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 187,
+        "count": 188,
         "avg_1h": 0.34,
         "avg_24h": 0.04,
         "win_rate_1h_gt5pct": 0.0
@@ -6468,9 +6474,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 36,
+        "count": 35,
         "avg_1h": -0.04,
-        "avg_24h": 0.19,
+        "avg_24h": 0.3,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
