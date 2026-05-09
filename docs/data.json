@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-09T00:09:19.228790+00:00",
+  "generated_at": "2026-05-09T03:54:28.837617+00:00",
   "events": [
+    {
+      "event_id": "25643686-8479-47b1-b77b-c942fc1e870d",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin stalls as BTC ETF outflows hit $268M: Will new Fed chair restore the rally?",
+      "url": "https://cointelegraph.com/markets/bitcoin-stalls-as-btc-etf-outflows-hit-268m-will-new-fed-chair-restore-the-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-08T23:57:31+00:00",
+      "raw_text": "Bitcoin stalls as BTC ETF outflows hit $268M: Will new Fed chair restore the rally?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin stalls as BTC ETF outflows hit $268M: Will new Fed chair restore the rally?  \" class=\"type:primaryImage\" src=\"https://images.cointelegr",
+      "impact": {}
+    },
     {
       "event_id": "fcca974b-c26e-49fc-86f2-fa10faf2b51a",
       "source": "rss:theblock",
@@ -56,10 +68,16 @@
       "url": "https://bitcoinmagazine.com/politics/what-does-bitcoin-power-projection-mean-to-the-u-s-military",
       "event_type": "hack",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-08T21:45:05+00:00",
       "raw_text": "What does Bitcoin “Power Projection” mean to the U.S. Military?\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/2.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmaga",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1828,
+        "t_plus_15m": -0.1357,
+        "t_plus_1h": -0.0395
+      }
     },
     {
       "event_id": "4d009341-ea7f-4b37-8300-e3312df366d7",
@@ -230,7 +248,8 @@
       "impact": {
         "t_plus_5m": -0.1194,
         "t_plus_15m": -0.126,
-        "t_plus_1h": 0.0027
+        "t_plus_1h": 0.0027,
+        "t_plus_4h": 0.1551
       }
     },
     {
@@ -6438,24 +6457,12 @@
       "timestamp_utc": "2026-05-04T21:55:00+00:00",
       "raw_text": "DTCC eyes October tokenized securities launch with 50 DeFi and TradFi giants\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DTCC eyes October tokenized securities launch with 50 DeFi and TradFi giants \" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/",
       "impact": {}
-    },
-    {
-      "event_id": "49720fba-cfa3-47a0-b1ca-c3b6de578236",
-      "source": "rss:decrypt",
-      "title": "K-Pop Firm's Stock Plunges as It Dumps Bitcoin Treasury Plan for AI Pivot",
-      "url": "https://decrypt.co/366740/k-pop-firm-stock-plunges-dumps-bitcoin-treasury-plan-ai-pivot",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-04T21:15:24+00:00",
-      "raw_text": "K-Pop Firm's Stock Plunges as It Dumps Bitcoin Treasury Plan for AI Pivot\n\nK Wave Media is shifting $485 million in funding from its Bitcoin treasury strategy towards an AI infrastructure play.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "macro": {
-        "count": 56,
+        "count": 57,
         "avg_1h": 0.12,
         "avg_24h": -0.62,
         "win_rate_1h_gt5pct": 0.0
@@ -6468,12 +6475,12 @@
       },
       "hack": {
         "count": 33,
-        "avg_1h": -0.17,
+        "avg_1h": -0.13,
         "avg_24h": -0.56,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 189,
+        "count": 188,
         "avg_1h": 0.48,
         "avg_24h": 5.48,
         "win_rate_1h_gt5pct": 0.0
