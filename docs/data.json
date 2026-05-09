@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-05-09T03:54:28.837617+00:00",
+  "generated_at": "2026-05-09T06:25:16.784425+00:00",
   "events": [
+    {
+      "event_id": "f4d13adc-4399-4038-a2c8-2220d79c8ad5",
+      "source": "rss:coindesk",
+      "title": "Judge clears path for Aave to move $71 million in ETH linked to North Korea hack",
+      "url": "https://www.coindesk.com/policy/2026/05/09/judge-clears-path-for-aave-to-move-usd71-million-in-eth-linked-to-north-korea-hack",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-09T04:16:36+00:00",
+      "raw_text": "Judge clears path for Aave to move $71 million in ETH linked to North Korea hack",
+      "impact": {}
+    },
+    {
+      "event_id": "a04adddc-f26e-4de8-b8c2-0ef323267996",
+      "source": "rss:cointelegraph",
+      "title": "CLARITY Act sees ‘big step forward’ as markup set for May 14",
+      "url": "https://cointelegraph.com/news/us-clarity-act-markup-date-set-tim-scott-crypto-industry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-09T02:01:55+00:00",
+      "raw_text": "CLARITY Act sees ‘big step forward’ as markup set for May 14\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" CLARITY Act sees ‘big step forward’ as markup set for May 14\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3Rt",
+      "impact": {}
+    },
     {
       "event_id": "25643686-8479-47b1-b77b-c942fc1e870d",
       "source": "rss:cointelegraph",
@@ -8,10 +32,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-stalls-as-btc-etf-outflows-hit-268m-will-new-fed-chair-restore-the-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-08T23:57:31+00:00",
       "raw_text": "Bitcoin stalls as BTC ETF outflows hit $268M: Will new Fed chair restore the rally?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin stalls as BTC ETF outflows hit $268M: Will new Fed chair restore the rally?  \" class=\"type:primaryImage\" src=\"https://images.cointelegr",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1376,
+        "t_plus_15m": -0.1461,
+        "t_plus_1h": -0.0523
+      }
     },
     {
       "event_id": "fcca974b-c26e-49fc-86f2-fa10faf2b51a",
@@ -76,7 +106,8 @@
       "impact": {
         "t_plus_5m": -0.1828,
         "t_plus_15m": -0.1357,
-        "t_plus_1h": -0.0395
+        "t_plus_1h": -0.0395,
+        "t_plus_4h": 0.0505
       }
     },
     {
@@ -166,7 +197,8 @@
       "impact": {
         "t_plus_5m": 0.1072,
         "t_plus_15m": 0.1002,
-        "t_plus_1h": 0.0521
+        "t_plus_1h": 0.0521,
+        "t_plus_4h": 0.0155
       }
     },
     {
@@ -981,6 +1013,18 @@
       "tokens": [],
       "timestamp_utc": "2026-05-08T09:02:02+00:00",
       "raw_text": "South Korea tightens oversight of firms moving crypto overseas: report\n\n<p>South Korean authorities are also planning to start imposing a 22% capital gains tax on crypto from January 2027.</p>\n\n<p>South Korean authorities are also planning to start imposing a 22% capital gains tax on crypto from Jan",
+      "impact": {}
+    },
+    {
+      "event_id": "adb3c5a7-9121-49f8-a3f0-a95e03f907c0",
+      "source": "rss:coindesk",
+      "title": "Arbitrum delegates back $71 Million ETH recovery plan despite U.S. seizure fight",
+      "url": "https://www.coindesk.com/markets/2026/05/08/arbitrum-delegates-back-usd71-million-eth-recovery-plan-despite-u-s-seizure-fight",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-08T08:59:21+00:00",
+      "raw_text": "Arbitrum delegates back $71 Million ETH recovery plan despite U.S. seizure fight",
       "impact": {}
     },
     {
@@ -6421,58 +6465,10 @@
       "timestamp_utc": "2026-05-04T22:34:41+00:00",
       "raw_text": "World Liberty sues Justin Sun for defamation in WLFI dispute\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"World Liberty sues Justin Sun for defamation in WLFI dispute\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10c",
       "impact": {}
-    },
-    {
-      "event_id": "b612c3ea-780b-41b9-8eb5-b0f60a0b62d0",
-      "source": "rss:decrypt",
-      "title": "Someone Built an Open-Source 'Theoretical Mythos' to Reverse-Engineer Anthropic's Most Dangerous AI",
-      "url": "https://decrypt.co/366745/openmythos-claude-mythos-architecture-open-source-reconstruction",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-04T22:31:02+00:00",
-      "raw_text": "Someone Built an Open-Source 'Theoretical Mythos' to Reverse-Engineer Anthropic's Most Dangerous AI\n\nOpenMythos is a from-scratch attempt to reconstruct the architecture behind Claude Mythos, the cyber-capable model Anthropic refuses to release. It's speculation in code form.",
-      "impact": {}
-    },
-    {
-      "event_id": "f58907b4-55fc-4110-af99-4b9bd7e12a3f",
-      "source": "rss:decrypt",
-      "title": "Aave Fights to Unfreeze $71 Million as Kelp DAO Hack Spills Into Court",
-      "url": "https://decrypt.co/366744/aave-unfreeze-71m-arbitrum-kelp-dao-hack",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-04T21:56:03+00:00",
-      "raw_text": "Aave Fights to Unfreeze $71 Million as Kelp DAO Hack Spills Into Court\n\nA federal case over frozen crypto could determine whether DeFi recovery funds can be seized to satisfy unrelated judgments.",
-      "impact": {}
-    },
-    {
-      "event_id": "e28ad187-69b7-442a-bbd9-c2c320f80b50",
-      "source": "rss:cointelegraph",
-      "title": "DTCC eyes October tokenized securities launch with 50 DeFi and TradFi giants",
-      "url": "https://cointelegraph.com/news/dtcc-eyes-october-tokenized-securities-launch-with-dozens-of-wall-street-giants?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-04T21:55:00+00:00",
-      "raw_text": "DTCC eyes October tokenized securities launch with 50 DeFi and TradFi giants\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DTCC eyes October tokenized securities launch with 50 DeFi and TradFi giants \" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 57,
-        "avg_1h": 0.12,
-        "avg_24h": -0.62,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 208,
-        "avg_1h": -0.09,
-        "avg_24h": -0.13,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
         "count": 33,
         "avg_1h": -0.13,
@@ -6483,6 +6479,18 @@
         "count": 188,
         "avg_1h": 0.48,
         "avg_24h": 5.48,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 56,
+        "avg_1h": 0.1,
+        "avg_24h": -0.62,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 209,
+        "avg_1h": -0.09,
+        "avg_24h": -0.13,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
