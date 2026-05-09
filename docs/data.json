@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-09T17:09:31.457880+00:00",
+  "generated_at": "2026-05-09T18:04:08.057826+00:00",
   "events": [
+    {
+      "event_id": "aebcd302-24fb-4a07-9dde-054de3f1631a",
+      "source": "rss:coindesk",
+      "title": "Trump Media’s Q1 loss widens to $406 million on bitcoin, CRO markdowns",
+      "url": "https://www.coindesk.com/business/2026/05/09/trump-media-s-q1-loss-widens-to-usd406-million-on-bitcoin-cro-markdowns",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-09T17:28:08+00:00",
+      "raw_text": "Trump Media’s Q1 loss widens to $406 million on bitcoin, CRO markdowns",
+      "impact": {}
+    },
+    {
+      "event_id": "225ca62d-d57a-41cc-8140-b5e771c94ceb",
+      "source": "rss:decrypt",
+      "title": "Australian Police Seize Millions in Bitcoin From Alleged Darknet Marketplace Operator",
+      "url": "https://decrypt.co/367363/australian-police-seize-millions-bitcoin-darknet-marketplace-operator",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-09T17:24:07+00:00",
+      "raw_text": "Australian Police Seize Millions in Bitcoin From Alleged Darknet Marketplace Operator\n\nTwo men face money laundering and drug charges following the seizure of $4.2 million in Bitcoin from alleged darknet marketplace dealings.",
+      "impact": {}
+    },
+    {
+      "event_id": "39195070-3971-426f-90bb-e1b9a5ac4993",
+      "source": "rss:coindesk",
+      "title": "Sports betting should be regulated as a financial product, not gambling, aspiring prediction market provider says",
+      "url": "https://www.coindesk.com/policy/2026/05/09/sports-betting-should-be-regulated-as-a-financial-product-not-gambling-aspiring-prediction-market-provider-says",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-09T17:00:00+00:00",
+      "raw_text": "Sports betting should be regulated as a financial product, not gambling, aspiring prediction market provider says",
+      "impact": {}
+    },
     {
       "event_id": "d5624d1c-4b93-4403-8204-5df2adc50c56",
       "source": "rss:theblock",
@@ -6429,66 +6465,30 @@
         "t_plus_4h": 1.0024,
         "t_plus_24h": 1.3861
       }
-    },
-    {
-      "event_id": "6af424f1-8481-451a-9878-7f165ad4cbfa",
-      "source": "rss:theblock",
-      "title": "US spot bitcoin ETFs draw $532 million as inflows extend to a third day, led by BlackRock and Fidelity",
-      "url": "https://www.theblock.co/post/399990/us-spot-bitcoin-etfs-draw-532-million-as-inflows-extend-to-a-third-day-led-by-blackrock-and-fidelity?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-05T09:54:15+00:00",
-      "raw_text": "US spot bitcoin ETFs draw $532 million as inflows extend to a third day, led by BlackRock and Fidelity\n\n<p>U.S. spot bitcoin ETFs drew $532 million on Monday, marking a third straight day of inflows, led by BlackRock and Fidelity.</p>\n\n<p>U.S. spot bitcoin ETFs drew $532 million on Monday, marking a",
-      "impact": {}
-    },
-    {
-      "event_id": "c8303ea1-9adf-4aae-ab55-a31ceb4861e5",
-      "source": "rss:theblock",
-      "title": "Coinbase Australia launches crypto support for self-directed retirement funds",
-      "url": "https://www.theblock.co/post/399982/coinbase-australia-launches-smsf-support?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-05T08:42:56+00:00",
-      "raw_text": "Coinbase Australia launches crypto support for self-directed retirement funds\n\n<p>Coinbase Australia has launched crypto support for self-directed retirement funds, offering investors another avenue to diversify portfolios.</p>\n\n<p>Coinbase Australia has launched crypto support for self-directed ret",
-      "impact": {}
-    },
-    {
-      "event_id": "1fabc969-dad1-4b1f-8faf-7362ee500851",
-      "source": "rss:coindesk",
-      "title": "DeFi lender Aave asks court to block $71 million crypto seizure tied to North Korea claims",
-      "url": "https://www.coindesk.com/policy/2026/05/05/defi-lender-aave-asks-court-to-block-usd71-million-crypto-seizure-tied-to-north-korea-claims",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-05T08:18:23+00:00",
-      "raw_text": "DeFi lender Aave asks court to block $71 million crypto seizure tied to North Korea claims",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 207,
+        "avg_1h": -0.14,
+        "avg_24h": -0.16,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
         "count": 36,
         "avg_1h": -0.04,
         "avg_24h": 0.19,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 205,
-        "avg_1h": -0.14,
-        "avg_24h": -0.16,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 58,
+        "count": 57,
         "avg_1h": 0.1,
         "avg_24h": -0.62,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 187,
+        "count": 186,
         "avg_1h": 0.5,
         "avg_24h": 5.5,
         "win_rate_1h_gt5pct": 0.0
