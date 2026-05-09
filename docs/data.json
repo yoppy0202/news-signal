@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-05-09T08:49:19.491374+00:00",
+  "generated_at": "2026-05-09T10:15:33.256351+00:00",
   "events": [
+    {
+      "event_id": "8fff02ea-74eb-427f-9157-7066997f3e5f",
+      "source": "rss:cointelegraph",
+      "title": "Spot Bitcoin ETFs log 6th straight week of net inflows for first time in 9 months",
+      "url": "https://cointelegraph.com/news/spot-bitcoin-etfs-log-6th-straight-week-of-net-inflows-for-first-time-in-9-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-09T08:35:00+00:00",
+      "raw_text": "Spot Bitcoin ETFs log 6th straight week of net inflows for first time in 9 months\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Spot Bitcoin ETFs log 6th straight week of net inflows for first time in 9 months\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.co",
+      "impact": {}
+    },
+    {
+      "event_id": "707ed116-8027-4295-a7b7-27362eac547f",
+      "source": "rss:cointelegraph",
+      "title": "Strike CEO Jack Mallers dismisses idea that Wall Street threatens Bitcoin",
+      "url": "https://cointelegraph.com/news/jack-mallers-shuts-down-the-idea-that-wall-street-is-a-threat-to-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-09T07:16:33+00:00",
+      "raw_text": "Strike CEO Jack Mallers dismisses idea that Wall Street threatens Bitcoin\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strike CEO Jack Mallers dismisses idea that Wall Street threatens Bitcoin\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
+      "impact": {}
+    },
     {
       "event_id": "f4d13adc-4399-4038-a2c8-2220d79c8ad5",
       "source": "rss:coindesk",
@@ -16,7 +40,8 @@
       "impact": {
         "t_plus_5m": 0.1975,
         "t_plus_15m": 0.1053,
-        "t_plus_1h": -0.0015
+        "t_plus_1h": -0.0015,
+        "t_plus_4h": 0.2012
       }
     },
     {
@@ -6455,34 +6480,22 @@
       "timestamp_utc": "2026-05-05T00:40:22+00:00",
       "raw_text": "Bank trade groups say Senate stablecoin reward fix ‘falls short’ amid deposit protection concerns\n\n<p>Major banking trade groups said a proposed fix to a key sticking point in passing crypto market structure legislation 'falls short.'</p>\n\n<p>Major banking trade groups said a proposed fix to a key s",
       "impact": {}
-    },
-    {
-      "event_id": "d6b0a38b-8427-438d-a0e0-ebc90aebfb9d",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin turns risk on as stocks hit new highs and miner profits rise: Is $85K BTC next?",
-      "url": "https://cointelegraph.com/markets/bitcoin-turns-risk-on-as-stocks-hit-new-highs-and-miner-profits-rise-is-85k-btc-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-04T23:24:17+00:00",
-      "raw_text": "Bitcoin turns risk on as stocks hit new highs and miner profits rise: Is $85K BTC next?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin turns risk on as stocks hit new highs and miner profits rise: Is $85K BTC next?\" class=\"type:primaryImage\" src=\"https://images.coin",
-      "impact": {}
-    },
-    {
-      "event_id": "ac7e6157-9003-4a3c-8c15-d6b831a8a05e",
-      "source": "rss:theblock",
-      "title": "SC Ventures named first external shareholder of GSR following strategic investment",
-      "url": "https://www.theblock.co/post/399950/sc-ventures-first-external-shareholder-gsr-strategic-investment?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-04T23:00:00+00:00",
-      "raw_text": "SC Ventures named first external shareholder of GSR following strategic investment\n\n<p>The move deepens a relationship between the firms struck when GSR invested in the SC Ventures-backed tokenization platform Libeara.</p>\n\n<p>The move deepens a relationship between the firms struck when GSR investe",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 57,
+        "avg_1h": 0.1,
+        "avg_24h": -0.62,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 208,
+        "avg_1h": -0.13,
+        "avg_24h": -0.13,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
         "count": 33,
         "avg_1h": -0.1,
@@ -6493,18 +6506,6 @@
         "count": 188,
         "avg_1h": 0.48,
         "avg_24h": 5.48,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 56,
-        "avg_1h": 0.1,
-        "avg_24h": -0.62,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 209,
-        "avg_1h": -0.13,
-        "avg_24h": -0.13,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
