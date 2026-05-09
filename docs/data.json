@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-09T20:59:24.144821+00:00",
+  "generated_at": "2026-05-09T21:58:18.301729+00:00",
   "events": [
+    {
+      "event_id": "d2f2d1e8-fd0b-46c7-8567-7bb6e4ab9760",
+      "source": "rss:theblock",
+      "title": "Arbitrum’s $71 million in ETH cleared for Aave transfer as North Korea terrorism creditors retain legal claim",
+      "url": "https://www.theblock.co/post/400642/arbitrums-71-million-in-eth-cleared-for-aave-transfer-as-north-korea-terrorism-creditors-retain-legal-claim?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-09T21:02:50+00:00",
+      "raw_text": "Arbitrum’s $71 million in ETH cleared for Aave transfer as North Korea terrorism creditors retain legal claim\n\n<p>The order shields anyone who votes on the transfer from being held in violation of the freeze, though the ultimate fate of the funds remains unclear. </p>\n\n<p>The order shields anyone wh",
+      "impact": {}
+    },
     {
       "event_id": "6854376d-6a4b-46d6-ba83-660388ceb9a9",
       "source": "rss:theblock",
@@ -489,7 +501,8 @@
         "t_plus_5m": 0.1072,
         "t_plus_15m": 0.1002,
         "t_plus_1h": 0.0521,
-        "t_plus_4h": 0.0155
+        "t_plus_4h": 0.0155,
+        "t_plus_24h": 0.8214
       }
     },
     {
@@ -6438,33 +6451,14 @@
       "timestamp_utc": "2026-05-05T10:30:39+00:00",
       "raw_text": "Ripple shares North Korea-linked threat data as crypto attacks shift to social engineering\n\n<p>The recent $280 million Drift incident has demonstrated a shift toward more sophisticated social engineering tactics.</p>\n\n<p>The recent $280 million Drift incident has demonstrated a shift toward more sop",
       "impact": {}
-    },
-    {
-      "event_id": "1e76a9cb-07ae-484c-8a2d-242356cc4675",
-      "source": "rss:cointelegraph",
-      "title": "Telegram to become TON’s largest validator, Durov says",
-      "url": "https://cointelegraph.com/news/telegram-to-become-tons-largest-validator-durov-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "TON"
-      ],
-      "timestamp_utc": "2026-05-05T10:29:11+00:00",
-      "raw_text": "Telegram to become TON’s largest validator, Durov says\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Telegram to become TON’s largest validator, Durov says\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2Fwa",
-      "impact": {
-        "t_plus_5m": 2.275,
-        "t_plus_15m": 2.0776,
-        "t_plus_1h": 2.8428,
-        "t_plus_24h": 22.6318
-      }
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
         "count": 187,
-        "avg_1h": 0.5,
-        "avg_24h": 5.5,
+        "avg_1h": 0.34,
+        "avg_24h": 0.04,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
