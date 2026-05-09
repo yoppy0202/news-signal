@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-09T18:04:08.057826+00:00",
+  "generated_at": "2026-05-09T19:18:55.638630+00:00",
   "events": [
+    {
+      "event_id": "0d49cd7e-530c-4a34-aa08-5b53d31a789c",
+      "source": "rss:cointelegraph",
+      "title": "The Nobitex dilemma: How Iran's biggest crypto exchange stays off the OFAC blacklist",
+      "url": "https://cointelegraph.com/features/the-nobitex-dilemma-how-irans-biggest-crypto-exchange-stays-off-the-ofac-blacklist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-09T17:42:09+00:00",
+      "raw_text": "The Nobitex dilemma: How Iran's biggest crypto exchange stays off the OFAC blacklist\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"The Nobitex dilemma: How Iran's biggest crypto exchange stays off the OFAC blacklist\" class=\"type:primaryImage\" src=\"https://images.cointelegr",
+      "impact": {}
+    },
     {
       "event_id": "aebcd302-24fb-4a07-9dde-054de3f1631a",
       "source": "rss:coindesk",
@@ -6445,32 +6457,12 @@
       "timestamp_utc": "2026-05-05T10:05:51+00:00",
       "raw_text": "Bitcoin tops $80,000 as altcoins rally and risk appetite returns",
       "impact": {}
-    },
-    {
-      "event_id": "e23e53c3-6a11-454f-a805-9e43c892d4f6",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin ETFs pull in $532M as BTC reclaims $80K amid ‘post-ceasefire recovery’",
-      "url": "https://cointelegraph.com/news/spot-bitcoin-etfs-pull-in-520m-as-btc-reclaims-80000-amid-post-ceasefire-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-05T09:56:13+00:00",
-      "raw_text": "Bitcoin ETFs pull in $532M as BTC reclaims $80K amid ‘post-ceasefire recovery’\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs pull in $532M as BTC reclaims $80K amid ‘post-ceasefire recovery’\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/imag",
-      "impact": {
-        "t_plus_5m": -0.1662,
-        "t_plus_15m": -0.0506,
-        "t_plus_1h": 0.0669,
-        "t_plus_4h": 1.0024,
-        "t_plus_24h": 1.3861
-      }
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 207,
+        "count": 208,
         "avg_1h": -0.14,
         "avg_24h": -0.16,
         "win_rate_1h_gt5pct": 0.0
@@ -6482,9 +6474,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 57,
+        "count": 56,
         "avg_1h": 0.1,
-        "avg_24h": -0.62,
+        "avg_24h": -1.62,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
