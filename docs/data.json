@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-08T23:09:23.013166+00:00",
+  "generated_at": "2026-05-09T00:09:19.228790+00:00",
   "events": [
+    {
+      "event_id": "fcca974b-c26e-49fc-86f2-fa10faf2b51a",
+      "source": "rss:theblock",
+      "title": "Take two: Senate Banking Committee sets a date to amend and vote on sweeping crypto legislation",
+      "url": "https://www.theblock.co/post/400492/take-two-senate-banking-committee-sets-a-date-to-amend-and-vote-on-sweeping-crypto-legislation?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-08T23:24:54+00:00",
+      "raw_text": "Take two: Senate Banking Committee sets a date to amend and vote on sweeping crypto legislation\n\n<p>A much-anticipated hearing to vote on sweeping crypto legislation is happening, marking a second attempt in the Senate Banking Committee.</p>\n\n<p>A much-anticipated hearing to vote on sweeping crypto ",
+      "impact": {}
+    },
+    {
+      "event_id": "8cce807b-97d1-4823-807a-8c6f3c61e4f3",
+      "source": "rss:coindesk",
+      "title": "Senate Banking Committee plans to hold key market structure hearing on Thursday",
+      "url": "https://www.coindesk.com/policy/2026/05/08/senate-banking-committee-plans-to-hold-key-market-structure-hearing-on-thursday",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-08T23:20:00+00:00",
+      "raw_text": "Senate Banking Committee plans to hold key market structure hearing on Thursday",
+      "impact": {}
+    },
+    {
+      "event_id": "ee7b6344-4518-486e-880a-aa997fe86b2b",
+      "source": "rss:cointelegraph",
+      "title": "Crypto exchanges pushed US lawmakers to bar provision on risky tokens: Report",
+      "url": "https://cointelegraph.com/news/crypto-companies-law-risky-tokens-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-08T22:43:32+00:00",
+      "raw_text": "Crypto exchanges pushed US lawmakers to bar provision on risky tokens: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto exchanges pushed US lawmakers to bar provision on risky tokens: Report\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
+      "impact": {}
+    },
     {
       "event_id": "9f64c4a3-c931-4355-825f-d48762dc303c",
       "source": "rss:decrypt",
@@ -6414,56 +6450,19 @@
       "timestamp_utc": "2026-05-04T21:15:24+00:00",
       "raw_text": "K-Pop Firm's Stock Plunges as It Dumps Bitcoin Treasury Plan for AI Pivot\n\nK Wave Media is shifting $485 million in funding from its Bitcoin treasury strategy towards an AI infrastructure play.",
       "impact": {}
-    },
-    {
-      "event_id": "aeff3ac7-4646-443f-989d-7852238b25ec",
-      "source": "rss:theblock",
-      "title": "Exodus payments pivot hits ‘critical threshold,’ opens new revenue streams: Benchmark",
-      "url": "https://www.theblock.co/post/399948/exodus-payments-pivot-critical-threshold-new-revenue-streams-benchmark?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-04T21:02:25+00:00",
-      "raw_text": "Exodus payments pivot hits ‘critical threshold,’ opens new revenue streams: Benchmark\n\n<p>Payments infrastructure from Exodus' W3C deal could see revenue move from crypto swaps into more recurring income streams.</p>\n\n<p>Payments infrastructure from Exodus' W3C deal could see revenue move from crypt",
-      "impact": {}
-    },
-    {
-      "event_id": "31c90c1c-fa87-4a4a-9130-103785f767d3",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin short-term cost basis approaches profitability, but $80K must flip to support first",
-      "url": "https://cointelegraph.com/markets/bitcoin-eyes-80k-support-flip-with-key-holder-cost-basis-in-focus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-04T20:38:43+00:00",
-      "raw_text": "Bitcoin short-term cost basis approaches profitability, but $80K must flip to support first\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin short-term cost basis approaches profitability, but $80K must flip to support first\" class=\"type:primaryImage\" src=\"https://ima",
-      "impact": {
-        "t_plus_5m": -0.0101,
-        "t_plus_15m": 0.0091,
-        "t_plus_1h": 0.4251,
-        "t_plus_4h": 0.1604
-      }
-    },
-    {
-      "event_id": "d7383125-3751-4ffe-bcb1-98a66d9b2b53",
-      "source": "rss:decrypt",
-      "title": "Haun Ventures Raises $1 Billion Fund for the Intersection of Crypto and AI Agents",
-      "url": "https://decrypt.co/366728/haun-ventures-raises-1-billion-fund-intersection-crypto-tech-ai-agents",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-04T20:32:03+00:00",
-      "raw_text": "Haun Ventures Raises $1 Billion Fund for the Intersection of Crypto and AI Agents\n\nKatie Haun’s venture firm closes a $1 billion fund to target crypto infrastructure and systems for AI agents to transact autonomously.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 56,
+        "avg_1h": 0.12,
+        "avg_24h": -0.62,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 208,
-        "avg_1h": -0.08,
+        "avg_1h": -0.09,
         "avg_24h": -0.13,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6477,12 +6476,6 @@
         "count": 189,
         "avg_1h": 0.48,
         "avg_24h": 5.48,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 56,
-        "avg_1h": 0.12,
-        "avg_24h": -0.62,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
