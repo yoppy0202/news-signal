@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-09T15:08:50.940652+00:00",
+  "generated_at": "2026-05-09T16:06:48.694134+00:00",
   "events": [
+    {
+      "event_id": "fa72128a-37b0-4baa-9f9d-3382b8182d21",
+      "source": "rss:coindesk",
+      "title": "Emerging-market users are treating crypto exchanges like banking apps, Binance says",
+      "url": "https://www.coindesk.com/business/2026/05/09/emerging-market-users-are-treating-crypto-exchanges-like-banking-apps-binance-says",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-09T15:41:38+00:00",
+      "raw_text": "Emerging-market users are treating crypto exchanges like banking apps, Binance says",
+      "impact": {}
+    },
+    {
+      "event_id": "4dff6f41-8442-4e2d-8935-4e6f389f83b8",
+      "source": "rss:coindesk",
+      "title": "Swiss central bank bitcoin reserve push fails over signature shortfall",
+      "url": "https://www.coindesk.com/business/2026/05/09/swiss-central-bank-bitcoin-reserve-push-fails-over-signature-shortfall",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-09T15:28:09+00:00",
+      "raw_text": "Swiss central bank bitcoin reserve push fails over signature shortfall",
+      "impact": {}
+    },
+    {
+      "event_id": "74ac71a0-8e4f-4f58-8874-d07c8e5f7e55",
+      "source": "rss:coindesk",
+      "title": "CME is set to let traders bet on bitcoin volatility, not just price",
+      "url": "https://www.coindesk.com/markets/2026/05/09/you-ll-soon-be-able-to-bet-on-bitcoin-volatility-not-just-price-on-cme",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-09T15:14:52+00:00",
+      "raw_text": "CME is set to let traders bet on bitcoin volatility, not just price",
+      "impact": {}
+    },
     {
       "event_id": "6485eda5-1cdb-4f46-ad2a-72f30edaa294",
       "source": "rss:coindesk",
@@ -11,6 +47,18 @@
       "tokens": [],
       "timestamp_utc": "2026-05-09T14:30:00+00:00",
       "raw_text": "How DeFi is changing the financial landscape for Latin Americans",
+      "impact": {}
+    },
+    {
+      "event_id": "6fe964ce-186f-49d9-a7ad-bb61466f2374",
+      "source": "rss:cointelegraph",
+      "title": "TeraWulf doubles AI revenue but posts $427M quarterly loss as mining income declines",
+      "url": "https://cointelegraph.com/news/terawulf-doubles-ai-revenue-but-posts-427m-quarterly-loss-as-mining-income-declines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-09T14:23:38+00:00",
+      "raw_text": "TeraWulf doubles AI revenue but posts $427M quarterly loss as mining income declines\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"TeraWulf doubles AI revenue but posts $427M quarterly loss as mining income declines\" class=\"type:primaryImage\" src=\"https://images.cointelegr",
       "impact": {}
     },
     {
@@ -68,10 +116,16 @@
       "url": "https://cointelegraph.com/news/court-lets-arbitrum-dao-to-transfer-71m-in-eth-tied-to-north-korea-hack-to-aave?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "hack",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-05-09T11:12:08+00:00",
       "raw_text": "Court lets Arbitrum DAO to transfer $71M in ETH tied to North Korea hack to Aave\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Court lets Arbitrum DAO to transfer $71M in ETH tied to North Korea hack to Aave\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1899,
+        "t_plus_15m": 0.2353,
+        "t_plus_1h": 0.21
+      }
     },
     {
       "event_id": "8fff02ea-74eb-427f-9157-7066997f3e5f",
@@ -6410,67 +6464,16 @@
       "timestamp_utc": "2026-05-05T06:45:26+00:00",
       "raw_text": "Bitcoin used to hate inflation. Now it might be the opposite",
       "impact": {}
-    },
-    {
-      "event_id": "9d7a7358-fec5-4c13-9a37-5253c9084ecf",
-      "source": "rss:coindesk",
-      "title": "Ripple to share North Korean threat intelligence with crypto firms",
-      "url": "https://www.coindesk.com/tech/2026/05/05/ripple-to-share-north-korean-threat-intelligence-with-crypto-firms",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-05T06:12:38+00:00",
-      "raw_text": "Ripple to share North Korean threat intelligence with crypto firms",
-      "impact": {}
-    },
-    {
-      "event_id": "32fa859d-7287-4b29-b063-cd9eea77f570",
-      "source": "rss:cointelegraph",
-      "title": "Haun Ventures raises $1B, adding AI to crypto focus",
-      "url": "https://cointelegraph.com/news/haun-ventures-raises-1b-crypto-ai-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-05T06:12:09+00:00",
-      "raw_text": "Haun Ventures raises $1B, adding AI to crypto focus\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Haun Ventures raises $1B, adding AI to crypto focus\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnR",
-      "impact": {}
-    },
-    {
-      "event_id": "d3e22b9b-8e62-44d8-80ee-99b834555188",
-      "source": "rss:cointelegraph",
-      "title": "Polygon rolls out private stablecoin payments targeting institutions",
-      "url": "https://cointelegraph.com/news/polygon-rolls-out-private-payments-for-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-05T06:08:31+00:00",
-      "raw_text": "Polygon rolls out private stablecoin payments targeting institutions\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Polygon rolls out private stablecoin payments targeting institutions\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wY",
-      "impact": {}
-    },
-    {
-      "event_id": "3d59b76a-3037-4e46-8f1c-e46052e592ee",
-      "source": "rss:coindesk",
-      "title": "Bitcoin crosses $81,000, ETH, SOL, DOGE steady as options desks bid on further price jump",
-      "url": "https://www.coindesk.com/markets/2026/05/05/bitcoin-crosses-usd81-000-eth-sol-doge-steady-as-options-desks-bid-on-further-price-jump",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "ETH",
-        "SOL",
-        "DOGE"
-      ],
-      "timestamp_utc": "2026-05-05T05:50:16+00:00",
-      "raw_text": "Bitcoin crosses $81,000, ETH, SOL, DOGE steady as options desks bid on further price jump",
-      "impact": {
-        "t_plus_5m": 0.1295,
-        "t_plus_15m": 0.1118,
-        "t_plus_1h": -0.0367,
-        "t_plus_4h": -0.2934
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 206,
+        "avg_1h": -0.14,
+        "avg_24h": -0.16,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 188,
         "avg_1h": 0.5,
@@ -6479,14 +6482,8 @@
       },
       "hack": {
         "count": 35,
-        "avg_1h": -0.1,
+        "avg_1h": -0.04,
         "avg_24h": 0.19,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 206,
-        "avg_1h": -0.14,
-        "avg_24h": -0.16,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
