@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-05-09T19:18:55.638630+00:00",
+  "generated_at": "2026-05-09T20:59:24.144821+00:00",
   "events": [
+    {
+      "event_id": "6854376d-6a4b-46d6-ba83-660388ceb9a9",
+      "source": "rss:theblock",
+      "title": "BoE’s Bailey warns of looming ‘wrestle’ with US over stablecoin rules, flags run risk for UK",
+      "url": "https://www.theblock.co/post/400639/boes-bailey-warns-of-looming-wrestle-with-us-over-stablecoin-rules-flags-run-risk-for-uk?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-09T19:56:36+00:00",
+      "raw_text": "BoE’s Bailey warns of looming ‘wrestle’ with US over stablecoin rules, flags run risk for UK\n\n<p>Bailey, who chairs the Financial Stability Board, warned that hard-to-redeem U.S. stablecoins could flood into jurisdictions like the UK during a crisis.</p>\n\n<p>Bailey, who chairs the Financial Stabilit",
+      "impact": {}
+    },
+    {
+      "event_id": "6a9b0c87-4cd2-412f-bbbe-15579db2de4b",
+      "source": "rss:cointelegraph",
+      "title": "The CLARITY Act will help reshore the crypto industry in the US — Attorney",
+      "url": "https://cointelegraph.com/news/clarity-act-reshore-crypto-industry-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-09T19:00:05+00:00",
+      "raw_text": "The CLARITY Act will help reshore the crypto industry in the US — Attorney\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"The CLARITY Act will help reshore the crypto industry in the US — Attorney\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
+      "impact": {}
+    },
     {
       "event_id": "0d49cd7e-530c-4a34-aa08-5b53d31a789c",
       "source": "rss:cointelegraph",
@@ -6433,34 +6457,16 @@
         "t_plus_1h": 2.8428,
         "t_plus_24h": 22.6318
       }
-    },
-    {
-      "event_id": "fcecb7df-24f2-4264-939a-fb6bf65dcfc8",
-      "source": "rss:coindesk",
-      "title": "Crypto platform Bullish to buy Equiniti for $4.2 billion, building tokenized securities infrastructure",
-      "url": "https://www.coindesk.com/business/2026/05/05/crypto-platform-bullish-to-buy-equiniti-for-usd4-25-billion-building-tokenized-securities-infrastructure",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-05T10:25:00+00:00",
-      "raw_text": "Crypto platform Bullish to buy Equiniti for $4.2 billion, building tokenized securities infrastructure",
-      "impact": {}
-    },
-    {
-      "event_id": "3598b55a-f17e-4001-9b24-b0470652237a",
-      "source": "rss:coindesk",
-      "title": "Bitcoin tops $80,000 as altcoins rally and risk appetite returns",
-      "url": "https://www.coindesk.com/markets/2026/05/05/bitcoin-tops-usd80-000-as-altcoins-rally-and-risk-appetite-returns",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-05T10:05:51+00:00",
-      "raw_text": "Bitcoin tops $80,000 as altcoins rally and risk appetite returns",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 187,
+        "avg_1h": 0.5,
+        "avg_24h": 5.5,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 208,
         "avg_1h": -0.14,
@@ -6474,15 +6480,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 56,
+        "count": 55,
         "avg_1h": 0.1,
         "avg_24h": -1.62,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 186,
-        "avg_1h": 0.5,
-        "avg_24h": 5.5,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
