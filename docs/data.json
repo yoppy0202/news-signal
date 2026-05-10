@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T23:01:21.726090+00:00",
+  "generated_at": "2026-05-10T00:00:03.136225+00:00",
   "events": [
     {
       "event_id": "081c16ee-a088-4d1e-9e22-013f108c6575",
@@ -8,10 +8,16 @@
       "url": "https://cointelegraph.com/news/strategy-ceo-phong-le-strategy-selling-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-09T21:21:00+00:00",
       "raw_text": "Strategy CEO Phong Le says company will sell BTC only in specific cases\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy CEO Phong Le says company will sell BTC only in specific cases\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0666,
+        "t_plus_15m": 0.05,
+        "t_plus_1h": 0.0165
+      }
     },
     {
       "event_id": "d2f2d1e8-fd0b-46c7-8567-7bb6e4ab9760",
@@ -27,7 +33,8 @@
       "raw_text": "Arbitrum’s $71 million in ETH cleared for Aave transfer as North Korea terrorism creditors retain legal claim\n\n<p>The order shields anyone who votes on the transfer from being held in violation of the freeze, though the ultimate fate of the funds remains unclear. </p>\n\n<p>The order shields anyone wh",
       "impact": {
         "t_plus_5m": 0.05,
-        "t_plus_15m": 0.0584
+        "t_plus_15m": 0.0584,
+        "t_plus_1h": 0.0483
       }
     },
     {
@@ -6463,7 +6470,7 @@
     "by_event_type": {
       "narrative": {
         "count": 188,
-        "avg_1h": 0.34,
+        "avg_1h": 0.3,
         "avg_24h": 0.04,
         "win_rate_1h_gt5pct": 0.0
       },
