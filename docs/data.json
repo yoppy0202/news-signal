@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T21:01:49.266676+00:00",
+  "generated_at": "2026-05-10T22:00:20.300965+00:00",
   "events": [
     {
       "event_id": "9a9d8865-3090-4b4e-93ed-a6f0e7e00925",
@@ -8,10 +8,16 @@
       "url": "https://cointelegraph.com/news/saylor-bitcoin-buy-sale-announcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-10T18:40:00+00:00",
       "raw_text": "Saylor signals another Bitcoin buy, after hinting at selling in Q1 earnings call\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Saylor signals another Bitcoin buy, after hinting at selling in Q1 earnings call\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2183,
+        "t_plus_15m": -0.2028,
+        "t_plus_1h": -0.0196
+      }
     },
     {
       "event_id": "2a0f29b4-da42-4f7a-8792-793f3e656c37",
@@ -52,7 +58,8 @@
       "impact": {
         "t_plus_5m": -0.5509,
         "t_plus_15m": -0.4872,
-        "t_plus_1h": -0.3499
+        "t_plus_1h": -0.3499,
+        "t_plus_4h": 0.1503
       }
     },
     {
