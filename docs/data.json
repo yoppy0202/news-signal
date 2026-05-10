@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-10T19:20:00.395324+00:00",
+  "generated_at": "2026-05-10T21:01:49.266676+00:00",
   "events": [
+    {
+      "event_id": "9a9d8865-3090-4b4e-93ed-a6f0e7e00925",
+      "source": "rss:cointelegraph",
+      "title": "Saylor signals another Bitcoin buy, after hinting at selling in Q1 earnings call",
+      "url": "https://cointelegraph.com/news/saylor-bitcoin-buy-sale-announcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-10T18:40:00+00:00",
+      "raw_text": "Saylor signals another Bitcoin buy, after hinting at selling in Q1 earnings call\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Saylor signals another Bitcoin buy, after hinting at selling in Q1 earnings call\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/",
+      "impact": {}
+    },
     {
       "event_id": "2a0f29b4-da42-4f7a-8792-793f3e656c37",
       "source": "rss:coindesk",
@@ -32,10 +44,16 @@
       "url": "https://cointelegraph.com/markets/ethereum-down-35-versus-bitcoin-in-year-will-eth-downtrend-continue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-05-10T16:13:27+00:00",
       "raw_text": "Ethereum down 35% versus Bitcoin in a year: Will the ETH price downtrend continue?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum down 35% versus Bitcoin in a year: Will the ETH price downtrend continue?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.5509,
+        "t_plus_15m": -0.4872,
+        "t_plus_1h": -0.3499
+      }
     },
     {
       "event_id": "6d1e97a6-8dbd-43e9-9fcf-21243c4d80d6",
@@ -52,7 +70,8 @@
       "impact": {
         "t_plus_5m": -0.4892,
         "t_plus_15m": -0.4487,
-        "t_plus_1h": 0.0196
+        "t_plus_1h": 0.0196,
+        "t_plus_4h": -0.0936
       }
     },
     {
@@ -6468,31 +6487,19 @@
       "timestamp_utc": "2026-05-05T12:18:41+00:00",
       "raw_text": "Coinbase Cuts 14% of Staff Amid Crypto 'Down Market,' AI Adoption: CEO\n\nThe crypto exchange is restructuring around artificial intelligence and flattening its org chart, CEO Brian Armstrong said.",
       "impact": {}
-    },
-    {
-      "event_id": "f90342d0-351b-4332-9606-831b44719ac7",
-      "source": "rss:theblock",
-      "title": "Coinbase cuts 14% of staff as it navigates downturn, shifts to AI-native operations",
-      "url": "https://www.theblock.co/post/400023/coinbase-cuts-staff?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-05T12:04:12+00:00",
-      "raw_text": "Coinbase cuts 14% of staff as it navigates downturn, shifts to AI-native operations\n\n<p>Coinbase CEO Brian Armstrong confirmed the layoffs on X, saying that the company's business remains \"volatile\" from quarter to quarter.</p>\n\n<p>Coinbase CEO Brian Armstrong confirmed the layoffs on X, saying that",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 212,
+        "count": 213,
         "avg_1h": -0.14,
         "avg_24h": -0.28,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 188,
-        "avg_1h": 0.11,
+        "count": 187,
+        "avg_1h": 0.08,
         "avg_24h": 0.04,
         "win_rate_1h_gt5pct": 0.0
       },
