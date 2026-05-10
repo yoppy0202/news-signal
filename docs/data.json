@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-10T15:09:19.155463+00:00",
+  "generated_at": "2026-05-10T16:08:14.966029+00:00",
   "events": [
+    {
+      "event_id": "6d1e97a6-8dbd-43e9-9fcf-21243c4d80d6",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin holds $80K into weekly close as traders say BTC price dip not yet over",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-holds-80k-into-weekly-close-traders-say-dips-not-over-yet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-10T14:56:21+00:00",
+      "raw_text": "Bitcoin holds $80K into weekly close as traders say BTC price dip not yet over\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin holds $80K into weekly close as traders say BTC price dip not yet over\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/imag",
+      "impact": {}
+    },
     {
       "event_id": "5c937c7e-662b-4a60-93df-c8d4dbec82fd",
       "source": "rss:coindesk",
@@ -23,6 +35,18 @@
       "tokens": [],
       "timestamp_utc": "2026-05-10T13:01:02+00:00",
       "raw_text": "AI Models Scheme, Betray and Vote Each Other Out in Survivor-Style Game\n\nResearchers say multiplayer games may reveal AI behavior that static tests miss.",
+      "impact": {}
+    },
+    {
+      "event_id": "a76d1c68-fc1a-4ed8-bf73-8ffb15264174",
+      "source": "rss:cointelegraph",
+      "title": "Three young DeFi apps return $100M in revenue to token holders in 30 days",
+      "url": "https://cointelegraph.com/news/three-young-defi-apps-return-100m-in-revenue-to-token-holders-in-30-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-10T13:00:00+00:00",
+      "raw_text": "Three young DeFi apps return $100M in revenue to token holders in 30 days\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Three young DeFi apps return $100M in revenue to token holders in 30 days\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
       "impact": {}
     },
     {
@@ -56,10 +80,17 @@
       "url": "https://cointelegraph.com/markets/bitcoin-price-may-dip-toward-70k-fed-estimates-hotter-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-10T10:47:20+00:00",
       "raw_text": "Bitcoin price may dip toward $70K as Fed estimates hotter inflation print\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price may dip toward $70K as Fed estimates hotter inflation print\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0159,
+        "t_plus_15m": 0.0142,
+        "t_plus_1h": -0.0639,
+        "t_plus_4h": 0.0507
+      }
     },
     {
       "event_id": "3565bab3-1927-4f5c-9971-1557d6c476ca",
@@ -6443,56 +6474,25 @@
       "timestamp_utc": "2026-05-05T12:00:00+00:00",
       "raw_text": "Andreessen Horowitz raises $2.2 billion in a new fund, saying crypto fundamentals are at an 'all-time high'",
       "impact": {}
-    },
-    {
-      "event_id": "e0fb62c1-ff35-4ab4-b13f-83424fcddad9",
-      "source": "rss:theblock",
-      "title": "FalconX and Sygnum partner to launch tokenized credit offering for institutional clients",
-      "url": "https://www.theblock.co/post/399947/falconx-sygnum-partner-tokenized-credit-offering-institutional-clients?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-05T11:55:00+00:00",
-      "raw_text": "FalconX and Sygnum partner to launch tokenized credit offering for institutional clients\n\n<p>FalconX’s facility extends credit through a special-purpose vehicle, backed by overcollateralized loans and monitored in real time.</p>\n\n<p>FalconX’s facility extends credit through a special-purpose vehicle",
-      "impact": {}
-    },
-    {
-      "event_id": "c55bb97f-c476-476b-ab23-3cac70e7dc5e",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin Price Rockets Past $81,000 for the First Time Since January",
-      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crosses-81000-january",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-05T11:45:24+00:00",
-      "raw_text": "Bitcoin Price Rockets Past $81,000 for the First Time Since January\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Bitcoin-price-surged-above-81000-for-the-first-time-since-January-2026.jpg\" style=\"",
-      "impact": {
-        "t_plus_5m": -0.0153,
-        "t_plus_15m": -0.0606,
-        "t_plus_1h": 0.3191,
-        "t_plus_4h": 0.6836
-      }
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 186,
-        "avg_1h": 0.11,
-        "avg_24h": 0.04,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
         "count": 212,
         "avg_1h": -0.15,
         "avg_24h": -0.28,
         "win_rate_1h_gt5pct": 0.0
       },
+      "narrative": {
+        "count": 187,
+        "avg_1h": 0.11,
+        "avg_24h": 0.04,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 54,
-        "avg_1h": 0.1,
+        "count": 53,
+        "avg_1h": 0.06,
         "avg_24h": -0.92,
         "win_rate_1h_gt5pct": 0.0
       },
