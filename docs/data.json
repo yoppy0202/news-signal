@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-10T09:00:45.206304+00:00",
+  "generated_at": "2026-05-10T10:23:04.010171+00:00",
   "events": [
+    {
+      "event_id": "3565bab3-1927-4f5c-9971-1557d6c476ca",
+      "source": "rss:cointelegraph",
+      "title": "Trump Media posts $406M quarterly loss as crypto bets turn sour",
+      "url": "https://cointelegraph.com/news/trump-media-posts-406m-quarterly-loss-as-crypto-bets-turn-sour?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-10T08:23:43+00:00",
+      "raw_text": "Trump Media posts $406M quarterly loss as crypto bets turn sour\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump Media posts $406M quarterly loss as crypto bets turn sour\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXM",
+      "impact": {}
+    },
     {
       "event_id": "282b5248-faef-45b9-adbb-285efd4fd781",
       "source": "rss:cointelegraph",
@@ -8,10 +20,16 @@
       "url": "https://cointelegraph.com/news/santiment-flags-risk-as-crypto-bullish-talk-spikes-while-btc-holds-near-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-10T05:33:59+00:00",
       "raw_text": "Santiment flags risk as crypto bullish talk spikes while BTC holds $80K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" Santiment flags risk as crypto bullish talk spikes while BTC holds $80K\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cH",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0865,
+        "t_plus_15m": -0.1352,
+        "t_plus_1h": -0.2278
+      }
     },
     {
       "event_id": "8fc9c0fb-2b59-42cb-8f75-447639fca955",
@@ -334,10 +352,17 @@
       "url": "https://cointelegraph.com/news/court-lets-arbitrum-dao-to-transfer-71m-in-eth-tied-to-north-korea-hack-to-aave?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "hack",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-05-09T11:12:08+00:00",
       "raw_text": "Court lets Arbitrum DAO transfer $71M in ETH tied to North Korea hack to Aave\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Court lets Arbitrum DAO transfer $71M in ETH tied to North Korea hack to Aave\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.6733,
+        "t_plus_15m": -0.6283,
+        "t_plus_1h": -0.6533,
+        "t_plus_4h": -1.0634
+      }
     },
     {
       "event_id": "57c0ca6a-4ab5-4517-a8aa-357b7fca7d61",
@@ -6452,25 +6477,13 @@
       "timestamp_utc": "2026-05-05T11:30:21+00:00",
       "raw_text": "Bullish to acquire Equiniti in $4.2 billion deal combining transfer agent and tokenization stack\n\n<p>Bullish agreed to acquire Equiniti in a $4.2 billion deal combining its tokenization stack with the global transfer agent’s infrastructure.</p>\n\n<p>Bullish agreed to acquire Equiniti in a $4.2 billio",
       "impact": {}
-    },
-    {
-      "event_id": "10fc9eb8-b576-4dba-b960-9fe8539114de",
-      "source": "rss:bitcoinmagazine",
-      "title": "Coinbase Cuts 14% of Workforce, Signals AI-Driven Future",
-      "url": "https://bitcoinmagazine.com/news/coinbase-cuts-14-of-workforce",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-05T11:28:24+00:00",
-      "raw_text": "Coinbase Cuts 14% of Workforce, Signals AI-Driven Future\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Coinbase-Cuts-14-of-Workforce-Signals-AI-Driven-Future.jpg\" style=\"display: block; margin: 1em",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 211,
-        "avg_1h": -0.14,
+        "count": 212,
+        "avg_1h": -0.15,
         "avg_24h": -0.28,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6482,12 +6495,12 @@
       },
       "hack": {
         "count": 35,
-        "avg_1h": -0.04,
+        "avg_1h": -0.14,
         "avg_24h": 0.37,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 54,
+        "count": 53,
         "avg_1h": 0.1,
         "avg_24h": -0.92,
         "win_rate_1h_gt5pct": 0.0
