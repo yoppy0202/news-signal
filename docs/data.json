@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-10T17:11:56.724356+00:00",
+  "generated_at": "2026-05-10T19:20:00.395324+00:00",
   "events": [
+    {
+      "event_id": "2a0f29b4-da42-4f7a-8792-793f3e656c37",
+      "source": "rss:coindesk",
+      "title": "Policy at Consensus Miami: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/05/10/policy-at-consensus-miami-state-of-crypto",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-10T18:30:00+00:00",
+      "raw_text": "Policy at Consensus Miami: State of Crypto",
+      "impact": {}
+    },
     {
       "event_id": "bffc58e0-2532-4e87-bee7-027338695500",
       "source": "rss:decrypt",
@@ -11,6 +23,18 @@
       "tokens": [],
       "timestamp_utc": "2026-05-10T16:49:28+00:00",
       "raw_text": "Crypto Firms Race to 'Quantum-Proof' Wallets Before Bitcoin, Ethereum Networks Catch Up\n\nCrypto companies are upgrading wallets to counter the coming quantum computing threat, but gaps remain.",
+      "impact": {}
+    },
+    {
+      "event_id": "cb5c5b93-9861-4fd5-b63f-9dacf91ebb7f",
+      "source": "rss:cointelegraph",
+      "title": "Ethereum down 35% versus Bitcoin in a year: Will the ETH price downtrend continue?",
+      "url": "https://cointelegraph.com/markets/ethereum-down-35-versus-bitcoin-in-year-will-eth-downtrend-continue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-10T16:13:27+00:00",
+      "raw_text": "Ethereum down 35% versus Bitcoin in a year: Will the ETH price downtrend continue?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum down 35% versus Bitcoin in a year: Will the ETH price downtrend continue?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.",
       "impact": {}
     },
     {
@@ -6456,48 +6480,24 @@
       "timestamp_utc": "2026-05-05T12:04:12+00:00",
       "raw_text": "Coinbase cuts 14% of staff as it navigates downturn, shifts to AI-native operations\n\n<p>Coinbase CEO Brian Armstrong confirmed the layoffs on X, saying that the company's business remains \"volatile\" from quarter to quarter.</p>\n\n<p>Coinbase CEO Brian Armstrong confirmed the layoffs on X, saying that",
       "impact": {}
-    },
-    {
-      "event_id": "eee18c7a-18f5-4688-8892-29881601176b",
-      "source": "rss:coindesk",
-      "title": "Standard Chartered expands further into crypto with stake in GSR at $1 billion valuation",
-      "url": "https://www.coindesk.com/business/2026/05/05/standard-chartered-expands-further-into-crypto-with-stake-in-gsr-at-usd1-billion-valuation",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-05T12:00:17+00:00",
-      "raw_text": "Standard Chartered expands further into crypto with stake in GSR at $1 billion valuation",
-      "impact": {}
-    },
-    {
-      "event_id": "5e53a09a-a526-4f12-a7f7-a1bc5360517f",
-      "source": "rss:theblock",
-      "title": "a16z crypto raises $2.2 billion for fifth fund, promotes CTO to general partner",
-      "url": "https://www.theblock.co/post/400012/a16z-crypto-raises-2-2-billion-fifth-fund-promotes-cto-general-partner?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-05T12:00:00+00:00",
-      "raw_text": "a16z crypto raises $2.2 billion for fifth fund, promotes CTO to general partner\n\n<p>a16z crypto has raised $2.2 billion for its fifth fund as it points to growing use of stablecoins, onchain finance, and improving regulation.</p>\n\n<p>a16z crypto has raised $2.2 billion for its fifth fund as it point",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 187,
-        "avg_1h": 0.11,
-        "avg_24h": 0.04,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
         "count": 212,
         "avg_1h": -0.14,
         "avg_24h": -0.28,
         "win_rate_1h_gt5pct": 0.0
       },
+      "narrative": {
+        "count": 188,
+        "avg_1h": 0.11,
+        "avg_24h": 0.04,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 53,
+        "count": 52,
         "avg_1h": 0.06,
         "avg_24h": -0.92,
         "win_rate_1h_gt5pct": 0.0
