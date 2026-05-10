@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-05-10T04:09:57.996110+00:00",
+  "generated_at": "2026-05-10T06:43:28.050943+00:00",
   "events": [
+    {
+      "event_id": "8fc9c0fb-2b59-42cb-8f75-447639fca955",
+      "source": "rss:cointelegraph",
+      "title": "CZ says crypto exchange rivals opposed his pardon bid",
+      "url": "https://cointelegraph.com/news/cz-says-crypto-exchange-rivals-opposed-his-pardon-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-10T00:17:23+00:00",
+      "raw_text": "CZ says crypto exchange rivals opposed his pardon bid\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CZ says crypto exchange rivals opposed his pardon bid\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWR",
+      "impact": {}
+    },
+    {
+      "event_id": "f2aaf146-f106-4284-8f69-36bfe8b3269a",
+      "source": "rss:cointelegraph",
+      "title": "7 major Bitcoin mining pools join Stratum V2, working group",
+      "url": "https://cointelegraph.com/news/seven-major-bitcoin-mining-pools-stratum-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-09T23:00:19+00:00",
+      "raw_text": "7 major Bitcoin mining pools join Stratum V2, working group\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"7 major Bitcoin mining pools join Stratum V2, working group\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWR",
+      "impact": {}
+    },
     {
       "event_id": "081c16ee-a088-4d1e-9e22-013f108c6575",
       "source": "rss:cointelegraph",
@@ -16,7 +40,8 @@
       "impact": {
         "t_plus_5m": 0.0666,
         "t_plus_15m": 0.05,
-        "t_plus_1h": 0.0165
+        "t_plus_1h": 0.0165,
+        "t_plus_4h": -0.1556
       }
     },
     {
@@ -34,7 +59,8 @@
       "impact": {
         "t_plus_5m": 0.05,
         "t_plus_15m": 0.0584,
-        "t_plus_1h": 0.0483
+        "t_plus_1h": 0.0483,
+        "t_plus_4h": -0.3025
       }
     },
     {
@@ -6441,30 +6467,6 @@
       "timestamp_utc": "2026-05-05T11:07:55+00:00",
       "raw_text": "Crypto Exchange Bullish Strikes $4.2 Billion Deal for Equiniti to Build Tokenized Securities Infrastructure\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Crypto-Exchange-Bullish-Strikes-4.2-Billion",
       "impact": {}
-    },
-    {
-      "event_id": "76d67606-299f-4029-a4d2-28e4bb304767",
-      "source": "rss:decrypt",
-      "title": "Ripple to Share North Korean Threat Intelligence With Crypto Industry",
-      "url": "https://decrypt.co/366751/ripple-to-share-north-korean-threat-intelligence-with-crypto-industry",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-05T10:56:38+00:00",
-      "raw_text": "Ripple to Share North Korean Threat Intelligence With Crypto Industry\n\nThe move follows two nine-figure exploits of DeFi protocols Drift and KelpDAO in April, as DPRK hackers shift to social engineering tactics.",
-      "impact": {}
-    },
-    {
-      "event_id": "a92865cf-a2a0-4fd7-aca5-725b79bc6231",
-      "source": "rss:cointelegraph",
-      "title": "UAE free zone launches blockchain-based business IDs for registered firms",
-      "url": "https://cointelegraph.com/news/uae-innovation-city-introduces-ai-onchain-business-ids?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-05T10:36:25+00:00",
-      "raw_text": "UAE free zone launches blockchain-based business IDs for registered firms\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UAE free zone launches blockchain-based business IDs for registered firms\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
-      "impact": {}
     }
   ],
   "stats": {
@@ -6476,13 +6478,13 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 208,
+        "count": 209,
         "avg_1h": -0.14,
         "avg_24h": -0.16,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 35,
+        "count": 34,
         "avg_1h": -0.04,
         "avg_24h": 0.3,
         "win_rate_1h_gt5pct": 0.0
