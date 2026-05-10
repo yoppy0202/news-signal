@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-10T16:08:14.966029+00:00",
+  "generated_at": "2026-05-10T17:11:56.724356+00:00",
   "events": [
+    {
+      "event_id": "bffc58e0-2532-4e87-bee7-027338695500",
+      "source": "rss:decrypt",
+      "title": "Crypto Firms Race to 'Quantum-Proof' Wallets Before Bitcoin, Ethereum Networks Catch Up",
+      "url": "https://decrypt.co/367321/crypto-firms-race-quantum-proof-wallets-bitcoin-ethereum",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-10T16:49:28+00:00",
+      "raw_text": "Crypto Firms Race to 'Quantum-Proof' Wallets Before Bitcoin, Ethereum Networks Catch Up\n\nCrypto companies are upgrading wallets to counter the coming quantum computing threat, but gaps remain.",
+      "impact": {}
+    },
     {
       "event_id": "6d1e97a6-8dbd-43e9-9fcf-21243c4d80d6",
       "source": "rss:cointelegraph",
@@ -8,10 +20,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-price-holds-80k-into-weekly-close-traders-say-dips-not-over-yet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-10T14:56:21+00:00",
       "raw_text": "Bitcoin holds $80K into weekly close as traders say BTC price dip not yet over\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin holds $80K into weekly close as traders say BTC price dip not yet over\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/imag",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.4892,
+        "t_plus_15m": -0.4487,
+        "t_plus_1h": 0.0196
+      }
     },
     {
       "event_id": "5c937c7e-662b-4a60-93df-c8d4dbec82fd",
@@ -6462,32 +6480,20 @@
       "timestamp_utc": "2026-05-05T12:00:00+00:00",
       "raw_text": "a16z crypto raises $2.2 billion for fifth fund, promotes CTO to general partner\n\n<p>a16z crypto has raised $2.2 billion for its fifth fund as it points to growing use of stablecoins, onchain finance, and improving regulation.</p>\n\n<p>a16z crypto has raised $2.2 billion for its fifth fund as it point",
       "impact": {}
-    },
-    {
-      "event_id": "75fc46b5-8920-4ddb-b825-d5639b334846",
-      "source": "rss:coindesk",
-      "title": "Andreessen Horowitz raises $2.2 billion in a new fund, saying crypto fundamentals are at an 'all-time high'",
-      "url": "https://www.coindesk.com/business/2026/05/05/andreessen-horowitz-raises-usd2-2-billion-in-a-new-fund-saying-crypto-fundamentals-are-at-an-all-time-high",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-05T12:00:00+00:00",
-      "raw_text": "Andreessen Horowitz raises $2.2 billion in a new fund, saying crypto fundamentals are at an 'all-time high'",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 212,
-        "avg_1h": -0.15,
-        "avg_24h": -0.28,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
         "count": 187,
         "avg_1h": 0.11,
         "avg_24h": 0.04,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 212,
+        "avg_1h": -0.14,
+        "avg_24h": -0.28,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
