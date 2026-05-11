@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-05-10T23:03:34.230696+00:00",
+  "generated_at": "2026-05-11T00:03:46.882125+00:00",
   "events": [
+    {
+      "event_id": "4a9de2ec-8bc5-45a9-a96e-6f702dd8f445",
+      "source": "rss:theblock",
+      "title": "Morgan Stanley’s bitcoin ETF absorbs $194 million in first month with no net daily outflows",
+      "url": "https://www.theblock.co/post/400650/morgan-stanleys-bitcoin-etf-absorbs-194-million-in-first-month-with-no-net-daily-outflows?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-10T22:07:53+00:00",
+      "raw_text": "Morgan Stanley’s bitcoin ETF absorbs $194 million in first month with no net daily outflows\n\n<p>Most of MSBT's capital came from self-directed clients since the bank's 16,000-person financial advisor network is not yet cleared to recommend the fund.</p>\n\n<p>Most of MSBT's capital came from self-dire",
+      "impact": {}
+    },
+    {
+      "event_id": "e26085e4-e8ed-4b93-a9e5-28dc6f3ac3fd",
+      "source": "rss:theblock",
+      "title": "Canton Network developer Digital Asset eyes $300 million raise at $2 billion valuation, led by a16z crypto: Bloomberg",
+      "url": "https://www.theblock.co/post/400647/canton-network-developer-digital-asset-eyes-300-million-raise-at-2-billion-valuation-led-by-a16z-crypto-bloomberg?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-10T18:46:55+00:00",
+      "raw_text": "Canton Network developer Digital Asset eyes $300 million raise at $2 billion valuation, led by a16z crypto: Bloomberg\n\n<p>The fundraise would be Digital Asset's largest to date and comes as the Canton Network has attracted partners like Visa and Goldman Sachs. </p>\n\n<p>The fundraise would be Digital",
+      "impact": {}
+    },
     {
       "event_id": "9a9d8865-3090-4b4e-93ed-a6f0e7e00925",
       "source": "rss:cointelegraph",
@@ -16,7 +40,8 @@
       "impact": {
         "t_plus_5m": -0.2183,
         "t_plus_15m": -0.2028,
-        "t_plus_1h": -0.0196
+        "t_plus_1h": -0.0196,
+        "t_plus_4h": 0.6046
       }
     },
     {
@@ -80,6 +105,18 @@
         "t_plus_1h": 0.0196,
         "t_plus_4h": -0.0936
       }
+    },
+    {
+      "event_id": "72292d19-2082-4adf-96f9-7c338a9d5e63",
+      "source": "rss:cointelegraph",
+      "title": "Canton Network creator targets $300M in capital raise: Report",
+      "url": "https://cointelegraph.com/news/company-canton-network-raises-300m-2-billion-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-10T14:00:00+00:00",
+      "raw_text": "Canton Network creator targets $300M in capital raise: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Canton Network creator targets $300M in capital raise: Report\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3R",
+      "impact": {}
     },
     {
       "event_id": "5c937c7e-662b-4a60-93df-c8d4dbec82fd",
@@ -6458,50 +6495,14 @@
       "timestamp_utc": "2026-05-05T12:48:16+00:00",
       "raw_text": "Bitcoin's $81K Rally Comes Amid 66-Day Negative Funding Streak: Here’s Why\n\nShorts have paid a 12% annualized carry for 66 days amid Bitcoin's climb—analysts say the driver is institutional hedging, not fear.",
       "impact": {}
-    },
-    {
-      "event_id": "432077d8-2309-468a-b2ed-17d3cf9f1dac",
-      "source": "rss:cointelegraph",
-      "title": "Dutch users still access prediction markets despite Polymarket ban",
-      "url": "https://cointelegraph.com/news/kalshi-hyperliquid-offer-prediction-markets-to-dutch-users-despite-polymarket-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-05T12:46:23+00:00",
-      "raw_text": "Dutch users still access prediction markets despite Polymarket ban\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Dutch users still access prediction markets despite Polymarket ban\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb",
-      "impact": {}
-    },
-    {
-      "event_id": "8c99cd9b-0c74-45f3-9e0e-af50f2b24164",
-      "source": "rss:theblock",
-      "title": "Global crypto ETP inflow streak extends to five weeks, masking sharp intraweek reversal: CoinShares",
-      "url": "https://www.theblock.co/post/400016/global-crypto-etp-inflow-streak-extends-to-five-weeks-masking-sharp-intraweek-reversal-coinshares?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-05T12:23:55+00:00",
-      "raw_text": "Global crypto ETP inflow streak extends to five weeks, masking sharp intraweek reversal: CoinShares\n\n<p>The inflows mark the fifth straight positive week, though the total masked strong outflows that were reversed by a single session on Friday.</p>\n\n<p>The inflows mark the fifth straight positive we",
-      "impact": {}
-    },
-    {
-      "event_id": "f30cd399-e892-473c-bea0-d30aa451e3be",
-      "source": "rss:decrypt",
-      "title": "Coinbase Cuts 14% of Staff Amid Crypto 'Down Market,' AI Adoption: CEO",
-      "url": "https://decrypt.co/366765/coinbase-cuts-14-of-staff-amid-crypto-down-market-ai-adoption-ceo",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-05T12:18:41+00:00",
-      "raw_text": "Coinbase Cuts 14% of Staff Amid Crypto 'Down Market,' AI Adoption: CEO\n\nThe crypto exchange is restructuring around artificial intelligence and flattening its org chart, CEO Brian Armstrong said.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 213,
-        "avg_1h": -0.14,
-        "avg_24h": -0.28,
+      "macro": {
+        "count": 53,
+        "avg_1h": 0.06,
+        "avg_24h": -0.92,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
@@ -6510,10 +6511,10 @@
         "avg_24h": 0.04,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 52,
-        "avg_1h": 0.06,
-        "avg_24h": -0.92,
+      "unknown": {
+        "count": 212,
+        "avg_1h": -0.14,
+        "avg_24h": -0.28,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
