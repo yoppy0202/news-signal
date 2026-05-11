@@ -1,6 +1,137 @@
 {
-  "generated_at": "2026-05-11T19:11:15.138201+00:00",
+  "generated_at": "2026-05-11T21:38:44.205588+00:00",
   "events": [
+    {
+      "event_id": "f6c539b8-c2ea-4971-bb5c-e789ba44d240",
+      "source": "rss:decrypt",
+      "title": "Clarity Act Vote Set for Thursday: Here's Where the Crypto Bill Stands",
+      "url": "https://decrypt.co/367487/clarity-act-vote-set-here-where-crypto-bill-stands",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-11T20:46:03+00:00",
+      "raw_text": "Clarity Act Vote Set for Thursday: Here's Where the Crypto Bill Stands\n\nCrypto leaders are the most confident they’ve been in months—but a major vote on the Senate Banking Committee this week could still go many ways.",
+      "impact": {}
+    },
+    {
+      "event_id": "a045d5a6-e413-4680-b595-2c0b56bba465",
+      "source": "rss:bitcoinmagazine",
+      "title": "Bitcoin Price Holds Near $82,000 as ETF Inflows Surge and CLARITY Act Battle Intensifies",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-82000",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-05-11T20:23:12+00:00",
+      "raw_text": "Bitcoin Price Holds Near $82,000 as ETF Inflows Surge and CLARITY Act Battle Intensifies\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Bitcoin-Price-Holds-Near-82000-as-ETF-Inflows-Surge-and-CLARIT",
+      "impact": {
+        "t_plus_5m": 0.1009,
+        "t_plus_15m": 0.0638
+      }
+    },
+    {
+      "event_id": "a92b80a4-36e1-4ba9-8a8b-0e39b4b0173e",
+      "source": "rss:coindesk",
+      "title": "'A big nothing burger': A Q&A with Strategy's Michael Saylor on selling bitcoin",
+      "url": "https://www.coindesk.com/markets/2026/05/11/a-big-nothing-burger-a-q-and-a-with-strategy-s-michael-saylor-on-selling-bitcoin",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-11T20:21:44+00:00",
+      "raw_text": "'A big nothing burger': A Q&A with Strategy's Michael Saylor on selling bitcoin",
+      "impact": {}
+    },
+    {
+      "event_id": "692ec1bc-a53e-4646-aa09-58450f9a9f1b",
+      "source": "rss:cointelegraph",
+      "title": "Price predictions 5/11: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA",
+      "url": "https://cointelegraph.com/markets/price-predictions-511-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-ada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC",
+        "ETH"
+      ],
+      "timestamp_utc": "2026-05-11T20:12:42+00:00",
+      "raw_text": "Price predictions 5/11: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 5/11: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
+      "impact": {
+        "t_plus_5m": 0.1246,
+        "t_plus_15m": 0.1009
+      }
+    },
+    {
+      "event_id": "c7feb941-845a-428b-bcdf-22fa88862d0a",
+      "source": "rss:cointelegraph",
+      "title": "Ripple receives $200M credit line to expand institutional prime brokerage",
+      "url": "https://cointelegraph.com/news/ripple-secures-200m-credit-facility-expand-institutional-prime-brokerage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-11T20:12:35+00:00",
+      "raw_text": "Ripple receives $200M credit line to expand institutional prime brokerage\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ripple receives $200M credit line to expand institutional prime brokerage\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
+      "impact": {}
+    },
+    {
+      "event_id": "8e2632b6-be48-4bfe-9d15-55dbc6c2c27b",
+      "source": "rss:coindesk",
+      "title": "'I don’t think that’s crazy': Here is why Circle is betting on new $3 billion blockchain",
+      "url": "https://www.coindesk.com/business/2026/05/11/i-don-t-think-that-s-crazy-here-is-why-circle-is-betting-on-new-usd3-billion-blockchain",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-11T19:51:09+00:00",
+      "raw_text": "'I don’t think that’s crazy': Here is why Circle is betting on new $3 billion blockchain",
+      "impact": {}
+    },
+    {
+      "event_id": "f6758f0d-0f22-4117-9f12-bb5362c44f8e",
+      "source": "rss:decrypt",
+      "title": "Hackers Used AI to Build a Zero-Day Exploit That Bypasses Two-Factor Authentication: Google",
+      "url": "https://decrypt.co/367477/hackers-ai-zero-day-exploit-google",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-11T19:49:10+00:00",
+      "raw_text": "Hackers Used AI to Build a Zero-Day Exploit That Bypasses Two-Factor Authentication: Google\n\nCybercriminals used an AI model to find and weaponize a previously unknown software flaw, Google's threat team confirmed Monday.",
+      "impact": {}
+    },
+    {
+      "event_id": "bea6e0fe-f8ae-4596-b517-66837e7eb294",
+      "source": "rss:cointelegraph",
+      "title": "MoonPay makes prediction markets push with Dawn Labs buy, AI tool launch",
+      "url": "https://cointelegraph.com/news/moonpay-dawn-labs-ai-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-11T19:46:59+00:00",
+      "raw_text": "MoonPay makes prediction markets push with Dawn Labs buy, AI tool launch\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MoonPay makes prediction markets push with Dawn Labs buy, AI tool launch\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
+      "impact": {}
+    },
+    {
+      "event_id": "207d76c9-458b-48cd-94b5-19b97e0a1fbc",
+      "source": "rss:theblock",
+      "title": "Upcoming crypto bill vote shifts fight to full Senate, ‘major obstacles’ remain TD Cowen says",
+      "url": "https://www.theblock.co/post/400812/crypto-bill-vote-major-obstacles-td-cowen?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-11T19:39:02+00:00",
+      "raw_text": "Upcoming crypto bill vote shifts fight to full Senate, ‘major obstacles’ remain TD Cowen says\n\n<p>The Senate Banking Committee is set to vote on the crypto bill, or Clarity Act, on Thursday despite objections from banks and Democrats.</p>\n\n<p>The Senate Banking Committee is set to vote on the crypto",
+      "impact": {}
+    },
+    {
+      "event_id": "9c1281d3-54d6-4997-9f1f-07f7ced64752",
+      "source": "rss:theblock",
+      "title": "Binance says AI security systems prevented $10.5 billion in user losses from crypto scams, phishing",
+      "url": "https://www.theblock.co/post/400813/binance-ai-security-prevented-10-5-billion-user-losses-crypto-scams-phishing?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-11T19:30:07+00:00",
+      "raw_text": "Binance says AI security systems prevented $10.5 billion in user losses from crypto scams, phishing\n\n<p>In Q1 2026 alone, Binance claims to have safeguarded $1.98 billion in funds protected from 22.9 million scam and phishing attempts.</p>\n\n<p>In Q1 2026 alone, Binance claims to have safeguarded $1.",
+      "impact": {}
+    },
     {
       "event_id": "8c9dd132-66a4-412b-9263-35362b424ecb",
       "source": "rss:decrypt",
@@ -56,10 +187,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-golden-cross-appears-first-time-since-2023-will-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-11T17:35:04+00:00",
       "raw_text": "Bitcoin ‘golden cross’ appears for the first time since 2023: Will BTC price rally?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ‘golden cross’ appears for the first time since 2023: Will BTC price rally?\" class=\"type:primaryImage\" src=\"https://images.cointelegrap",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1992,
+        "t_plus_15m": -0.0256,
+        "t_plus_1h": 0.1355
+      }
     },
     {
       "event_id": "96a32071-b23f-473c-8f58-fbf1256acfd4",
@@ -68,10 +205,16 @@
       "url": "https://cointelegraph.com/news/galaxy-sharplink-125m-institutional-defi-fund-eth-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-05-11T17:26:07+00:00",
       "raw_text": "Galaxy, Sharplink plan $125M institutional DeFi yield fund backed by ETH treasury\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Galaxy, Sharplink plan $125M institutional DeFi yield fund backed by ETH treasury\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.co",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.4362,
+        "t_plus_15m": -0.2601,
+        "t_plus_1h": 0.0001
+      }
     },
     {
       "event_id": "e4b44c41-de3e-4755-b28b-2d48b86b4817",
@@ -104,10 +247,16 @@
       "url": "https://www.theblock.co/post/400752/sharplink-q1-revenue-12-million-expands-eth-productivity-staking?utm_source=rss&utm_medium=rss",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-05-11T16:52:17+00:00",
       "raw_text": "Sharplink Q1 revenue tops $12 million as it pursues ‘singles and doubles’ hits in ETH yield\n\n<p>Sharplink said its new Galaxy Digital partnership will deploy roughly $125 million into onchain liquidity and DeFi opportunities.</p>\n\n<p>Sharplink said its new Galaxy Digital partnership will deploy roug",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.3573,
+        "t_plus_15m": -0.5279,
+        "t_plus_1h": -0.0422
+      }
     },
     {
       "event_id": "3a0fc2c7-2b1a-4801-a681-d9e1dc05ee15",
@@ -542,10 +691,14 @@
       "url": "https://www.coindesk.com/markets/2026/05/11/strategy-buys-535-bitcoin-for-usd43-million-days-after-signaling-potential-btc-sales",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-11T12:17:04+00:00",
       "raw_text": "Strategy buys 535 bitcoin for $43 million days after signaling potential BTC sales",
-      "impact": {}
+      "impact": {
+        "t_plus_4h": 0.625
+      }
     },
     {
       "event_id": "5edf159b-2a1f-4ffd-b27d-6193c3de441f",
@@ -908,6 +1061,18 @@
       "impact": {}
     },
     {
+      "event_id": "0d4fb719-26a1-43e7-a296-ef172976e568",
+      "source": "rss:cointelegraph",
+      "title": "Circle makes USDC push into AI agent payment tools",
+      "url": "https://cointelegraph.com/news/circle-unveils-agent-stack-for-ai-driven-stablecoin-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-11T07:00:00+00:00",
+      "raw_text": "Circle makes USDC push into AI agent payment tools\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Circle makes USDC push into AI agent payment tools\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hc",
+      "impact": {}
+    },
+    {
       "event_id": "148bf556-ccd3-4c87-ac3e-69d37a6ad43e",
       "source": "rss:cointelegraph",
       "title": "White hat returns $190K to Renegade hours after hacking the protocol",
@@ -1126,10 +1291,14 @@
       "url": "https://cointelegraph.com/news/saylor-bitcoin-buy-sale-announcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-10T18:40:00+00:00",
       "raw_text": "Saylor signals another Bitcoin buy after hinting at selling in Q1 earnings call\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Saylor signals another Bitcoin buy after hinting at selling in Q1 earnings call\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/im",
-      "impact": {}
+      "impact": {
+        "t_plus_24h": 1.1279
+      }
     },
     {
       "event_id": "9a9d8865-3090-4b4e-93ed-a6f0e7e00925",
@@ -6365,178 +6534,32 @@
       "timestamp_utc": "2026-05-06T04:49:19+00:00",
       "raw_text": "Kelp DAO to migrate rsETH to Chainlink CCIP as blame game continues\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kelp DAO to migrate rsETH to Chainlink CCIP as blame game continues\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXl",
       "impact": {}
-    },
-    {
-      "event_id": "510b4c73-4f4f-4708-8190-bb2762a2ab61",
-      "source": "rss:cointelegraph",
-      "title": "Iggy Azalea faces class lawsuit over MOTHER memecoin",
-      "url": "https://cointelegraph.com/news/iggy-azalea-class-action-lawsuit-mother-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T04:29:35+00:00",
-      "raw_text": "Iggy Azalea faces class lawsuit over MOTHER memecoin\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Iggy Azalea faces class lawsuit over MOTHER memecoin\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hc",
-      "impact": {}
-    },
-    {
-      "event_id": "8c44a32d-167e-431f-abc0-247f55fe7e86",
-      "source": "rss:coindesk",
-      "title": "XRP above $1.42 as traders watch 2025 breakout pattern that led to 66% rally",
-      "url": "https://www.coindesk.com/markets/2026/05/06/xrp-above-usd1-42-as-traders-watch-2025-breakout-pattern-that-led-to-66-rally",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-05-06T04:25:26+00:00",
-      "raw_text": "XRP above $1.42 as traders watch 2025 breakout pattern that led to 66% rally",
-      "impact": {
-        "t_plus_5m": -1.3881,
-        "t_plus_15m": -1.4615,
-        "t_plus_1h": -1.5826,
-        "t_plus_4h": -0.6687
-      }
-    },
-    {
-      "event_id": "cbac67f6-1a8b-4d7d-bc28-725640abfe05",
-      "source": "rss:theblock",
-      "title": "Crypto whale sues Coinbase for allegedly refusing to return stolen DAI",
-      "url": "https://www.theblock.co/post/400152/crypto-whale-sues-coinbase?utm_source=rss&utm_medium=rss",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T04:25:23+00:00",
-      "raw_text": "Crypto whale sues Coinbase for allegedly refusing to return stolen DAI\n\n<p>The plaintiff fell victim to a phishing scam that drained his DAI holdings, with part of the funds later traced to a Coinbase user account.</p>\n\n<p>The plaintiff fell victim to a phishing scam that drained his DAI holdings, w",
-      "impact": {}
-    },
-    {
-      "event_id": "b42fbcc1-6070-4746-bd3d-249da0040008",
-      "source": "rss:coindesk",
-      "title": "Bitcoin tops $81,000 as Strategy mulls selling its BTC to fund dividend obligations",
-      "url": "https://www.coindesk.com/markets/2026/05/06/bitcoin-tops-usd81-000-as-strategy-mulls-selling-its-btc-to-fund-dividend-obligations",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-06T04:11:27+00:00",
-      "raw_text": "Bitcoin tops $81,000 as Strategy mulls selling its BTC to fund dividend obligations",
-      "impact": {
-        "t_plus_5m": -0.4057,
-        "t_plus_15m": -0.4522,
-        "t_plus_1h": -0.7188,
-        "t_plus_4h": -0.3561
-      }
-    },
-    {
-      "event_id": "7ef33d68-ceca-4e12-9583-8e8ac981d451",
-      "source": "rss:cointelegraph",
-      "title": "Strategy could sell Bitcoin ‘to inoculate the market,’ Michael Saylor says",
-      "url": "https://cointelegraph.com/news/strategy-posts-125b-net-loss-in-q1-as-btc-fell-xx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T04:09:33+00:00",
-      "raw_text": "Strategy could sell Bitcoin ‘to inoculate the market,’ Michael Saylor says\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy could sell Bitcoin ‘to inoculate the market,’ Michael Saylor says\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
-      "impact": {}
-    },
-    {
-      "event_id": "815a181f-9ff3-4f80-a9e8-91e4d218fb83",
-      "source": "rss:theblock",
-      "title": "Strategy likely to sell bitcoin to cover STRC dividends, Michael Saylor says",
-      "url": "https://www.theblock.co/post/400145/strategy-sell-bitcoin-michael-saylor?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T02:58:44+00:00",
-      "raw_text": "Strategy likely to sell bitcoin to cover STRC dividends, Michael Saylor says\n\n<p>Saylor explained that this will eventually help Strategy buy more bitcoin than it sells to cover dividends for its STRC.</p>\n\n<p>Saylor explained that this will eventually help Strategy buy more bitcoin than it sells to",
-      "impact": {}
-    },
-    {
-      "event_id": "beb3887b-fe87-4dd9-95a4-c71ebb162f7e",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin holds $81K amid flat derivatives markets: Is rally sustainable?",
-      "url": "https://cointelegraph.com/markets/bitcoin-holds-81k-amid-flat-derivatives-markets-is-the-rally-sustainable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T02:48:53+00:00",
-      "raw_text": "Bitcoin holds $81K amid flat derivatives markets: Is rally sustainable?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin holds $81K amid flat derivatives markets: Is rally sustainable?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
-      "impact": {}
-    },
-    {
-      "event_id": "010e2692-6a70-42a3-ac90-34fa88525b41",
-      "source": "rss:coindesk",
-      "title": "Michael Saylor's Strategy signals potential bitcoin sale to fund dividends obligations",
-      "url": "https://www.coindesk.com/business/2026/05/05/michael-saylor-s-strategy-signals-potential-bitcoin-sale-to-fund-dividends-obligations",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-05T23:43:44+00:00",
-      "raw_text": "Michael Saylor's Strategy signals potential bitcoin sale to fund dividends obligations",
-      "impact": {}
-    },
-    {
-      "event_id": "9ea9bdb6-fad1-4f89-9d30-d03bfc9ecc2a",
-      "source": "rss:coindesk",
-      "title": "Trust in crypto remains biggest barrier to adoption, say Consensus Miami 2026 panelists",
-      "url": "https://www.coindesk.com/policy/2026/05/05/trust-in-crypto-remains-biggest-barrier-to-adoption-say-consensus-miami-2026-panelists",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-05T22:39:33+00:00",
-      "raw_text": "Trust in crypto remains biggest barrier to adoption, say Consensus Miami 2026 panelists",
-      "impact": {}
-    },
-    {
-      "event_id": "0d281a6c-d984-48de-bba6-d8d81694ebe1",
-      "source": "rss:decrypt",
-      "title": "Kelp Blames LayerZero for $292 Million Hack, Plans Switch to Chainlink",
-      "url": "https://decrypt.co/366903/kelp-layerzero-292-million-hack-plans-move-chainlink",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-05T22:31:56+00:00",
-      "raw_text": "Kelp Blames LayerZero for $292 Million Hack, Plans Switch to Chainlink\n\nThe protocol shift comes as a $71 million court fight continues to unfold.",
-      "impact": {}
-    },
-    {
-      "event_id": "1c9e0fc7-2ed7-4712-ad37-058b54d86261",
-      "source": "rss:cointelegraph",
-      "title": "Forward Industries, RockawayX back OnRe to build onchain reinsurance on Solana",
-      "url": "https://cointelegraph.com/news/forward-industries-rockawayx-onre-solana-reinsurance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-05T22:20:15+00:00",
-      "raw_text": "Forward Industries, RockawayX back OnRe to build onchain reinsurance on Solana\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Forward Industries, RockawayX back OnRe to build onchain reinsurance on Solana\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/imag",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 200,
-        "avg_1h": 0.08,
-        "avg_24h": 0.04,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
         "count": 201,
-        "avg_1h": -0.1,
+        "avg_1h": -0.03,
         "avg_24h": -0.52,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 31,
-        "avg_1h": -0.14,
-        "avg_24h": 0.35,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 56,
+        "count": 58,
         "avg_1h": 0.08,
         "avg_24h": -0.92,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 199,
+        "avg_1h": 0.07,
+        "avg_24h": 0.26,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 30,
+        "avg_1h": -0.14,
+        "avg_24h": 0.35,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
