@@ -1,6 +1,72 @@
 {
-  "generated_at": "2026-05-11T21:38:44.205588+00:00",
+  "generated_at": "2026-05-11T23:08:55.139459+00:00",
   "events": [
+    {
+      "event_id": "bc473dc7-c422-435d-b1c9-b44a86751931",
+      "source": "rss:decrypt",
+      "title": "Baidu's New AI Is Already Beating Top Models and Cost 94% Less to Build",
+      "url": "https://decrypt.co/367493/baidu-ai-model-cost-less-train-beating-everyone-china",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-11T21:46:16+00:00",
+      "raw_text": "Baidu's New AI Is Already Beating Top Models and Cost 94% Less to Build\n\nERNIE 5.1 hits the top of Chinese AI leaderboards while spending a fraction of what rivals do. Baidu calls it a \"parameter efficiency\" leap.",
+      "impact": {}
+    },
+    {
+      "event_id": "eef51e2a-afee-435d-b57e-76762ee47aa5",
+      "source": "rss:theblock",
+      "title": "Ethereum Foundation names three new co-leads to major Protocol cluster",
+      "url": "https://www.theblock.co/post/400835/ethereum-foundation-names-three-new-co-leads-major-protocol-cluster?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-11T21:26:16+00:00",
+      "raw_text": "Ethereum Foundation names three new co-leads to major Protocol cluster\n\n<p>The EF's Protocol team, formerly Protocol R&amp;D, is the core group responsible for designing and developing the Ethereum base layer.</p>\n\n<p>The EF's Protocol team, formerly Protocol R&amp;D, is the core group responsible f",
+      "impact": {}
+    },
+    {
+      "event_id": "f03e18bd-4156-4fab-a8b5-ad1c29ad97a3",
+      "source": "rss:decrypt",
+      "title": "Circle Gives AI Agents USDC Stablecoin Powers Alongside $222M Arc Token Sale",
+      "url": "https://decrypt.co/367490/circle-ai-agents-usdc-stablecoin-powers-222m-arc-token-sale",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-11T21:15:46+00:00",
+      "raw_text": "Circle Gives AI Agents USDC Stablecoin Powers Alongside $222M Arc Token Sale\n\nUSDC issuer Circle launched a suite of tools designed to let AI agents hold money, pay for services, and transact without human involvement.",
+      "impact": {}
+    },
+    {
+      "event_id": "31ddc4d6-c0d8-4ac2-a441-8eb59e0b2d84",
+      "source": "rss:theblock",
+      "title": "MARA Q1 revenue drops 18%, says bitcoin mining remains ‘operational foundation’",
+      "url": "https://www.theblock.co/post/400824/mara-q1-revenue-drops-18-bitcoin-mining-operational-foundation?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-11T21:14:02+00:00",
+      "raw_text": "MARA Q1 revenue drops 18%, says bitcoin mining remains ‘operational foundation’\n\n<p>MARA Holdings sold roughly $1.5 billion worth of bitcoin during the quarter to retire debt and improve liquidity.</p>\n\n<p>MARA Holdings sold roughly $1.5 billion worth of bitcoin during the quarter to retire debt and",
+      "impact": {}
+    },
+    {
+      "event_id": "50da2199-128c-45dc-86a2-243177679d18",
+      "source": "rss:theblock",
+      "title": "Bitcoin miner CleanSpark’s Q2 losses swell after losing $224 million on BTC holdings",
+      "url": "https://www.theblock.co/post/400823/bitcoin-miner-cleansparks-q2-losses-swell-after-losing-224-million-on-btc-holdings?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-05-11T21:05:02+00:00",
+      "raw_text": "Bitcoin miner CleanSpark’s Q2 losses swell after losing $224 million on BTC holdings\n\n<p>CleanSpark said Q2 bitcoin mining revenue came in at $136.4 million, a 25% decrease from a year ago when it posted $181.7 million.</p>\n\n<p>CleanSpark said Q2 bitcoin mining revenue came in at $136.4 million, a 2",
+      "impact": {
+        "t_plus_5m": -0.1861,
+        "t_plus_15m": -0.2745,
+        "t_plus_1h": -0.0202
+      }
+    },
     {
       "event_id": "f6c539b8-c2ea-4971-bb5c-e789ba44d240",
       "source": "rss:decrypt",
@@ -27,7 +93,8 @@
       "raw_text": "Bitcoin Price Holds Near $82,000 as ETF Inflows Surge and CLARITY Act Battle Intensifies\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Bitcoin-Price-Holds-Near-82000-as-ETF-Inflows-Surge-and-CLARIT",
       "impact": {
         "t_plus_5m": 0.1009,
-        "t_plus_15m": 0.0638
+        "t_plus_15m": 0.0638,
+        "t_plus_1h": -0.1779
       }
     },
     {
@@ -57,7 +124,8 @@
       "raw_text": "Price predictions 5/11: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 5/11: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
       "impact": {
         "t_plus_5m": 0.1246,
-        "t_plus_15m": 0.1009
+        "t_plus_15m": 0.1009,
+        "t_plus_1h": -0.1253
       }
     },
     {
@@ -1259,6 +1327,18 @@
         "t_plus_1h": 0.9259,
         "t_plus_4h": 0.1044
       }
+    },
+    {
+      "event_id": "6d82198f-a403-4aa8-9975-0fc1d5234474",
+      "source": "rss:solana_official",
+      "title": "Solana Ecosystem Roundup: April 2026",
+      "url": "https://solana.com/news/solana-ecosystem-roundup-april-2026",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-11T00:24:00+00:00",
+      "raw_text": "Solana Ecosystem Roundup: April 2026\n\nA deep dive into everything that shaped the Solana ecosystem in April 2026, from institutional adoption and tokenized RWAs to stablecoins, DeFi infrastructure, AI agents, and consumer apps.",
+      "impact": {}
     },
     {
       "event_id": "4a9de2ec-8bc5-45a9-a96e-6f702dd8f445",
@@ -6462,102 +6542,30 @@
       "timestamp_utc": "2026-05-06T07:23:57+00:00",
       "raw_text": "Crypto derivatives have converged with Wall Street. Equity perps could soon prove it.",
       "impact": {}
-    },
-    {
-      "event_id": "637d8f0f-95d8-4e91-8a5a-294cc6b070f6",
-      "source": "rss:cointelegraph",
-      "title": "SIX Group wins Swiss approval to offer crypto custody alongside traditional securities",
-      "url": "https://cointelegraph.com/news/six-group-receives-finma-approval-to-integrate-crypto-custody-into-csd-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T07:00:00+00:00",
-      "raw_text": "SIX Group wins Swiss approval to offer crypto custody alongside traditional securities\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SIX Group wins Swiss approval to offer crypto custody alongside traditional securities\" class=\"type:primaryImage\" src=\"https://images.cointe",
-      "impact": {}
-    },
-    {
-      "event_id": "d90f93fb-c489-4e27-a3aa-c08c3708acba",
-      "source": "rss:cointelegraph",
-      "title": "Kraken brings spot margin trading onshore for eligible US retail traders",
-      "url": "https://cointelegraph.com/news/kraken-opens-regulated-spot-margin-trading-to-us-retail-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T07:00:00+00:00",
-      "raw_text": "Kraken brings spot margin trading onshore for eligible US retail traders\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken brings spot margin trading onshore for eligible US retail traders\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
-      "impact": {}
-    },
-    {
-      "event_id": "174d3e19-36a9-4576-94a1-9123ab8e3134",
-      "source": "rss:cointelegraph",
-      "title": "Anchorage launches agentic banking as CEO tips ‘trillion-dollar’ opportunity",
-      "url": "https://cointelegraph.com/news/anchorage-google-cloud-launch-agentic-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T06:55:26+00:00",
-      "raw_text": "Anchorage launches agentic banking as CEO tips ‘trillion-dollar’ opportunity\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Anchorage launches agentic banking as CEO tips ‘trillion-dollar’ opportunity\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/5",
-      "impact": {}
-    },
-    {
-      "event_id": "defdc7d1-d019-4749-85e1-dd4702685e35",
-      "source": "rss:cointelegraph",
-      "title": "Colombian president says Bitcoin mining could transform country's Caribbean coast",
-      "url": "https://cointelegraph.com/news/colombia-president-says-bitcoin-mining-could-transform-its-caribbean-coast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T06:43:07+00:00",
-      "raw_text": "Colombian president says Bitcoin mining could transform country's Caribbean coast\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Colombian president says Bitcoin mining could transform country's Caribbean coast \" class=\"type:primaryImage\" src=\"https://images.cointelegraph.c",
-      "impact": {}
-    },
-    {
-      "event_id": "15248e8b-51d6-40a0-a939-4a83e0001c51",
-      "source": "rss:coindesk",
-      "title": "North Korea terror victims escalate fight to seize $71 million from Aave hack",
-      "url": "https://www.coindesk.com/policy/2026/05/06/north-korea-terror-victims-escalate-fight-to-seize-usd71-million-from-aave-hack",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T05:09:22+00:00",
-      "raw_text": "North Korea terror victims escalate fight to seize $71 million from Aave hack",
-      "impact": {}
-    },
-    {
-      "event_id": "d763a2ce-84e9-4b9d-80e7-497861ccdb7a",
-      "source": "rss:cointelegraph",
-      "title": "Kelp DAO to migrate rsETH to Chainlink CCIP as blame game continues",
-      "url": "https://cointelegraph.com/news/kelp-dao-to-migrate-rseth-to-chainlink-as-it-continues-to-blame-layerzero-infrastructure-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T04:49:19+00:00",
-      "raw_text": "Kelp DAO to migrate rsETH to Chainlink CCIP as blame game continues\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kelp DAO to migrate rsETH to Chainlink CCIP as blame game continues\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXl",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 202,
+        "avg_1h": 0.06,
+        "avg_24h": 0.26,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 201,
-        "avg_1h": -0.03,
+        "avg_1h": -0.04,
         "avg_24h": -0.52,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 58,
-        "avg_1h": 0.08,
+        "count": 56,
+        "avg_1h": 0.06,
         "avg_24h": -0.92,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 199,
-        "avg_1h": 0.07,
-        "avg_24h": 0.26,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 30,
+        "count": 29,
         "avg_1h": -0.14,
         "avg_24h": 0.35,
         "win_rate_1h_gt5pct": 0.0
