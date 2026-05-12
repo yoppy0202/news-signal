@@ -1,6 +1,358 @@
 {
-  "generated_at": "2026-05-12T14:48:53.601609+00:00",
+  "generated_at": "2026-05-12T17:20:36.714183+00:00",
   "events": [
+    {
+      "event_id": "35e4ac2c-7ea6-47a2-ad91-63928795586f",
+      "source": "rss:theblock",
+      "title": "Coinbase adds Solana-backed loans through Morpho, letting users borrow up to $100,000",
+      "url": "https://www.theblock.co/post/400980/coinbase-solana-loans-morpho-borrow-100000?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [
+        "SOL"
+      ],
+      "timestamp_utc": "2026-05-12T16:00:02+00:00",
+      "raw_text": "Coinbase adds Solana-backed loans through Morpho, letting users borrow up to $100,000\n\n<p>Coinbase users can now borrow up to $100,000 against their SOL holdings through the exchange's Morpho integration on Base.</p>\n\n<p>Coinbase users can now borrow up to $100,000 against their SOL holdings through",
+      "impact": {
+        "t_plus_5m": 0.0179,
+        "t_plus_15m": 0.1223
+      }
+    },
+    {
+      "event_id": "d3177280-db83-42b0-87b6-7076ba3cf331",
+      "source": "rss:decrypt",
+      "title": "Franklin Templeton, Kraken Parent Payward Team Up to Tokenize Wall Street Products",
+      "url": "https://decrypt.co/367568/franklin-templeton-kraken-payward-team-tokenize-wall-street",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T15:52:58+00:00",
+      "raw_text": "Franklin Templeton, Kraken Parent Payward Team Up to Tokenize Wall Street Products\n\nThe collaboration between Kraken and Franklin Templeton signals traditional finance's deepening embrace of crypto infrastructure.",
+      "impact": {}
+    },
+    {
+      "event_id": "8ad81d26-0d1f-47d1-98ff-8f520592a43e",
+      "source": "rss:coindesk",
+      "title": "U.S. CFTC in talks with every major pro sports league on policing prediction markets",
+      "url": "https://www.coindesk.com/policy/2026/05/12/the-cftc-is-in-talks-with-every-major-pro-sports-league-to-crack-down-on-insider-trading",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T15:38:56+00:00",
+      "raw_text": "U.S. CFTC in talks with every major pro sports league on policing prediction markets",
+      "impact": {}
+    },
+    {
+      "event_id": "b48fa3a8-49aa-4371-a6f4-ca31eabd00f6",
+      "source": "rss:bitcoinmagazine",
+      "title": "MARA Dumps $1.5B in Bitcoin as Miner Trades Treasury Hoard for AI Power Bet",
+      "url": "https://bitcoinmagazine.com/news/mara-dumps-1-5b-in-bitcoin",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-05-12T15:33:37+00:00",
+      "raw_text": "MARA Dumps $1.5B in Bitcoin as Miner Trades Treasury Hoard for AI Power Bet\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/MARA-Dumps-1.5B-in-Bitcoin-as-Miner-Trades-Treasury-Hoard-for-AI-Power-Bet.",
+      "impact": {
+        "t_plus_5m": 0.0788,
+        "t_plus_15m": -0.0351
+      }
+    },
+    {
+      "event_id": "6375481d-60f3-4db0-978b-eca06bbf93f2",
+      "source": "rss:coindesk",
+      "title": "Bitcoin’s bull-bear cycle indicator turns green for first time since March 2023",
+      "url": "https://www.coindesk.com/markets/2026/05/12/bitcoin-s-bull-bear-cycle-turns-green-for-first-time-since-march-2023",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T15:31:31+00:00",
+      "raw_text": "Bitcoin’s bull-bear cycle indicator turns green for first time since March 2023",
+      "impact": {}
+    },
+    {
+      "event_id": "326aa14f-46e5-408c-8225-be8bd4485458",
+      "source": "rss:coindesk",
+      "title": "Binance's chief marketing officer Rachel Conlan to leave the exchange",
+      "url": "https://www.coindesk.com/business/2026/05/12/binance-s-chief-marketing-officer-rachel-conlan-is-leaving-the-exchange",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T15:25:46+00:00",
+      "raw_text": "Binance's chief marketing officer Rachel Conlan to leave the exchange",
+      "impact": {}
+    },
+    {
+      "event_id": "330a8ff7-4419-4886-ab78-69edf80862e4",
+      "source": "rss:coindesk",
+      "title": "Live markets: What's next as bitcoin holds $80,000, while stocks sink, yields rise on ugly inflation print",
+      "url": "https://www.coindesk.com/markets/2026/05/12/live-markets-bitcoin-holds-usd80-000-as-stocks-sink-yields-rise-on-ugly-inflation-print",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T15:04:41+00:00",
+      "raw_text": "Live markets: What's next as bitcoin holds $80,000, while stocks sink, yields rise on ugly inflation print",
+      "impact": {}
+    },
+    {
+      "event_id": "457347e1-b94b-4286-a439-f22e484a7637",
+      "source": "rss:theblock",
+      "title": "Sky Ecosystem leads $13.5 million round for Stablewatch-incubated stablecoin yield startup Osero",
+      "url": "https://www.theblock.co/post/400948/sky-ecosystem-stablewatch-stablecoin-yield-startup-osero-funding?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T15:00:03+00:00",
+      "raw_text": "Sky Ecosystem leads $13.5 million round for Stablewatch-incubated stablecoin yield startup Osero\n\n<p>Osero, a stablecoin yield project incubated by Stablewatch, has raised $13.5 million in a funding round led by the Sky Ecosystem.</p>\n\n<p>Osero, a stablecoin yield project incubated by Stablewatch, h",
+      "impact": {}
+    },
+    {
+      "event_id": "a8376a50-97f6-41e8-8b88-ac939d87e799",
+      "source": "rss:bitcoinmagazine",
+      "title": "Labor Unions Join Banking Industry in Opposition to Senate Crypto Bill, The Clarity Act",
+      "url": "https://bitcoinmagazine.com/news/labor-unions-banking-industry-crypto-bill",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-05-12T14:49:55+00:00",
+      "raw_text": "Labor Unions Join Banking Industry in Opposition to Senate Crypto Bill, The Clarity Act\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Labor-Unions-Join-Banking-Industry-in-Opposition-to-Senate-Cryp",
+      "impact": {
+        "t_plus_5m": 0.2866,
+        "t_plus_15m": 0.1999,
+        "t_plus_1h": -0.0351
+      }
+    },
+    {
+      "event_id": "120551e4-f337-41ed-87e1-99051e62904e",
+      "source": "rss:theblock",
+      "title": "Poland lawmakers debate crypto bills as PiS party submits separate ban proposal",
+      "url": "https://www.theblock.co/post/400947/poland-lawmakers-debate-crypto-bills-as-pis-party-submits-separate-ban-proposal?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T14:47:27+00:00",
+      "raw_text": "Poland lawmakers debate crypto bills as PiS party submits separate ban proposal\n\n<p>Poland lawmakers debated four cryptoasset bills as PiS submitted a separate proposal seeking a nationwide ban on crypto activity.</p>\n\n<p>Poland lawmakers debated four cryptoasset bills as PiS submitted a separate pr",
+      "impact": {}
+    },
+    {
+      "event_id": "995b42bc-f1ad-47e3-8507-69e2fb5325be",
+      "source": "rss:decrypt",
+      "title": "Bhutan Moves $8.1M in Bitcoin as Sell-Off Continues",
+      "url": "https://decrypt.co/367551/bhutan-moves-8-1m-in-bitcoin-as-sell-off-continues",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T14:38:55+00:00",
+      "raw_text": "Bhutan Moves $8.1M in Bitcoin as Sell-Off Continues\n\nThe kingdom of Bhutan has offloaded over $230 million in Bitcoin this year while steadily reducing its holdings, according to Arkham data.",
+      "impact": {}
+    },
+    {
+      "event_id": "77a11687-e2cb-4096-a090-c1f85fa1bea2",
+      "source": "rss:decrypt",
+      "title": "EBay Rejects GameStop's $55 Billion Offer as 'Neither Credible Nor Attractive'",
+      "url": "https://decrypt.co/367562/ebay-rejects-gamestops-55-billion-offer-neither-credible-attractive",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T14:37:48+00:00",
+      "raw_text": "EBay Rejects GameStop's $55 Billion Offer as 'Neither Credible Nor Attractive'\n\nPublicly traded online marketplace eBay slammed GameStop's unsolicited $55.5 billion acquisition offer as insufficient.",
+      "impact": {}
+    },
+    {
+      "event_id": "21eb5089-5243-4a5f-acbd-ed060ff8496a",
+      "source": "rss:theblock",
+      "title": "Blockchain analytics firm Elliptic closes $120 million Series D as Deutsche Bank, Nasdaq deepen crypto bets",
+      "url": "https://www.theblock.co/post/400939/blockchain-analytics-firm-elliptic-closes-120-million-series-d-as-deutsche-bank-nasdaq-deepen-crypto-bets?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T14:34:50+00:00",
+      "raw_text": "Blockchain analytics firm Elliptic closes $120 million Series D as Deutsche Bank, Nasdaq deepen crypto bets\n\n<p>Elliptic raised $120M in a Series D at $670M valuation backed by Deutsche Bank and Nasdaq Ventures as TradFi splurges more on crypto bets.</p>\n\n<p>Elliptic raised $120M in a Series D at $6",
+      "impact": {}
+    },
+    {
+      "event_id": "da901d43-535d-46c5-bfae-3d09df60ee6c",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin digests highest US CPI since 2023 as Fed rate hike woes return",
+      "url": "https://cointelegraph.com/markets/bitcoin-digests-highest-us-cpi-print-since-2023-fed-rate-hike-nerves-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T14:33:51+00:00",
+      "raw_text": "Bitcoin digests highest US CPI since 2023 as Fed rate hike woes return\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin digests highest US CPI since 2023 as Fed rate hike woes return\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6L",
+      "impact": {}
+    },
+    {
+      "event_id": "9257284c-1a71-4591-9f16-bef7977eb200",
+      "source": "rss:theblock",
+      "title": "Franklin Templeton and Kraken’s parent company to explore new onchain investments",
+      "url": "https://www.theblock.co/post/400928/franklin-templeton-and-krakens-parent-company-to-explore-new-onchain-investments?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T14:24:07+00:00",
+      "raw_text": "Franklin Templeton and Kraken’s parent company to explore new onchain investments\n\n<p>The two firms will explore launching new tokenized versions of Franklin Templeton financial instruments, such as yield products.</p>\n\n<p>The two firms will explore launching new tokenized versions of Franklin Templ",
+      "impact": {}
+    },
+    {
+      "event_id": "fba69211-bb93-4a1d-9ae0-9a5307b1494e",
+      "source": "rss:cointelegraph",
+      "title": "LMAX Group launches digital asset collateral solution for institutions",
+      "url": "https://cointelegraph.com/news/lmax-group-launches-digital-asset-collateral-solution-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T14:15:17+00:00",
+      "raw_text": "LMAX Group launches digital asset collateral solution for institutions\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"LMAX Group launches digital asset collateral solution for institutions\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6L",
+      "impact": {}
+    },
+    {
+      "event_id": "56b1e7aa-37d0-44b0-aef8-a35fc8d6fea2",
+      "source": "rss:bitcoinmagazine",
+      "title": "Senate Banking Committee Unveils 309-Page Crypto Market Structure Bill Before Thursday Markup",
+      "url": "https://bitcoinmagazine.com/news/senate-banking-committee-unveils-309-bill",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T14:11:47+00:00",
+      "raw_text": "Senate Banking Committee Unveils 309-Page Crypto Market Structure Bill Before Thursday Markup\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Senate-Banking-Committee-Unveils-309-Page-Crypto-Market-S",
+      "impact": {}
+    },
+    {
+      "event_id": "9d05deb5-e631-4af1-a744-b8ec1ee865c2",
+      "source": "rss:coindesk",
+      "title": "Spot XRP ETFs attract biggest inflows since January",
+      "url": "https://www.coindesk.com/markets/2026/05/12/spot-xrp-etfs-attract-biggest-inflows-since-january",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T14:08:11+00:00",
+      "raw_text": "Spot XRP ETFs attract biggest inflows since January",
+      "impact": {}
+    },
+    {
+      "event_id": "fbf8c7bf-cbd3-4592-b950-1b459762ea76",
+      "source": "rss:cointelegraph",
+      "title": "Exodus sells over 1,000 Bitcoin as Q1 loss widens to $32M",
+      "url": "https://cointelegraph.com/news/exodus-posts-32m-loss-in-q1-sells-63-of-its-bitcoin-holdings-to-fund-acquisitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T14:05:01+00:00",
+      "raw_text": "Exodus sells over 1,000 Bitcoin as Q1 loss widens to $32M\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Exodus sells over 1,000 Bitcoin as Q1 loss widens to $32M\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5",
+      "impact": {}
+    },
+    {
+      "event_id": "8443533f-22d5-422c-b404-cd50499c8922",
+      "source": "rss:cointelegraph",
+      "title": "North Korea ‘industrialized’ crypto theft, laundered billions: CertiK",
+      "url": "https://cointelegraph.com/news/north-korea-industrialized-crypto-theft-laundered-billions-report-finds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T14:00:00+00:00",
+      "raw_text": "North Korea ‘industrialized’ crypto theft, laundered billions: CertiK\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"North Korea ‘industrialized’ crypto theft, laundered billions: CertiK\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
+      "impact": {}
+    },
+    {
+      "event_id": "4a91da8c-14a3-4fd7-b2c7-88c317a86ce4",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin whale 'still short' BTC despite facing $13M in losses",
+      "url": "https://cointelegraph.com/markets/bitcoin-bear-down-13m-btc-short-analysts-predict-new-bull-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "whale_move",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T13:56:05+00:00",
+      "raw_text": "Bitcoin whale 'still short' BTC despite facing $13M in losses\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin whale 'still short' BTC despite facing $13M in losses\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3R",
+      "impact": {}
+    },
+    {
+      "event_id": "76a61e30-9bc3-45b5-90e3-0ea36123a4e4",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin may avoid historic bear market losses as ETF flows grow, says analyst",
+      "url": "https://cointelegraph.com/markets/bitcoin-may-avoid-historic-bear-market-losses-etf-flows-grow-says-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T13:49:44+00:00",
+      "raw_text": "Bitcoin may avoid historic bear market losses as ETF flows grow, says analyst\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin may avoid historic bear market losses as ETF flows grow, says analyst\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
+      "impact": {}
+    },
+    {
+      "event_id": "4546accf-3957-4e8a-88e4-097afe22d7e2",
+      "source": "rss:coindesk",
+      "title": "France’s central banker Beau clashes with Lagarde over private digital euro plans",
+      "url": "https://www.coindesk.com/business/2026/05/12/france-s-central-banker-beau-breaks-with-ecb-s-lagarde-calls-for-private-tokenized-euro-mobilization",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T13:44:30+00:00",
+      "raw_text": "France’s central banker Beau clashes with Lagarde over private digital euro plans",
+      "impact": {}
+    },
+    {
+      "event_id": "1e3b436e-b304-4676-948e-527a5713cc2b",
+      "source": "rss:cointelegraph",
+      "title": "Roaring Kitty-linked RKC memecoin crashes as developer cashes out $729K",
+      "url": "https://cointelegraph.com/news/memecoin-dev-cashes-out-729k-gamestop-orchestrators-x-post?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T13:44:12+00:00",
+      "raw_text": "Roaring Kitty-linked RKC memecoin crashes as developer cashes out $729K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Roaring Kitty-linked RKC memecoin crashes as developer cashes out $729K\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
+      "impact": {}
+    },
+    {
+      "event_id": "943aa799-96c6-4efd-becc-a92b645e3887",
+      "source": "rss:coindesk",
+      "title": "EBay rejects GameStop’s $56 billion bid, putting bitcoin exposure back in focus",
+      "url": "https://www.coindesk.com/markets/2026/05/12/ebay-rejects-gamestop-s-usd56-billion-bid-putting-bitcoin-exposure-back-in-focus",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T13:35:09+00:00",
+      "raw_text": "EBay rejects GameStop’s $56 billion bid, putting bitcoin exposure back in focus",
+      "impact": {}
+    },
+    {
+      "event_id": "0747087c-b9b7-4425-869f-f65b84fb2113",
+      "source": "rss:cointelegraph",
+      "title": "Four signs that Bitcoin has recovered to ‘full’ bullish momentum",
+      "url": "https://cointelegraph.com/markets/four-signs-bitcoin-recovered-full-bullish-momentum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T13:32:06+00:00",
+      "raw_text": "Four signs that Bitcoin has recovered to ‘full’ bullish momentum\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Four signs that Bitcoin has recovered to ‘full’ bullish momentum\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZ",
+      "impact": {}
+    },
+    {
+      "event_id": "770589f0-9b42-4cb4-b106-062fa4dd97a0",
+      "source": "rss:coindesk",
+      "title": "Elliptic raises $120 million backed by Nasdaq, Deutsche Bank as AI reshapes crypto security",
+      "url": "https://www.coindesk.com/business/2026/05/12/elliptic-raises-usd120-million-backed-by-nasdaq-deutsche-bank-as-ai-reshapes-crypto-security",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T13:30:00+00:00",
+      "raw_text": "Elliptic raises $120 million backed by Nasdaq, Deutsche Bank as AI reshapes crypto security",
+      "impact": {}
+    },
+    {
+      "event_id": "cc595153-315b-49a1-8c7d-5ed7ab73e472",
+      "source": "rss:coindesk",
+      "title": "Kraken parent, Franklin Templeton to develop onchain investment products",
+      "url": "https://www.coindesk.com/business/2026/05/12/kraken-parent-franklin-templeton-to-develop-onchain-investment-products",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T13:30:00+00:00",
+      "raw_text": "Kraken parent, Franklin Templeton to develop onchain investment products",
+      "impact": {}
+    },
     {
       "event_id": "8a2c3909-a7d9-41f6-9c77-35b267729fc1",
       "source": "rss:coindesk",
@@ -1350,7 +1702,8 @@
       "impact": {
         "t_plus_5m": -0.4495,
         "t_plus_15m": -0.0881,
-        "t_plus_1h": 0.0834
+        "t_plus_1h": 0.0834,
+        "t_plus_24h": -1.7702
       }
     },
     {
@@ -1360,10 +1713,14 @@
       "url": "https://cointelegraph.com/news/strategy-resumes-bitcoin-acquisitions-43m-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-11T13:53:40+00:00",
       "raw_text": "Strategy resumes Bitcoin acquisitions with $43M BTC buy\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy resumes Bitcoin acquisitions with $43M BTC buy\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9",
-      "impact": {}
+      "impact": {
+        "t_plus_24h": -1.1081
+      }
     },
     {
       "event_id": "33aaea89-dd6b-4fa2-9746-54a3cd8540f6",
@@ -1404,7 +1761,8 @@
       "impact": {
         "t_plus_5m": 0.0962,
         "t_plus_15m": -0.067,
-        "t_plus_1h": -0.1318
+        "t_plus_1h": -0.1318,
+        "t_plus_24h": -2.767
       }
     },
     {
@@ -6202,419 +6560,43 @@
       "timestamp_utc": "2026-05-06T19:49:50+00:00",
       "raw_text": "VanEck says Bitcoin could hit $1 million in five years, likens adoption to video games\n\n<p>The firm's head of digital assets research compared bitcoin adoption to different demographics embracing video games.</p>\n\n<p>The firm's head of digital assets research compared bitcoin adoption to different d",
       "impact": {}
-    },
-    {
-      "event_id": "e56f4623-f1fa-4036-8966-33834dcbc352",
-      "source": "rss:decrypt",
-      "title": "Bittrex Wants Its $24 Million Settlement Back, Now That the SEC Is Pro-Crypto",
-      "url": "https://decrypt.co/367038/bittrex-wants-24-million-settlement-back-sec-pro-crypto",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T19:31:48+00:00",
-      "raw_text": "Bittrex Wants Its $24 Million Settlement Back, Now That the SEC Is Pro-Crypto\n\nNow-shuttered crypto exchange Bittrex settled with the SEC back in 2023 after being accused of offering illegally unregistered securities.",
-      "impact": {}
-    },
-    {
-      "event_id": "a181944b-62ff-4235-a4d1-55ceccb44bb9",
-      "source": "rss:cointelegraph",
-      "title": "Hut 8 investors shrug off Q1 loss, stoke 33% stock surge",
-      "url": "https://cointelegraph.com/news/hut-8s-stock-surge-q1-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T18:58:11+00:00",
-      "raw_text": "Hut 8 investors shrug off Q1 loss, stoke 33% stock surge\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hut 8 investors shrug off Q1 loss, stoke 33% stock surge\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL",
-      "impact": {}
-    },
-    {
-      "event_id": "a2dd57d1-b1a3-493c-892d-1fad5f11490e",
-      "source": "rss:decrypt",
-      "title": "Sandisk Is Mooning Like a Meme Coin. Here's Why",
-      "url": "https://decrypt.co/367025/sandisk-mooning-meme-coin-ai-trade",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T18:57:40+00:00",
-      "raw_text": "Sandisk Is Mooning Like a Meme Coin. Here's Why\n\nSandisk stock is up over 3,000% in one year. It's not a meme. It's NAND flash—and AI can't get enough of it.",
-      "impact": {}
-    },
-    {
-      "event_id": "08877be8-4f2b-47ce-9786-49f3fbd3816d",
-      "source": "rss:decrypt",
-      "title": "Ondo, JPMorgan, Mastercard and Ripple Team to Settle Tokenized Treasuries on XRP Ledger",
-      "url": "https://decrypt.co/367033/ondo-jpmorgan-mastercard-ripple-settle-tokenized-treasuries-xrp-ledger",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-05-06T18:52:46+00:00",
-      "raw_text": "Ondo, JPMorgan, Mastercard and Ripple Team to Settle Tokenized Treasuries on XRP Ledger\n\nMajor financial institutions use XRP Ledger to demonstrate blockchain's ability to settle tokenized Treasuries across borders in seconds.",
-      "impact": {
-        "t_plus_5m": 0.2556,
-        "t_plus_15m": 0.3909,
-        "t_plus_1h": 0.5024,
-        "t_plus_4h": 0.1802,
-        "t_plus_24h": -1.9075
-      }
-    },
-    {
-      "event_id": "5be3e3a2-c029-48fb-843f-a8432662f899",
-      "source": "rss:cointelegraph",
-      "title": "Crypto-backed Republican candidate wins Indiana congressional primary",
-      "url": "https://cointelegraph.com/news/crypto-pac-backed-republican-candidate-indiana-primary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T18:31:17+00:00",
-      "raw_text": "Crypto-backed Republican candidate wins Indiana congressional primary\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto-backed Republican candidate wins Indiana congressional primary\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
-      "impact": {}
-    },
-    {
-      "event_id": "151e2a7f-9fa6-4c87-a73e-8ab7af045d0e",
-      "source": "rss:decrypt",
-      "title": "OKX to Launch OpenAI, SpaceX and Anthropic Perpetual Futures in Pre-IPO Trading Push",
-      "url": "https://decrypt.co/367022/okx-openai-spacex-anthropic-perpetual-futures-pre-ipo",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T18:25:49+00:00",
-      "raw_text": "OKX to Launch OpenAI, SpaceX and Anthropic Perpetual Futures in Pre-IPO Trading Push\n\nCrypto exchange OKX will offer synthetic exposure to private AI and tech company valuations through derivatives contracts.",
-      "impact": {}
-    },
-    {
-      "event_id": "152f0a90-0fd3-4f97-8fbc-7bd0e33dc5d2",
-      "source": "rss:coindesk",
-      "title": "Anthropic signs Elon Musk's SpaceX for Colossus 1 compute ahead of June IPO",
-      "url": "https://www.coindesk.com/tech/2026/05/06/anthropic-signs-elon-musk-s-spacex-for-colossus-1-compute-ahead-of-june-ipo",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T18:20:57+00:00",
-      "raw_text": "Anthropic signs Elon Musk's SpaceX for Colossus 1 compute ahead of June IPO",
-      "impact": {}
-    },
-    {
-      "event_id": "69628bba-0bb8-4c26-8efe-59e77cc9a7d6",
-      "source": "rss:coindesk",
-      "title": "Eric Trump takes shot at JPMorgan rethinking bitcoin after 'crapping' on asset",
-      "url": "https://www.coindesk.com/policy/2026/05/06/eric-trump-takes-shot-at-jpmorgan-rethinking-bitcoin-after-crapping-on-asset",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T18:07:58+00:00",
-      "raw_text": "Eric Trump takes shot at JPMorgan rethinking bitcoin after 'crapping' on asset",
-      "impact": {}
-    },
-    {
-      "event_id": "76cea2f6-5dcb-4558-8ae5-7eb18e8771bc",
-      "source": "rss:theblock",
-      "title": "Project Eleven warns quantum moment could hit ‘all at once,’ pegs Q-Day as early as 2030",
-      "url": "https://www.theblock.co/post/400274/project-eleven-warns-quantum-moment-all-at-once-q-day-early-2030?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-06T18:03:13+00:00",
-      "raw_text": "Project Eleven warns quantum moment could hit ‘all at once,’ pegs Q-Day as early as 2030\n\n<p>Roughly 6.9 million BTC could be at risk to quantum computers under certain conditions, Project Eleven estimates.</p>\n\n<p>Roughly 6.9 million BTC could be at risk to quantum computers under certain condition",
-      "impact": {
-        "t_plus_5m": 0.0732,
-        "t_plus_15m": 0.2209,
-        "t_plus_1h": 0.0424,
-        "t_plus_4h": 0.2306
-      }
-    },
-    {
-      "event_id": "3847c1b9-7bf7-4d55-8e15-3ab6ca2263f5",
-      "source": "rss:decrypt",
-      "title": "Claude Delusion? Richard Dawkins Believes AI May Be Conscious",
-      "url": "https://decrypt.co/367017/claude-delusion-richard-dawkins-believes-ai-conscious",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T17:47:49+00:00",
-      "raw_text": "Claude Delusion? Richard Dawkins Believes AI May Be Conscious\n\nThe evolutionary biologist says extended exchanges with Anthropic’s chatbot felt less like software and more like interacting with another mind.",
-      "impact": {}
-    },
-    {
-      "event_id": "4fad389d-69e4-496f-ab90-2b962f319872",
-      "source": "rss:theblock",
-      "title": "Ripple, JPMorgan and others use XRP Ledger to cash out tokenized Treasurys fund internationally",
-      "url": "https://www.theblock.co/post/400281/ripple-jpmorgan-xrp-ledger-transfer-tokenized-treasury-across-borders?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-05-06T17:41:29+00:00",
-      "raw_text": "Ripple, JPMorgan and others use XRP Ledger to cash out tokenized Treasurys fund internationally\n\n<p>The transaction represents an example of crypto firms and Wall Street institutions jointly exploring 24/7 settlement systems.</p>\n\n<p>The transaction represents an example of crypto firms and Wall Str",
-      "impact": {
-        "t_plus_5m": 0.5853,
-        "t_plus_15m": 0.3786,
-        "t_plus_1h": 0.286,
-        "t_plus_4h": 0.4858
-      }
-    },
-    {
-      "event_id": "6539b060-c8d6-4630-8549-263a29bb6150",
-      "source": "rss:cointelegraph",
-      "title": "Price predictions 5/6: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, ZEC",
-      "url": "https://cointelegraph.com/markets/price-predictions-56-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "BTC",
-        "ETH",
-        "XRP",
-        "BNB",
-        "SOL"
-      ],
-      "timestamp_utc": "2026-05-06T17:34:51+00:00",
-      "raw_text": "Price predictions 5/6: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, ZEC\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 5/6: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, ZEC\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
-      "impact": {
-        "t_plus_5m": 0.1559,
-        "t_plus_15m": 0.1008,
-        "t_plus_1h": 0.0763,
-        "t_plus_4h": 0.1588,
-        "t_plus_24h": -2.0299
-      }
-    },
-    {
-      "event_id": "0a7cd6c3-c972-423a-a73d-e3824dea6a1a",
-      "source": "rss:cointelegraph",
-      "title": "Switzerland's Amina becomes first regulated bank to custody Canton Coin",
-      "url": "https://cointelegraph.com/news/amina-becomes-first-regulated-bank-to-custody-canton-coin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T17:25:51+00:00",
-      "raw_text": "Switzerland's Amina becomes first regulated bank to custody Canton Coin\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Switzerland's Amina becomes first regulated bank to custody Canton Coin\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
-      "impact": {}
-    },
-    {
-      "event_id": "c67368ec-0f16-42cd-97a6-91da3c4e617a",
-      "source": "rss:coindesk",
-      "title": "The time is now: the Senate must act on crypto market structure legislation",
-      "url": "https://www.coindesk.com/opinion/2026/05/06/the-time-is-now-the-senate-must-act-on-crypto-market-structure-legislation",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T17:25:31+00:00",
-      "raw_text": "The time is now: the Senate must act on crypto market structure legislation",
-      "impact": {}
-    },
-    {
-      "event_id": "c026c78a-f9b2-4f11-b0ab-af62f976792f",
-      "source": "rss:coindesk",
-      "title": "Bermuda pushes stablecoin payments with USDC airdrop as it courts crypto firms, regulators",
-      "url": "https://www.coindesk.com/policy/2026/05/06/bermuda-pushes-stablecoin-payments-with-usdc-airdrop-as-it-courts-crypto-firms-regulators",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T17:16:29+00:00",
-      "raw_text": "Bermuda pushes stablecoin payments with USDC airdrop as it courts crypto firms, regulators",
-      "impact": {}
-    },
-    {
-      "event_id": "f394683a-6956-424b-a8ee-2398c4390716",
-      "source": "rss:coindesk",
-      "title": "Crypto bill won't move without a ban on officials' industry ties, says U.S. Senator Gillibrand",
-      "url": "https://www.coindesk.com/policy/2026/05/06/crypto-bill-won-t-move-without-a-ban-on-officials-industry-ties-says-u-s-senator-gillibrand",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T17:08:15+00:00",
-      "raw_text": "Crypto bill won't move without a ban on officials' industry ties, says U.S. Senator Gillibrand",
-      "impact": {}
-    },
-    {
-      "event_id": "f9739ff6-d95e-45c7-8a03-213640dbaf39",
-      "source": "rss:bitcoinmagazine",
-      "title": "Boltz Launches Non-Custodial USDC Swaps, Bridging Bitcoin Directly to Circle’s Regulated Dollar",
-      "url": "https://bitcoinmagazine.com/business/boltz-launches-non-custodial-usdc-swaps-bridging-bitcoin-directly-to-circles-regulated-dollar",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T17:00:00+00:00",
-      "raw_text": "Boltz Launches Non-Custodial USDC Swaps, Bridging Bitcoin Directly to Circle’s Regulated Dollar\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Gemini_Generated_Image_l4r3qal4r3qal4r3.webp\" style=\"di",
-      "impact": {}
-    },
-    {
-      "event_id": "763f17ca-7b75-4a9e-89ef-bfbdb8f96984",
-      "source": "rss:decrypt",
-      "title": "Google DeepMind Takes Stake in 'Eve Online' Maker, Will Use Game to Test AI Behavior",
-      "url": "https://decrypt.co/366991/google-deepmind-takes-stake-in-eve-online-maker-will-use-game-to-test-ai-behavior",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T16:59:13+00:00",
-      "raw_text": "Google DeepMind Takes Stake in 'Eve Online' Maker, Will Use Game to Test AI Behavior\n\nThe wild world of space simulation game Eve Online will soon become an AI research destination for Google DeepMind thanks to a new deal.",
-      "impact": {}
-    },
-    {
-      "event_id": "43ead433-349e-40a5-b2fe-00f7f890efda",
-      "source": "rss:coindesk",
-      "title": "The end of ads: Coinbase engineer says AI agents could kill the internet’s favorite business model",
-      "url": "https://www.coindesk.com/tech/2026/05/06/the-end-of-ads-coinbase-engineer-says-ai-agents-could-kill-the-internet-s-favorite-business-model",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T16:44:38+00:00",
-      "raw_text": "The end of ads: Coinbase engineer says AI agents could kill the internet’s favorite business model",
-      "impact": {}
-    },
-    {
-      "event_id": "b8b543a9-1fb1-40c3-a9c4-8016d31be4a8",
-      "source": "rss:cointelegraph",
-      "title": "Ether tests $2.4K as accumulators add 246K ETH: How high can price go?",
-      "url": "https://cointelegraph.com/markets/ether-tests-24k-accumulators-add-264k-eth-how-high-can-price-go?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-05-06T16:32:46+00:00",
-      "raw_text": "Ether tests $2.4K as accumulators add 246K ETH: How high can price go?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ether tests $2.4K as accumulators add 246K ETH: How high can price go?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6L",
-      "impact": {
-        "t_plus_5m": -0.1878,
-        "t_plus_15m": -0.0383,
-        "t_plus_1h": -0.2728
-      }
-    },
-    {
-      "event_id": "90183e5e-390e-4898-997a-f215396c12f4",
-      "source": "rss:coindesk",
-      "title": "Kevin O’Leary says Wall Street’s tokenization boom is all talk without crypto rules",
-      "url": "https://www.coindesk.com/markets/2026/05/06/kevin-o-leary-says-wall-street-s-tokenization-boom-is-all-talk-without-crypto-rules",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T16:27:36+00:00",
-      "raw_text": "Kevin O’Leary says Wall Street’s tokenization boom is all talk without crypto rules",
-      "impact": {}
-    },
-    {
-      "event_id": "96c9e8fb-c29e-4726-8e66-5cfa9264316d",
-      "source": "rss:theblock",
-      "title": "Sen. Gillibrand: No crypto bill without ethics provision amid President Trump’s ties through memecoins, World Liberty",
-      "url": "https://www.theblock.co/post/400275/sen-gillibrand-no-crypto-bill-without-ethics-provision-amid-president-trumps-ties-through-memecoins-world-liberty?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T16:19:09+00:00",
-      "raw_text": "Sen. Gillibrand: No crypto bill without ethics provision amid President Trump’s ties through memecoins, World Liberty\n\n<p>There will be no deal without an ethics provision in sweeping cryptocurrency market structure legislation, warned Sen. Kirsten Gillibrand.</p>\n\n<p>There will be no deal without a",
-      "impact": {}
-    },
-    {
-      "event_id": "53a66543-304a-46aa-b838-35090a4d9aa1",
-      "source": "rss:coindesk",
-      "title": "Crypto Long & Short: In quiet crypto markets, yield is the trade",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/05/06/crypto-long-and-short-in-quiet-crypto-markets-yield-is-the-trade",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T16:00:00+00:00",
-      "raw_text": "Crypto Long & Short: In quiet crypto markets, yield is the trade",
-      "impact": {}
-    },
-    {
-      "event_id": "e5db1612-4d9b-4915-a972-20a7c1495fb8",
-      "source": "rss:theblock",
-      "title": "Morgan Stanley pilots crypto trading on E*Trade with 50-basis-point fee: Bloomberg",
-      "url": "https://www.theblock.co/post/400259/morgan-stanley-pilots-crypto-trading-on-etrade-with-50-basis-point-fee-bloomberg?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T15:44:58+00:00",
-      "raw_text": "Morgan Stanley pilots crypto trading on E*Trade with 50-basis-point fee: Bloomberg\n\n<p>Morgan Stanley pilots crypto trading at 50 basis points, expanding digital asset push weeks after launching a bitcoin ETF.</p>\n\n<p>Morgan Stanley pilots crypto trading at 50 basis points, expanding digital asset p",
-      "impact": {}
-    },
-    {
-      "event_id": "2ad4ba98-0c79-48d6-bf3b-46b71721fd74",
-      "source": "rss:decrypt",
-      "title": "Strategy Yield ETN Gives UK Investors Exposure to Bitcoin Giant's STRC Shares",
-      "url": "https://decrypt.co/366984/strategy-yield-etn-uk-investors-exposure-bitcoin-giant-strc-shares",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T15:40:26+00:00",
-      "raw_text": "Strategy Yield ETN Gives UK Investors Exposure to Bitcoin Giant's STRC Shares\n\nThe 21Shares exchange-traded note gives U.K. investors exposure to preferred shares of top Bitcoin treasury firm, Strategy.",
-      "impact": {}
-    },
-    {
-      "event_id": "6ca51653-966e-429a-a0fc-3cdb6604163f",
-      "source": "rss:theblock",
-      "title": "Kraken launches regulated crypto spot margin trading in US on heels of Bitnomial deal",
-      "url": "https://www.theblock.co/post/400247/kraken-launches-regulated-crypto-spot-margin-trading-us-bitnomial-deal?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T15:39:50+00:00",
-      "raw_text": "Kraken launches regulated crypto spot margin trading in US on heels of Bitnomial deal\n\n<p>The rollout marks the first product built on Payward’s newly acquired Bitnomial licenses, with perpetuals and options expected later.</p>\n\n<p>The rollout marks the first product built on Payward’s newly acquire",
-      "impact": {}
-    },
-    {
-      "event_id": "e477c4a8-0f04-4b2c-be20-1543a052667d",
-      "source": "rss:decrypt",
-      "title": "Reform UK’s Farage Claims 'No Obligation' to Declare Tether Billionaire's $6.7M Gift",
-      "url": "https://decrypt.co/366973/reform-uks-farage-claims-no-obligation-to-declare-tether-billionaires-6-7m-gift",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T15:38:53+00:00",
-      "raw_text": "Reform UK’s Farage Claims 'No Obligation' to Declare Tether Billionaire's $6.7M Gift\n\nFarage insisted that the gift from Christopher Harborne was for his personal security and had been reviewed “from every legal angle.”",
-      "impact": {}
-    },
-    {
-      "event_id": "4fb97bab-96ac-46b6-a1ea-00ff9adc56bc",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin slips from $83K after Trump questions Iran truce",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-rejects-83k-trump-calls-iran-deal-big-assumption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T15:37:38+00:00",
-      "raw_text": "Bitcoin slips from $83K after Trump questions Iran truce\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin slips from $83K after Trump questions Iran truce\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmNvaW50ZWxlZ3Jhc",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 207,
-        "avg_1h": -0.05,
-        "avg_24h": -0.4,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 32,
-        "avg_1h": -0.14,
-        "avg_24h": 0.35,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 186,
+        "count": 180,
         "avg_1h": 0.06,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
+      "unknown": {
+        "count": 208,
+        "avg_1h": -0.06,
+        "avg_24h": -0.31,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 65,
-        "avg_1h": 0.23,
-        "avg_24h": -0.71,
+        "count": 67,
+        "avg_1h": 0.19,
+        "avg_24h": -0.64,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 34,
+        "avg_1h": -0.14,
+        "avg_24h": -0.09,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "whale_move": {
+        "count": 5,
+        "avg_1h": 0.52,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
         "count": 6,
         "avg_1h": 0.06,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "whale_move": {
-        "count": 4,
-        "avg_1h": 0.52,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       }
