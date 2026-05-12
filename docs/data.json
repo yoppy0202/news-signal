@@ -1,6 +1,144 @@
 {
-  "generated_at": "2026-05-12T20:05:39.886270+00:00",
+  "generated_at": "2026-05-12T21:37:28.977970+00:00",
   "events": [
+    {
+      "event_id": "d45cbdd2-ba67-48e8-8332-c6cee374a06f",
+      "source": "rss:theblock",
+      "title": "JPMorgan launching tokenized money market fund on Ethereum",
+      "url": "https://www.theblock.co/post/401028/jpmorgan-launching-tokenized-money-market-fund-ethereum?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T20:00:21+00:00",
+      "raw_text": "JPMorgan launching tokenized money market fund on Ethereum\n\n<p>The new fund will invest in U.S. Treasurys and overnight repurchase agreements collateralized by Treasurys or cash.</p>\n\n<p>The new fund will invest in U.S. Treasurys and overnight repurchase agreements collateralized by Treasurys or cas",
+      "impact": {}
+    },
+    {
+      "event_id": "6717e31d-55de-443f-8b76-f4d346415f3a",
+      "source": "rss:decrypt",
+      "title": "Bitcoin Miner MARA Sells $1.5 Billion in BTC, Reports $1.26 Billion Q1 Loss",
+      "url": "https://decrypt.co/367650/bitcoin-miner-mara-sells-1-5-billion-btc-q1-loss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-05-12T19:45:02+00:00",
+      "raw_text": "Bitcoin Miner MARA Sells $1.5 Billion in BTC, Reports $1.26 Billion Q1 Loss\n\nMARA liquidated Bitcoin holdings to fund debt buybacks and acquire a power plant as it joins the industry shift to AI infrastructure.",
+      "impact": {
+        "t_plus_5m": 0.0114,
+        "t_plus_15m": 0.0424,
+        "t_plus_1h": -0.1208
+      }
+    },
+    {
+      "event_id": "0b3b00de-9bb0-42f4-a1e7-6c71011eda82",
+      "source": "rss:decrypt",
+      "title": "Ethereum Developers Propose Fix to 'Blind Signing' Risk Tied to Massive Losses",
+      "url": "https://decrypt.co/367646/ethereum-developers-propose-fix-blind-signing-risk-massive-losses",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T19:38:22+00:00",
+      "raw_text": "Ethereum Developers Propose Fix to 'Blind Signing' Risk Tied to Massive Losses\n\nEthereum developers proposed a solution that would end \"blind signing,\" a technical feature that has led to potentially billions in losses.",
+      "impact": {}
+    },
+    {
+      "event_id": "2cc789c7-6eb8-4723-be5d-05e4c62734da",
+      "source": "rss:theblock",
+      "title": "Bitcoin dominance rebounds above 58% signaling crypto market consolidation phase",
+      "url": "https://www.theblock.co/post/400801/bitcoin-dominance-rebounds-above-58-crypto-market-consolidation-phase?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T19:05:44+00:00",
+      "raw_text": "Bitcoin dominance rebounds above 58% signaling crypto market consolidation phase\n\n<p>Dominance peaked near 62%–63% last year before a sustained drawdown through late 2025, bottoming near 54%–55%.</p>\n\n<p>Dominance peaked near 62%–63% last year before a sustained drawdown through late 2025, bottoming",
+      "impact": {}
+    },
+    {
+      "event_id": "865f9f2a-71a5-4e59-92d0-1cfaeb9cc60d",
+      "source": "rss:bitcoinmagazine",
+      "title": "What’s Really at Stake in the Market Structure Debate: The BRCA",
+      "url": "https://bitcoinmagazine.com/legal/whats-really-at-stake-in-the-market-structure-debate-the-brca",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-05-12T19:04:33+00:00",
+      "raw_text": "What’s Really at Stake in the Market Structure Debate: The BRCA\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/26051214235_89751627.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"",
+      "impact": {
+        "t_plus_5m": -0.0096,
+        "t_plus_15m": 0.0066,
+        "t_plus_1h": 0.0694
+      }
+    },
+    {
+      "event_id": "78f481df-fc77-4be8-89ec-a36a56ef1a48",
+      "source": "rss:cointelegraph",
+      "title": "DTCC to use Chainlink to power 24/7 collateral management network",
+      "url": "https://cointelegraph.com/news/dtcc-to-use-chainlink-to-power-247-collateral-management-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T18:45:10+00:00",
+      "raw_text": "DTCC to use Chainlink to power 24/7 collateral management network\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DTCC to use Chainlink to power 24/7 collateral management network\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWF",
+      "impact": {}
+    },
+    {
+      "event_id": "5d25f628-f738-4a09-94bb-b234f54cc62d",
+      "source": "rss:bitcoinmagazine",
+      "title": "Square Crosses 1 Million Bitcoin-Enabled Merchants as Real-World Adoption Continues to Grow",
+      "url": "https://bitcoinmagazine.com/news/square-crosses-1-million-bitcoin-merchants",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-05-12T18:40:33+00:00",
+      "raw_text": "Square Crosses 1 Million Bitcoin-Enabled Merchants as Real-World Adoption Continues to Grow\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Square-Crosses-1-Million-Bitcoin-Enabled-Merchants-as-Real-",
+      "impact": {
+        "t_plus_5m": -0.1584,
+        "t_plus_15m": -0.0748,
+        "t_plus_1h": -0.0166
+      }
+    },
+    {
+      "event_id": "5de6c1e0-80a6-4cda-94d4-eb3a46933367",
+      "source": "rss:cointelegraph",
+      "title": "WAIB Summit Monaco 2026 returns: the world’s most exclusive gathering for digital assets & AI",
+      "url": "https://cointelegraph.com/press-releases/waib-summit-monaco-2026-returns-the-worlds-most-exclusive-gathering-for-digital-assets-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T18:40:14+00:00",
+      "raw_text": "WAIB Summit Monaco 2026 returns: the world’s most exclusive gathering for digital assets & AI\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"WAIB Summit Monaco 2026 returns: the world’s most exclusive gathering for digital assets &amp; AI\" class=\"type:primaryImage\" src=\"htt",
+      "impact": {}
+    },
+    {
+      "event_id": "7ee7ac6c-08e4-4078-a781-aaad32913fe9",
+      "source": "rss:cointelegraph",
+      "title": "Latest version of crypto market structure bill raises eyebrows ahead of Senate markup",
+      "url": "https://cointelegraph.com/news/us-senate-banking-committee-draft-crypto-market-structure-bill-markup?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T18:31:22+00:00",
+      "raw_text": "Latest version of crypto market structure bill raises eyebrows ahead of Senate markup\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Latest version of crypto market structure bill raises eyebrows ahead of Senate markup\" class=\"type:primaryImage\" src=\"https://images.cointele",
+      "impact": {}
+    },
+    {
+      "event_id": "9c81054d-c532-4c37-8d07-1c2479a50127",
+      "source": "rss:theblock",
+      "title": "eToro Q1 crypto revenue drops to $2.15 billion from last year’s $3.5 billion",
+      "url": "https://www.theblock.co/post/401008/etoro-q1-crypto-revenue-drops-to-2-15-billion-from-last-years-3-5-billion?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T18:17:25+00:00",
+      "raw_text": "eToro Q1 crypto revenue drops to $2.15 billion from last year’s $3.5 billion\n\n<p>eToro's cost of revenue from cryptoassets fell substantially to $2.1 billion from $3.5 billion as trading activity cooled.</p>\n\n<p>eToro's cost of revenue from cryptoassets fell substantially to $2.1 billion from $3.5 b",
+      "impact": {}
+    },
     {
       "event_id": "b9f805a0-9241-44d6-afc9-f9ff20fa4e04",
       "source": "rss:decrypt",
@@ -250,6 +388,18 @@
       "tokens": [],
       "timestamp_utc": "2026-05-12T15:25:46+00:00",
       "raw_text": "Binance's chief marketing officer Rachel Conlan to leave the exchange",
+      "impact": {}
+    },
+    {
+      "event_id": "7b292d3b-9119-4062-90d6-ef62ab5ea077",
+      "source": "rss:coindesk",
+      "title": "Live markets: Bitcoin climbs back to $80,800 as U.S. stocks bounce into the close",
+      "url": "https://www.coindesk.com/markets/2026/05/12/live-markets-bitcoin-holds-usd80-000-as-stocks-sink-yields-rise-on-ugly-inflation-print",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T15:04:41+00:00",
+      "raw_text": "Live markets: Bitcoin climbs back to $80,800 as U.S. stocks bounce into the close",
       "impact": {}
     },
     {
@@ -1004,6 +1154,18 @@
       "impact": {}
     },
     {
+      "event_id": "47ed0149-d7cb-4db8-9c30-78c483b82677",
+      "source": "rss:cointelegraph",
+      "title": "Broadridge expands tokenized securities infrastructure amid Wall Street blockchain push",
+      "url": "https://cointelegraph.com/news/wall-street-tokenization-grows-as-broadridge-financial-solutions-adds-tokenized-securities-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T07:00:00+00:00",
+      "raw_text": "Broadridge expands tokenized securities infrastructure amid Wall Street blockchain push\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Broadridge expands tokenized securities infrastructure amid Wall Street blockchain push\" class=\"type:primaryImage\" src=\"https://images.coin",
+      "impact": {}
+    },
+    {
       "event_id": "83ef468d-5815-4eb7-93d6-c13591501d06",
       "source": "rss:cointelegraph",
       "title": "‘I failed them’: Goliath Ventures CEO charged with crypto Ponzi apologizes",
@@ -1456,7 +1618,8 @@
       "sentiment_label": "positive",
       "tokens": [
         "BTC",
-        "ETH"
+        "ETH",
+        "ADA"
       ],
       "timestamp_utc": "2026-05-11T20:12:42+00:00",
       "raw_text": "Price predictions 5/11: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 5/11: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
@@ -6401,198 +6564,32 @@
       "timestamp_utc": "2026-05-07T02:35:17+00:00",
       "raw_text": "California man gets 78 months in prison for role in $250 million crypto theft ring\n\n<p>Marlon Ferro, also known as 'GothFerrari,' was sentenced to 78 months in prison for his role in a nationwide social engineering conspiracy.</p>\n\n<p>Marlon Ferro, also known as 'GothFerrari,' was sentenced to 78 mo",
       "impact": {}
-    },
-    {
-      "event_id": "a9816584-abc4-45ee-b013-5fbb52dc4511",
-      "source": "rss:cointelegraph",
-      "title": "JPMorgan, Mastercard make first cross-border US Treasury transfer via XRP Ledger",
-      "url": "https://cointelegraph.com/news/jpmorgan-mastercard-first-cross-border-us-treasury-settlement-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-05-07T02:05:55+00:00",
-      "raw_text": "JPMorgan, Mastercard make first cross-border US Treasury transfer via XRP Ledger\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"JPMorgan, Mastercard make first cross-border US Treasury transfer via XRP Ledger\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/",
-      "impact": {
-        "t_plus_5m": 0.1918,
-        "t_plus_15m": 0.0425,
-        "t_plus_1h": 0.0323,
-        "t_plus_4h": -0.0645
-      }
-    },
-    {
-      "event_id": "7133c14b-57a6-4eed-930e-8dae2b48f6dc",
-      "source": "rss:theblock",
-      "title": "1inch liquidity provider TrustedVolumes hit with ongoing exploit, draining nearly $6 million: Blockaid",
-      "url": "https://www.theblock.co/post/400332/1inch-trustedvolumes-exploit?utm_source=rss&utm_medium=rss",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-07T02:04:33+00:00",
-      "raw_text": "1inch liquidity provider TrustedVolumes hit with ongoing exploit, draining nearly $6 million: Blockaid\n\n<p>Blockaid said the attacker was the same entity that exploited 1inch Fusion V1 in March 2025, which drained around $5 million.</p>\n\n<p>Blockaid said the attacker was the same entity that exploit",
-      "impact": {}
-    },
-    {
-      "event_id": "3ef06ff2-00fc-45f1-abff-47da0fdbe123",
-      "source": "rss:theblock",
-      "title": "Eric Trump’s American Bitcoin reports $82 million loss in Q1 amid ‘record’ mining production",
-      "url": "https://www.theblock.co/post/400327/eric-trump-american-bitcoin-82-million-loss-q1?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-07T01:58:01+00:00",
-      "raw_text": "Eric Trump’s American Bitcoin reports $82 million loss in Q1 amid ‘record’ mining production\n\n<p>American Bitcoin mined 817 BTC during the first quarter, marking its highest quarterly production on record.</p>\n\n<p>American Bitcoin mined 817 BTC during the first quarter, marking its highest quarterly",
-      "impact": {
-        "t_plus_5m": 0.2136,
-        "t_plus_15m": -0.0056,
-        "t_plus_1h": 0.1855,
-        "t_plus_4h": 0.1097,
-        "t_plus_24h": -1.4893
-      }
-    },
-    {
-      "event_id": "d0bce7c7-1ac6-4fa8-a57e-661c2bb9f6bb",
-      "source": "rss:cointelegraph",
-      "title": "Three reasons why Ether price rallies fizzle near $2.4K",
-      "url": "https://cointelegraph.com/markets/3-reasons-why-Ether-price-rallies-fizzle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-07T00:03:22+00:00",
-      "raw_text": "Three reasons why Ether price rallies fizzle near $2.4K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Three reasons why Ether price rallies fizzle near $2.4K \" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2",
-      "impact": {}
-    },
-    {
-      "event_id": "9e729020-3d92-4138-8f35-6243c16a1dfd",
-      "source": "rss:bitcoinmagazine",
-      "title": "Why eBay Should Ignore GameStop and Use Bitcoin to Save $1.2 Billion in Transaction Costs",
-      "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/ebay-ignore-gamestop-bitcoin",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T22:58:57+00:00",
-      "raw_text": "Why eBay Should Ignore GameStop and Use Bitcoin to Save $1.2 Billion in Transaction Costs\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Why-eBay-Should-Ignore-GameStop-and-Start-Using-Bitcoin-to-Sa",
-      "impact": {}
-    },
-    {
-      "event_id": "25a80d27-0280-4cd4-9383-90c155e15902",
-      "source": "rss:coindesk",
-      "title": "AI agents becoming more relevant than humans by 2035 has Big Tech 'terrified', says Hoskinson",
-      "url": "https://www.coindesk.com/business/2026/05/06/ai-agents-will-become-more-relevant-than-humans-by-2035-says-charles-hoskinson",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T22:35:57+00:00",
-      "raw_text": "AI agents becoming more relevant than humans by 2035 has Big Tech 'terrified', says Hoskinson",
-      "impact": {}
-    },
-    {
-      "event_id": "d0e009c6-66e2-4fc6-a81d-f6ee84926bf3",
-      "source": "rss:coindesk",
-      "title": "Grant Cardone says bitcoin-real estate strategy could outperform REITs, adds more BTC to treasury",
-      "url": "https://www.coindesk.com/business/2026/05/06/bitcoin-real-estate-strategy-could-outperform-reits-says-grant-cardone-he-adds-btc-to-treasury",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-06T22:32:30+00:00",
-      "raw_text": "Grant Cardone says bitcoin-real estate strategy could outperform REITs, adds more BTC to treasury",
-      "impact": {
-        "t_plus_5m": 0.0046,
-        "t_plus_15m": -0.0342,
-        "t_plus_1h": 0.1042,
-        "t_plus_4h": -0.3867
-      }
-    },
-    {
-      "event_id": "eeb0d718-92aa-48cd-89af-4cae3fe0cf6e",
-      "source": "rss:coindesk",
-      "title": "Nasdaq's president says the SEC’s new crypto stance is letting markets 'build' again",
-      "url": "https://www.coindesk.com/policy/2026/05/06/nasdaq-s-president-says-the-sec-s-new-crypto-stance-is-letting-markets-build-again",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T22:31:09+00:00",
-      "raw_text": "Nasdaq's president says the SEC’s new crypto stance is letting markets 'build' again",
-      "impact": {}
-    },
-    {
-      "event_id": "20e7fb3c-0189-434a-87a7-381af5356306",
-      "source": "rss:coindesk",
-      "title": "Wall Street's clearinghouse seeks 'high-performance' blockchains to tokenize corporate actions",
-      "url": "https://www.coindesk.com/business/2026/05/06/wall-street-s-clearinghouse-seeks-high-performance-blockchains-to-tokenize-corporate-actions",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T22:29:43+00:00",
-      "raw_text": "Wall Street's clearinghouse seeks 'high-performance' blockchains to tokenize corporate actions",
-      "impact": {}
-    },
-    {
-      "event_id": "98a8a4bb-8816-4910-aa1d-45eca7140a31",
-      "source": "rss:coindesk",
-      "title": "Crypto’s mainstream moment has arrived, say industry leaders speaking at Consensus Miami",
-      "url": "https://www.coindesk.com/business/2026/05/06/crypto-s-mainstream-moment-has-arrived-say-industry-leaders-speaking-at-consensus-miami",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T22:17:22+00:00",
-      "raw_text": "Crypto’s mainstream moment has arrived, say industry leaders speaking at Consensus Miami",
-      "impact": {}
-    },
-    {
-      "event_id": "69b12e1c-dc08-4fcb-8498-9ee95eab69ec",
-      "source": "rss:coindesk",
-      "title": "Bitcoin’s post-quantum migration will be harder than Taproot and needs to start now, Project Eleven CEO says",
-      "url": "https://www.coindesk.com/tech/2026/05/06/bitcoin-s-post-quantum-migration-will-be-harder-than-taproot-and-needs-to-start-now-project-eleven-ceo-says",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T22:14:16+00:00",
-      "raw_text": "Bitcoin’s post-quantum migration will be harder than Taproot and needs to start now, Project Eleven CEO says",
-      "impact": {}
-    },
-    {
-      "event_id": "69594183-a955-4290-90ef-13ff6ddc7730",
-      "source": "rss:coindesk",
-      "title": "Reid Hoffman says NFTs may make a comeback as AI agents strain online identity",
-      "url": "https://www.coindesk.com/business/2026/05/06/reid-hoffman-says-nfts-may-make-a-comeback-as-ai-agents-strain-online-identity",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T22:05:26+00:00",
-      "raw_text": "Reid Hoffman says NFTs may make a comeback as AI agents strain online identity",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 209,
+        "avg_1h": -0.07,
+        "avg_24h": -0.2,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 180,
+        "count": 179,
         "avg_1h": 0.05,
         "avg_24h": -0.28,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 69,
-        "avg_1h": 0.21,
-        "avg_24h": -0.64,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 208,
-        "avg_1h": -0.06,
-        "avg_24h": -0.31,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
         "count": 34,
-        "avg_1h": -0.13,
+        "avg_1h": -0.11,
         "avg_24h": -0.09,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 69,
+        "avg_1h": 0.19,
+        "avg_24h": -0.64,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
