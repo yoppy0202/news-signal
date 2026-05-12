@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-05-11T23:08:55.139459+00:00",
+  "generated_at": "2026-05-12T00:09:23.815449+00:00",
   "events": [
+    {
+      "event_id": "70c0ef91-784b-45f2-b324-91154abf8e63",
+      "source": "rss:decrypt",
+      "title": "OpenAI Launches Daybreak as AI Firms Expand Into Cybersecurity",
+      "url": "https://decrypt.co/367506/openai-launches-daybreak-ai-cybersecurity",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-11T22:30:36+00:00",
+      "raw_text": "OpenAI Launches Daybreak as AI Firms Expand Into Cybersecurity\n\nOpenAI said its new Daybreak initiative uses AI to help companies identify software vulnerabilities and speed up cyber defense.",
+      "impact": {}
+    },
+    {
+      "event_id": "0c6a3ce9-3ef8-4094-ace5-01f0c9d807c4",
+      "source": "rss:cointelegraph",
+      "title": "Solana ETF inflows show demand returning as traders eye SOL rally to $120",
+      "url": "https://cointelegraph.com/markets/solana-etf-inflows-demand-returns-as-traders-eye-120?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-11T21:47:41+00:00",
+      "raw_text": "Solana ETF inflows show demand returning as traders eye SOL rally to $120\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana ETF inflows show demand returning as traders eye SOL rally to $120\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
+      "impact": {}
+    },
     {
       "event_id": "bc473dc7-c422-435d-b1c9-b44a86751931",
       "source": "rss:decrypt",
@@ -6518,50 +6542,26 @@
       "timestamp_utc": "2026-05-06T07:24:40+00:00",
       "raw_text": "A16z raises $2.2B for new fund backing stablecoins, prediction markets\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"A16z raises $2.2B for new fund backing stablecoins, prediction markets\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6L",
       "impact": {}
-    },
-    {
-      "event_id": "98342496-e25a-4b4d-b587-e8c282897395",
-      "source": "rss:cointelegraph",
-      "title": "a16z raises $2.2B for new fund backing stablecoins, prediction markets",
-      "url": "https://cointelegraph.com/news/a16z-raises-2-billion-fund-crypto-projects?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T07:24:40+00:00",
-      "raw_text": "a16z raises $2.2B for new fund backing stablecoins, prediction markets\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"a16z raises $2.2B for new fund backing stablecoins, prediction markets\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6L",
-      "impact": {}
-    },
-    {
-      "event_id": "ed725906-89bf-4928-9f7c-51ee90b17f6b",
-      "source": "rss:coindesk",
-      "title": "Crypto derivatives have converged with Wall Street. Equity perps could soon prove it.",
-      "url": "https://www.coindesk.com/markets/2026/05/06/equity-perps-could-become-more-popular-than-crypto-perps-as-the-line-between-crypto-and-wall-street-dissolves",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T07:23:57+00:00",
-      "raw_text": "Crypto derivatives have converged with Wall Street. Equity perps could soon prove it.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 58,
+        "avg_1h": 0.06,
+        "avg_24h": -0.92,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 202,
+        "count": 201,
         "avg_1h": 0.06,
         "avg_24h": 0.26,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 201,
+        "count": 200,
         "avg_1h": -0.04,
         "avg_24h": -0.52,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 56,
-        "avg_1h": 0.06,
-        "avg_24h": -0.92,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
