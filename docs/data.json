@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-05-12T04:03:50.108853+00:00",
+  "generated_at": "2026-05-12T06:46:05.118883+00:00",
   "events": [
+    {
+      "event_id": "174481d4-9450-406b-8386-deb48f54f19c",
+      "source": "rss:theblock",
+      "title": "Ark Invest buys $5.5 million worth of Circle shares as stock jumps 16% on Q1 earnings",
+      "url": "https://www.theblock.co/post/400850/ark-invest-buys-circle-shares-stock-jumps?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T03:16:23+00:00",
+      "raw_text": "Ark Invest buys $5.5 million worth of Circle shares as stock jumps 16% on Q1 earnings\n\n<p>Circle's shares closed up 15.91% at $131.76 on Monday after the stablecoin issuer disclosed its first-quarter 2026 results.</p>\n\n<p>Circle's shares closed up 15.91% at $131.76 on Monday after the stablecoin iss",
+      "impact": {}
+    },
+    {
+      "event_id": "e3595f97-4f69-40e1-b5d2-0183835a31ef",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin funding rates turn positive: Is a BTC rally to $85K next?",
+      "url": "https://cointelegraph.com/markets/bitcoin-funding-rates-turn-positive-is-a-btc-rally-to-85k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-05-12T02:42:27+00:00",
+      "raw_text": "Bitcoin funding rates turn positive: Is a BTC rally to $85K next?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin funding rates turn positive: Is a BTC rally to $85K next?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWF",
+      "impact": {
+        "t_plus_5m": 0.1704,
+        "t_plus_15m": 0.2729,
+        "t_plus_1h": 0.2058
+      }
+    },
     {
       "event_id": "70c0ef91-784b-45f2-b324-91154abf8e63",
       "source": "rss:decrypt",
@@ -11,6 +41,30 @@
       "tokens": [],
       "timestamp_utc": "2026-05-11T22:30:36+00:00",
       "raw_text": "OpenAI Launches Daybreak as AI Firms Expand Into Cybersecurity\n\nOpenAI said its new Daybreak initiative uses AI to help companies identify software vulnerabilities and speed up cyber defense.",
+      "impact": {}
+    },
+    {
+      "event_id": "ba858c4b-e9d6-4ee0-95a9-a60571081808",
+      "source": "rss:cointelegraph",
+      "title": "Circle stock rallies 15% as Wall Street sees further upside in stablecoin adoption",
+      "url": "https://cointelegraph.com/news/circle-stock-rallies-wall-street-further-upside-stablecoin-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-11T22:25:00+00:00",
+      "raw_text": "Circle stock rallies 15% as Wall Street sees further upside in stablecoin adoption\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Circle stock rallies 15% as Wall Street sees further upside in stablecoin adoption\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.",
+      "impact": {}
+    },
+    {
+      "event_id": "62f09a1c-769d-462c-b561-a364e8191b03",
+      "source": "rss:cointelegraph",
+      "title": "Ethics remain a sticking point as crypto market structure bill goes to markup",
+      "url": "https://cointelegraph.com/news/ethics-democrats-market-structure-clarity-bill-markup?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-11T22:20:00+00:00",
+      "raw_text": "Ethics remain a sticking point as crypto market structure bill goes to markup\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethics remain a sticking point as crypto market structure bill goes to markup\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
       "impact": {}
     },
     {
@@ -28,7 +82,8 @@
       "impact": {
         "t_plus_5m": 0.0762,
         "t_plus_15m": 0.0078,
-        "t_plus_1h": 0.1565
+        "t_plus_1h": 0.1565,
+        "t_plus_4h": -1.5913
       }
     },
     {
@@ -94,7 +149,8 @@
       "impact": {
         "t_plus_5m": -0.1861,
         "t_plus_15m": -0.2745,
-        "t_plus_1h": -0.0202
+        "t_plus_1h": -0.0202,
+        "t_plus_4h": -0.4296
       }
     },
     {
@@ -6500,74 +6556,26 @@
       "timestamp_utc": "2026-05-06T08:29:21+00:00",
       "raw_text": "Bitcoin's price rally has a hidden rhythm. Here are the hours and days driving gains.",
       "impact": {}
-    },
-    {
-      "event_id": "bcfa2d7e-bbcb-4b13-99c8-eeb1ef2b51ba",
-      "source": "rss:coindesk",
-      "title": "Crypto custodian Taurus moves straight into EU capital markets with MiFID license in Cyprus",
-      "url": "https://www.coindesk.com/policy/2026/05/06/crypto-custody-firm-taurus-granted-mifid-license-in-cyprus",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T08:00:00+00:00",
-      "raw_text": "Crypto custodian Taurus moves straight into EU capital markets with MiFID license in Cyprus",
-      "impact": {}
-    },
-    {
-      "event_id": "ca55402c-c608-4d8c-895e-929c9bbf98e5",
-      "source": "rss:theblock",
-      "title": "Colombian president seeks to transform the Caribbean into bitcoin mining hub",
-      "url": "https://www.theblock.co/post/400162/colombias-president-bitcoin-mining?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T07:50:43+00:00",
-      "raw_text": "Colombian president seeks to transform the Caribbean into bitcoin mining hub\n\n<p>Petro pointed to Venezuela and Paraguay as countries that managed to attract investment in bitcoin mining with abundant clean energy.</p>\n\n<p>Petro pointed to Venezuela and Paraguay as countries that managed to attract ",
-      "impact": {}
-    },
-    {
-      "event_id": "a7e43abf-322d-49bd-8ca1-931f9275fe3d",
-      "source": "rss:cointelegraph",
-      "title": "Law enforcement freezes $41M connected to $150M crypto Ponzi collapse",
-      "url": "https://cointelegraph.com/news/law-enforcement-freezes-millions-connected-to-crypto-ponzi-collapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T07:37:24+00:00",
-      "raw_text": "Law enforcement freezes $41M connected to $150M crypto Ponzi collapse\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Law enforcement freezes $41M connected to $150M crypto Ponzi collapse\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
-      "impact": {}
-    },
-    {
-      "event_id": "e9c85344-53d4-49bb-8be6-2d8c4aa00f46",
-      "source": "rss:cointelegraph",
-      "title": "A16z raises $2.2B for new fund backing stablecoins, prediction markets",
-      "url": "https://cointelegraph.com/news/a16z-raises-2-billion-fund-crypto-projects?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T07:24:40+00:00",
-      "raw_text": "A16z raises $2.2B for new fund backing stablecoins, prediction markets\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"A16z raises $2.2B for new fund backing stablecoins, prediction markets\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6L",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 58,
-        "avg_1h": 0.06,
-        "avg_24h": -0.92,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 201,
-        "avg_1h": 0.06,
-        "avg_24h": 0.26,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
         "count": 200,
         "avg_1h": -0.04,
         "avg_24h": -0.52,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 59,
+        "avg_1h": 0.08,
+        "avg_24h": -0.92,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 200,
+        "avg_1h": 0.06,
+        "avg_24h": 0.26,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
