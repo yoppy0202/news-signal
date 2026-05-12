@@ -1,6 +1,174 @@
 {
-  "generated_at": "2026-05-12T17:20:36.714183+00:00",
+  "generated_at": "2026-05-12T20:05:39.886270+00:00",
   "events": [
+    {
+      "event_id": "b9f805a0-9241-44d6-afc9-f9ff20fa4e04",
+      "source": "rss:decrypt",
+      "title": "Anthropic and OpenAI Warn Buyers: Unauthorized AI Startup Shares May Be Worthless",
+      "url": "https://decrypt.co/367614/anthropic-openai-warn-unauthorized-ai-startup-stock-worthless-spv",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T18:07:43+00:00",
+      "raw_text": "Anthropic and OpenAI Warn Buyers: Unauthorized AI Startup Shares May Be Worthless\n\nBoth companies declared SPV-based share schemes invalid this week—and Anthropic named names, including Forge Global.",
+      "impact": {}
+    },
+    {
+      "event_id": "2be214f6-d65f-4884-8385-c1cbe33af594",
+      "source": "rss:cointelegraph",
+      "title": "XRP traders say bullishness ‘growing’ as ETFs log largest inflow since January",
+      "url": "https://cointelegraph.com/markets/xrp-traders-bullishness-growing-etfs-log-largest-inflow-since-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [
+        "XRP"
+      ],
+      "timestamp_utc": "2026-05-12T17:54:24+00:00",
+      "raw_text": "XRP traders say bullishness ‘growing’ as ETFs log largest inflow since January\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"XRP traders say bullishness ‘growing’ as ETFs log largest inflow since January\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/imag",
+      "impact": {
+        "t_plus_5m": 0.2526,
+        "t_plus_15m": 0.1703,
+        "t_plus_1h": 0.4568
+      }
+    },
+    {
+      "event_id": "c5eaa3d3-7fb5-4daa-bdb0-1a4aa25a9d27",
+      "source": "rss:bitcoinmagazine",
+      "title": "Senate Confirms Bitcoin-Friendly Kevin Warsh to Fed Board, Clearing Path to Chairmanship",
+      "url": "https://bitcoinmagazine.com/news/senate-confirms-bitcoin-kevin-warsh",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T17:52:49+00:00",
+      "raw_text": "Senate Confirms Bitcoin-Friendly Kevin Warsh to Fed Board, Clearing Path to Chairmanship\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Senate-Confirms-Bitcoin-Friendly-Kevin-Warsh-to-Fed-Board-Clea",
+      "impact": {}
+    },
+    {
+      "event_id": "cf437517-2d7c-4d5b-868c-c702aa3f357d",
+      "source": "rss:decrypt",
+      "title": "Wall Street's Clearinghouse DTCC Enlists Chainlink for Collateral Management",
+      "url": "https://decrypt.co/367600/wall-streets-clearinghouse-dtcc-chainlink-collateral-management",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T17:34:51+00:00",
+      "raw_text": "Wall Street's Clearinghouse DTCC Enlists Chainlink for Collateral Management\n\nDTCC teams with Chainlink to enable round-the-clock collateral movement—a shift that could reshape post-trade finance.",
+      "impact": {}
+    },
+    {
+      "event_id": "07213fdf-5922-4a3a-b54a-4ddbd7846d15",
+      "source": "rss:theblock",
+      "title": "Ethereum Foundation rolls out support for Clear Signing crypto security solution",
+      "url": "https://www.theblock.co/post/401001/ethereum-foundation-rolls-out-support-for-clear-signing-crypto-security-solution?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T17:32:10+00:00",
+      "raw_text": "Ethereum Foundation rolls out support for Clear Signing crypto security solution\n\n<p>Clear Signing is a crypto security feature that aims to simplify transaction descriptions so humans can understand what they're approving.</p>\n\n<p>Clear Signing is a crypto security feature that aims to simplify tra",
+      "impact": {}
+    },
+    {
+      "event_id": "8cabd5f0-cc40-4c40-b684-eb369badb731",
+      "source": "rss:coindesk",
+      "title": "The Ethereum Foundation unveils new 'Clear Signing' standard to stop users from approving malicious crypto transactions",
+      "url": "https://www.coindesk.com/tech/2026/05/12/the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-approving-malicious-crypto-transactions",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T17:31:53+00:00",
+      "raw_text": "The Ethereum Foundation unveils new 'Clear Signing' standard to stop users from approving malicious crypto transactions",
+      "impact": {}
+    },
+    {
+      "event_id": "6d8e4b1d-f479-4d74-8aea-ec01288543db",
+      "source": "rss:coindesk",
+      "title": "Senate confirms Kevin Warsh to Fed board ahead of expected Chair vote",
+      "url": "https://www.coindesk.com/policy/2026/05/12/senate-confirms-kevin-warsh-to-fed-board-ahead-of-expected-chair-vote",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T17:29:09+00:00",
+      "raw_text": "Senate confirms Kevin Warsh to Fed board ahead of expected Chair vote",
+      "impact": {}
+    },
+    {
+      "event_id": "c3339a04-3fed-4df0-85e6-56de48529d5c",
+      "source": "rss:decrypt",
+      "title": "OpenAI Faces Lawsuit Over Claims ChatGPT Encouraged Teen's Fatal Overdose",
+      "url": "https://decrypt.co/367601/openai-faces-lawsuit-chatgpt-encouraged-teens-fatal-overdose",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T17:18:54+00:00",
+      "raw_text": "OpenAI Faces Lawsuit Over Claims ChatGPT Encouraged Teen's Fatal Overdose\n\nThe family of a deceased 19-year-old college student alleges ChatGPT encouraged dangerous drug use and contributed to his fatal overdose.",
+      "impact": {}
+    },
+    {
+      "event_id": "98017107-6a1c-47c6-a662-c31844545712",
+      "source": "rss:theblock",
+      "title": "Bitcoin Fog appeal tests DOJ theory that global crypto services fall under D.C. law",
+      "url": "https://www.theblock.co/post/400983/bitcoin-fog-appeal-tests-doj-theory-global-crypto-services-d-c-law?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T17:14:29+00:00",
+      "raw_text": "Bitcoin Fog appeal tests DOJ theory that global crypto services fall under D.C. law\n\n<p>The panel also scrutinized the reliability of the \"IP overlap\" analysis used to link Sterlingov to Bitcoin Fog.</p>\n\n<p>The panel also scrutinized the reliability of the \"IP overlap\" analysis used to link Sterlin",
+      "impact": {}
+    },
+    {
+      "event_id": "391f2afa-a417-4566-8aa7-a4e7662d8ca0",
+      "source": "rss:cointelegraph",
+      "title": "Ethereum derivatives unfazed by DeFi hacks: Can ETH hit $2.6K next?",
+      "url": "https://cointelegraph.com/markets/eth-derivatives-unfazed-defi-hacks-eth-hit-2600-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [
+        "ETH"
+      ],
+      "timestamp_utc": "2026-05-12T17:14:28+00:00",
+      "raw_text": "Ethereum derivatives unfazed by DeFi hacks: Can ETH hit $2.6K next?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum derivatives unfazed by DeFi hacks: Can ETH hit $2.6K next? \" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy",
+      "impact": {
+        "t_plus_5m": -0.2425,
+        "t_plus_15m": -0.1129,
+        "t_plus_1h": -0.0523
+      }
+    },
+    {
+      "event_id": "6529e752-5206-4b90-9773-99d5611a29f7",
+      "source": "rss:decrypt",
+      "title": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
+      "url": "https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T17:04:02+00:00",
+      "raw_text": "What Is Strategy (MSTR)? The Bitcoin Treasury Company\n\nSoftware firm Strategy (formerly MicroStrategy) and its co-founder Michael Saylor have become synonymous with Bitcoin. Here’s what you need to know.",
+      "impact": {}
+    },
+    {
+      "event_id": "e595a180-0274-4d52-bddd-4134c6b257ab",
+      "source": "rss:coindesk",
+      "title": "Stablecoin yield infrastructure project raises $13.5M in round led by Sky Ecosystem",
+      "url": "https://www.coindesk.com/business/2026/05/12/stablecoin-yield-infrastructure-project-raises-usd13-5m-in-round-led-by-sky-ecosystem",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T16:35:02+00:00",
+      "raw_text": "Stablecoin yield infrastructure project raises $13.5M in round led by Sky Ecosystem",
+      "impact": {}
+    },
+    {
+      "event_id": "a58657d9-3316-498b-8e8f-721db5386464",
+      "source": "rss:coindesk",
+      "title": "Privacy emerges as crypto’s next 'killer app,' with Arc, Canton and Tempo topping $1 billion in funding",
+      "url": "https://www.coindesk.com/business/2026/05/12/privacy-emerges-as-crypto-s-next-killer-app-with-arc-canton-and-tempo-topping-usd1-billion-in-funding",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T16:33:42+00:00",
+      "raw_text": "Privacy emerges as crypto’s next 'killer app,' with Arc, Canton and Tempo topping $1 billion in funding",
+      "impact": {}
+    },
     {
       "event_id": "35e4ac2c-7ea6-47a2-ad91-63928795586f",
       "source": "rss:theblock",
@@ -15,7 +183,8 @@
       "raw_text": "Coinbase adds Solana-backed loans through Morpho, letting users borrow up to $100,000\n\n<p>Coinbase users can now borrow up to $100,000 against their SOL holdings through the exchange's Morpho integration on Base.</p>\n\n<p>Coinbase users can now borrow up to $100,000 against their SOL holdings through",
       "impact": {
         "t_plus_5m": 0.0179,
-        "t_plus_15m": 0.1223
+        "t_plus_15m": 0.1223,
+        "t_plus_1h": -0.1403
       }
     },
     {
@@ -81,6 +250,18 @@
       "tokens": [],
       "timestamp_utc": "2026-05-12T15:25:46+00:00",
       "raw_text": "Binance's chief marketing officer Rachel Conlan to leave the exchange",
+      "impact": {}
+    },
+    {
+      "event_id": "a19f0740-c603-43f1-bde9-674e7cbd9ba8",
+      "source": "rss:coindesk",
+      "title": "Live markets: Bitcoin briefly falls below $80,000, as stocks tumble, yields rise on ugly inflation print",
+      "url": "https://www.coindesk.com/markets/2026/05/12/live-markets-bitcoin-holds-usd80-000-as-stocks-sink-yields-rise-on-ugly-inflation-print",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T15:04:41+00:00",
+      "raw_text": "Live markets: Bitcoin briefly falls below $80,000, as stocks tumble, yields rise on ugly inflation print",
       "impact": {}
     },
     {
@@ -243,6 +424,18 @@
       "tokens": [],
       "timestamp_utc": "2026-05-12T14:05:01+00:00",
       "raw_text": "Exodus sells over 1,000 Bitcoin as Q1 loss widens to $32M\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Exodus sells over 1,000 Bitcoin as Q1 loss widens to $32M\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5",
+      "impact": {}
+    },
+    {
+      "event_id": "460a88ae-35f3-40db-a60f-f0ff211e7ce6",
+      "source": "rss:cointelegraph",
+      "title": "FalconX expands tokenized credit facility to Monad network in lending push",
+      "url": "https://cointelegraph.com/news/falconx-expands-tokenized-credit-facility-to-monad-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-12T14:00:00+00:00",
+      "raw_text": "FalconX expands tokenized credit facility to Monad network in lending push\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"FalconX expands tokenized credit facility to Monad network in lending push\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
       "impact": {}
     },
     {
@@ -1480,7 +1673,8 @@
       "impact": {
         "t_plus_5m": -0.3573,
         "t_plus_15m": -0.5279,
-        "t_plus_1h": -0.0422
+        "t_plus_1h": -0.0422,
+        "t_plus_24h": -3.1964
       }
     },
     {
@@ -6373,201 +6567,20 @@
       "timestamp_utc": "2026-05-06T22:05:26+00:00",
       "raw_text": "Reid Hoffman says NFTs may make a comeback as AI agents strain online identity",
       "impact": {}
-    },
-    {
-      "event_id": "72c06469-d4ab-4835-b954-6d5e9e2ae62e",
-      "source": "rss:decrypt",
-      "title": "Chrome Is Quietly Installing a 4GB AI Model on Your Computer—And Putting It Back If You Delete It",
-      "url": "https://decrypt.co/367060/chrome-quietly-installing-4gb-ai-model-computer",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T22:01:02+00:00",
-      "raw_text": "Chrome Is Quietly Installing a 4GB AI Model on Your Computer—And Putting It Back If You Delete It\n\nGoogle Chrome silently downloads a 4GB Gemini Nano model to eligible devices, re-downloads it if deleted, and the AI Mode button users actually see doesn't even use it.",
-      "impact": {}
-    },
-    {
-      "event_id": "b4340444-6c88-41b5-8278-e8ece244459b",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin market dominance moves above 61%: Will altcoins follow?",
-      "url": "https://cointelegraph.com/markets/bitcoin-market-dominance-moves-above-61-will-altcoins-follow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-06T22:00:25+00:00",
-      "raw_text": "Bitcoin market dominance moves above 61%: Will altcoins follow?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin market dominance moves above 61%: Will altcoins follow?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx",
-      "impact": {
-        "t_plus_5m": 0.2124,
-        "t_plus_15m": 0.0978,
-        "t_plus_1h": 0.0636,
-        "t_plus_4h": -0.1541
-      }
-    },
-    {
-      "event_id": "7d7c5c97-af7f-4ac2-b0d4-dbca4b3adbf0",
-      "source": "rss:coindesk",
-      "title": "Spot Bitcoin ETFs solved access, but custody, advisors and plumbing still lag, panelists say",
-      "url": "https://www.coindesk.com/business/2026/05/06/spot-bitcoin-etfs-solved-access-but-custody-advisors-and-plumbing-still-lag-panelists-say",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T21:57:41+00:00",
-      "raw_text": "Spot Bitcoin ETFs solved access, but custody, advisors and plumbing still lag, panelists say",
-      "impact": {}
-    },
-    {
-      "event_id": "e2764e09-b86c-4549-8b22-49ba9ca24b8b",
-      "source": "rss:coindesk",
-      "title": "U.S. Bitcoin Reserve update coming in 'next few weeks,\" White House adviser says",
-      "url": "https://www.coindesk.com/policy/2026/05/06/u-s-bitcoin-reserve-update-coming-in-next-few-weeks-white-house-s-adviser-says",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T21:44:42+00:00",
-      "raw_text": "U.S. Bitcoin Reserve update coming in 'next few weeks,\" White House adviser says",
-      "impact": {}
-    },
-    {
-      "event_id": "2fc11c11-4a7d-4159-881e-e6afb7250a55",
-      "source": "rss:decrypt",
-      "title": "This AI Reads Your Chemistry Instructions and Finds the Best Way to Build You a Molecule",
-      "url": "https://decrypt.co/367048/ai-chemistry-instructions-build-molecule",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T21:31:03+00:00",
-      "raw_text": "This AI Reads Your Chemistry Instructions and Finds the Best Way to Build You a Molecule\n\nResearchers at EPFL built a framework that lets chemists describe what they want in plain language—and have AI sift through thousands of synthesis routes to find the right one.",
-      "impact": {}
-    },
-    {
-      "event_id": "b3fb2bcd-9425-4e34-bbe8-6d48585d680c",
-      "source": "rss:coindesk",
-      "title": "White House targets July 4 for Clarity Act passage, says crypto adviser Patrick Witt",
-      "url": "https://www.coindesk.com/policy/2026/05/06/white-house-targets-july-4-for-clarity-act-passage-says-crypto-adviser-patrick-witt",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T21:16:54+00:00",
-      "raw_text": "White House targets July 4 for Clarity Act passage, says crypto adviser Patrick Witt",
-      "impact": {}
-    },
-    {
-      "event_id": "4df079ee-0cc0-446e-9e6f-5a66609ba936",
-      "source": "rss:coindesk",
-      "title": "Dominance of Tether and Circle is a net bad for stablecoins, says Bridge executive",
-      "url": "https://www.coindesk.com/business/2026/05/06/dominance-of-tether-and-circle-is-net-bad-for-stablecoins-says-bridge",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T21:11:57+00:00",
-      "raw_text": "Dominance of Tether and Circle is a net bad for stablecoins, says Bridge executive",
-      "impact": {}
-    },
-    {
-      "event_id": "84e30342-5949-4980-93e1-9f2bd24e9a86",
-      "source": "rss:cointelegraph",
-      "title": "US senator says crypto market structure vote may happen by August",
-      "url": "https://cointelegraph.com/news/kirsten-gillibrand-crypto-market-structure-august-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T21:07:09+00:00",
-      "raw_text": "US senator says crypto market structure vote may happen by August\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US senator says crypto market structure vote may happen by August\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2F",
-      "impact": {}
-    },
-    {
-      "event_id": "09dc0644-4c40-421a-a604-e4e0505e550b",
-      "source": "rss:cointelegraph",
-      "title": "US Senator says crypto market structure vote could happen by August",
-      "url": "https://cointelegraph.com/news/kirsten-gillibrand-crypto-market-structure-august-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T21:07:09+00:00",
-      "raw_text": "US Senator says crypto market structure vote could happen by August\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Senator says crypto market structure vote could happen by August\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXl",
-      "impact": {}
-    },
-    {
-      "event_id": "63f8c5c7-7494-4b03-9581-9857c61a9fff",
-      "source": "rss:decrypt",
-      "title": "Bitcoin, Ethereum 'Q-Day' Quantum Threat Could Arrive as Soon as 2030: Report",
-      "url": "https://decrypt.co/367047/bitcoin-ethereum-q-day-quantum-threat-could-arrive-2030",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T21:07:08+00:00",
-      "raw_text": "Bitcoin, Ethereum 'Q-Day' Quantum Threat Could Arrive as Soon as 2030: Report\n\nBy the time Bitcoin and other networks are ready to defend themselves, it may already be too late, according to a new analysis.",
-      "impact": {}
-    },
-    {
-      "event_id": "eccbc0bb-0b0b-4439-b1c1-c8340fc0d154",
-      "source": "rss:theblock",
-      "title": "White House aims for July 4 deadline to pass landmark crypto regulation bill",
-      "url": "https://www.theblock.co/post/400320/white-house-aims-for-july-4-deadline-to-pass-landmark-crypto-regulation-bill?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T20:50:23+00:00",
-      "raw_text": "White House aims for July 4 deadline to pass landmark crypto regulation bill\n\n<p>The White House's top crypto adviser, Patrick Witt, set a target date for July 4 to pass broad crypto legislation into law.</p>\n\n<p>The White House's top crypto adviser, Patrick Witt, set a target date for July 4 to pas",
-      "impact": {}
-    },
-    {
-      "event_id": "08845edd-98a1-4cc4-8dd9-d2118c544d88",
-      "source": "rss:theblock",
-      "title": "Aave liquidates Kelp DAO attacker’s remaining rsETH positions",
-      "url": "https://www.theblock.co/post/400315/aave-liquidates-kelp-dao-attackers-remaining-rseth-positions?utm_source=rss&utm_medium=rss",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T20:31:29+00:00",
-      "raw_text": "Aave liquidates Kelp DAO attacker’s remaining rsETH positions\n\n<p>Aave required a governance process to manipulate its rsETH oracle price to generate a deficit in the attacker’s fraudulent position. </p>\n\n<p>Aave required a governance process to manipulate its rsETH oracle price to generate a defici",
-      "impact": {}
-    },
-    {
-      "event_id": "d988695d-482e-42a6-bdb5-84613b868e2f",
-      "source": "rss:decrypt",
-      "title": "Elon Musk's SpaceX Will Help Power Anthropic's Claude in Surprise AI Deal",
-      "url": "https://decrypt.co/367035/elon-musk-spacex-power-anthropic-claude-surprise-ai-deal",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T20:23:19+00:00",
-      "raw_text": "Elon Musk's SpaceX Will Help Power Anthropic's Claude in Surprise AI Deal\n\nElon Musk’s combined company of SpaceX and xAI will help boost Anthropic with a deal to provide compute for Claude AI models.",
-      "impact": {}
-    },
-    {
-      "event_id": "40e3ffc8-6980-4bdf-80e1-3160dacff560",
-      "source": "rss:theblock",
-      "title": "Bitcoin whales on Hyperliquid push net long positions to 2026 high",
-      "url": "https://www.theblock.co/post/400302/bitcoin-whales-hyperliquid-net-long-positions-2026-high?utm_source=rss&utm_medium=rss",
-      "event_type": "whale_move",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T20:05:58+00:00",
-      "raw_text": "Bitcoin whales on Hyperliquid push net long positions to 2026 high\n\n<p>Glassnode posted a chart indicating that whales have been aggressively increasing their cumulative long positions in recent weeks.</p>\n\n<p>Glassnode posted a chart indicating that whales have been aggressively increasing their cu",
-      "impact": {}
-    },
-    {
-      "event_id": "feca7b3c-fdf0-4581-a6b7-af528cb5e83f",
-      "source": "rss:theblock",
-      "title": "VanEck says Bitcoin could hit $1 million in five years, likens adoption to video games",
-      "url": "https://www.theblock.co/post/400299/vaneck-bitcoin-1-million-five-years-adoption-video-games?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-06T19:49:50+00:00",
-      "raw_text": "VanEck says Bitcoin could hit $1 million in five years, likens adoption to video games\n\n<p>The firm's head of digital assets research compared bitcoin adoption to different demographics embracing video games.</p>\n\n<p>The firm's head of digital assets research compared bitcoin adoption to different d",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
         "count": 180,
-        "avg_1h": 0.06,
-        "avg_24h": 0.14,
+        "avg_1h": 0.05,
+        "avg_24h": -0.28,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 69,
+        "avg_1h": 0.21,
+        "avg_24h": -0.64,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
@@ -6576,29 +6589,23 @@
         "avg_24h": -0.31,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 67,
-        "avg_1h": 0.19,
-        "avg_24h": -0.64,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
         "count": 34,
-        "avg_1h": -0.14,
+        "avg_1h": -0.13,
         "avg_24h": -0.09,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
-        "count": 5,
+        "count": 4,
         "avg_1h": 0.52,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
-        "count": 6,
-        "avg_1h": 0.06,
+        "count": 5,
+        "avg_1h": null,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
+        "win_rate_1h_gt5pct": null
       }
     }
   }
