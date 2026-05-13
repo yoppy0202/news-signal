@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-05-13T04:09:53.500156+00:00",
+  "generated_at": "2026-05-13T07:25:42.332879+00:00",
   "events": [
+    {
+      "event_id": "59bb4aa1-af6d-47d9-88ad-abf7b732fd71",
+      "source": "rss:theblock",
+      "title": "Kelp DAO, Aave to resume rsETH operations as recovery from $292 million exploit progresses",
+      "url": "https://www.theblock.co/post/401060/kelp-dao-aave-resume-rseth?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-13T02:24:43+00:00",
+      "raw_text": "Kelp DAO, Aave to resume rsETH operations as recovery from $292 million exploit progresses\n\n<p>Kelp was exploited on April 18 for $292 million from attackers suspected to be part of North Korea's Lazarus Group.</p>\n\n<p>Kelp was exploited on April 18 for $292 million from attackers suspected to be pa",
+      "impact": {}
+    },
+    {
+      "event_id": "399a16f4-f4f7-4f02-a2be-7c8968cb6b3e",
+      "source": "rss:cointelegraph",
+      "title": "JPMorgan to launch tokenized money market fund for stablecoin issuers",
+      "url": "https://cointelegraph.com/news/jpmorgan-files-second-tokenized-money-market-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-13T02:14:13+00:00",
+      "raw_text": "JPMorgan to launch tokenized money market fund for stablecoin issuers\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"JPMorgan to launch tokenized money market fund for stablecoin issuers\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
+      "impact": {}
+    },
     {
       "event_id": "c60881fa-3b94-43ad-8730-b382796efbaf",
       "source": "rss:cointelegraph",
@@ -64,7 +88,8 @@
       "impact": {
         "t_plus_5m": 0.0893,
         "t_plus_15m": 0.0338,
-        "t_plus_1h": 0.104
+        "t_plus_1h": 0.104,
+        "t_plus_4h": 0.3902
       }
     },
     {
@@ -6542,56 +6567,32 @@
       "timestamp_utc": "2026-05-07T07:30:57+00:00",
       "raw_text": "Quantum attacks could worsen without proof of ownership: Near One\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Quantum attacks could worsen without proof of ownership: Near One\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2F",
       "impact": {}
-    },
-    {
-      "event_id": "d8d097c2-9311-4fea-990d-37e84afe91b1",
-      "source": "rss:cointelegraph",
-      "title": "Samourai Wallet co-founder appeals for donations to pay $2M legal fees",
-      "url": "https://cointelegraph.com/news/samourai-wallet-co-founder-appeals-for-donations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-07T07:10:57+00:00",
-      "raw_text": "Samourai Wallet co-founder appeals for donations to pay $2M legal fees\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Samourai Wallet co-founder appeals for donations to pay $2M legal fees\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6L",
-      "impact": {}
-    },
-    {
-      "event_id": "52010771-12c2-49f3-90e0-5b1ba8e7b773",
-      "source": "rss:cointelegraph",
-      "title": "Trump-linked American Bitcoin reports $82M Q1 loss, revenue miss",
-      "url": "https://cointelegraph.com/news/trump-american-bitcoin-q1-loss-misses-revenue-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-07T07:08:10+00:00",
-      "raw_text": "Trump-linked American Bitcoin reports $82M Q1 loss, revenue miss\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump-linked American Bitcoin reports $82M Q1 loss, revenue miss\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkL",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 179,
-        "avg_1h": 0.05,
-        "avg_24h": -0.28,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 36,
+        "count": 37,
         "avg_1h": -0.11,
         "avg_24h": -0.09,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 72,
-        "avg_1h": 0.19,
-        "avg_24h": -0.37,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
         "count": 205,
         "avg_1h": -0.07,
         "avg_24h": -0.2,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 178,
+        "avg_1h": 0.05,
+        "avg_24h": -0.28,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 72,
+        "avg_1h": 0.19,
+        "avg_24h": -0.37,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
