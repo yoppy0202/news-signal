@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T00:12:59.885417+00:00",
+  "generated_at": "2026-05-14T04:56:29.576805+00:00",
   "events": [
     {
       "event_id": "9008b53c-81c4-4622-a95f-050e2b2cb033",
@@ -8,10 +8,16 @@
       "url": "https://decrypt.co/367796/claude-ai-cracked-lost-bitcoin-wallet-owner-claims",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-13T22:06:29+00:00",
       "raw_text": "Bitcoin Owner Claims Claude AI Cracked Lost Wallet Password, Netting $400K in BTC\n\nA viral thread on X drew millions of views as a user claimed Claude AI helped recover a lost Bitcoin wallet.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0384,
+        "t_plus_15m": 0.0553,
+        "t_plus_1h": 0.1483
+      }
     },
     {
       "event_id": "08d345af-6643-40d0-bc96-3a030a50be87",
@@ -6559,7 +6565,7 @@
     "by_event_type": {
       "narrative": {
         "count": 178,
-        "avg_1h": -0.03,
+        "avg_1h": -0.02,
         "avg_24h": -0.25,
         "win_rate_1h_gt5pct": 0.0
       },
