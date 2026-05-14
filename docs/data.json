@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-05-13T22:22:31.339301+00:00",
+  "generated_at": "2026-05-14T00:12:59.885417+00:00",
   "events": [
+    {
+      "event_id": "9008b53c-81c4-4622-a95f-050e2b2cb033",
+      "source": "rss:decrypt",
+      "title": "Bitcoin Owner Claims Claude AI Cracked Lost Wallet Password, Netting $400K in BTC",
+      "url": "https://decrypt.co/367796/claude-ai-cracked-lost-bitcoin-wallet-owner-claims",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-13T22:06:29+00:00",
+      "raw_text": "Bitcoin Owner Claims Claude AI Cracked Lost Wallet Password, Netting $400K in BTC\n\nA viral thread on X drew millions of views as a user claimed Claude AI helped recover a lost Bitcoin wallet.",
+      "impact": {}
+    },
+    {
+      "event_id": "08d345af-6643-40d0-bc96-3a030a50be87",
+      "source": "rss:cointelegraph",
+      "title": "Coinbase CEO Brian Armstrong gets behind CLARITY Act ahead of Thursday markup",
+      "url": "https://cointelegraph.com/news/coinbase-ceo-brian-armstrong-clarity-act-thursday-markup?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-13T21:56:58+00:00",
+      "raw_text": "Coinbase CEO Brian Armstrong gets behind CLARITY Act ahead of Thursday markup\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase CEO Brian Armstrong gets behind CLARITY Act ahead of Thursday markup\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
+      "impact": {}
+    },
+    {
+      "event_id": "089e6e7a-e25a-496d-b148-13dcfbd471db",
+      "source": "rss:cointelegraph",
+      "title": "Senate confirms Kevin Warsh to lead Federal Reserve",
+      "url": "https://cointelegraph.com/news/kevin-warsh-fed-governor-confirmation-us-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-13T21:33:00+00:00",
+      "raw_text": "Senate confirms Kevin Warsh to lead Federal Reserve\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Senate confirms Kevin Warsh to lead Federal Reserve\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9",
+      "impact": {}
+    },
+    {
+      "event_id": "bd9f4a27-7def-42c4-b70b-c7ec0885c9bc",
+      "source": "rss:decrypt",
+      "title": "Bitcoin Rally Cut Short as Profit-Taking Rises, US Demand Falls: CryptoQuant",
+      "url": "https://decrypt.co/367787/bitcoin-rally-cut-short-profit-taking-rises-us-demand-falls-cryptoquant",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-13T21:30:46+00:00",
+      "raw_text": "Bitcoin Rally Cut Short as Profit-Taking Rises, US Demand Falls: CryptoQuant\n\nBitcoin's recent rally stalled at a critical level, putting the top crypto asset in a position that has previously led to major downturns.",
+      "impact": {}
+    },
     {
       "event_id": "1edaf4d4-f4b8-4d59-981f-788dec6bfac8",
       "source": "rss:theblock",
@@ -145,14 +193,16 @@
         "ETH",
         "BNB",
         "XRP",
-        "SOL"
+        "SOL",
+        "DOGE"
       ],
       "timestamp_utc": "2026-05-13T18:09:17+00:00",
       "raw_text": "Price predictions 5/13: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 5/13: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
       "impact": {
         "t_plus_5m": 0.1313,
         "t_plus_15m": 0.3487,
-        "t_plus_1h": 0.0498
+        "t_plus_1h": 0.0498,
+        "t_plus_4h": -0.2951
       }
     },
     {
@@ -6503,88 +6553,26 @@
       "timestamp_utc": "2026-05-07T20:51:35+00:00",
       "raw_text": "Coinbase stock declines 5% after missing Q1 estimates on crypto slowdown",
       "impact": {}
-    },
-    {
-      "event_id": "9a9757af-a586-4073-a62c-bc278b61ed94",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin slips below $80K despite BTC ETF inflows topping $1B",
-      "url": "https://cointelegraph.com/markets/bitcoin-slips-below-80k-while-weekly-etf-inflows-hit-january-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-07T20:05:09+00:00",
-      "raw_text": "Bitcoin slips below $80K despite BTC ETF inflows topping $1B\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin slips below $80K despite BTC ETF inflows topping $1B\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmNvaW50Z",
-      "impact": {
-        "t_plus_5m": 0.6351,
-        "t_plus_15m": 0.5347,
-        "t_plus_1h": 0.1809,
-        "t_plus_4h": 0.4122
-      }
-    },
-    {
-      "event_id": "d2c6a0d9-3f00-4155-b73e-da76f1cda428",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin falls under $80K but four-month high in weekly BTC ETF inflows may curb selling",
-      "url": "https://cointelegraph.com/markets/bitcoin-slips-below-80k-while-weekly-etf-inflows-hit-january-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-07T20:05:09+00:00",
-      "raw_text": "Bitcoin falls under $80K but four-month high in weekly BTC ETF inflows may curb selling\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin falls under $80K but four-month high in weekly BTC ETF inflows may curb selling\" class=\"type:primaryImage\" src=\"https://images.coin",
-      "impact": {
-        "t_plus_5m": 0.08,
-        "t_plus_15m": -0.0198,
-        "t_plus_1h": -0.3716,
-        "t_plus_4h": -0.1416
-      }
-    },
-    {
-      "event_id": "a6969706-51b4-4690-9393-e3fa732a631e",
-      "source": "rss:theblock",
-      "title": "JPMorgan says bitcoin is gaining over gold as debasement trade after Iran conflict",
-      "url": "https://www.theblock.co/post/400486/jpmorgan-bitcoin-over-gold-debasement-trade-iran-conflict?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-07T20:01:51+00:00",
-      "raw_text": "JPMorgan says bitcoin is gaining over gold as debasement trade after Iran conflict\n\n<p>Investors are increasingly choosing bitcoin over gold as a debasement trade since the Iran conflict began, JPMorgan analysts said.</p>\n\n<p>Investors are increasingly choosing bitcoin over gold as a debasement trad",
-      "impact": {}
-    },
-    {
-      "event_id": "2fe9c393-37a8-491d-8040-47fe62a7e25b",
-      "source": "rss:decrypt",
-      "title": "IMF Warns AI Will Supercharge Cyberattacks on Global Financial System",
-      "url": "https://decrypt.co/367178/imf-warns-ai-supercharge-cyberattacks-global-financial-system",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-07T19:44:22+00:00",
-      "raw_text": "IMF Warns AI Will Supercharge Cyberattacks on Global Financial System\n\nThe IMF called for treating cybersecurity as a core stability issue as new AI tools let even unskilled attackers breach critical infrastructure.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 196,
-        "avg_1h": 0.02,
-        "avg_24h": -0.62,
+      "narrative": {
+        "count": 178,
+        "avg_1h": -0.03,
+        "avg_24h": -0.25,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 82,
-        "avg_1h": 0.21,
+        "count": 81,
+        "avg_1h": 0.25,
         "avg_24h": -0.21,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 177,
-        "avg_1h": -0.03,
-        "avg_24h": -0.25,
+      "unknown": {
+        "count": 197,
+        "avg_1h": 0.02,
+        "avg_24h": -0.62,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
@@ -6594,7 +6582,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 35,
+        "count": 34,
         "avg_1h": -0.02,
         "avg_24h": -0.16,
         "win_rate_1h_gt5pct": 0.0
