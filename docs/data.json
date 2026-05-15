@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-05-15T00:08:54.392046+00:00",
+  "generated_at": "2026-05-15T04:15:52.262728+00:00",
   "events": [
+    {
+      "event_id": "7fb0ed4e-5da6-4517-bbfb-b6c491a969b2",
+      "source": "rss:cointelegraph",
+      "title": "UK politician Nigel Farage bought $1.8M house after a $6.7M crypto gift",
+      "url": "https://cointelegraph.com/news/nigel-farage-house-crypto-gift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-14T22:32:33+00:00",
+      "raw_text": "UK politician Nigel Farage bought $1.8M house after a $6.7M crypto gift\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" UK politician Nigel Farage bought $1.8M house after a $6.7M crypto gift\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cH",
+      "impact": {}
+    },
+    {
+      "event_id": "cea88116-8c79-4f93-9ab3-e66af7d1ef8e",
+      "source": "rss:cointelegraph",
+      "title": "Dartmouth endowment invests in Solana ETF, holds $14M in crypto exposure",
+      "url": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-14T22:04:12+00:00",
+      "raw_text": "Dartmouth endowment invests in Solana ETF, holds $14M in crypto exposure\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Dartmouth endowment invests in Solana ETF, holds $14M in crypto exposure\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
+      "impact": {}
+    },
     {
       "event_id": "7c24a63f-3e75-4c8f-aaec-c3829c02a841",
       "source": "rss:decrypt",
@@ -6492,64 +6516,32 @@
       "timestamp_utc": "2026-05-09T07:16:33+00:00",
       "raw_text": "Strike CEO Jack Mallers dismisses idea that Wall Street threatens Bitcoin\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strike CEO Jack Mallers dismisses idea that Wall Street threatens Bitcoin\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
       "impact": {}
-    },
-    {
-      "event_id": "f4d13adc-4399-4038-a2c8-2220d79c8ad5",
-      "source": "rss:coindesk",
-      "title": "Judge clears path for Aave to move $71 million in ETH linked to North Korea hack",
-      "url": "https://www.coindesk.com/policy/2026/05/09/judge-clears-path-for-aave-to-move-usd71-million-in-eth-linked-to-north-korea-hack",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-05-09T04:16:36+00:00",
-      "raw_text": "Judge clears path for Aave to move $71 million in ETH linked to North Korea hack",
-      "impact": {
-        "t_plus_5m": 0.1975,
-        "t_plus_15m": 0.1053,
-        "t_plus_1h": -0.0015,
-        "t_plus_4h": 0.2012,
-        "t_plus_24h": 0.573
-      }
-    },
-    {
-      "event_id": "be8144f1-6af7-4ae3-8d90-ffba0dcd044d",
-      "source": "rss:cointelegraph",
-      "title": "US CLARITY Act sees ‘big step forward’ as markup set for May 14",
-      "url": "https://cointelegraph.com/news/us-clarity-act-markup-date-set-tim-scott-crypto-industry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-09T02:01:55+00:00",
-      "raw_text": "US CLARITY Act sees ‘big step forward’ as markup set for May 14\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" US CLARITY Act sees ‘big step forward’ as markup set for May 14\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZX",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 177,
-        "avg_1h": -0.15,
-        "avg_24h": -0.25,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 198,
+        "count": 199,
         "avg_1h": -0.03,
         "avg_24h": -0.07,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 33,
-        "avg_1h": -0.01,
-        "avg_24h": -0.52,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 76,
+        "count": 77,
         "avg_1h": 0.17,
         "avg_24h": -0.4,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 176,
+        "avg_1h": -0.15,
+        "avg_24h": -0.25,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 32,
+        "avg_1h": -0.01,
+        "avg_24h": -0.8,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
