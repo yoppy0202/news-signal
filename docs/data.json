@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-05-15T16:59:41.074845+00:00",
+  "generated_at": "2026-05-15T18:49:26.457435+00:00",
   "events": [
+    {
+      "event_id": "0bcc8cfe-895b-41af-85dd-6c6f1fb946d6",
+      "source": "rss:bitcoinmagazine",
+      "title": "Gemini Stock Jumps After Winklevoss Twins Make $100M Bitcoin Bet on Company Future",
+      "url": "https://bitcoinmagazine.com/news/gemini-stock-jumps-after-winklevoss-twins",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-15T17:59:16+00:00",
+      "raw_text": "Gemini Stock Jumps After Winklevoss Twins Make $100M Bitcoin Bet on Company Future\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/New-York-Sues-Coinbase-and-Gemini-Over-Alleged-Illegal-Prediction-Ma",
+      "impact": {}
+    },
+    {
+      "event_id": "787bd9c0-00e6-4b5b-9bf2-8c289243594a",
+      "source": "rss:decrypt",
+      "title": "AI Agents Turn to Digital Arson, Crime in Shared Virtual World: Study",
+      "url": "https://decrypt.co/368030/ai-agents-crime-arson-self-deletion-simulation",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-15T17:34:40+00:00",
+      "raw_text": "AI Agents Turn to Digital Arson, Crime in Shared Virtual World: Study\n\nIn new research, Emergence AI said autonomous AI agents became more violent, deceptive, and unstable during weeks-long simulations designed to study long-term behavior.",
+      "impact": {}
+    },
+    {
+      "event_id": "3ffe9117-c27b-411a-a016-8b37a25c0748",
+      "source": "rss:decrypt",
+      "title": "Bitcoin Miner IREN Closes $3 Billion Convertible Notes Offering to Fuel AI Transformation",
+      "url": "https://decrypt.co/368028/bitcoin-miner-iren-3-billion-convertible-notes-offering-ai-ambitions-grow",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-15T17:28:55+00:00",
+      "raw_text": "Bitcoin Miner IREN Closes $3 Billion Convertible Notes Offering to Fuel AI Transformation\n\nIREN, a prominent Bitcoin mining firm, completed a $3 billion convertible notes offering to accelerate its AI cloud infrastructure buildout.",
+      "impact": {}
+    },
+    {
+      "event_id": "c7070a0f-3d51-4117-9c17-37d90567d7bc",
+      "source": "rss:cointelegraph",
+      "title": "Myanmar’s military government proposes life in prison for crypto scammers",
+      "url": "https://cointelegraph.com/news/myanmar-government-life-death-crypto-scammers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-15T17:08:51+00:00",
+      "raw_text": "Myanmar’s military government proposes life in prison for crypto scammers\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Myanmar’s military government proposes life in prison for crypto scammers\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
+      "impact": {}
+    },
+    {
+      "event_id": "8d735597-245c-4125-805b-fd204e0be218",
+      "source": "rss:theblock",
+      "title": "Hyperliquid Policy Center argues onchain perps offer efficiency, transparency as ICE and CME reportedly press for CFTC oversight",
+      "url": "https://www.theblock.co/post/401512/hyperliquid-onchain-perps-offer-efficiency-transparency-ice-cme-cftc-oversight?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-15T16:48:14+00:00",
+      "raw_text": "Hyperliquid Policy Center argues onchain perps offer efficiency, transparency as ICE and CME reportedly press for CFTC oversight\n\n<p>Bloomberg reported that ICE and CME are pressing for Hyperliquid to register with the CFTC, raising concerns about market stability.</p>\n\n<p>Bloomberg reported that IC",
+      "impact": {}
+    },
+    {
+      "event_id": "40b79ee8-ca77-4a6f-b444-ea1f3c7cdd4c",
+      "source": "rss:coindesk",
+      "title": "Saudi Arabia is tokenizing its multi-trillion dollar economy to protect its wealth from global shocks",
+      "url": "https://www.coindesk.com/business/2026/05/15/saudi-arabia-is-tokenizing-its-multi-trillion-dollar-economy-to-protect-its-wealth-from-global-shocks",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-15T16:37:31+00:00",
+      "raw_text": "Saudi Arabia is tokenizing its multi-trillion dollar economy to protect its wealth from global shocks",
+      "impact": {}
+    },
     {
       "event_id": "9ef314d5-fb5c-43e2-bb37-5c15810881d8",
       "source": "rss:decrypt",
@@ -44,10 +116,16 @@
       "url": "https://cointelegraph.com/markets/ethereum-analysts-see-downside-risks-bears-20-eth-price-drop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-05-15T15:55:05+00:00",
       "raw_text": "Ethereum analysts see ‘downside risks’ as bears eye 20% ETH price drop\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum analysts see ‘downside risks’ as bears eye 20% ETH price drop  \" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2218,
+        "t_plus_15m": -0.2021,
+        "t_plus_1h": -0.2481
+      }
     },
     {
       "event_id": "d4e4af5c-9818-4256-8f24-9650fa8b4bcd",
@@ -116,10 +194,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-price-dives-under-79k-us-bond-market-triggers-3-btc-price-rout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-15T15:21:21+00:00",
       "raw_text": "Bitcoin price dives under $79K as US bond market triggers 3% BTC price rout\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price dives under $79K as US bond market triggers 3% BTC price rout\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0272,
+        "t_plus_15m": -0.0824,
+        "t_plus_1h": -0.1439
+      }
     },
     {
       "event_id": "de652acf-3ed3-4929-b67a-1ccb22def3bd",
@@ -140,10 +224,16 @@
       "url": "https://decrypt.co/368007/strategy-moves-retire-1-5-billion-convertible-debt-could-sell-bitcoin",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-15T14:50:25+00:00",
       "raw_text": "Bitcoin Giant Strategy Moves to Retire $1.5 Billion in Convertible Debt, Says It Could Sell BTC\n\nStrategy is taking steps to pare down convertible debt with an agreement to repurchase $1.5 billion in notes—and again teased Bitcoin sales.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2011,
+        "t_plus_15m": -0.1885,
+        "t_plus_1h": -0.1431
+      }
     },
     {
       "event_id": "c35efafb-e6ac-4d93-90d1-fe8462128867",
@@ -248,10 +338,16 @@
       "url": "https://www.coindesk.com/coindesk-indices/2026/05/15/coindesk-20-performance-update-bnb-is-only-gainer-as-index-drops-2",
       "event_type": "narrative",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BNB"
+      ],
       "timestamp_utc": "2026-05-15T13:22:37+00:00",
       "raw_text": "CoinDesk 20 performance update: BNB is only gainer as index drops 2%",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.9083,
+        "t_plus_15m": 0.1052,
+        "t_plus_1h": 0.0477
+      }
     },
     {
       "event_id": "65cf5fff-b9cb-40a2-87a0-feeb9687b1bb",
@@ -260,10 +356,16 @@
       "url": "https://www.coindesk.com/markets/2026/05/15/xrp-gives-back-gains-after-senate-crypto-bill-sparks-5-rally",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-05-15T13:17:55+00:00",
       "raw_text": "XRP gives back gains after Senate crypto bill sparks 5% rally",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 1.1913,
+        "t_plus_15m": 1.0221,
+        "t_plus_1h": -0.3935
+      }
     },
     {
       "event_id": "225f5ba7-dd46-4208-8880-72305e8b6d69",
@@ -6364,98 +6466,20 @@
       "timestamp_utc": "2026-05-11T10:56:24+00:00",
       "raw_text": "Trump fans put millions of dollars into a gold phone and a memecoin. Neither has gone well",
       "impact": {}
-    },
-    {
-      "event_id": "f641baef-4bb3-4fbc-8028-1386e24fa1b9",
-      "source": "rss:coindesk",
-      "title": "Circle raises $222 million for Arc, beats Q1 earnings estimates but misses on revenue",
-      "url": "https://www.coindesk.com/business/2026/05/11/circle-raises-usd222-million-for-arc-blockchain-token-sale-at-usd3-billion-valuation",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-11T10:50:03+00:00",
-      "raw_text": "Circle raises $222 million for Arc, beats Q1 earnings estimates but misses on revenue",
-      "impact": {}
-    },
-    {
-      "event_id": "ff3cb5b4-c661-45e4-805c-12ccc815b6b6",
-      "source": "rss:coindesk",
-      "title": "Bitcoin whipsaws on CME open as Iran tensions pressure crypto markets",
-      "url": "https://www.coindesk.com/markets/2026/05/11/bitcoin-whipsaws-on-cme-open-as-iran-tensions-pressure-crypto-markets",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-11T10:28:42+00:00",
-      "raw_text": "Bitcoin whipsaws on CME open as Iran tensions pressure crypto markets",
-      "impact": {}
-    },
-    {
-      "event_id": "de2e76f5-b864-4eac-9072-528fe9b42f8a",
-      "source": "rss:coindesk",
-      "title": "Canton Network’s Digital Asset targets $2 billion valuation in a16z crypto-led raise: Bloomberg",
-      "url": "https://www.coindesk.com/business/2026/05/11/canton-network-s-digital-asset-targets-usd2-billion-valuation-in-a16z-crypto-led-raise-bloomberg",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-11T10:14:17+00:00",
-      "raw_text": "Canton Network’s Digital Asset targets $2 billion valuation in a16z crypto-led raise: Bloomberg",
-      "impact": {}
-    },
-    {
-      "event_id": "6fc03b2f-d2e4-437e-b977-5544cc899ad2",
-      "source": "rss:coindesk",
-      "title": "MARA expected to post Q1 losses as investors look ahead to AI growth strategy",
-      "url": "https://www.coindesk.com/markets/2026/05/11/mara-expected-to-post-q1-losses-as-investors-look-ahead-to-ai-growth-strategy",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-11T10:03:38+00:00",
-      "raw_text": "MARA expected to post Q1 losses as investors look ahead to AI growth strategy",
-      "impact": {}
-    },
-    {
-      "event_id": "447a6601-58ba-4223-bfe0-173845cc4840",
-      "source": "rss:cointelegraph",
-      "title": "Capital B raises $17.8M to expand its Bitcoin treasury",
-      "url": "https://cointelegraph.com/news/capital-b-raises-178m-fuel-bitcoin-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-11T09:48:51+00:00",
-      "raw_text": "Capital B raises $17.8M to expand its Bitcoin treasury\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Capital B raises $17.8M to expand its Bitcoin treasury\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZ",
-      "impact": {
-        "t_plus_5m": -0.2418,
-        "t_plus_15m": -0.219,
-        "t_plus_1h": -0.1266
-      }
-    },
-    {
-      "event_id": "a1569415-7b0a-4b35-8d2e-56f06bb48092",
-      "source": "rss:theblock",
-      "title": "Global crypto funds log $858M inflows in sixth straight positive week as Clarity Act progress lifts sentiment: CoinShares",
-      "url": "https://www.theblock.co/post/400688/global-crypto-funds-log-858m-inflows-in-sixth-straight-positive-week-as-clarity-act-progress-lifts-sentiment-coinshares?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-11T09:41:09+00:00",
-      "raw_text": "Global crypto funds log $858M inflows in sixth straight positive week as Clarity Act progress lifts sentiment: CoinShares\n\n<p>Crypto fund inflows hit a sixth straight positive week, led by U.S. products and bitcoin ETFs, amid Clarity Act optimism, per CoinShares.</p>\n\n<p>Crypto fund inflows hit a si",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 85,
+        "avg_1h": 0.15,
+        "avg_24h": -0.51,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 167,
         "avg_1h": -0.16,
         "avg_24h": -0.33,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 85,
-        "avg_1h": 0.18,
-        "avg_24h": -0.51,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
