@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T22:09:32.512884+00:00",
+  "generated_at": "2026-05-15T23:10:48.330410+00:00",
   "events": [
     {
       "event_id": "f3b0a207-8ead-4373-aca9-5e2c8935a2c0",
@@ -32,10 +32,15 @@
       "url": "https://decrypt.co/368105/drake-calls-sam-bankman-frieds-release-critically-panned-album",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-15T21:10:56+00:00",
       "raw_text": "Drake Calls for Sam Bankman-Fried's Release in New, Critically Panned Album\n\nRapper Drake released three new albums on Friday, and described himself on one as “a BTC crypto big-timer.”",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.193,
+        "t_plus_15m": 0.1334
+      }
     },
     {
       "event_id": "f989b851-cbb6-4d1e-b375-d74cbcaef6d2",
