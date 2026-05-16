@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-15T23:10:48.330410+00:00",
+  "generated_at": "2026-05-16T03:56:53.762710+00:00",
   "events": [
+    {
+      "event_id": "22f25173-8a06-4100-b13f-df1e5e9cb595",
+      "source": "rss:cointelegraph",
+      "title": "ICE, CME press US regulators to 'rein in' Hyperliquid energy trading: Report",
+      "url": "https://cointelegraph.com/news/ice-cme-press-us-regulators-rein-hyperliquid-dex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-15T21:42:18+00:00",
+      "raw_text": "ICE, CME press US regulators to 'rein in' Hyperliquid energy trading: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ICE, CME press US regulators to 'rein in' Hyperliquid energy trading: Report\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/5",
+      "impact": {}
+    },
     {
       "event_id": "f3b0a207-8ead-4373-aca9-5e2c8935a2c0",
       "source": "rss:coindesk",
@@ -39,7 +51,8 @@
       "raw_text": "Drake Calls for Sam Bankman-Fried's Release in New, Critically Panned Album\n\nRapper Drake released three new albums on Friday, and described himself on one as “a BTC crypto big-timer.”",
       "impact": {
         "t_plus_5m": 0.193,
-        "t_plus_15m": 0.1334
+        "t_plus_15m": 0.1334,
+        "t_plus_1h": 0.0349
       }
     },
     {
@@ -194,7 +207,8 @@
       "impact": {
         "t_plus_5m": 0.4065,
         "t_plus_15m": 0.1937,
-        "t_plus_1h": -0.0125
+        "t_plus_1h": -0.0125,
+        "t_plus_4h": -0.1484
       }
     },
     {
@@ -6458,25 +6472,13 @@
       "timestamp_utc": "2026-05-11T13:00:50+00:00",
       "raw_text": "USDC issuer Circle raises $222M in Arc token presale valued at $3B\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"USDC issuer Circle raises $222M in Arc token presale valued at $3B\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pb",
       "impact": {}
-    },
-    {
-      "event_id": "917a33f8-0cdc-44b9-bd13-2e2d2fcf698c",
-      "source": "rss:coindesk",
-      "title": "Tom Lee's Bitmine slows down ether purchases after already buying 1 million tokens this year",
-      "url": "https://www.coindesk.com/business/2026/05/11/tom-lee-s-bitmine-slows-down-ether-purchases-after-already-buying-1-million-tokens-this-year",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-11T12:56:58+00:00",
-      "raw_text": "Tom Lee's Bitmine slows down ether purchases after already buying 1 million tokens this year",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
         "count": 200,
-        "avg_1h": -0.06,
+        "avg_1h": -0.05,
         "avg_24h": -0.24,
         "win_rate_1h_gt5pct": 0.0
       },
