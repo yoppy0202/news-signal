@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-05-16T06:31:46.590857+00:00",
+  "generated_at": "2026-05-16T08:57:09.334441+00:00",
   "events": [
+    {
+      "event_id": "b6fa3ed2-0e1f-40b5-80a9-bd73f1dac9e8",
+      "source": "rss:coindesk",
+      "title": "Crypto longs lose $500 million as bitcoin slides to $78,000, SOL and XRP down 5%",
+      "url": "https://www.coindesk.com/markets/2026/05/16/crypto-longs-lose-usd500-million-as-bitcoin-slides-to-usd78-000-sol-and-xrp-down-5",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-16T07:36:02+00:00",
+      "raw_text": "Crypto longs lose $500 million as bitcoin slides to $78,000, SOL and XRP down 5%",
+      "impact": {}
+    },
+    {
+      "event_id": "d6750e09-6c94-45dc-9def-cc30ceb4c382",
+      "source": "rss:coindesk",
+      "title": "Bhutan ‘doesn’t recall’ selling any bitcoin, disputing widely-tracked $1 billion BTC drawdown",
+      "url": "https://www.coindesk.com/markets/2026/05/16/bhutan-doesn-t-recall-selling-any-bitcoin-disputing-widely-tracked-usd1-billion-btc-drawdown",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-16T02:30:00+00:00",
+      "raw_text": "Bhutan ‘doesn’t recall’ selling any bitcoin, disputing widely-tracked $1 billion BTC drawdown",
+      "impact": {}
+    },
+    {
+      "event_id": "1c661f3e-2ade-4f7a-8527-735d681146e9",
+      "source": "rss:cointelegraph",
+      "title": "US CLARITY Act brings ‘major spike of euphoria’ to Bitcoin: Santiment",
+      "url": "https://cointelegraph.com/news/us-clarity-act-brings-major-spike-of-euphoria-to-bitcoin-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-16T02:13:23+00:00",
+      "raw_text": "US CLARITY Act brings ‘major spike of euphoria’ to Bitcoin: Santiment\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US CLARITY Act brings ‘major spike of euphoria’ to Bitcoin: Santiment\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
+      "impact": {}
+    },
+    {
+      "event_id": "793c06e5-e24e-4747-a9ac-1d3bafc95a34",
+      "source": "rss:cointelegraph",
+      "title": "House committee leaders urge Trump to nominate CFTC members, citing CLARITY Act",
+      "url": "https://cointelegraph.com/news/house-committee-nominate-cftc-commissioners-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-15T23:10:35+00:00",
+      "raw_text": "House committee leaders urge Trump to nominate CFTC members, citing CLARITY Act\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"House committee leaders urge Trump to nominate CFTC members, citing CLARITY Act\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/im",
+      "impact": {}
+    },
+    {
+      "event_id": "428d34f3-dbe7-4eca-bd9c-4c74a839a17e",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin Depot filing casts doubt on company’s future amid lawsuits",
+      "url": "https://cointelegraph.com/news/bitcoin-depot-future-legal-judgments-litigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-15T22:17:38+00:00",
+      "raw_text": "Bitcoin Depot filing casts doubt on company’s future amid lawsuits\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin Depot filing casts doubt on company’s future amid lawsuits\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pb",
+      "impact": {}
+    },
     {
       "event_id": "22f25173-8a06-4100-b13f-df1e5e9cb595",
       "source": "rss:cointelegraph",
@@ -6413,72 +6473,12 @@
         "t_plus_15m": -0.1949,
         "t_plus_1h": -0.0796
       }
-    },
-    {
-      "event_id": "ca414e03-9c0e-4493-b1b3-4eca3c697ded",
-      "source": "rss:decrypt",
-      "title": "MoonPay Acquires Dawn Labs, Launches AI Trading Copilot for Prediction Markets",
-      "url": "https://decrypt.co/367333/moonpay-acquires-dawn-labs-ai-trading-copilot-prediction-markets",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-11T13:19:30+00:00",
-      "raw_text": "MoonPay Acquires Dawn Labs, Launches AI Trading Copilot for Prediction Markets\n\nMoonPay’s new Dawn CLI AI trading product lets users turn plain-English prompts into automated crypto trading strategies.",
-      "impact": {}
-    },
-    {
-      "event_id": "3670754b-af1d-459b-abf5-5f1bfc38f2c7",
-      "source": "rss:coindesk",
-      "title": "CoinDesk 20 performance update: SUI surges 25% over weekend",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/05/11/coindesk-20-performance-update-sui-surges-25-over-weekend",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-11T13:17:36+00:00",
-      "raw_text": "CoinDesk 20 performance update: SUI surges 25% over weekend",
-      "impact": {}
-    },
-    {
-      "event_id": "67b7fa3c-ab63-4a13-a396-64718f2c5aa4",
-      "source": "rss:theblock",
-      "title": "Neuberger backs Ripple Prime with $200 million debt line for margin lending expansion: Bloomberg",
-      "url": "https://www.theblock.co/post/400731/neuberger-backs-ripple-prime-with-200-million-debt-line-for-margin-lending-expansion-bloomberg?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-11T13:13:54+00:00",
-      "raw_text": "Neuberger backs Ripple Prime with $200 million debt line for margin lending expansion: Bloomberg\n\n<p>Ripple Prime secured a $200 million Neuberger Berman facility to expand margin lending across equities, fixed income and crypto.</p>\n\n<p>Ripple Prime secured a $200 million Neuberger Berman facility ",
-      "impact": {}
-    },
-    {
-      "event_id": "a14e93df-4c05-4f45-afd2-6da17f798949",
-      "source": "rss:decrypt",
-      "title": "Strategy Resumes Bitcoin Buys as Saylor Shifts Focus to 'Never Be a Net Seller'",
-      "url": "https://decrypt.co/367391/strategy-resumes-bitcoin-buys-as-saylor-shifts-focus-to-never-be-a-net-seller",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-11T13:05:35+00:00",
-      "raw_text": "Strategy Resumes Bitcoin Buys as Saylor Shifts Focus to 'Never Be a Net Seller'\n\nThe treasury firm resumed Bitcoin buys after last week's pause, with Michael Saylor saying that Strategy would buy 30 BTC for every one sold.",
-      "impact": {}
-    },
-    {
-      "event_id": "7894c73d-f52a-4d95-9b42-c1a51fbc7ecd",
-      "source": "rss:cointelegraph",
-      "title": "USDC issuer Circle raises $222M in Arc token presale valued at $3B",
-      "url": "https://cointelegraph.com/news/circle-raise-222-million-arc-token-presale-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-11T13:00:50+00:00",
-      "raw_text": "USDC issuer Circle raises $222M in Arc token presale valued at $3B\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"USDC issuer Circle raises $222M in Arc token presale valued at $3B\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pb",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 200,
+        "count": 201,
         "avg_1h": -0.05,
         "avg_24h": -0.24,
         "win_rate_1h_gt5pct": 0.0
@@ -6496,7 +6496,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 85,
+        "count": 84,
         "avg_1h": 0.15,
         "avg_24h": -0.51,
         "win_rate_1h_gt5pct": 0.0
