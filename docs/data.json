@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T22:01:11.803906+00:00",
+  "generated_at": "2026-05-16T23:03:44.051772+00:00",
   "events": [
     {
       "event_id": "d486c931-876f-439d-b903-aff474485143",
@@ -20,10 +20,17 @@
       "url": "https://www.theblock.co/post/401553/vaneck-grayscale-file-fresh-bnb-etf-amendments-as-race-for-next-altcoin-spot-etf-accelerates?utm_source=rss&utm_medium=rss",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BNB",
+        "TRX"
+      ],
       "timestamp_utc": "2026-05-16T20:08:19+00:00",
       "raw_text": "VanEck, Grayscale file fresh BNB ETF amendments as race for next altcoin spot ETF accelerates\n\n<p>Canary Capital, meanwhile, continues to push forward on its first-of-its-kind staked TRX ETF, also filing an amendment on Friday. </p>\n\n<p>Canary Capital, meanwhile, continues to push forward on its fir",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0575,
+        "t_plus_15m": 0.0941,
+        "t_plus_1h": -0.0541
+      }
     },
     {
       "event_id": "4fba7030-a892-4d1a-9fd1-72d6f5497b1f",
@@ -52,7 +59,8 @@
       "impact": {
         "t_plus_5m": 0.0354,
         "t_plus_15m": 0.0845,
-        "t_plus_1h": 0.0309
+        "t_plus_1h": 0.0309,
+        "t_plus_4h": 0.1754
       }
     },
     {
@@ -82,7 +90,8 @@
       "impact": {
         "t_plus_5m": 0.0864,
         "t_plus_15m": 0.1256,
-        "t_plus_1h": -0.003
+        "t_plus_1h": -0.003,
+        "t_plus_4h": 0.1285
       }
     },
     {
@@ -6501,7 +6510,7 @@
       },
       "macro": {
         "count": 84,
-        "avg_1h": 0.16,
+        "avg_1h": 0.14,
         "avg_24h": -0.3,
         "win_rate_1h_gt5pct": 0.0
       },
