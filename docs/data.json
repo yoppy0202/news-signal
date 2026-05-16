@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T15:12:50.968574+00:00",
+  "generated_at": "2026-05-16T17:12:18.265734+00:00",
   "events": [
     {
       "event_id": "0cfab6d5-4351-45f1-8a4c-3cc96e1801cb",
@@ -11,6 +11,18 @@
       "tokens": [],
       "timestamp_utc": "2026-05-16T15:00:00+00:00",
       "raw_text": "Jump Crypto’s ‘Firedancer’ is taking a slow and steady approach to its long-awaited Solana infrastructure rollout",
+      "impact": {}
+    },
+    {
+      "event_id": "b3af4338-e473-483d-b468-c2f836f8ca59",
+      "source": "rss:cointelegraph",
+      "title": "OpenAI partners with Malta to give all citizens free ChatGPT Plus access",
+      "url": "https://cointelegraph.com/news/openai-partners-with-malta-to-give-all-citizens-free-chatgpt-plus-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-16T14:12:55+00:00",
+      "raw_text": "OpenAI partners with Malta to give all citizens free ChatGPT Plus access\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OpenAI partners with Malta to give all citizens free ChatGPT Plus access\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
       "impact": {}
     },
     {
@@ -56,10 +68,16 @@
       "url": "https://www.coindesk.com/markets/2026/05/15/xrp-beat-bitcoin-gains-as-clarity-act-advanced-but-a-real-bullrun-still-needs-congress",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-05-16T11:30:00+00:00",
       "raw_text": "XRP beat bitcoin gains as CLARITY Act advanced, but a real bullrun still needs Congress",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0351,
+        "t_plus_15m": 0.0743,
+        "t_plus_1h": -0.1207
+      }
     },
     {
       "event_id": "1fb5ad0e-28b7-426b-863e-5bbcc17eaf30",
@@ -643,7 +661,8 @@
       "impact": {
         "t_plus_5m": -0.2011,
         "t_plus_15m": -0.1885,
-        "t_plus_1h": -0.1431
+        "t_plus_1h": -0.1431,
+        "t_plus_24h": -1.3504
       }
     },
     {
@@ -6457,26 +6476,14 @@
       "timestamp_utc": "2026-05-11T14:18:58+00:00",
       "raw_text": "The biggest consensus overhaul in Solana history is officially live for testing",
       "impact": {}
-    },
-    {
-      "event_id": "991fa37e-23af-47af-952e-ead29d001790",
-      "source": "rss:theblock",
-      "title": "American Bankers Association CEO makes final-hour push for tightened limits on stablecoin rewards ahead of Senate committee vote",
-      "url": "https://www.theblock.co/post/400757/american-bankers-association-ceo-makes-final-hour-push-for-tightened-limits-on-stablecoin-rewards-ahead-of-senate-committee-vote?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-11T14:18:50+00:00",
-      "raw_text": "American Bankers Association CEO makes final-hour push for tightened limits on stablecoin rewards ahead of Senate committee vote\n\n<p>Days before a key Senate committee to vote on crypto legislation, ABA CEO Rob Nichols sent a letter to bank executives. </p>\n\n<p>Days before a key Senate committee to ",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 166,
+        "count": 167,
         "avg_1h": -0.16,
-        "avg_24h": -0.57,
+        "avg_24h": -0.66,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
@@ -6486,7 +6493,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 200,
+        "count": 199,
         "avg_1h": -0.0,
         "avg_24h": -0.28,
         "win_rate_1h_gt5pct": 0.0
