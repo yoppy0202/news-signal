@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-05-16T21:01:12.257186+00:00",
+  "generated_at": "2026-05-16T22:01:11.803906+00:00",
   "events": [
+    {
+      "event_id": "d486c931-876f-439d-b903-aff474485143",
+      "source": "rss:theblock",
+      "title": "House Agriculture leaders press Trump to appoint CFTC commissioners as CLARITY Act advances in Senate",
+      "url": "https://www.theblock.co/post/401558/house-agriculture-leaders-press-trump-to-appoint-cftc-commissioners-as-clarity-act-advances-in-senate?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-16T20:57:27+00:00",
+      "raw_text": "House Agriculture leaders press Trump to appoint CFTC commissioners as CLARITY Act advances in Senate\n\n<p>Chair Michael Selig has been the agency's sole commissioner since December, with four seats sitting empty, as Trump has not nominated replacements.</p>\n\n<p>Chair Michael Selig has been the agenc",
+      "impact": {}
+    },
+    {
+      "event_id": "0bda10c0-37cc-4cff-9dac-21ecc6c9d003",
+      "source": "rss:theblock",
+      "title": "VanEck, Grayscale file fresh BNB ETF amendments as race for next altcoin spot ETF accelerates",
+      "url": "https://www.theblock.co/post/401553/vaneck-grayscale-file-fresh-bnb-etf-amendments-as-race-for-next-altcoin-spot-etf-accelerates?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-16T20:08:19+00:00",
+      "raw_text": "VanEck, Grayscale file fresh BNB ETF amendments as race for next altcoin spot ETF accelerates\n\n<p>Canary Capital, meanwhile, continues to push forward on its first-of-its-kind staked TRX ETF, also filing an amendment on Friday. </p>\n\n<p>Canary Capital, meanwhile, continues to push forward on its fir",
+      "impact": {}
+    },
     {
       "event_id": "4fba7030-a892-4d1a-9fd1-72d6f5497b1f",
       "source": "rss:cointelegraph",
@@ -6465,40 +6489,10 @@
       "timestamp_utc": "2026-05-11T15:03:28+00:00",
       "raw_text": "Tom Lee’s BitMine Slows Ethereum Buying Pace, Adding $62 Million in ETH\n\nEthereum treasury firm BitMine Immersion Technologies slowed its ETH purchase pace, adding just $62 million worth last week.",
       "impact": {}
-    },
-    {
-      "event_id": "e80a4c58-a814-4604-89a4-7dc1ae53c5b1",
-      "source": "rss:decrypt",
-      "title": "Bank of England Chief Flags ‘Coming Wrestle' With US on Stablecoin Oversight",
-      "url": "https://decrypt.co/367399/bank-of-england-chief-flags-coming-wrestle-with-us-on-stablecoin-oversight",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-11T14:49:12+00:00",
-      "raw_text": "Bank of England Chief Flags ‘Coming Wrestle' With US on Stablecoin Oversight\n\nThe BoE Governor warned U.S. dollar tokens could flood Britain in a crisis, given the gap in redemption guarantees under the GENIUS Act.",
-      "impact": {}
-    },
-    {
-      "event_id": "77bd0cb5-abeb-456e-8e95-0b2124eda611",
-      "source": "rss:coindesk",
-      "title": "Banking groups escalate fight over stablecoin yield ahead of Senate vote",
-      "url": "https://www.coindesk.com/policy/2026/05/11/banking-groups-escalate-fight-over-stablecoin-yield-ahead-of-senate-vote",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-11T14:43:29+00:00",
-      "raw_text": "Banking groups escalate fight over stablecoin yield ahead of Senate vote",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 199,
-        "avg_1h": -0.0,
-        "avg_24h": -0.28,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
         "count": 167,
         "avg_1h": -0.15,
@@ -6506,9 +6500,15 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 83,
+        "count": 84,
         "avg_1h": 0.16,
         "avg_24h": -0.3,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 198,
+        "avg_1h": -0.0,
+        "avg_24h": -0.28,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
