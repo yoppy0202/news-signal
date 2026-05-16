@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-05-16T13:55:42.414204+00:00",
+  "generated_at": "2026-05-16T15:12:50.968574+00:00",
   "events": [
+    {
+      "event_id": "0cfab6d5-4351-45f1-8a4c-3cc96e1801cb",
+      "source": "rss:coindesk",
+      "title": "Jump Crypto’s ‘Firedancer’ is taking a slow and steady approach to its long-awaited Solana infrastructure rollout",
+      "url": "https://www.coindesk.com/tech/2026/05/16/jump-crypto-s-firedancer-is-taking-a-slow-and-steady-approach-to-its-long-awaited-solana-infrastructure-rollout",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-16T15:00:00+00:00",
+      "raw_text": "Jump Crypto’s ‘Firedancer’ is taking a slow and steady approach to its long-awaited Solana infrastructure rollout",
+      "impact": {}
+    },
+    {
+      "event_id": "a4d63f19-661f-4d4b-b582-61476f98db3e",
+      "source": "rss:coindesk",
+      "title": "Crypto users are choosing juicy yields over protection, putting billions at risk of hacks",
+      "url": "https://www.coindesk.com/business/2026/05/16/crypto-users-are-choosing-juicy-yields-over-protection-putting-billions-at-risk-of-hacks",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-16T14:00:00+00:00",
+      "raw_text": "Crypto users are choosing juicy yields over protection, putting billions at risk of hacks",
+      "impact": {}
+    },
+    {
+      "event_id": "17dadded-f805-4944-b862-93cbdbfc8994",
+      "source": "rss:decrypt",
+      "title": "What Is AI Jailbreaking? A Beginner's Guide to the Cat-and-Mouse Game Behind Every Chatbot",
+      "url": "https://decrypt.co/resources/what-is-ai-jailbreaking-explained",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-16T13:01:02+00:00",
+      "raw_text": "What Is AI Jailbreaking? A Beginner's Guide to the Cat-and-Mouse Game Behind Every Chatbot\n\nFrom Cydia to ChatGPT, jailbreaking went from cracking iPhones to liberating LLMs. Here's how it works, who's doing it, and why every AI lab is losing sleep.",
+      "impact": {}
+    },
+    {
+      "event_id": "c4f4ea91-5396-411e-ac01-2ecf4ca488a0",
+      "source": "rss:coindesk",
+      "title": "The $293 million KelpDAO hack shows why DeFi is finally being forced to grow up",
+      "url": "https://www.coindesk.com/tech/2026/05/16/the-usd293-million-kelpdao-hack-shows-why-defi-is-finally-being-forced-to-grow-up",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-16T13:00:00+00:00",
+      "raw_text": "The $293 million KelpDAO hack shows why DeFi is finally being forced to grow up",
+      "impact": {}
+    },
+    {
+      "event_id": "d94e1fc4-cc22-412e-8191-183d0168622e",
+      "source": "rss:coindesk",
+      "title": "XRP beat bitcoin gains as CLARITY Act advanced, but a real bullrun still needs Congress",
+      "url": "https://www.coindesk.com/markets/2026/05/15/xrp-beat-bitcoin-gains-as-clarity-act-advanced-but-a-real-bullrun-still-needs-congress",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-16T11:30:00+00:00",
+      "raw_text": "XRP beat bitcoin gains as CLARITY Act advanced, but a real bullrun still needs Congress",
+      "impact": {}
+    },
     {
       "event_id": "1fb5ad0e-28b7-426b-863e-5bbcc17eaf30",
       "source": "rss:cointelegraph",
@@ -728,7 +788,8 @@
       "impact": {
         "t_plus_5m": 1.1913,
         "t_plus_15m": 1.0221,
-        "t_plus_1h": -0.3935
+        "t_plus_1h": -0.3935,
+        "t_plus_24h": -2.1381
       }
     },
     {
@@ -798,10 +859,14 @@
       "url": "https://cointelegraph.com/markets/bitcoin-stalls-80k-despite-clarity-act-pass-what-will-trigger-breakout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-15T12:49:42+00:00",
       "raw_text": "Bitcoin stalls above $80K despite CLARITY Act pass: What will trigger a breakout?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin stalls above $80K despite CLARITY Act pass: What will trigger a breakout?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.co",
-      "impact": {}
+      "impact": {
+        "t_plus_24h": -1.5341
+      }
     },
     {
       "event_id": "326cb2c8-ea86-47c4-89fc-42e2dc5a7971",
@@ -6404,102 +6469,31 @@
       "timestamp_utc": "2026-05-11T14:18:50+00:00",
       "raw_text": "American Bankers Association CEO makes final-hour push for tightened limits on stablecoin rewards ahead of Senate committee vote\n\n<p>Days before a key Senate committee to vote on crypto legislation, ABA CEO Rob Nichols sent a letter to bank executives. </p>\n\n<p>Days before a key Senate committee to ",
       "impact": {}
-    },
-    {
-      "event_id": "ef388e84-9340-4d7c-a624-1fb7e9803fcc",
-      "source": "rss:theblock",
-      "title": "‘Groundbreaking’ prediction market ETFs launch delayed again as SEC reviews more: analyst",
-      "url": "https://www.theblock.co/post/400745/groundbreaking-prediction-market-etfs-launch-delayed-again-as-sec-reviews-more-analyst?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-11T14:04:55+00:00",
-      "raw_text": "‘Groundbreaking’ prediction market ETFs launch delayed again as SEC reviews more: analyst\n\n<p>ETFs would offer investors a way to wager on the outcome of elections and economic events using the publicly-traded financial instruments.</p>\n\n<p>ETFs would offer investors a way to wager on the outcome of",
-      "impact": {}
-    },
-    {
-      "event_id": "15e3ca72-8ac7-4258-85b1-ddb5ed2b6cc2",
-      "source": "rss:cointelegraph",
-      "title": "Augustus gets conditional OCC approval for AI and stablecoin bank",
-      "url": "https://cointelegraph.com/news/augustus-wins-conditional-occ-approval-for-ai-powered-stablecoin-clearing-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-11T14:03:01+00:00",
-      "raw_text": "Augustus gets conditional OCC approval for AI and stablecoin bank\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Augustus gets conditional OCC approval for AI and stablecoin bank\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWF",
-      "impact": {}
-    },
-    {
-      "event_id": "bb91015f-10e9-46f7-b89c-491f635b004b",
-      "source": "rss:decrypt",
-      "title": "Ripple Lands $200 Million Financing Facility to Expand Institutional Crypto Brokerage",
-      "url": "https://decrypt.co/367396/ripple-200-million-financing-facility-expand-institutional-crypto-brokerage",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-05-11T14:01:32+00:00",
-      "raw_text": "Ripple Lands $200 Million Financing Facility to Expand Institutional Crypto Brokerage\n\nThe XRP-linked Ripple secures financing from Neuberger Specialty Finance to fuel growth of its prime brokerage platform.",
-      "impact": {
-        "t_plus_5m": -0.4495,
-        "t_plus_15m": -0.0881,
-        "t_plus_1h": 0.0834,
-        "t_plus_24h": -1.7702
-      }
-    },
-    {
-      "event_id": "564357f4-cd07-450a-bfab-1b167038e898",
-      "source": "rss:cointelegraph",
-      "title": "Strategy resumes Bitcoin acquisitions with $43M BTC buy",
-      "url": "https://cointelegraph.com/news/strategy-resumes-bitcoin-acquisitions-43m-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-11T13:53:40+00:00",
-      "raw_text": "Strategy resumes Bitcoin acquisitions with $43M BTC buy\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy resumes Bitcoin acquisitions with $43M BTC buy\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9",
-      "impact": {
-        "t_plus_24h": -1.1081
-      }
-    },
-    {
-      "event_id": "33aaea89-dd6b-4fa2-9746-54a3cd8540f6",
-      "source": "rss:coindesk",
-      "title": "Ripple raises $200 million from Neuberger Berman to expand its Ripple Prime platform",
-      "url": "https://www.coindesk.com/business/2026/05/11/ripple-raises-usd200-million-from-neuberger-berman-to-expand-its-ripple-prime-platform",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-11T13:47:38+00:00",
-      "raw_text": "Ripple raises $200 million from Neuberger Berman to expand its Ripple Prime platform",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 166,
+        "avg_1h": -0.16,
+        "avg_24h": -0.57,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
-        "count": 33,
+        "count": 35,
         "avg_1h": 0.25,
         "avg_24h": -1.06,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 201,
+        "count": 200,
         "avg_1h": -0.0,
-        "avg_24h": -0.24,
+        "avg_24h": -0.28,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 85,
-        "avg_1h": 0.15,
-        "avg_24h": -0.51,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 165,
-        "avg_1h": -0.16,
+        "count": 83,
+        "avg_1h": 0.16,
         "avg_24h": -0.3,
         "win_rate_1h_gt5pct": 0.0
       },
