@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-16T10:35:25.230540+00:00",
+  "generated_at": "2026-05-16T12:01:44.238097+00:00",
   "events": [
+    {
+      "event_id": "1fb5ad0e-28b7-426b-863e-5bbcc17eaf30",
+      "source": "rss:cointelegraph",
+      "title": "THORChain confirms $10M exploit, rolls out recovery portal for affected users",
+      "url": "https://cointelegraph.com/news/thorchain-confirms-10m-exploit-rolls-out-recovery-portal-for-affected-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-16T09:47:44+00:00",
+      "raw_text": "THORChain confirms $10M exploit, rolls out recovery portal for affected users\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"THORChain confirms $10M exploit, rolls out recovery portal for affected users\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
+      "impact": {}
+    },
     {
       "event_id": "9e8ab0ff-561a-4a36-a236-23765968dd55",
       "source": "rss:cointelegraph",
@@ -6462,22 +6474,16 @@
       "timestamp_utc": "2026-05-11T13:47:38+00:00",
       "raw_text": "Ripple raises $200 million from Neuberger Berman to expand its Ripple Prime platform",
       "impact": {}
-    },
-    {
-      "event_id": "92b965f4-a31a-4d39-9140-ed5b32027837",
-      "source": "rss:cointelegraph",
-      "title": "DAPPOS launches xBubble: An AI agent that learns and uses AI for you",
-      "url": "https://cointelegraph.com/press-releases/dappos-launches-xbubble-an-ai-agent-that-learns-and-uses-ai-for-you?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-11T13:30:00+00:00",
-      "raw_text": "DAPPOS launches xBubble: An AI agent that learns and uses AI for you\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DAPPOS launches xBubble: An AI agent that learns and uses AI for you\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zM",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 33,
+        "avg_1h": 0.25,
+        "avg_24h": -1.06,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 201,
         "avg_1h": -0.0,
@@ -6491,15 +6497,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 166,
+        "count": 165,
         "avg_1h": -0.16,
         "avg_24h": -0.3,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 32,
-        "avg_1h": 0.25,
-        "avg_24h": -1.06,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
