@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-05-16T08:57:09.334441+00:00",
+  "generated_at": "2026-05-16T10:35:25.230540+00:00",
   "events": [
+    {
+      "event_id": "9e8ab0ff-561a-4a36-a236-23765968dd55",
+      "source": "rss:cointelegraph",
+      "title": "Sharplink CEO points out 3 catalysts for Ethereum's price to surge higher",
+      "url": "https://cointelegraph.com/news/sharplink-ceo-points-out-these-3-catalysts-for-ethereum-to-reach-new-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-16T09:00:52+00:00",
+      "raw_text": "Sharplink CEO points out 3 catalysts for Ethereum's price to surge higher\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Sharplink CEO points out 3 catalysts for Ethereum's price to surge higher\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
+      "impact": {}
+    },
+    {
+      "event_id": "a467a072-aac0-40f0-81be-69448cbd5b1a",
+      "source": "rss:cointelegraph",
+      "title": "Spot Bitcoin ETFs bleed $1B in a week, snapping six-week inflow run",
+      "url": "https://cointelegraph.com/news/spot-bitcoin-etfs-bleed-1b-in-a-week-snapping-six-week-inflow-run?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-16T08:19:20+00:00",
+      "raw_text": "Spot Bitcoin ETFs bleed $1B in a week, snapping six-week inflow run\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Spot Bitcoin ETFs bleed $1B in a week, snapping six-week inflow run\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1",
+      "impact": {}
+    },
     {
       "event_id": "b6fa3ed2-0e1f-40b5-80a9-bd73f1dac9e8",
       "source": "rss:coindesk",
@@ -8,10 +32,17 @@
       "url": "https://www.coindesk.com/markets/2026/05/16/crypto-longs-lose-usd500-million-as-bitcoin-slides-to-usd78-000-sol-and-xrp-down-5",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "SOL",
+        "XRP"
+      ],
       "timestamp_utc": "2026-05-16T07:36:02+00:00",
       "raw_text": "Crypto longs lose $500 million as bitcoin slides to $78,000, SOL and XRP down 5%",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0174,
+        "t_plus_15m": 0.0998,
+        "t_plus_1h": 0.0492
+      }
     },
     {
       "event_id": "d6750e09-6c94-45dc-9def-cc30ceb4c382",
@@ -20,10 +51,17 @@
       "url": "https://www.coindesk.com/markets/2026/05/16/bhutan-doesn-t-recall-selling-any-bitcoin-disputing-widely-tracked-usd1-billion-btc-drawdown",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-16T02:30:00+00:00",
       "raw_text": "Bhutan ‘doesn’t recall’ selling any bitcoin, disputing widely-tracked $1 billion BTC drawdown",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.9408,
+        "t_plus_15m": 0.9181,
+        "t_plus_1h": 0.9885,
+        "t_plus_4h": 0.5301
+      }
     },
     {
       "event_id": "1c661f3e-2ade-4f7a-8527-735d681146e9",
@@ -6436,51 +6474,20 @@
       "timestamp_utc": "2026-05-11T13:30:00+00:00",
       "raw_text": "DAPPOS launches xBubble: An AI agent that learns and uses AI for you\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DAPPOS launches xBubble: An AI agent that learns and uses AI for you\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zM",
       "impact": {}
-    },
-    {
-      "event_id": "c80ce346-971e-4886-9765-3924d702f4f2",
-      "source": "rss:theblock",
-      "title": "From hack to OP Stack: Ronin to migrate from gaming sidechain to Ethereum Layer 2 four years after Lazarus attack",
-      "url": "https://www.theblock.co/post/400732/from-hack-to-op-stack-ronin-to-migrate-from-gaming-sidechain-to-ethereum-layer-2-four-years-after-lazarus-attack?utm_source=rss&utm_medium=rss",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [
-        "OP"
-      ],
-      "timestamp_utc": "2026-05-11T13:21:51+00:00",
-      "raw_text": "From hack to OP Stack: Ronin to migrate from gaming sidechain to Ethereum Layer 2 four years after Lazarus attack\n\n<p>Ronin migrates from an Ethereum sidechain to an OP Stack Layer 2 on May 12, four years after Lazarus hackers stole over $600M in crypto.</p>\n\n<p>Ronin migrates from an Ethereum sidec",
-      "impact": {
-        "t_plus_5m": 0.0962,
-        "t_plus_15m": -0.067,
-        "t_plus_1h": -0.1318,
-        "t_plus_24h": -2.767
-      }
-    },
-    {
-      "event_id": "dce16a22-7dd1-4406-9f45-2d85605dd7c5",
-      "source": "rss:theblock",
-      "title": "‘Crypto spring has commenced,’ Tom Lee says as Bitmine’s weekly accumulation slows below 100,000 ETH pace",
-      "url": "https://www.theblock.co/post/400735/crypto-spring-tom-lee-bitmine-weekly-accumulation-slows-100000-eth?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-05-11T13:19:41+00:00",
-      "raw_text": "‘Crypto spring has commenced,’ Tom Lee says as Bitmine’s weekly accumulation slows below 100,000 ETH pace\n\n<p>Bitmine Immersion bought another 26,659 ETH ($62 million) last week and now holds more than 5.2 million ETH in total.</p>\n\n<p>Bitmine Immersion bought another 26,659 ETH ($62 million) last w",
-      "impact": {
-        "t_plus_5m": 0.0939,
-        "t_plus_15m": -0.1949,
-        "t_plus_1h": -0.0796
-      }
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
         "count": 201,
-        "avg_1h": -0.05,
+        "avg_1h": -0.0,
         "avg_24h": -0.24,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 85,
+        "avg_1h": 0.15,
+        "avg_24h": -0.51,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
@@ -6490,15 +6497,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 33,
-        "avg_1h": 0.17,
-        "avg_24h": -1.92,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 84,
-        "avg_1h": 0.15,
-        "avg_24h": -0.51,
+        "count": 32,
+        "avg_1h": 0.25,
+        "avg_24h": -1.06,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
