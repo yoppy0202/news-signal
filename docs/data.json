@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-16T19:20:44.564241+00:00",
+  "generated_at": "2026-05-16T21:01:12.257186+00:00",
   "events": [
+    {
+      "event_id": "4fba7030-a892-4d1a-9fd1-72d6f5497b1f",
+      "source": "rss:cointelegraph",
+      "title": "Strategy to repurchase $1.5B of 2029 convertible notes",
+      "url": "https://cointelegraph.com/news/strategy-repurchase-15b-2029-convertible-notes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-16T19:03:08+00:00",
+      "raw_text": "Strategy to repurchase $1.5B of 2029 convertible notes\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy to repurchase $1.5B of 2029 convertible notes\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZ",
+      "impact": {}
+    },
     {
       "event_id": "7b8895e8-d8c0-4ebd-b37c-a375b1314b2a",
       "source": "rss:decrypt",
@@ -8,10 +20,16 @@
       "url": "https://decrypt.co/368116/justin-sun-liberland-awards-ethereum-founder-vitalik-buterin-top-honor",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-05-16T17:34:01+00:00",
       "raw_text": "Justin Sun-Led Liberland Micronation Awards Ethereum Founder Vitalik Buterin Its Top Honor\n\nThe micronation honored Vitalik Buterin during ETH Prague 2026 as it continued promoting blockchain-based governance and digital citizenship.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0354,
+        "t_plus_15m": 0.0845,
+        "t_plus_1h": 0.0309
+      }
     },
     {
       "event_id": "cc1fa36b-2cb9-48fd-8c05-b5445d68aa77",
@@ -32,10 +50,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-analysis-bear-trap-btc-price-passes-two-week-lows-under-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-16T17:07:39+00:00",
       "raw_text": "Bitcoin analysis sees 'bear trap' as BTC price passes two-week lows under $78K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin analysis sees 'bear trap' as BTC price passes two-week lows under $78K\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/imag",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0864,
+        "t_plus_15m": 0.1256,
+        "t_plus_1h": -0.003
+      }
     },
     {
       "event_id": "0cfab6d5-4351-45f1-8a4c-3cc96e1801cb",
@@ -6465,25 +6489,19 @@
       "timestamp_utc": "2026-05-11T14:43:29+00:00",
       "raw_text": "Banking groups escalate fight over stablecoin yield ahead of Senate vote",
       "impact": {}
-    },
-    {
-      "event_id": "251706cf-6469-4394-bc1a-3c1a236bd90e",
-      "source": "rss:coindesk",
-      "title": "Corpay taps BVNK to bring stablecoin wallets to corporate payments",
-      "url": "https://www.coindesk.com/business/2026/05/11/corpay-taps-bvnk-to-bring-stablecoin-wallets-to-corporate-payments",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-11T14:34:29+00:00",
-      "raw_text": "Corpay taps BVNK to bring stablecoin wallets to corporate payments",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 199,
+        "avg_1h": -0.0,
+        "avg_24h": -0.28,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 167,
-        "avg_1h": -0.16,
+        "avg_1h": -0.15,
         "avg_24h": -0.66,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6491,12 +6509,6 @@
         "count": 83,
         "avg_1h": 0.16,
         "avg_24h": -0.3,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 199,
-        "avg_1h": -0.0,
-        "avg_24h": -0.28,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
