@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-17T04:17:12.462278+00:00",
+  "generated_at": "2026-05-17T07:42:15.045610+00:00",
   "events": [
+    {
+      "event_id": "e0af4fe9-4656-44ee-a812-6cc4c2ca93e6",
+      "source": "rss:cointelegraph",
+      "title": "Michael Saylor floated Bitcoin sales idea to avoid 'impairing' the asset",
+      "url": "https://cointelegraph.com/news/strategy-mstr-michael-saylor-bitcoin-sell-statement-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-17T05:27:23+00:00",
+      "raw_text": "Michael Saylor floated Bitcoin sales idea to avoid 'impairing' the asset\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Michael Saylor floated Bitcoin sales idea to avoid 'impairing' the asset\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
+      "impact": {}
+    },
+    {
+      "event_id": "21fdbc2d-8067-4054-a440-dbd7a9c2e7e7",
+      "source": "rss:cointelegraph",
+      "title": "US CLARITY Act will be a ‘boon for domestic innovation’: A16z",
+      "url": "https://cointelegraph.com/news/us-clarity-act-will-be-a-boon-for-domestic-innovation-a16z?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-17T01:09:05+00:00",
+      "raw_text": "US CLARITY Act will be a ‘boon for domestic innovation’: A16z\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US CLARITY Act will be a ‘boon for domestic innovation’: A16z\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3R",
+      "impact": {}
+    },
+    {
+      "event_id": "b7ab6753-d682-4bd7-8c98-5b77a2eae236",
+      "source": "rss:cointelegraph",
+      "title": "STRC preferred stock investors are mispricing major 'dislocation' risk: Analyst",
+      "url": "https://cointelegraph.com/news/strc-preferred-investors-misprice-dislocation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-16T22:50:56+00:00",
+      "raw_text": "STRC preferred stock investors are mispricing major 'dislocation' risk: Analyst\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"STRC preferred stock investors are mispricing major 'dislocation' risk: Analyst\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/im",
+      "impact": {}
+    },
     {
       "event_id": "d486c931-876f-439d-b903-aff474485143",
       "source": "rss:theblock",
@@ -29,7 +65,8 @@
       "impact": {
         "t_plus_5m": 0.0575,
         "t_plus_15m": 0.0941,
-        "t_plus_1h": -0.0541
+        "t_plus_1h": -0.0541,
+        "t_plus_4h": -0.0148
       }
     },
     {
@@ -6462,42 +6499,6 @@
       "timestamp_utc": "2026-05-11T16:06:47+00:00",
       "raw_text": "American Bankers Attempt Last Ditch Effort To Kill Crypto Market Structure Bill Regarding Stablecoins\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/American-Bankers-Attempt-Last-Ditch-Effort-To-Kil",
       "impact": {}
-    },
-    {
-      "event_id": "3e73447d-181e-4a7a-bc69-9ee701e4326b",
-      "source": "rss:theblock",
-      "title": "MoonPay launching AI agent tool for prediction market trading after acquiring Dawn Labs",
-      "url": "https://www.theblock.co/post/400758/moonpay-launching-ai-agent-tool-prediction-market-trading-acquiring-dawn-labs?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-11T15:45:01+00:00",
-      "raw_text": "MoonPay launching AI agent tool for prediction market trading after acquiring Dawn Labs\n\n<p>The new AI-powered tool is designed to help \"non-technical users\" craft prediction market trading strategies.</p>\n\n<p>The new AI-powered tool is designed to help \"non-technical users\" craft prediction market ",
-      "impact": {}
-    },
-    {
-      "event_id": "0097bdc0-b36e-4097-a888-1d54d6053429",
-      "source": "rss:decrypt",
-      "title": "OpenAI Just Launched a Consulting Arm to Help Companies Deploy AI",
-      "url": "https://decrypt.co/367403/openai-launched-consulting-arm-help-companies-deploy-ai",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-11T15:15:15+00:00",
-      "raw_text": "OpenAI Just Launched a Consulting Arm to Help Companies Deploy AI\n\nThe OpenAI Deployment Company launches with $4 billion, 19 investors, and a Palantir-style playbook to embed engineers inside enterprises.",
-      "impact": {}
-    },
-    {
-      "event_id": "a5abff9c-1e7a-49ad-adb9-7c813e24e5cc",
-      "source": "rss:decrypt",
-      "title": "Tom Lee’s BitMine Slows Ethereum Buying Pace, Adding $62 Million in ETH",
-      "url": "https://decrypt.co/367398/tom-lee-bitmine-slows-ethereum-buying-pace-62-million-eth",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-11T15:03:28+00:00",
-      "raw_text": "Tom Lee’s BitMine Slows Ethereum Buying Pace, Adding $62 Million in ETH\n\nEthereum treasury firm BitMine Immersion Technologies slowed its ETH purchase pace, adding just $62 million worth last week.",
-      "impact": {}
     }
   ],
   "stats": {
@@ -6509,13 +6510,13 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 84,
+        "count": 85,
         "avg_1h": 0.14,
         "avg_24h": -0.3,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 198,
+        "count": 197,
         "avg_1h": -0.0,
         "avg_24h": -0.28,
         "win_rate_1h_gt5pct": 0.0
