@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-17T22:06:02.960950+00:00",
+  "generated_at": "2026-05-17T23:08:51.116258+00:00",
   "events": [
+    {
+      "event_id": "f6853ea7-ffd1-422b-94fb-6e90da246100",
+      "source": "rss:cointelegraph",
+      "title": "Bernstein says Figure's Q1 results shows uniqueness of blockchain marketplaces",
+      "url": "https://cointelegraph.com/news/bernstein-say-figures-q1-shows-uniqueness-of-blockchain-marketplaces?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-17T21:14:00+00:00",
+      "raw_text": "Bernstein says Figure's Q1 results shows uniqueness of blockchain marketplaces\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bernstein says Figure's Q1 results shows uniqueness of blockchain marketplaces\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/imag",
+      "impact": {}
+    },
     {
       "event_id": "544de904-ac5e-47df-b47b-9a2ed1114879",
       "source": "rss:theblock",
@@ -64,7 +76,8 @@
       "impact": {
         "t_plus_5m": -0.0779,
         "t_plus_15m": -0.088,
-        "t_plus_1h": 0.0113
+        "t_plus_1h": 0.0113,
+        "t_plus_4h": 0.2491
       }
     },
     {
@@ -6484,30 +6497,18 @@
       "timestamp_utc": "2026-05-11T18:45:09+00:00",
       "raw_text": "Major Solana Upgrade Alpenglow Begins Testing Ahead of Full Rollout\n\nSolana's Alpenglow consensus protocol upgrade is one step closer to being rolled out on the layer-1 network's mainnet.",
       "impact": {}
-    },
-    {
-      "event_id": "7d449e5a-29da-4edf-81e1-9519108d2a29",
-      "source": "rss:coindesk",
-      "title": "Kraken parent Payward seeks fresh funding at $20 billion valuation ahead of planned IPO",
-      "url": "https://www.coindesk.com/business/2026/05/08/kraken-parent-payward-seeks-fresh-funding-at-usd20-billion-valuation-ahead-of-potential-ipo",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-11T18:42:27+00:00",
-      "raw_text": "Kraken parent Payward seeks fresh funding at $20 billion valuation ahead of planned IPO",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 169,
+        "count": 170,
         "avg_1h": -0.15,
         "avg_24h": -0.26,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 196,
+        "count": 195,
         "avg_1h": 0.01,
         "avg_24h": -0.27,
         "win_rate_1h_gt5pct": 0.0
