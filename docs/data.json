@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T09:58:22.698305+00:00",
+  "generated_at": "2026-05-17T11:22:52.481621+00:00",
   "events": [
     {
       "event_id": "2d62ed8a-9d05-4f90-bb88-ec7eac1f861f",
@@ -20,10 +20,16 @@
       "url": "https://cointelegraph.com/news/italys-largest-bank-more-than-doubles-crypto-holdings-to-235m-in-q1-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-05-17T08:31:02+00:00",
       "raw_text": "Italy’s largest bank more than doubles crypto holdings to $235M in Q1: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Italy’s largest bank more than doubles crypto holdings to $235M in Q1: Report\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.3661,
+        "t_plus_15m": 0.3202,
+        "t_plus_1h": 0.3065
+      }
     },
     {
       "event_id": "e8c1e8df-8d0f-4ebc-81c1-5af403b1f56b",
@@ -6511,7 +6517,7 @@
       },
       "unknown": {
         "count": 197,
-        "avg_1h": -0.0,
+        "avg_1h": 0.01,
         "avg_24h": -0.28,
         "win_rate_1h_gt5pct": 0.0
       },
