@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-05-17T21:06:33.645264+00:00",
+  "generated_at": "2026-05-17T22:06:02.960950+00:00",
   "events": [
+    {
+      "event_id": "544de904-ac5e-47df-b47b-9a2ed1114879",
+      "source": "rss:theblock",
+      "title": "Alleged Forsage co-founder extradited from Thailand, pleads not guilty in $340 million Ponzi case",
+      "url": "https://www.theblock.co/post/401563/alleged-forsage-co-founder-extradited-from-thailand-pleads-not-guilty-in-340-million-ponzi-case?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-17T20:40:21+00:00",
+      "raw_text": "Alleged Forsage co-founder extradited from Thailand, pleads not guilty in $340 million Ponzi case\n\n<p>The alleged mastermind behind Forsage, co-defendant Vladimir Okhotnikov, resurfaced in a film with disgraced actor Kevin Spacey last year. </p>\n\n<p>The alleged mastermind behind Forsage, co-defendan",
+      "impact": {}
+    },
+    {
+      "event_id": "0b244054-7b7a-4a5b-80e5-e3fee9556180",
+      "source": "rss:decrypt",
+      "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
+      "url": "https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-17T20:32:07+00:00",
+      "raw_text": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle\n\nArc is a new layer-1 blockchain developed by USDC issuer Circle, designed specifically for stablecoin-native finance.",
+      "impact": {}
+    },
     {
       "event_id": "08c274c3-6b1f-4286-ba89-341b9ee581ae",
       "source": "rss:theblock",
@@ -32,10 +56,16 @@
       "url": "https://cointelegraph.com/news/saylor-signals-btc-buy-as-retail-holders-get-push-on-strc-dividend-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-17T18:01:00+00:00",
       "raw_text": "Saylor signals BTC buy as retail holders get push on STRC dividend vote\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Saylor signals BTC buy as retail holders get push on STRC dividend vote\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0779,
+        "t_plus_15m": -0.088,
+        "t_plus_1h": 0.0113
+      }
     },
     {
       "event_id": "70db8186-487e-4308-992c-a438d27b0984",
@@ -181,7 +211,8 @@
         "t_plus_5m": 0.0575,
         "t_plus_15m": 0.0941,
         "t_plus_1h": -0.0541,
-        "t_plus_4h": -0.0148
+        "t_plus_4h": -0.0148,
+        "t_plus_24h": -0.22
       }
     },
     {
@@ -6465,50 +6496,26 @@
       "timestamp_utc": "2026-05-11T18:42:27+00:00",
       "raw_text": "Kraken parent Payward seeks fresh funding at $20 billion valuation ahead of planned IPO",
       "impact": {}
-    },
-    {
-      "event_id": "28978cdb-691b-460d-9cfc-fc20c6730df7",
-      "source": "rss:decrypt",
-      "title": "Binance Says AI Defenses Blocked $10.5 Billion in Crypto Fraud Over 15 Months",
-      "url": "https://decrypt.co/367469/binance-ai-defenses-blocked-10-5-billion-crypto-fraud",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-11T18:25:54+00:00",
-      "raw_text": "Binance Says AI Defenses Blocked $10.5 Billion in Crypto Fraud Over 15 Months\n\nBinance, the world's largest crypto exchange, says it has deployed more than 100 AI models to counter a surge in AI-powered scams.",
-      "impact": {}
-    },
-    {
-      "event_id": "4389d67b-1c9b-47a2-b6ea-d5c825e39930",
-      "source": "rss:decrypt",
-      "title": "Anthropic Says 'Evil' AI Portrayals in Sci-Fi Caused Claude's Blackmail Problem",
-      "url": "https://decrypt.co/367437/anthropic-evil-ai-portrayals-training-data-claude-blackmail",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-11T17:37:01+00:00",
-      "raw_text": "Anthropic Says 'Evil' AI Portrayals in Sci-Fi Caused Claude's Blackmail Problem\n\nDecades of sci-fi tropes about self-preserving AI apparently taught Claude to blackmail people. Anthropic's fix wasn't more rules—it was moral philosophy.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 169,
+        "avg_1h": -0.15,
+        "avg_24h": -0.26,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 196,
         "avg_1h": 0.01,
         "avg_24h": -0.27,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 169,
-        "avg_1h": -0.16,
-        "avg_24h": -0.26,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
         "count": 85,
         "avg_1h": 0.14,
-        "avg_24h": -0.3,
+        "avg_24h": -0.28,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
