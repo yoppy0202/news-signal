@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-17T11:22:52.481621+00:00",
+  "generated_at": "2026-05-17T13:54:26.200998+00:00",
   "events": [
+    {
+      "event_id": "70db8186-487e-4308-992c-a438d27b0984",
+      "source": "rss:coindesk",
+      "title": "DeFi's new front: VerifiedX bets bitcoin's next chapter is programmable, private",
+      "url": "https://www.coindesk.com/tech/2026/05/17/defi-s-new-front-verifiedx-bets-bitcoin-s-next-chapter-is-programmable-private",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-17T12:00:00+00:00",
+      "raw_text": "DeFi's new front: VerifiedX bets bitcoin's next chapter is programmable, private",
+      "impact": {}
+    },
+    {
+      "event_id": "9f2e2df4-ea3e-40db-8bf3-adac044962df",
+      "source": "rss:coindesk",
+      "title": "Japan's SBI Securities, Rakuten Securities plan to offer crypto investment trusts",
+      "url": "https://www.coindesk.com/business/2026/05/17/japan-s-sbi-securities-rakuten-securities-plan-to-offer-crypto-investment-trusts",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-17T11:41:31+00:00",
+      "raw_text": "Japan's SBI Securities, Rakuten Securities plan to offer crypto investment trusts",
+      "impact": {}
+    },
+    {
+      "event_id": "8806d367-7377-46c3-81d9-fabaa0a9eb08",
+      "source": "rss:cointelegraph",
+      "title": "SBI, Rakuten, Nomura line up to launch crypto investment trusts: Report",
+      "url": "https://cointelegraph.com/news/sbi-rakuten-nomura-line-up-to-launch-crypto-investment-trusts-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-17T10:51:22+00:00",
+      "raw_text": "SBI, Rakuten, Nomura line up to launch crypto investment trusts: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SBI, Rakuten, Nomura line up to launch crypto investment trusts: Report\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
+      "impact": {}
+    },
     {
       "event_id": "2d62ed8a-9d05-4f90-bb88-ec7eac1f861f",
       "source": "rss:cointelegraph",
@@ -6462,49 +6498,6 @@
         "t_plus_15m": -0.2601,
         "t_plus_1h": 0.0001
       }
-    },
-    {
-      "event_id": "e4b44c41-de3e-4755-b28b-2d48b86b4817",
-      "source": "rss:decrypt",
-      "title": "Keel Infrastructure Posts $145 Million Loss as Firm Completes Pivot From Bitcoin Miner to AI",
-      "url": "https://decrypt.co/367447/keel-infrastructure-posts-145-million-loss-pivot-bitcoin-miner-ai",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-11T17:25:41+00:00",
-      "raw_text": "Keel Infrastructure Posts $145 Million Loss as Firm Completes Pivot From Bitcoin Miner to AI\n\nFormerly known as Bitfarms, the newly rebranded Keel touted a $533 million war chest to fund AI infrastructure buildout.",
-      "impact": {}
-    },
-    {
-      "event_id": "f9c9cdd6-51df-44a2-89ec-2debd7eedf87",
-      "source": "rss:decrypt",
-      "title": "Kash Patel Touts AI Overhaul of FBI Crime-Fighting Operations",
-      "url": "https://decrypt.co/367431/kash-patel-ai-overhaul-fbi-crime-fighting-operations",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-11T17:07:08+00:00",
-      "raw_text": "Kash Patel Touts AI Overhaul of FBI Crime-Fighting Operations\n\nFBI Director Kash Patel said the use of AI has accelerated child exploitation investigations, threat detection, and internal operations.",
-      "impact": {}
-    },
-    {
-      "event_id": "94d72379-0b17-45fe-b6d3-6d02ba95b950",
-      "source": "rss:theblock",
-      "title": "Sharplink Q1 revenue tops $12 million as it pursues ‘singles and doubles’ hits in ETH yield",
-      "url": "https://www.theblock.co/post/400752/sharplink-q1-revenue-12-million-expands-eth-productivity-staking?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-05-11T16:52:17+00:00",
-      "raw_text": "Sharplink Q1 revenue tops $12 million as it pursues ‘singles and doubles’ hits in ETH yield\n\n<p>Sharplink said its new Galaxy Digital partnership will deploy roughly $125 million into onchain liquidity and DeFi opportunities.</p>\n\n<p>Sharplink said its new Galaxy Digital partnership will deploy roug",
-      "impact": {
-        "t_plus_5m": -0.3573,
-        "t_plus_15m": -0.5279,
-        "t_plus_1h": -0.0422,
-        "t_plus_24h": -3.1964
-      }
     }
   ],
   "stats": {
@@ -6512,7 +6505,13 @@
       "narrative": {
         "count": 168,
         "avg_1h": -0.15,
-        "avg_24h": -0.66,
+        "avg_24h": -0.3,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 85,
+        "avg_1h": 0.14,
+        "avg_24h": -0.3,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
@@ -6521,14 +6520,8 @@
         "avg_24h": -0.28,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 84,
-        "avg_1h": 0.14,
-        "avg_24h": -0.3,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 35,
+        "count": 34,
         "avg_1h": 0.25,
         "avg_24h": -1.06,
         "win_rate_1h_gt5pct": 0.0
