@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-18T00:09:17.446887+00:00",
+  "generated_at": "2026-05-18T04:40:52.260776+00:00",
   "events": [
+    {
+      "event_id": "c298077a-bea2-4e8b-8c39-a7010cfcc1d7",
+      "source": "rss:decrypt",
+      "title": "KuCoin Australia’s ‘Evolution’ Showcases Regulatory Focus, Mastercard Launch",
+      "url": "https://decrypt.co/367114/kucoin-australias-evolution-showcases-regulatory-focus-mastercard-launch",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-18T00:01:03+00:00",
+      "raw_text": "KuCoin Australia’s ‘Evolution’ Showcases Regulatory Focus, Mastercard Launch\n\nThe exchange’s KuCard rollout enables users to make \"seamless payments\" to Mastercard merchants using USDC.",
+      "impact": {}
+    },
     {
       "event_id": "f6853ea7-ffd1-422b-94fb-6e90da246100",
       "source": "rss:cointelegraph",
@@ -6485,32 +6497,20 @@
       "timestamp_utc": "2026-05-11T19:30:07+00:00",
       "raw_text": "Binance says AI security systems prevented $10.5 billion in user losses from crypto scams, phishing\n\n<p>In Q1 2026 alone, Binance claims to have safeguarded $1.98 billion in funds protected from 22.9 million scam and phishing attempts.</p>\n\n<p>In Q1 2026 alone, Binance claims to have safeguarded $1.",
       "impact": {}
-    },
-    {
-      "event_id": "8c9dd132-66a4-412b-9263-35362b424ecb",
-      "source": "rss:decrypt",
-      "title": "Major Solana Upgrade Alpenglow Begins Testing Ahead of Full Rollout",
-      "url": "https://decrypt.co/367470/solana-alpenglow-upgrade-begins-testing-ahead-full-rollout",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-11T18:45:09+00:00",
-      "raw_text": "Major Solana Upgrade Alpenglow Begins Testing Ahead of Full Rollout\n\nSolana's Alpenglow consensus protocol upgrade is one step closer to being rolled out on the layer-1 network's mainnet.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 170,
-        "avg_1h": -0.15,
-        "avg_24h": -0.26,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 195,
+        "count": 196,
         "avg_1h": 0.01,
         "avg_24h": -0.27,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 169,
+        "avg_1h": -0.15,
+        "avg_24h": -0.26,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
