@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T19:01:20.028690+00:00",
+  "generated_at": "2026-05-18T20:42:37.931925+00:00",
   "events": [
     {
       "event_id": "25a3eaac-77f5-4bed-a15d-61b7b8e39415",
@@ -116,10 +116,16 @@
       "url": "https://bitcoinmagazine.com/news/capital-b-acquires-192-bitcoin-for-13",
       "event_type": "listing",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-18T15:45:37+00:00",
       "raw_text": "Capital B Acquires 192 Bitcoin for €13 Million, Pushes Total Holdings to 3,135 BTC\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Capital-B-Acquires-192-Bitcoin-for-E13-Million-Pushes-Total-Holdings",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2884,
+        "t_plus_15m": -0.1729,
+        "t_plus_1h": -0.1606
+      }
     },
     {
       "event_id": "ca5ece34-c375-4b3f-b798-a4f4e27ab1a6",
@@ -128,10 +134,16 @@
       "url": "https://cointelegraph.com/markets/ethereum-traders-say-bears-in-control-eth-price-drop-2k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-05-18T15:36:04+00:00",
       "raw_text": "Ethereum traders say bears ‘in control’ after ETH price drop to $2K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum traders say bears ‘in control’ after ETH price drop to $2K\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0983,
+        "t_plus_15m": 0.1532,
+        "t_plus_1h": -0.372
+      }
     },
     {
       "event_id": "232a70f5-bc03-49d8-b56d-f3586c0af083",
@@ -308,10 +320,17 @@
       "url": "https://cointelegraph.com/news/strategy-2-billion-bitcoin-holdings-reach-843-738-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-18T13:44:29+00:00",
       "raw_text": "Saylor’s Strategy scoops $2B Bitcoin, holdings reach 843,738 BTC\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Saylor’s Strategy scoops $2B Bitcoin, holdings reach 843,738 BTC\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZ",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.5223,
+        "t_plus_15m": 0.5074,
+        "t_plus_1h": -0.0305,
+        "t_plus_4h": 0.1171
+      }
     },
     {
       "event_id": "1a51eb1c-6148-4e1d-a090-f0a894c19cbb",
@@ -364,7 +383,8 @@
       "impact": {
         "t_plus_5m": 0.0792,
         "t_plus_15m": 0.4512,
-        "t_plus_1h": -0.3136
+        "t_plus_1h": -0.3136,
+        "t_plus_4h": 0.0492
       }
     },
     {
@@ -394,7 +414,8 @@
       "impact": {
         "t_plus_5m": 0.3574,
         "t_plus_15m": -0.0119,
-        "t_plus_1h": -0.4768
+        "t_plus_1h": -0.4768,
+        "t_plus_4h": -1.1152
       }
     },
     {
@@ -1211,7 +1232,8 @@
         "t_plus_5m": -0.0779,
         "t_plus_15m": -0.088,
         "t_plus_1h": 0.0113,
-        "t_plus_4h": 0.2491
+        "t_plus_4h": 0.2491,
+        "t_plus_24h": -1.9451
       }
     },
     {
@@ -6489,18 +6511,18 @@
       "narrative": {
         "count": 171,
         "avg_1h": -0.11,
-        "avg_24h": -0.74,
+        "avg_24h": -0.89,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
         "count": 84,
-        "avg_1h": 0.04,
+        "avg_1h": 0.01,
         "avg_24h": -0.47,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
         "count": 12,
-        "avg_1h": 0.0,
+        "avg_1h": -0.05,
         "avg_24h": -2.65,
         "win_rate_1h_gt5pct": 0.0
       },
