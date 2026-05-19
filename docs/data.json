@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-05-19T21:42:18.150846+00:00",
+  "generated_at": "2026-05-19T23:18:48.513040+00:00",
   "events": [
+    {
+      "event_id": "9f25a816-b4b3-4186-bbd5-d60221ef5cb0",
+      "source": "rss:decrypt",
+      "title": "After Nearly a Decade, Gary Gensler's Poster Child for Crypto Compliance Executes Its First Trade",
+      "url": "https://decrypt.co/368409/gary-gensler-poster-child-crypto-compliance-executes-first-trade",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-19T22:01:04+00:00",
+      "raw_text": "After Nearly a Decade, Gary Gensler's Poster Child for Crypto Compliance Executes Its First Trade\n\nAfter weathering years of industry skepticism and navigating a shifting regulatory landscape, Prometheum executed its first crypto trades.",
+      "impact": {}
+    },
+    {
+      "event_id": "7996fb67-b710-4052-8a51-0149f3051114",
+      "source": "rss:cointelegraph",
+      "title": "Bernstein: Bitcoin miners becoming critical suppliers in AI infrastructure",
+      "url": "https://cointelegraph.com/news/bernstein-bitcoin-miners-gain-strategic-role-in-ai-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-19T21:39:16+00:00",
+      "raw_text": "Bernstein: Bitcoin miners becoming critical suppliers in AI infrastructure\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bernstein: Bitcoin miners becoming critical suppliers in AI infrastructure\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
+      "impact": {}
+    },
+    {
+      "event_id": "29879c68-9c33-4bad-b046-9236ec0564bc",
+      "source": "rss:decrypt",
+      "title": "Minnesota Bans Prediction Markets—And Is Sued By the Trump Admin Hours Later",
+      "url": "https://decrypt.co/368406/minnesota-bans-prediction-markets-sued-trump-admin-hours-later",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-19T21:29:51+00:00",
+      "raw_text": "Minnesota Bans Prediction Markets—And Is Sued By the Trump Admin Hours Later\n\nMinnesota's ban has made it a felony to create or operate a prediction market in the state. The CFTC and DOJ say it violates federal law.",
+      "impact": {}
+    },
+    {
+      "event_id": "20368122-095a-4daf-8ba4-2c9d0061c614",
+      "source": "rss:theblock",
+      "title": "Bitwise calls HYPE a ‘Gen 2’ crypto token, says its undervalued",
+      "url": "https://www.theblock.co/post/401934/bitwise-calls-hype-a-gen-2-crypto-token-says-its-undervalued?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-19T20:58:07+00:00",
+      "raw_text": "Bitwise calls HYPE a ‘Gen 2’ crypto token, says its undervalued\n\n<p>The asset manager recently launched a HYPE-based exchange-traded fund and said it will use some of the fees generated to buy the token.</p>\n\n<p>The asset manager recently launched a HYPE-based exchange-traded fund and said it will u",
+      "impact": {}
+    },
     {
       "event_id": "45948114-e584-4fc9-b3cb-d55482045eb0",
       "source": "rss:coindesk",
@@ -23,6 +71,18 @@
       "tokens": [],
       "timestamp_utc": "2026-05-19T20:45:30+00:00",
       "raw_text": "Tokenized equities daily volume hits all-time high of $3.57 billion\n\n<p>The Block's data shows onchain equities trading volume growing since the start of the year, and hitting an all-time high on Monday.</p>\n\n<p>The Block's data shows onchain equities trading volume growing since the start of the ye",
+      "impact": {}
+    },
+    {
+      "event_id": "dbd8e1d9-e053-4d3a-b090-bc46ca3bbf45",
+      "source": "rss:cointelegraph",
+      "title": "Data shows Bitcoin dip buyers waiting for lower prices: Is $70K BTC’s next stop?",
+      "url": "https://cointelegraph.com/markets/bitcoin-traders-may-look-for-deeper-pullback-zones?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-19T20:34:45+00:00",
+      "raw_text": "Data shows Bitcoin dip buyers waiting for lower prices: Is $70K BTC’s next stop?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Data shows Bitcoin dip buyers waiting for lower prices: Is $70K BTC’s next stop?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/",
       "impact": {}
     },
     {
@@ -80,10 +140,16 @@
       "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slides-below-77000",
       "event_type": "hack",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-19T19:22:34+00:00",
       "raw_text": "Bitcoin Price Slides Below $77,000 as ETF Exodus Tops $1 Billion\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Bitcoin-Price-Slides-Below-77000-as-ETF-Exodus-Tops-1-Billion.jpg\" style=\"display: blo",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0949,
+        "t_plus_15m": -0.0256,
+        "t_plus_1h": 0.0344
+      }
     },
     {
       "event_id": "08a8ceb4-c79d-4644-9d0d-a41877723c0e",
@@ -164,10 +230,16 @@
       "url": "https://bitcoinmagazine.com/news/btrust-appoints-new-board-of-directors",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-19T18:08:08+00:00",
       "raw_text": "Btrust Appoints New Board of Directors to Steer Next Phase of Bitcoin Development\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Board-Announcement-scaled.jpg\" style=\"display: block; margin: 1em aut",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0373,
+        "t_plus_15m": -0.1079,
+        "t_plus_1h": 0.0384
+      }
     },
     {
       "event_id": "13c712cc-eb91-4d6a-abc1-6b2332110b21",
@@ -188,10 +260,16 @@
       "url": "https://bitcoinmagazine.com/news/td-cowen-raises-strategy-mstr-price-target",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-19T17:55:20+00:00",
       "raw_text": "TD Cowen Raises Strategy (MSTR) Price Target to $400 on Bitcoin Accumulation and Balance Sheet Shift\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/TD-Cowen-Raises-Strategy-MSTR-Price-Target-to-400-",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0922,
+        "t_plus_15m": 0.0308,
+        "t_plus_1h": -0.0441
+      }
     },
     {
       "event_id": "6941ff22-4cd7-478d-aa48-f69aea009238",
@@ -292,7 +370,8 @@
       "impact": {
         "t_plus_5m": -0.4229,
         "t_plus_15m": -0.1705,
-        "t_plus_1h": 0.0402
+        "t_plus_1h": 0.0402,
+        "t_plus_4h": -0.9725
       }
     },
     {
@@ -334,7 +413,8 @@
       "impact": {
         "t_plus_5m": -0.5575,
         "t_plus_15m": -0.6823,
-        "t_plus_1h": -0.096
+        "t_plus_1h": -0.096,
+        "t_plus_4h": -0.2085
       }
     },
     {
@@ -6434,92 +6514,32 @@
         "t_plus_4h": -0.2951,
         "t_plus_24h": 2.5811
       }
-    },
-    {
-      "event_id": "c4ceb970-710f-41e8-82ad-95a333fe0674",
-      "source": "rss:cointelegraph",
-      "title": "Societe Generale deploys stablecoins on Canton for tokenized finance",
-      "url": "https://cointelegraph.com/news/societe-generale-expands-tokenized-collateral-and-stablecoin-push-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-13T17:51:42+00:00",
-      "raw_text": "Societe Generale deploys stablecoins on Canton for tokenized finance\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Societe Generale deploys stablecoins on Canton for tokenized finance\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zM",
-      "impact": {}
-    },
-    {
-      "event_id": "a0b8a8b1-da4a-4d9f-8d1a-89aab27f9086",
-      "source": "rss:theblock",
-      "title": "Jupiter taps Bitwise to curate institutional-grade Solana-based USDe lending market",
-      "url": "https://www.theblock.co/post/401187/jupiter-taps-bitwise-to-curate-institutional-grade-solana-based-usde-lending-market?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-13T17:41:51+00:00",
-      "raw_text": "Jupiter taps Bitwise to curate institutional-grade Solana-based USDe lending market\n\n<p>Jupiter Lend, together with Fluid and Bitwise, will provide an avenue to earn yield on the USDe synthetic stablecoin.</p>\n\n<p>Jupiter Lend, together with Fluid and Bitwise, will provide an avenue to earn yield on",
-      "impact": {}
-    },
-    {
-      "event_id": "c3db8946-0bae-4b85-b03c-5196c0f75cac",
-      "source": "rss:cointelegraph",
-      "title": "US government asks for $1M forfeiture from ex-Celsius exec ahead of sentencing",
-      "url": "https://cointelegraph.com/news/us-government-forfeiture-celsius-roni-cohen-pavon-sentencing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-13T17:41:22+00:00",
-      "raw_text": "US government asks for $1M forfeiture from ex-Celsius exec ahead of sentencing\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US government asks for $1M forfeiture from ex-Celsius exec ahead of sentencing\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/imag",
-      "impact": {}
-    },
-    {
-      "event_id": "04c05d74-4d10-4610-be07-069fff3fbe51",
-      "source": "rss:decrypt",
-      "title": "Bitcoin Firm Metaplanet Posts $725 Million Loss, Delays Preferred Share Offerings",
-      "url": "https://decrypt.co/367770/bitcoin-firm-metaplanet-725-million-loss-delays-preferred-share",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-13T17:33:52+00:00",
-      "raw_text": "Bitcoin Firm Metaplanet Posts $725 Million Loss, Delays Preferred Share Offerings\n\nMetaplanet CEO Simon Gerovich acknowledged that preferred shares unveiled in November have yet to be issued.",
-      "impact": {}
-    },
-    {
-      "event_id": "09dda135-49ae-4f8f-a89d-ce9e1673593e",
-      "source": "rss:bitcoinmagazine",
-      "title": "Coinbase CEO Says Crypto Bill Could Rewire American Finance — Senate Votes Thursday",
-      "url": "https://bitcoinmagazine.com/news/coinbase-ceo-says-crypto-bill-could",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-13T17:32:19+00:00",
-      "raw_text": "Coinbase CEO Says Crypto Bill Could Rewire American Finance — Senate Votes Thursday\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Coinbase-CEO-Says-Crypto-Bill-Could-Rewire-American-Finance-—-Senat",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 176,
-        "avg_1h": -0.09,
-        "avg_24h": -0.28,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 194,
+        "count": 193,
         "avg_1h": -0.15,
         "avg_24h": -0.66,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 32,
-        "avg_1h": 0.22,
-        "avg_24h": null,
+      "narrative": {
+        "count": 177,
+        "avg_1h": -0.09,
+        "avg_24h": -0.28,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
         "count": 85,
         "avg_1h": -0.08,
         "avg_24h": -0.68,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 32,
+        "avg_1h": 0.16,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
