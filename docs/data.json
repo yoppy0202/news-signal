@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-05-18T22:11:32.523155+00:00",
+  "generated_at": "2026-05-19T00:17:03.174004+00:00",
   "events": [
+    {
+      "event_id": "d0e1c935-d2bd-4578-997b-7efe82398e3c",
+      "source": "rss:cointelegraph",
+      "title": "Retail Bitcoin investor demand falls by 73% as futures selling tops $2B: Are the bears back?",
+      "url": "https://cointelegraph.com/markets/bitcoin-retail-demand-on-binance-drops-73-as-futures-selling-tops-2b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-18T23:40:51+00:00",
+      "raw_text": "Retail Bitcoin investor demand falls by 73% as futures selling tops $2B: Are the bears back?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Retail Bitcoin investor demand falls by 73% as futures selling tops $2B: Are the bears back?\" class=\"type:primaryImage\" src=\"https://i",
+      "impact": {}
+    },
+    {
+      "event_id": "fe15f479-7340-42ae-bec5-0e0fb792dc8d",
+      "source": "rss:cointelegraph",
+      "title": "Odds against rate cuts high as new US Fed chair set for swearing in",
+      "url": "https://cointelegraph.com/news/interest-rates-fed-chair-kevin-warsh-sworn-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-18T22:49:27+00:00",
+      "raw_text": "Odds against rate cuts high as new US Fed chair set for swearing in\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Odds against rate cuts high as new US Fed chair set for swearing in\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1",
+      "impact": {}
+    },
+    {
+      "event_id": "2fd956b1-bcd0-4849-85b4-3a40ff9aa9a6",
+      "source": "rss:cointelegraph",
+      "title": "Galaxy secures New York BitLicense to expand institutional crypto services",
+      "url": "https://cointelegraph.com/news/galaxy-secures-new-york-bitlicense-institutional-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-18T22:20:31+00:00",
+      "raw_text": "Galaxy secures New York BitLicense to expand institutional crypto services\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Galaxy secures New York BitLicense to expand institutional crypto services\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
+      "impact": {}
+    },
+    {
+      "event_id": "6e314d90-013d-4b92-a059-edb1abd2674f",
+      "source": "rss:coindesk",
+      "title": "SEC to propose tokenized stock framework as Wall Street efforts deepen: Bloomberg",
+      "url": "https://www.coindesk.com/policy/2026/05/18/sec-to-propose-tokenized-stock-framework-as-wall-street-efforts-deepen-bloomberg",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-18T22:20:27+00:00",
+      "raw_text": "SEC to propose tokenized stock framework as Wall Street efforts deepen: Bloomberg",
+      "impact": {}
+    },
     {
       "event_id": "8f85997f-fc18-46d9-ae22-f9679d7d48cb",
       "source": "rss:theblock",
@@ -8,9 +56,26 @@
       "url": "https://www.theblock.co/post/401709/ethereum-onchain-conviction-grows-staked-eth-rises-price-underperforms?utm_source=rss&utm_medium=rss",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-05-18T21:51:04+00:00",
       "raw_text": "Ethereum’s onchain conviction grows as staked ETH rises, even as price underperforms\n\n<p>A contracting float against any meaningful demand recovery has historically been a constructive setup for price.</p>\n\n<p>A contracting float against any meaningful demand recovery has historically been a constru",
+      "impact": {
+        "t_plus_5m": 0.1176,
+        "t_plus_15m": 0.0203
+      }
+    },
+    {
+      "event_id": "26e391e7-c1bb-4b62-b419-7fccee67adfb",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin lost its hold on $80K, but three events may send it back sooner than markets expect",
+      "url": "https://cointelegraph.com/markets/bitcoin-lost-its-hold-on-80k-but-three-events-may-send-it-back-sooner-than-markets-expect?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-18T21:47:48+00:00",
+      "raw_text": "Bitcoin lost its hold on $80K, but three events may send it back sooner than markets expect\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin lost its hold on $80K, but three events may send it back sooner than markets expect\" class=\"type:primaryImage\" src=\"https://ima",
       "impact": {}
     },
     {
@@ -35,6 +100,30 @@
       "tokens": [],
       "timestamp_utc": "2026-05-18T21:33:27+00:00",
       "raw_text": "Ohio man sentenced to 9 years for running $10 million crypto Ponzi scheme\n\n<p>The CFTC filed an enforcement action against Rathnakishore Giri in August 2022 for running the fraudulent investment scheme.</p>\n\n<p>The CFTC filed an enforcement action against Rathnakishore Giri in August 2022 for runnin",
+      "impact": {}
+    },
+    {
+      "event_id": "e6754fff-7fdb-4284-85c6-8eeef740ba84",
+      "source": "rss:cointelegraph",
+      "title": "Soluna revenue jumps 58% as hosting business offsets weaker Bitcoin mining",
+      "url": "https://cointelegraph.com/news/soluna-q1-revenue-rises-58-data-center-hosting-surpasses-crypto-mining?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-18T21:28:02+00:00",
+      "raw_text": "Soluna revenue jumps 58% as hosting business offsets weaker Bitcoin mining\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Soluna revenue jumps 58% as hosting business offsets weaker Bitcoin mining\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
+      "impact": {}
+    },
+    {
+      "event_id": "fa56a1a5-4c0c-473e-a269-c9fe8bd1e343",
+      "source": "rss:cointelegraph",
+      "title": "Georgia primary to test crypto PAC’s support for Democratic candidate",
+      "url": "https://cointelegraph.com/news/georgia-primary-jasmine-clark-crypto-pacs-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-18T21:20:00+00:00",
+      "raw_text": "Georgia primary to test crypto PAC’s support for Democratic candidate\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Georgia primary to test crypto PAC’s support for Democratic candidate\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
       "impact": {}
     },
     {
@@ -92,10 +181,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-analyst-flags-74k-as-btcs-biggest-support-battle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-18T19:57:20+00:00",
       "raw_text": "Bitcoin’s trend defining battle starts at the $74K support: Analyst\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin’s trend defining battle starts at the $74K support: Analyst\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0066,
+        "t_plus_15m": -0.053,
+        "t_plus_1h": -0.0649
+      }
     },
     {
       "event_id": "ac9fd930-6b71-46a7-b8cc-cd86586e1a8f",
@@ -188,10 +283,19 @@
       "url": "https://cointelegraph.com/markets/price-predictions-518-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-ada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC",
+        "ETH",
+        "XRP"
+      ],
       "timestamp_utc": "2026-05-18T17:58:29+00:00",
       "raw_text": "Price predictions 5/18: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 5/18: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.5604,
+        "t_plus_15m": -0.7093,
+        "t_plus_1h": -0.9732,
+        "t_plus_4h": 0.1427
+      }
     },
     {
       "event_id": "71401e35-8ec5-4d85-b2f5-057ab47b3584",
@@ -6384,97 +6488,6 @@
       "timestamp_utc": "2026-05-12T18:07:43+00:00",
       "raw_text": "Anthropic and OpenAI Warn Buyers: Unauthorized AI Startup Shares May Be Worthless\n\nBoth companies declared SPV-based share schemes invalid this week—and Anthropic named names, including Forge Global.",
       "impact": {}
-    },
-    {
-      "event_id": "2be214f6-d65f-4884-8385-c1cbe33af594",
-      "source": "rss:cointelegraph",
-      "title": "XRP traders say bullishness ‘growing’ as ETFs log largest inflow since January",
-      "url": "https://cointelegraph.com/markets/xrp-traders-bullishness-growing-etfs-log-largest-inflow-since-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-05-12T17:54:24+00:00",
-      "raw_text": "XRP traders say bullishness ‘growing’ as ETFs log largest inflow since January\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"XRP traders say bullishness ‘growing’ as ETFs log largest inflow since January\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/imag",
-      "impact": {
-        "t_plus_5m": 0.2526,
-        "t_plus_15m": 0.1703,
-        "t_plus_1h": 0.4568,
-        "t_plus_24h": -0.1557
-      }
-    },
-    {
-      "event_id": "c5eaa3d3-7fb5-4daa-bdb0-1a4aa25a9d27",
-      "source": "rss:bitcoinmagazine",
-      "title": "Senate Confirms Bitcoin-Friendly Kevin Warsh to Fed Board, Clearing Path to Chairmanship",
-      "url": "https://bitcoinmagazine.com/news/senate-confirms-bitcoin-kevin-warsh",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-12T17:52:49+00:00",
-      "raw_text": "Senate Confirms Bitcoin-Friendly Kevin Warsh to Fed Board, Clearing Path to Chairmanship\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Senate-Confirms-Bitcoin-Friendly-Kevin-Warsh-to-Fed-Board-Clea",
-      "impact": {}
-    },
-    {
-      "event_id": "cf437517-2d7c-4d5b-868c-c702aa3f357d",
-      "source": "rss:decrypt",
-      "title": "Wall Street's Clearinghouse DTCC Enlists Chainlink for Collateral Management",
-      "url": "https://decrypt.co/367600/wall-streets-clearinghouse-dtcc-chainlink-collateral-management",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-12T17:34:51+00:00",
-      "raw_text": "Wall Street's Clearinghouse DTCC Enlists Chainlink for Collateral Management\n\nDTCC teams with Chainlink to enable round-the-clock collateral movement—a shift that could reshape post-trade finance.",
-      "impact": {}
-    },
-    {
-      "event_id": "07213fdf-5922-4a3a-b54a-4ddbd7846d15",
-      "source": "rss:theblock",
-      "title": "Ethereum Foundation rolls out support for Clear Signing crypto security solution",
-      "url": "https://www.theblock.co/post/401001/ethereum-foundation-rolls-out-support-for-clear-signing-crypto-security-solution?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-12T17:32:10+00:00",
-      "raw_text": "Ethereum Foundation rolls out support for Clear Signing crypto security solution\n\n<p>Clear Signing is a crypto security feature that aims to simplify transaction descriptions so humans can understand what they're approving.</p>\n\n<p>Clear Signing is a crypto security feature that aims to simplify tra",
-      "impact": {}
-    },
-    {
-      "event_id": "8cabd5f0-cc40-4c40-b684-eb369badb731",
-      "source": "rss:coindesk",
-      "title": "The Ethereum Foundation unveils new 'Clear Signing' standard to stop users from approving malicious crypto transactions",
-      "url": "https://www.coindesk.com/tech/2026/05/12/the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-approving-malicious-crypto-transactions",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-12T17:31:53+00:00",
-      "raw_text": "The Ethereum Foundation unveils new 'Clear Signing' standard to stop users from approving malicious crypto transactions",
-      "impact": {}
-    },
-    {
-      "event_id": "6d8e4b1d-f479-4d74-8aea-ec01288543db",
-      "source": "rss:coindesk",
-      "title": "Senate confirms Kevin Warsh to Fed board ahead of expected Chair vote",
-      "url": "https://www.coindesk.com/policy/2026/05/12/senate-confirms-kevin-warsh-to-fed-board-ahead-of-expected-chair-vote",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-12T17:29:09+00:00",
-      "raw_text": "Senate confirms Kevin Warsh to Fed board ahead of expected Chair vote",
-      "impact": {}
-    },
-    {
-      "event_id": "c3339a04-3fed-4df0-85e6-56de48529d5c",
-      "source": "rss:decrypt",
-      "title": "OpenAI Faces Lawsuit Over Claims ChatGPT Encouraged Teen's Fatal Overdose",
-      "url": "https://decrypt.co/367601/openai-faces-lawsuit-chatgpt-encouraged-teens-fatal-overdose",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-12T17:18:54+00:00",
-      "raw_text": "OpenAI Faces Lawsuit Over Claims ChatGPT Encouraged Teen's Fatal Overdose\n\nThe family of a deceased 19-year-old college student alleges ChatGPT encouraged dangerous drug use and contributed to his fatal overdose.",
-      "impact": {}
     }
   ],
   "stats": {
@@ -6486,14 +6499,14 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 82,
-        "avg_1h": 0.01,
-        "avg_24h": -0.47,
+        "count": 81,
+        "avg_1h": -0.03,
+        "avg_24h": -0.55,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 192,
-        "avg_1h": 0.05,
+        "count": 193,
+        "avg_1h": 0.01,
         "avg_24h": -0.16,
         "win_rate_1h_gt5pct": 0.0
       },
