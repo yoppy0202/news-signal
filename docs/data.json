@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-19T00:17:03.174004+00:00",
+  "generated_at": "2026-05-19T05:12:16.618876+00:00",
   "events": [
+    {
+      "event_id": "7d7cc27e-7541-4e33-8bc6-9ce809fb69f0",
+      "source": "rss:theblock",
+      "title": "Minnesota signs law allowing banks, credit unions to offer crypto custody services",
+      "url": "https://www.theblock.co/post/401775/minnesota-bank-crypto-custody?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-19T03:56:10+00:00",
+      "raw_text": "Minnesota signs law allowing banks, credit unions to offer crypto custody services\n\n<p>Governor Tim Walz has signed HF 3709 into law, permitting banks and credit unions to offer crypto custody services.</p>\n\n<p>Governor Tim Walz has signed HF 3709 into law, permitting banks and credit unions to offe",
+      "impact": {}
+    },
+    {
+      "event_id": "609d61ee-286c-45cd-aa4b-573cac6d2ed8",
+      "source": "rss:theblock",
+      "title": "BTCFi protocol Echo exploited, targeting eBTC market on Monad: onchain analysts",
+      "url": "https://www.theblock.co/post/401771/echo-protocol-monad-exploit?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-19T02:49:27+00:00",
+      "raw_text": "BTCFi protocol Echo exploited, targeting eBTC market on Monad: onchain analysts\n\n<p>BTCFi protocol Echo was exploited, with the attacker minting 1,000 eBTC on Monad and using it as collateral to borrow WBTC.</p>\n\n<p>BTCFi protocol Echo was exploited, with the attacker minting 1,000 eBTC on Monad and",
+      "impact": {}
+    },
+    {
+      "event_id": "85f33751-8c8c-44a5-8424-3f7c387814b1",
+      "source": "rss:theblock",
+      "title": "SEC’s innovation exemption for tokenized stocks to come as early as this week: Bloomberg",
+      "url": "https://www.theblock.co/post/401766/sec-innovation-exemption-tokenized-securities-this-week?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-19T01:49:57+00:00",
+      "raw_text": "SEC’s innovation exemption for tokenized stocks to come as early as this week: Bloomberg\n\n<p>The SEC has approved several entities to move forward with tokenized stock initiatives, including the NYSE and Nasdaq.</p>\n\n<p>The SEC has approved several entities to move forward with tokenized stock initi",
+      "impact": {}
+    },
     {
       "event_id": "d0e1c935-d2bd-4578-997b-7efe82398e3c",
       "source": "rss:cointelegraph",
@@ -8,10 +44,15 @@
       "url": "https://cointelegraph.com/markets/bitcoin-retail-demand-on-binance-drops-73-as-futures-selling-tops-2b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-18T23:40:51+00:00",
       "raw_text": "Retail Bitcoin investor demand falls by 73% as futures selling tops $2B: Are the bears back?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Retail Bitcoin investor demand falls by 73% as futures selling tops $2B: Are the bears back?\" class=\"type:primaryImage\" src=\"https://i",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0356,
+        "t_plus_15m": -0.1954
+      }
     },
     {
       "event_id": "fe15f479-7340-42ae-bec5-0e0fb792dc8d",
@@ -63,7 +104,8 @@
       "raw_text": "Ethereum’s onchain conviction grows as staked ETH rises, even as price underperforms\n\n<p>A contracting float against any meaningful demand recovery has historically been a constructive setup for price.</p>\n\n<p>A contracting float against any meaningful demand recovery has historically been a constru",
       "impact": {
         "t_plus_5m": 0.1176,
-        "t_plus_15m": 0.0203
+        "t_plus_15m": 0.0203,
+        "t_plus_1h": -0.0675
       }
     },
     {
@@ -73,10 +115,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-lost-its-hold-on-80k-but-three-events-may-send-it-back-sooner-than-markets-expect?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-18T21:47:48+00:00",
       "raw_text": "Bitcoin lost its hold on $80K, but three events may send it back sooner than markets expect\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin lost its hold on $80K, but three events may send it back sooner than markets expect\" class=\"type:primaryImage\" src=\"https://ima",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0156,
+        "t_plus_15m": 0.0504,
+        "t_plus_1h": -0.0523
+      }
     },
     {
       "event_id": "e08b0067-7605-4d44-9d63-1dd2304fe982",
@@ -189,7 +237,8 @@
       "impact": {
         "t_plus_5m": -0.0066,
         "t_plus_15m": -0.053,
-        "t_plus_1h": -0.0649
+        "t_plus_1h": -0.0649,
+        "t_plus_4h": -0.0397
       }
     },
     {
@@ -6452,68 +6501,32 @@
       "timestamp_utc": "2026-05-12T18:31:22+00:00",
       "raw_text": "Latest version of crypto market structure bill raises eyebrows ahead of Senate markup\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Latest version of crypto market structure bill raises eyebrows ahead of Senate markup\" class=\"type:primaryImage\" src=\"https://images.cointele",
       "impact": {}
-    },
-    {
-      "event_id": "ce357432-f8e8-4d69-aa1a-c7863737aa5e",
-      "source": "rss:theblock",
-      "title": "eToro Q1 crypto contributions drop to $13 million even as trading platform grows",
-      "url": "https://www.theblock.co/post/401008/etoro-q1-crypto-revenue-drops-to-2-15-billion-from-last-years-3-5-billion?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-12T18:17:25+00:00",
-      "raw_text": "eToro Q1 crypto contributions drop to $13 million even as trading platform grows\n\n<p>eToro's cost of revenue from cryptoassets fell substantially to $2.1 billion from $3.5 billion as trading activity cooled.</p>\n\n<p>eToro's cost of revenue from cryptoassets fell substantially to $2.1 billion from $3",
-      "impact": {}
-    },
-    {
-      "event_id": "9c81054d-c532-4c37-8d07-1c2479a50127",
-      "source": "rss:theblock",
-      "title": "eToro Q1 crypto revenue drops to $2.15 billion from last year’s $3.5 billion",
-      "url": "https://www.theblock.co/post/401008/etoro-q1-crypto-revenue-drops-to-2-15-billion-from-last-years-3-5-billion?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-12T18:17:25+00:00",
-      "raw_text": "eToro Q1 crypto revenue drops to $2.15 billion from last year’s $3.5 billion\n\n<p>eToro's cost of revenue from cryptoassets fell substantially to $2.1 billion from $3.5 billion as trading activity cooled.</p>\n\n<p>eToro's cost of revenue from cryptoassets fell substantially to $2.1 billion from $3.5 b",
-      "impact": {}
-    },
-    {
-      "event_id": "b9f805a0-9241-44d6-afc9-f9ff20fa4e04",
-      "source": "rss:decrypt",
-      "title": "Anthropic and OpenAI Warn Buyers: Unauthorized AI Startup Shares May Be Worthless",
-      "url": "https://decrypt.co/367614/anthropic-openai-warn-unauthorized-ai-startup-stock-worthless-spv",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-12T18:07:43+00:00",
-      "raw_text": "Anthropic and OpenAI Warn Buyers: Unauthorized AI Startup Shares May Be Worthless\n\nBoth companies declared SPV-based share schemes invalid this week—and Anthropic named names, including Forge Global.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 178,
-        "avg_1h": -0.11,
-        "avg_24h": -0.52,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 81,
-        "avg_1h": -0.03,
-        "avg_24h": -0.55,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 193,
+        "count": 192,
         "avg_1h": 0.01,
         "avg_24h": -0.16,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 32,
+        "count": 33,
         "avg_1h": 0.25,
         "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 82,
+        "avg_1h": -0.03,
+        "avg_24h": -0.55,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 177,
+        "avg_1h": -0.1,
+        "avg_24h": -0.52,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
