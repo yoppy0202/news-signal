@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-19T23:18:48.513040+00:00",
+  "generated_at": "2026-05-20T04:24:03.143095+00:00",
   "events": [
+    {
+      "event_id": "87eab824-0a74-4328-8007-597bb0821281",
+      "source": "rss:cointelegraph",
+      "title": "Solana futures funding rate turns negative: Is $78 SOL next?",
+      "url": "https://cointelegraph.com/markets/solana-futures-funding-rate-turns-negative-is-a-drop-to-78-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-20T00:15:57+00:00",
+      "raw_text": "Solana futures funding rate turns negative: Is $78 SOL next?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana futures funding rate turns negative: Is $78 SOL next?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZ",
+      "impact": {}
+    },
+    {
+      "event_id": "70fd3fde-7e07-4a2a-869a-e2fd556dff09",
+      "source": "rss:coindesk",
+      "title": "Trump orders government, Fed to review crypto firms' access to payment rails",
+      "url": "https://www.coindesk.com/policy/2026/05/19/trump-orders-government-fed-to-review-crypto-firms-access-to-payment-rails",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-19T22:54:08+00:00",
+      "raw_text": "Trump orders government, Fed to review crypto firms' access to payment rails",
+      "impact": {}
+    },
+    {
+      "event_id": "11ee2aec-be84-4a31-b2b4-4b6499bd6c29",
+      "source": "rss:theblock",
+      "title": "Ethereum leads $65 billion RWA race as blockchains compete for institutional tokenization flows",
+      "url": "https://www.theblock.co/post/401711/ethereum-leads-65-billion-rwa-race-blockchains-compete-institutional-tokenization-flows?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-19T22:36:02+00:00",
+      "raw_text": "Ethereum leads $65 billion RWA race as blockchains compete for institutional tokenization flows\n\n<p>The distributed market structure suggests the RWA landscape has not yet consolidated around a clear winner.</p>\n\n<p>The distributed market structure suggests the RWA landscape has not yet consolidated",
+      "impact": {}
+    },
     {
       "event_id": "9f25a816-b4b3-4186-bbd5-d60221ef5cb0",
       "source": "rss:decrypt",
@@ -80,10 +116,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-traders-may-look-for-deeper-pullback-zones?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-19T20:34:45+00:00",
       "raw_text": "Data shows Bitcoin dip buyers waiting for lower prices: Is $70K BTC’s next stop?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Data shows Bitcoin dip buyers waiting for lower prices: Is $70K BTC’s next stop?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2862,
+        "t_plus_15m": 0.2928,
+        "t_plus_1h": 0.3522
+      }
     },
     {
       "event_id": "0bd3fcdc-0b6c-4c0a-8358-c6c4e886ce9d",
@@ -238,7 +280,8 @@
       "impact": {
         "t_plus_5m": 0.0373,
         "t_plus_15m": -0.1079,
-        "t_plus_1h": 0.0384
+        "t_plus_1h": 0.0384,
+        "t_plus_4h": -0.0805
       }
     },
     {
@@ -268,7 +311,8 @@
       "impact": {
         "t_plus_5m": -0.0922,
         "t_plus_15m": 0.0308,
-        "t_plus_1h": -0.0441
+        "t_plus_1h": -0.0441,
+        "t_plus_4h": 0.1647
       }
     },
     {
@@ -1395,7 +1439,8 @@
         "t_plus_5m": 0.1176,
         "t_plus_15m": 0.0203,
         "t_plus_1h": -0.0675,
-        "t_plus_4h": -0.3135
+        "t_plus_4h": -0.3135,
+        "t_plus_24h": -0.7104
       }
     },
     {
@@ -6465,75 +6510,26 @@
       "timestamp_utc": "2026-05-13T18:56:16+00:00",
       "raw_text": "Senate votes to confirm Trump-pick Kevin Warsh to succeed Jerome Powell as Fed Chair\n\n<p>On Wednesday, the Senate voted to confirm President Donald Trump's pick for Federal Reserve Chair Kevin Warsh.</p>\n\n<p>On Wednesday, the Senate voted to confirm President Donald Trump's pick for Federal Reserve ",
       "impact": {}
-    },
-    {
-      "event_id": "d0860710-1fa4-44ee-8685-7d463082a31f",
-      "source": "rss:theblock",
-      "title": "Hyperliquid dominates weekly blockchain fee revenue as vertical chains gain ground",
-      "url": "https://www.theblock.co/post/400803/hyperliquid-dominates-weekly-blockchain-fee-revenue-vertical-chains-gain-ground?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-13T18:38:02+00:00",
-      "raw_text": "Hyperliquid dominates weekly blockchain fee revenue as vertical chains gain ground\n\n<p>Looking at last week's fee distribution across major chains, the rankings tell a different story than raw activity metrics might suggest.</p>\n\n<p>Looking at last week's fee distribution across major chains, the ra",
-      "impact": {}
-    },
-    {
-      "event_id": "24e38238-f5aa-42c3-99f0-ca5efc412bdd",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin traders expect ‘fast move’ to $90K following CLARITY Act vote",
-      "url": "https://cointelegraph.com/markets/bitcoin-traders-expect-fast-move-90k-following-clarity-act-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-13T18:30:00+00:00",
-      "raw_text": "Bitcoin traders expect ‘fast move’ to $90K following CLARITY Act vote\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin traders expect ‘fast move’ to $90K following CLARITY Act vote\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
-      "impact": {}
-    },
-    {
-      "event_id": "8df63fef-b589-4d46-841a-31aa094b9f4a",
-      "source": "rss:cointelegraph",
-      "title": "Price predictions 5/13: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
-      "url": "https://cointelegraph.com/markets/price-predictions-513-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC",
-        "ETH",
-        "BNB",
-        "XRP",
-        "SOL",
-        "DOGE"
-      ],
-      "timestamp_utc": "2026-05-13T18:09:17+00:00",
-      "raw_text": "Price predictions 5/13: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 5/13: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
-      "impact": {
-        "t_plus_5m": 0.1313,
-        "t_plus_15m": 0.3487,
-        "t_plus_1h": 0.0498,
-        "t_plus_4h": -0.2951,
-        "t_plus_24h": 2.5811
-      }
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 193,
-        "avg_1h": -0.15,
-        "avg_24h": -0.66,
+        "count": 192,
+        "avg_1h": -0.16,
+        "avg_24h": -1.13,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 86,
+        "avg_1h": -0.08,
+        "avg_24h": -0.68,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
         "count": 177,
-        "avg_1h": -0.09,
-        "avg_24h": -0.28,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 85,
-        "avg_1h": -0.08,
-        "avg_24h": -0.68,
+        "avg_1h": -0.07,
+        "avg_24h": -0.34,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
