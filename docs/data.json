@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-21T00:16:04.269184+00:00",
+  "generated_at": "2026-05-21T05:18:24.414017+00:00",
   "events": [
+    {
+      "event_id": "6a566d26-1258-491c-945a-d0de679b767e",
+      "source": "rss:decrypt",
+      "title": "Bitcoin Firm Nakamoto Plots 1-for-40 Stock Split Following 99% Price Plunge",
+      "url": "https://decrypt.co/368562/bitcoin-firm-nakamoto-stock-split-99-price-plunge",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-21T01:21:18+00:00",
+      "raw_text": "Bitcoin Firm Nakamoto Plots 1-for-40 Stock Split Following 99% Price Plunge\n\nBitcoin treasury company Nakamoto aims to massively reduce its share count as it seeks a price of at least $1 to regain Nasdaq compliance.",
+      "impact": {}
+    },
     {
       "event_id": "178fd765-ffcd-48cd-bf6e-34a26b1cae25",
       "source": "rss:decrypt",
@@ -32,10 +44,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-coinbase-premium-slidse-to-six-week-lows-but-there-is-a-silver-lining?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-20T22:53:48+00:00",
       "raw_text": "Key Bitcoin price metric used by bulls falls to six-week low, but there’s a silver lining\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Key Bitcoin price metric used by bulls falls to six-week low, but there’s a silver lining\" class=\"type:primaryImage\" src=\"https://images.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0199,
+        "t_plus_15m": -0.0076,
+        "t_plus_1h": 0.0817
+      }
     },
     {
       "event_id": "c4cecc6f-5e2d-44da-ab2e-ad4f1cf3c70f",
@@ -218,7 +236,8 @@
       "impact": {
         "t_plus_5m": -0.1233,
         "t_plus_15m": -0.0441,
-        "t_plus_1h": -0.0617
+        "t_plus_1h": -0.0617,
+        "t_plus_4h": -0.3387
       }
     },
     {
@@ -6492,22 +6511,16 @@
       "timestamp_utc": "2026-05-14T18:30:33+00:00",
       "raw_text": "OpenAI Confirms Security Breach Linked to AI Malware Campaign\n\nOpenAI says malware tied to the Shai-Hulud supply chain attack accessed internal repositories after infecting two employee devices.",
       "impact": {}
-    },
-    {
-      "event_id": "58d64280-407b-4908-9a9f-26adbf2172f8",
-      "source": "rss:cointelegraph",
-      "title": "US Senate Banking Committee votes to advance CLARITY Act",
-      "url": "https://cointelegraph.com/news/us-senate-banking-committee-advance-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-14T18:18:01+00:00",
-      "raw_text": "US Senate Banking Committee votes to advance CLARITY Act\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Senate Banking Committee votes to advance CLARITY Act\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pb",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 173,
+        "avg_1h": 0.02,
+        "avg_24h": -0.49,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
         "count": 31,
         "avg_1h": 0.16,
@@ -6521,15 +6534,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 188,
-        "avg_1h": 0.01,
-        "avg_24h": -0.75,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 172,
+        "count": 187,
         "avg_1h": 0.02,
-        "avg_24h": -0.49,
+        "avg_24h": -0.75,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
