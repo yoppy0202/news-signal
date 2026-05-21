@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-05-20T22:42:32.002000+00:00",
+  "generated_at": "2026-05-21T00:16:04.269184+00:00",
   "events": [
+    {
+      "event_id": "178fd765-ffcd-48cd-bf6e-34a26b1cae25",
+      "source": "rss:decrypt",
+      "title": "Shai-Hulud: What to Know About the Malware Spreading Through Software Pipelines",
+      "url": "https://decrypt.co/368477/shai-hulud-what-know-malware-spreading-software-pipelines",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-20T23:00:04+00:00",
+      "raw_text": "Shai-Hulud: What to Know About the Malware Spreading Through Software Pipelines\n\nThe Shai-Hulud supply-chain malware campaign is exploiting the automated systems developers trust to publish software safely.",
+      "impact": {}
+    },
+    {
+      "event_id": "63b4d8eb-1697-4b84-925c-981d461ee984",
+      "source": "rss:coindesk",
+      "title": "Polymarket moves to list parlays while SEC seeks public input on prediction market ETFs",
+      "url": "https://www.coindesk.com/policy/2026/05/20/polymarket-moves-to-list-parlays-while-sec-seeks-public-input-on-prediction-market-etfs",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-20T22:55:53+00:00",
+      "raw_text": "Polymarket moves to list parlays while SEC seeks public input on prediction market ETFs",
+      "impact": {}
+    },
+    {
+      "event_id": "bc578ac4-f698-4584-9abd-efb8ec88931c",
+      "source": "rss:cointelegraph",
+      "title": "Key Bitcoin price metric used by bulls falls to six-week low, but there’s a silver lining",
+      "url": "https://cointelegraph.com/markets/bitcoin-coinbase-premium-slidse-to-six-week-lows-but-there-is-a-silver-lining?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-20T22:53:48+00:00",
+      "raw_text": "Key Bitcoin price metric used by bulls falls to six-week low, but there’s a silver lining\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Key Bitcoin price metric used by bulls falls to six-week low, but there’s a silver lining\" class=\"type:primaryImage\" src=\"https://images.",
+      "impact": {}
+    },
+    {
+      "event_id": "c4cecc6f-5e2d-44da-ab2e-ad4f1cf3c70f",
+      "source": "rss:coindesk",
+      "title": "Bitcoin miners tied to AI rise as Nvidia posts big earnings beat and strong outlook",
+      "url": "https://www.coindesk.com/markets/2026/05/20/bitcoin-miners-rise-as-nvidia-posts-blowout-earnings-and-strong-outlook",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-20T22:22:52+00:00",
+      "raw_text": "Bitcoin miners tied to AI rise as Nvidia posts big earnings beat and strong outlook",
+      "impact": {}
+    },
+    {
+      "event_id": "54a4c49b-48b7-4bcf-b2c8-e78da24688bd",
+      "source": "rss:decrypt",
+      "title": "SpaceX IPO Filing Shows Musk Building an AI and Space Infrastructure Giant",
+      "url": "https://decrypt.co/368573/spacex-ipo-filing-elon-musk-ai-space-infrastructure-giant",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-20T22:19:18+00:00",
+      "raw_text": "SpaceX IPO Filing Shows Musk Building an AI and Space Infrastructure Giant\n\nThe rocket maker’s IPO filing outlines billions in AI spending, Starship development, and Elon Musk’s effort to combine launch systems, satellite internet, social media, and artificial intelligence under one company.",
+      "impact": {}
+    },
     {
       "event_id": "613f1ade-f0c1-46c1-8343-c1821c163db7",
       "source": "rss:coindesk",
@@ -80,10 +140,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-rallies-through-77k-despite-spot-btc-etf-outflows-topping-2b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-20T21:22:03+00:00",
       "raw_text": "Bitcoin rallies through $77K despite spot BTC ETF outflows topping $2B\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin rallies through $77K despite spot BTC ETF outflows topping $2B\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6L",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.3524,
+        "t_plus_15m": 0.3242,
+        "t_plus_1h": -0.0933
+      }
     },
     {
       "event_id": "d684a88a-11cf-41d5-b132-4d5cc9b84ef3",
@@ -6438,105 +6504,37 @@
       "timestamp_utc": "2026-05-14T18:18:01+00:00",
       "raw_text": "US Senate Banking Committee votes to advance CLARITY Act\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Senate Banking Committee votes to advance CLARITY Act\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pb",
       "impact": {}
-    },
-    {
-      "event_id": "6ce7b78e-dd5c-4696-8a62-0d37fc30566d",
-      "source": "rss:decrypt",
-      "title": "Kraken to Migrate Wrapped Bitcoin Tech to Chainlink as LayerZero Exodus Expands",
-      "url": "https://decrypt.co/367880/kraken-migrate-wrapped-bitcoin-chainlink-layerzero-exodus",
-      "event_type": "hack",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-14T18:09:49+00:00",
-      "raw_text": "Kraken to Migrate Wrapped Bitcoin Tech to Chainlink as LayerZero Exodus Expands\n\nCrypto exchange Kraken is the latest firm to shift away from LayerZero tech following last month's $292 million Kelp DAO exploit.",
-      "impact": {}
-    },
-    {
-      "event_id": "4d5a3ac8-9eab-4755-87f8-50ecf2dc120f",
-      "source": "rss:theblock",
-      "title": "Strive shares jump on ‘daily dividend company’ strategy as firm goes debt free",
-      "url": "https://www.theblock.co/post/401332/strive-shares-7-daily-dividend-company-strategy-firm-debt-free?utm_source=rss&utm_medium=rss",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-14T17:54:48+00:00",
-      "raw_text": "Strive shares jump on ‘daily dividend company’ strategy as firm goes debt free\n\n<p>Strive said SATA will become the first U.S.-listed security to pay cash dividends every business day as its BTC holdings climb.</p>\n\n<p>Strive said SATA will become the first U.S.-listed security to pay cash dividends",
-      "impact": {
-        "t_plus_5m": 0.2173,
-        "t_plus_15m": 0.1742,
-        "t_plus_1h": -0.0692,
-        "t_plus_4h": -0.1368,
-        "t_plus_24h": -2.6504
-      }
-    },
-    {
-      "event_id": "d5ef68b0-0196-4910-98b7-c4693aa55230",
-      "source": "rss:coindesk",
-      "title": "Bitcoin hits $82,000, Coinbase leads crypto stock gains as Clarity Act advances",
-      "url": "https://www.coindesk.com/markets/2026/05/14/bitcoin-hits-usd82-000-coinbase-leads-crypto-stock-gains-as-clarity-act-advances",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-14T17:51:00+00:00",
-      "raw_text": "Bitcoin hits $82,000, Coinbase leads crypto stock gains as Clarity Act advances",
-      "impact": {}
-    },
-    {
-      "event_id": "8d3994bb-d983-4b1f-ab93-84dc4ecc11e7",
-      "source": "rss:theblock",
-      "title": "JPMorgan says ether and altcoins could keep underperforming bitcoin without stronger activity",
-      "url": "https://www.theblock.co/post/401349/jpmorgan-bitcoin-ether-altcoins-crypto?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-14T17:42:55+00:00",
-      "raw_text": "JPMorgan says ether and altcoins could keep underperforming bitcoin without stronger activity\n\n<p>That is \"unlikely to change unless we see meaningful improvements in network activity, DeFi and real world applications,\" the analysts said.</p>\n\n<p>That is \"unlikely to change unless we see meaningful ",
-      "impact": {}
-    },
-    {
-      "event_id": "dcf9fecc-2e6e-4701-a156-f4ee5e56929c",
-      "source": "rss:decrypt",
-      "title": "AI Agents May Complete Dangerous Tasks Without Understanding the Consequences: Study",
-      "url": "https://decrypt.co/367869/ai-agents-dangerous-tasks-without-understanding-consequences",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-14T17:32:31+00:00",
-      "raw_text": "AI Agents May Complete Dangerous Tasks Without Understanding the Consequences: Study\n\nResearchers found that AI agents designed to automate tasks often pursue them without recognizing when their actions are dangerous.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 31,
+        "avg_1h": 0.16,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 97,
-        "avg_1h": 0.0,
+        "count": 98,
+        "avg_1h": -0.0,
         "avg_24h": 0.55,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 187,
+        "count": 188,
         "avg_1h": 0.01,
         "avg_24h": -0.75,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 173,
+        "count": 172,
         "avg_1h": 0.02,
         "avg_24h": -0.49,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
-        "count": 10,
-        "avg_1h": -0.26,
-        "avg_24h": -2.65,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 31,
-        "avg_1h": 0.16,
+        "count": 9,
+        "avg_1h": -0.32,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
