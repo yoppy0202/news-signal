@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-05-21T19:10:29.033318+00:00",
+  "generated_at": "2026-05-21T21:45:35.285624+00:00",
   "events": [
+    {
+      "event_id": "faa61e49-1e1a-4e84-8f74-61946764d2be",
+      "source": "rss:decrypt",
+      "title": "Mark Cuban Says He Sold Most of His Bitcoin",
+      "url": "https://decrypt.co/368678/mark-cuban-sold-most-his-bitcoin",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-21T19:23:34+00:00",
+      "raw_text": "Mark Cuban Says He Sold Most of His Bitcoin\n\nOutspoken billionaire Mark Cuban is disappointed with Bitcoin's performance, and said he's parted ways with most of the BTC in his portfolio.",
+      "impact": {}
+    },
+    {
+      "event_id": "8f24dbdb-8e69-49ca-a5b9-809528446d31",
+      "source": "rss:coindesk",
+      "title": "Satoshi’s 1.1M bitcoin and millions more can be saved from quantum attack, says expert",
+      "url": "https://www.coindesk.com/tech/2026/05/21/satoshi-s-1-1m-bitcoin-stash-can-be-saved-from-quantum-attack-says-americanfortress",
+      "event_type": "hack",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-21T19:10:03+00:00",
+      "raw_text": "Satoshi’s 1.1M bitcoin and millions more can be saved from quantum attack, says expert",
+      "impact": {}
+    },
+    {
+      "event_id": "82ead59a-b924-402a-9614-fd31887dc635",
+      "source": "rss:cointelegraph",
+      "title": "Petition to scrap South Korea's crypto tax reaches 50K threshold",
+      "url": "https://cointelegraph.com/news/petition-scrap-south-korea-crypto-tax-50k-threshold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-21T18:44:45+00:00",
+      "raw_text": "Petition to scrap South Korea's crypto tax reaches 50K threshold\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Petition to scrap South Korea's crypto tax reaches 50K threshold\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZ",
+      "impact": {}
+    },
+    {
+      "event_id": "7cb4f4c6-0f3e-44ce-855b-20c08a062a2e",
+      "source": "rss:theblock",
+      "title": "Former EF developer Dankrad Feist suggests $1 billion raise to form new Ethereum advocacy group",
+      "url": "https://www.theblock.co/post/402271/former-ef-developer-dankrad-feist-suggests-1-billion-raise-new-ethereum-advocacy-group?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-21T18:27:15+00:00",
+      "raw_text": "Former EF developer Dankrad Feist suggests $1 billion raise to form new Ethereum advocacy group\n\n<p>The Ethereum Foundation is a non-profit stewarding the development of the world's second-largest blockchain.</p>\n\n<p>The Ethereum Foundation is a non-profit stewarding the development of the world's s",
+      "impact": {}
+    },
+    {
+      "event_id": "cdb73625-409a-461d-a59e-cd82a6e81be7",
+      "source": "rss:cointelegraph",
+      "title": "CFTC signs MOU with National Hockey League over prediction markets",
+      "url": "https://cointelegraph.com/news/cftc-national-hockey-league-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-21T18:15:18+00:00",
+      "raw_text": "CFTC signs MOU with National Hockey League over prediction markets\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC signs MOU with National Hockey League over prediction markets\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pb",
+      "impact": {}
+    },
     {
       "event_id": "b9ecdc28-13e8-49f6-b1ac-24e5380de989",
       "source": "rss:decrypt",
@@ -47,6 +107,18 @@
       "tokens": [],
       "timestamp_utc": "2026-05-21T17:39:17+00:00",
       "raw_text": "Nvidia Beats, Stock Dumps—BofA Says Buy the Dip\n\nRecord $81.6 billion in revenue for Nvidia—and yet the stock fell. Bank of America called the dip noise and raised its price target.",
+      "impact": {}
+    },
+    {
+      "event_id": "2238b5c4-9384-490b-8525-81cf61f147a5",
+      "source": "rss:cointelegraph",
+      "title": "Blockchain.com confidentially submits IPO filing with SEC",
+      "url": "https://cointelegraph.com/news/blockchaincom-confidentially-submits-ipo-filing-with-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-21T17:30:31+00:00",
+      "raw_text": "Blockchain.com confidentially submits IPO filing with SEC\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Blockchain.com confidentially submits IPO filing with SEC\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5",
       "impact": {}
     },
     {
@@ -140,10 +212,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-accumulation-trends-weaken-as-realized-losses-jump-to-600m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "whale_move",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-21T16:21:13+00:00",
       "raw_text": "Bitcoin accumulation trends weaken as realized losses jump to $600M\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin accumulation trends weaken as realized losses jump to $600M\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.7362,
+        "t_plus_15m": -0.5986,
+        "t_plus_1h": 0.0503
+      }
     },
     {
       "event_id": "5c51283b-d7de-4b7c-b3f2-4cdc46311d68",
@@ -159,7 +237,8 @@
       "raw_text": "U.S. Lawmaker Unveils Bill to Codify Strategic Bitcoin Reserve, Draws Bipartisan Support\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/U.S.-Lawmaker-Unveils-Bill-to-Codify-Strategic-Bitcoin-Reserve",
       "impact": {
         "t_plus_5m": -0.0283,
-        "t_plus_15m": 0.0412
+        "t_plus_15m": 0.0412,
+        "t_plus_1h": -0.2444
       }
     },
     {
@@ -169,10 +248,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-due-5-move-as-analysis-stays-bullish-on-btc-price-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-21T15:50:16+00:00",
       "raw_text": "Bitcoin due '5%+' move as analysis stays bullish on BTC price outlook\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin due '5%+' move as analysis stays bullish on BTC price outlook\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.6397,
+        "t_plus_15m": -0.5965,
+        "t_plus_1h": -0.8576
+      }
     },
     {
       "event_id": "20244b31-3bdd-40aa-bd93-fa6d62ff0784",
@@ -345,7 +430,8 @@
       "impact": {
         "t_plus_5m": -0.3367,
         "t_plus_15m": -0.1777,
-        "t_plus_1h": -0.0116
+        "t_plus_1h": -0.0116,
+        "t_plus_4h": 0.6997
       }
     },
     {
@@ -459,7 +545,8 @@
       "impact": {
         "t_plus_5m": -0.3961,
         "t_plus_15m": -0.569,
-        "t_plus_1h": -0.2479
+        "t_plus_1h": -0.2479,
+        "t_plus_4h": 0.8828
       }
     },
     {
@@ -1369,10 +1456,14 @@
       "url": "https://bitcoinmagazine.com/business/verifiedx-brings-native-bitcoin-redemption-and-frost-privacy-to-base-defi-with-fireblocks-integration",
       "event_type": "listing",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-20T18:27:43+00:00",
       "raw_text": "VerifiedX Brings Native Bitcoin Redemption and FROST Privacy to Base DeFi with Fireblocks Integration\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/verifiedx-thumbnail-scaled.webp\" style=\"display: ",
-      "impact": {}
+      "impact": {
+        "t_plus_24h": 0.1054
+      }
     },
     {
       "event_id": "a0093b98-b9f3-42b3-8e97-815a3435bcc0",
@@ -6412,122 +6503,44 @@
         "t_plus_15m": -0.2021,
         "t_plus_1h": -0.2481
       }
-    },
-    {
-      "event_id": "d4e4af5c-9818-4256-8f24-9650fa8b4bcd",
-      "source": "rss:coindesk",
-      "title": "CME, ICE push U.S. regulators to scrutinize Hyperliquid over manipulation risks",
-      "url": "https://www.coindesk.com/markets/2026/05/15/cme-ice-push-u-s-regulators-to-scrutinize-hyperliquid-over-manipulation-risks-bloomberg",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-15T15:46:46+00:00",
-      "raw_text": "CME, ICE push U.S. regulators to scrutinize Hyperliquid over manipulation risks",
-      "impact": {}
-    },
-    {
-      "event_id": "d504a212-e8c5-4de4-a7f0-4c2174cff534",
-      "source": "rss:bitcoinmagazine",
-      "title": "The Trump Family Trust Bought Bitcoin-Linked Stocks in First Quarter: Filing",
-      "url": "https://bitcoinmagazine.com/news/trump-trust-bought-bitcoin-linked-stocks",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-15T15:38:11+00:00",
-      "raw_text": "The Trump Family Trust Bought Bitcoin-Linked Stocks in First Quarter: Filing\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Trump-Family-Trust-Bought-Bitcoin-Linked-Stocks-in-First-Quarter-Filing.jp",
-      "impact": {}
-    },
-    {
-      "event_id": "db30aa62-ca4f-4f40-9f3b-5975f94ae4a7",
-      "source": "rss:coindesk",
-      "title": "Iran war shows markets no longer sleep",
-      "url": "https://www.coindesk.com/opinion/2026/05/15/iran-war-shows-markets-no-longer-sleep",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-15T15:30:00+00:00",
-      "raw_text": "Iran war shows markets no longer sleep",
-      "impact": {}
-    },
-    {
-      "event_id": "64717918-8cb6-4545-8c28-9569f0298855",
-      "source": "rss:cointelegraph",
-      "title": "Crypto’s CLARITY Act faces partisan fight over ethics on Senate floor",
-      "url": "https://cointelegraph.com/features/crypto-clarity-act-faces-partisan-fight-ethics-senate-floor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-15T15:24:37+00:00",
-      "raw_text": "Crypto’s CLARITY Act faces partisan fight over ethics on Senate floor\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto’s CLARITY Act faces partisan fight over ethics on Senate floor\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
-      "impact": {}
-    },
-    {
-      "event_id": "aa11ee37-8616-4a7b-9f42-35dc1befbdb4",
-      "source": "rss:coindesk",
-      "title": "Crypto market structure bill clears key hurdle as ethics debate looms over floor vote",
-      "url": "https://www.coindesk.com/coindesk-news/2026/05/15/crypto-market-structure-bill-clears-key-hurdle-as-ethics-debate-looms-over-floor-vote",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-15T15:21:56+00:00",
-      "raw_text": "Crypto market structure bill clears key hurdle as ethics debate looms over floor vote",
-      "impact": {}
-    },
-    {
-      "event_id": "993c1b0e-df1a-4624-a76a-a4ac6117a789",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin price dives under $79K as US bond market triggers 3% BTC price rout",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-dives-under-79k-us-bond-market-triggers-3-btc-price-rout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-15T15:21:21+00:00",
-      "raw_text": "Bitcoin price dives under $79K as US bond market triggers 3% BTC price rout\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price dives under $79K as US bond market triggers 3% BTC price rout\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528",
-      "impact": {
-        "t_plus_5m": 0.0272,
-        "t_plus_15m": -0.0824,
-        "t_plus_1h": -0.1439
-      }
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 176,
-        "avg_1h": 0.04,
+        "count": 178,
+        "avg_1h": 0.06,
         "avg_24h": -0.07,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 182,
-        "avg_1h": 0.0,
-        "avg_24h": -0.53,
+      "hack": {
+        "count": 26,
+        "avg_1h": -0.09,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 101,
+        "count": 102,
         "avg_1h": -0.04,
         "avg_24h": 0.5,
         "win_rate_1h_gt5pct": 0.0
       },
-      "whale_move": {
-        "count": 3,
-        "avg_1h": -0.89,
-        "avg_24h": null,
+      "unknown": {
+        "count": 178,
+        "avg_1h": -0.03,
+        "avg_24h": -0.53,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 25,
-        "avg_1h": -0.02,
+      "whale_move": {
+        "count": 3,
+        "avg_1h": -0.42,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
         "count": 13,
         "avg_1h": -0.3,
-        "avg_24h": null,
+        "avg_24h": 0.11,
         "win_rate_1h_gt5pct": 0.0
       }
     }
