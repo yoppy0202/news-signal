@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-05-21T23:15:46.234963+00:00",
+  "generated_at": "2026-05-22T04:33:11.012469+00:00",
   "events": [
+    {
+      "event_id": "02597138-03c8-452a-8b8c-1ebd4c643b2f",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin longs soar despite weak US macroeconomic data: Is $82K BTC next?",
+      "url": "https://cointelegraph.com/markets/bitcoin-longs-soar-despite-weak-us-macroeconomic-data-is-82k-btc-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-05-21T23:07:13+00:00",
+      "raw_text": "Bitcoin longs soar despite weak US macroeconomic data: Is $82K BTC next?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin longs soar despite weak US macroeconomic data: Is $82K BTC next?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
+      "impact": {
+        "t_plus_5m": 0.2313,
+        "t_plus_15m": 0.1796,
+        "t_plus_1h": 0.1132,
+        "t_plus_4h": 0.3272
+      }
+    },
     {
       "event_id": "6268af9c-e1f8-467e-a451-5b1361064ed4",
       "source": "rss:decrypt",
@@ -20,10 +39,17 @@
       "url": "https://decrypt.co/368694/prominent-ethereum-dev-proposes-1-billion-eth-organization",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-05-21T22:08:36+00:00",
       "raw_text": "Prominent Ethereum Dev Proposes $1 Billion ETH Organization With Leader Who 'Wants to Fight'\n\nFormer Ethereum Foundation researcher Dankrad Feist appeared to take pointed shots Thursday at ETH co-founder Vitalik Buterin.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1712,
+        "t_plus_15m": 0.1071,
+        "t_plus_1h": 0.1124,
+        "t_plus_4h": 0.3181
+      }
     },
     {
       "event_id": "6ae238c8-a36c-48d5-8780-477b3e7e9beb",
@@ -32,10 +58,17 @@
       "url": "https://cointelegraph.com/news/harvard-dumps-entire-eth-position-one-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-05-21T22:02:48+00:00",
       "raw_text": "Harvard dumps entire ETH position after just one quarter\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Harvard dumps entire ETH position after just one quarter\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pb",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2128,
+        "t_plus_15m": 0.1021,
+        "t_plus_1h": 0.0619,
+        "t_plus_4h": 0.3053
+      }
     },
     {
       "event_id": "b8234a81-21ff-401b-bc32-e4884cc3226d",
@@ -116,10 +149,17 @@
       "url": "https://cointelegraph.com/markets/new-bitcoin-lows-look-extremely-slim-as-long-term-holders-add-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-21T20:39:54+00:00",
       "raw_text": "Chance of new Bitcoin lows ‘extremely slim’ as long-term holders’ supply tops 15M BTC\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Chance of new Bitcoin lows ‘extremely slim’ as long-term holders’ supply tops 15M BTC\" class=\"type:primaryImage\" src=\"https://images.cointele",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0999,
+        "t_plus_15m": 0.0648,
+        "t_plus_1h": 0.2033,
+        "t_plus_4h": -0.1438
+      }
     },
     {
       "event_id": "68fcf693-4092-4d49-8065-1232a8761f1b",
@@ -160,7 +200,8 @@
       "impact": {
         "t_plus_5m": -0.1914,
         "t_plus_15m": -0.104,
-        "t_plus_1h": -0.0099
+        "t_plus_1h": -0.0099,
+        "t_plus_4h": -0.1621
       }
     },
     {
@@ -6479,37 +6520,25 @@
       "timestamp_utc": "2026-05-15T18:46:24+00:00",
       "raw_text": "ChatGPT Can Now See Your Bank Account—Here's What That Actually Means\n\nOpenAI launched a personal finance tool that connects ChatGPT to your bank accounts, giving spending advice based on your actual habits.",
       "impact": {}
-    },
-    {
-      "event_id": "f6b4d769-fe2b-47e6-99cd-7e6da3ec8a2e",
-      "source": "rss:cointelegraph",
-      "title": "US law firm files motion requesting redistribution of $344M USDt linked to Iran",
-      "url": "https://cointelegraph.com/news/us-law-firm-motion-redistribution-344m-usdt-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-15T18:41:57+00:00",
-      "raw_text": "US law firm files motion requesting redistribution of $344M USDt linked to Iran\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US law firm files motion requesting redistribution of $344M USDt linked to Iran \" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/i",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 182,
+        "avg_1h": -0.02,
+        "avg_24h": -0.53,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
         "count": 28,
         "avg_1h": -0.09,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 181,
-        "avg_1h": -0.03,
-        "avg_24h": -0.53,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 174,
-        "avg_1h": 0.05,
+        "count": 173,
+        "avg_1h": 0.06,
         "avg_24h": -0.07,
         "win_rate_1h_gt5pct": 0.0
       },
