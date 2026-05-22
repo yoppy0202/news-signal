@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-22T21:21:28.910227+00:00",
+  "generated_at": "2026-05-22T23:17:17.735139+00:00",
   "events": [
+    {
+      "event_id": "430d5f0e-45bb-4d18-adf0-fb932c6e4fe6",
+      "source": "rss:decrypt",
+      "title": "Kash Patel-Linked Apparel Store Goes Dark After Pushing Crypto-Stealing Malware",
+      "url": "https://decrypt.co/368856/kash-patel-apparel-store-goes-dark-crypto-malware",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-22T21:13:00+00:00",
+      "raw_text": "Kash Patel-Linked Apparel Store Goes Dark After Pushing Crypto-Stealing Malware\n\nUser losses weren’t immediately clear.",
+      "impact": {}
+    },
+    {
+      "event_id": "20faed6b-cc6f-4744-899f-a84e0ad321f9",
+      "source": "rss:decrypt",
+      "title": "SEC Delays Tokenized Stocks Innovation Exemption Amid Concerns: Bloomberg",
+      "url": "https://decrypt.co/368855/sec-delays-tokenized-stocks-innovation-exemption-amid-concerns-bloomberg",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-22T20:46:37+00:00",
+      "raw_text": "SEC Delays Tokenized Stocks Innovation Exemption Amid Concerns: Bloomberg\n\nThe SEC’s expected regulatory framework would have provided clarity for companies looking to tokenize traditional assets like stocks.",
+      "impact": {}
+    },
+    {
+      "event_id": "0de45b12-b507-4aa4-a271-5f2aac6c1e00",
+      "source": "rss:decrypt",
+      "title": "Microsoft's Free AI Just Beat OpenAI and Google at Browsing the Web",
+      "url": "https://decrypt.co/368807/microsoft-fara15-open-source-ai-beats-openai-gemini",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-22T20:31:03+00:00",
+      "raw_text": "Microsoft's Free AI Just Beat OpenAI and Google at Browsing the Web\n\nFara1.5 is a family of open-weight browser agents from Microsoft Research that outperforms OpenAI's Operator and Google's Gemini 2.5 Computer Use on the industry's toughest live-web benchmark.",
+      "impact": {}
+    },
     {
       "event_id": "32db253e-6c83-4cde-a965-ed4f2582549b",
       "source": "rss:decrypt",
@@ -44,10 +80,16 @@
       "url": "https://www.theblock.co/post/402264/new-strategic-bitcoin-reserve-bill-drops-btc-purchase-target-adds-lockup?utm_source=rss&utm_medium=rss",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-22T19:45:08+00:00",
       "raw_text": "New strategic bitcoin reserve bill drops 1 million BTC purchase target, adds 20-year lockup period\n\n<p>The bill would require quarterly public proof-of-reserve disclosures and third-party audits of government bitcoin holdings.</p>\n\n<p>The bill would require quarterly public proof-of-reserve disclosu",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.254,
+        "t_plus_15m": -0.1165,
+        "t_plus_1h": -0.0207
+      }
     },
     {
       "event_id": "b39129f9-f087-4879-a1fd-4c80ce30026b",
@@ -71,6 +113,18 @@
       "tokens": [],
       "timestamp_utc": "2026-05-22T19:40:15+00:00",
       "raw_text": "Robinhood Crypto COO Tanya Denisova is leaving company amid revenue slowdown",
+      "impact": {}
+    },
+    {
+      "event_id": "7f6272d4-15c4-43b4-9e60-7409d23d00db",
+      "source": "rss:cointelegraph",
+      "title": "Price predictions 5/22: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+      "url": "https://cointelegraph.com/markets/price-predictions-522-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-22T19:33:51+00:00",
+      "raw_text": "Price predictions 5/22: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 5/22: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
       "impact": {}
     },
     {
@@ -104,10 +158,16 @@
       "url": "https://bitcoinmagazine.com/news/a-freshman-congressman-national-bitcoin",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-22T18:54:55+00:00",
       "raw_text": "A Freshman Congressman from Nashville Wants to Make the National Bitcoin Reserve Permanent\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/A-Freshman-Congressman-from-Nashville-Wants-to-Make-the-Nati",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.7502,
+        "t_plus_15m": 0.4371,
+        "t_plus_1h": -0.1439
+      }
     },
     {
       "event_id": "b4ac6ff6-940d-40e1-83a4-48dff4a4d5c0",
@@ -280,7 +340,8 @@
       "impact": {
         "t_plus_5m": 0.1417,
         "t_plus_15m": 0.1892,
-        "t_plus_1h": 0.2026
+        "t_plus_1h": 0.2026,
+        "t_plus_4h": -1.0823
       }
     },
     {
@@ -298,7 +359,8 @@
       "impact": {
         "t_plus_5m": 0.0688,
         "t_plus_15m": 0.1116,
-        "t_plus_1h": 0.185
+        "t_plus_1h": 0.185,
+        "t_plus_4h": -1.1041
       }
     },
     {
@@ -515,6 +577,18 @@
       "tokens": [],
       "timestamp_utc": "2026-05-22T13:14:46+00:00",
       "raw_text": "CoinDesk 20 performance update: NEAR surges 19.4% as index trades flat",
+      "impact": {}
+    },
+    {
+      "event_id": "19c112e9-3eee-4141-ba45-1dabb19a35bd",
+      "source": "rss:coindesk",
+      "title": "Trump Media moved but 'did not sell' $205 million in bitcoin amid rising losses on crypto bets",
+      "url": "https://www.coindesk.com/markets/2026/05/22/trump-media-moves-another-usd205m-in-bitcoin-as-losses-on-crypto-bet-swell-to-usd455m",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-22T13:08:41+00:00",
+      "raw_text": "Trump Media moved but 'did not sell' $205 million in bitcoin amid rising losses on crypto bets",
       "impact": {}
     },
     {
@@ -813,6 +887,18 @@
         "t_plus_1h": -0.0287,
         "t_plus_4h": 0.239
       }
+    },
+    {
+      "event_id": "f52f69c8-3cf6-439e-825b-9fedcfae27cc",
+      "source": "rss:cointelegraph",
+      "title": "Hamilton ETFs files for leveraged Bitcoin income ETF in Canada",
+      "url": "https://cointelegraph.com/news/hamilton-etfs-files-for-leveraged-bitcoin-income-etf-in-canada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-22T07:00:00+00:00",
+      "raw_text": "Hamilton ETFs files for leveraged Bitcoin income ETF in Canada\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hamilton ETFs files for leveraged Bitcoin income ETF in Canada\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY",
+      "impact": {}
     },
     {
       "event_id": "3d12f932-20a2-4b09-a224-8fbd9d61875e",
@@ -6394,98 +6480,26 @@
       "timestamp_utc": "2026-05-18T10:54:04+00:00",
       "raw_text": "South Korea reviews Hana Bank’s Dunamu stake under banking rules: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea reviews Hana Bank’s Dunamu stake under banking rules: Report\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
       "impact": {}
-    },
-    {
-      "event_id": "b56f97f1-e3d6-42d0-afc0-6938a27cd729",
-      "source": "rss:coindesk",
-      "title": "Bitcoin slides below $77,000 as Trump’s Iran warning rattles risk assets",
-      "url": "https://www.coindesk.com/markets/2026/05/18/bitcoin-slides-below-usd77-000-as-trump-s-iran-warning-rattles-risk-assets",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T10:50:13+00:00",
-      "raw_text": "Bitcoin slides below $77,000 as Trump’s Iran warning rattles risk assets",
-      "impact": {}
-    },
-    {
-      "event_id": "27a3c77c-b3c7-40c2-a34a-a9c90cb29cfc",
-      "source": "rss:cointelegraph",
-      "title": "Goldman Sachs exits XRP, Solana ETF exposure in Q1 2026",
-      "url": "https://cointelegraph.com/news/goldman-sachs-xrp-solana-etf-exposure-q1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T10:47:03+00:00",
-      "raw_text": "Goldman Sachs exits XRP, Solana ETF exposure in Q1 2026\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Goldman Sachs exits XRP, Solana ETF exposure in Q1 2026\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9",
-      "impact": {}
-    },
-    {
-      "event_id": "d6e02ae2-d0b5-42d2-8bb2-06fa80ce6f87",
-      "source": "rss:coindesk",
-      "title": "Fed minutes, Meta stablecoin Senate deadline: Crypto Week Ahead",
-      "url": "https://www.coindesk.com/markets/2026/05/18/fed-minutes-meta-stablecoin-senate-deadline-crypto-week-ahead",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T10:36:34+00:00",
-      "raw_text": "Fed minutes, Meta stablecoin Senate deadline: Crypto Week Ahead",
-      "impact": {}
-    },
-    {
-      "event_id": "39c09983-d82b-4e91-95b2-9a9b1652d5b8",
-      "source": "rss:cointelegraph",
-      "title": "AFX launches sovereign Layer 1, providing an optimized execution environment for on-chain perp DEXes",
-      "url": "https://cointelegraph.com/press-releases/afx-launches-sovereign-layer-1-providing-an-optimized-execution-environment-for-on-chain-perp-dexes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T10:30:00+00:00",
-      "raw_text": "AFX launches sovereign Layer 1, providing an optimized execution environment for on-chain perp DEXes\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"AFX launches sovereign Layer 1, providing an optimized execution environment for on-chain perp DEXes\" class=\"type:primaryImage",
-      "impact": {}
-    },
-    {
-      "event_id": "6de651ed-4be6-499a-92a1-280cc5264abf",
-      "source": "rss:cointelegraph",
-      "title": "BTC price ‘bull trap’ at $76.5K? Five things to know in Bitcoin this week",
-      "url": "https://cointelegraph.com/markets/btc-price-bull-trap-76-5k-five-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T10:23:31+00:00",
-      "raw_text": "BTC price ‘bull trap’ at $76.5K? Five things to know in Bitcoin this week\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BTC price ‘bull trap’ at $76.5K? Five things to know in Bitcoin this week\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
-      "impact": {}
-    },
-    {
-      "event_id": "f5f49d61-9208-444e-a08f-0ec2e7668378",
-      "source": "rss:cointelegraph",
-      "title": "Capital B boosts Bitcoin reserves with $15.2M purchase",
-      "url": "https://cointelegraph.com/news/capital-b-acquires-bitcoin-reach-btc-total-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T10:11:43+00:00",
-      "raw_text": "Capital B boosts Bitcoin reserves with $15.2M purchase\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Capital B boosts Bitcoin reserves with $15.2M purchase\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZ",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 165,
-        "avg_1h": 0.07,
-        "avg_24h": 0.37,
+      "unknown": {
+        "count": 183,
+        "avg_1h": -0.07,
+        "avg_24h": -0.18,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
         "count": 108,
-        "avg_1h": -0.04,
+        "avg_1h": -0.05,
         "avg_24h": 0.56,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 184,
-        "avg_1h": -0.07,
-        "avg_24h": -0.18,
+      "narrative": {
+        "count": 166,
+        "avg_1h": 0.07,
+        "avg_24h": 0.37,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
