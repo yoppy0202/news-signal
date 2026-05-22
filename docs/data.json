@@ -1,6 +1,168 @@
 {
-  "generated_at": "2026-05-22T15:17:55.253707+00:00",
+  "generated_at": "2026-05-22T18:01:28.033746+00:00",
   "events": [
+    {
+      "event_id": "8472ab54-9608-47f4-a563-3cc255c42393",
+      "source": "rss:bitcoinmagazine",
+      "title": "Happy Bitcoin Pizza Day, The 16th Anniversary of Laszlo Hanyecz Paying 10,000 BTC For Two Papa John’s Pies",
+      "url": "https://bitcoinmagazine.com/news/happy-bitcoin-pizza-day-16th-anniversary",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-05-22T16:08:56+00:00",
+      "raw_text": "Happy Bitcoin Pizza Day, The 16th Anniversary of Laszlo Hanyecz Paying 10,000 BTC For Two Papa John’s Pies\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Happy-Bitcoin-Pizza-Day-The-16th-Anniversary",
+      "impact": {
+        "t_plus_5m": 0.0688,
+        "t_plus_15m": 0.1116,
+        "t_plus_1h": 0.185
+      }
+    },
+    {
+      "event_id": "771ba911-a4b9-455b-bcd9-8d3cb4d7b686",
+      "source": "rss:decrypt",
+      "title": "Trump Media Moves Over $200 Million in Bitcoin as Losses Pile Up: Arkham",
+      "url": "https://decrypt.co/368752/trump-media-moves-over-200-million-bitcoin-losses-arkham",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-22T15:56:52+00:00",
+      "raw_text": "Trump Media Moves Over $200 Million in Bitcoin as Losses Pile Up: Arkham\n\nIt's unknown whether Trump Media &#038; Technology Group is selling its Bitcoin, though it has amassed sizable losses on its holdings.",
+      "impact": {}
+    },
+    {
+      "event_id": "453eccf3-cb0f-4ebb-829c-1deaf6f5b0d8",
+      "source": "rss:coindesk",
+      "title": "Congress hits Polymarket and Kalshi with a massive insider trading probe",
+      "url": "https://www.coindesk.com/policy/2026/05/22/congress-probes-polymarket-and-kalshi-over-fears-government-employees-are-trading-on-secret-info",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-22T15:27:40+00:00",
+      "raw_text": "Congress hits Polymarket and Kalshi with a massive insider trading probe",
+      "impact": {}
+    },
+    {
+      "event_id": "104f9872-7175-40f4-8005-e16dd53b4b54",
+      "source": "rss:decrypt",
+      "title": "NYSE Parent, OKX Counter Hyperliquid With Regulated Oil Perpetual Futures",
+      "url": "https://decrypt.co/368755/nyse-parent-okx-counter-hyperliquid-regulated-oil-perpetual-futures",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-22T15:15:30+00:00",
+      "raw_text": "NYSE Parent, OKX Counter Hyperliquid With Regulated Oil Perpetual Futures\n\nOKX debuted perpetual oil futures tied to Intercontinental Exchange’s benchmarks, the latest sign of growing competition for Hyperliquid.",
+      "impact": {}
+    },
+    {
+      "event_id": "051ab7f6-a2fc-4ee5-befb-cc08b18ccea4",
+      "source": "rss:coindesk",
+      "title": "The agentic CFO in your pocket",
+      "url": "https://www.coindesk.com/opinion/2026/05/22/the-agentic-cfo-in-your-pocket",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-22T14:57:29+00:00",
+      "raw_text": "The agentic CFO in your pocket",
+      "impact": {}
+    },
+    {
+      "event_id": "f4ef0c9c-f95c-4433-bf70-20208b0912de",
+      "source": "rss:cointelegraph",
+      "title": "NYSE owner ICE to launch oil-linked futures with OKX",
+      "url": "https://cointelegraph.com/news/nyse-owner-ice-oil-perpetual-futures-okx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-22T14:42:45+00:00",
+      "raw_text": "NYSE owner ICE to launch oil-linked futures with OKX\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"NYSE owner ICE to launch oil-linked futures with OKX\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpY",
+      "impact": {}
+    },
+    {
+      "event_id": "56dc7f28-06c8-4a40-8879-e5fee6a2bd17",
+      "source": "rss:decrypt",
+      "title": "House Republicans Open Investigation Into Kalshi, Polymarket Over Insider Trading",
+      "url": "https://decrypt.co/368748/house-republicans-open-investigation-kalshi-polymarket-insider-trades",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-22T14:37:58+00:00",
+      "raw_text": "House Republicans Open Investigation Into Kalshi, Polymarket Over Insider Trading\n\nThe chair of the powerful House Oversight Committee has requested documents from Polymarket and Kalshi regarding insider trading and war-related markets.",
+      "impact": {}
+    },
+    {
+      "event_id": "efc99c4b-8607-4f9b-9b04-10f37cd68251",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin miner MARA spent $4.3M on CEO security in 2025 as crypto attacks rise",
+      "url": "https://cointelegraph.com/news/mara-spends-430k-ceo-vehicle-armoring-wrench-attacks-rise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-22T14:25:50+00:00",
+      "raw_text": "Bitcoin miner MARA spent $4.3M on CEO security in 2025 as crypto attacks rise\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin miner MARA spent $4.3M on CEO security in 2025 as crypto attacks rise\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
+      "impact": {}
+    },
+    {
+      "event_id": "ee3d31e6-d19a-4b5e-9b22-7ed5b88ff349",
+      "source": "rss:coindesk",
+      "title": "Live markets: Bitcoin continues holding pattern near $77,000 ahead of Kevin Warsh taking over at Fed",
+      "url": "https://www.coindesk.com/tech/2026/05/22/live-markets-bitcoin-continues-holding-pattern-near-usd77-000-ahead-of-holiday-weekend",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-22T14:24:04+00:00",
+      "raw_text": "Live markets: Bitcoin continues holding pattern near $77,000 ahead of Kevin Warsh taking over at Fed",
+      "impact": {}
+    },
+    {
+      "event_id": "4f068fbe-70e3-4a45-abcd-6eb5802f8dd6",
+      "source": "rss:theblock",
+      "title": "Binance disputes latest WSJ report on alleged Iran-linked transactions",
+      "url": "https://www.theblock.co/post/402353/binance-disputes-latest-wsj-report-on-alleged-iran-linked-transactions?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-22T14:02:44+00:00",
+      "raw_text": "Binance disputes latest WSJ report on alleged Iran-linked transactions\n\n<p>WSJ reported Iranian financier Babak Zanjani allegedly moved $850 million through Binance, which CEO Richard Teng said was mischaracterized.</p>\n\n<p>WSJ reported Iranian financier Babak Zanjani allegedly moved $850 million th",
+      "impact": {}
+    },
+    {
+      "event_id": "068c12a6-8775-4f1d-b67f-ec4e9441fb69",
+      "source": "rss:cointelegraph",
+      "title": "Space X IPO: 'Bad news' for tech stocks but what about Bitcoin?",
+      "url": "https://cointelegraph.com/markets/space-x-ipo-bad-news-for-tech-stocks-but-what-about-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-22T13:54:47+00:00",
+      "raw_text": "Space X IPO: 'Bad news' for tech stocks but what about Bitcoin?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Space X IPO: 'Bad news' for tech stocks but what about Bitcoin?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXM",
+      "impact": {}
+    },
+    {
+      "event_id": "f99f2ede-316b-4ac5-8690-292d5cca2de1",
+      "source": "rss:cointelegraph",
+      "title": "DeFi hacks shake institutional confidence as risks outpace yields",
+      "url": "https://cointelegraph.com/features/defi-hacks-institutional-confidence-risks-outpace-yields?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-22T13:51:53+00:00",
+      "raw_text": "DeFi hacks shake institutional confidence as risks outpace yields\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DeFi hacks shake institutional confidence as risks outpace yields\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWF",
+      "impact": {}
+    },
+    {
+      "event_id": "3411eea7-4613-4eeb-a1f0-80720a1324e7",
+      "source": "rss:cointelegraph",
+      "title": "THORChain exploit tied to malicious node and GG20 flaw",
+      "url": "https://cointelegraph.com/news/thorchains-10m-exploit-mpc-vulnerability-private-key-leak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-22T13:48:16+00:00",
+      "raw_text": "THORChain exploit tied to malicious node and GG20 flaw\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"THORChain exploit tied to malicious node and GG20 flaw\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZ",
+      "impact": {}
+    },
     {
       "event_id": "9a8283ed-4fba-49e3-8581-5445b197aec7",
       "source": "rss:coindesk",
@@ -112,7 +274,8 @@
       "impact": {
         "t_plus_5m": -0.0508,
         "t_plus_15m": -0.012,
-        "t_plus_1h": 0.2494
+        "t_plus_1h": 0.2494,
+        "t_plus_4h": -0.5094
       }
     },
     {
@@ -6317,211 +6480,32 @@
         "t_plus_1h": 0.8024,
         "t_plus_4h": 0.1996
       }
-    },
-    {
-      "event_id": "8fce649d-085d-4510-ba8f-93809cb23d83",
-      "source": "rss:cointelegraph",
-      "title": "Grayscale, VanEck amend US spot BNB ETF filings, stepping closer to a potential launch",
-      "url": "https://cointelegraph.com/news/grayscale-vaneck-advance-bnb-etf-filings-for-potential-sec-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BNB"
-      ],
-      "timestamp_utc": "2026-05-18T02:40:22+00:00",
-      "raw_text": "Grayscale, VanEck amend US spot BNB ETF filings, stepping closer to a potential launch\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Grayscale, VanEck amend US spot BNB ETF filings, stepping closer to a potential launch\" class=\"type:primaryImage\" src=\"https://images.cointe",
-      "impact": {
-        "t_plus_5m": 0.4469,
-        "t_plus_15m": 0.369,
-        "t_plus_1h": 0.2212,
-        "t_plus_4h": -0.3781
-      }
-    },
-    {
-      "event_id": "c298077a-bea2-4e8b-8c39-a7010cfcc1d7",
-      "source": "rss:decrypt",
-      "title": "KuCoin Australia’s ‘Evolution’ Showcases Regulatory Focus, Mastercard Launch",
-      "url": "https://decrypt.co/367114/kucoin-australias-evolution-showcases-regulatory-focus-mastercard-launch",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T00:01:03+00:00",
-      "raw_text": "KuCoin Australia’s ‘Evolution’ Showcases Regulatory Focus, Mastercard Launch\n\nThe exchange’s KuCard rollout enables users to make \"seamless payments\" to Mastercard merchants using USDC.",
-      "impact": {}
-    },
-    {
-      "event_id": "f6853ea7-ffd1-422b-94fb-6e90da246100",
-      "source": "rss:cointelegraph",
-      "title": "Bernstein says Figure's Q1 results shows uniqueness of blockchain marketplaces",
-      "url": "https://cointelegraph.com/news/bernstein-say-figures-q1-shows-uniqueness-of-blockchain-marketplaces?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-17T21:14:00+00:00",
-      "raw_text": "Bernstein says Figure's Q1 results shows uniqueness of blockchain marketplaces\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bernstein says Figure's Q1 results shows uniqueness of blockchain marketplaces\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/imag",
-      "impact": {}
-    },
-    {
-      "event_id": "544de904-ac5e-47df-b47b-9a2ed1114879",
-      "source": "rss:theblock",
-      "title": "Alleged Forsage co-founder extradited from Thailand, pleads not guilty in $340 million Ponzi case",
-      "url": "https://www.theblock.co/post/401563/alleged-forsage-co-founder-extradited-from-thailand-pleads-not-guilty-in-340-million-ponzi-case?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-17T20:40:21+00:00",
-      "raw_text": "Alleged Forsage co-founder extradited from Thailand, pleads not guilty in $340 million Ponzi case\n\n<p>The alleged mastermind behind Forsage, co-defendant Vladimir Okhotnikov, resurfaced in a film with disgraced actor Kevin Spacey last year. </p>\n\n<p>The alleged mastermind behind Forsage, co-defendan",
-      "impact": {}
-    },
-    {
-      "event_id": "0b244054-7b7a-4a5b-80e5-e3fee9556180",
-      "source": "rss:decrypt",
-      "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
-      "url": "https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-17T20:32:07+00:00",
-      "raw_text": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle\n\nArc is a new layer-1 blockchain developed by USDC issuer Circle, designed specifically for stablecoin-native finance.",
-      "impact": {}
-    },
-    {
-      "event_id": "08c274c3-6b1f-4286-ba89-341b9ee581ae",
-      "source": "rss:theblock",
-      "title": "Japan’s SBI, Rakuten developing crypto investment trusts in-house: Nikkei",
-      "url": "https://www.theblock.co/post/401561/japans-sbi-rakuten-developing-crypto-investment-trusts-in-house-nikkei?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-17T18:44:53+00:00",
-      "raw_text": "Japan’s SBI, Rakuten developing crypto investment trusts in-house: Nikkei\n\n<p>The push comes after Japan's cabinet approved a bill last month that would reclassify crypto under the Financial Instruments and Exchange Act. </p>\n\n<p>The push comes after Japan's cabinet approved a bill last month that w",
-      "impact": {}
-    },
-    {
-      "event_id": "fdac58cf-1175-49ba-a385-2949b684eb3f",
-      "source": "rss:coindesk",
-      "title": "The Clarity Act took a step forward: State of Crypto",
-      "url": "https://www.coindesk.com/policy/2026/05/17/the-clarity-act-took-a-step-forward-state-of-crypto",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-17T18:30:00+00:00",
-      "raw_text": "The Clarity Act took a step forward: State of Crypto",
-      "impact": {}
-    },
-    {
-      "event_id": "017e872e-94e6-44f5-8e50-aecb2d994c23",
-      "source": "rss:cointelegraph",
-      "title": "Saylor signals BTC buy as retail holders get push on STRC dividend vote",
-      "url": "https://cointelegraph.com/news/saylor-signals-btc-buy-as-retail-holders-get-push-on-strc-dividend-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-17T18:01:00+00:00",
-      "raw_text": "Saylor signals BTC buy as retail holders get push on STRC dividend vote\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Saylor signals BTC buy as retail holders get push on STRC dividend vote\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
-      "impact": {
-        "t_plus_5m": -0.0779,
-        "t_plus_15m": -0.088,
-        "t_plus_1h": 0.0113,
-        "t_plus_4h": 0.2491,
-        "t_plus_24h": -1.9451
-      }
-    },
-    {
-      "event_id": "70db8186-487e-4308-992c-a438d27b0984",
-      "source": "rss:coindesk",
-      "title": "DeFi's new front: VerifiedX bets bitcoin's next chapter is programmable, private",
-      "url": "https://www.coindesk.com/tech/2026/05/17/defi-s-new-front-verifiedx-bets-bitcoin-s-next-chapter-is-programmable-private",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-17T12:00:00+00:00",
-      "raw_text": "DeFi's new front: VerifiedX bets bitcoin's next chapter is programmable, private",
-      "impact": {}
-    },
-    {
-      "event_id": "9f2e2df4-ea3e-40db-8bf3-adac044962df",
-      "source": "rss:coindesk",
-      "title": "Japan's SBI Securities, Rakuten Securities plan to offer crypto investment trusts",
-      "url": "https://www.coindesk.com/business/2026/05/17/japan-s-sbi-securities-rakuten-securities-plan-to-offer-crypto-investment-trusts",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-17T11:41:31+00:00",
-      "raw_text": "Japan's SBI Securities, Rakuten Securities plan to offer crypto investment trusts",
-      "impact": {}
-    },
-    {
-      "event_id": "8806d367-7377-46c3-81d9-fabaa0a9eb08",
-      "source": "rss:cointelegraph",
-      "title": "SBI, Rakuten, Nomura line up to launch crypto investment trusts: Report",
-      "url": "https://cointelegraph.com/news/sbi-rakuten-nomura-line-up-to-launch-crypto-investment-trusts-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-17T10:51:22+00:00",
-      "raw_text": "SBI, Rakuten, Nomura line up to launch crypto investment trusts: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SBI, Rakuten, Nomura line up to launch crypto investment trusts: Report\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
-      "impact": {}
-    },
-    {
-      "event_id": "2d62ed8a-9d05-4f90-bb88-ec7eac1f861f",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin slides below $79K on macro fears: Can fixed-income outflows save it?",
-      "url": "https://cointelegraph.com/markets/bitcoin-slides-below-79k-macro-fears-can-fixed-income-outflows-save-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-17T08:50:02+00:00",
-      "raw_text": "Bitcoin slides below $79K on macro fears: Can fixed-income outflows save it?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin slides below $79K on macro fears: Can fixed-income outflows save it?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/5",
-      "impact": {}
-    },
-    {
-      "event_id": "2e05a7e8-f5b4-45d7-a9d9-1ea162512657",
-      "source": "rss:cointelegraph",
-      "title": "Italy’s largest bank more than doubles crypto holdings to $235M in Q1: Report",
-      "url": "https://cointelegraph.com/news/italys-largest-bank-more-than-doubles-crypto-holdings-to-235m-in-q1-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-05-17T08:31:02+00:00",
-      "raw_text": "Italy’s largest bank more than doubles crypto holdings to $235M in Q1: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Italy’s largest bank more than doubles crypto holdings to $235M in Q1: Report\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
-      "impact": {
-        "t_plus_5m": 0.3661,
-        "t_plus_15m": 0.3202,
-        "t_plus_1h": 0.3065,
-        "t_plus_4h": 0.9634,
-        "t_plus_24h": -1.8021
-      }
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 171,
-        "avg_1h": 0.07,
-        "avg_24h": -0.09,
+      "macro": {
+        "count": 103,
+        "avg_1h": -0.0,
+        "avg_24h": 0.56,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 181,
-        "avg_1h": -0.05,
-        "avg_24h": -0.45,
+        "count": 184,
+        "avg_1h": -0.07,
+        "avg_24h": -0.18,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 165,
+        "avg_1h": 0.08,
+        "avg_24h": 0.37,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 30,
+        "count": 33,
         "avg_1h": -0.06,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 103,
-        "avg_1h": 0.0,
-        "avg_24h": 0.56,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
