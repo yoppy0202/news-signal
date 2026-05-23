@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-23T06:42:06.651845+00:00",
+  "generated_at": "2026-05-23T09:08:53.239680+00:00",
   "events": [
+    {
+      "event_id": "13810f41-3429-46db-a673-c44d2aaa3a44",
+      "source": "rss:cointelegraph",
+      "title": "$1.26B Bitcoin ETF outflows spark ‘contrarian’ buy signal: Santiment",
+      "url": "https://cointelegraph.com/news/bitcoin-etf-outflows-are-a-contrarian-buy-signal-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-23T06:55:08+00:00",
+      "raw_text": "$1.26B Bitcoin ETF outflows spark ‘contrarian’ buy signal: Santiment\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"$1.26B Bitcoin ETF outflows spark ‘contrarian’ buy signal: Santiment\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zM",
+      "impact": {}
+    },
     {
       "event_id": "91afdc68-12b7-4272-9971-0fd2da1f1965",
       "source": "rss:cointelegraph",
@@ -28,7 +40,8 @@
       "impact": {
         "t_plus_5m": -0.1022,
         "t_plus_15m": -0.3354,
-        "t_plus_1h": 0.0471
+        "t_plus_1h": 0.0471,
+        "t_plus_4h": 0.0156
       }
     },
     {
@@ -1025,7 +1038,8 @@
         "t_plus_5m": 0.1909,
         "t_plus_15m": 0.1612,
         "t_plus_1h": 0.3577,
-        "t_plus_4h": -0.1058
+        "t_plus_4h": -0.1058,
+        "t_plus_24h": -2.0095
       }
     },
     {
@@ -6488,32 +6502,19 @@
       "timestamp_utc": "2026-05-18T11:20:51+00:00",
       "raw_text": "Bitcoin Slides Under $77K as Crypto Liquidations Top $672M Amid Bond Sell-Off\n\nAnalysts flagged that geopolitical shocks no longer \"hit crypto directly\" thanks to institutional transmission via ETF flows.",
       "impact": {}
-    },
-    {
-      "event_id": "8f309f47-c240-4d6b-951f-4efddec09d45",
-      "source": "rss:cointelegraph",
-      "title": "XRP price may explode to $15 amid 'quiet accumulation,' analyst claims",
-      "url": "https://cointelegraph.com/markets/xrp-price-may-explode-15-dollars-quiet-accumulation-analyst-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-05-18T11:19:08+00:00",
-      "raw_text": "XRP price may explode to $15 amid 'quiet accumulation,' analyst claims\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"XRP price may explode to $15 amid 'quiet accumulation,' analyst claims\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6L",
-      "impact": {
-        "t_plus_5m": -0.0054,
-        "t_plus_15m": 0.1961,
-        "t_plus_1h": 0.935,
-        "t_plus_4h": -0.4941
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 109,
+        "avg_1h": -0.05,
+        "avg_24h": 0.2,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 166,
-        "avg_1h": 0.05,
+        "count": 165,
+        "avg_1h": -0.0,
         "avg_24h": 0.37,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6521,12 +6522,6 @@
         "count": 183,
         "avg_1h": -0.07,
         "avg_24h": -0.84,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 108,
-        "avg_1h": -0.05,
-        "avg_24h": 0.56,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
