@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-05-23T21:06:15.377601+00:00",
+  "generated_at": "2026-05-23T22:04:53.641472+00:00",
   "events": [
+    {
+      "event_id": "6cdf180d-8803-4716-9684-24a01baac332",
+      "source": "rss:coindesk",
+      "title": "Bitcoin heads higher as President Trump announces Iran peace agreement",
+      "url": "https://www.coindesk.com/markets/2026/05/23/bitcoin-heads-higher-as-president-trump-announces-iran-peace-agreement",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-23T20:52:21+00:00",
+      "raw_text": "Bitcoin heads higher as President Trump announces Iran peace agreement",
+      "impact": {}
+    },
+    {
+      "event_id": "ef1f29ed-b4c5-466d-8fe7-14c903b23705",
+      "source": "rss:cointelegraph",
+      "title": "Analysts forecast a Bitcoin crash to the $60K level, revisiting 2026 low",
+      "url": "https://cointelegraph.com/news/analysts-forecast-bitcoin-crash-60k-february-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-23T20:49:12+00:00",
+      "raw_text": "Analysts forecast a Bitcoin crash to the $60K level, revisiting 2026 low\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Analysts forecast a Bitcoin crash to the $60K level, revisiting 2026 low\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
+      "impact": {}
+    },
     {
       "event_id": "29499118-4762-4b30-9b0b-23d9cdcce7d8",
       "source": "rss:theblock",
@@ -20,10 +44,16 @@
       "url": "https://bitcoinmagazine.com/business/the-history-and-future-of-physical-bitcoin",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-23T19:02:35+00:00",
       "raw_text": "The History and Future of Physical Bitcoin\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/final-thumbnail-.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.c",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1563,
+        "t_plus_15m": -0.0042,
+        "t_plus_1h": 0.0626
+      }
     },
     {
       "event_id": "573b5cb4-53e9-4677-a73a-a5b1fa8d2a03",
@@ -355,7 +385,8 @@
         "t_plus_5m": -0.254,
         "t_plus_15m": -0.1165,
         "t_plus_1h": -0.0207,
-        "t_plus_4h": -0.2177
+        "t_plus_4h": -0.2177,
+        "t_plus_24h": -0.0484
       }
     },
     {
@@ -394,7 +425,8 @@
         "ETH",
         "BNB",
         "XRP",
-        "SOL"
+        "SOL",
+        "ADA"
       ],
       "timestamp_utc": "2026-05-22T19:33:51+00:00",
       "raw_text": "Price predictions 5/22: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 5/22: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
@@ -402,7 +434,8 @@
         "t_plus_5m": -0.29,
         "t_plus_15m": -0.3906,
         "t_plus_1h": -0.2279,
-        "t_plus_4h": -0.4699
+        "t_plus_4h": -0.4699,
+        "t_plus_24h": -0.1658
       }
     },
     {
@@ -6459,38 +6492,14 @@
         "t_plus_1h": -0.4768,
         "t_plus_4h": -1.1152
       }
-    },
-    {
-      "event_id": "6384d1e5-a95d-4eba-8559-9bde393b0b4b",
-      "source": "rss:theblock",
-      "title": "Weekly crypto ETP outflows top $1B, ending six-week positive streak amid Iran-linked risk-off: CoinShares",
-      "url": "https://www.theblock.co/post/401649/weekly-crypto-etp-outflows-top-1b-ending-six-week-positive-streak-amid-iran-linked-risk-off-coinshares?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T13:22:46+00:00",
-      "raw_text": "Weekly crypto ETP outflows top $1B, ending six-week positive streak amid Iran-linked risk-off: CoinShares\n\n<p>Crypto funds ended a six-week inflow streak as Iran-linked geopolitical risk weighed on bitcoin amid major U.S. withdrawals.</p>\n\n<p>Crypto funds ended a six-week inflow streak as Iran-linke",
-      "impact": {}
-    },
-    {
-      "event_id": "2a1fef07-be5a-43a1-b040-c5c9ad1df8e1",
-      "source": "rss:bitcoinmagazine",
-      "title": "Iran Launches Bitcoin-Backed Insurance Service for Strait of Hormuz Shipping, Eyes $10B In Revenue",
-      "url": "https://bitcoinmagazine.com/news/iran-launches-bitcoin-backed-service",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T13:17:36+00:00",
-      "raw_text": "Iran Launches Bitcoin-Backed Insurance Service for Strait of Hormuz Shipping, Eyes $10B In Revenue\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Iran-Launches-Bitcoin-Backed-Insurance-Service-for-S",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 179,
+        "count": 180,
         "avg_1h": -0.14,
-        "avg_24h": -1.16,
+        "avg_24h": -1.04,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
@@ -6500,9 +6509,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 166,
+        "count": 165,
         "avg_1h": -0.0,
-        "avg_24h": 0.37,
+        "avg_24h": 0.26,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
