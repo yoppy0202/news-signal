@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-23T09:08:53.239680+00:00",
+  "generated_at": "2026-05-23T10:42:58.188734+00:00",
   "events": [
+    {
+      "event_id": "c94a964d-b114-4043-9ba3-4ae61cea76ca",
+      "source": "rss:cointelegraph",
+      "title": "SEC approves Nasdaq to list Bitcoin index options on the exchange",
+      "url": "https://cointelegraph.com/news/sec-approves-nasdaq-to-list-bitcoin-index-options-on-the-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-23T09:05:53+00:00",
+      "raw_text": "SEC approves Nasdaq to list Bitcoin index options on the exchange\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC approves Nasdaq to list Bitcoin index options on the exchange\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWF",
+      "impact": {}
+    },
     {
       "event_id": "13810f41-3429-46db-a673-c44d2aaa3a44",
       "source": "rss:cointelegraph",
@@ -971,7 +983,8 @@
         "t_plus_5m": 0.3319,
         "t_plus_15m": 0.2672,
         "t_plus_1h": -0.0287,
-        "t_plus_4h": 0.239
+        "t_plus_4h": 0.239,
+        "t_plus_24h": -3.4258
       }
     },
     {
@@ -6490,18 +6503,6 @@
         "t_plus_1h": 0.7834,
         "t_plus_4h": -1.0429
       }
-    },
-    {
-      "event_id": "7f942e1f-9618-4ba8-8598-a2aa8a7b3ed7",
-      "source": "rss:decrypt",
-      "title": "Bitcoin Slides Under $77K as Crypto Liquidations Top $672M Amid Bond Sell-Off",
-      "url": "https://decrypt.co/368156/bitcoin-slides-under-77k-as-crypto-liquidations-top-672m-amid-bond-sell-off",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T11:20:51+00:00",
-      "raw_text": "Bitcoin Slides Under $77K as Crypto Liquidations Top $672M Amid Bond Sell-Off\n\nAnalysts flagged that geopolitical shocks no longer \"hit crypto directly\" thanks to institutional transmission via ETF flows.",
-      "impact": {}
     }
   ],
   "stats": {
@@ -6521,7 +6522,7 @@
       "unknown": {
         "count": 183,
         "avg_1h": -0.07,
-        "avg_24h": -0.84,
+        "avg_24h": -1.16,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
