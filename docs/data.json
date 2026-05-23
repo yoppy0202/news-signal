@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-05-23T17:14:45.415711+00:00",
+  "generated_at": "2026-05-23T19:34:51.727321+00:00",
   "events": [
+    {
+      "event_id": "8ed8249d-d86a-414a-b225-70b3c807776b",
+      "source": "rss:theblock",
+      "title": "FTX’s former law firm, auditor agree to pay $66 million to settle customer claims over fraud",
+      "url": "https://www.theblock.co/post/402425/ftxs-former-law-firm-auditor-agree-to-pay-66-million-to-settle-customer-claims-over-fraud?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-23T17:50:21+00:00",
+      "raw_text": "FTX’s former law firm, auditor agree to pay $66 million to settle customer claims over fraud\n\n<p>The law firm, Fenwick & West, denied wrongdoing and still faces a separate $525 million suit in Washington that is not covered by Friday's deal.</p>\n\n<p>The law firm, Fenwick & West, denied wrongdoing an",
+      "impact": {}
+    },
+    {
+      "event_id": "353f8b02-d5bd-4eb3-a130-dd05dd112118",
+      "source": "rss:decrypt",
+      "title": "Firefox's Big Redesign Gives You a Button to Kill All the AI",
+      "url": "https://decrypt.co/368867/firefox-redesign-kill-ai-button-project-nova",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-23T17:01:31+00:00",
+      "raw_text": "Firefox's Big Redesign Gives You a Button to Kill All the AI\n\nProject Nova is coming later this year with a cleaner look, compact mode, and a toggle to make AI features disappear entirely.",
+      "impact": {}
+    },
     {
       "event_id": "57ed4149-8a6c-4a65-a09a-a4dfa199406d",
       "source": "rss:decrypt",
@@ -6459,54 +6483,24 @@
       "timestamp_utc": "2026-05-18T12:47:01+00:00",
       "raw_text": "Strategy made mammoth $2 billion bitcoin purchase last week",
       "impact": {}
-    },
-    {
-      "event_id": "d67354d0-e575-486c-a5e0-9776b368261f",
-      "source": "rss:cointelegraph",
-      "title": "South Korea's KB Financial completes stablecoin pilot for offline payments",
-      "url": "https://cointelegraph.com/news/south-korean-kb-financial-stablecoin-pilot-offline-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T12:42:20+00:00",
-      "raw_text": "South Korea's KB Financial completes stablecoin pilot for offline payments\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea's KB Financial completes stablecoin pilot for offline payments\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
-      "impact": {}
-    },
-    {
-      "event_id": "86d0c1e1-7551-40f8-b36e-9aeb2bc5121f",
-      "source": "rss:bitcoinmagazine",
-      "title": "Strategy (MSTR) Spends A Massive $2 Billion on More Bitcoin, Lifts Holdings to 843,738 BTC",
-      "url": "https://bitcoinmagazine.com/news/strategy-spends-a-massive-2-billion",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-18T12:41:08+00:00",
-      "raw_text": "Strategy (MSTR) Spends A Massive $2 Billion on More Bitcoin, Lifts Holdings to 843,738 BTC\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/01/Michael-Saylors-Strategy-MSTR-Spends-2.13-Billion-to-Buy-223",
-      "impact": {
-        "t_plus_5m": 1.0535,
-        "t_plus_15m": 0.9176,
-        "t_plus_1h": 0.1044
-      }
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 111,
-        "avg_1h": -0.05,
-        "avg_24h": 0.2,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 163,
+        "count": 165,
         "avg_1h": -0.0,
         "avg_24h": 0.37,
         "win_rate_1h_gt5pct": 0.0
       },
+      "macro": {
+        "count": 110,
+        "avg_1h": -0.05,
+        "avg_24h": 0.2,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 183,
+        "count": 182,
         "avg_1h": -0.14,
         "avg_24h": -1.16,
         "win_rate_1h_gt5pct": 0.0
