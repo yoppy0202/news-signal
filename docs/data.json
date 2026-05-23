@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-05-23T10:42:58.188734+00:00",
+  "generated_at": "2026-05-23T12:05:26.523033+00:00",
   "events": [
+    {
+      "event_id": "fda216a8-db49-435c-ba97-ffbc8d405a91",
+      "source": "rss:cointelegraph",
+      "title": "ECB pushes back on euro stablecoin proposals, citing financial stability risks",
+      "url": "https://cointelegraph.com/news/ecb-pushes-back-on-euro-stablecoin-proposals-citing-financial-stability-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-23T10:56:00+00:00",
+      "raw_text": "ECB pushes back on euro stablecoin proposals, citing financial stability risks\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ECB pushes back on euro stablecoin proposals, citing financial stability risks\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/imag",
+      "impact": {}
+    },
+    {
+      "event_id": "a24f373c-6e90-4379-b872-e84f5559e9a2",
+      "source": "rss:coindesk",
+      "title": "Bitcoin tanks to $74,300 as spot ETFs bleed $2.26 billion in two weeks",
+      "url": "https://www.coindesk.com/markets/2026/05/23/bitcoin-tanks-to-usd74-300-as-spot-etfs-bleed-usd2-26-billion-in-two-weeks",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-23T10:19:40+00:00",
+      "raw_text": "Bitcoin tanks to $74,300 as spot ETFs bleed $2.26 billion in two weeks",
+      "impact": {}
+    },
     {
       "event_id": "c94a964d-b114-4043-9ba3-4ae61cea76ca",
       "source": "rss:cointelegraph",
@@ -6472,57 +6496,26 @@
       "timestamp_utc": "2026-05-18T11:55:03+00:00",
       "raw_text": "AEON raises $8 million led by YZi Labs to build settlement layer for AI agents\n\n<p>With the new funding, AEON said it aims to build a settlement layer designed to support AI agent-to-agent interactions.</p>\n\n<p>With the new funding, AEON said it aims to build a settlement layer designed to support A",
       "impact": {}
-    },
-    {
-      "event_id": "eee1e355-496b-44d0-b1d6-2ddf22076339",
-      "source": "rss:coindesk",
-      "title": "Standard Chartered to acquire remainder of subsidiary Zodia Custody",
-      "url": "https://www.coindesk.com/business/2026/05/18/standard-chartered-to-acquire-remainder-of-subsidiary-zodia-custody",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T11:53:59+00:00",
-      "raw_text": "Standard Chartered to acquire remainder of subsidiary Zodia Custody",
-      "impact": {}
-    },
-    {
-      "event_id": "80cc4d02-5c4d-415c-ae69-cc3b85878f92",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin falls to $76K after Trump says ‘clock is ticking’ for Iran",
-      "url": "https://cointelegraph.com/markets/bitcoin-falls-to-76k-after-trump-says-clock-is-ticking-for-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-18T11:25:57+00:00",
-      "raw_text": "Bitcoin falls to $76K after Trump says ‘clock is ticking’ for Iran\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin falls to $76K after Trump says ‘clock is ticking’ for Iran\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pb",
-      "impact": {
-        "t_plus_5m": -0.0739,
-        "t_plus_15m": 0.024,
-        "t_plus_1h": 0.7834,
-        "t_plus_4h": -1.0429
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 183,
+        "avg_1h": -0.1,
+        "avg_24h": -1.16,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 109,
+        "count": 110,
         "avg_1h": -0.05,
         "avg_24h": 0.2,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 165,
+        "count": 164,
         "avg_1h": -0.0,
         "avg_24h": 0.37,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 183,
-        "avg_1h": -0.07,
-        "avg_24h": -1.16,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
