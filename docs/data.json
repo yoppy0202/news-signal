@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-05-23T15:15:53.679108+00:00",
+  "generated_at": "2026-05-23T17:14:45.415711+00:00",
   "events": [
+    {
+      "event_id": "57ed4149-8a6c-4a65-a09a-a4dfa199406d",
+      "source": "rss:decrypt",
+      "title": "Bitcoin Dives Below $75K for First Time in a Month as Crypto Liquidations Near $1 Billion",
+      "url": "https://decrypt.co/368912/bitcoin-drops-75k-crypto-liquidations-near-1-billion",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-23T16:22:30+00:00",
+      "raw_text": "Bitcoin Dives Below $75K for First Time in a Month as Crypto Liquidations Near $1 Billion\n\nBitcoin touched its lowest price in a month overnight following an awful week for ETFs, which shed over $1.25 billion this week.",
+      "impact": {}
+    },
+    {
+      "event_id": "d3d43f7e-dca2-4894-838c-a696905d6302",
+      "source": "rss:theblock",
+      "title": "Spot bitcoin ETFs shed $1.26 billion in worst week since late January as ether funds see 10-day outflow streak",
+      "url": "https://www.theblock.co/post/402420/spot-bitcoin-etfs-shed-1-26-billion-in-worst-week-since-late-january-as-ether-funds-see-10-day-outflow-streak?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-23T15:19:31+00:00",
+      "raw_text": "Spot bitcoin ETFs shed $1.26 billion in worst week since late January as ether funds see 10-day outflow streak\n\n<p>BlackRock's IBIT now holds $61.1 billion in net assets against $64.8 billion in cumulative inflows, a difference of roughly $3.7 billion. </p>\n\n<p>BlackRock's IBIT now holds $61.1 billi",
+      "impact": {}
+    },
+    {
+      "event_id": "cc149cb7-092c-4051-956e-bab1fddc1e26",
+      "source": "rss:decrypt",
+      "title": "Argentina Launched an AI to Predict the Future. It Couldn't Predict a Typo",
+      "url": "https://decrypt.co/368860/argentina-ai-predict-future",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-23T15:01:04+00:00",
+      "raw_text": "Argentina Launched an AI to Predict the Future. It Couldn't Predict a Typo\n\nMilei's government unveiled a social digital twin to overhaul public policy—announced via a video full of AI slop, grammatical errors, and a deepfake of a minister.",
+      "impact": {}
+    },
+    {
+      "event_id": "ab57634e-68c8-4f18-a848-f18990e5d297",
+      "source": "rss:coindesk",
+      "title": "Crypto trader sees Hyperliquid, AI tokens leading next altcoin rally",
+      "url": "https://www.coindesk.com/markets/2026/05/23/crypto-trader-sees-hyperliquid-ai-tokens-leading-next-altcoin-rally",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-23T14:19:18+00:00",
+      "raw_text": "Crypto trader sees Hyperliquid, AI tokens leading next altcoin rally",
+      "impact": {}
+    },
     {
       "event_id": "bed29c66-232a-4496-ad9a-ea4ba03212e0",
       "source": "rss:cointelegraph",
@@ -6441,81 +6489,26 @@
         "t_plus_15m": 0.9176,
         "t_plus_1h": 0.1044
       }
-    },
-    {
-      "event_id": "7fa00106-2bb6-4c7a-b56e-8785de418cbb",
-      "source": "rss:coindesk",
-      "title": "Tokenization push could pull trillions of dollars into DeFi, StanChart says",
-      "url": "https://www.coindesk.com/markets/2026/05/18/tokenization-push-could-pull-trillions-of-dollars-into-defi-stanchart-says",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T12:32:23+00:00",
-      "raw_text": "Tokenization push could pull trillions of dollars into DeFi, StanChart says",
-      "impact": {}
-    },
-    {
-      "event_id": "67c0b165-9ffb-45e7-a66b-b265d2c7a379",
-      "source": "rss:theblock",
-      "title": "‘Big dot energy’: Michael Saylor’s Strategy buys another 24,869 BTC for $2 billion as total holdings top 4% of bitcoin supply",
-      "url": "https://www.theblock.co/post/401627/big-dot-energy-michael-saylors-strategy-buys-more-bitcoin?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-18T12:07:08+00:00",
-      "raw_text": "‘Big dot energy’: Michael Saylor’s Strategy buys another 24,869 BTC for $2 billion as total holdings top 4% of bitcoin supply\n\n<p>Strategy's total holdings account for over 4% of the 21 million bitcoin supply cap — worth around $65 billion.</p>\n\n<p>Strategy's total holdings account for over 4% of th",
-      "impact": {
-        "t_plus_5m": 0.6677,
-        "t_plus_15m": 0.7127,
-        "t_plus_1h": 0.7887,
-        "t_plus_4h": -0.6946
-      }
-    },
-    {
-      "event_id": "4c2b3630-7e2d-4b66-9c76-e890a2765688",
-      "source": "rss:decrypt",
-      "title": "Morning Minute: Bitcoin Slides Back to $77K on Rising Bond Yields, Oil Spike",
-      "url": "https://decrypt.co/368159/morning-minute-bitcoin-slides-back-to-77k-on-rising-bond-yields-oil-spike",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T12:05:32+00:00",
-      "raw_text": "Morning Minute: Bitcoin Slides Back to $77K on Rising Bond Yields, Oil Spike\n\nCrypto majors are falling and the ETFs are seeing an exodus, while SpaceX had a major debut on Hyperliquid.",
-      "impact": {}
-    },
-    {
-      "event_id": "e848159c-2f42-4b73-80da-e167dc29910a",
-      "source": "rss:coindesk",
-      "title": "UK’s financial payments network is ready for tokenization, regulators say",
-      "url": "https://www.coindesk.com/policy/2026/05/18/uk-s-financial-payments-network-is-ready-for-tokenization-regulators-say",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T12:00:02+00:00",
-      "raw_text": "UK’s financial payments network is ready for tokenization, regulators say",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 185,
-        "avg_1h": -0.1,
-        "avg_24h": -1.16,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 110,
+        "count": 111,
         "avg_1h": -0.05,
         "avg_24h": 0.2,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 162,
+        "count": 163,
         "avg_1h": -0.0,
         "avg_24h": 0.37,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 183,
+        "avg_1h": -0.14,
+        "avg_24h": -1.16,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
