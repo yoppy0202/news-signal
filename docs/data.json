@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-22T23:17:17.735139+00:00",
+  "generated_at": "2026-05-23T04:05:11.240331+00:00",
   "events": [
+    {
+      "event_id": "a9acc675-d014-40bc-b6ee-2f70e582c6fe",
+      "source": "rss:cointelegraph",
+      "title": "Ethereum is still a good long-term buy, according data: Analyst",
+      "url": "https://cointelegraph.com/markets/ether-analyst-claims-eth-is-still-a-good-long-term-buy-heres-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-23T00:29:18+00:00",
+      "raw_text": "Ethereum is still a good long-term buy, according data: Analyst\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum is still a good long-term buy, according data: Analyst\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXM",
+      "impact": {}
+    },
+    {
+      "event_id": "f0cf07e2-ab53-4cdb-8239-95a84112db45",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin 'Pizza Day' was 16 years ago, here's how much that BTC is worth today",
+      "url": "https://cointelegraph.com/news/bitcoin-pizza-day-those-10k-btc-worth-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-22T23:16:38+00:00",
+      "raw_text": "Bitcoin 'Pizza Day' was 16 years ago, here's how much that BTC is worth today\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin 'Pizza Day' was 16 years ago, here's how much that BTC is worth today\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
+      "impact": {}
+    },
+    {
+      "event_id": "60e8c1d7-6421-4bb9-b138-16016ddf9b20",
+      "source": "rss:cointelegraph",
+      "title": "Kevin Warsh sworn in as Fed chair, as traders forecast rate hikes in 2026",
+      "url": "https://cointelegraph.com/news/kevin-warsh-sworn-fed-chair-traders-rate-hikes-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-22T22:12:01+00:00",
+      "raw_text": "Kevin Warsh sworn in as Fed chair, as traders forecast rate hikes in 2026\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kevin Warsh sworn in as Fed chair, as traders forecast rate hikes in 2026\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
+      "impact": {}
+    },
     {
       "event_id": "430d5f0e-45bb-4d18-adf0-fb932c6e4fe6",
       "source": "rss:decrypt",
@@ -122,10 +158,20 @@
       "url": "https://cointelegraph.com/markets/price-predictions-522-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC",
+        "ETH",
+        "BNB",
+        "XRP",
+        "SOL"
+      ],
       "timestamp_utc": "2026-05-22T19:33:51+00:00",
       "raw_text": "Price predictions 5/22: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 5/22: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.29,
+        "t_plus_15m": -0.3906,
+        "t_plus_1h": -0.2279
+      }
     },
     {
       "event_id": "a1dd57ff-05ea-4f28-bc4c-896a849267bf",
@@ -1158,7 +1204,8 @@
         "t_plus_5m": 0.1712,
         "t_plus_15m": 0.1071,
         "t_plus_1h": 0.1124,
-        "t_plus_4h": 0.3181
+        "t_plus_4h": 0.3181,
+        "t_plus_24h": -2.4879
       }
     },
     {
@@ -1177,7 +1224,8 @@
         "t_plus_5m": 0.2128,
         "t_plus_15m": 0.1021,
         "t_plus_1h": 0.0619,
-        "t_plus_4h": 0.3053
+        "t_plus_4h": 0.3053,
+        "t_plus_24h": -2.4721
       }
     },
     {
@@ -6444,62 +6492,26 @@
       "timestamp_utc": "2026-05-18T11:16:09+00:00",
       "raw_text": "Bank of England, FCA launch consultation on tokenized UK wholesale markets\n\n<p>UK regulators seek industry feedback on tokenized securities, collateral, and settlement infrastructure with a July 3 deadline.</p>\n\n<p>UK regulators seek industry feedback on tokenized securities, collateral, and settlem",
       "impact": {}
-    },
-    {
-      "event_id": "759e0168-d3e8-4847-bf93-fe4365218900",
-      "source": "rss:coindesk",
-      "title": "The three risks that could overwhelm bitcoin's regulatory tailwind",
-      "url": "https://www.coindesk.com/daybook-us/2026/05/18/the-three-risks-that-could-overwhelm-bitcoin-s-regulatory-tailwind",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T11:08:19+00:00",
-      "raw_text": "The three risks that could overwhelm bitcoin's regulatory tailwind",
-      "impact": {}
-    },
-    {
-      "event_id": "078aa8b5-7308-44cf-9c04-e4e308f095f7",
-      "source": "rss:cointelegraph",
-      "title": "Proof of Talk returns to the Louvre with 100+ C-Level speakers representing $18 trillion in AUM",
-      "url": "https://cointelegraph.com/press-releases/proof-of-talk-returns-to-the-louvre-with-100-c-level-speakers-representing-18-trillion-in-aum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T11:00:00+00:00",
-      "raw_text": "Proof of Talk returns to the Louvre with 100+ C-Level speakers representing $18 trillion in AUM\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Proof of Talk returns to the Louvre with 100+ C-Level speakers representing $18 trillion in AUM\" class=\"type:primaryImage\" src=\"htt",
-      "impact": {}
-    },
-    {
-      "event_id": "a24aa939-255f-4fd3-99a9-ee8d57e39d0d",
-      "source": "rss:cointelegraph",
-      "title": "South Korea reviews Hana Bank’s Dunamu stake under banking rules: Report",
-      "url": "https://cointelegraph.com/news/koreas-fsc-reviewing-hana-banks-dunamu-stake-separation-rules-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T10:54:04+00:00",
-      "raw_text": "South Korea reviews Hana Bank’s Dunamu stake under banking rules: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea reviews Hana Bank’s Dunamu stake under banking rules: Report\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 165,
+        "avg_1h": 0.05,
+        "avg_24h": 0.37,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 183,
         "avg_1h": -0.07,
-        "avg_24h": -0.18,
+        "avg_24h": -0.84,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 108,
+        "count": 109,
         "avg_1h": -0.05,
         "avg_24h": 0.56,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 166,
-        "avg_1h": 0.07,
-        "avg_24h": 0.37,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
