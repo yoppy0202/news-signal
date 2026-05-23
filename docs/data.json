@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-23T04:05:11.240331+00:00",
+  "generated_at": "2026-05-23T06:42:06.651845+00:00",
   "events": [
+    {
+      "event_id": "91afdc68-12b7-4272-9971-0fd2da1f1965",
+      "source": "rss:cointelegraph",
+      "title": "‘Not unlikely’ Strategy will sell Bitcoin in 2026: Michael Saylor",
+      "url": "https://cointelegraph.com/news/michael-saylor-strategy-mstr-bitcoin-sell-speculation-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-23T04:24:09+00:00",
+      "raw_text": "‘Not unlikely’ Strategy will sell Bitcoin in 2026: Michael Saylor\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"‘Not unlikely’ Strategy will sell Bitcoin in 2026: Michael Saylor\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWF",
+      "impact": {}
+    },
     {
       "event_id": "a9acc675-d014-40bc-b6ee-2f70e582c6fe",
       "source": "rss:cointelegraph",
@@ -8,10 +20,16 @@
       "url": "https://cointelegraph.com/markets/ether-analyst-claims-eth-is-still-a-good-long-term-buy-heres-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-05-23T00:29:18+00:00",
       "raw_text": "Ethereum is still a good long-term buy, according data: Analyst\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum is still a good long-term buy, according data: Analyst\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXM",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1022,
+        "t_plus_15m": -0.3354,
+        "t_plus_1h": 0.0471
+      }
     },
     {
       "event_id": "f0cf07e2-ab53-4cdb-8239-95a84112db45",
@@ -20,10 +38,17 @@
       "url": "https://cointelegraph.com/news/bitcoin-pizza-day-those-10k-btc-worth-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-22T23:16:38+00:00",
       "raw_text": "Bitcoin 'Pizza Day' was 16 years ago, here's how much that BTC is worth today\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin 'Pizza Day' was 16 years ago, here's how much that BTC is worth today\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.3853,
+        "t_plus_15m": 0.3377,
+        "t_plus_1h": -0.0082,
+        "t_plus_4h": 0.1506
+      }
     },
     {
       "event_id": "60e8c1d7-6421-4bb9-b138-16016ddf9b20",
@@ -124,7 +149,8 @@
       "impact": {
         "t_plus_5m": -0.254,
         "t_plus_15m": -0.1165,
-        "t_plus_1h": -0.0207
+        "t_plus_1h": -0.0207,
+        "t_plus_4h": -0.2177
       }
     },
     {
@@ -170,7 +196,8 @@
       "impact": {
         "t_plus_5m": -0.29,
         "t_plus_15m": -0.3906,
-        "t_plus_1h": -0.2279
+        "t_plus_1h": -0.2279,
+        "t_plus_4h": -0.4699
       }
     },
     {
@@ -6480,24 +6507,12 @@
         "t_plus_1h": 0.935,
         "t_plus_4h": -0.4941
       }
-    },
-    {
-      "event_id": "d490ed5f-fa0e-43cf-b007-b4e1deb40f0a",
-      "source": "rss:theblock",
-      "title": "Bank of England, FCA launch consultation on tokenized UK wholesale markets",
-      "url": "https://www.theblock.co/post/401625/bank-of-england-fca-launch-consultation-on-tokenized-uk-wholesale-markets?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T11:16:09+00:00",
-      "raw_text": "Bank of England, FCA launch consultation on tokenized UK wholesale markets\n\n<p>UK regulators seek industry feedback on tokenized securities, collateral, and settlement infrastructure with a July 3 deadline.</p>\n\n<p>UK regulators seek industry feedback on tokenized securities, collateral, and settlem",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 165,
+        "count": 166,
         "avg_1h": 0.05,
         "avg_24h": 0.37,
         "win_rate_1h_gt5pct": 0.0
@@ -6509,7 +6524,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 109,
+        "count": 108,
         "avg_1h": -0.05,
         "avg_24h": 0.56,
         "win_rate_1h_gt5pct": 0.0
