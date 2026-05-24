@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-23T23:06:58.472834+00:00",
+  "generated_at": "2026-05-24T00:09:37.047655+00:00",
   "events": [
+    {
+      "event_id": "051002ce-d50c-447f-90df-94256662598b",
+      "source": "rss:cointelegraph",
+      "title": "70% of all crypto wrench attacks happen in France: Report",
+      "url": "https://cointelegraph.com/news/70-crypto-wrench-attacks-happen-france?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-23T23:07:19+00:00",
+      "raw_text": "70% of all crypto wrench attacks happen in France: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"70% of all crypto wrench attacks happen in France: Report\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5",
+      "impact": {}
+    },
     {
       "event_id": "6cdf180d-8803-4716-9684-24a01baac332",
       "source": "rss:coindesk",
@@ -52,7 +64,8 @@
       "impact": {
         "t_plus_5m": -0.1563,
         "t_plus_15m": -0.0042,
-        "t_plus_1h": 0.0626
+        "t_plus_1h": 0.0626,
+        "t_plus_4h": 0.8418
       }
     },
     {
@@ -6473,32 +6486,19 @@
       "timestamp_utc": "2026-05-18T13:31:13+00:00",
       "raw_text": "Standard Chartered to absorb Zodia Custody’s core business, spin out Zodia Solutions\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Standard Chartered to absorb Zodia Custody’s core business, spin out Zodia Solutions\" class=\"type:primaryImage\" src=\"https://images.cointelegr",
       "impact": {}
-    },
-    {
-      "event_id": "fe5cd113-0cf4-48e5-a068-36a03c4fee1c",
-      "source": "rss:theblock",
-      "title": "Bitmine lifts ether treasury to 5.28 million ETH as total holdings top $12 billion",
-      "url": "https://www.theblock.co/post/401653/bitmine-lifts-ether-treasury-to-5-28-million-eth-as-total-holdings-top-12-billion?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-05-18T13:28:01+00:00",
-      "raw_text": "Bitmine lifts ether treasury to 5.28 million ETH as total holdings top $12 billion\n\n<p>Bitmine lifted its ether treasury to 5.28 million ETH, or 4.37% of supply, as total crypto and cash holdings reached $12.6 billion.</p>\n\n<p>Bitmine lifted its ether treasury to 5.28 million ETH, or 4.37% of supply",
-      "impact": {
-        "t_plus_5m": 0.3574,
-        "t_plus_15m": -0.0119,
-        "t_plus_1h": -0.4768,
-        "t_plus_4h": -1.1152
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 29,
+        "avg_1h": -0.05,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 180,
-        "avg_1h": -0.14,
+        "count": 179,
+        "avg_1h": -0.12,
         "avg_24h": -1.04,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6518,12 +6518,6 @@
         "count": 12,
         "avg_1h": -0.3,
         "avg_24h": 0.11,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 28,
-        "avg_1h": -0.05,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
