@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-05-24T13:56:19.208934+00:00",
+  "generated_at": "2026-05-24T15:18:49.253653+00:00",
   "events": [
+    {
+      "event_id": "4042a992-1baa-4820-85ae-d9e38ec4a6b1",
+      "source": "rss:coindesk",
+      "title": "A massive $1 trillion hidden market is waiting to be unlocked in bitcoin, says new report",
+      "url": "https://www.coindesk.com/business/2026/05/22/ledn",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-24T15:00:00+00:00",
+      "raw_text": "A massive $1 trillion hidden market is waiting to be unlocked in bitcoin, says new report",
+      "impact": {}
+    },
+    {
+      "event_id": "6badcfd9-62c6-4562-bc9e-9453cb699236",
+      "source": "rss:coindesk",
+      "title": "AI is speeding up the quantum threat to crypto, security experts warn",
+      "url": "https://www.coindesk.com/tech/2026/05/24/ai-is-speeding-up-the-quantum-threat-to-crypto-security-experts-warn",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-24T14:00:00+00:00",
+      "raw_text": "AI is speeding up the quantum threat to crypto, security experts warn",
+      "impact": {}
+    },
     {
       "event_id": "3d077535-7cc7-407f-8502-47cb87bedd2f",
       "source": "rss:coindesk",
@@ -40,7 +64,8 @@
       "impact": {
         "t_plus_5m": -0.2535,
         "t_plus_15m": -0.2505,
-        "t_plus_1h": -0.2132
+        "t_plus_1h": -0.2132,
+        "t_plus_4h": -0.2524
       }
     },
     {
@@ -6456,43 +6481,12 @@
       "timestamp_utc": "2026-05-18T14:07:21+00:00",
       "raw_text": "HIVE stock rallies 35% after unveiling 320MW ‘AI gigafactory’ project in Toronto\n\n<p>Hive Digital Executive Chair Frank Holmes said the facility could eventually support more than 100,000 GPUs.</p>\n\n<p>Hive Digital Executive Chair Frank Holmes said the facility could eventually support more than 100",
       "impact": {}
-    },
-    {
-      "event_id": "3b32eec9-e2ed-4a99-9c14-e7ca2684a01d",
-      "source": "rss:cointelegraph",
-      "title": "Deploi Launches Direct Issuance Infrastructure for Private Credit on Polygon, Secures ISIN Allocations from Nasdaq CSD",
-      "url": "https://cointelegraph.com/press-releases/deploi-launches-direct-issuance-infrastructure-for-private-credit-on-polygon-secures-isin-allocations-from-nasdaq-csd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T14:02:05+00:00",
-      "raw_text": "Deploi Launches Direct Issuance Infrastructure for Private Credit on Polygon, Secures ISIN Allocations from Nasdaq CSD\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Deploi Launches Direct Issuance Infrastructure for Private Credit on Polygon, Secures ISIN Allocations from ",
-      "impact": {}
-    },
-    {
-      "event_id": "b609a822-8e24-41c1-9308-8b11a859ea6a",
-      "source": "rss:cointelegraph",
-      "title": "Saylor’s Strategy scoops $2B Bitcoin, holdings reach 843,738 BTC",
-      "url": "https://cointelegraph.com/news/strategy-2-billion-bitcoin-holdings-reach-843-738-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-18T13:44:29+00:00",
-      "raw_text": "Saylor’s Strategy scoops $2B Bitcoin, holdings reach 843,738 BTC\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Saylor’s Strategy scoops $2B Bitcoin, holdings reach 843,738 BTC\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZ",
-      "impact": {
-        "t_plus_5m": 0.5223,
-        "t_plus_15m": 0.5074,
-        "t_plus_1h": -0.0305,
-        "t_plus_4h": 0.1171
-      }
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 167,
+        "count": 168,
         "avg_1h": -0.01,
         "avg_24h": 0.6,
         "win_rate_1h_gt5pct": 0.0
@@ -6510,7 +6504,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 176,
+        "count": 175,
         "avg_1h": -0.12,
         "avg_24h": -0.79,
         "win_rate_1h_gt5pct": 0.0
