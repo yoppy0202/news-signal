@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-05-24T19:37:58.018411+00:00",
+  "generated_at": "2026-05-24T21:09:03.167361+00:00",
   "events": [
+    {
+      "event_id": "66c212a3-3235-46e5-8316-6186a19f57a1",
+      "source": "rss:theblock",
+      "title": "NYT investigation alleges CFTC purged staff who questioned Trump-tied crypto firms",
+      "url": "https://www.theblock.co/post/402442/nyt-investigation-alleges-cftc-purged-staff-who-questioned-trump-tied-crypto-firms?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-24T20:42:59+00:00",
+      "raw_text": "NYT investigation alleges CFTC purged staff who questioned Trump-tied crypto firms\n\n<p>Two officials who intervened to help three firms win approvals over staff objections, per the NYT, have since taken jobs at MoonPay and Gemini Titan.</p>\n\n<p>Two officials who intervened to help three firms win ap",
+      "impact": {}
+    },
+    {
+      "event_id": "47ed00c5-fd6f-4fe6-a7e0-8372102cb4b5",
+      "source": "rss:coindesk",
+      "title": "Coinbase does not fear competition from Wall Street, says exchange executive",
+      "url": "https://www.coindesk.com/business/2026/05/24/coinbase-does-not-fear-competition-from-wall-street-says-exchange-executive",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-24T20:00:00+00:00",
+      "raw_text": "Coinbase does not fear competition from Wall Street, says exchange executive",
+      "impact": {}
+    },
+    {
+      "event_id": "8c078155-b42b-4ce3-a9a4-b9b1b6c23c1f",
+      "source": "rss:decrypt",
+      "title": "Strategy Now Holds $65 Billion in Bitcoin—These Are Its Biggest BTC Buys",
+      "url": "https://decrypt.co/292448/microstrategy-biggest-bitcoin-buys",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-05-24T18:53:09+00:00",
+      "raw_text": "Strategy Now Holds $65 Billion in Bitcoin—These Are Its Biggest BTC Buys\n\nHow did Michael Saylor's firm amass a record stash of Bitcoin? Here's a look back at how Strategy made such massive gains.",
+      "impact": {
+        "t_plus_5m": -0.0858,
+        "t_plus_15m": -0.0668,
+        "t_plus_1h": 0.0154
+      }
+    },
     {
       "event_id": "41f28896-7e33-401d-bc55-d3510db217f1",
       "source": "rss:coindesk",
@@ -32,10 +74,16 @@
       "url": "https://www.theblock.co/post/402435/vitalik-buterin-says-ethereum-foundation-will-be-a-smaller-ship-sell-less-eth-amid-researcher-exodus?utm_source=rss&utm_medium=rss",
       "event_type": "narrative",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-05-24T18:01:27+00:00",
       "raw_text": "Vitalik Buterin says Ethereum Foundation will be a ‘smaller ship,’ sell less ETH amid researcher exodus\n\n<p>Buterin said the EF is choosing \"longevity over breadth,\" selling less ETH and focusing exclusively on Ethereum's \"CROPS\" properties. </p>\n\n<p>Buterin said the EF is choosing \"longevity over b",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1834,
+        "t_plus_15m": 0.2121,
+        "t_plus_1h": 0.0445
+      }
     },
     {
       "event_id": "886ea65c-5747-451c-8771-28167c5769d3",
@@ -76,7 +124,8 @@
       "impact": {
         "t_plus_5m": -0.2405,
         "t_plus_15m": -0.3431,
-        "t_plus_1h": -0.2261
+        "t_plus_1h": -0.2261,
+        "t_plus_4h": -0.1786
       }
     },
     {
@@ -199,6 +248,18 @@
       "tokens": [],
       "timestamp_utc": "2026-05-24T05:39:02+00:00",
       "raw_text": "Euro and USD stablecoins depeg amid ongoing $2.8M StablR exploit\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Euro and USD stablecoins depeg amid ongoing $2.8M StablR exploit\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZ",
+      "impact": {}
+    },
+    {
+      "event_id": "e612fe17-5272-4a53-988b-88bf43cc9c75",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin bounces as Trump prepares to announce ‘negotiated’ Iran deal",
+      "url": "https://cointelegraph.com/news/bitcoin-bounces-as-trump-prepares-to-announce-negotiated-iran-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-24T03:20:00+00:00",
+      "raw_text": "Bitcoin bounces as Trump prepares to announce ‘negotiated’ Iran deal\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin bounces as Trump prepares to announce ‘negotiated’ Iran deal\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zM",
       "impact": {}
     },
     {
@@ -6446,64 +6507,10 @@
       "timestamp_utc": "2026-05-18T15:32:57+00:00",
       "raw_text": "HIVE buys $58 million Toronto plot for AI facility; shares climb",
       "impact": {}
-    },
-    {
-      "event_id": "b8912798-bbba-41c6-b9bf-b0b507d5399b",
-      "source": "rss:decrypt",
-      "title": "'Attractive Opportunity': Tom Lee's BitMine Adds $151 Million in Ethereum Amid Price Dip",
-      "url": "https://decrypt.co/368171/attractive-opportunity-tom-lee-bitmine-151-million-ethereum-price-dip",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T15:16:20+00:00",
-      "raw_text": "'Attractive Opportunity': Tom Lee's BitMine Adds $151 Million in Ethereum Amid Price Dip\n\nBitMine Immersion Technologies added $151 million in Ethereum amid last week's price slide, with Tom Lee citing the \"attractive opportunity.\"",
-      "impact": {}
-    },
-    {
-      "event_id": "5b9dc86f-d44d-43d2-aa38-b13f884288a3",
-      "source": "rss:cointelegraph",
-      "title": "Hyperliquid eyes 55% price rise after Silicon Valley investor's 'massive HYPE buy'",
-      "url": "https://cointelegraph.com/markets/hyperliquid-eyes-55-price-rise-silicon-valley-investors-massive-hype-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T15:10:35+00:00",
-      "raw_text": "Hyperliquid eyes 55% price rise after Silicon Valley investor's 'massive HYPE buy'\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hyperliquid eyes 55% price rise after Silicon Valley investor's 'massive HYPE buy'\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.",
-      "impact": {}
-    },
-    {
-      "event_id": "dfd47b3c-ff8c-4707-aba6-15b776926d91",
-      "source": "rss:coindesk",
-      "title": "Ex-OpenAI's Leopold Aschenbrenner bets big on crypto miners for his $13.6 billion AI play",
-      "url": "https://www.coindesk.com/markets/2026/05/18/ex-openai-s-leopold-aschenbrenner-bets-big-on-crypto-miners-for-his-usd13-6b-ai-play",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T15:07:39+00:00",
-      "raw_text": "Ex-OpenAI's Leopold Aschenbrenner bets big on crypto miners for his $13.6 billion AI play",
-      "impact": {}
-    },
-    {
-      "event_id": "01152e2d-64c7-4518-92ac-52ea9bc52715",
-      "source": "rss:cointelegraph",
-      "title": "UK proposes near-24/7 settlement to prepare markets for tokenization",
-      "url": "https://cointelegraph.com/news/fca-bank-england-publish-tokenization-settlement-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T14:59:40+00:00",
-      "raw_text": "UK proposes near-24/7 settlement to prepare markets for tokenization\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK proposes near-24/7 settlement to prepare markets for tokenization\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zM",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 113,
-        "avg_1h": -0.05,
-        "avg_24h": 0.2,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
         "count": 174,
         "avg_1h": -0.12,
@@ -6514,6 +6521,12 @@
         "count": 167,
         "avg_1h": 0.04,
         "avg_24h": 0.6,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 113,
+        "avg_1h": -0.05,
+        "avg_24h": 0.2,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
