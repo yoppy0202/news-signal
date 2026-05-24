@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T22:08:52.713402+00:00",
+  "generated_at": "2026-05-24T23:13:37.340696+00:00",
   "events": [
     {
       "event_id": "c5fe19ce-9d41-4c29-90b1-382b01aa9f6f",
@@ -8,10 +8,16 @@
       "url": "https://decrypt.co/368875/buy-bitcoin-xrp-chatgpt-moonpay",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-05-24T21:01:04+00:00",
       "raw_text": "Now You Can Buy Bitcoin, XRP and More in ChatGPT via MoonPay\n\nMoonPay's new app lets users buy cryptocurrencies, including Bitcoin and Solana, through ChatGPT just by speaking with the chatbot.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.3605,
+        "t_plus_15m": 0.2875,
+        "t_plus_1h": -0.3393
+      }
     },
     {
       "event_id": "a50757bc-8bb4-42e2-bbdb-4b9926421515",
@@ -20,10 +26,16 @@
       "url": "https://cointelegraph.com/news/buterin-fires-back-ef-critics-neutrality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-05-24T20:43:42+00:00",
       "raw_text": "Buterin fires back at Ethereum Foundation critics, recommits to neutrality\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Buterin fires back at Ethereum Foundation critics, recommits to neutrality\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.9469,
+        "t_plus_15m": 0.8742,
+        "t_plus_1h": -0.1155
+      }
     },
     {
       "event_id": "66c212a3-3235-46e5-8316-6186a19f57a1",
@@ -106,7 +118,8 @@
       "impact": {
         "t_plus_5m": 0.1834,
         "t_plus_15m": 0.2121,
-        "t_plus_1h": 0.0445
+        "t_plus_1h": 0.0445,
+        "t_plus_4h": -1.3856
       }
     },
     {
@@ -6506,13 +6519,13 @@
     "by_event_type": {
       "unknown": {
         "count": 175,
-        "avg_1h": -0.12,
+        "avg_1h": -0.13,
         "avg_24h": -0.79,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
         "count": 167,
-        "avg_1h": 0.04,
+        "avg_1h": 0.03,
         "avg_24h": 0.6,
         "win_rate_1h_gt5pct": 0.0
       },
