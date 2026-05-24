@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-24T04:37:51.151808+00:00",
+  "generated_at": "2026-05-24T07:53:07.101467+00:00",
   "events": [
+    {
+      "event_id": "aeb57454-1c6d-4732-95cd-5bc20c43c767",
+      "source": "rss:cointelegraph",
+      "title": "Euro and USD stablecoins depeg amid ongoing $2.8M StablR exploit",
+      "url": "https://cointelegraph.com/news/euro-and-usd-stablecoins-depeg-amid-ongoing-28m-stablr-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-24T05:39:02+00:00",
+      "raw_text": "Euro and USD stablecoins depeg amid ongoing $2.8M StablR exploit\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Euro and USD stablecoins depeg amid ongoing $2.8M StablR exploit\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZ",
+      "impact": {}
+    },
     {
       "event_id": "051002ce-d50c-447f-90df-94256662598b",
       "source": "rss:cointelegraph",
@@ -276,7 +288,8 @@
         "t_plus_5m": -0.1022,
         "t_plus_15m": -0.3354,
         "t_plus_1h": 0.0471,
-        "t_plus_4h": 0.0156
+        "t_plus_4h": 0.0156,
+        "t_plus_24h": 2.2909
       }
     },
     {
@@ -6475,30 +6488,18 @@
         "t_plus_1h": -0.3136,
         "t_plus_4h": 0.0492
       }
-    },
-    {
-      "event_id": "cb766178-2feb-4281-b780-2be3fa10747c",
-      "source": "rss:cointelegraph",
-      "title": "Standard Chartered to absorb Zodia Custody’s core business, spin out Zodia Solutions",
-      "url": "https://cointelegraph.com/news/standard-chartered-zodia-custodys-core-business-spin-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T13:31:13+00:00",
-      "raw_text": "Standard Chartered to absorb Zodia Custody’s core business, spin out Zodia Solutions\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Standard Chartered to absorb Zodia Custody’s core business, spin out Zodia Solutions\" class=\"type:primaryImage\" src=\"https://images.cointelegr",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "hack": {
-        "count": 29,
+        "count": 30,
         "avg_1h": -0.05,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 179,
+        "count": 178,
         "avg_1h": -0.12,
         "avg_24h": -0.79,
         "win_rate_1h_gt5pct": 0.0
@@ -6512,7 +6513,7 @@
       "narrative": {
         "count": 165,
         "avg_1h": -0.0,
-        "avg_24h": 0.26,
+        "avg_24h": 0.6,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
