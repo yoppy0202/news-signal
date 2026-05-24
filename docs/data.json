@@ -1,6 +1,60 @@
 {
-  "generated_at": "2026-05-24T11:38:48.439729+00:00",
+  "generated_at": "2026-05-24T13:56:19.208934+00:00",
   "events": [
+    {
+      "event_id": "3d077535-7cc7-407f-8502-47cb87bedd2f",
+      "source": "rss:coindesk",
+      "title": "Crypto rails are becoming the default payment layer for AI agents, report says",
+      "url": "https://www.coindesk.com/business/2026/05/21/crypto-rails-are-becoming-the-default-payment-layer-for-ai-agents-report-says",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-24T13:00:00+00:00",
+      "raw_text": "Crypto rails are becoming the default payment layer for AI agents, report says",
+      "impact": {}
+    },
+    {
+      "event_id": "160a0612-de98-48c3-a9c3-95a72eec9a34",
+      "source": "rss:cointelegraph",
+      "title": "CFTC officials who questioned prediction markets were suspended: NYT",
+      "url": "https://cointelegraph.com/news/cftc-officials-who-questioned-prediction-markets-were-suspended-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-24T11:43:38+00:00",
+      "raw_text": "CFTC officials who questioned prediction markets were suspended: NYT\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC officials who questioned prediction markets were suspended: NYT\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zM",
+      "impact": {}
+    },
+    {
+      "event_id": "22726929-ddb7-4741-95af-3880666f37c7",
+      "source": "rss:cointelegraph",
+      "title": "Blockchain researcher defends Ethereum Foundation, says it’s ‘exactly’ doing its job",
+      "url": "https://cointelegraph.com/news/blockchain-researcher-defends-ethereum-foundation-says-its-exactly-doing-its-job?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [
+        "ETH"
+      ],
+      "timestamp_utc": "2026-05-24T09:22:16+00:00",
+      "raw_text": "Blockchain researcher defends Ethereum Foundation, says it’s ‘exactly’ doing its job\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Blockchain researcher defends Ethereum Foundation, says it’s ‘exactly’ doing its job\" class=\"type:primaryImage\" src=\"https://images.cointelegr",
+      "impact": {
+        "t_plus_5m": -0.2535,
+        "t_plus_15m": -0.2505,
+        "t_plus_1h": -0.2132
+      }
+    },
+    {
+      "event_id": "06728085-5765-42f5-915e-1b72630e22fb",
+      "source": "rss:cointelegraph",
+      "title": "Why is Bitcoin falling despite pro-crypto Kevin Warsh becoming Fed chair?",
+      "url": "https://cointelegraph.com/markets/why-is-bitcoin-falling-despite-pro-crypto-kevin-warsh-becoming-fed-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-24T09:02:25+00:00",
+      "raw_text": "Why is Bitcoin falling despite pro-crypto Kevin Warsh becoming Fed chair?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Why is Bitcoin falling despite pro-crypto Kevin Warsh becoming Fed chair?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
+      "impact": {}
+    },
     {
       "event_id": "aeb57454-1c6d-4732-95cd-5bc20c43c767",
       "source": "rss:cointelegraph",
@@ -6433,87 +6487,32 @@
         "t_plus_1h": -0.0305,
         "t_plus_4h": 0.1171
       }
-    },
-    {
-      "event_id": "1a51eb1c-6148-4e1d-a090-f0a894c19cbb",
-      "source": "rss:decrypt",
-      "title": "Iran Pushes $10B Bitcoin Insurance Plan for Strait of Hormuz: Report",
-      "url": "https://decrypt.co/368168/iran-pushes-10b-bitcoin-insurance-plan-for-strait-of-hormuz-report",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T13:41:50+00:00",
-      "raw_text": "Iran Pushes $10B Bitcoin Insurance Plan for Strait of Hormuz: Report\n\nThe platform settles cargo cover in Bitcoin under a plan for marine policies and certificates that could generate $10 billion for Iran.",
-      "impact": {}
-    },
-    {
-      "event_id": "0d172f0f-736c-45b8-ac58-c6f1df668340",
-      "source": "rss:coindesk",
-      "title": "Kraken parent Payward's Q1 revenue climbs despite crypto market slump",
-      "url": "https://www.coindesk.com/business/2026/05/18/kraken-parent-payward-s-q1-revenue-climbs-despite-crypto-market-slump",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T13:41:24+00:00",
-      "raw_text": "Kraken parent Payward's Q1 revenue climbs despite crypto market slump",
-      "impact": {}
-    },
-    {
-      "event_id": "0873d544-d533-443e-aacc-2fff0f4815eb",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin Depot (BTM) Stock Falls 80% As Company Files for Chapter 11 Bankruptcy",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-depot-btm-files-for-chapter-11",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T13:38:41+00:00",
-      "raw_text": "Bitcoin Depot (BTM) Stock Falls 80% As Company Files for Chapter 11 Bankruptcy\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Bitcoin-Depot-BTM-Stock-Falls-80-As-Company-Files-for-Chapter-11-Bankrup",
-      "impact": {}
-    },
-    {
-      "event_id": "2347c186-3dcf-457e-b71b-5b891f1b5fee",
-      "source": "rss:coindesk",
-      "title": "XRP slips 2% as profit-taking knocks token back below $1.40",
-      "url": "https://www.coindesk.com/markets/2026/05/18/xrp-slips-2-as-profit-taking-knocks-token-back-below-usd1-40",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-05-18T13:35:00+00:00",
-      "raw_text": "XRP slips 2% as profit-taking knocks token back below $1.40",
-      "impact": {
-        "t_plus_5m": 0.0792,
-        "t_plus_15m": 0.4512,
-        "t_plus_1h": -0.3136,
-        "t_plus_4h": 0.0492
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 167,
+        "avg_1h": -0.01,
+        "avg_24h": 0.6,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 113,
+        "avg_1h": -0.05,
+        "avg_24h": 0.2,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
-        "count": 30,
+        "count": 29,
         "avg_1h": -0.05,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 178,
+        "count": 176,
         "avg_1h": -0.12,
         "avg_24h": -0.79,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 112,
-        "avg_1h": -0.05,
-        "avg_24h": 0.2,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 165,
-        "avg_1h": -0.0,
-        "avg_24h": 0.6,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
