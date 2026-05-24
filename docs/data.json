@@ -1,6 +1,84 @@
 {
-  "generated_at": "2026-05-24T17:13:47.186740+00:00",
+  "generated_at": "2026-05-24T19:37:58.018411+00:00",
   "events": [
+    {
+      "event_id": "41f28896-7e33-401d-bc55-d3510db217f1",
+      "source": "rss:coindesk",
+      "title": "Crypto and the Fed: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/05/24/crypto-and-the-fed-state-of-crypto",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-24T18:30:00+00:00",
+      "raw_text": "Crypto and the Fed: State of Crypto",
+      "impact": {}
+    },
+    {
+      "event_id": "b33be2b0-c0bb-40ce-ba84-e9f63db6c25a",
+      "source": "rss:cointelegraph",
+      "title": "FTX law firm Fenwick & West to pay $54M to victims in settlement",
+      "url": "https://cointelegraph.com/news/law-firm-fenwick-west-54m-ftx-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-24T18:05:52+00:00",
+      "raw_text": "FTX law firm Fenwick & West to pay $54M to victims in settlement\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"FTX law firm Fenwick &amp; West to pay $54M to victims in settlement\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pb",
+      "impact": {}
+    },
+    {
+      "event_id": "7e495e28-c637-4d51-84aa-25fa499eb477",
+      "source": "rss:theblock",
+      "title": "Vitalik Buterin says Ethereum Foundation will be a ‘smaller ship,’ sell less ETH amid researcher exodus",
+      "url": "https://www.theblock.co/post/402435/vitalik-buterin-says-ethereum-foundation-will-be-a-smaller-ship-sell-less-eth-amid-researcher-exodus?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-24T18:01:27+00:00",
+      "raw_text": "Vitalik Buterin says Ethereum Foundation will be a ‘smaller ship,’ sell less ETH amid researcher exodus\n\n<p>Buterin said the EF is choosing \"longevity over breadth,\" selling less ETH and focusing exclusively on Ethereum's \"CROPS\" properties. </p>\n\n<p>Buterin said the EF is choosing \"longevity over b",
+      "impact": {}
+    },
+    {
+      "event_id": "886ea65c-5747-451c-8771-28167c5769d3",
+      "source": "rss:decrypt",
+      "title": "AI Startup Says It Will Pay People $2,000 a Month to Masturbate—Yes, Really",
+      "url": "https://decrypt.co/368866/ai-startup-pay-people-2000-month-masturbate",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-24T16:37:04+00:00",
+      "raw_text": "AI Startup Says It Will Pay People $2,000 a Month to Masturbate—Yes, Really\n\nJoi AI is hiring 10 “masturbation consultants” to test its AI-guided masturbation feature and report how it affects stress, sleep, mood, and confidence.",
+      "impact": {}
+    },
+    {
+      "event_id": "cd5c204d-bd8f-45d1-90e3-a21c79ca1573",
+      "source": "rss:theblock",
+      "title": "StablR’s EURR and USDR depeg after attacker mints $13.5 million in unbacked tokens through multisig exploit",
+      "url": "https://www.theblock.co/post/402429/stablrs-eurr-and-usdr-depeg-after-attacker-mints-13-5-million-in-unbacked-tokens-through-multisig-exploit?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-24T15:08:39+00:00",
+      "raw_text": "StablR’s EURR and USDR depeg after attacker mints $13.5 million in unbacked tokens through multisig exploit\n\n<p>EURR fell to $0.85 and USDR fell as low as $0.40 after an attacker dumped roughly $10.4 million in face value on decentralized exchanges. </p>\n\n<p>EURR fell to $0.85 and USDR fell as low a",
+      "impact": {}
+    },
+    {
+      "event_id": "8bd974cd-d61a-4522-9b40-a358fab59fd6",
+      "source": "rss:cointelegraph",
+      "title": "Tom Lee’s Ethereum portfolio down $7.35B as ETH price outlook worsens",
+      "url": "https://cointelegraph.com/markets/tom-lees-ethereum-portfolio-sitting-on-73b-in-unrealized-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [
+        "ETH"
+      ],
+      "timestamp_utc": "2026-05-24T15:08:08+00:00",
+      "raw_text": "Tom Lee’s Ethereum portfolio down $7.35B as ETH price outlook worsens\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tom Lee’s Ethereum portfolio down $7.35B as ETH price outlook worsens\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
+      "impact": {
+        "t_plus_5m": -0.2405,
+        "t_plus_15m": -0.3431,
+        "t_plus_1h": -0.2261
+      }
+    },
     {
       "event_id": "4042a992-1baa-4820-85ae-d9e38ec4a6b1",
       "source": "rss:coindesk",
@@ -50,6 +128,25 @@
       "impact": {}
     },
     {
+      "event_id": "429fe9fa-ab68-4674-80b1-5dc02129c848",
+      "source": "rss:cointelegraph",
+      "title": "Blockchain researcher defends Ethereum Foundation, says it’s doing ‘exactly’ its job",
+      "url": "https://cointelegraph.com/news/blockchain-researcher-defends-ethereum-foundation-says-its-exactly-doing-its-job?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [
+        "ETH"
+      ],
+      "timestamp_utc": "2026-05-24T09:35:00+00:00",
+      "raw_text": "Blockchain researcher defends Ethereum Foundation, says it’s doing ‘exactly’ its job\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Blockchain researcher defends Ethereum Foundation, says it’s doing ‘exactly’ its job\" class=\"type:primaryImage\" src=\"https://images.cointelegr",
+      "impact": {
+        "t_plus_5m": 0.8996,
+        "t_plus_15m": 0.8596,
+        "t_plus_1h": 0.8971,
+        "t_plus_4h": 0.7325
+      }
+    },
+    {
       "event_id": "22726929-ddb7-4741-95af-3880666f37c7",
       "source": "rss:cointelegraph",
       "title": "Blockchain researcher defends Ethereum Foundation, says it’s ‘exactly’ doing its job",
@@ -78,6 +175,18 @@
       "tokens": [],
       "timestamp_utc": "2026-05-24T09:02:25+00:00",
       "raw_text": "Why is Bitcoin falling despite pro-crypto Kevin Warsh becoming Fed chair?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Why is Bitcoin falling despite pro-crypto Kevin Warsh becoming Fed chair?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
+      "impact": {}
+    },
+    {
+      "event_id": "3d8de571-7bcd-414b-bee8-40216f0611c1",
+      "source": "rss:cointelegraph",
+      "title": "StablR Euro and USD stablecoins depeg amid ongoing $2.8M exploit",
+      "url": "https://cointelegraph.com/news/euro-and-usd-stablecoins-depeg-amid-ongoing-28m-stablr-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-24T05:45:00+00:00",
+      "raw_text": "StablR Euro and USD stablecoins depeg amid ongoing $2.8M exploit\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"StablR Euro and USD stablecoins depeg amid ongoing $2.8M exploit\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZ",
       "impact": {}
     },
     {
@@ -6385,128 +6494,32 @@
       "timestamp_utc": "2026-05-18T14:59:40+00:00",
       "raw_text": "UK proposes near-24/7 settlement to prepare markets for tokenization\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK proposes near-24/7 settlement to prepare markets for tokenization\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zM",
       "impact": {}
-    },
-    {
-      "event_id": "74628551-ed38-47f9-8c8d-8ceb9204e01f",
-      "source": "rss:theblock",
-      "title": "Tether invests in remittance fintech LemFi to expand USDT settlement across Africa and Asia",
-      "url": "https://www.theblock.co/post/401666/tether-invests-remittance-fintech-lemfi-expand-usdt-settlement-africa-asia?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T14:53:54+00:00",
-      "raw_text": "Tether invests in remittance fintech LemFi to expand USDT settlement across Africa and Asia\n\n<p>Founded in 2021, LemFi says it has over 1 million customers and is backed by Y-Combinator, with $85 million raised.</p>\n\n<p>Founded in 2021, LemFi says it has over 1 million customers and is backed by Y-C",
-      "impact": {}
-    },
-    {
-      "event_id": "9c8c558c-1e4c-4cfe-ae4a-22a0ee801d54",
-      "source": "rss:decrypt",
-      "title": "Strategy Leverages Preferred Stock Issuance for $2 Billion Bitcoin Buy",
-      "url": "https://decrypt.co/368170/strategy-preferred-stock-issuance-2-billion-bitcoin-buy",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T14:50:13+00:00",
-      "raw_text": "Strategy Leverages Preferred Stock Issuance for $2 Billion Bitcoin Buy\n\nStrategy purchased 24,869 Bitcoin last week for $2 billion, channeling billions of dollars that came from its flagship preferred stock.",
-      "impact": {}
-    },
-    {
-      "event_id": "32cce752-a83d-4e07-87a1-4b381878b661",
-      "source": "rss:decrypt",
-      "title": "Hyperliquid Defies Market Downturn as SpaceX, Anthropic, OpenAI IPOs Loom",
-      "url": "https://decrypt.co/368172/hyperliquid-defies-market-downturn-as-spacex-anthropic-openai-ipos-loom",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T14:46:25+00:00",
-      "raw_text": "Hyperliquid Defies Market Downturn as SpaceX, Anthropic, OpenAI IPOs Loom\n\nHyperliquid’s HYPE token has jumped as its HIP-3 pre-IPO perp marketplace heats up ahead of a series of high-profile tech IPOs.",
-      "impact": {}
-    },
-    {
-      "event_id": "77f6cd71-0858-474a-a113-0a7e7f63b35f",
-      "source": "rss:coindesk",
-      "title": "Live markets: Bitcoin gives up all of May's gains, slipping below $77,000",
-      "url": "https://www.coindesk.com/markets/2026/05/18/live-markets-crypto-adds-to-last-week-s-declines-with-bitcoin-slipping-below-usd77-000",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T14:26:44+00:00",
-      "raw_text": "Live markets: Bitcoin gives up all of May's gains, slipping below $77,000",
-      "impact": {}
-    },
-    {
-      "event_id": "153b2b20-8e67-4c46-87a5-5be9d3e7801e",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin Depot stock crashes 71% premarket after Chapter 11 filing",
-      "url": "https://cointelegraph.com/news/bitcoin-depot-stock-crash-chapter-11-bankruptcy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T14:26:31+00:00",
-      "raw_text": "Bitcoin Depot stock crashes 71% premarket after Chapter 11 filing\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin Depot stock crashes 71% premarket after Chapter 11 filing\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWF",
-      "impact": {}
-    },
-    {
-      "event_id": "916d7f6a-0da5-4781-b6dd-6d37ff922ed5",
-      "source": "rss:coindesk",
-      "title": "Vitalik Buterin says AI 'formal verification' could actually make crypto much more secure",
-      "url": "https://www.coindesk.com/tech/2026/05/18/vitalik-buterin-says-ai-formal-verification-could-actually-make-crypto-much-more-secure",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T14:19:58+00:00",
-      "raw_text": "Vitalik Buterin says AI 'formal verification' could actually make crypto much more secure",
-      "impact": {}
-    },
-    {
-      "event_id": "c5e73e66-0da1-43d9-a0b1-500fc302c9e8",
-      "source": "rss:theblock",
-      "title": "Standard Chartered to absorb Zodia Custody’s crypto business into its own operations: Bloomberg",
-      "url": "https://www.theblock.co/post/401663/standard-chartered-absorb-zodia-custody-crypto-business-bloomberg?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T14:08:11+00:00",
-      "raw_text": "Standard Chartered to absorb Zodia Custody’s crypto business into its own operations: Bloomberg\n\n<p>Standard Chartered has agreed to acquire Zodia Custody's crypto business to fold into its own digital asset operations, per Bloomberg.</p>\n\n<p>Standard Chartered has agreed to acquire Zodia Custody's ",
-      "impact": {}
-    },
-    {
-      "event_id": "2b2cb7ae-75e5-4159-b1db-d4c716b93128",
-      "source": "rss:theblock",
-      "title": "HIVE stock rallies 35% after unveiling 320MW ‘AI gigafactory’ project in Toronto",
-      "url": "https://www.theblock.co/post/401656/hive-stock-rallies-40-unveiling-320mw-ai-gigafactory-project-toronto?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T14:07:21+00:00",
-      "raw_text": "HIVE stock rallies 35% after unveiling 320MW ‘AI gigafactory’ project in Toronto\n\n<p>Hive Digital Executive Chair Frank Holmes said the facility could eventually support more than 100,000 GPUs.</p>\n\n<p>Hive Digital Executive Chair Frank Holmes said the facility could eventually support more than 100",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 168,
-        "avg_1h": -0.01,
-        "avg_24h": 0.6,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
         "count": 113,
         "avg_1h": -0.05,
         "avg_24h": 0.2,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 29,
-        "avg_1h": -0.05,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 175,
+        "count": 174,
         "avg_1h": -0.12,
         "avg_24h": -0.79,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 167,
+        "avg_1h": 0.04,
+        "avg_24h": 0.6,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 31,
+        "avg_1h": -0.05,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
