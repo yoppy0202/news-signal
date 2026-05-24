@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-05-24T21:09:03.167361+00:00",
+  "generated_at": "2026-05-24T22:08:52.713402+00:00",
   "events": [
+    {
+      "event_id": "c5fe19ce-9d41-4c29-90b1-382b01aa9f6f",
+      "source": "rss:decrypt",
+      "title": "Now You Can Buy Bitcoin, XRP and More in ChatGPT via MoonPay",
+      "url": "https://decrypt.co/368875/buy-bitcoin-xrp-chatgpt-moonpay",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-24T21:01:04+00:00",
+      "raw_text": "Now You Can Buy Bitcoin, XRP and More in ChatGPT via MoonPay\n\nMoonPay's new app lets users buy cryptocurrencies, including Bitcoin and Solana, through ChatGPT just by speaking with the chatbot.",
+      "impact": {}
+    },
+    {
+      "event_id": "a50757bc-8bb4-42e2-bbdb-4b9926421515",
+      "source": "rss:cointelegraph",
+      "title": "Buterin fires back at Ethereum Foundation critics, recommits to neutrality",
+      "url": "https://cointelegraph.com/news/buterin-fires-back-ef-critics-neutrality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-24T20:43:42+00:00",
+      "raw_text": "Buterin fires back at Ethereum Foundation critics, recommits to neutrality\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Buterin fires back at Ethereum Foundation critics, recommits to neutrality\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
+      "impact": {}
+    },
     {
       "event_id": "66c212a3-3235-46e5-8316-6186a19f57a1",
       "source": "rss:theblock",
@@ -6476,43 +6500,12 @@
         "t_plus_1h": -0.1606,
         "t_plus_4h": 0.3223
       }
-    },
-    {
-      "event_id": "ca5ece34-c375-4b3f-b798-a4f4e27ab1a6",
-      "source": "rss:cointelegraph",
-      "title": "Ethereum traders say bears ‘in control’ after ETH price drop to $2K",
-      "url": "https://cointelegraph.com/markets/ethereum-traders-say-bears-in-control-eth-price-drop-2k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-05-18T15:36:04+00:00",
-      "raw_text": "Ethereum traders say bears ‘in control’ after ETH price drop to $2K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum traders say bears ‘in control’ after ETH price drop to $2K\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1",
-      "impact": {
-        "t_plus_5m": 0.0983,
-        "t_plus_15m": 0.1532,
-        "t_plus_1h": -0.372,
-        "t_plus_4h": 0.158
-      }
-    },
-    {
-      "event_id": "232a70f5-bc03-49d8-b56d-f3586c0af083",
-      "source": "rss:coindesk",
-      "title": "HIVE buys $58 million Toronto plot for AI facility; shares climb",
-      "url": "https://www.coindesk.com/business/2026/05/18/hive-buys-usd58-million-toronto-plot-for-ai-facility-shares-climb",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T15:32:57+00:00",
-      "raw_text": "HIVE buys $58 million Toronto plot for AI facility; shares climb",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 174,
+        "count": 175,
         "avg_1h": -0.12,
         "avg_24h": -0.79,
         "win_rate_1h_gt5pct": 0.0
@@ -6524,8 +6517,8 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 113,
-        "avg_1h": -0.05,
+        "count": 112,
+        "avg_1h": -0.03,
         "avg_24h": 0.2,
         "win_rate_1h_gt5pct": 0.0
       },
