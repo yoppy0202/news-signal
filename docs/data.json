@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-25T17:51:35.145321+00:00",
+  "generated_at": "2026-05-25T19:55:55.524900+00:00",
   "events": [
+    {
+      "event_id": "f447903e-0149-4870-99b1-b0caf7665474",
+      "source": "rss:decrypt",
+      "title": "With Central Bank’s Blessing, Georgia Taps Tether for 'Official' Stablecoin",
+      "url": "https://decrypt.co/368961/central-bank-georgia-tether-stablecoin",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-25T18:06:03+00:00",
+      "raw_text": "With Central Bank’s Blessing, Georgia Taps Tether for 'Official' Stablecoin\n\nTether plans to issue a stablecoin in Georgia with support from the country’s government, marking a new frontier for the crypto giant.",
+      "impact": {}
+    },
+    {
+      "event_id": "49594be6-274c-4fd4-9ebc-a36a45f25c26",
+      "source": "rss:cointelegraph",
+      "title": "Crypto PAC money pours into Texas primary runoffs, as prediction markets favor challengers",
+      "url": "https://cointelegraph.com/news/texas-primary-runoffs-crypto-pac-prediction-markets-newcomers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-25T17:57:00+00:00",
+      "raw_text": "Crypto PAC money pours into Texas primary runoffs, as prediction markets favor challengers\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto PAC money pours into Texas primary runoffs, as prediction markets favor challengers\" class=\"type:primaryImage\" src=\"https://image",
+      "impact": {}
+    },
+    {
+      "event_id": "7b0ef673-a4eb-487b-b1c1-e05076b8debd",
+      "source": "rss:coindesk",
+      "title": "NEAR price rally gains momentum as cross-chain product activity fuels further 15% jump",
+      "url": "https://www.coindesk.com/markets/2026/05/25/near-price-rally-gains-momentum-as-cross-chain-product-activity-fuels-further-15-jump",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-25T17:38:39+00:00",
+      "raw_text": "NEAR price rally gains momentum as cross-chain product activity fuels further 15% jump",
+      "impact": {}
+    },
     {
       "event_id": "dcbf4294-5c31-4112-83d0-bad2f007703d",
       "source": "rss:decrypt",
@@ -56,10 +92,16 @@
       "url": "https://cointelegraph.com/markets/xrp-price-in-value-zone-near-140-as-whales-pull-170m-from-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "whale_move",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-05-25T15:55:16+00:00",
       "raw_text": "XRP price in ‘value zone’ near $1.40 as whales pull $170M from exchanges\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"XRP price in ‘value zone’ near $1.40 as whales pull $170M from exchanges\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1596,
+        "t_plus_15m": -0.2044,
+        "t_plus_1h": 0.0691
+      }
     },
     {
       "event_id": "9ea2a2f0-b0fb-4bec-8b2c-36675cad8b50",
@@ -68,10 +110,16 @@
       "url": "https://www.coindesk.com/web3/2026/05/25/buterin-says-ethereum-foundation-will-shrink-sell-less-eth-and-focus-on-crops",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-05-25T15:51:37+00:00",
       "raw_text": "Buterin says Ethereum Foundation will shrink, sell less ETH, and focus on 'CROPS'",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.3496,
+        "t_plus_15m": -0.2457,
+        "t_plus_1h": 0.0424
+      }
     },
     {
       "event_id": "4d3af175-cb68-43be-8a80-7f4e78f9fd32",
@@ -178,7 +226,8 @@
       "impact": {
         "t_plus_5m": -0.4048,
         "t_plus_15m": -0.4256,
-        "t_plus_1h": -0.1637
+        "t_plus_1h": -0.1637,
+        "t_plus_4h": 0.0041
       }
     },
     {
@@ -208,7 +257,8 @@
       "impact": {
         "t_plus_5m": -0.4182,
         "t_plus_15m": -0.4048,
-        "t_plus_1h": -0.2184
+        "t_plus_1h": -0.2184,
+        "t_plus_4h": 0.0878
       }
     },
     {
@@ -250,7 +300,8 @@
       "impact": {
         "t_plus_5m": -0.4251,
         "t_plus_15m": -0.3334,
-        "t_plus_1h": -0.4309
+        "t_plus_1h": -0.4309,
+        "t_plus_4h": 0.0166
       }
     },
     {
@@ -6468,72 +6519,36 @@
         "t_plus_1h": -0.5384,
         "t_plus_4h": -0.1025
       }
-    },
-    {
-      "event_id": "7d7cc27e-7541-4e33-8bc6-9ce809fb69f0",
-      "source": "rss:theblock",
-      "title": "Minnesota signs law allowing banks, credit unions to offer crypto custody services",
-      "url": "https://www.theblock.co/post/401775/minnesota-bank-crypto-custody?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-19T03:56:10+00:00",
-      "raw_text": "Minnesota signs law allowing banks, credit unions to offer crypto custody services\n\n<p>Governor Tim Walz has signed HF 3709 into law, permitting banks and credit unions to offer crypto custody services.</p>\n\n<p>Governor Tim Walz has signed HF 3709 into law, permitting banks and credit unions to offe",
-      "impact": {}
-    },
-    {
-      "event_id": "609d61ee-286c-45cd-aa4b-573cac6d2ed8",
-      "source": "rss:theblock",
-      "title": "BTCFi protocol Echo exploited, targeting eBTC market on Monad: onchain analysts",
-      "url": "https://www.theblock.co/post/401771/echo-protocol-monad-exploit?utm_source=rss&utm_medium=rss",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-19T02:49:27+00:00",
-      "raw_text": "BTCFi protocol Echo exploited, targeting eBTC market on Monad: onchain analysts\n\n<p>BTCFi protocol Echo was exploited, with the attacker minting 1,000 eBTC on Monad and using it as collateral to borrow WBTC.</p>\n\n<p>BTCFi protocol Echo was exploited, with the attacker minting 1,000 eBTC on Monad and",
-      "impact": {}
-    },
-    {
-      "event_id": "47047eab-54fe-40fa-abf9-bc7898ccc2b5",
-      "source": "rss:cointelegraph",
-      "title": "SEC to make ‘innovation exemption’ for tokenized stock trading: Report",
-      "url": "https://cointelegraph.com/news/sec-to-make-innovation-exemption-for-tokenized-stock-trading-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-19T02:37:19+00:00",
-      "raw_text": "SEC to make ‘innovation exemption’ for tokenized stock trading: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC to make ‘innovation exemption’ for tokenized stock trading: Report\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6L",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 174,
+        "avg_1h": -0.09,
+        "avg_24h": -0.73,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 163,
+        "count": 164,
         "avg_1h": -0.0,
         "avg_24h": 0.86,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 173,
-        "avg_1h": -0.1,
-        "avg_24h": -0.73,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "whale_move": {
         "count": 6,
-        "avg_1h": -0.04,
+        "avg_1h": -0.02,
         "avg_24h": -1.3,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 35,
+        "count": 34,
         "avg_1h": -0.04,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 112,
+        "count": 111,
         "avg_1h": -0.04,
         "avg_24h": 0.2,
         "win_rate_1h_gt5pct": 0.0
