@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-25T21:20:51.996352+00:00",
+  "generated_at": "2026-05-25T23:19:55.535135+00:00",
   "events": [
+    {
+      "event_id": "a8578c12-eba5-4d65-b85d-5d590493c23d",
+      "source": "rss:cointelegraph",
+      "title": "XRP price trades in ‘value zone’ near $1.40 as whales pull $170M from exchanges",
+      "url": "https://cointelegraph.com/markets/xrp-price-in-value-zone-near-140-as-whales-pull-170m-from-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "whale_move",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-25T20:30:46+00:00",
+      "raw_text": "XRP price trades in ‘value zone’ near $1.40 as whales pull $170M from exchanges\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"XRP price trades in ‘value zone’ near $1.40 as whales pull $170M from exchanges\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/im",
+      "impact": {}
+    },
     {
       "event_id": "bce37a9d-c104-4f60-a649-8b230976a344",
       "source": "rss:decrypt",
@@ -136,7 +148,8 @@
       "impact": {
         "t_plus_5m": -0.1596,
         "t_plus_15m": -0.2044,
-        "t_plus_1h": 0.0691
+        "t_plus_1h": 0.0691,
+        "t_plus_4h": -0.3277
       }
     },
     {
@@ -6502,22 +6515,16 @@
       "timestamp_utc": "2026-05-19T05:35:32+00:00",
       "raw_text": "World Liberty Financial treasury company AI Financial warns that it may not survive the year in SEC filing",
       "impact": {}
-    },
-    {
-      "event_id": "67a4ff27-3508-4e53-8137-6fa7ee49cdc5",
-      "source": "rss:coindesk",
-      "title": "World Liberty Financial treasury company AI Financial warns in SEC filing that it may not survive the year",
-      "url": "https://www.coindesk.com/markets/2026/05/19/world-liberty-financial-wlfi-treasury-company-ai-financial-warns-in-sec-filing-that-it-may-not-survive-the-year",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-19T05:35:32+00:00",
-      "raw_text": "World Liberty Financial treasury company AI Financial warns in SEC filing that it may not survive the year",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "whale_move": {
+        "count": 7,
+        "avg_1h": -0.02,
+        "avg_24h": -1.3,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 175,
         "avg_1h": -0.09,
@@ -6536,14 +6543,8 @@
         "avg_24h": 0.86,
         "win_rate_1h_gt5pct": 0.0
       },
-      "whale_move": {
-        "count": 6,
-        "avg_1h": -0.02,
-        "avg_24h": -1.3,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 110,
+        "count": 109,
         "avg_1h": -0.04,
         "avg_24h": 0.2,
         "win_rate_1h_gt5pct": 0.0
