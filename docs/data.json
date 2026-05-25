@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-25T19:55:55.524900+00:00",
+  "generated_at": "2026-05-25T21:20:51.996352+00:00",
   "events": [
+    {
+      "event_id": "bce37a9d-c104-4f60-a649-8b230976a344",
+      "source": "rss:decrypt",
+      "title": "Tom Lee Outlines Liquidity Catalyst for Ethereum Firm BitMine Following Russell Index Update",
+      "url": "https://decrypt.co/368971/tom-lee-iquidity-ethereum-bitmine-russell-index",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-25T20:06:04+00:00",
+      "raw_text": "Tom Lee Outlines Liquidity Catalyst for Ethereum Firm BitMine Following Russell Index Update\n\nThe Ethereum-buying firm owns 3.8% of the digital asset’s supply.",
+      "impact": {}
+    },
+    {
+      "event_id": "e096ca70-a176-4a44-9dbe-6b5d598cb6b4",
+      "source": "rss:decrypt",
+      "title": "Famed iPhone, Sony Hacker Says AI Coding Agents Are a Disaster Waiting to Happen",
+      "url": "https://decrypt.co/368964/george-hotz-vibe-coding-ai-slop-warning",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-25T19:06:04+00:00",
+      "raw_text": "Famed iPhone, Sony Hacker Says AI Coding Agents Are a Disaster Waiting to Happen\n\nGeorge Hotz spent six months testing agents on real projects and came away convinced they're creating an avalanche of undetectable slop—and that large organizations won't realize it until it's too late.",
+      "impact": {}
+    },
+    {
+      "event_id": "484f84d1-4690-40f2-9d69-d7af9762124d",
+      "source": "rss:cointelegraph",
+      "title": "UAE-linked ADI Chain gains Ledger support amid stablecoin growth",
+      "url": "https://cointelegraph.com/news/ledger-integrates-uae-backed-adi-token-as-gulf-blockchain-infrastructure-expands?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-25T18:29:58+00:00",
+      "raw_text": "UAE-linked ADI Chain gains Ledger support amid stablecoin growth\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UAE-linked ADI Chain gains Ledger support amid stablecoin growth\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZ",
+      "impact": {}
+    },
     {
       "event_id": "f447903e-0149-4870-99b1-b0caf7665474",
       "source": "rss:decrypt",
@@ -118,7 +154,8 @@
       "impact": {
         "t_plus_5m": -0.3496,
         "t_plus_15m": -0.2457,
-        "t_plus_1h": 0.0424
+        "t_plus_1h": 0.0424,
+        "t_plus_4h": -0.5476
       }
     },
     {
@@ -196,7 +233,8 @@
       "impact": {
         "t_plus_5m": -0.1842,
         "t_plus_15m": 0.036,
-        "t_plus_1h": 0.3269
+        "t_plus_1h": 0.3269,
+        "t_plus_4h": 0.3154
       }
     },
     {
@@ -6476,62 +6514,25 @@
       "timestamp_utc": "2026-05-19T05:35:32+00:00",
       "raw_text": "World Liberty Financial treasury company AI Financial warns in SEC filing that it may not survive the year",
       "impact": {}
-    },
-    {
-      "event_id": "7388be91-44d6-4570-87de-0998c4ca53ab",
-      "source": "rss:cointelegraph",
-      "title": "About 10% of Americans used crypto in 2025, highest level since 2022: Fed",
-      "url": "https://cointelegraph.com/news/10-percent-of-americans-invested-or-used-crypto-in-2025-federal-reserve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-19T05:13:57+00:00",
-      "raw_text": "About 10% of Americans used crypto in 2025, highest level since 2022: Fed\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"About 10% of Americans used crypto in 2025, highest level since 2022: Fed\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
-      "impact": {}
-    },
-    {
-      "event_id": "17092417-36df-46c3-aad9-de592903ddcf",
-      "source": "rss:cointelegraph",
-      "title": "Echo Protocol's eBTC exploited for $77M in admin key compromise",
-      "url": "https://cointelegraph.com/news/echo-protocols-ebtc-exploited-for-76m-in-admin-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-19T04:52:25+00:00",
-      "raw_text": "Echo Protocol's eBTC exploited for $77M in admin key compromise\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Echo Protocol's eBTC exploited for $77M in admin key compromise\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXM",
-      "impact": {}
-    },
-    {
-      "event_id": "0ee929c1-355a-432c-a7d6-95d76e31c6ce",
-      "source": "rss:cointelegraph",
-      "title": "Ether pullback was ‘attractive opportunity’ for 71,672 ETH buy: Bitmine’s Lee",
-      "url": "https://cointelegraph.com/news/tom-lee-bitmine-buys-71672-eth-during-price-pullback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-05-19T04:21:57+00:00",
-      "raw_text": "Ether pullback was ‘attractive opportunity’ for 71,672 ETH buy: Bitmine’s Lee\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ether pullback was ‘attractive opportunity’ for 71,672 ETH buy: Bitmine’s Lee\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
-      "impact": {
-        "t_plus_5m": -0.4232,
-        "t_plus_15m": -0.4117,
-        "t_plus_1h": -0.5384,
-        "t_plus_4h": -0.1025
-      }
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 174,
+        "count": 175,
         "avg_1h": -0.09,
         "avg_24h": -0.73,
         "win_rate_1h_gt5pct": 0.0
       },
+      "hack": {
+        "count": 34,
+        "avg_1h": -0.04,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 164,
-        "avg_1h": -0.0,
+        "avg_1h": 0.03,
         "avg_24h": 0.86,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6541,14 +6542,8 @@
         "avg_24h": -1.3,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 34,
-        "avg_1h": -0.04,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 111,
+        "count": 110,
         "avg_1h": -0.04,
         "avg_24h": 0.2,
         "win_rate_1h_gt5pct": 0.0
