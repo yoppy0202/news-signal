@@ -1,6 +1,102 @@
 {
-  "generated_at": "2026-05-25T16:01:30.807120+00:00",
+  "generated_at": "2026-05-25T17:51:35.145321+00:00",
   "events": [
+    {
+      "event_id": "dcbf4294-5c31-4112-83d0-bad2f007703d",
+      "source": "rss:decrypt",
+      "title": "Perplexity Built a Tool That Checks Your Computer for Infected Software—Without Setting Off the Infection",
+      "url": "https://decrypt.co/368944/perplexity-open-source-bumblebee-ai-scanner-mcp-infection-malware",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-25T17:08:55+00:00",
+      "raw_text": "Perplexity Built a Tool That Checks Your Computer for Infected Software—Without Setting Off the Infection\n\nBumblebee scans developer machines for compromised packages and AI tool configs. Its core trick: It never actually runs the code it's looking for.",
+      "impact": {}
+    },
+    {
+      "event_id": "36de69de-52de-4353-9773-e1ef439057dd",
+      "source": "rss:coindesk",
+      "title": "Indonesia blocks Polymarket, calling prediction market online gambling in disguise",
+      "url": "https://www.coindesk.com/policy/2026/05/25/indonesia-blocks-polymarket-calling-prediction-market-online-gambling-in-disguise",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-25T17:04:49+00:00",
+      "raw_text": "Indonesia blocks Polymarket, calling prediction market online gambling in disguise",
+      "impact": {}
+    },
+    {
+      "event_id": "26829be7-1377-4cda-9253-e83ed628333f",
+      "source": "rss:coindesk",
+      "title": "Bitcoin, crypto prices tick up as US-Iran peace deal odds climb",
+      "url": "https://www.coindesk.com/markets/2026/05/25/bitcoin-crypto-prices-tick-up-as-us-iran-peace-deal-odds-climb",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-25T16:46:45+00:00",
+      "raw_text": "Bitcoin, crypto prices tick up as US-Iran peace deal odds climb",
+      "impact": {}
+    },
+    {
+      "event_id": "1836f6e4-968c-4202-9480-46634f4404c0",
+      "source": "rss:decrypt",
+      "title": "Vitalik Buterin Signals Shift to 'Smaller Ship' at Ethereum Foundation Amid Departures",
+      "url": "https://decrypt.co/368934/vitalik-buterin-smaller-ship-ethereum-foundation-departures",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-25T16:01:05+00:00",
+      "raw_text": "Vitalik Buterin Signals Shift to 'Smaller Ship' at Ethereum Foundation Amid Departures\n\nButerin revealed that 90% of his net worth is tied up in Ethereum.",
+      "impact": {}
+    },
+    {
+      "event_id": "8acee327-efc1-4bcd-8034-3a0b0d6a3b3a",
+      "source": "rss:cointelegraph",
+      "title": "XRP price in ‘value zone’ near $1.40 as whales pull $170M from exchanges",
+      "url": "https://cointelegraph.com/markets/xrp-price-in-value-zone-near-140-as-whales-pull-170m-from-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "whale_move",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-25T15:55:16+00:00",
+      "raw_text": "XRP price in ‘value zone’ near $1.40 as whales pull $170M from exchanges\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"XRP price in ‘value zone’ near $1.40 as whales pull $170M from exchanges\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
+      "impact": {}
+    },
+    {
+      "event_id": "9ea2a2f0-b0fb-4bec-8b2c-36675cad8b50",
+      "source": "rss:coindesk",
+      "title": "Buterin says Ethereum Foundation will shrink, sell less ETH, and focus on 'CROPS'",
+      "url": "https://www.coindesk.com/web3/2026/05/25/buterin-says-ethereum-foundation-will-shrink-sell-less-eth-and-focus-on-crops",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-25T15:51:37+00:00",
+      "raw_text": "Buterin says Ethereum Foundation will shrink, sell less ETH, and focus on 'CROPS'",
+      "impact": {}
+    },
+    {
+      "event_id": "4d3af175-cb68-43be-8a80-7f4e78f9fd32",
+      "source": "rss:cointelegraph",
+      "title": "CoinQuant introduces trading infrastructure for the agent economy",
+      "url": "https://cointelegraph.com/press-releases/coinquant-introduces-trading-infrastructure-for-the-agent-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-25T15:39:11+00:00",
+      "raw_text": "CoinQuant introduces trading infrastructure for the agent economy\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CoinQuant introduces trading infrastructure for the agent economy\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWF",
+      "impact": {}
+    },
+    {
+      "event_id": "d443f3bf-86f9-4f43-bc8b-0bb63077478a",
+      "source": "rss:cointelegraph",
+      "title": "Squid and Safe Labs say third-party module behind $3.2M exploit",
+      "url": "https://cointelegraph.com/news/squid-safe-labs-third-party-module-3-2-million-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-25T15:26:20+00:00",
+      "raw_text": "Squid and Safe Labs say third-party module behind $3.2M exploit\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Squid and Safe Labs say third-party module behind $3.2M exploit\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXM",
+      "impact": {}
+    },
     {
       "event_id": "a58ba969-0cd8-41ea-ba2d-f04c867f91ad",
       "source": "rss:decrypt",
@@ -44,10 +140,16 @@
       "url": "https://cointelegraph.com/markets/ethereum-whale-opens-100m-short-as-vitalik-buterin-vows-to-sell-less-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "whale_move",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-05-25T14:13:17+00:00",
       "raw_text": "Ethereum whale opens $100M short as Vitalik Buterin vows to 'sell less ETH'\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum whale opens $100M short as Vitalik Buterin vows to 'sell less ETH'\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1842,
+        "t_plus_15m": 0.036,
+        "t_plus_1h": 0.3269
+      }
     },
     {
       "event_id": "81d8bb17-4c1a-4730-bd05-639645b3d8a7",
@@ -68,10 +170,16 @@
       "url": "https://cointelegraph.com/features/paper-losses-and-scrapped-etfs-what-trump-medias-2650-btc-transfer-really-means?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-25T13:24:54+00:00",
       "raw_text": "Paper losses and scrapped ETFs. What Trump Media’s 2,650 BTC transfer really means\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Paper losses and scrapped ETFs. What Trump Media’s 2,650 BTC transfer really means\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.4048,
+        "t_plus_15m": -0.4256,
+        "t_plus_1h": -0.1637
+      }
     },
     {
       "event_id": "2db1087e-5f6e-4d70-9e2a-7921c624c8ad",
@@ -92,10 +200,16 @@
       "url": "https://cointelegraph.com/news/satoshi-era-bitcoin-miner-moves-203m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-25T13:15:59+00:00",
       "raw_text": "Satoshi-era Bitcoin miner transfers $203M in BTC to OTC desks\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Satoshi-era Bitcoin miner transfers $203M in BTC to OTC desks\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3R",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.4182,
+        "t_plus_15m": -0.4048,
+        "t_plus_1h": -0.2184
+      }
     },
     {
       "event_id": "52c1b379-e160-488c-b5c8-eaa01cab5753",
@@ -128,10 +242,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-risks-drop-to-72k-as-demand-metric-hits-2026-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-25T12:45:26+00:00",
       "raw_text": "Bitcoin risks drop to $72K as demand metric hits 2026 lows\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin risks drop to $72K as demand metric hits 2026 lows\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpY",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.4251,
+        "t_plus_15m": -0.3334,
+        "t_plus_1h": -0.4309
+      }
     },
     {
       "event_id": "a84141a9-847a-4476-bbbb-273fcbb1617b",
@@ -183,7 +303,8 @@
       "raw_text": "BTC price to attack $80K shorts on Iran peace deal: Five things to know in Bitcoin this week\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BTC price to attack $80K shorts on Iran peace deal: Five things to know in Bitcoin this week\" class=\"type:primaryImage\" src=\"https://i",
       "impact": {
         "t_plus_5m": -0.1109,
-        "t_plus_15m": -0.0323
+        "t_plus_15m": -0.0323,
+        "t_plus_1h": -0.0034
       }
     },
     {
@@ -6383,156 +6504,38 @@
       "timestamp_utc": "2026-05-19T02:37:19+00:00",
       "raw_text": "SEC to make ‘innovation exemption’ for tokenized stock trading: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC to make ‘innovation exemption’ for tokenized stock trading: Report\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6L",
       "impact": {}
-    },
-    {
-      "event_id": "85f33751-8c8c-44a5-8424-3f7c387814b1",
-      "source": "rss:theblock",
-      "title": "SEC’s innovation exemption for tokenized stocks to come as early as this week: Bloomberg",
-      "url": "https://www.theblock.co/post/401766/sec-innovation-exemption-tokenized-securities-this-week?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-19T01:49:57+00:00",
-      "raw_text": "SEC’s innovation exemption for tokenized stocks to come as early as this week: Bloomberg\n\n<p>The SEC has approved several entities to move forward with tokenized stock initiatives, including the NYSE and Nasdaq.</p>\n\n<p>The SEC has approved several entities to move forward with tokenized stock initi",
-      "impact": {}
-    },
-    {
-      "event_id": "d0e1c935-d2bd-4578-997b-7efe82398e3c",
-      "source": "rss:cointelegraph",
-      "title": "Retail Bitcoin investor demand falls by 73% as futures selling tops $2B: Are the bears back?",
-      "url": "https://cointelegraph.com/markets/bitcoin-retail-demand-on-binance-drops-73-as-futures-selling-tops-2b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-18T23:40:51+00:00",
-      "raw_text": "Retail Bitcoin investor demand falls by 73% as futures selling tops $2B: Are the bears back?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Retail Bitcoin investor demand falls by 73% as futures selling tops $2B: Are the bears back?\" class=\"type:primaryImage\" src=\"https://i",
-      "impact": {
-        "t_plus_5m": -0.0356,
-        "t_plus_15m": -0.1954,
-        "t_plus_1h": 0.0977,
-        "t_plus_4h": -0.4042
-      }
-    },
-    {
-      "event_id": "fe15f479-7340-42ae-bec5-0e0fb792dc8d",
-      "source": "rss:cointelegraph",
-      "title": "Odds against rate cuts high as new US Fed chair set for swearing in",
-      "url": "https://cointelegraph.com/news/interest-rates-fed-chair-kevin-warsh-sworn-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T22:49:27+00:00",
-      "raw_text": "Odds against rate cuts high as new US Fed chair set for swearing in\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Odds against rate cuts high as new US Fed chair set for swearing in\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1",
-      "impact": {}
-    },
-    {
-      "event_id": "2fd956b1-bcd0-4849-85b4-3a40ff9aa9a6",
-      "source": "rss:cointelegraph",
-      "title": "Galaxy secures New York BitLicense to expand institutional crypto services",
-      "url": "https://cointelegraph.com/news/galaxy-secures-new-york-bitlicense-institutional-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T22:20:31+00:00",
-      "raw_text": "Galaxy secures New York BitLicense to expand institutional crypto services\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Galaxy secures New York BitLicense to expand institutional crypto services\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
-      "impact": {}
-    },
-    {
-      "event_id": "6e314d90-013d-4b92-a059-edb1abd2674f",
-      "source": "rss:coindesk",
-      "title": "SEC to propose tokenized stock framework as Wall Street efforts deepen: Bloomberg",
-      "url": "https://www.coindesk.com/policy/2026/05/18/sec-to-propose-tokenized-stock-framework-as-wall-street-efforts-deepen-bloomberg",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T22:20:27+00:00",
-      "raw_text": "SEC to propose tokenized stock framework as Wall Street efforts deepen: Bloomberg",
-      "impact": {}
-    },
-    {
-      "event_id": "8f85997f-fc18-46d9-ae22-f9679d7d48cb",
-      "source": "rss:theblock",
-      "title": "Ethereum’s onchain conviction grows as staked ETH rises, even as price underperforms",
-      "url": "https://www.theblock.co/post/401709/ethereum-onchain-conviction-grows-staked-eth-rises-price-underperforms?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-05-18T21:51:04+00:00",
-      "raw_text": "Ethereum’s onchain conviction grows as staked ETH rises, even as price underperforms\n\n<p>A contracting float against any meaningful demand recovery has historically been a constructive setup for price.</p>\n\n<p>A contracting float against any meaningful demand recovery has historically been a constru",
-      "impact": {
-        "t_plus_5m": 0.1176,
-        "t_plus_15m": 0.0203,
-        "t_plus_1h": -0.0675,
-        "t_plus_4h": -0.3135,
-        "t_plus_24h": -0.7104
-      }
-    },
-    {
-      "event_id": "26e391e7-c1bb-4b62-b419-7fccee67adfb",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin lost its hold on $80K, but three events may send it back sooner than markets expect",
-      "url": "https://cointelegraph.com/markets/bitcoin-lost-its-hold-on-80k-but-three-events-may-send-it-back-sooner-than-markets-expect?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-18T21:47:48+00:00",
-      "raw_text": "Bitcoin lost its hold on $80K, but three events may send it back sooner than markets expect\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin lost its hold on $80K, but three events may send it back sooner than markets expect\" class=\"type:primaryImage\" src=\"https://ima",
-      "impact": {
-        "t_plus_5m": 0.0156,
-        "t_plus_15m": 0.0504,
-        "t_plus_1h": -0.0523,
-        "t_plus_4h": -0.3504
-      }
-    },
-    {
-      "event_id": "e08b0067-7605-4d44-9d63-1dd2304fe982",
-      "source": "rss:decrypt",
-      "title": "Lawyers Apologize After Fake Claude-Generated Quotes Appear in Trump Layoffs Case",
-      "url": "https://decrypt.co/368287/lawyers-apologize-fake-claude-generated-quotes-trump-layoffs-case",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-18T21:46:03+00:00",
-      "raw_text": "Lawyers Apologize After Fake Claude-Generated Quotes Appear in Trump Layoffs Case\n\nAttorneys representing a former Homeland Security official admitted using Anthropic’s Claude Console to help draft a court filing that included fabricated quotes.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
         "count": 163,
-        "avg_1h": 0.03,
-        "avg_24h": 0.6,
+        "avg_1h": -0.0,
+        "avg_24h": 0.86,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 117,
-        "avg_1h": -0.03,
-        "avg_24h": 0.2,
+      "unknown": {
+        "count": 173,
+        "avg_1h": -0.1,
+        "avg_24h": -0.73,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
-        "count": 5,
-        "avg_1h": -0.16,
+        "count": 6,
+        "avg_1h": -0.04,
         "avg_24h": -1.3,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 34,
-        "avg_1h": -0.05,
+        "count": 35,
+        "avg_1h": -0.04,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 170,
-        "avg_1h": -0.09,
-        "avg_24h": -0.73,
+      "macro": {
+        "count": 112,
+        "avg_1h": -0.04,
+        "avg_24h": 0.2,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
