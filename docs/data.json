@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-05-26T21:56:41.120153+00:00",
+  "generated_at": "2026-05-26T23:20:33.898384+00:00",
   "events": [
+    {
+      "event_id": "dd999428-95b8-4f03-ac71-842795e0975d",
+      "source": "rss:theblock",
+      "title": "‘Critically important’: President Trump backs CFTC Chair Selig’s push to expand prediction market authority",
+      "url": "https://www.theblock.co/post/402672/critically-important-president-trump-backs-cftc-chair-seligs-push-to-expand-prediction-market-authority?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-26T22:09:18+00:00",
+      "raw_text": "‘Critically important’: President Trump backs CFTC Chair Selig’s push to expand prediction market authority\n\n<p>President Donald Trump is publicly backing his CFTC Chair Michael Selig in his push to have authority over prediction markets. </p>\n\n<p>President Donald Trump is publicly backing his CFTC ",
+      "impact": {}
+    },
+    {
+      "event_id": "f666e71b-57e8-45ac-a3ba-6e29c090bdf6",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin mining stocks jump as AI infrastructure boom boosts sector outlook",
+      "url": "https://cointelegraph.com/news/bitcoin-mining-stocks-jump-as-ai-infrastructure-boom-boosts-sector-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-26T22:07:21+00:00",
+      "raw_text": "Bitcoin mining stocks jump as AI infrastructure boom boosts sector outlook\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin mining stocks jump as AI infrastructure boom boosts sector outlook\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
+      "impact": {}
+    },
+    {
+      "event_id": "90b23d34-21b7-4578-96fe-87e0dae33d6f",
+      "source": "rss:decrypt",
+      "title": "Some Non-Enhanced Athletes Beat Their Juiced Rivals at the 'Steroid Olympics'",
+      "url": "https://decrypt.co/369121/non-enhanced-athletes-beat-juiced-rivals-steroid-olympics",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-26T21:53:25+00:00",
+      "raw_text": "Some Non-Enhanced Athletes Beat Their Juiced Rivals at the 'Steroid Olympics'\n\nThe inaugural games produced a record-breaking swim, but several non-enhanced athletes still beat the enhanced competitors.",
+      "impact": {}
+    },
+    {
+      "event_id": "70c5b0f0-9252-448e-b39c-52d091c70f94",
+      "source": "rss:coindesk",
+      "title": "Trump praises prediction markets, defends CFTC as court cases compound",
+      "url": "https://www.coindesk.com/policy/2026/05/26/trump-praises-prediction-markets-defends-cftc-as-court-cases-compound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-26T21:50:04+00:00",
+      "raw_text": "Trump praises prediction markets, defends CFTC as court cases compound",
+      "impact": {}
+    },
+    {
+      "event_id": "320fa423-e954-4e3f-9462-97034801a422",
+      "source": "rss:decrypt",
+      "title": "Someone Just Destroyed $8.2 Million in Bitcoin—Why?",
+      "url": "https://decrypt.co/369099/someone-burned-8-million-bitcoin-destroyed-why",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-26T21:19:34+00:00",
+      "raw_text": "Someone Just Destroyed $8.2 Million in Bitcoin—Why?\n\nFive unknown addresses removed 107 Bitcoin worth $8.2 million from circulation today, sparking intrigue on social media.",
+      "impact": {}
+    },
     {
       "event_id": "7fd5ddf7-62a7-4e71-a390-2e79bcd8a05a",
       "source": "rss:decrypt",
@@ -140,10 +200,16 @@
       "url": "https://bitcoinmagazine.com/news/smarter-web-company-adds-10-bitcoin",
       "event_type": "listing",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-26T18:37:18+00:00",
       "raw_text": "Smarter Web Company Adds 10 Bitcoin, Lifts Holdings to 2,869 BTC Amid Treasury Push\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Smarter-Web-Company-Adds-10-Bitcoin-Lifts-Holdings-to-2869-BTC-Amid",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0963,
+        "t_plus_15m": -0.0697,
+        "t_plus_1h": -0.1084
+      }
     },
     {
       "event_id": "d2200467-5a62-42a5-ae40-aa54e4f7cc6a",
@@ -152,10 +218,16 @@
       "url": "https://bitcoinmagazine.com/news/strives-sata-swallows-entire-bitcoin",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-26T18:33:49+00:00",
       "raw_text": "Strive’s SATA Briefly Swallows the Entire Bitcoin Mining Daily Supply As BTC Purchases Ramp Up\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Strives-SATA-Briefly-Swallows-the-Entire-Bitcoin-Mining-",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0846,
+        "t_plus_15m": -0.0697,
+        "t_plus_1h": -0.1084
+      }
     },
     {
       "event_id": "682cadff-8ffd-4cf6-8a6f-61472b8a71c1",
@@ -272,10 +344,17 @@
       "url": "https://cointelegraph.com/markets/bitcoin-liquidation-hunts-control-btc-at-77k-amid-new-iran-peace-deal-doubts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-26T16:57:58+00:00",
       "raw_text": "Bitcoin 'liquidation hunts' control BTC at $77K amid new Iran peace deal doubts\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin 'liquidation hunts' control BTC at $77K amid new Iran peace deal doubts\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/im",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.8002,
+        "t_plus_15m": 0.6739,
+        "t_plus_1h": 0.0009,
+        "t_plus_4h": 0.1181
+      }
     },
     {
       "event_id": "49e25ea2-87af-4faa-a565-6c090258dcc6",
@@ -352,7 +431,8 @@
       "impact": {
         "t_plus_5m": 0.392,
         "t_plus_15m": 0.1785,
-        "t_plus_1h": -0.1209
+        "t_plus_1h": -0.1209,
+        "t_plus_4h": -0.1682
       }
     },
     {
@@ -6414,99 +6494,32 @@
       "timestamp_utc": "2026-05-20T07:01:57+00:00",
       "raw_text": "GitHub investigates unauthorized access to internal repositories\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"GitHub investigates unauthorized access to internal repositories\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZ",
       "impact": {}
-    },
-    {
-      "event_id": "671ec8f5-f1a4-412b-a2a4-b1ca336e18db",
-      "source": "rss:coindesk",
-      "title": "Bitcoin, ether, XRP rebound as Senate curbs Trump's Iran war powers",
-      "url": "https://www.coindesk.com/markets/2026/05/20/bitcoin-ether-xrp-rebound-as-senate-curbs-trump-s-iran-war-powers",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-05-20T07:00:27+00:00",
-      "raw_text": "Bitcoin, ether, XRP rebound as Senate curbs Trump's Iran war powers",
-      "impact": {
-        "t_plus_5m": -0.1598,
-        "t_plus_15m": -0.0753,
-        "t_plus_1h": -0.2433,
-        "t_plus_4h": -0.0544
-      }
-    },
-    {
-      "event_id": "898f756c-6583-419d-82ed-359ac1791cc8",
-      "source": "rss:cointelegraph",
-      "title": "Meta begins 8K global job cuts, starting in Singapore",
-      "url": "https://cointelegraph.com/news/meta-begins-its-8000-job-cut-starting-in-singapore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-20T07:00:24+00:00",
-      "raw_text": "Meta begins 8K global job cuts, starting in Singapore\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Meta begins 8K global job cuts, starting in Singapore\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWR",
-      "impact": {}
-    },
-    {
-      "event_id": "e0cef8d1-7911-401d-adf2-471fb80c0eb1",
-      "source": "rss:cointelegraph",
-      "title": "MoneyGram deepens blockchain payments push via Tempo partnership",
-      "url": "https://cointelegraph.com/news/moneygram-joins-tempo-validator-network-as-stablecoin-settlement-push-expands?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-20T07:00:00+00:00",
-      "raw_text": "MoneyGram deepens blockchain payments push via Tempo partnership\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MoneyGram deepens blockchain payments push via Tempo partnership\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZ",
-      "impact": {}
-    },
-    {
-      "event_id": "731f9139-1f65-4030-9f19-57938cf41405",
-      "source": "rss:theblock",
-      "title": "Ark Invest buys combined $4.4 million in Bullish shares as stock rebounds from five-day drop",
-      "url": "https://www.theblock.co/post/401960/ark-invest-buys-4-million-bullish-shares?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-20T06:56:25+00:00",
-      "raw_text": "Ark Invest buys combined $4.4 million in Bullish shares as stock rebounds from five-day drop\n\n<p>The Cathie Wood-led investment firm collectively bought $4.4 million worth of Bullish shares on Monday and Tuesday across three of its ETFs.</p>\n\n<p>The Cathie Wood-led investment firm collectively bough",
-      "impact": {}
-    },
-    {
-      "event_id": "51afdfcf-b7a9-478e-896d-79770421b7f2",
-      "source": "rss:coindesk",
-      "title": "Non-dollar stablecoins are struggling to crack 0.5% of market share",
-      "url": "https://www.coindesk.com/markets/2026/05/20/non-dollar-stablecoins-are-struggling-to-crack-0-5-of-market-share",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-20T06:13:36+00:00",
-      "raw_text": "Non-dollar stablecoins are struggling to crack 0.5% of market share",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
         "count": 166,
-        "avg_1h": 0.2,
+        "avg_1h": 0.19,
         "avg_24h": 1.06,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 103,
+        "avg_1h": -0.04,
+        "avg_24h": -0.53,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 174,
+        "avg_1h": -0.04,
+        "avg_24h": -0.99,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
         "count": 36,
         "avg_1h": -0.06,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 103,
-        "avg_1h": -0.03,
-        "avg_24h": -0.53,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 174,
-        "avg_1h": -0.05,
-        "avg_24h": -0.99,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
