@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-05-28T22:03:32.500693+00:00",
+  "generated_at": "2026-05-28T23:40:38.202025+00:00",
   "events": [
+    {
+      "event_id": "94344da7-0a80-43c6-9b6c-8999c8e4c52b",
+      "source": "rss:cointelegraph",
+      "title": "Solana open interest drops 30% as altcoins slump: Is $68 SOL next?",
+      "url": "https://cointelegraph.com/markets/solana-open-interest-drops-30-as-68-retest-comes-back-into-play?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-28T22:39:43+00:00",
+      "raw_text": "Solana open interest drops 30% as altcoins slump: Is $68 SOL next?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana open interest drops 30% as altcoins slump: Is $68 SOL next?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pb",
+      "impact": {}
+    },
+    {
+      "event_id": "a4185ee1-01db-4a44-8258-5cf39bbcc700",
+      "source": "rss:cointelegraph",
+      "title": "Fidelity Digital Assets highlights 'growing evidence' of shift from dollar-based systems",
+      "url": "https://cointelegraph.com/news/fidelity-digital-assets-shift-dollar-based-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-28T22:32:50+00:00",
+      "raw_text": "Fidelity Digital Assets highlights 'growing evidence' of shift from dollar-based systems\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fidelity Digital Assets highlights 'growing evidence' of shift from dollar-based systems\" class=\"type:primaryImage\" src=\"https://images.co",
+      "impact": {}
+    },
+    {
+      "event_id": "a9d65309-484b-42cb-8f6e-ce091b4f79b4",
+      "source": "rss:cointelegraph",
+      "title": "Prediction markets legal battles heat up in Minnesota, Rhode Island",
+      "url": "https://cointelegraph.com/news/kalshi-cftc-lawsuit-minnesota-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-28T22:06:00+00:00",
+      "raw_text": "Prediction markets legal battles heat up in Minnesota, Rhode Island\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Prediction markets legal battles heat up in Minnesota, Rhode Island\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1",
+      "impact": {}
+    },
+    {
+      "event_id": "c8e8c8c9-b244-4d1b-9c2d-b1490932c4a4",
+      "source": "rss:coindesk",
+      "title": "Calamos bets protected Bitcoin ETFs can outlast crypto market swings",
+      "url": "https://www.coindesk.com/coindesk-news/2026/05/28/calamos-bets-protected-bitcoin-etfs-can-outlast-crypto-market-swings",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-28T22:03:42+00:00",
+      "raw_text": "Calamos bets protected Bitcoin ETFs can outlast crypto market swings",
+      "impact": {}
+    },
+    {
+      "event_id": "b8aed6d5-f024-4c7f-a47d-880c3f36f6d6",
+      "source": "rss:cointelegraph",
+      "title": "Bit Digital buys $20M worth of Ethereum, expands treasury to 158K ETH",
+      "url": "https://cointelegraph.com/news/bit-digital-buys-20m-worth-of-ethereum-expands-treasury-to-158k-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-28T21:32:40+00:00",
+      "raw_text": "Bit Digital buys $20M worth of Ethereum, expands treasury to 158K ETH\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bit Digital buys $20M worth of Ethereum, expands treasury to 158K ETH\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
+      "impact": {}
+    },
     {
       "event_id": "2d394823-2ab3-4569-92a0-269ffce977a3",
       "source": "rss:decrypt",
@@ -104,10 +164,16 @@
       "url": "https://www.theblock.co/post/402954/cryptoquant-bitcoin-whale-dolphin-accumulation-stalled-demand-weak?utm_source=rss&utm_medium=rss",
       "event_type": "whale_move",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-28T20:03:53+00:00",
       "raw_text": "CryptoQuant says bitcoin whale and dolphin accumulation stalled as demand remains weak\n\n<p>Bitcoin holding structure continues to deteriorate as whale and dolphin BTC balances have stalled, CryptoQuant said.</p>\n\n<p>Bitcoin holding structure continues to deteriorate as whale and dolphin BTC balances",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.7591,
+        "t_plus_15m": -0.4143,
+        "t_plus_1h": -0.3426
+      }
     },
     {
       "event_id": "bdde24e4-21a0-447b-b384-efd74c815549",
@@ -116,10 +182,16 @@
       "url": "https://bitcoinmagazine.com/news/bitcoin-miners-face-ai-squeeze",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-28T19:55:14+00:00",
       "raw_text": "Bitcoin Miners Face AI Squeeze as Hash Rate Flattens and Network Enters New Security Phase, Fidelity Says\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Strive-ASST-Buys-1109-Bitcoin-Lifts-Holdings-",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0032,
+        "t_plus_15m": -0.2192,
+        "t_plus_1h": 0.3084
+      }
     },
     {
       "event_id": "c6a5d85e-6091-4047-9467-3cb5925a8f30",
@@ -212,10 +284,16 @@
       "url": "https://bitcoinmagazine.com/news/anonymous-plaintiff-seeks-legal-bitcoin",
       "event_type": "listing",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-28T18:44:08+00:00",
       "raw_text": "Anonymous Plaintiff Seeks Legal Title to $293 Billion in Dormant Bitcoin, Without Holding Any Private Keys\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Anonymous-Plaintiff-Seeks-Legal-Title-to-293",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2351,
+        "t_plus_15m": 0.2861,
+        "t_plus_1h": -0.0119
+      }
     },
     {
       "event_id": "75cafbc0-98af-400c-a328-8679691e0d40",
@@ -248,10 +326,17 @@
       "url": "https://decrypt.co/369378/bitcoin-whales-pulling-back-activity-mirrors-2022-bear-market",
       "event_type": "whale_move",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-28T17:58:54+00:00",
       "raw_text": "Bitcoin Whales Are Pulling Back as Activity 'Mirrors' 2022 Bear Market: Analysts\n\nCurrent Bitcoin whale activity is similar in nature to the last bear market in 2022 when BTC fell precipitously, according to on-chain data.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2261,
+        "t_plus_15m": 0.2804,
+        "t_plus_1h": 0.2861,
+        "t_plus_4h": 0.5435
+      }
     },
     {
       "event_id": "53b6f535-0280-43d7-b5f0-6fd89a271c85",
@@ -424,7 +509,8 @@
       "impact": {
         "t_plus_5m": -0.686,
         "t_plus_15m": -0.7916,
-        "t_plus_1h": -0.1263
+        "t_plus_1h": -0.1263,
+        "t_plus_4h": 0.125
       }
     },
     {
@@ -1579,7 +1665,8 @@
         "t_plus_5m": 1.1217,
         "t_plus_15m": 1.1384,
         "t_plus_1h": 0.8364,
-        "t_plus_4h": 0.1208
+        "t_plus_4h": 0.1208,
+        "t_plus_24h": -1.0178
       }
     },
     {
@@ -6514,102 +6601,42 @@
       "timestamp_utc": "2026-05-22T10:19:06+00:00",
       "raw_text": "Polymarket team says user funds safe as exploit losses climb above $600K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Polymarket team says user funds safe as exploit losses climb above $600K\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
       "impact": {}
-    },
-    {
-      "event_id": "9e26fa87-62a8-48a4-9977-26c8a76e9c39",
-      "source": "rss:coindesk",
-      "title": "ZachXBT flags $520K Polymarket exploit on Polygon, team says funds are safe",
-      "url": "https://www.coindesk.com/markets/2026/05/22/zachxbt-flags-usd520k-polymarket-exploit-on-polygon-team-says-funds-are-safe",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-22T09:39:55+00:00",
-      "raw_text": "ZachXBT flags $520K Polymarket exploit on Polygon, team says funds are safe",
-      "impact": {}
-    },
-    {
-      "event_id": "37d24ed9-c11d-44d9-927a-a763ccd3fd16",
-      "source": "rss:cointelegraph",
-      "title": "Verus bridge exploiter returns $8.5M after bounty offer",
-      "url": "https://cointelegraph.com/news/verus-bridge-hacker-returns-85m-eth-28m-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-22T09:32:03+00:00",
-      "raw_text": "Verus bridge exploiter returns $8.5M after bounty offer\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Verus bridge exploiter returns $8.5M after bounty offer\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9",
-      "impact": {}
-    },
-    {
-      "event_id": "8ce8c779-d6b8-4045-bae0-ed642f6ae3f1",
-      "source": "rss:theblock",
-      "title": "‘No longer a distant place’: F2Pool Co-founder Chun Wang joins SpaceX’s 2-year mission to Mars",
-      "url": "https://www.theblock.co/post/402332/f2pool-chun-wang-spacex-mars?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-22T09:30:39+00:00",
-      "raw_text": "‘No longer a distant place’: F2Pool Co-founder Chun Wang joins SpaceX’s 2-year mission to Mars\n\n<p>Wang will board Starship on a two-year mission that will explore outside the Earth-Moon system and conduct a fly-by of Mars.</p>\n\n<p>Wang will board Starship on a two-year mission that will explore out",
-      "impact": {}
-    },
-    {
-      "event_id": "77b1ec16-0586-4cd9-91d2-1ee8c59ff794",
-      "source": "rss:theblock",
-      "title": "Polymarket probes suspected private key compromise of internal top-up wallet on Polygon",
-      "url": "https://www.theblock.co/post/402327/zachxbt-flags-suspected-exploit-involving-polymarkets-uma-adapter-contract-on-polygon?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-22T09:02:16+00:00",
-      "raw_text": "Polymarket probes suspected private key compromise of internal top-up wallet on Polygon\n\n<p>Polymarket said findings point to a possible private key compromise tied to an internal top-up wallet on Polygon.</p>\n\n<p>Polymarket said findings point to a possible private key compromise tied to an interna",
-      "impact": {}
-    },
-    {
-      "event_id": "f3229383-3b06-451f-a1b2-73f799505b6c",
-      "source": "rss:coindesk",
-      "title": "Near Protocol to automate its own growth and its token is skyrocketing",
-      "url": "https://www.coindesk.com/markets/2026/05/22/near-protocol-to-automate-its-own-growth-and-its-token-is-skyrocketing",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-22T08:52:32+00:00",
-      "raw_text": "Near Protocol to automate its own growth and its token is skyrocketing",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 173,
+        "avg_1h": 0.03,
+        "avg_24h": -0.44,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 169,
+        "count": 170,
         "avg_1h": 0.21,
         "avg_24h": 0.02,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 110,
-        "avg_1h": 0.01,
-        "avg_24h": -1.28,
+        "count": 111,
+        "avg_1h": 0.02,
+        "avg_24h": -1.23,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 174,
-        "avg_1h": 0.03,
-        "avg_24h": -0.44,
+      "listing": {
+        "count": 10,
+        "avg_1h": -0.04,
+        "avg_24h": -1.52,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
         "count": 9,
-        "avg_1h": 0.19,
+        "avg_1h": 0.12,
         "avg_24h": -0.71,
         "win_rate_1h_gt5pct": 0.0
       },
-      "listing": {
-        "count": 9,
-        "avg_1h": -0.06,
-        "avg_24h": -1.52,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 29,
+        "count": 27,
         "avg_1h": 0.35,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
