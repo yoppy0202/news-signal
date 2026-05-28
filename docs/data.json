@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-27T23:37:04.740360+00:00",
+  "generated_at": "2026-05-28T04:35:54.186396+00:00",
   "events": [
+    {
+      "event_id": "dee223ef-349e-46e3-b2c8-1f8c59cc1e9d",
+      "source": "rss:coindesk",
+      "title": "U.S. CFTC files request to erase Gemini settlement that it no longer considers fair",
+      "url": "https://www.coindesk.com/policy/2026/05/27/u-s-cftc-files-request-to-erase-gemini-settlement-that-it-no-longer-considers-fair",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-28T01:12:09+00:00",
+      "raw_text": "U.S. CFTC files request to erase Gemini settlement that it no longer considers fair",
+      "impact": {}
+    },
+    {
+      "event_id": "b70593fe-4970-4978-8209-d9feb1ad01c8",
+      "source": "rss:bitcoinmagazine",
+      "title": "The 2036 Issue: What Choices Will You Make On The Way To A Multipolar World?",
+      "url": "https://bitcoinmagazine.com/print/the-2036-issue-what-choices-will-you-make-on-the-way-to-a-multipolar-world",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-27T22:34:53+00:00",
+      "raw_text": "The 2036 Issue: What Choices Will You Make On The Way To A Multipolar World?\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/2036-Issue-Article-Header-2400x1400-Alden-fotor-20260527173037.webp\" style",
+      "impact": {}
+    },
+    {
+      "event_id": "a6ca86f3-017d-49ae-b350-ccb53c765feb",
+      "source": "rss:cointelegraph",
+      "title": "Crypto card monthly transaction volume surges 230% from 2025",
+      "url": "https://cointelegraph.com/news/crypto-card-monthly-volume-surge-230-one-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-27T22:30:59+00:00",
+      "raw_text": "Crypto card monthly transaction volume surges 230% from 2025\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto card monthly transaction volume surges 230% from 2025\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZ",
+      "impact": {}
+    },
     {
       "event_id": "6ef5f93d-4d80-4a84-ac36-543ec2bb5d8e",
       "source": "rss:cointelegraph",
@@ -8,10 +44,17 @@
       "url": "https://cointelegraph.com/markets/bitcoin-miner-inflows-rise-to-20k-on-binance-can-btc-hold-its-daily-uptrend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-27T22:04:13+00:00",
       "raw_text": "Bitcoin miner inflows to Binance soar as BTC struggles to hold uptrend: Is $70K next?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin miner inflows to Binance soar as BTC struggles to hold uptrend: Is $70K next?\" class=\"type:primaryImage\" src=\"https://images.cointele",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2582,
+        "t_plus_15m": 0.1243,
+        "t_plus_1h": 0.062,
+        "t_plus_4h": -0.1732
+      }
     },
     {
       "event_id": "b3875bfa-ecf8-4b97-ae45-84e55e5a32e9",
@@ -116,10 +159,17 @@
       "url": "https://decrypt.co/369218/ethereum-traders-increasingly-bearish-etfs-bleed-eth-sinks-near-2000",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-05-27T20:52:20+00:00",
       "raw_text": "Ethereum Traders Grow Increasingly Bearish as ETFs Bleed, ETH Sinks Near $2,000\n\nPredictors on Myriad are losing faith, believing it's more likely that Ethereum dumps to $1,500 before a prospective move up to $3,000.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 1.8924,
+        "t_plus_15m": 1.7307,
+        "t_plus_1h": 0.1006,
+        "t_plus_4h": 0.0779
+      }
     },
     {
       "event_id": "1fc5cc1b-197f-4423-bf40-86eb3e9e2197",
@@ -152,10 +202,17 @@
       "url": "https://bitcoinmagazine.com/news/strives-sata-tops-estimated-490-bitcoin",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-27T20:36:54+00:00",
       "raw_text": "Strive’s SATA Tops Estimated 490 Bitcoin in a Single Day — More Than the Entire Daily Mining Supply\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Strive-Expands-Bitcoin-Treasury-With-61.4-Million-P",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 1.1217,
+        "t_plus_15m": 1.1384,
+        "t_plus_1h": 0.8364,
+        "t_plus_4h": 0.1208
+      }
     },
     {
       "event_id": "c5685d95-0ad6-4fe4-a694-b43dd2793f46",
@@ -232,7 +289,8 @@
       "impact": {
         "t_plus_5m": -0.3642,
         "t_plus_15m": -0.3081,
-        "t_plus_1h": 0.0087
+        "t_plus_1h": 0.0087,
+        "t_plus_4h": -1.2563
       }
     },
     {
@@ -313,7 +371,8 @@
       "impact": {
         "t_plus_5m": -0.4877,
         "t_plus_15m": -0.3737,
-        "t_plus_1h": -0.2995
+        "t_plus_1h": -0.2995,
+        "t_plus_4h": -0.8411
       }
     },
     {
@@ -928,6 +987,18 @@
       "tokens": [],
       "timestamp_utc": "2026-05-27T12:58:46+00:00",
       "raw_text": "China’s top court to study rules for crypto and AI cases\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"China’s top court to study rules for crypto and AI cases\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pb",
+      "impact": {}
+    },
+    {
+      "event_id": "30baea32-4eb6-4b2d-a64e-d938d9500398",
+      "source": "rss:coindesk",
+      "title": "Live markets: bitcoin slides to new monthly low below $75,000 on report of strikes against Iran",
+      "url": "https://www.coindesk.com/markets/2026/05/27/live-markets-bitcoin-remains-under-pressure-as-korea-s-sk-hynix-joins-micron-in-usd1-trillion-club",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-27T12:44:24+00:00",
+      "raw_text": "Live markets: bitcoin slides to new monthly low below $75,000 on report of strikes against Iran",
       "impact": {}
     },
     {
@@ -6493,87 +6564,32 @@
       "timestamp_utc": "2026-05-21T10:28:20+00:00",
       "raw_text": "OSL Strengthens Asia’s Digital Asset Ecosystem with Listing of State-Supervised Gold-Backed Stablecoin USDKG\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OSL Strengthens Asia’s Digital Asset Ecosystem with Listing of State-Supervised Gold-Backed Stablecoin USDKG\" class=\"t",
       "impact": {}
-    },
-    {
-      "event_id": "861438e6-1c9a-4d80-9675-ab059323bded",
-      "source": "rss:theblock",
-      "title": "Fantasy Top to shut down, says trading card game model was ‘never built’ for crypto",
-      "url": "https://www.theblock.co/post/402144/fantasy-top-to-shut-down-says-trading-card-game-model-was-never-built-for-crypto?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-21T10:19:35+00:00",
-      "raw_text": "Fantasy Top to shut down, says trading card game model was ‘never built’ for crypto\n\n<p>Its founder said that financialized crypto trading card games attract speculators rather than players.</p>\n\n<p>Its founder said that financialized crypto trading card games attract speculators rather than players",
-      "impact": {}
-    },
-    {
-      "event_id": "7ea3b866-6310-4b01-8d23-08a076cba82d",
-      "source": "rss:theblock",
-      "title": "Wife of Sandbox co-founder Sebastien Borget targeted in kidnapping attempt at home in France: report",
-      "url": "https://www.theblock.co/post/402146/wife-of-sandbox-co-founder-sebastien-borget-targeted-in-kidnapping-attempt-at-home-in-france-report?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-21T10:12:33+00:00",
-      "raw_text": "Wife of Sandbox co-founder Sebastien Borget targeted in kidnapping attempt at home in France: report\n\n<p>The wife of Sandbox co-founder Sebastien Borget was targeted in a kidnapping attempt as France logs over 41 crypto kidnappings in 2026.</p>\n\n<p>The wife of Sandbox co-founder Sebastien Borget was",
-      "impact": {}
-    },
-    {
-      "event_id": "fe8e7e25-2560-4ef5-967c-ae8fad9e7db8",
-      "source": "rss:coindesk",
-      "title": "A crypto whale has made a $224,000 bet that XRP's price stays perfectly flat through June",
-      "url": "https://www.coindesk.com/markets/2026/05/21/a-massive-xrp-trade-is-betting-prices-gravitate-to-usd1-40-until-the-end-of-june",
-      "event_type": "whale_move",
-      "sentiment_label": "positive",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-05-21T09:34:48+00:00",
-      "raw_text": "A crypto whale has made a $224,000 bet that XRP's price stays perfectly flat through June",
-      "impact": {
-        "t_plus_5m": -0.341,
-        "t_plus_15m": -0.4133,
-        "t_plus_1h": -0.8868,
-        "t_plus_24h": -1.3007
-      }
-    },
-    {
-      "event_id": "77e43b18-9513-44cc-9520-131449a84d4d",
-      "source": "rss:coindesk",
-      "title": "TradFi giant IG to expand crypto trading across Europe through Bitpanda",
-      "url": "https://www.coindesk.com/business/2026/05/20/tradfi-giant-ig-to-expand-crypto-trading-across-europe-through-bitpanda",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-21T08:58:31+00:00",
-      "raw_text": "TradFi giant IG to expand crypto trading across Europe through Bitpanda",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 170,
+        "avg_1h": 0.22,
+        "avg_24h": 0.02,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 37,
+        "avg_1h": 0.13,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 173,
+        "count": 172,
         "avg_1h": 0.03,
         "avg_24h": -1.23,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
         "count": 103,
-        "avg_1h": -0.03,
+        "avg_1h": 0.03,
         "avg_24h": -0.9,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 169,
-        "avg_1h": 0.22,
-        "avg_24h": 0.02,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 36,
-        "avg_1h": 0.13,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
@@ -6583,9 +6599,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
-        "count": 9,
-        "avg_1h": 0.03,
-        "avg_24h": -1.01,
+        "count": 8,
+        "avg_1h": 0.22,
+        "avg_24h": -0.71,
         "win_rate_1h_gt5pct": 0.0
       }
     }
