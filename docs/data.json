@@ -1,6 +1,150 @@
 {
-  "generated_at": "2026-05-28T08:51:34.390172+00:00",
+  "generated_at": "2026-05-28T12:42:51.615021+00:00",
   "events": [
+    {
+      "event_id": "5a5e3115-a844-4597-93a8-df3bdc1ac034",
+      "source": "rss:decrypt",
+      "title": "CFTC, Gemini File Joint Motion to Reverse $5M Settlement",
+      "url": "https://decrypt.co/369252/cftc-gemini-file-joint-motion-to-reverse-5m-settlement",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-28T09:47:27+00:00",
+      "raw_text": "CFTC, Gemini File Joint Motion to Reverse $5M Settlement\n\nThe regulator filed alongside the crypto exchange to undo a 2025 consent order it now says \"should not have been filed.\"",
+      "impact": {}
+    },
+    {
+      "event_id": "45e438f3-6d36-449d-8ab6-9cafea9cef38",
+      "source": "rss:theblock",
+      "title": "Samsung units to acquire $408 million stake in Upbit operator Dunamu",
+      "url": "https://www.theblock.co/post/402838/samsung-upbit-dunamu?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-28T09:07:22+00:00",
+      "raw_text": "Samsung units to acquire $408 million stake in Upbit operator Dunamu\n\n<p>Major institutions in South Korea are seeking to expand into digital assets in preparation for the upcoming regulatory framework for crypto.</p>\n\n<p>Major institutions in South Korea are seeking to expand into digital assets in",
+      "impact": {}
+    },
+    {
+      "event_id": "1441d8cb-e9b0-4545-a018-9ce1bb191c29",
+      "source": "rss:coindesk",
+      "title": "White House reviews CFTC prediction-market rule as Trump backs federal control",
+      "url": "https://www.coindesk.com/policy/2026/05/28/white-house-reviews-cftc-prediction-market-rule-as-trump-backs-federal-control",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-28T08:57:26+00:00",
+      "raw_text": "White House reviews CFTC prediction-market rule as Trump backs federal control",
+      "impact": {}
+    },
+    {
+      "event_id": "e34d66aa-76b0-4f60-a1b6-dcde1622a26e",
+      "source": "rss:theblock",
+      "title": "Bit Digital extends $100 million loan facility to WhiteFiber, backed by Ethereum credit line",
+      "url": "https://www.theblock.co/post/402830/bit-digital-100-million-loan-facility-whitefiber?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-28T08:35:48+00:00",
+      "raw_text": "Bit Digital extends $100 million loan facility to WhiteFiber, backed by Ethereum credit line\n\n<p>Bit Digital said advances may be funded through an Ethereum-denominated secured credit facility, letting it retain ETH exposure.</p>\n\n<p>Bit Digital said advances may be funded through an Ethereum-denomi",
+      "impact": {}
+    },
+    {
+      "event_id": "24d66840-b983-4a49-a55a-4309476b6e2b",
+      "source": "rss:theblock",
+      "title": "CFTC says it shouldn’t have sued Gemini, joins motion to vacate prior judgment",
+      "url": "https://www.theblock.co/post/402827/cftc-joins-relief-motion-gemini?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-28T07:55:24+00:00",
+      "raw_text": "CFTC says it shouldn’t have sued Gemini, joins motion to vacate prior judgment\n\n<p>The CFTC joined Gemini in filing a motion for relief from a 2025 consent order stemming from the agency's previous enforcement action.</p>\n\n<p>The CFTC joined Gemini in filing a motion for relief from a 2025 consent o",
+      "impact": {}
+    },
+    {
+      "event_id": "95df885d-37e0-4647-96a5-d48f0f3df17c",
+      "source": "rss:coindesk",
+      "title": "Diverging trends: Ether slides below $2,000 while futures open interest hits record high of 16 million ETH",
+      "url": "https://www.coindesk.com/markets/2026/05/28/diverging-trends-ether-slides-below-usd2k-while-futures-open-interest-hits-record-high-of-16-million-eth",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-28T07:19:35+00:00",
+      "raw_text": "Diverging trends: Ether slides below $2,000 while futures open interest hits record high of 16 million ETH",
+      "impact": {}
+    },
+    {
+      "event_id": "837aa9a5-cfba-481d-b6a8-190dd8594ae2",
+      "source": "rss:cointelegraph",
+      "title": "Crypto companies have tightened compliance, but gaps remain: Chainalysis",
+      "url": "https://cointelegraph.com/news/crypto-compliance-standards-chainalysis-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-28T07:17:05+00:00",
+      "raw_text": "Crypto companies have tightened compliance, but gaps remain: Chainalysis\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto companies have tightened compliance, but gaps remain: Chainalysis\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
+      "impact": {}
+    },
+    {
+      "event_id": "10ce205d-71a0-4b06-b5dd-1ae74e47d848",
+      "source": "rss:cointelegraph",
+      "title": "Crypto markets shed $80B after fresh US strikes on Iran",
+      "url": "https://cointelegraph.com/news/crypto-markets-tank-80b-as-us-carries-out-fresh-strikes-on-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-28T06:54:24+00:00",
+      "raw_text": "Crypto markets shed $80B after fresh US strikes on Iran\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto markets shed $80B after fresh US strikes on Iran\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9",
+      "impact": {}
+    },
+    {
+      "event_id": "e72f1596-a6d5-47b7-b1d4-40087f55738a",
+      "source": "rss:cointelegraph",
+      "title": "CFTC seeks to reverse settlement deal with Gemini",
+      "url": "https://cointelegraph.com/news/cftc-moves-to-reverse-settlement-deal-against-gemini?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-28T06:41:24+00:00",
+      "raw_text": "CFTC seeks to reverse settlement deal with Gemini\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC seeks to reverse settlement deal with Gemini\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnR",
+      "impact": {}
+    },
+    {
+      "event_id": "908cb946-e071-44dd-908b-4b4377e9b8cc",
+      "source": "rss:theblock",
+      "title": "Bitcoin falls below $73,000 as BlackRock’s BTC ETF sees second-largest outflows since debut",
+      "url": "https://www.theblock.co/post/402816/bitcoin-falls-below-73000?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-28T06:06:40+00:00",
+      "raw_text": "Bitcoin falls below $73,000 as BlackRock’s BTC ETF sees second-largest outflows since debut\n\n<p>Spot BTC ETFs saw their largest outflows on Wednesday since late January, with IBIT posting its second-biggest daily net outflow on record.</p>\n\n<p>Spot BTC ETFs saw their largest outflows on Wednesday si",
+      "impact": {}
+    },
+    {
+      "event_id": "a4183ec2-8107-4e8e-b80c-1bc9a730b3d8",
+      "source": "rss:coindesk",
+      "title": "BlackRock's bitcoin ETF sheds $528 million, the second-largest daily outflow on record",
+      "url": "https://www.coindesk.com/markets/2026/05/28/blackrock-s-bitcoin-etf-sheds-usd528-million-the-second-largest-daily-outflow-on-record",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-28T05:56:12+00:00",
+      "raw_text": "BlackRock's bitcoin ETF sheds $528 million, the second-largest daily outflow on record",
+      "impact": {}
+    },
+    {
+      "event_id": "9598b4e1-8393-464c-90f9-fc62c1aefdcf",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin funding spike shows longs defending $70K: Will ETF outflows reverse bulls’ efforts?",
+      "url": "https://cointelegraph.com/markets/bitcoin-funding-spike-shows-longs-defending-75k-will-etf-outflows-reverse-bulls-efforts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-28T05:09:22+00:00",
+      "raw_text": "Bitcoin funding spike shows longs defending $70K: Will ETF outflows reverse bulls’ efforts?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin funding spike shows longs defending $70K: Will ETF outflows reverse bulls’ efforts?\" class=\"type:primaryImage\" src=\"https://ima",
+      "impact": {}
+    },
     {
       "event_id": "3e513d70-224d-4725-9b14-22ee77e87716",
       "source": "rss:coindesk",
@@ -20,9 +164,28 @@
       "url": "https://www.coindesk.com/markets/2026/05/28/xrp-drops-4-below-usd1-30-as-heavy-selling-breaks-key-support-zone",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-05-28T04:41:05+00:00",
       "raw_text": "XRP drops 4% below $1.30 as heavy selling breaks key support zone",
+      "impact": {
+        "t_plus_5m": 0.0322,
+        "t_plus_15m": 0.0812,
+        "t_plus_1h": 0.1033,
+        "t_plus_4h": 0.5496
+      }
+    },
+    {
+      "event_id": "73addb3e-0531-4be1-8fb7-b4e49c088249",
+      "source": "rss:coindesk",
+      "title": "Bitcoin drops below $73,000 as U.S. strikes on Iran spark $1 billion liquidations",
+      "url": "https://www.coindesk.com/markets/2026/05/28/bitcoin-drops-below-usd73-000-as-us-strikes-on-iran-spark-usd1-billion-liquidations",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-28T04:25:42+00:00",
+      "raw_text": "Bitcoin drops below $73,000 as U.S. strikes on Iran spark $1 billion liquidations",
       "impact": {}
     },
     {
@@ -68,10 +231,17 @@
       "url": "https://cointelegraph.com/news/kraken-rolls-out-bitcoin-vault-for-holders-to-earn-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-28T02:50:41+00:00",
       "raw_text": "Kraken rolls out Bitcoin vault product for holders to earn yield\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken rolls out Bitcoin vault product for holders to earn yield\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZ",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 1.814,
+        "t_plus_15m": 1.7222,
+        "t_plus_1h": 0.6146,
+        "t_plus_4h": 0.1882
+      }
     },
     {
       "event_id": "dc9efed3-b141-4bed-8448-eed3ecad6eee",
@@ -92,10 +262,17 @@
       "url": "https://cointelegraph.com/markets/bitcoin-falls-further-as-btc-miners-pivot-to-ai-pro-crypto-legislation-stalls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-28T01:35:49+00:00",
       "raw_text": "Bitcoin falls further as BTC miners pivot to AI, pro-crypto legislation stalls\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin falls further as BTC miners pivot to AI, pro-crypto legislation stalls\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/imag",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 1.8181,
+        "t_plus_15m": 1.7945,
+        "t_plus_1h": 1.6279,
+        "t_plus_4h": -0.0622
+      }
     },
     {
       "event_id": "dee223ef-349e-46e3-b2c8-1f8c59cc1e9d",
@@ -6389,199 +6566,24 @@
       "timestamp_utc": "2026-05-21T13:23:00+00:00",
       "raw_text": "Bitcoin's long-term holder supply approaches record high, breaking multi-year downtrend",
       "impact": {}
-    },
-    {
-      "event_id": "ba6626b0-69fa-40f1-aa80-9e63c1e6c5b5",
-      "source": "rss:coindesk",
-      "title": "CoinDesk 20 performance update: Internet Computer drops 1.6%, leading index lower",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/05/21/coindesk-20-performance-update-internet-computer-drops-1-6-leading-index-lower",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-21T13:16:12+00:00",
-      "raw_text": "CoinDesk 20 performance update: Internet Computer drops 1.6%, leading index lower",
-      "impact": {}
-    },
-    {
-      "event_id": "b16f3ff9-a2f8-4030-8ccc-753ffbe41615",
-      "source": "rss:theblock",
-      "title": "Cosmos co-founder’s new multilateral clearing startup Cycles raises $6.4 million",
-      "url": "https://www.theblock.co/post/402176/cosmos-co-founders-new-multilateral-clearing-startup-cycles-raises-6-4-million?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-21T13:13:39+00:00",
-      "raw_text": "Cosmos co-founder’s new multilateral clearing startup Cycles raises $6.4 million\n\n<p>The round, led by Blockchange Ventures, with support from Coinbase Ventures, among others, brings Cycle's total funding to $8.7 million.</p>\n\n<p>The round, led by Blockchange Ventures, with support from Coinbase Ven",
-      "impact": {}
-    },
-    {
-      "event_id": "6557f4e1-3ad5-4440-b1fb-8b6ae8f034ba",
-      "source": "rss:bitcoinmagazine",
-      "title": "SpaceX Heads Into Historic IPO With a $1.45 Billion Bitcoin Treasury on Its Books",
-      "url": "https://bitcoinmagazine.com/news/spacex-heads-into-historic-ipo",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-21T13:13:15+00:00",
-      "raw_text": "SpaceX Heads Into Historic IPO With a $1.45 Billion Bitcoin Treasury on Its Books\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/SpaceX-Heads-Into-Historic-IPO-With-a-1.45-Billion-Bitcoin-Treasury-o",
-      "impact": {
-        "t_plus_5m": -0.0544,
-        "t_plus_15m": -0.0254,
-        "t_plus_1h": -0.2404
-      }
-    },
-    {
-      "event_id": "a7d281a6-3fd2-4476-bff9-5d497008977d",
-      "source": "rss:bitcoinmagazine",
-      "title": "Foundation Raises $6.4M in Fulgur-led Round to Launch Passport Prime, a ‘Human Authority’ Device to Keep AI Agents in Check",
-      "url": "https://bitcoinmagazine.com/news/foundation-raises-6-4m-in-fulgur-led-round",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-21T13:05:41+00:00",
-      "raw_text": "Foundation Raises $6.4M in Fulgur-led Round to Launch Passport Prime, a ‘Human Authority’ Device to Keep AI Agents in Check\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Foundation-Raises-6.4M-in-F",
-      "impact": {}
-    },
-    {
-      "event_id": "cfbcb39c-0e10-4a26-8fa2-e2635459f1b3",
-      "source": "rss:theblock",
-      "title": "Foundation raises $6.4 million to expand from bitcoin hardware wallets into AI agent authorization",
-      "url": "https://www.theblock.co/post/402012/foundation-raises-6-4-million-expand-bitcoin-hardware-wallets-ai-agent-authorization?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-21T13:00:00+00:00",
-      "raw_text": "Foundation raises $6.4 million to expand from bitcoin hardware wallets into AI agent authorization\n\n<p>The firm also announced the general availability of its flagship Passport Prime device and expanded access to its KeyOS developer platform.</p>\n\n<p>The firm also announced the general availability ",
-      "impact": {}
-    },
-    {
-      "event_id": "65e5a3a6-4f3a-4abd-8964-343119e59914",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin’s ‘less aggressive demand’ may lead to months of consolidation: Analysis",
-      "url": "https://cointelegraph.com/markets/bitcoins-less-aggressive-demand-may-lead-to-months-of-consolidation-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-21T12:49:34+00:00",
-      "raw_text": "Bitcoin’s ‘less aggressive demand’ may lead to months of consolidation: Analysis\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin’s ‘less aggressive demand’ may lead to months of consolidation: Analysis\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/",
-      "impact": {
-        "t_plus_5m": 0.0269,
-        "t_plus_15m": 0.0566,
-        "t_plus_1h": -0.569,
-        "t_plus_24h": 0.1818
-      }
-    },
-    {
-      "event_id": "700928e6-7796-4924-a6a3-fe6c1f7e6508",
-      "source": "rss:coindesk",
-      "title": "Stablecoins retain the edge over tokenized money market funds, JPMorgan says",
-      "url": "https://www.coindesk.com/business/2026/05/21/stablecoins-retain-the-edge-over-tokenized-money-market-funds-jpmorgan-says",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-21T12:49:17+00:00",
-      "raw_text": "Stablecoins retain the edge over tokenized money market funds, JPMorgan says",
-      "impact": {}
-    },
-    {
-      "event_id": "d8aad690-891c-4694-8ecf-64fcd293ce9c",
-      "source": "rss:decrypt",
-      "title": "Terraform Accuses Jane Street of Using Insider Telegram Group Ahead of $40B UST-LUNA Collapse",
-      "url": "https://decrypt.co/368599/terraform-accuses-jane-street-of-leveraging-secret-telegram-group",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-21T12:40:49+00:00",
-      "raw_text": "Terraform Accuses Jane Street of Using Insider Telegram Group Ahead of $40B UST-LUNA Collapse\n\nNew allegations claim that Jane Street made use of a private backchannel with Terraform insiders before Terra's collapse.",
-      "impact": {}
-    },
-    {
-      "event_id": "8e348bcb-a194-4e51-8773-1dc430e3e041",
-      "source": "rss:theblock",
-      "title": "Kraken parent Payward secures preliminary VARA approval for Dubai expansion",
-      "url": "https://www.theblock.co/post/402172/kraken-parent-payward-secures-preliminary-vara-approval-for-dubai-expansion?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-21T12:40:26+00:00",
-      "raw_text": "Kraken parent Payward secures preliminary VARA approval for Dubai expansion\n\n<p>Kraken parent Payward secured preliminary VARA approval in Dubai, opening a pathway to expand regulated crypto services in the UAE.</p>\n\n<p>Kraken parent Payward secured preliminary VARA approval in Dubai, opening a path",
-      "impact": {}
-    },
-    {
-      "event_id": "c7f8d027-1b34-4f4a-a354-aa80fe997c07",
-      "source": "rss:cointelegraph",
-      "title": "Jane Street accused of using Terra Telegram backchannel before UST crash",
-      "url": "https://cointelegraph.com/news/jane-street-accused-terra-telegram-backchannel-ust-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-21T12:38:34+00:00",
-      "raw_text": "Jane Street accused of using Terra Telegram backchannel before UST crash\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Jane Street accused of using Terra Telegram backchannel before UST crash\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
-      "impact": {}
-    },
-    {
-      "event_id": "c846d47f-a333-4d90-aa4e-125f65f065c7",
-      "source": "rss:cointelegraph",
-      "title": "Boerse Stuttgart taps SocGen, flatexDEGIRO for EU blockchain settlement push",
-      "url": "https://cointelegraph.com/news/boerse-stuttgart-societe-generale-flatexdegiro-team-up-for-blockchain-securities-settlement-in-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-21T12:13:58+00:00",
-      "raw_text": "Boerse Stuttgart taps SocGen, flatexDEGIRO for EU blockchain settlement push\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Boerse Stuttgart taps SocGen, flatexDEGIRO for EU blockchain settlement push\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/5",
-      "impact": {}
-    },
-    {
-      "event_id": "1e3e924e-191a-4e72-94ea-2011d533d498",
-      "source": "rss:decrypt",
-      "title": "Morning Minute: SpaceX Files for IPO, Shares Surprising BTC Portfolio",
-      "url": "https://decrypt.co/368596/morning-minute-spacex-files-for-ipo-shares-surprising-btc-portfolio",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-21T12:03:40+00:00",
-      "raw_text": "Morning Minute: SpaceX Files for IPO, Shares Surprising BTC Portfolio\n\nSpaceX is up over 100% on its BTC holdings. Hyperliquid is decoupling from crypto majors. And Ethereum is leaning hard into privacy.",
-      "impact": {
-        "t_plus_5m": 0.0699,
-        "t_plus_15m": 0.0431,
-        "t_plus_24h": 0.3107
-      }
-    },
-    {
-      "event_id": "5dc0294b-915d-4339-98b0-af99869fabdc",
-      "source": "rss:theblock",
-      "title": "‘Rally slows into resistance’: Bitcoin stalls below $78,000 as ETF outflows and long liquidations deepen recovery doubts",
-      "url": "https://www.theblock.co/post/402165/rally-slows-into-resistance-bitcoin-stalls-below-78000-as-etf-outflows-and-long-liquidations-deepen-recovery-doubts?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-21T12:00:37+00:00",
-      "raw_text": "‘Rally slows into resistance’: Bitcoin stalls below $78,000 as ETF outflows and long liquidations deepen recovery doubts\n\n<p>Bitcoin trades near $77,500 as ETF outflows extend to four days, long liquidations mount, and analysts flag $80,000 as the next key test.</p>\n\n<p>Bitcoin trades near $77,500 a",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 172,
-        "avg_1h": 0.03,
-        "avg_24h": -1.23,
+        "count": 174,
+        "avg_1h": 0.05,
+        "avg_24h": -1.45,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 103,
-        "avg_1h": 0.03,
-        "avg_24h": -0.9,
+        "count": 104,
+        "avg_1h": 0.18,
+        "avg_24h": -1.17,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 171,
+        "count": 169,
         "avg_1h": 0.22,
         "avg_24h": 0.02,
         "win_rate_1h_gt5pct": 0.0
@@ -6593,8 +6595,8 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
-        "count": 9,
-        "avg_1h": -0.12,
+        "count": 8,
+        "avg_1h": -0.06,
         "avg_24h": -1.52,
         "win_rate_1h_gt5pct": 0.0
       },
