@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-28T23:40:38.202025+00:00",
+  "generated_at": "2026-05-29T04:38:54.174040+00:00",
   "events": [
+    {
+      "event_id": "a8a81f06-1f0b-4b66-b226-8f4ea23fe136",
+      "source": "rss:cointelegraph",
+      "title": "Gemini taps Grok for personalized AI-powered prediction market feeds",
+      "url": "https://cointelegraph.com/news/gemini-taps-grok-personalized-ai-powered-prediction-market-feeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-29T00:59:09+00:00",
+      "raw_text": "Gemini taps Grok for personalized AI-powered prediction market feeds\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Gemini taps Grok for personalized AI-powered prediction market feeds \" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9z",
+      "impact": {}
+    },
     {
       "event_id": "94344da7-0a80-43c6-9b6c-8999c8e4c52b",
       "source": "rss:cointelegraph",
@@ -8,10 +20,17 @@
       "url": "https://cointelegraph.com/markets/solana-open-interest-drops-30-as-68-retest-comes-back-into-play?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "SOL"
+      ],
       "timestamp_utc": "2026-05-28T22:39:43+00:00",
       "raw_text": "Solana open interest drops 30% as altcoins slump: Is $68 SOL next?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana open interest drops 30% as altcoins slump: Is $68 SOL next?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pb",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1865,
+        "t_plus_15m": -0.051,
+        "t_plus_1h": 0.0103,
+        "t_plus_4h": -0.2657
+      }
     },
     {
       "event_id": "a4185ee1-01db-4a44-8258-5cf39bbcc700",
@@ -56,10 +75,17 @@
       "url": "https://cointelegraph.com/news/bit-digital-buys-20m-worth-of-ethereum-expands-treasury-to-158k-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "listing",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-05-28T21:32:40+00:00",
       "raw_text": "Bit Digital buys $20M worth of Ethereum, expands treasury to 158K ETH\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bit Digital buys $20M worth of Ethereum, expands treasury to 158K ETH\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.7895,
+        "t_plus_15m": 0.6957,
+        "t_plus_1h": 0.1209,
+        "t_plus_4h": -0.0119
+      }
     },
     {
       "event_id": "2d394823-2ab3-4569-92a0-269ffce977a3",
@@ -172,7 +198,8 @@
       "impact": {
         "t_plus_5m": -0.7591,
         "t_plus_15m": -0.4143,
-        "t_plus_1h": -0.3426
+        "t_plus_1h": -0.3426,
+        "t_plus_4h": -0.258
       }
     },
     {
@@ -190,7 +217,8 @@
       "impact": {
         "t_plus_5m": 0.0032,
         "t_plus_15m": -0.2192,
-        "t_plus_1h": 0.3084
+        "t_plus_1h": 0.3084,
+        "t_plus_4h": 0.1585
       }
     },
     {
@@ -292,7 +320,8 @@
       "impact": {
         "t_plus_5m": 0.2351,
         "t_plus_15m": 0.2861,
-        "t_plus_1h": -0.0119
+        "t_plus_1h": -0.0119,
+        "t_plus_4h": 0.0839
       }
     },
     {
@@ -1452,7 +1481,8 @@
         "t_plus_5m": 1.8181,
         "t_plus_15m": 1.7945,
         "t_plus_1h": 1.6279,
-        "t_plus_4h": -0.0622
+        "t_plus_4h": -0.0622,
+        "t_plus_24h": 0.8364
       }
     },
     {
@@ -6589,43 +6619,31 @@
       "timestamp_utc": "2026-05-22T10:23:48+00:00",
       "raw_text": "Crypto majors stuck in tight range as altcoin rotation picks up steam",
       "impact": {}
-    },
-    {
-      "event_id": "5a908230-e6d7-48da-81ad-3681149a4a3d",
-      "source": "rss:cointelegraph",
-      "title": "Polymarket team says user funds safe as exploit losses climb above $600K",
-      "url": "https://cointelegraph.com/news/polymarket-uma-adapter-appears-exploited-520k-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-22T10:19:06+00:00",
-      "raw_text": "Polymarket team says user funds safe as exploit losses climb above $600K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Polymarket team says user funds safe as exploit losses climb above $600K\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 171,
+        "avg_1h": 0.21,
+        "avg_24h": 0.02,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 173,
         "avg_1h": 0.03,
         "avg_24h": -0.44,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 170,
-        "avg_1h": 0.21,
-        "avg_24h": 0.02,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
         "count": 111,
         "avg_1h": 0.02,
-        "avg_24h": -1.23,
+        "avg_24h": -0.89,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
         "count": 10,
-        "avg_1h": -0.04,
+        "avg_1h": -0.0,
         "avg_24h": -1.52,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6636,7 +6654,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 27,
+        "count": 26,
         "avg_1h": 0.35,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
