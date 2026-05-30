@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-30T10:12:18.561638+00:00",
+  "generated_at": "2026-05-30T12:12:19.091438+00:00",
   "events": [
+    {
+      "event_id": "d1dd9363-1539-430c-9537-41910129a581",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin treasury space still has fair share of ‘carnival barkers’: BSTR founder",
+      "url": "https://cointelegraph.com/news/bitcoin-treasury-space-still-has-fair-share-of-carnival-barkers-bstr-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-30T09:28:16+00:00",
+      "raw_text": "Bitcoin treasury space still has fair share of ‘carnival barkers’: BSTR founder\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin treasury space still has fair share of ‘carnival barkers’: BSTR founder\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/im",
+      "impact": {}
+    },
     {
       "event_id": "31aaba42-6837-4dc5-96a6-d174c57abff3",
       "source": "rss:cointelegraph",
@@ -28,7 +40,8 @@
       "impact": {
         "t_plus_5m": 0.2473,
         "t_plus_15m": 0.4127,
-        "t_plus_1h": 0.3779
+        "t_plus_1h": 0.3779,
+        "t_plus_4h": 0.1729
       }
     },
     {
@@ -6590,22 +6603,16 @@
       "timestamp_utc": "2026-05-24T05:39:02+00:00",
       "raw_text": "Euro and USD stablecoins depeg amid ongoing $2.8M StablR exploit\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Euro and USD stablecoins depeg amid ongoing $2.8M StablR exploit\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZ",
       "impact": {}
-    },
-    {
-      "event_id": "e612fe17-5272-4a53-988b-88bf43cc9c75",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin bounces as Trump prepares to announce ‘negotiated’ Iran deal",
-      "url": "https://cointelegraph.com/news/bitcoin-bounces-as-trump-prepares-to-announce-negotiated-iran-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-24T03:20:00+00:00",
-      "raw_text": "Bitcoin bounces as Trump prepares to announce ‘negotiated’ Iran deal\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin bounces as Trump prepares to announce ‘negotiated’ Iran deal\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zM",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 169,
+        "avg_1h": 0.25,
+        "avg_24h": -1.01,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 117,
         "avg_1h": -0.03,
@@ -6616,12 +6623,6 @@
         "count": 169,
         "avg_1h": 0.06,
         "avg_24h": -1.14,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 169,
-        "avg_1h": 0.25,
-        "avg_24h": -1.01,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
