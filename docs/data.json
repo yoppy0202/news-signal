@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-05-29T23:39:11.684997+00:00",
+  "generated_at": "2026-05-30T04:14:17.741486+00:00",
   "events": [
+    {
+      "event_id": "c3c6101a-1891-4558-88a2-09525ad80b12",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin dip buyers place $500M in bids as $70K retest looms",
+      "url": "https://cointelegraph.com/markets/bitcoin-dip-buyers-place-350m-in-bids-as-70k-retest-looms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-29T22:45:33+00:00",
+      "raw_text": "Bitcoin dip buyers place $500M in bids as $70K retest looms\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin dip buyers place $500M in bids as $70K retest looms\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWR",
+      "impact": {}
+    },
+    {
+      "event_id": "c80c2d58-2a02-43a3-9ae8-c59979da7831",
+      "source": "rss:cointelegraph",
+      "title": "‘Extraordinarily unusual’ for CFTC to reverse Gemini settlement deal: Ex-chair",
+      "url": "https://cointelegraph.com/news/cftc-reverse-settlement-gemini-unusual-former-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-29T22:28:10+00:00",
+      "raw_text": "‘Extraordinarily unusual’ for CFTC to reverse Gemini settlement deal: Ex-chair\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"‘Extraordinarily unusual’ for CFTC to reverse Gemini settlement deal: Ex-chair\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/imag",
+      "impact": {}
+    },
     {
       "event_id": "f6f32f75-5528-4d77-b8e0-e4893fd08615",
       "source": "rss:bitcoinmagazine",
@@ -6572,45 +6596,14 @@
       "timestamp_utc": "2026-05-23T20:21:18+00:00",
       "raw_text": "ECB warns EU finance ministers that easing euro stablecoin rules would weaken banks: Reuters\n\n<p>ECB President Christine Lagarde warned the changes would destabilize bank funding and weaken interest-rate transmission.</p>\n\n<p>ECB President Christine Lagarde warned the changes would destabilize bank ",
       "impact": {}
-    },
-    {
-      "event_id": "f40e7909-c5ab-45e4-bf30-963694f26abd",
-      "source": "rss:bitcoinmagazine",
-      "title": "The History and Future of Physical Bitcoin",
-      "url": "https://bitcoinmagazine.com/business/the-history-and-future-of-physical-bitcoin",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-23T19:02:35+00:00",
-      "raw_text": "The History and Future of Physical Bitcoin\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/final-thumbnail-.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.c",
-      "impact": {
-        "t_plus_5m": -0.1563,
-        "t_plus_15m": -0.0042,
-        "t_plus_1h": 0.0626,
-        "t_plus_4h": 0.8418
-      }
-    },
-    {
-      "event_id": "573b5cb4-53e9-4677-a73a-a5b1fa8d2a03",
-      "source": "rss:coindesk",
-      "title": "Bitcoin is ready to beat stocks and bonds again after underperformance against Wall Street",
-      "url": "https://www.coindesk.com/markets/2026/05/23/bitcoin-is-ready-to-beat-stocks-and-bonds-again-after-underperformance-against-wall-street",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-23T19:00:00+00:00",
-      "raw_text": "Bitcoin is ready to beat stocks and bonds again after underperformance against Wall Street",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 116,
-        "avg_1h": -0.05,
-        "avg_24h": -0.67,
+      "unknown": {
+        "count": 171,
+        "avg_1h": 0.06,
+        "avg_24h": -1.14,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
@@ -6619,10 +6612,10 @@
         "avg_24h": -1.01,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 170,
-        "avg_1h": 0.06,
-        "avg_24h": -1.14,
+      "macro": {
+        "count": 115,
+        "avg_1h": -0.05,
+        "avg_24h": -0.67,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
