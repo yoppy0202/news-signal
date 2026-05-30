@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-05-30T18:13:32.008154+00:00",
+  "generated_at": "2026-05-30T20:15:42.617318+00:00",
   "events": [
+    {
+      "event_id": "dcc85b18-6337-4fea-8287-112f84e5ee7b",
+      "source": "rss:theblock",
+      "title": "Cosmos-based Gravity Bridge drained of $5.4 million in suspected key compromise, researchers say",
+      "url": "https://www.theblock.co/post/403108/cosmos-based-gravity-bridge-drained-of-5-4-million-in-suspected-key-compromise-researchers-say?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-30T18:21:02+00:00",
+      "raw_text": "Cosmos-based Gravity Bridge drained of $5.4 million in suspected key compromise, researchers say\n\n<p>The attacker took USDC, ether, tether and PAYG tokens before laundering a portion through ChangeNow and Binance.</p>\n\n<p>The attacker took USDC, ether, tether and PAYG tokens before laundering a port",
+      "impact": {}
+    },
+    {
+      "event_id": "e1aa6a85-006a-4114-9a77-65bc5e0cf201",
+      "source": "rss:theblock",
+      "title": "Crypto champion Trump may be jeopardizing the industry’s landmark legislation",
+      "url": "https://www.theblock.co/post/403083/crypto-champion-trump-may-be-jeopardizing-the-industrys-landmark-legislation?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-30T17:56:14+00:00",
+      "raw_text": "Crypto champion Trump may be jeopardizing the industry’s landmark legislation\n\n<p>Digital asset legislation is years in the making, but the sector's biggest political champion, President Trump, has become a liability. </p>\n\n<p>Digital asset legislation is years in the making, but the sector's bigges",
+      "impact": {}
+    },
     {
       "event_id": "5cb44ac1-4c1e-402d-9f32-49d8a515e550",
       "source": "rss:coindesk",
@@ -463,7 +487,8 @@
         "t_plus_5m": 0.8661,
         "t_plus_15m": 1.1223,
         "t_plus_1h": 0.7632,
-        "t_plus_4h": 0.3567
+        "t_plus_4h": 0.3567,
+        "t_plus_24h": 0.688
       }
     },
     {
@@ -6568,42 +6593,24 @@
         "t_plus_1h": 0.0445,
         "t_plus_4h": -1.3856
       }
-    },
-    {
-      "event_id": "886ea65c-5747-451c-8771-28167c5769d3",
-      "source": "rss:decrypt",
-      "title": "AI Startup Says It Will Pay People $2,000 a Month to Masturbate—Yes, Really",
-      "url": "https://decrypt.co/368866/ai-startup-pay-people-2000-month-masturbate",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-24T16:37:04+00:00",
-      "raw_text": "AI Startup Says It Will Pay People $2,000 a Month to Masturbate—Yes, Really\n\nJoi AI is hiring 10 “masturbation consultants” to test its AI-guided masturbation feature and report how it affects stress, sleep, mood, and confidence.",
-      "impact": {}
-    },
-    {
-      "event_id": "cd5c204d-bd8f-45d1-90e3-a21c79ca1573",
-      "source": "rss:theblock",
-      "title": "StablR’s EURR and USDR depeg after attacker mints $13.5 million in unbacked tokens through multisig exploit",
-      "url": "https://www.theblock.co/post/402429/stablrs-eurr-and-usdr-depeg-after-attacker-mints-13-5-million-in-unbacked-tokens-through-multisig-exploit?utm_source=rss&utm_medium=rss",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-24T15:08:39+00:00",
-      "raw_text": "StablR’s EURR and USDR depeg after attacker mints $13.5 million in unbacked tokens through multisig exploit\n\n<p>EURR fell to $0.85 and USDR fell as low as $0.40 after an attacker dumped roughly $10.4 million in face value on decentralized exchanges. </p>\n\n<p>EURR fell to $0.85 and USDR fell as low a",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 24,
+        "avg_1h": 0.33,
+        "avg_24h": 6.13,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 119,
+        "count": 120,
         "avg_1h": -0.03,
         "avg_24h": -0.51,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 167,
+        "count": 166,
         "avg_1h": 0.23,
         "avg_24h": -1.01,
         "win_rate_1h_gt5pct": 0.0
@@ -6611,13 +6618,7 @@
       "unknown": {
         "count": 170,
         "avg_1h": 0.07,
-        "avg_24h": -1.14,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 24,
-        "avg_1h": 0.33,
-        "avg_24h": 6.13,
+        "avg_24h": -0.83,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
