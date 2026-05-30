@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-30T07:49:04.798064+00:00",
+  "generated_at": "2026-05-30T10:12:18.561638+00:00",
   "events": [
+    {
+      "event_id": "31aaba42-6837-4dc5-96a6-d174c57abff3",
+      "source": "rss:cointelegraph",
+      "title": "US has seized nearly $1 billion in Iranian crypto, Treasury secretary says",
+      "url": "https://cointelegraph.com/news/us-has-seized-nearly-1-billion-in-iranian-crypto-treasury-secretary-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-30T08:38:16+00:00",
+      "raw_text": "US has seized nearly $1 billion in Iranian crypto, Treasury secretary says\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US has seized nearly $1 billion in Iranian crypto, Treasury secretary says\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
+      "impact": {}
+    },
     {
       "event_id": "b683c51f-70d2-46ef-a56b-ce27c2e67d4b",
       "source": "rss:coindesk",
@@ -8,10 +20,16 @@
       "url": "https://www.coindesk.com/markets/2026/05/30/bitcoin-ether-xrp-dogecoin-lag-a-nine-week-stocks-rally-as-etf-demand-cools",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-05-30T05:41:30+00:00",
       "raw_text": "Bitcoin, ether, XRP, dogecoin lag a nine-week stocks rally as ETF demand cools",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2473,
+        "t_plus_15m": 0.4127,
+        "t_plus_1h": 0.3779
+      }
     },
     {
       "event_id": "7f960f6e-ea9b-4146-9381-fe755462ff07",
@@ -6584,25 +6602,13 @@
       "timestamp_utc": "2026-05-24T03:20:00+00:00",
       "raw_text": "Bitcoin bounces as Trump prepares to announce ‘negotiated’ Iran deal\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin bounces as Trump prepares to announce ‘negotiated’ Iran deal\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zM",
       "impact": {}
-    },
-    {
-      "event_id": "051002ce-d50c-447f-90df-94256662598b",
-      "source": "rss:cointelegraph",
-      "title": "70% of all crypto wrench attacks happen in France: Report",
-      "url": "https://cointelegraph.com/news/70-crypto-wrench-attacks-happen-france?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-23T23:07:19+00:00",
-      "raw_text": "70% of all crypto wrench attacks happen in France: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"70% of all crypto wrench attacks happen in France: Report\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "macro": {
-        "count": 116,
-        "avg_1h": -0.05,
+        "count": 117,
+        "avg_1h": -0.03,
         "avg_24h": -0.67,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6619,7 +6625,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 26,
+        "count": 25,
         "avg_1h": 0.33,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
