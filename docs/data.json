@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-30T16:13:25.135685+00:00",
+  "generated_at": "2026-05-30T18:13:32.008154+00:00",
   "events": [
+    {
+      "event_id": "5cb44ac1-4c1e-402d-9f32-49d8a515e550",
+      "source": "rss:coindesk",
+      "title": "SEC sues Texas man over $12.3 million alleged crypto scheme built on fake AI trading bots",
+      "url": "https://www.coindesk.com/business/2026/05/30/sec-sues-texas-man-over-usd12-3-million-alleged-crypto-scheme-built-on-fake-ai-trading-bots",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-30T17:27:34+00:00",
+      "raw_text": "SEC sues Texas man over $12.3 million alleged crypto scheme built on fake AI trading bots",
+      "impact": {}
+    },
+    {
+      "event_id": "dc84566b-afe1-4c0c-9200-a4528df71aa2",
+      "source": "rss:coindesk",
+      "title": "U.S. says it seized about $1 billion in Iranian crypto as pressure campaign expands",
+      "url": "https://www.coindesk.com/business/2026/05/30/u-s-says-it-seized-about-usd1-billion-in-iranian-crypto-as-pressure-campaign-expands",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-30T15:50:37+00:00",
+      "raw_text": "U.S. says it seized about $1 billion in Iranian crypto as pressure campaign expands",
+      "impact": {}
+    },
+    {
+      "event_id": "f11c6fbe-cd27-48b5-8560-f031dba9b68a",
+      "source": "rss:decrypt",
+      "title": "Florida Candidate Liquidates $800K in Bitcoin to Bankroll Congressional Bid",
+      "url": "https://decrypt.co/369478/florida-candidate-liquidates-800k-bitcoin-bankroll-congressional-bid",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-30T15:44:30+00:00",
+      "raw_text": "Florida Candidate Liquidates $800K in Bitcoin to Bankroll Congressional Bid\n\nA Republican candidate jockeying to represent Florida’s 22nd Congressional District liquidated Bitcoin to help fuel his political bid.",
+      "impact": {}
+    },
     {
       "event_id": "ea641cb2-b7b7-4663-93b9-d5efb3e9893f",
       "source": "rss:coindesk",
@@ -88,7 +124,8 @@
       "impact": {
         "t_plus_5m": 0.0811,
         "t_plus_15m": -0.0617,
-        "t_plus_1h": -0.0044
+        "t_plus_1h": -0.0044,
+        "t_plus_4h": 0.0247
       }
     },
     {
@@ -6555,59 +6592,10 @@
       "timestamp_utc": "2026-05-24T15:08:39+00:00",
       "raw_text": "StablR’s EURR and USDR depeg after attacker mints $13.5 million in unbacked tokens through multisig exploit\n\n<p>EURR fell to $0.85 and USDR fell as low as $0.40 after an attacker dumped roughly $10.4 million in face value on decentralized exchanges. </p>\n\n<p>EURR fell to $0.85 and USDR fell as low a",
       "impact": {}
-    },
-    {
-      "event_id": "8bd974cd-d61a-4522-9b40-a358fab59fd6",
-      "source": "rss:cointelegraph",
-      "title": "Tom Lee’s Ethereum portfolio down $7.35B as ETH price outlook worsens",
-      "url": "https://cointelegraph.com/markets/tom-lees-ethereum-portfolio-sitting-on-73b-in-unrealized-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-05-24T15:08:08+00:00",
-      "raw_text": "Tom Lee’s Ethereum portfolio down $7.35B as ETH price outlook worsens\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tom Lee’s Ethereum portfolio down $7.35B as ETH price outlook worsens\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
-      "impact": {
-        "t_plus_5m": -0.2405,
-        "t_plus_15m": -0.3431,
-        "t_plus_1h": -0.2261,
-        "t_plus_4h": -0.1786
-      }
-    },
-    {
-      "event_id": "4042a992-1baa-4820-85ae-d9e38ec4a6b1",
-      "source": "rss:coindesk",
-      "title": "A massive $1 trillion hidden market is waiting to be unlocked in bitcoin, says new report",
-      "url": "https://www.coindesk.com/business/2026/05/22/ledn",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-24T15:00:00+00:00",
-      "raw_text": "A massive $1 trillion hidden market is waiting to be unlocked in bitcoin, says new report",
-      "impact": {}
-    },
-    {
-      "event_id": "6badcfd9-62c6-4562-bc9e-9453cb699236",
-      "source": "rss:coindesk",
-      "title": "AI is speeding up the quantum threat to crypto, security experts warn",
-      "url": "https://www.coindesk.com/tech/2026/05/24/ai-is-speeding-up-the-quantum-threat-to-crypto-security-experts-warn",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-24T14:00:00+00:00",
-      "raw_text": "AI is speeding up the quantum threat to crypto, security experts warn",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "hack": {
-        "count": 24,
-        "avg_1h": 0.33,
-        "avg_24h": 6.13,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
         "count": 119,
         "avg_1h": -0.03,
@@ -6622,8 +6610,14 @@
       },
       "unknown": {
         "count": 170,
-        "avg_1h": 0.06,
+        "avg_1h": 0.07,
         "avg_24h": -1.14,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 24,
+        "avg_1h": 0.33,
+        "avg_24h": 6.13,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
