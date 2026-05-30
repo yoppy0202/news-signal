@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-30T04:14:17.741486+00:00",
+  "generated_at": "2026-05-30T07:49:04.798064+00:00",
   "events": [
+    {
+      "event_id": "b683c51f-70d2-46ef-a56b-ce27c2e67d4b",
+      "source": "rss:coindesk",
+      "title": "Bitcoin, ether, XRP, dogecoin lag a nine-week stocks rally as ETF demand cools",
+      "url": "https://www.coindesk.com/markets/2026/05/30/bitcoin-ether-xrp-dogecoin-lag-a-nine-week-stocks-rally-as-etf-demand-cools",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-30T05:41:30+00:00",
+      "raw_text": "Bitcoin, ether, XRP, dogecoin lag a nine-week stocks rally as ETF demand cools",
+      "impact": {}
+    },
+    {
+      "event_id": "7f960f6e-ea9b-4146-9381-fe755462ff07",
+      "source": "rss:coindesk",
+      "title": "Bitcoin’s biggest quantum risk may not be wallet keys. An early investor fears something bigger",
+      "url": "https://www.coindesk.com/tech/2026/05/30/bitcoin-s-biggest-quantum-risk-may-not-be-wallet-keys-an-early-investor-fears-something-bigger",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-30T05:27:39+00:00",
+      "raw_text": "Bitcoin’s biggest quantum risk may not be wallet keys. An early investor fears something bigger",
+      "impact": {}
+    },
+    {
+      "event_id": "ef20e36d-7ed2-4014-b0d1-940d2b86d7ed",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin retail sentiment still matters, says Swan Bitcoin CEO",
+      "url": "https://cointelegraph.com/news/bitcoin-retail-sentiment-still-matters-says-swan-bitcoin-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-30T04:57:37+00:00",
+      "raw_text": "Bitcoin retail sentiment still matters, says Swan Bitcoin CEO\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin retail sentiment still matters, says Swan Bitcoin CEO\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3R",
+      "impact": {}
+    },
     {
       "event_id": "c3c6101a-1891-4558-88a2-09525ad80b12",
       "source": "rss:cointelegraph",
@@ -6560,62 +6596,26 @@
       "timestamp_utc": "2026-05-23T23:07:19+00:00",
       "raw_text": "70% of all crypto wrench attacks happen in France: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"70% of all crypto wrench attacks happen in France: Report\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5",
       "impact": {}
-    },
-    {
-      "event_id": "6cdf180d-8803-4716-9684-24a01baac332",
-      "source": "rss:coindesk",
-      "title": "Bitcoin heads higher as President Trump announces Iran peace agreement",
-      "url": "https://www.coindesk.com/markets/2026/05/23/bitcoin-heads-higher-as-president-trump-announces-iran-peace-agreement",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-23T20:52:21+00:00",
-      "raw_text": "Bitcoin heads higher as President Trump announces Iran peace agreement",
-      "impact": {}
-    },
-    {
-      "event_id": "ef1f29ed-b4c5-466d-8fe7-14c903b23705",
-      "source": "rss:cointelegraph",
-      "title": "Analysts forecast a Bitcoin crash to the $60K level, revisiting 2026 low",
-      "url": "https://cointelegraph.com/news/analysts-forecast-bitcoin-crash-60k-february-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-23T20:49:12+00:00",
-      "raw_text": "Analysts forecast a Bitcoin crash to the $60K level, revisiting 2026 low\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Analysts forecast a Bitcoin crash to the $60K level, revisiting 2026 low\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
-      "impact": {}
-    },
-    {
-      "event_id": "29499118-4762-4b30-9b0b-23d9cdcce7d8",
-      "source": "rss:theblock",
-      "title": "ECB warns EU finance ministers that easing euro stablecoin rules would weaken banks: Reuters",
-      "url": "https://www.theblock.co/post/402427/ecb-warns-eu-finance-ministers-that-easing-euro-stablecoin-rules-would-weaken-banks-reuters?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-23T20:21:18+00:00",
-      "raw_text": "ECB warns EU finance ministers that easing euro stablecoin rules would weaken banks: Reuters\n\n<p>ECB President Christine Lagarde warned the changes would destabilize bank funding and weaken interest-rate transmission.</p>\n\n<p>ECB President Christine Lagarde warned the changes would destabilize bank ",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 116,
+        "avg_1h": -0.05,
+        "avg_24h": -0.67,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 171,
+        "count": 169,
         "avg_1h": 0.06,
         "avg_24h": -1.14,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 168,
+        "count": 169,
         "avg_1h": 0.25,
         "avg_24h": -1.01,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 115,
-        "avg_1h": -0.05,
-        "avg_24h": -0.67,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
