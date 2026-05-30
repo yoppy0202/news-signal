@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-05-30T20:15:42.617318+00:00",
+  "generated_at": "2026-05-30T22:10:46.326234+00:00",
   "events": [
+    {
+      "event_id": "68cc14b3-09f1-4c51-afc0-96545a892032",
+      "source": "rss:cointelegraph",
+      "title": "Senator Lummis says China will 'write the rules' of the new financial era if CLARITY fails",
+      "url": "https://cointelegraph.com/news/senator-lummis-says-china-will-beat-the-us-to-the-punch-if-clarity-is-not-passed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-30T20:45:45+00:00",
+      "raw_text": "Senator Lummis says China will 'write the rules' of the new financial era if CLARITY fails\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Senator Lummis says China will 'write the rules' of the new financial era if CLARITY fails\" class=\"type:primaryImage\" src=\"https://image",
+      "impact": {}
+    },
+    {
+      "event_id": "6ae2d934-c0a1-4346-aca2-2069ed621cdb",
+      "source": "rss:cointelegraph",
+      "title": "Circle freezes $12.6M of USDC linked to privacy protocol Zama",
+      "url": "https://cointelegraph.com/news/circle-freezes-126m-of-usdc-linked-to-privacy-protocol-zama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-30T19:11:15+00:00",
+      "raw_text": "Circle freezes $12.6M of USDC linked to privacy protocol Zama\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Circle freezes $12.6M of USDC linked to privacy protocol Zama\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3R",
+      "impact": {}
+    },
     {
       "event_id": "dcc85b18-6337-4fea-8287-112f84e5ee7b",
       "source": "rss:theblock",
@@ -6562,41 +6586,16 @@
       "timestamp_utc": "2026-05-24T18:30:00+00:00",
       "raw_text": "Crypto and the Fed: State of Crypto",
       "impact": {}
-    },
-    {
-      "event_id": "b33be2b0-c0bb-40ce-ba84-e9f63db6c25a",
-      "source": "rss:cointelegraph",
-      "title": "FTX law firm Fenwick & West to pay $54M to victims in settlement",
-      "url": "https://cointelegraph.com/news/law-firm-fenwick-west-54m-ftx-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-24T18:05:52+00:00",
-      "raw_text": "FTX law firm Fenwick & West to pay $54M to victims in settlement\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"FTX law firm Fenwick &amp; West to pay $54M to victims in settlement\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pb",
-      "impact": {}
-    },
-    {
-      "event_id": "7e495e28-c637-4d51-84aa-25fa499eb477",
-      "source": "rss:theblock",
-      "title": "Vitalik Buterin says Ethereum Foundation will be a ‘smaller ship,’ sell less ETH amid researcher exodus",
-      "url": "https://www.theblock.co/post/402435/vitalik-buterin-says-ethereum-foundation-will-be-a-smaller-ship-sell-less-eth-amid-researcher-exodus?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-05-24T18:01:27+00:00",
-      "raw_text": "Vitalik Buterin says Ethereum Foundation will be a ‘smaller ship,’ sell less ETH amid researcher exodus\n\n<p>Buterin said the EF is choosing \"longevity over breadth,\" selling less ETH and focusing exclusively on Ethereum's \"CROPS\" properties. </p>\n\n<p>Buterin said the EF is choosing \"longevity over b",
-      "impact": {
-        "t_plus_5m": 0.1834,
-        "t_plus_15m": 0.2121,
-        "t_plus_1h": 0.0445,
-        "t_plus_4h": -1.3856
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 167,
+        "avg_1h": 0.25,
+        "avg_24h": -1.01,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
         "count": 24,
         "avg_1h": 0.33,
@@ -6609,14 +6608,8 @@
         "avg_24h": -0.51,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 166,
-        "avg_1h": 0.23,
-        "avg_24h": -1.01,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 170,
+        "count": 169,
         "avg_1h": 0.07,
         "avg_24h": -0.83,
         "win_rate_1h_gt5pct": 0.0
