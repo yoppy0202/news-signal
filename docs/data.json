@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-30T22:10:46.326234+00:00",
+  "generated_at": "2026-05-31T00:12:17.222224+00:00",
   "events": [
+    {
+      "event_id": "99909e4f-6eff-4af1-a0b2-3bad6cd8c444",
+      "source": "rss:theblock",
+      "title": "SEC sues Privvy founder over $12.3 million crypto scheme as AI ‘bots’ turn out to be neither",
+      "url": "https://www.theblock.co/post/403118/sec-sues-privvy-founder-over-12-3-million-crypto-scheme-as-ai-bots-turn-out-to-be-neither?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-30T22:30:56+00:00",
+      "raw_text": "SEC sues Privvy founder over $12.3 million crypto scheme as AI ‘bots’ turn out to be neither\n\n<p>The SEC alleges Fuller spent misappropriated funds on a roughly $1 million house, gambling, trading cards, travel and a Jeep. </p>\n\n<p>The SEC alleges Fuller spent misappropriated funds on a roughly $1 m",
+      "impact": {}
+    },
     {
       "event_id": "68cc14b3-09f1-4c51-afc0-96545a892032",
       "source": "rss:cointelegraph",
@@ -6574,22 +6586,16 @@
         "t_plus_1h": 0.0154,
         "t_plus_4h": 0.1432
       }
-    },
-    {
-      "event_id": "41f28896-7e33-401d-bc55-d3510db217f1",
-      "source": "rss:coindesk",
-      "title": "Crypto and the Fed: State of Crypto",
-      "url": "https://www.coindesk.com/policy/2026/05/24/crypto-and-the-fed-state-of-crypto",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-24T18:30:00+00:00",
-      "raw_text": "Crypto and the Fed: State of Crypto",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 120,
+        "avg_1h": -0.03,
+        "avg_24h": -0.51,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 167,
         "avg_1h": 0.25,
@@ -6600,12 +6606,6 @@
         "count": 24,
         "avg_1h": 0.33,
         "avg_24h": 6.13,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 120,
-        "avg_1h": -0.03,
-        "avg_24h": -0.51,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
