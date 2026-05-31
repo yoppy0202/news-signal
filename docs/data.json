@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-31T21:13:07.409606+00:00",
+  "generated_at": "2026-05-31T23:15:52.779296+00:00",
   "events": [
+    {
+      "event_id": "ee3addaf-210d-443f-b806-f507a6d268ef",
+      "source": "rss:theblock",
+      "title": "Dev helps rescue $2 million locked in 2016 ICO contract for nine years with whitehat exploit",
+      "url": "https://www.theblock.co/post/403126/dev-helps-rescue-2-million-locked-in-2016-ico-contract-for-nine-years-with-whitehat-exploit?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-31T21:34:48+00:00",
+      "raw_text": "Dev helps rescue $2 million locked in 2016 ICO contract for nine years with whitehat exploit\n\n<p>The developer told The Block that two of 48 eligible investors have already claimed 96.5 ETH that was unfrozen, worth nearly $200,000 at current prices. </p>\n\n<p>The developer told The Block that two of ",
+      "impact": {}
+    },
     {
       "event_id": "a148d196-80b0-4f5d-bd4b-49f4afedbfe7",
       "source": "rss:theblock",
@@ -20,10 +32,16 @@
       "url": "https://cointelegraph.com/news/strategys-michael-saylor-says-working-better-tees-up-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-31T20:00:12+00:00",
       "raw_text": "Strategy's Michael Saylor teases BTC buy with 'working better' tweet\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy's Michael Saylor teases BTC buy with 'working better' tweet\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zM",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1436,
+        "t_plus_15m": -0.1158,
+        "t_plus_1h": 0.0035
+      }
     },
     {
       "event_id": "3b3d10f3-7fda-4c7d-8954-47b414416574",
@@ -88,7 +106,8 @@
       "impact": {
         "t_plus_5m": -0.2209,
         "t_plus_15m": -0.2313,
-        "t_plus_1h": 0.0482
+        "t_plus_1h": 0.0482,
+        "t_plus_4h": 0.034
       }
     },
     {
@@ -6567,24 +6586,18 @@
       "timestamp_utc": "2026-05-25T10:28:47+00:00",
       "raw_text": "HYPE funds attract millions as investors dump bitcoin and ether ETFs",
       "impact": {}
-    },
-    {
-      "event_id": "69b982df-ef3e-4eb4-8272-04c2a2a1e1b1",
-      "source": "rss:theblock",
-      "title": "Researchers flag TrapDoor malware campaign targeting crypto developer environments including Aptos, Sui and Solana",
-      "url": "https://www.theblock.co/post/402458/researchers-flag-trapdoor-malware-campaign-targeting-crypto-developer-environments-including-aptos-sui-and-solana?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-25T09:52:16+00:00",
-      "raw_text": "Researchers flag TrapDoor malware campaign targeting crypto developer environments including Aptos, Sui and Solana\n\n<p>The TrapDoor malware campaign used malicious packages across npm, PyPI, and Crates.io to target crypto developer environments.</p>\n\n<p>The TrapDoor malware campaign used malicious p",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 26,
+        "avg_1h": 0.27,
+        "avg_24h": 6.13,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 165,
+        "count": 164,
         "avg_1h": 0.3,
         "avg_24h": -1.01,
         "win_rate_1h_gt5pct": 0.0
@@ -6599,12 +6612,6 @@
         "count": 117,
         "avg_1h": -0.03,
         "avg_24h": -0.4,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 25,
-        "avg_1h": 0.27,
-        "avg_24h": 6.13,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
