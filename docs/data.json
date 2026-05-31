@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-31T00:12:17.222224+00:00",
+  "generated_at": "2026-05-31T05:44:07.992927+00:00",
   "events": [
+    {
+      "event_id": "4fe73205-398a-4c7f-9004-f172f9c52641",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin is at ‘pivotal level’ as $65K downside risk looms: Analyst",
+      "url": "https://cointelegraph.com/news/bitcoin-is-at-pivotal-level-and-faces-threat-to-65k-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-31T00:58:32+00:00",
+      "raw_text": "Bitcoin is at ‘pivotal level’ as $65K downside risk looms: Analyst\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin is at ‘pivotal level’ as $65K downside risk looms: Analyst\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pb",
+      "impact": {}
+    },
     {
       "event_id": "99909e4f-6eff-4af1-a0b2-3bad6cd8c444",
       "source": "rss:theblock",
@@ -6567,29 +6579,16 @@
       "timestamp_utc": "2026-05-24T20:00:00+00:00",
       "raw_text": "Coinbase does not fear competition from Wall Street, says exchange executive",
       "impact": {}
-    },
-    {
-      "event_id": "8c078155-b42b-4ce3-a9a4-b9b1b6c23c1f",
-      "source": "rss:decrypt",
-      "title": "Strategy Now Holds $65 Billion in Bitcoin—These Are Its Biggest BTC Buys",
-      "url": "https://decrypt.co/292448/microstrategy-biggest-bitcoin-buys",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-24T18:53:09+00:00",
-      "raw_text": "Strategy Now Holds $65 Billion in Bitcoin—These Are Its Biggest BTC Buys\n\nHow did Michael Saylor's firm amass a record stash of Bitcoin? Here's a look back at how Strategy made such massive gains.",
-      "impact": {
-        "t_plus_5m": -0.0858,
-        "t_plus_15m": -0.0668,
-        "t_plus_1h": 0.0154,
-        "t_plus_4h": 0.1432
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 170,
+        "avg_1h": 0.07,
+        "avg_24h": -0.83,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 120,
         "avg_1h": -0.03,
@@ -6597,8 +6596,8 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 167,
-        "avg_1h": 0.25,
+        "count": 166,
+        "avg_1h": 0.27,
         "avg_24h": -1.01,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6606,12 +6605,6 @@
         "count": 24,
         "avg_1h": 0.33,
         "avg_24h": 6.13,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 169,
-        "avg_1h": 0.07,
-        "avg_24h": -0.83,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
