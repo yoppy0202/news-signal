@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-05-31T17:19:37.214984+00:00",
+  "generated_at": "2026-05-31T19:39:20.941354+00:00",
   "events": [
+    {
+      "event_id": "0dc49172-b650-4f9c-a47e-2c1b1f930a14",
+      "source": "rss:coindesk",
+      "title": "How the House Financial Services Committee is taking on tokenization: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/05/31/how-the-house-financial-services-committee-is-taking-on-tokenization-state-of-crypto",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-31T18:30:00+00:00",
+      "raw_text": "How the House Financial Services Committee is taking on tokenization: State of Crypto",
+      "impact": {}
+    },
+    {
+      "event_id": "547df82c-8b25-4712-91d0-0c3880fe5d01",
+      "source": "rss:cointelegraph",
+      "title": "Kraken ‘plans’ regulated perp contracts as rivals are quick off the blocks",
+      "url": "https://cointelegraph.com/news/kraken-plans-regulated-perp-contracts-as-rivals-are-quick-off-the-blocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-31T17:40:00+00:00",
+      "raw_text": "Kraken ‘plans’ regulated perp contracts as rivals are quick off the blocks\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken ‘plans’ regulated perp contracts as rivals are quick off the blocks\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
+      "impact": {}
+    },
+    {
+      "event_id": "e1e8438f-d80b-4db9-b278-b237180ffa39",
+      "source": "rss:coindesk",
+      "title": "How Stellar became part of DTCC's tokenization push for Wall Street securities onchain",
+      "url": "https://www.coindesk.com/business/2026/05/31/how-stellar-became-part-of-dtcc-s-tokenization-push-for-wall-street-securities-onchain",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-31T17:00:00+00:00",
+      "raw_text": "How Stellar became part of DTCC's tokenization push for Wall Street securities onchain",
+      "impact": {}
+    },
+    {
+      "event_id": "98b427a1-2e6a-465c-9fbf-e7a162ec8103",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin preps 3% May downside, but US PMI data may boost BTC price",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-preps-3-may-downside-as-us-pmi-data-preps-potential-btc-price-boost?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-31T16:39:40+00:00",
+      "raw_text": "Bitcoin preps 3% May downside, but US PMI data may boost BTC price\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin preps 3% May downside, but US PMI data may boost BTC price\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pb",
+      "impact": {}
+    },
     {
       "event_id": "7e36ba0e-bd78-45fc-8382-e353d62b6aa5",
       "source": "rss:decrypt",
@@ -64,7 +112,8 @@
       "impact": {
         "t_plus_5m": 0.4517,
         "t_plus_15m": 0.3783,
-        "t_plus_1h": 0.3836
+        "t_plus_1h": 0.3836,
+        "t_plus_4h": -0.1693
       }
     },
     {
@@ -6532,62 +6581,20 @@
       "timestamp_utc": "2026-05-25T08:09:00+00:00",
       "raw_text": "Hyperliquid is emerging as a challenger to traditional exchanges and prediction markets, says FalconX",
       "impact": {}
-    },
-    {
-      "event_id": "6a0d5492-7122-43c9-83b7-92e7b445dc6c",
-      "source": "rss:cointelegraph",
-      "title": "Crypto entrepreneur Chun Wang joins SpaceX mission to Mars",
-      "url": "https://cointelegraph.com/news/chun-wang-spacex-mars-mission-crypto-entrepreneur?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-25T07:15:39+00:00",
-      "raw_text": "Crypto entrepreneur Chun Wang joins SpaceX mission to Mars\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto entrepreneur Chun Wang joins SpaceX mission to Mars\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpY",
-      "impact": {}
-    },
-    {
-      "event_id": "ed127f18-696f-47ac-bf6c-2d97f26dc3ee",
-      "source": "rss:coindesk",
-      "title": "Bitcoin trades above $77,000 as oil's 5% slide pushes Asian equities higher",
-      "url": "https://www.coindesk.com/markets/2026/05/25/bitcoin-trades-above-usd77-000-as-oil-s-5-slide-pushes-asian-equities-higher",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-25T07:11:57+00:00",
-      "raw_text": "Bitcoin trades above $77,000 as oil's 5% slide pushes Asian equities higher",
-      "impact": {}
-    },
-    {
-      "event_id": "bc47fd4c-f402-4e80-8dfd-162a06281e03",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin ETFs' 6 day loss streak pushes market closer to net outflows for 2026",
-      "url": "https://cointelegraph.com/news/bitcoin-etf-outflow-streak-pushes-market-closer-to-net-negative-flows-for-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-25T06:58:35+00:00",
-      "raw_text": "Bitcoin ETFs' 6 day loss streak pushes market closer to net outflows for 2026\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs' 6 day loss streak pushes market closer to net outflows for 2026\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
-      "impact": {}
-    },
-    {
-      "event_id": "b971dc4c-3bd9-40c6-9d77-50961f8ea5a8",
-      "source": "rss:cointelegraph",
-      "title": "‘TrapDoor’ malware targets crypto dev tools in supply chain attack",
-      "url": "https://cointelegraph.com/news/coordinated-crypto-stealer-campaign-trapdoor-detected-targeting-developers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-25T06:25:28+00:00",
-      "raw_text": "‘TrapDoor’ malware targets crypto dev tools in supply chain attack\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"‘TrapDoor’ malware targets crypto dev tools in supply chain attack\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pb",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 172,
+        "count": 173,
         "avg_1h": 0.1,
         "avg_24h": -0.83,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 118,
+        "avg_1h": -0.03,
+        "avg_24h": -0.4,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
@@ -6597,15 +6604,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 26,
+        "count": 25,
         "avg_1h": 0.27,
         "avg_24h": 6.13,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 118,
-        "avg_1h": -0.03,
-        "avg_24h": -0.4,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
