@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-31T05:44:07.992927+00:00",
+  "generated_at": "2026-05-31T09:21:00.560398+00:00",
   "events": [
+    {
+      "event_id": "61b39ac4-e11a-4efe-9508-d9996c52c612",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin sentiment reaches most ‘lopsided positive’ ratio for 2026: Santiment",
+      "url": "https://cointelegraph.com/news/crypto-sentiment-reaches-most-lopsided-positive-ratio-for-2026-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-31T06:02:05+00:00",
+      "raw_text": "Bitcoin sentiment reaches most ‘lopsided positive’ ratio for 2026: Santiment\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin sentiment reaches most ‘lopsided positive’ ratio for 2026: Santiment\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/5",
+      "impact": {}
+    },
+    {
+      "event_id": "d5688f10-2eff-409e-abe3-e3e6ee27d3db",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin dip buyers curb selling but questionable spot, futures volumes highlight weakness",
+      "url": "https://cointelegraph.com/markets/bitcoin-dip-buyers-curb-selling-but-questionable-spot-futures-volumes-highlight-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-31T05:37:27+00:00",
+      "raw_text": "Bitcoin dip buyers curb selling but questionable spot, futures volumes highlight weakness\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin dip buyers curb selling but questionable spot, futures volumes highlight weakness\" class=\"type:primaryImage\" src=\"https://images.",
+      "impact": {}
+    },
+    {
+      "event_id": "c228d842-f0c2-4dc9-b9b8-28d2e2c65ea3",
+      "source": "rss:coindesk",
+      "title": "XRP Ledger's new proposal blocks the flash loan attacks costing DeFi hundreds of millions",
+      "url": "https://www.coindesk.com/tech/2026/05/29/xrp-ledger-s-new-proposal-blocks-the-flash-loan-attacks-costing-defi-hundreds-of-millions",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-31T02:30:00+00:00",
+      "raw_text": "XRP Ledger's new proposal blocks the flash loan attacks costing DeFi hundreds of millions",
+      "impact": {}
+    },
     {
       "event_id": "4fe73205-398a-4c7f-9004-f172f9c52641",
       "source": "rss:cointelegraph",
@@ -6536,49 +6572,6 @@
         "t_plus_1h": -0.3393,
         "t_plus_4h": 0.7514
       }
-    },
-    {
-      "event_id": "a50757bc-8bb4-42e2-bbdb-4b9926421515",
-      "source": "rss:cointelegraph",
-      "title": "Buterin fires back at Ethereum Foundation critics, recommits to neutrality",
-      "url": "https://cointelegraph.com/news/buterin-fires-back-ef-critics-neutrality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-05-24T20:43:42+00:00",
-      "raw_text": "Buterin fires back at Ethereum Foundation critics, recommits to neutrality\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Buterin fires back at Ethereum Foundation critics, recommits to neutrality\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
-      "impact": {
-        "t_plus_5m": 0.9469,
-        "t_plus_15m": 0.8742,
-        "t_plus_1h": -0.1155,
-        "t_plus_4h": 1.5039
-      }
-    },
-    {
-      "event_id": "66c212a3-3235-46e5-8316-6186a19f57a1",
-      "source": "rss:theblock",
-      "title": "NYT investigation alleges CFTC purged staff who questioned Trump-tied crypto firms",
-      "url": "https://www.theblock.co/post/402442/nyt-investigation-alleges-cftc-purged-staff-who-questioned-trump-tied-crypto-firms?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-24T20:42:59+00:00",
-      "raw_text": "NYT investigation alleges CFTC purged staff who questioned Trump-tied crypto firms\n\n<p>Two officials who intervened to help three firms win approvals over staff objections, per the NYT, have since taken jobs at MoonPay and Gemini Titan.</p>\n\n<p>Two officials who intervened to help three firms win ap",
-      "impact": {}
-    },
-    {
-      "event_id": "47ed00c5-fd6f-4fe6-a7e0-8372102cb4b5",
-      "source": "rss:coindesk",
-      "title": "Coinbase does not fear competition from Wall Street, says exchange executive",
-      "url": "https://www.coindesk.com/business/2026/05/24/coinbase-does-not-fear-competition-from-wall-street-says-exchange-executive",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-24T20:00:00+00:00",
-      "raw_text": "Coinbase does not fear competition from Wall Street, says exchange executive",
-      "impact": {}
     }
   ],
   "stats": {
@@ -6589,6 +6582,12 @@
         "avg_24h": -0.83,
         "win_rate_1h_gt5pct": 0.0
       },
+      "hack": {
+        "count": 25,
+        "avg_1h": 0.33,
+        "avg_24h": 6.13,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 120,
         "avg_1h": -0.03,
@@ -6596,15 +6595,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 166,
-        "avg_1h": 0.27,
+        "count": 165,
+        "avg_1h": 0.3,
         "avg_24h": -1.01,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 24,
-        "avg_1h": 0.33,
-        "avg_24h": 6.13,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
