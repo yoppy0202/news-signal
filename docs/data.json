@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-31T19:39:20.941354+00:00",
+  "generated_at": "2026-05-31T21:13:07.409606+00:00",
   "events": [
+    {
+      "event_id": "a148d196-80b0-4f5d-bd4b-49f4afedbfe7",
+      "source": "rss:theblock",
+      "title": "Sui traces three mainnet halts to upgrade bugs, including a fix it knew carried halt risk",
+      "url": "https://www.theblock.co/post/403124/sui-traces-three-mainnet-halts-to-upgrade-bugs-including-a-fix-it-knew-carried-halt-risk?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-31T20:46:27+00:00",
+      "raw_text": "Sui traces three mainnet halts to upgrade bugs, including a fix it knew carried halt risk\n\n<p>The Sui Foundation said no user funds were at risk and credited AI agents with speeding up its diagnosis of the incidents.</p>\n\n<p>The Sui Foundation said no user funds were at risk and credited AI agents w",
+      "impact": {}
+    },
+    {
+      "event_id": "3505d145-a8ce-4ecb-96e7-47a0cabe0eb5",
+      "source": "rss:cointelegraph",
+      "title": "Strategy's Michael Saylor teases BTC buy with 'working better' tweet",
+      "url": "https://cointelegraph.com/news/strategys-michael-saylor-says-working-better-tees-up-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-31T20:00:12+00:00",
+      "raw_text": "Strategy's Michael Saylor teases BTC buy with 'working better' tweet\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy's Michael Saylor teases BTC buy with 'working better' tweet\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zM",
+      "impact": {}
+    },
+    {
+      "event_id": "3b3d10f3-7fda-4c7d-8954-47b414416574",
+      "source": "rss:coindesk",
+      "title": "A massive $1.26 billion sale of BlackRock’s IBIT was likely a rapid exit by a large investor",
+      "url": "https://www.coindesk.com/markets/2026/05/31/a-massive-usd1-26-billion-sale-of-blackrock-s-ibit-was-likely-a-rapid-exit-by-a-large-investor",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-31T19:41:51+00:00",
+      "raw_text": "A massive $1.26 billion sale of BlackRock’s IBIT was likely a rapid exit by a large investor",
+      "impact": {}
+    },
     {
       "event_id": "0dc49172-b650-4f9c-a47e-2c1b1f930a14",
       "source": "rss:coindesk",
@@ -44,10 +80,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-price-preps-3-may-downside-as-us-pmi-data-preps-potential-btc-price-boost?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-31T16:39:40+00:00",
       "raw_text": "Bitcoin preps 3% May downside, but US PMI data may boost BTC price\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin preps 3% May downside, but US PMI data may boost BTC price\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pb",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2209,
+        "t_plus_15m": -0.2313,
+        "t_plus_1h": 0.0482
+      }
     },
     {
       "event_id": "7e36ba0e-bd78-45fc-8382-e353d62b6aa5",
@@ -6537,70 +6579,26 @@
       "timestamp_utc": "2026-05-25T09:52:16+00:00",
       "raw_text": "Researchers flag TrapDoor malware campaign targeting crypto developer environments including Aptos, Sui and Solana\n\n<p>The TrapDoor malware campaign used malicious packages across npm, PyPI, and Crates.io to target crypto developer environments.</p>\n\n<p>The TrapDoor malware campaign used malicious p",
       "impact": {}
-    },
-    {
-      "event_id": "2e93f37d-2003-42ba-b86f-5d13fabd4da3",
-      "source": "rss:theblock",
-      "title": "Tether plans GELT stablecoin launch with support from Georgian government",
-      "url": "https://www.theblock.co/post/402453/tether-gelt-stablecoin-georgian-lari?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-25T09:14:08+00:00",
-      "raw_text": "Tether plans GELT stablecoin launch with support from Georgian government\n\n<p>GELT is designed to support cross-border commerce under a Georgian framework aligned with emerging U.S. stablecoin regulations.</p>\n\n<p>GELT is designed to support cross-border commerce under a Georgian framework aligned w",
-      "impact": {}
-    },
-    {
-      "event_id": "db786570-8cae-4dd4-8502-e8a27a98e1ff",
-      "source": "rss:theblock",
-      "title": "Satoshi-era bitcoin whale moves over $200 million in BTC to FalconX, Cumberland: Onchain Lens",
-      "url": "https://www.theblock.co/post/402447/bitcoin-og-moves-2650-btc?utm_source=rss&utm_medium=rss",
-      "event_type": "whale_move",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-25T08:35:03+00:00",
-      "raw_text": "Satoshi-era bitcoin whale moves over $200 million in BTC to FalconX, Cumberland: Onchain Lens\n\n<p>A bitcoin OG transferred about 2,650 BTC to the crypto trading firms through multiple transactions on Sunday, according to Onchain Lens.</p>\n\n<p>A bitcoin OG transferred about 2,650 BTC to the crypto tr",
-      "impact": {
-        "t_plus_5m": -0.0139,
-        "t_plus_15m": -0.0115,
-        "t_plus_1h": 0.3511,
-        "t_plus_4h": 0.0657,
-        "t_plus_24h": -0.7145
-      }
-    },
-    {
-      "event_id": "b6adced4-c5e0-42ba-8d66-9953687379bb",
-      "source": "rss:coindesk",
-      "title": "Hyperliquid is emerging as a challenger to traditional exchanges and prediction markets, says FalconX",
-      "url": "https://www.coindesk.com/markets/2026/05/25/hyperliquid-is-emerging-as-a-challenger-to-traditional-exchanges-and-prediction-markets-says-falconx",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-25T08:09:00+00:00",
-      "raw_text": "Hyperliquid is emerging as a challenger to traditional exchanges and prediction markets, says FalconX",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 165,
+        "avg_1h": 0.3,
+        "avg_24h": -1.01,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 173,
-        "avg_1h": 0.1,
+        "count": 174,
+        "avg_1h": 0.09,
         "avg_24h": -0.83,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 118,
+        "count": 117,
         "avg_1h": -0.03,
         "avg_24h": -0.4,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 164,
-        "avg_1h": 0.3,
-        "avg_24h": -1.01,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
@@ -6616,9 +6614,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
-        "count": 10,
-        "avg_1h": 0.12,
-        "avg_24h": -0.71,
+        "count": 9,
+        "avg_1h": 0.09,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       }
     }
