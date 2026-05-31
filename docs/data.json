@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-31T15:38:53.630653+00:00",
+  "generated_at": "2026-05-31T17:19:37.214984+00:00",
   "events": [
+    {
+      "event_id": "7e36ba0e-bd78-45fc-8382-e353d62b6aa5",
+      "source": "rss:decrypt",
+      "title": "How President Trump’s Immigration Order Will Feed the Stablecoin Economy, Bitcoin ATMs",
+      "url": "https://decrypt.co/369479/how-president-trump-immigration-order-feed-stablecoin-bitcoin-atms",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-05-31T15:49:18+00:00",
+      "raw_text": "How President Trump’s Immigration Order Will Feed the Stablecoin Economy, Bitcoin ATMs\n\nWhen the Trump family faced pressure from banks, it embraced crypto. Now, immigrants who are in the U.S. illegally face a similar choice.",
+      "impact": {}
+    },
+    {
+      "event_id": "ede6fdb0-3cfe-45ab-ae4f-7b4d94c41ed5",
+      "source": "rss:theblock",
+      "title": "Cardano Foundation cancels 2026 summit after treasury funding vote falls just short",
+      "url": "https://www.theblock.co/post/403122/cardano-foundation-cancels-2026-summit-after-treasury-funding-vote-falls-just-short?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-31T15:33:24+00:00",
+      "raw_text": "Cardano Foundation cancels 2026 summit after treasury funding vote falls just short\n\n<p>The measure needed two-thirds support but got only 65%, even after late endorsements from Cardano's founder and the Foundation CEO.</p>\n\n<p>The measure needed two-thirds support but got only 65%, even after late ",
+      "impact": {}
+    },
+    {
+      "event_id": "b43f3330-a22e-42e9-9247-adfa451aaa93",
+      "source": "rss:coindesk",
+      "title": "The institutional edge: moomoo targets Wall Street-grade trading tools for retail crypto investors",
+      "url": "https://www.coindesk.com/business/2026/05/28/the-institutional-edge-moomoo-pushes-to-offer-wall-street-grade-crypto-tools-to-retail-investors",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-05-31T15:00:00+00:00",
+      "raw_text": "The institutional edge: moomoo targets Wall Street-grade trading tools for retail crypto investors",
+      "impact": {}
+    },
     {
       "event_id": "4ccbc616-4c98-4ba7-9f58-ebbc349ac41b",
       "source": "rss:coindesk",
@@ -20,10 +56,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-price-rebound-targets-78k-as-short-term-holders-defend-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-05-31T12:39:47+00:00",
       "raw_text": "Bitcoin price targets $78K as BTC holders defend 'strongest near-term support'\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price targets $78K as BTC holders defend 'strongest near-term support'\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/imag",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.4517,
+        "t_plus_15m": 0.3783,
+        "t_plus_1h": 0.3836
+      }
     },
     {
       "event_id": "d7b21c33-2150-4241-8246-c06bd8f1d949",
@@ -6538,50 +6580,20 @@
       "timestamp_utc": "2026-05-25T06:25:28+00:00",
       "raw_text": "‘TrapDoor’ malware targets crypto dev tools in supply chain attack\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"‘TrapDoor’ malware targets crypto dev tools in supply chain attack\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pb",
       "impact": {}
-    },
-    {
-      "event_id": "e8a75226-e7a4-4c7e-bd4b-ac917eb00fd4",
-      "source": "rss:coindesk",
-      "title": "Bitcoin options are coming to Nasdaq. Here's what it means for you",
-      "url": "https://www.coindesk.com/markets/2026/05/25/bitcoin-options-are-coming-to-nadaq-here-s-what-it-means-for-you",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-25T05:56:43+00:00",
-      "raw_text": "Bitcoin options are coming to Nasdaq. Here's what it means for you",
-      "impact": {}
-    },
-    {
-      "event_id": "6848eae7-bd7f-42e2-b739-cce20292a11f",
-      "source": "rss:coindesk",
-      "title": "Bitcoin options are coming to Nasdaq. Here's what it means for you.",
-      "url": "https://www.coindesk.com/markets/2026/05/25/bitcoin-options-are-coming-to-nadaq-here-s-what-it-means-for-you",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-25T05:56:43+00:00",
-      "raw_text": "Bitcoin options are coming to Nasdaq. Here's what it means for you.",
-      "impact": {}
-    },
-    {
-      "event_id": "ced6b8cc-6147-4221-adb8-63e3fb16d3d3",
-      "source": "rss:cointelegraph",
-      "title": "‘Developed ecosystem’ based on crypto has sprung up for AI agents: Report",
-      "url": "https://cointelegraph.com/news/ai-agents-using-stablecoins-as-default-settlement-layer-keyrock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-25T05:41:44+00:00",
-      "raw_text": "‘Developed ecosystem’ based on crypto has sprung up for AI agents: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" ‘Developed ecosystem’ based on crypto has sprung up for AI agents: Report\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aH",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
         "count": 172,
-        "avg_1h": 0.09,
+        "avg_1h": 0.1,
         "avg_24h": -0.83,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 164,
+        "avg_1h": 0.3,
+        "avg_24h": -1.01,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
@@ -6594,12 +6606,6 @@
         "count": 118,
         "avg_1h": -0.03,
         "avg_24h": -0.4,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 164,
-        "avg_1h": 0.3,
-        "avg_24h": -1.01,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
