@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-05-31T23:15:52.779296+00:00",
+  "generated_at": "2026-06-01T05:10:58.099393+00:00",
   "events": [
+    {
+      "event_id": "be99cfb4-f520-42ac-a46a-3f8f476f4f68",
+      "source": "rss:coindesk",
+      "title": "Coinbase makes a major play for India’s booming $3 billion crypto market with local currency launch",
+      "url": "https://www.coindesk.com/markets/2026/05/31/coinbase-makes-a-major-play-for-india-s-booming-usd3-billion-crypto-market-with-local-currency-launch",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-31T23:30:00+00:00",
+      "raw_text": "Coinbase makes a major play for India’s booming $3 billion crypto market with local currency launch",
+      "impact": {}
+    },
     {
       "event_id": "ee3addaf-210d-443f-b806-f507a6d268ef",
       "source": "rss:theblock",
@@ -8,9 +20,27 @@
       "url": "https://www.theblock.co/post/403126/dev-helps-rescue-2-million-locked-in-2016-ico-contract-for-nine-years-with-whitehat-exploit?utm_source=rss&utm_medium=rss",
       "event_type": "hack",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-05-31T21:34:48+00:00",
       "raw_text": "Dev helps rescue $2 million locked in 2016 ICO contract for nine years with whitehat exploit\n\n<p>The developer told The Block that two of 48 eligible investors have already claimed 96.5 ETH that was unfrozen, worth nearly $200,000 at current prices. </p>\n\n<p>The developer told The Block that two of ",
+      "impact": {
+        "t_plus_5m": -0.1884,
+        "t_plus_15m": 0.0497,
+        "t_plus_1h": 0.0375
+      }
+    },
+    {
+      "event_id": "1c9132ae-93d2-44be-8ab7-5640c9eca3ac",
+      "source": "rss:cointelegraph",
+      "title": "US, UK central bankers offer contrary views on stablecoins",
+      "url": "https://cointelegraph.com/news/us-uk-central-bankers-offer-contrary-views-on-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-05-31T21:11:35+00:00",
+      "raw_text": "US, UK central bankers offer contrary views on stablecoins\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US, UK central bankers offer contrary views on stablecoins\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpY",
       "impact": {}
     },
     {
@@ -6562,56 +6592,32 @@
       "timestamp_utc": "2026-05-25T11:30:37+00:00",
       "raw_text": "Tether, Georgia plan lari-backed stablecoin GELT under new rules\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether, Georgia plan lari-backed stablecoin GELT under new rules\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZ",
       "impact": {}
-    },
-    {
-      "event_id": "d6591034-9618-45ac-9078-4476656d5ed8",
-      "source": "rss:theblock",
-      "title": "Facet co-founder pitches EIP-8182 private transfers for inclusion in Ethereum’s Hegota upgrade",
-      "url": "https://www.theblock.co/post/402464/facet-co-founder-pitches-eip-8182-private-transfers-for-inclusion-in-ethereums-hegota-upgrade?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-25T10:38:08+00:00",
-      "raw_text": "Facet co-founder pitches EIP-8182 private transfers for inclusion in Ethereum’s Hegota upgrade\n\n<p>Facet's Tom Lehman pitched EIP-8182 for inclusion in Ethereum's Hegota upgrade, aiming to bring native private transfers to the network.</p>\n\n<p>Facet's Tom Lehman pitched EIP-8182 for inclusion in Eth",
-      "impact": {}
-    },
-    {
-      "event_id": "627f115b-faa2-469f-99cb-8265bf80b44c",
-      "source": "rss:coindesk",
-      "title": "HYPE funds attract millions as investors dump bitcoin and ether ETFs",
-      "url": "https://www.coindesk.com/markets/2026/05/25/hype-funds-attract-millions-as-investors-dump-bitcoin-and-ether-etfs",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-25T10:28:47+00:00",
-      "raw_text": "HYPE funds attract millions as investors dump bitcoin and ether ETFs",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "hack": {
-        "count": 26,
-        "avg_1h": 0.27,
-        "avg_24h": 6.13,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 164,
-        "avg_1h": 0.3,
-        "avg_24h": -1.01,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 174,
+        "count": 175,
         "avg_1h": 0.09,
         "avg_24h": -0.83,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 26,
+        "avg_1h": 0.23,
+        "avg_24h": 6.13,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
         "count": 117,
         "avg_1h": -0.03,
         "avg_24h": -0.4,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 163,
+        "avg_1h": 0.3,
+        "avg_24h": -1.01,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
