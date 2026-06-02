@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T22:01:47.944227+00:00",
+  "generated_at": "2026-06-02T23:59:19.826879+00:00",
   "events": [
     {
       "event_id": "737e7717-344c-413b-9a7e-c23f2945171a",
@@ -80,10 +80,17 @@
       "url": "https://cointelegraph.com/markets/bitcoin-gets-new-50k-target-after-btc-price-crashes-6-in-a-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-02T17:54:18+00:00",
       "raw_text": "Bitcoin gets new $50K target after BTC price crashes 6% in a day\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin gets new $50K target after BTC price crashes 6% in a day\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZ",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1919,
+        "t_plus_15m": 0.341,
+        "t_plus_1h": -0.2901,
+        "t_plus_4h": 0.3042
+      }
     },
     {
       "event_id": "91584964-378b-4e13-b74a-94fd7330306b",
@@ -220,7 +227,8 @@
       "impact": {
         "t_plus_5m": 0.0225,
         "t_plus_15m": 0.1669,
-        "t_plus_1h": 0.9851
+        "t_plus_1h": 0.9851,
+        "t_plus_4h": -0.7874
       }
     },
     {
@@ -6569,7 +6577,7 @@
       },
       "narrative": {
         "count": 151,
-        "avg_1h": 0.21,
+        "avg_1h": 0.16,
         "avg_24h": -3.62,
         "win_rate_1h_gt5pct": 0.0
       },
