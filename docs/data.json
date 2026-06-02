@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-06-01T22:15:03.448331+00:00",
+  "generated_at": "2026-06-02T00:23:48.372651+00:00",
   "events": [
+    {
+      "event_id": "6c16caef-55a7-4c67-9bf1-549367c25acf",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin bulls eye fresh positions after BTC price drops under $71K",
+      "url": "https://cointelegraph.com/markets/bitcoin-bulls-eye-fresh-positions-after-btc-price-drops-under-71k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-01T22:54:07+00:00",
+      "raw_text": "Bitcoin bulls eye fresh positions after BTC price drops under $71K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin bulls eye fresh positions after BTC price drops under $71K\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pb",
+      "impact": {}
+    },
+    {
+      "event_id": "1c7acf04-153a-4e40-9a77-d0c4239a2c2b",
+      "source": "rss:decrypt",
+      "title": "Nvidia Releases Its Best Open AI Model Yet—But Still Lags Behind China",
+      "url": "https://decrypt.co/369689/nvidia-open-ai-model-nemotron-3-ultra",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-01T22:46:04+00:00",
+      "raw_text": "Nvidia Releases Its Best Open AI Model Yet—But Still Lags Behind China\n\nNvidia's Nemotron 3 Ultra tops every American open-weight AI system by a wide margin—but still trails the Chinese-led frontier.",
+      "impact": {}
+    },
+    {
+      "event_id": "a0ac7d1e-e444-4a8d-b2a9-6745fb24a2da",
+      "source": "rss:decrypt",
+      "title": "DuckDuckGo Launched Duck AI. Now Their Hit Product is 'No AI'",
+      "url": "https://decrypt.co/369688/duckduckgo-no-ai-google",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-01T22:16:04+00:00",
+      "raw_text": "DuckDuckGo Launched Duck AI. Now Their Hit Product is 'No AI'\n\nAs Google buries its search results under AI-generated answers, DuckDuckGo believes a growing number of users just want the old internet back.",
+      "impact": {}
+    },
+    {
+      "event_id": "43be6a8d-60dd-4560-99e3-0a3f3a6b0e16",
+      "source": "rss:cointelegraph",
+      "title": "Dogecoin gains Paxos support in push for broader institutional adoption",
+      "url": "https://cointelegraph.com/news/paxos-doge-support-dogecoin-broader-institutional-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-01T21:51:16+00:00",
+      "raw_text": "Dogecoin gains Paxos support in push for broader institutional adoption\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Dogecoin gains Paxos support in push for broader institutional adoption\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
+      "impact": {}
+    },
+    {
+      "event_id": "c3c506f7-cede-40dd-bb58-51ba384c5789",
+      "source": "rss:cointelegraph",
+      "title": "Debate on CLARITY Act continues this week as US Senate returns",
+      "url": "https://cointelegraph.com/news/clarity-act-us-senate-session-committees?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-01T21:40:00+00:00",
+      "raw_text": "Debate on CLARITY Act continues this week as US Senate returns\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Debate on CLARITY Act continues this week as US Senate returns\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY",
+      "impact": {}
+    },
     {
       "event_id": "5df271a4-c546-49f5-bb13-48eac7935544",
       "source": "rss:decrypt",
@@ -8,10 +68,15 @@
       "url": "https://decrypt.co/369660/ton-price-pumps-telegram-ceo-token-rebranded-gram",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "TON"
+      ],
       "timestamp_utc": "2026-06-01T21:32:23+00:00",
       "raw_text": "TON Price Pumps After Telegram CEO Says Token Will Be Rebranded to Gram\n\nTelegram is taking the reins of The Open Network, years after abandoning the project—and it plans to adopt Toncoin's originally planned name.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.8743,
+        "t_plus_15m": 0.5928
+      }
     },
     {
       "event_id": "e8347bba-8aad-441d-9d09-ba09ce9bb499",
@@ -56,10 +121,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-volatility-down-56-as-btc-analysts-eye-10-20-move?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-01T20:34:46+00:00",
       "raw_text": "Bitcoin volatility is down 56% but analysts still expect up to 20% BTC price move\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin volatility is down 56% but analysts still expect up to 20% BTC price move\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.co",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.8848,
+        "t_plus_15m": 0.8021,
+        "t_plus_1h": 0.1729
+      }
     },
     {
       "event_id": "a68154e7-3788-4ee2-9bd5-03e1968baefb",
@@ -92,10 +163,16 @@
       "url": "https://decrypt.co/369665/kalshi-eyes-perpetual-futures-xrp-solana-dogecoin-altcoins",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-06-01T19:33:53+00:00",
       "raw_text": "Kalshi Eyes Perpetual Futures for XRP, Solana, Dogecoin—And These Altcoins\n\nKalshi moved swiftly to lock down an emerging market for perpetual futures in the U.S., filing to certify a slate of altcoin offerings",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.6356,
+        "t_plus_15m": 0.6439,
+        "t_plus_1h": 0.4091
+      }
     },
     {
       "event_id": "7963dc46-2062-4459-bc56-0e242a5a1cd9",
@@ -140,10 +217,16 @@
       "url": "https://www.theblock.co/post/403231/ton-revives-gram-token-brand-telegram-ceo-durov-network-returning-roots?utm_source=rss&utm_medium=rss",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "TON"
+      ],
       "timestamp_utc": "2026-06-01T18:32:32+00:00",
       "raw_text": "TON revives Gram token brand as Telegram CEO Durov says network is ‘returning to roots’\n\n<p>The Gram rebrand follows network upgrades, fee cuts, and Telegram's push for a larger role in TON governance.</p>\n\n<p>The Gram rebrand follows network upgrades, fee cuts, and Telegram's push for a larger role",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 3.6796,
+        "t_plus_15m": 3.3681,
+        "t_plus_1h": 3.0797
+      }
     },
     {
       "event_id": "0123f7cc-55f0-4b16-8974-2e3f227caf0b",
@@ -176,10 +259,16 @@
       "url": "https://cointelegraph.com/news/strategy-bitcoin-sale-btc-treasury-company-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-01T18:20:40+00:00",
       "raw_text": "Strategy's BTC sale turns Bitcoin treasury into market stress test\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy's BTC sale turns Bitcoin treasury into market stress test\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pb",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.5789,
+        "t_plus_15m": 0.8486,
+        "t_plus_1h": 0.5403
+      }
     },
     {
       "event_id": "b33df311-6f82-4fb5-ba13-d4ef8613dd36",
@@ -524,10 +613,17 @@
       "url": "https://bitcoinmagazine.com/news/strategy-mstr-sells-bitcoin",
       "event_type": "listing",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-01T13:50:52+00:00",
       "raw_text": "Strategy (MSTR) Sells Bitcoin for First Time in Years as Bitcoin Price Tumbles\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time-in-Years-as-Bitcoin-Price-Tum",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2525,
+        "t_plus_15m": 0.5367,
+        "t_plus_1h": 0.153,
+        "t_plus_4h": 0.3764
+      }
     },
     {
       "event_id": "340ab9a7-35bb-4005-912f-b51ba2b0b986",
@@ -536,10 +632,17 @@
       "url": "https://cointelegraph.com/news/strategy-first-ever-bitcoin-sale-offloads-32-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-01T13:50:00+00:00",
       "raw_text": "Strategy sells 32 BTC in first Bitcoin sale since 2022; Stock falls on open\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy sells 32 BTC in first Bitcoin sale since 2022; Stock falls on open\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2525,
+        "t_plus_15m": 0.5367,
+        "t_plus_1h": 0.153,
+        "t_plus_4h": 0.3764
+      }
     },
     {
       "event_id": "e20dd61f-3ce4-4fdf-b4e4-c60369dd2b8e",
@@ -548,10 +651,17 @@
       "url": "https://www.theblock.co/post/403193/dogecoin-gains-access-to-paxos-network-used-by-paypal-and-venmo?utm_source=rss&utm_medium=rss",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "DOGE"
+      ],
       "timestamp_utc": "2026-06-01T13:45:21+00:00",
       "raw_text": "Dogecoin gains access to Paxos network used by PayPal and Venmo\n\n<p>House of Doge struck partnership with Paxos to integrate DOGE across the firm's enterprise-grade brokerage and custody infrastructure.</p>\n\n<p>House of Doge struck partnership with Paxos to integrate DOGE across the firm's enterpris",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.5286,
+        "t_plus_15m": -1.0085,
+        "t_plus_1h": -1.2275,
+        "t_plus_4h": 0.1334
+      }
     },
     {
       "event_id": "98ca9778-346b-4a21-84e2-159af86e45bc",
@@ -632,10 +742,17 @@
       "url": "https://www.coindesk.com/markets/2026/06/01/live-markets-bitcoin-retreats-under-usd72-000-as-strategy-unloads-btc-for-first-time-in-four-years",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-01T12:29:14+00:00",
       "raw_text": "Live markets: Bitcoin retreats under $72,000 as Strategy unloads BTC for first time in four years",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 1.1291,
+        "t_plus_15m": 1.1547,
+        "t_plus_1h": 0.5583,
+        "t_plus_4h": -0.5694
+      }
     },
     {
       "event_id": "75854d96-bf50-49aa-a741-68e6ca852c9d",
@@ -644,10 +761,17 @@
       "url": "https://decrypt.co/369587/michael-saylors-bitcoin-treasury-firm-strategy-sells-32-btc-for-2-5m",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-01T12:22:16+00:00",
       "raw_text": "Michael Saylor's Bitcoin Treasury Firm Strategy Sells 32 BTC for $2.5M\n\nBitcoin tumbled to $72,000 Monday as news of the BTC treasury firm's about-face on its \"never sell\" stance broke.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 1.1436,
+        "t_plus_15m": 1.1291,
+        "t_plus_1h": 0.768,
+        "t_plus_4h": -0.719
+      }
     },
     {
       "event_id": "377966df-57cb-4504-ae73-731327cff87a",
@@ -6404,84 +6528,24 @@
       "timestamp_utc": "2026-05-26T15:00:00+00:00",
       "raw_text": "Grvt adds 3 tokenized yield funds tied to institutional-grade RWAs\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Grvt adds 3 tokenized yield funds tied to institutional-grade RWAs\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pb",
       "impact": {}
-    },
-    {
-      "event_id": "5937d080-7e58-4ec7-89d5-c72dc2210987",
-      "source": "rss:decrypt",
-      "title": "China Imposes Travel Limits on AI Workers at Private Firms: Report",
-      "url": "https://decrypt.co/369005/china-imposes-travel-limits-on-ai-workers-at-private-firms-report",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-26T14:58:31+00:00",
-      "raw_text": "China Imposes Travel Limits on AI Workers at Private Firms: Report\n\nBeijing is reportedly making some private-sector AI workers seek travel approval, widening its control over tech talent.",
-      "impact": {}
-    },
-    {
-      "event_id": "e47c5b52-cf4a-4102-801a-100e115893cf",
-      "source": "rss:theblock",
-      "title": "Strive leapfrogs Coinbase, Riot with latest $85.4 million bitcoin buy",
-      "url": "https://www.theblock.co/post/402567/strive-leapfrogs-coinbase-riot-85-4-million-bitcoin-buy?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-26T14:58:12+00:00",
-      "raw_text": "Strive leapfrogs Coinbase, Riot with latest $85.4 million bitcoin buy\n\n<p>Vivek Ramaswamy-founded Strive now ranks as the seventh-largest public corporate bitcoin holder, trailing Bullish.</p>\n\n<p>Vivek Ramaswamy-founded Strive now ranks as the seventh-largest public corporate bitcoin holder, traili",
-      "impact": {}
-    },
-    {
-      "event_id": "b3337b77-da43-4ba1-b3e9-4a8d11472083",
-      "source": "rss:cointelegraph",
-      "title": "RWA market hits $51B as tokenized private credits surges: Bernstein",
-      "url": "https://cointelegraph.com/news/rwa-market-cap-51-billion-tokenized-private-credit-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-26T14:50:43+00:00",
-      "raw_text": "RWA market hits $51B as tokenized private credits surges: Bernstein\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"RWA market hits $51B as tokenized private credits surges: Bernstein\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1",
-      "impact": {}
-    },
-    {
-      "event_id": "7132dc72-dba3-4593-a641-b67fab2a385d",
-      "source": "rss:coindesk",
-      "title": "TeraWulf jumps 13% on AI data center expansion in Kentucky",
-      "url": "https://www.coindesk.com/markets/2026/05/26/terawulf-jumps-13-on-ai-data-center-expansion-in-kentucky",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-26T14:48:36+00:00",
-      "raw_text": "TeraWulf jumps 13% on AI data center expansion in Kentucky",
-      "impact": {}
-    },
-    {
-      "event_id": "f50b098c-3dd4-4684-8095-632ddce83c88",
-      "source": "rss:coindesk",
-      "title": "Live markets: bitcoin leads crypto slide even as tech sector closes sharply higher",
-      "url": "https://www.coindesk.com/markets/2026/05/26/live-markets-bitcoin-on-sidelines-as-markets-surge-on-iran-peace-hopes",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-26T14:43:53+00:00",
-      "raw_text": "Live markets: bitcoin leads crypto slide even as tech sector closes sharply higher",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 172,
-        "avg_1h": 0.11,
+        "count": 173,
+        "avg_1h": 0.29,
         "avg_24h": -0.47,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 160,
-        "avg_1h": 0.09,
+        "count": 161,
+        "avg_1h": -0.02,
         "avg_24h": -1.15,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 120,
+        "count": 118,
         "avg_1h": 0.03,
         "avg_24h": -0.36,
         "win_rate_1h_gt5pct": 0.0
@@ -6494,7 +6558,7 @@
       },
       "listing": {
         "count": 14,
-        "avg_1h": 0.0,
+        "avg_1h": 0.04,
         "avg_24h": -1.52,
         "win_rate_1h_gt5pct": 0.0
       },
