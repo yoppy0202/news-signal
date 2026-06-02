@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T00:23:48.372651+00:00",
+  "generated_at": "2026-06-02T06:00:54.462384+00:00",
   "events": [
     {
       "event_id": "6c16caef-55a7-4c67-9bf1-549367c25acf",
@@ -8,10 +8,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-bulls-eye-fresh-positions-after-btc-price-drops-under-71k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-01T22:54:07+00:00",
       "raw_text": "Bitcoin bulls eye fresh positions after BTC price drops under $71K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin bulls eye fresh positions after BTC price drops under $71K\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pb",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0823,
+        "t_plus_15m": -0.0217,
+        "t_plus_1h": 0.0986
+      }
     },
     {
       "event_id": "1c7acf04-153a-4e40-9a77-d0c4239a2c2b",
@@ -44,10 +50,16 @@
       "url": "https://cointelegraph.com/news/paxos-doge-support-dogecoin-broader-institutional-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "DOGE"
+      ],
       "timestamp_utc": "2026-06-01T21:51:16+00:00",
       "raw_text": "Dogecoin gains Paxos support in push for broader institutional adoption\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Dogecoin gains Paxos support in push for broader institutional adoption\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.7665,
+        "t_plus_15m": -1.1662,
+        "t_plus_1h": -0.4628
+      }
     },
     {
       "event_id": "c3c506f7-cede-40dd-bb58-51ba384c5789",
@@ -75,7 +87,8 @@
       "raw_text": "TON Price Pumps After Telegram CEO Says Token Will Be Rebranded to Gram\n\nTelegram is taking the reins of The Open Network, years after abandoning the project—and it plans to adopt Toncoin's originally planned name.",
       "impact": {
         "t_plus_5m": 0.8743,
-        "t_plus_15m": 0.5928
+        "t_plus_15m": 0.5928,
+        "t_plus_1h": 0.5383
       }
     },
     {
@@ -171,7 +184,8 @@
       "impact": {
         "t_plus_5m": 0.6356,
         "t_plus_15m": 0.6439,
-        "t_plus_1h": 0.4091
+        "t_plus_1h": 0.4091,
+        "t_plus_4h": 0.2439
       }
     },
     {
@@ -6540,7 +6554,7 @@
       },
       "narrative": {
         "count": 161,
-        "avg_1h": -0.02,
+        "avg_1h": -0.06,
         "avg_24h": -1.15,
         "win_rate_1h_gt5pct": 0.0
       },
