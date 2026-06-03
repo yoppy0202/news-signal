@@ -1,6 +1,174 @@
 {
-  "generated_at": "2026-06-03T10:03:57.181337+00:00",
+  "generated_at": "2026-06-03T14:59:47.277489+00:00",
   "events": [
+    {
+      "event_id": "e71f8e67-61a3-4aee-a288-2ae469769022",
+      "source": "rss:coindesk",
+      "title": "Trezor says your crypto is safe after Ledger audit exposes a hardware flaw",
+      "url": "https://www.coindesk.com/tech/2026/06/02/dnp-trezor-says-users-crypto-is-safe-after-ledger-researchers-uncover-chip-flaw",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-03T10:04:32+00:00",
+      "raw_text": "Trezor says your crypto is safe after Ledger audit exposes a hardware flaw",
+      "impact": {}
+    },
+    {
+      "event_id": "b49d0116-318a-47d2-97f2-e638b5f442ea",
+      "source": "rss:theblock",
+      "title": "UK regulator warns soccer clubs over sponsorship deals with unauthorized crypto firms",
+      "url": "https://www.theblock.co/post/403478/uk-fca-warns-soccer-clubs-crypto-sponsorship?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-03T09:39:56+00:00",
+      "raw_text": "UK regulator warns soccer clubs over sponsorship deals with unauthorized crypto firms\n\n<p>The FCA instructed clubs to ensure they understand the source of sponsorship funds and assess financial crime and reputational risks.</p>\n\n<p>The FCA instructed clubs to ensure they understand the source of spo",
+      "impact": {}
+    },
+    {
+      "event_id": "8d1e404d-6073-4d17-86f0-675bb2532b8e",
+      "source": "rss:coindesk",
+      "title": "DeFi won't win over big banks until it fixes its hacking problem, executives say",
+      "url": "https://www.coindesk.com/business/2026/06/02/defi-won-t-win-over-big-banks-until-it-fixes-its-hacking-problem-executives-say",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-03T09:12:54+00:00",
+      "raw_text": "DeFi won't win over big banks until it fixes its hacking problem, executives say",
+      "impact": {}
+    },
+    {
+      "event_id": "2cb149a5-c8b6-4383-880d-6b6db904c491",
+      "source": "rss:coindesk",
+      "title": "Banks' survey says people don't want to rock the boat if stablecoin yield risks lending",
+      "url": "https://www.coindesk.com/policy/2026/06/02/banks-survey-says-people-don-t-want-to-rock-the-boat-if-stablecoins-would-risk-lending",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-03T09:00:00+00:00",
+      "raw_text": "Banks' survey says people don't want to rock the boat if stablecoin yield risks lending",
+      "impact": {}
+    },
+    {
+      "event_id": "65515806-b373-42fb-a0bc-6f1cd3c206b7",
+      "source": "rss:theblock",
+      "title": "Mastercard expands stablecoin settlement options with USDC, PYUSD and RLUSD",
+      "url": "https://www.theblock.co/post/403474/mastercard-expands-stablecoin-settlement-options-with-usdc-pyusd-and-rlusd?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-03T08:57:56+00:00",
+      "raw_text": "Mastercard expands stablecoin settlement options with USDC, PYUSD and RLUSD\n\n<p>Mastercard expanded settlement to USDC, PYUSD, and RLUSD, enabling intraday, weekend, and holiday card settlement across its payments network.</p>\n\n<p>Mastercard expanded settlement to USDC, PYUSD, and RLUSD, enabling in",
+      "impact": {}
+    },
+    {
+      "event_id": "6ef60c95-d5e5-4f08-b726-0be555fb877e",
+      "source": "rss:theblock",
+      "title": "Cardano’s Charles Hoskinson warns of ‘wave of failures’ after TapTools wind-down",
+      "url": "https://www.theblock.co/post/403457/taptools-winds-down?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-03T07:49:19+00:00",
+      "raw_text": "Cardano’s Charles Hoskinson warns of ‘wave of failures’ after TapTools wind-down\n\n<p>TapTools is set to wind down after leadership exits as Charles Hoskinson warns of a wave of Cardano ecosystem failures ahead.</p>\n\n<p>TapTools is set to wind down after leadership exits as Charles Hoskinson warns of",
+      "impact": {}
+    },
+    {
+      "event_id": "88279ab4-0bff-43b9-9ac1-eca3bc2415fa",
+      "source": "rss:coindesk",
+      "title": "Franklin Templeton says Wall Street fears blockchain because it threatens its profits",
+      "url": "https://www.coindesk.com/business/2026/06/02/franklin-templeton-says-wall-street-fears-blockchain-because-it-threatens-its-profits",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-03T07:04:43+00:00",
+      "raw_text": "Franklin Templeton says Wall Street fears blockchain because it threatens its profits",
+      "impact": {}
+    },
+    {
+      "event_id": "cf6d6428-9ce8-4e43-a242-b13104dc79e6",
+      "source": "rss:cointelegraph",
+      "title": "New York and EU’s finance watchdogs team up to police stablecoins",
+      "url": "https://cointelegraph.com/news/new-york-eu-regulators-joint-stablecoin-oversight-agreement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-03T06:58:05+00:00",
+      "raw_text": "New York and EU’s finance watchdogs team up to police stablecoins\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"New York and EU’s finance watchdogs team up to police stablecoins\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWF",
+      "impact": {}
+    },
+    {
+      "event_id": "1f294be6-3577-4193-9267-1860f214681b",
+      "source": "rss:coindesk",
+      "title": "Big tech is 'terrified' of AI agents wiping out ad revenue, says Billions Network CEO",
+      "url": "https://www.coindesk.com/business/2026/06/03/big-tech-is-terrified-of-ai-agents-wiping-out-ad-revenue-says-billions-network-ceo",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-03T06:51:08+00:00",
+      "raw_text": "Big tech is 'terrified' of AI agents wiping out ad revenue, says Billions Network CEO",
+      "impact": {}
+    },
+    {
+      "event_id": "0a337b32-7bb4-4a49-bc22-c3d42e101ca1",
+      "source": "rss:coindesk",
+      "title": "Prediction market traders bet bitcoin's selloff has further to run",
+      "url": "https://www.coindesk.com/markets/2026/06/03/kalshi-traders-bet-bitcoin-s-selloff-has-further-to-run",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-03T06:23:19+00:00",
+      "raw_text": "Prediction market traders bet bitcoin's selloff has further to run",
+      "impact": {}
+    },
+    {
+      "event_id": "892c27ed-b99c-43a8-9e11-9c7b3cb35d6f",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin falls below $66K as US and Iran launch new strikes",
+      "url": "https://cointelegraph.com/news/bitcoin-falls-below-66k-as-us-iran-strikes-resume?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-03T06:18:37+00:00",
+      "raw_text": "Bitcoin falls below $66K as US and Iran launch new strikes\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin falls below $66K as US and Iran launch new strikes\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpY",
+      "impact": {}
+    },
+    {
+      "event_id": "ee3849a5-22b0-4dc0-ae03-bc4a2b9429e7",
+      "source": "rss:cointelegraph",
+      "title": "US Treasury issues sanctions on Iran, targets 4 crypto exchanges",
+      "url": "https://cointelegraph.com/news/us-sanctions-irans-top-crypto-exchange-as-war-rages-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-03T06:12:44+00:00",
+      "raw_text": "US Treasury issues sanctions on Iran, targets 4 crypto exchanges\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Treasury issues sanctions on Iran, targets 4 crypto exchanges\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZ",
+      "impact": {}
+    },
+    {
+      "event_id": "35879c17-e460-414c-8ecf-89488d9e1b7e",
+      "source": "rss:theblock",
+      "title": "Bitcoin briefly dips below $66,000 as ETF outflows, geopolitical fears weigh on crypto",
+      "url": "https://www.theblock.co/post/403454/bitcoin-dips-below-66000?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-03T06:04:13+00:00",
+      "raw_text": "Bitcoin briefly dips below $66,000 as ETF outflows, geopolitical fears weigh on crypto\n\n<p>Analysts said the market continues to assess geopolitical uncertainty alongside Strategy's recent bitcoin sale.</p>\n\n<p>Analysts said the market continues to assess geopolitical uncertainty alongside Strategy'",
+      "impact": {}
+    },
+    {
+      "event_id": "a02e649e-f556-41ac-8b77-0aed0077b305",
+      "source": "rss:coindesk",
+      "title": "Bitcoin's 'fear gauge' surges nearly 20%, its biggest jump since Feb. 5 crash",
+      "url": "https://www.coindesk.com/markets/2026/06/03/bitcoin-s-fear-gauge-surges-nearly-20-its-biggest-jump-since-feb-5-crash",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-03T05:51:26+00:00",
+      "raw_text": "Bitcoin's 'fear gauge' surges nearly 20%, its biggest jump since Feb. 5 crash",
+      "impact": {}
+    },
     {
       "event_id": "39c8c326-1a97-46a7-b7c3-ed7ffe40ab03",
       "source": "rss:coindesk",
@@ -8,10 +176,17 @@
       "url": "https://www.coindesk.com/markets/2026/06/03/bullish-xrp-signals-are-piling-up-the-price-keeps-falling",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-06-03T05:15:00+00:00",
       "raw_text": "Bullish XRP signals are piling up. The price keeps falling.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.031,
+        "t_plus_15m": -0.1984,
+        "t_plus_1h": 0.1815,
+        "t_plus_4h": 0.9066
+      }
     },
     {
       "event_id": "20e5f339-2b5a-4a40-af94-e0b6b15e7377",
@@ -32,10 +207,19 @@
       "url": "https://www.coindesk.com/markets/2026/06/03/bullish-crypto-bets-lose-usd1-6-billion-as-eth-sol-doge-drop-9",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "ETH",
+        "SOL",
+        "DOGE"
+      ],
       "timestamp_utc": "2026-06-03T05:00:00+00:00",
       "raw_text": "Bullish crypto bets lose $1.6 billion as ETH, SOL, DOGE drop 9%",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.5836,
+        "t_plus_15m": 0.0351,
+        "t_plus_1h": 0.2279,
+        "t_plus_4h": 0.5383
+      }
     },
     {
       "event_id": "32e4916c-4f06-4e05-ae1a-8eefe49a5f04",
@@ -59,6 +243,18 @@
       "tokens": [],
       "timestamp_utc": "2026-06-03T04:28:13+00:00",
       "raw_text": "Bitcoin plunges below $66,000 as global stocks, AI trades hit fresh records",
+      "impact": {}
+    },
+    {
+      "event_id": "601e83c4-3808-4bb3-a163-77283a36e64b",
+      "source": "rss:coindesk",
+      "title": "Mastercard expands onchain settlement in bet on stablecoins and always-on finance",
+      "url": "https://www.coindesk.com/markets/2026/06/03/mastercard-expands-on-chain-settlement-in-bet-on-stablecoins-and-always-on-finance",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-03T04:00:00+00:00",
+      "raw_text": "Mastercard expands onchain settlement in bet on stablecoins and always-on finance",
       "impact": {}
     },
     {
@@ -200,10 +396,17 @@
       "url": "https://decrypt.co/369803/bitcoin-sinks-time-ethereum-outperform-standard-chartered",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-02T22:36:32+00:00",
       "raw_text": "As Bitcoin Sinks, It's Time for Ethereum to Outperform: Standard Chartered\n\nBitcoin is falling following Strategy's first BTC sale since 2022—and one analyst sees that as a good thing for Ethereum.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1519,
+        "t_plus_15m": -0.7493,
+        "t_plus_1h": -0.9342,
+        "t_plus_4h": -0.732
+      }
     },
     {
       "event_id": "f6225068-981a-4bfa-a9f8-02fff9476506",
@@ -6327,232 +6530,32 @@
       "timestamp_utc": "2026-05-27T20:25:00+00:00",
       "raw_text": "PACs laud Texas primary wins, look to back more pro-crypto candidates\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"PACs laud Texas primary wins, look to back more pro-crypto candidates\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
       "impact": {}
-    },
-    {
-      "event_id": "4df1f0e3-879f-4638-a955-4d8266630041",
-      "source": "rss:decrypt",
-      "title": "Marvel Comics Icon Stan Lee Has Been 'Revived' With AI Tech—Again",
-      "url": "https://decrypt.co/369220/marvel-comics-icon-stan-lee-revived-ai-tech-again",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-27T20:23:37+00:00",
-      "raw_text": "Marvel Comics Icon Stan Lee Has Been 'Revived' With AI Tech—Again\n\nElevenLabs has licensed Stan Lee’s voice and likeness, adding the late Marvel comic creator to a growing market for AI celebrity replicas.",
-      "impact": {}
-    },
-    {
-      "event_id": "3610a211-d142-4d25-975c-63da798f2501",
-      "source": "rss:theblock",
-      "title": "TD Cowen says Trump’s CFTC prediction markets post unlikely to change legal fight",
-      "url": "https://www.theblock.co/post/402775/td-cowen-trump-cftc-prediction-markets-post-legal-fight?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-27T20:10:00+00:00",
-      "raw_text": "TD Cowen says Trump’s CFTC prediction markets post unlikely to change legal fight\n\n<p>The future of prediction markets will likely be decided by the Supreme Court, while states still appear to hold the advantage, TD Cowen said.</p>\n\n<p>The future of prediction markets will likely be decided by the S",
-      "impact": {}
-    },
-    {
-      "event_id": "5a6e81ae-f54c-422f-8004-75ec6bf4e717",
-      "source": "rss:theblock",
-      "title": "Falcon Finance taps Anchorage to issue new GENIUS-compliant payments stablecoin fUSD",
-      "url": "https://www.theblock.co/post/402771/falcon-finance-taps-anchorage-to-issue-new-genius-compliant-payments-stablecoin-fusd?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-27T20:00:11+00:00",
-      "raw_text": "Falcon Finance taps Anchorage to issue new GENIUS-compliant payments stablecoin fUSD\n\n<p>Falcon said fUSD is meant to act as a “regulated counterpart” to its existing overcollateralized synthetic stablecoin USDf.</p>\n\n<p>Falcon said fUSD is meant to act as a “regulated counterpart” to its existing o",
-      "impact": {}
-    },
-    {
-      "event_id": "ebd0c61b-056c-4117-8601-142df3561341",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin treasury company Nakamoto falls nearly 67% YTD after reverse stock split",
-      "url": "https://cointelegraph.com/news/bitcoin-treasury-nakamoto-falls-67-reverse-stock-split?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-27T19:40:26+00:00",
-      "raw_text": "Bitcoin treasury company Nakamoto falls nearly 67% YTD after reverse stock split\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin treasury company Nakamoto falls nearly 67% YTD after reverse stock split \" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com",
-      "impact": {
-        "t_plus_5m": -0.3642,
-        "t_plus_15m": -0.3081,
-        "t_plus_1h": 0.0087,
-        "t_plus_4h": -1.2563
-      }
-    },
-    {
-      "event_id": "c082927f-3588-44ac-b238-cc6fbcba283d",
-      "source": "rss:decrypt",
-      "title": "DeepSeek, Xiaomi Just Made Frontier AI 99% Cheaper. American Labs Went the Other Way",
-      "url": "https://decrypt.co/369202/deepseek-xiaomi-frontier-ai-cheaper-american-labs-other-way",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-27T19:31:08+00:00",
-      "raw_text": "DeepSeek, Xiaomi Just Made Frontier AI 99% Cheaper. American Labs Went the Other Way\n\nBack-to-back price cuts from China's top AI labs have made their models a fraction of the cost of GPT-5.5 and Claude Opus.",
-      "impact": {}
-    },
-    {
-      "event_id": "1e48553f-9768-4da1-95b9-3f042e73e72c",
-      "source": "rss:cointelegraph",
-      "title": "Ether bears at risk of $2B squeeze as short positions build around $2K",
-      "url": "https://cointelegraph.com/markets/ether-bears-risk-115-billion-squeeze-as-shorts-pile-up-at-2k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-27T19:17:05+00:00",
-      "raw_text": "Ether bears at risk of $2B squeeze as short positions build around $2K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ether bears at risk of $2B squeeze as short positions build around $2K\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6L",
-      "impact": {}
-    },
-    {
-      "event_id": "8d1a0c23-f3c6-4a74-b5c6-162749fc3d74",
-      "source": "rss:coindesk",
-      "title": "Wall Street gets new crypto rival after Texas bank completes regulatory pivot",
-      "url": "https://www.coindesk.com/policy/2026/05/27/wall-street-gets-new-crypto-rival-after-texas-bank-completes-regulatory-pivot",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-27T19:09:12+00:00",
-      "raw_text": "Wall Street gets new crypto rival after Texas bank completes regulatory pivot",
-      "impact": {}
-    },
-    {
-      "event_id": "832c1d54-82ea-4ad2-aee2-b9d04fd93d97",
-      "source": "rss:decrypt",
-      "title": "Cash App Now Supports Stablecoins, Despite Bitcoin Maxi Jack Dorsey's 'Gatekeeper' Gripes",
-      "url": "https://decrypt.co/369199/cash-app-supports-stablecoins-bitcoin-maxi-jack-dorsey-gatekeeper-gripes",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-27T18:49:02+00:00",
-      "raw_text": "Cash App Now Supports Stablecoins, Despite Bitcoin Maxi Jack Dorsey's 'Gatekeeper' Gripes\n\nCash App has begun supporting stablecoin transactions on networks including Ethereum and Solana, pushing past its Bitcoin-based roots.",
-      "impact": {}
-    },
-    {
-      "event_id": "085bcdde-cfac-45b2-b549-a4ca3528c8b9",
-      "source": "rss:bitcoinmagazine",
-      "title": "Miami IT Worker Arrested in $1.9 Million Bitcoin Theft from Former Boss",
-      "url": "https://bitcoinmagazine.com/news/miami-it-worker-in-1-9-million-bitcoin",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-27T18:48:35+00:00",
-      "raw_text": "Miami IT Worker Arrested in $1.9 Million Bitcoin Theft from Former Boss\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Miami-IT-Worker-Arrested-in-1.9-Million-Bitcoin-Theft-from-Former-Boss.jpg\" sty",
-      "impact": {}
-    },
-    {
-      "event_id": "4f9701d5-9fd7-4900-bc09-260d93cb96b2",
-      "source": "rss:cointelegraph",
-      "title": "Price predictions 5/27: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ZEC, ADA, XMR",
-      "url": "https://cointelegraph.com/markets/price-predictions-527-btc-eth-bnb-xrp-sol-doge-hype-zec-ada-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC",
-        "ETH",
-        "BNB",
-        "XRP",
-        "SOL",
-        "DOGE",
-        "ADA"
-      ],
-      "timestamp_utc": "2026-05-27T18:28:39+00:00",
-      "raw_text": "Price predictions 5/27: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ZEC, ADA, XMR\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 5/27: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ZEC, ADA, XMR\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
-      "impact": {
-        "t_plus_5m": -0.4877,
-        "t_plus_15m": -0.3737,
-        "t_plus_1h": -0.2995,
-        "t_plus_4h": -0.8411
-      }
-    },
-    {
-      "event_id": "92eb46dc-4c18-43bd-81bd-b613ccb9ba25",
-      "source": "rss:cointelegraph",
-      "title": "Mastercard secures New York BitLicense for crypto operations",
-      "url": "https://cointelegraph.com/news/mastercard-secures-new-york-bitlicense-for-crypto-operations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-27T18:05:55+00:00",
-      "raw_text": "Mastercard secures New York BitLicense for crypto operations\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Mastercard secures New York BitLicense for crypto operations\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZ",
-      "impact": {}
-    },
-    {
-      "event_id": "e064b658-b2df-406b-9d45-89efdb7f6acf",
-      "source": "rss:coindesk",
-      "title": "Elon Musk could become a top 5 corporate bitcoin holder if Tesla and SpaceX merge",
-      "url": "https://www.coindesk.com/markets/2026/05/27/elon-musk-could-become-a-top-5-corporate-bitcoin-holder-if-tesla-and-spacex-merge",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-27T18:04:08+00:00",
-      "raw_text": "Elon Musk could become a top 5 corporate bitcoin holder if Tesla and SpaceX merge",
-      "impact": {}
-    },
-    {
-      "event_id": "edeafbba-cefc-4c93-943c-3a4bc4291657",
-      "source": "rss:decrypt",
-      "title": "OpenAI Foundation Pledges $250 Million to Help Cushion AI's Economic Disruption",
-      "url": "https://decrypt.co/369195/openai-foundation-pledges-250-million-ai-economic-disruption",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-27T17:43:14+00:00",
-      "raw_text": "OpenAI Foundation Pledges $250 Million to Help Cushion AI's Economic Disruption\n\nThe philanthropic arm of ChatGPT maker OpenAI will fund research, worker support, and new models for sharing the gains from automation.",
-      "impact": {}
-    },
-    {
-      "event_id": "901c8282-d207-4439-b12b-5336be284957",
-      "source": "rss:decrypt",
-      "title": "YouTube Makes AI Content Labels More Prominent as Google Pushes Video Remix Tools",
-      "url": "https://decrypt.co/369190/youtube-ai-content-labels-more-prominent-google-pushes-video-remix-tools",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-27T17:35:22+00:00",
-      "raw_text": "YouTube Makes AI Content Labels More Prominent as Google Pushes Video Remix Tools\n\nYouTube says new disclosure tools and automatic AI detection will help viewers more easily identify AI-generated videos.",
-      "impact": {}
-    },
-    {
-      "event_id": "8461ef36-d93f-49a6-a59a-d22b83413c74",
-      "source": "rss:decrypt",
-      "title": "SoFi Launches SoFiUSD Stablecoin Across Ethereum and Solana",
-      "url": "https://decrypt.co/369187/sofi-launches-sofiusd-stablecoin-ethereum-solana",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-27T17:08:09+00:00",
-      "raw_text": "SoFi Launches SoFiUSD Stablecoin Across Ethereum and Solana\n\nSoFi is making its SoFiUSD token available to members, marking a milestone in the convergence of regulated banking and blockchain.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 186,
-        "avg_1h": 0.33,
+        "count": 188,
+        "avg_1h": 0.29,
         "avg_24h": -1.6,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 158,
-        "avg_1h": 0.17,
-        "avg_24h": -4.98,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 114,
-        "avg_1h": 0.06,
-        "avg_24h": -0.97,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
         "count": 22,
         "avg_1h": 0.11,
         "avg_24h": 2.44,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 156,
+        "avg_1h": 0.17,
+        "avg_24h": -4.98,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 114,
+        "avg_1h": 0.08,
+        "avg_24h": -0.97,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
