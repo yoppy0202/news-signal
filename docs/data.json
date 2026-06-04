@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-06-04T21:51:33.170434+00:00",
+  "generated_at": "2026-06-04T23:20:44.340636+00:00",
   "events": [
+    {
+      "event_id": "14a00156-27d9-408e-879c-37afb9ef820a",
+      "source": "rss:cointelegraph",
+      "title": "Comptroller says only Democrats pressuring over crypto trust charter",
+      "url": "https://cointelegraph.com/news/occ-gould-political-pressure-democrats-world-liberty-financial?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-04T21:54:37+00:00",
+      "raw_text": "Comptroller says only Democrats pressuring over crypto trust charter\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Comptroller says only Democrats pressuring over crypto trust charter\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zM",
+      "impact": {}
+    },
+    {
+      "event_id": "62412d07-4c72-4a48-b90c-ebc3ee17221e",
+      "source": "rss:decrypt",
+      "title": "AI Is Already Developing AI, Says Anthropic—And Humans May Be Slowing Things Down",
+      "url": "https://decrypt.co/370089/ai-already-developing-ai-anthropic-humans-slowing-things-down",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-04T21:37:01+00:00",
+      "raw_text": "AI Is Already Developing AI, Says Anthropic—And Humans May Be Slowing Things Down\n\nAnthropic says AI now writes most of its code and runs increasingly complex research tasks, leaving people to decide which problems are worth solving.",
+      "impact": {}
+    },
+    {
+      "event_id": "d47c273e-76d7-4d0f-a1db-bc0556a5946c",
+      "source": "rss:bitcoinmagazine",
+      "title": "Bitcoin’s Pullback Tests Institutional Adoption Narrative as Pompliano Stays Bullish",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-as-pompliano-stays-bullish",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-04T21:12:41+00:00",
+      "raw_text": "Bitcoin’s Pullback Tests Institutional Adoption Narrative as Pompliano Stays Bullish\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strive-ASST-Adds-185-Million-in-Bitcoin-as-Holdings-Reach-19000-BT",
+      "impact": {}
+    },
     {
       "event_id": "5630e428-b85f-4d19-91d8-d8cc1bf78bd1",
       "source": "rss:decrypt",
@@ -20,10 +56,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-fell-21-after-strategys-debt-buyback-news-is-a-terra-luna-style-doom-loop-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-04T20:37:58+00:00",
       "raw_text": "Bitcoin fell 21% after Strategy’s debt buyback news— Is a Terra Luna-style doom loop next?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin fell 21% after Strategy’s debt buyback news— Is a Terra Luna-style doom loop next?\" class=\"type:primaryImage\" src=\"https://image",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.3763,
+        "t_plus_15m": -0.4868,
+        "t_plus_1h": -0.7462
+      }
     },
     {
       "event_id": "2bb81c75-9e4e-4286-98fe-f683b0bb023e",
@@ -32,10 +74,16 @@
       "url": "https://bitcoinmagazine.com/markets/bitcoin-price-plunges-below-fire-sale",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-04T20:28:54+00:00",
       "raw_text": "Bitcoin Price Plunges Below ‘Fire Sale’ Territory as Fear Index Reads 12 — Echoing the FTX Crash\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Price-Plunges-Below-Fire-Sale-Territory-as-Fea",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.4967,
+        "t_plus_15m": -0.3763,
+        "t_plus_1h": -0.5342
+      }
     },
     {
       "event_id": "a35cd294-738c-4c7f-a766-643af6019e92",
@@ -80,10 +128,16 @@
       "url": "https://cointelegraph.com/news/bitcoin-etf-ownership-shifts-hedge-funds-sell-banks-buy-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-04T19:53:33+00:00",
       "raw_text": "Professional investors dumped 52K BTC worth of ETFs in Q1, filings show\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Professional investors dumped 52K BTC worth of ETFs in Q1, filings show\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.3199,
+        "t_plus_15m": -0.8691,
+        "t_plus_1h": -0.4868
+      }
     },
     {
       "event_id": "0901cd45-293f-4d7f-9e1e-e746d2959fa1",
@@ -92,10 +146,16 @@
       "url": "https://bitcoinmagazine.com/news/schwab-strategist-bitcoins-60000-mining",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-04T19:49:15+00:00",
       "raw_text": "Schwab Strategist: Bitcoin’s $60,000 Mining Cost Could Mark the Cycle Bottom\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Schwab-Strategist-Bitcoins-60000-Mining-Cost-Could-Mark-the-Cycle-Bottom.j",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.3182,
+        "t_plus_15m": -0.5433,
+        "t_plus_1h": -0.5253
+      }
     },
     {
       "event_id": "77d5488f-f8ef-4ce3-961a-71115966dfcd",
@@ -147,7 +207,8 @@
       "raw_text": "Bitcoin Privacy in 2026: A Practical Guide\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/tn.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/guides/bitc",
       "impact": {
         "t_plus_5m": -0.2638,
-        "t_plus_15m": -0.0526
+        "t_plus_15m": -0.0526,
+        "t_plus_1h": 0.1409
       }
     },
     {
@@ -650,6 +711,18 @@
         "t_plus_1h": -0.7201,
         "t_plus_4h": -0.1815
       }
+    },
+    {
+      "event_id": "2a40c5d5-e653-464b-8acf-cee98019a2d0",
+      "source": "rss:coindesk",
+      "title": "Bitcoin bounces, HYPE falls, NEAR gets demolished as crypto deals with a wipe out",
+      "url": "https://www.coindesk.com/markets/2026/06/04/live-markets-saylor-speaks-as-bitcoin-plunges-to-usd62-000",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-04T12:14:21+00:00",
+      "raw_text": "Bitcoin bounces, HYPE falls, NEAR gets demolished as crypto deals with a wipe out",
+      "impact": {}
     },
     {
       "event_id": "532c59f2-e3cd-4c52-8ac1-27fa740ca56a",
@@ -1288,7 +1361,9 @@
         "ETH",
         "BNB",
         "XRP",
-        "SOL"
+        "SOL",
+        "DOGE",
+        "ADA"
       ],
       "timestamp_utc": "2026-06-03T21:05:56+00:00",
       "raw_text": "Price predictions 6/3: BTC, ETH, BNB, XRP, SOL, HYPE, DOGE, ZEC, ADA, XLM\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 6/3: BTC, ETH, BNB, XRP, SOL, HYPE, DOGE, ZEC, ADA, XLM\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
@@ -1318,10 +1393,14 @@
       "url": "https://www.theblock.co/post/403585/hyperliquid-hype-overtakes-solana-price-sol-falls-lowest-since-2023?utm_source=rss&utm_medium=rss",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "SOL"
+      ],
       "timestamp_utc": "2026-06-03T20:57:29+00:00",
       "raw_text": "Hyperliquid’s HYPE overtakes Solana in price as SOL falls to lowest levels since 2023\n\n<p>Hyperliquid's market capitalization has climbed to over $16 billion, but still well behind Solana's $42 billion.</p>\n\n<p>Hyperliquid's market capitalization has climbed to over $16 billion, but still well behin",
-      "impact": {}
+      "impact": {
+        "t_plus_24h": -4.0462
+      }
     },
     {
       "event_id": "fd459b32-c0aa-452b-a578-4997d323e321",
@@ -1378,10 +1457,14 @@
       "url": "https://decrypt.co/369947/someone-redeemed-15-year-old-physical-bitcoin-scoring-1-78-million",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-03T20:21:13+00:00",
       "raw_text": "Someone Just Redeemed a 15-Year-Old Physical Bitcoin, Scoring $1.78 Million in BTC\n\nPhysical Casascius coins were minted 15 years ago in the early days of Bitcoin—and the BTC held within is worth a whole lot more today.",
-      "impact": {}
+      "impact": {
+        "t_plus_24h": -1.2553
+      }
     },
     {
       "event_id": "ec04a2c3-2a4b-41a3-b24d-6605f559d224",
@@ -6402,88 +6485,32 @@
       "timestamp_utc": "2026-05-29T17:52:02+00:00",
       "raw_text": "JPMorgan CEO Jamie Dimon blasts Coinbase’s Brian Armstrong, plans to fight Clarity Act\n\n<p>Dimon said Coinbase's Armstrong is spending hundreds of millions of dollars trying to get Clarity Act passed.</p>\n\n<p>Dimon said Coinbase's Armstrong is spending hundreds of millions of dollars trying to get C",
       "impact": {}
-    },
-    {
-      "event_id": "ad2713f0-f7d7-4f66-8240-2206cbf6a66d",
-      "source": "rss:decrypt",
-      "title": "AI Models Can’t Agree on Basic Facts Most of the Time, Study Shows",
-      "url": "https://decrypt.co/369480/ai-models-disagree-fact-checking-two-thirds-study",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-29T17:26:24+00:00",
-      "raw_text": "AI Models Can’t Agree on Basic Facts Most of the Time, Study Shows\n\nA new study gave five frontier AI models 1,000 real-world claims to fact-check. They disagreed on 67% of them.",
-      "impact": {}
-    },
-    {
-      "event_id": "5b3e7671-fc5a-49ae-8bda-00a000d585aa",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin plums new six-week lows as analyst eyes BTC price dip 'end' at $72K",
-      "url": "https://cointelegraph.com/markets/bitcoin-plums-new-six-week-lows-as-analyst-eyes-btc-price-dip-end-at-72k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-29T17:03:12+00:00",
-      "raw_text": "Bitcoin plums new six-week lows as analyst eyes BTC price dip 'end' at $72K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin plums new six-week lows as analyst eyes BTC price dip 'end' at $72K\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528",
-      "impact": {
-        "t_plus_5m": 0.8661,
-        "t_plus_15m": 1.1223,
-        "t_plus_1h": 0.7632,
-        "t_plus_4h": 0.3567,
-        "t_plus_24h": 0.688
-      }
-    },
-    {
-      "event_id": "9483c94a-fb3b-4c44-bea4-aa250fbce567",
-      "source": "rss:cointelegraph",
-      "title": "Ex-Celsius CEO files motion to vacate sentence after lawyers withdraw",
-      "url": "https://cointelegraph.com/news/celsius-alex-mashinsky-motion-vacate-sentence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-29T16:58:50+00:00",
-      "raw_text": "Ex-Celsius CEO files motion to vacate sentence after lawyers withdraw\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ex-Celsius CEO files motion to vacate sentence after lawyers withdraw\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
-      "impact": {}
-    },
-    {
-      "event_id": "5006ffd3-88b2-47f2-857d-79556d4d350d",
-      "source": "rss:coindesk",
-      "title": "U.S. regulator says 24/7 trading is great for crypto, may not be fit for other sectors",
-      "url": "https://www.coindesk.com/policy/2026/05/29/u-s-regulator-says-24-7-trading-is-great-for-crypto-may-not-be-fit-for-other-sectors",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-29T16:29:42+00:00",
-      "raw_text": "U.S. regulator says 24/7 trading is great for crypto, may not be fit for other sectors",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 213,
+        "avg_1h": 0.35,
+        "avg_24h": -2.0,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 160,
+        "count": 159,
         "avg_1h": 0.32,
         "avg_24h": -4.98,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 212,
-        "avg_1h": 0.4,
-        "avg_24h": -1.43,
+      "listing": {
+        "count": 15,
+        "avg_1h": 0.15,
+        "avg_24h": -2.76,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 88,
-        "avg_1h": 0.49,
+        "count": 87,
+        "avg_1h": 0.26,
         "avg_24h": -2.04,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "listing": {
-        "count": 14,
-        "avg_1h": 0.15,
-        "avg_24h": -2.76,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
