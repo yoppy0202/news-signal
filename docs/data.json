@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-03T23:57:55.458275+00:00",
+  "generated_at": "2026-06-04T05:01:27.364130+00:00",
   "events": [
+    {
+      "event_id": "f69bafc6-4ff6-4d5c-b03c-3675832d39cc",
+      "source": "rss:coindesk",
+      "title": "Bitcoin tanks below $63,000 for the first time since February as price selloff deepens",
+      "url": "https://www.coindesk.com/markets/2026/06/04/bitcoin-selloff-continues-as-prices-slide-below-usd63-000-for-the-first-time-since-february",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-04T01:30:53+00:00",
+      "raw_text": "Bitcoin tanks below $63,000 for the first time since February as price selloff deepens",
+      "impact": {}
+    },
     {
       "event_id": "b4dc13ee-e968-4b27-b7d6-1ccae5d57ee8",
       "source": "rss:cointelegraph",
@@ -104,10 +116,20 @@
       "url": "https://cointelegraph.com/markets/price-predictions-63-btc-eth-bnb-xrp-sol-hype-doge-zec-ada-xlm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC",
+        "ETH",
+        "BNB",
+        "XRP",
+        "SOL"
+      ],
       "timestamp_utc": "2026-06-03T21:05:56+00:00",
       "raw_text": "Price predictions 6/3: BTC, ETH, BNB, XRP, SOL, HYPE, DOGE, ZEC, ADA, XLM\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 6/3: BTC, ETH, BNB, XRP, SOL, HYPE, DOGE, ZEC, ADA, XLM\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 1.9434,
+        "t_plus_15m": 1.9207,
+        "t_plus_1h": 2.0497
+      }
     },
     {
       "event_id": "a35e1d77-379c-4b29-8ee7-776a259ffc90",
@@ -488,10 +510,17 @@
       "url": "https://cointelegraph.com/markets/bitcoin-copying-2022-almost-perfectly-as-trader-sees-key-support-failing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-03T16:09:12+00:00",
       "raw_text": "Bitcoin copying 2022 'almost perfectly' as trader sees key support failing\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin copying 2022 'almost perfectly' as trader sees key support failing\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 2.8258,
+        "t_plus_15m": 2.2721,
+        "t_plus_1h": 2.2784,
+        "t_plus_4h": 1.6738
+      }
     },
     {
       "event_id": "489d9a6d-6878-42e8-8b05-ae6ff24f8f9c",
@@ -548,10 +577,17 @@
       "url": "https://cointelegraph.com/markets/ethereum-drops-to-14-week-lows-can-eth-price-hold-18k-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-06-03T15:32:39+00:00",
       "raw_text": "Ethereum drops to 14-week lows: Can ETH price hold $1.8K support?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum drops to 14-week lows: Can ETH price hold $1.8K support?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWF",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 1.4799,
+        "t_plus_15m": 1.3069,
+        "t_plus_1h": 0.2033,
+        "t_plus_4h": -0.0673
+      }
     },
     {
       "event_id": "c70596eb-b7d9-4d2b-b82d-927a27f363d5",
@@ -560,10 +596,17 @@
       "url": "https://bitcoinmagazine.com/news/lava-card-launches-visa-credit-card",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-03T15:18:31+00:00",
       "raw_text": "Lava Card Launches Secured Visa Credit Card That Pays Bitcoin Rewards on Every Purchase\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Introducing-Lava-Card-1-scaled.png\" style=\"display: block; marg",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 3.1965,
+        "t_plus_15m": 3.3205,
+        "t_plus_1h": 2.6415,
+        "t_plus_4h": 2.5843
+      }
     },
     {
       "event_id": "901d15db-5a18-4053-af08-742592b14d76",
@@ -6388,37 +6431,25 @@
       "timestamp_utc": "2026-05-28T17:22:14+00:00",
       "raw_text": "French company abandons crypto treasury strategy, will liquidate Bitcoin holdings\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"French company abandons crypto treasury strategy, will liquidate Bitcoin holdings\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.co",
       "impact": {}
-    },
-    {
-      "event_id": "b2a74d85-d9f2-406a-83be-effeaba78e88",
-      "source": "rss:cointelegraph",
-      "title": "P2P.org launches real-time data stream for Sui and Hyperliquid",
-      "url": "https://cointelegraph.com/press-releases/p2porg-launches-real-time-data-stream-for-sui-and-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-28T16:57:03+00:00",
-      "raw_text": "P2P.org launches real-time data stream for Sui and Hyperliquid\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"P2P.org launches real-time data stream for Sui and Hyperliquid\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 196,
-        "avg_1h": 0.4,
+        "count": 197,
+        "avg_1h": 0.47,
         "avg_24h": -1.23,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 158,
-        "avg_1h": 0.25,
+        "count": 157,
+        "avg_1h": 0.43,
         "avg_24h": -4.98,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
         "count": 102,
-        "avg_1h": 0.16,
+        "avg_1h": 0.44,
         "avg_24h": -1.53,
         "win_rate_1h_gt5pct": 0.0
       },
