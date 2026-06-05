@@ -1,6 +1,84 @@
 {
-  "generated_at": "2026-06-05T20:07:13.987792+00:00",
+  "generated_at": "2026-06-05T21:42:38.990715+00:00",
   "events": [
+    {
+      "event_id": "bde6308e-bd7b-4d55-9bcc-6b9e3824c819",
+      "source": "rss:decrypt",
+      "title": "Zcash Bug Crisis Shows Privacy Cuts Both Ways, Experts Say",
+      "url": "https://decrypt.co/370223/zcash-bug-crisis-shows-privacy-cuts-both-ways-experts-say",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-05T20:26:17+00:00",
+      "raw_text": "Zcash Bug Crisis Shows Privacy Cuts Both Ways, Experts Say\n\nFallout from a bug that enabled undetectable Zcash counterfeiting shows that privacy can sometimes present tradeoffs, experts say.",
+      "impact": {}
+    },
+    {
+      "event_id": "def27580-b25a-4d1d-af2d-6150d90f8d07",
+      "source": "rss:theblock",
+      "title": "Hyperliquid treasuries stand alone in profit as legacy crypto DATs bleed billions",
+      "url": "https://www.theblock.co/post/403855/hype-treasuries-alone-profit-legacy-crypto-dats-bleed-billions?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-05T20:24:27+00:00",
+      "raw_text": "Hyperliquid treasuries stand alone in profit as legacy crypto DATs bleed billions\n\n<p>Strategy, Bitmine, and other major treasury firms have seen paper gains evaporate as crypto prices continue sliding.</p>\n\n<p>Strategy, Bitmine, and other major treasury firms have seen paper gains evaporate as cryp",
+      "impact": {}
+    },
+    {
+      "event_id": "a7eea693-22d2-43e4-8018-0c8a2018bfca",
+      "source": "rss:decrypt",
+      "title": "Strategy Shares Fall to 4-Month Low as STRC Dips and Bitcoin Sinks Under $60K",
+      "url": "https://decrypt.co/370229/strategy-shares-fall-4-month-low-strc-dips-bitcoin-sinks-under-60k",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-05T20:02:53+00:00",
+      "raw_text": "Strategy Shares Fall to 4-Month Low as STRC Dips and Bitcoin Sinks Under $60K\n\nStrategy shares tumbled alongside Bitcoin on Friday as the firm's flagship preferred stock also came under pressure.",
+      "impact": {}
+    },
+    {
+      "event_id": "8a908ef3-484f-4e9f-9e60-461d1d5578bb",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin bears face $2.6B trap as BTC funding rate drops: Is a short squeeze brewing?",
+      "url": "https://cointelegraph.com/markets/bitcoin-bears-face-26b-trap-as-btc-funding-rate-drops-is-a-short-squeeze-brewing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-06-05T19:28:53+00:00",
+      "raw_text": "Bitcoin bears face $2.6B trap as BTC funding rate drops: Is a short squeeze brewing?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin bears face $2.6B trap as BTC funding rate drops: Is a short squeeze brewing? \" class=\"type:primaryImage\" src=\"https://images.cointeleg",
+      "impact": {
+        "t_plus_5m": -2.2075,
+        "t_plus_15m": -2.1488,
+        "t_plus_1h": 0.0316
+      }
+    },
+    {
+      "event_id": "1bd2cd73-7cd6-43db-9e94-7fdf02d054b2",
+      "source": "rss:coindesk",
+      "title": "Why diehard bitcoin purists aren’t sweating the massive price crash that wiped out $200 billion",
+      "url": "https://www.coindesk.com/markets/2026/06/05/why-diehard-bitcoin-purists-aren-t-sweating-the-massive-price-crash-that-wiped-out-usd200-billion",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-05T19:27:20+00:00",
+      "raw_text": "Why diehard bitcoin purists aren’t sweating the massive price crash that wiped out $200 billion",
+      "impact": {}
+    },
+    {
+      "event_id": "5b18cd4d-05c7-4603-b080-a473322683ff",
+      "source": "rss:decrypt",
+      "title": "Anthropic Is Helping the NSA Hack China. It Also Wants Everyone to Pause AI",
+      "url": "https://decrypt.co/370207/anthropic-helping-nsa-hack-china-also-wants-everyone-pause-ai",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-05T19:18:56+00:00",
+      "raw_text": "Anthropic Is Helping the NSA Hack China. It Also Wants Everyone to Pause AI\n\nThe company behind Claude embedded engineers at the NSA for offensive cyber ops, then published a report warning AI could soon build itself without humans in the loop.",
+      "impact": {}
+    },
     {
       "event_id": "b7b095be-2eab-4d9c-a693-af794d9da893",
       "source": "rss:decrypt",
@@ -14,6 +92,18 @@
       "impact": {}
     },
     {
+      "event_id": "7cc59ddb-de38-4de8-ac7e-05b36e09879a",
+      "source": "rss:cointelegraph",
+      "title": "Kraken offers SpaceX IPO access through xStocks",
+      "url": "https://cointelegraph.com/news/kraken-offers-spacex-ipo-access-through-xstocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "listing",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-05T18:17:50+00:00",
+      "raw_text": "Kraken offers SpaceX IPO access through xStocks\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken offers SpaceX IPO access through xStocks\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2x",
+      "impact": {}
+    },
+    {
       "event_id": "b46add4c-55f4-42fe-aa51-55c3be709f62",
       "source": "rss:decrypt",
       "title": "Congress Gets 7 New Crypto Tax Bills: Here's What's In Them",
@@ -23,6 +113,18 @@
       "tokens": [],
       "timestamp_utc": "2026-06-05T18:13:56+00:00",
       "raw_text": "Congress Gets 7 New Crypto Tax Bills: Here's What's In Them\n\nThe crypto tax bills—the first of their kind to be deliberated by congressional leadership—will be discussed at a House hearing on Tuesday.",
+      "impact": {}
+    },
+    {
+      "event_id": "2b36c1a5-e00e-4634-8f7f-cea58927adf1",
+      "source": "rss:cointelegraph",
+      "title": "Crypto tax in Illinois FY2027 budget is one step away from becoming law",
+      "url": "https://cointelegraph.com/news/cryptocurrency-tax-illinois-fy2027-budget-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-05T18:10:59+00:00",
+      "raw_text": "Crypto tax in Illinois FY2027 budget is one step away from becoming law\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto tax in Illinois FY2027 budget is one step away from becoming law\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
       "impact": {}
     },
     {
@@ -226,7 +328,8 @@
       "impact": {
         "t_plus_5m": -1.0379,
         "t_plus_15m": -0.678,
-        "t_plus_1h": -0.1219
+        "t_plus_1h": -0.1219,
+        "t_plus_4h": -2.0669
       }
     },
     {
@@ -244,7 +347,8 @@
       "impact": {
         "t_plus_5m": -0.1785,
         "t_plus_15m": -0.9859,
-        "t_plus_1h": 0.4511
+        "t_plus_1h": 0.4511,
+        "t_plus_4h": -2.2687
       }
     },
     {
@@ -6419,121 +6523,18 @@
       "timestamp_utc": "2026-06-01T06:52:38+00:00",
       "raw_text": "Whitehat developer unlocks $2 million stuck in a 2016 Ethereum ICO contract for nine years",
       "impact": {}
-    },
-    {
-      "event_id": "a59f1c80-2999-4271-86ed-756615b07bda",
-      "source": "rss:cointelegraph",
-      "title": "Sui Foundation says ‘major upgrade’ fixed bugs behind three outages",
-      "url": "https://cointelegraph.com/news/sui-major-upgrade-fixes-outage-bugs-restores-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-01T06:48:04+00:00",
-      "raw_text": "Sui Foundation says ‘major upgrade’ fixed bugs behind three outages\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Sui Foundation says ‘major upgrade’ fixed bugs behind three outages \" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy",
-      "impact": {}
-    },
-    {
-      "event_id": "3ece47d2-cecf-4f06-b271-87cc991fb56b",
-      "source": "rss:cointelegraph",
-      "title": "Crypto exploit losses in May fall 90% over month to $68M: CertiK",
-      "url": "https://cointelegraph.com/news/crypto-exploit-losses-fall-by-90-in-may-to-68m-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-01T06:40:42+00:00",
-      "raw_text": "Crypto exploit losses in May fall 90% over month to $68M: CertiK\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto exploit losses in May fall 90% over month to $68M: CertiK\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZ",
-      "impact": {}
-    },
-    {
-      "event_id": "7511ed25-ce89-4dbd-99c6-acf0b46e3174",
-      "source": "rss:cointelegraph",
-      "title": "Cardano Foundation cancels annual conference after failed funding vote",
-      "url": "https://cointelegraph.com/news/cardano-foundation-cancels-annual-conference-after-failed-funding-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-01T06:24:07+00:00",
-      "raw_text": "Cardano Foundation cancels annual conference after failed funding vote\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cardano Foundation cancels annual conference after failed funding vote \" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6",
-      "impact": {}
-    },
-    {
-      "event_id": "402954f1-110e-4a45-9891-cbb3d2986524",
-      "source": "rss:coindesk",
-      "title": "XRP drops to $1.32 as sellers overpower exchange outflows",
-      "url": "https://www.coindesk.com/markets/2026/06/01/xrp-drops-to-usd1-32-as-sellers-overpower-exchange-outflows",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-06-01T05:41:31+00:00",
-      "raw_text": "XRP drops to $1.32 as sellers overpower exchange outflows",
-      "impact": {
-        "t_plus_5m": 0.5816,
-        "t_plus_15m": 0.5578,
-        "t_plus_1h": 0.1361,
-        "t_plus_4h": -0.4179
-      }
-    },
-    {
-      "event_id": "de83321a-b39e-4e1d-bc88-b5ee4f9b160b",
-      "source": "rss:coindesk",
-      "title": "Three Sui mainnet halts in 48 hours traced to an upgrade bug by developers",
-      "url": "https://www.coindesk.com/tech/2026/06/01/three-sui-mainnet-halts-in-48-hours-traced-to-an-upgrade-bug-by-developers",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-01T05:38:50+00:00",
-      "raw_text": "Three Sui mainnet halts in 48 hours traced to an upgrade bug by developers",
-      "impact": {}
-    },
-    {
-      "event_id": "6375d9ca-407d-44e9-a823-a3aaf021baf9",
-      "source": "rss:coindesk",
-      "title": "Bitcoin extends slide as spot ETF outflows hit a record while Wall Street rips on AI",
-      "url": "https://www.coindesk.com/markets/2026/06/01/bitcoin-extends-slide-as-spot-etf-outflows-hit-a-record-while-wall-street-rips-on-ai",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-01T05:11:40+00:00",
-      "raw_text": "Bitcoin extends slide as spot ETF outflows hit a record while Wall Street rips on AI",
-      "impact": {}
-    },
-    {
-      "event_id": "18d4dae9-26a5-4423-b107-ae8f3cf23146",
-      "source": "rss:theblock",
-      "title": "Coinbase launches Indian rupee rails with perps access in expansion push",
-      "url": "https://www.theblock.co/post/403135/coinbase-launches-indian-rupee-rails?utm_source=rss&utm_medium=rss",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-01T05:11:02+00:00",
-      "raw_text": "Coinbase launches Indian rupee rails with perps access in expansion push\n\n<p>The Nasdaq-listed company said it has established INR order books to provide dedicated liquidity for users in the country. </p>\n\n<p>The Nasdaq-listed company said it has established INR order books to provide dedicated liqu",
-      "impact": {}
-    },
-    {
-      "event_id": "7305a2d2-83bf-42c9-aaa8-fbef6ea5358c",
-      "source": "rss:coindesk",
-      "title": "Aave overhauls listing standards after $230 million rsETH exploit exposed bridge risks",
-      "url": "https://www.coindesk.com/markets/2026/06/01/aave-overhauls-listing-standards-after-usd230-million-rseth-exploit-exposed-bridge-risks",
-      "event_type": "listing",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-01T05:04:17+00:00",
-      "raw_text": "Aave overhauls listing standards after $230 million rsETH exploit exposed bridge risks",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 222,
+        "count": 226,
         "avg_1h": 0.35,
         "avg_24h": -2.55,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 160,
+        "count": 159,
         "avg_1h": 0.25,
         "avg_24h": -4.98,
         "win_rate_1h_gt5pct": 0.0
@@ -6544,16 +6545,16 @@
         "avg_24h": -0.54,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 79,
-        "avg_1h": 0.17,
-        "avg_24h": -3.62,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "listing": {
-        "count": 17,
+        "count": 16,
         "avg_1h": -0.0,
         "avg_24h": -3.55,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 77,
+        "avg_1h": 0.17,
+        "avg_24h": -3.62,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
