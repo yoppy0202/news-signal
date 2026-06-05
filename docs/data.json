@@ -1,6 +1,132 @@
 {
-  "generated_at": "2026-06-05T18:05:56.473481+00:00",
+  "generated_at": "2026-06-05T20:07:13.987792+00:00",
   "events": [
+    {
+      "event_id": "b7b095be-2eab-4d9c-a693-af794d9da893",
+      "source": "rss:decrypt",
+      "title": "Zcash Crash Just Wiped Billions From the Privacy Coin's Market Cap—Can ZEC Recover?",
+      "url": "https://decrypt.co/370184/zcash-crash-wiped-billions-market-cap-can-zec-recover",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-05T18:25:01+00:00",
+      "raw_text": "Zcash Crash Just Wiped Billions From the Privacy Coin's Market Cap—Can ZEC Recover?\n\nThe price of Zcash cratered following the disclosure of a serious vulnerability for the privacy coin. Can ZEC make a comeback anytime soon?",
+      "impact": {}
+    },
+    {
+      "event_id": "b46add4c-55f4-42fe-aa51-55c3be709f62",
+      "source": "rss:decrypt",
+      "title": "Congress Gets 7 New Crypto Tax Bills: Here's What's In Them",
+      "url": "https://decrypt.co/370197/congress-7-crypto-tax-bills",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-05T18:13:56+00:00",
+      "raw_text": "Congress Gets 7 New Crypto Tax Bills: Here's What's In Them\n\nThe crypto tax bills—the first of their kind to be deliberated by congressional leadership—will be discussed at a House hearing on Tuesday.",
+      "impact": {}
+    },
+    {
+      "event_id": "6b736ba7-a993-4d45-ad5b-7f5686959c0f",
+      "source": "rss:coindesk",
+      "title": "AI exposed a massive flaw in top crypto network and experts warn banks could be next",
+      "url": "https://www.coindesk.com/tech/2026/06/05/ai-exposed-a-massive-flaw-in-top-crypto-network-and-experts-warn-banks-could-be-next",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-05T18:02:33+00:00",
+      "raw_text": "AI exposed a massive flaw in top crypto network and experts warn banks could be next",
+      "impact": {}
+    },
+    {
+      "event_id": "d015c721-2a6f-4fa3-a84c-30e6c0a0ff0d",
+      "source": "rss:decrypt",
+      "title": "Tom Lee's Ethereum Treasury BitMine Prices Preferred Shares With 9.5% Dividend",
+      "url": "https://decrypt.co/370188/tom-lees-ethereum-treasury-bitmine-prices-preferred-shares",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-05T17:57:29+00:00",
+      "raw_text": "Tom Lee's Ethereum Treasury BitMine Prices Preferred Shares With 9.5% Dividend\n\nBitMine is borrowing from Strategy’s Bitcoin playbook, debuting its own preferred share in an upsized offering to raise funds to buy Ethereum.",
+      "impact": {}
+    },
+    {
+      "event_id": "e1e680fa-8e47-4471-9e90-f401f54d20a2",
+      "source": "rss:cointelegraph",
+      "title": "Crypto Biz: Nobody told Saylor ‘never sell’",
+      "url": "https://cointelegraph.com/news/strategy-bitcoin-sale-clarity-act-jpmorgan-capital-b-fundraising?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-06-05T17:04:07+00:00",
+      "raw_text": "Crypto Biz: Nobody told Saylor ‘never sell’\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: Nobody told Saylor ‘never sell’\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmV",
+      "impact": {
+        "t_plus_5m": 1.8808,
+        "t_plus_15m": 1.0225,
+        "t_plus_1h": 0.8716
+      }
+    },
+    {
+      "event_id": "05667169-e49b-4bc4-b4dc-f8795eca73e6",
+      "source": "rss:theblock",
+      "title": "Next up, taxes: Crypto tax legislation circulated ahead of House Ways and Means Committee hearing next week",
+      "url": "https://www.theblock.co/post/403851/next-up-taxes-crypto-tax-legislation-circulated-ahead-of-house-ways-and-means-committee-hearing-next-week?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-05T16:55:40+00:00",
+      "raw_text": "Next up, taxes: Crypto tax legislation circulated ahead of House Ways and Means Committee hearing next week\n\n<p>As cryptocurrency-related bills from regulating stablecoins to the market as a whole take center stage — now comes how to tax those assets.</p>\n\n<p>As cryptocurrency-related bills from reg",
+      "impact": {}
+    },
+    {
+      "event_id": "5ee7050a-bedf-4d00-a884-a54b107e3a43",
+      "source": "rss:coindesk",
+      "title": "BlackRock-backed tokenization firm Securitize clears key hurdle to go public on NYSE",
+      "url": "https://www.coindesk.com/business/2026/06/05/blackrock-backed-tokenization-firm-securitize-clears-key-hurdle-to-go-public-on-nyse",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-05T16:46:28+00:00",
+      "raw_text": "BlackRock-backed tokenization firm Securitize clears key hurdle to go public on NYSE",
+      "impact": {}
+    },
+    {
+      "event_id": "e967567e-abce-45f3-981e-715721b11b6a",
+      "source": "rss:theblock",
+      "title": "‘Please stop the FUD’: Zcash treasury company Cypherpunk remains committed to accumulating 5% of ZEC supply",
+      "url": "https://www.theblock.co/post/403839/zcash-treasury-cypherpunk-remains-committed-accumulating-5-zec-supply?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-05T16:46:20+00:00",
+      "raw_text": "‘Please stop the FUD’: Zcash treasury company Cypherpunk remains committed to accumulating 5% of ZEC supply\n\n<p>Shares of Cypherpunk Technologies plunged more than 40% following the disclosure of a critical bug that was recently patched in Zcash.</p>\n\n<p>Shares of Cypherpunk Technologies plunged mor",
+      "impact": {}
+    },
+    {
+      "event_id": "6ba18e99-35ea-4752-9494-29eadcdf2914",
+      "source": "rss:cointelegraph",
+      "title": "Pump.fun bounty platform pays users to tattoo tokens and chase viral stunts",
+      "url": "https://cointelegraph.com/news/pumpfun-bounty-platforms-funds-memecoin-tattoos-world-cup-skydives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-05T16:44:44+00:00",
+      "raw_text": "Pump.fun bounty platform pays users to tattoo tokens and chase viral stunts\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Pump.fun bounty platform pays users to tattoo tokens and chase viral stunts\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528",
+      "impact": {}
+    },
+    {
+      "event_id": "74185abc-13b9-4199-8942-940dd548b455",
+      "source": "rss:theblock",
+      "title": "Securitize clears SEC registration statement hurdle, sets path to NYSE listing as SECZ",
+      "url": "https://www.theblock.co/post/403842/securitize-clears-sec-registration-statement-hurdle-sets-path-to-nyse-listing-as-secz?utm_source=rss&utm_medium=rss",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-05T16:30:52+00:00",
+      "raw_text": "Securitize clears SEC registration statement hurdle, sets path to NYSE listing as SECZ\n\n<p>Securitize's SPAC merger is expected to close shortly after a CEPT shareholder vote, if approved, later this month.</p>\n\n<p>Securitize's SPAC merger is expected to close shortly after a CEPT shareholder vote, ",
+      "impact": {}
+    },
     {
       "event_id": "1528e525-10b7-43e1-af5e-342afff0375a",
       "source": "rss:decrypt",
@@ -11,6 +137,18 @@
       "tokens": [],
       "timestamp_utc": "2026-06-05T16:15:42+00:00",
       "raw_text": "Bitcoin Dives Below $60K Following Strong Jobs Data, Zcash Crash Shaking Crypto Confidence\n\nBitcoin has now fallen more than 50% from its October peak, dipping below $60,000 as the crypto industry reckons with the Zcash vulnerability.",
+      "impact": {}
+    },
+    {
+      "event_id": "ed558ea5-c5a9-40a2-8744-717ece00c3c4",
+      "source": "rss:cointelegraph",
+      "title": "Saylor says Bitcoin needs ‘disciplined expansion’ as analysts weigh demand reset",
+      "url": "https://cointelegraph.com/news/saylor-bitcoin-disciplined-expansion-demand-reset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-05T16:09:40+00:00",
+      "raw_text": "Saylor says Bitcoin needs ‘disciplined expansion’ as analysts weigh demand reset\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Saylor says Bitcoin needs ‘disciplined expansion’ as analysts weigh demand reset\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/",
       "impact": {}
     },
     {
@@ -80,10 +218,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-approaches-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-05T15:43:14+00:00",
       "raw_text": "Bitcoin teases 'seller exhaustion' as BTC price downside reaches $60.3K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin teases 'seller exhaustion' as BTC price downside reaches $60.3K\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -1.0379,
+        "t_plus_15m": -0.678,
+        "t_plus_1h": -0.1219
+      }
     },
     {
       "event_id": "15fbb303-ab3f-4b8b-be6c-54b4a6f3222d",
@@ -92,10 +236,16 @@
       "url": "https://www.theblock.co/post/403818/strategy-saylor-bitcoin-avoid-choosing-purity-adoption-btc-extends-losses?utm_source=rss&utm_medium=rss",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-05T15:25:02+00:00",
       "raw_text": "Strategy’s Saylor says Bitcoin should avoid choosing between ‘purity and adoption’ as BTC extends losses\n\n<p>Strategy Exec Chairman Michael Saylor divided the Bitcoin ecosystem into four camps, saying that each serves a necessary role.</p>\n\n<p>Strategy Exec Chairman Michael Saylor divided the Bitcoi",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1785,
+        "t_plus_15m": -0.9859,
+        "t_plus_1h": 0.4511
+      }
     },
     {
       "event_id": "fd2fe683-c56e-48fb-9b7b-f4fad6caec56",
@@ -140,10 +290,17 @@
       "url": "https://www.coindesk.com/markets/2026/06/05/xrp-falls-toward-usd1-10-as-liquidation-driven-selloff-pushes-token-to-multi-month-lows",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-06-05T14:53:06+00:00",
       "raw_text": "XRP falls toward $1.10 as liquidation-driven selloff pushes token to multi-month lows",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.4634,
+        "t_plus_15m": 0.3719,
+        "t_plus_1h": -0.3625,
+        "t_plus_4h": -1.3973
+      }
     },
     {
       "event_id": "c68ef886-6514-4f86-90f3-41d7a6ba2d90",
@@ -208,7 +365,8 @@
       "impact": {
         "t_plus_5m": 2.2619,
         "t_plus_15m": 2.4061,
-        "t_plus_1h": 0.5297
+        "t_plus_1h": 0.5297,
+        "t_plus_4h": 1.1682
       }
     },
     {
@@ -943,7 +1101,8 @@
       "impact": {
         "t_plus_5m": -0.2638,
         "t_plus_15m": -0.0526,
-        "t_plus_1h": 0.1409
+        "t_plus_1h": 0.1409,
+        "t_plus_24h": -5.6332
       }
     },
     {
@@ -997,7 +1156,8 @@
       "impact": {
         "t_plus_5m": -1.363,
         "t_plus_15m": -1.5449,
-        "t_plus_1h": -0.5945
+        "t_plus_1h": -0.5945,
+        "t_plus_24h": -4.9142
       }
     },
     {
@@ -6362,166 +6522,26 @@
       "timestamp_utc": "2026-06-01T05:04:17+00:00",
       "raw_text": "Aave overhauls listing standards after $230 million rsETH exploit exposed bridge risks",
       "impact": {}
-    },
-    {
-      "event_id": "4b411265-b5d3-4dac-9fcb-f5909540cad7",
-      "source": "rss:coindesk",
-      "title": "Aave overhauls listing standards after $230 Million rsETH exploit exposed bridge risks",
-      "url": "https://www.coindesk.com/markets/2026/06/01/aave-overhauls-listing-standards-after-usd230-million-rseth-exploit-exposed-bridge-risks",
-      "event_type": "listing",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-01T05:04:17+00:00",
-      "raw_text": "Aave overhauls listing standards after $230 Million rsETH exploit exposed bridge risks",
-      "impact": {}
-    },
-    {
-      "event_id": "62f0ac94-d2cc-4948-90c5-df22544b36b7",
-      "source": "rss:cointelegraph",
-      "title": "Wintermute to bring liquidity to booming prediction markets sector",
-      "url": "https://cointelegraph.com/news/wintermute-is-entering-prediction-markets-as-a-liquidity-provider?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-01T04:22:38+00:00",
-      "raw_text": "Wintermute to bring liquidity to booming prediction markets sector\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Wintermute to bring liquidity to booming prediction markets sector\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pb",
-      "impact": {}
-    },
-    {
-      "event_id": "007b347f-af2d-4c86-a0fc-c7fa5af862a5",
-      "source": "rss:theblock",
-      "title": "The Funding: How crypto hedge funds are navigating weak markets",
-      "url": "https://www.theblock.co/post/403128/the-funding-how-crypto-hedge-funds-are-navigating-weak-markets?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-01T03:33:52+00:00",
-      "raw_text": "The Funding: How crypto hedge funds are navigating weak markets\n\n<p>As crypto markets remain weak, fund managers say asset selection, fundamentals, and alpha matter more than ever.</p>\n\n<p>As crypto markets remain weak, fund managers say asset selection, fundamentals, and alpha matter more than ever",
-      "impact": {}
-    },
-    {
-      "event_id": "ca107d38-5455-46a8-a49e-0fd23fd60c8d",
-      "source": "rss:cointelegraph",
-      "title": "White hat hacker recovers $2M from faulty 2016 ICO smart contract",
-      "url": "https://cointelegraph.com/news/whitehat-helps-recover-2m-from-2016-ico-smart-contract?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-01T02:21:56+00:00",
-      "raw_text": "White hat hacker recovers $2M from faulty 2016 ICO smart contract\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"White hat hacker recovers $2M from faulty 2016 ICO smart contract\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWF",
-      "impact": {}
-    },
-    {
-      "event_id": "be99cfb4-f520-42ac-a46a-3f8f476f4f68",
-      "source": "rss:coindesk",
-      "title": "Coinbase makes a major play for India’s booming $3 billion crypto market with local currency launch",
-      "url": "https://www.coindesk.com/markets/2026/05/31/coinbase-makes-a-major-play-for-india-s-booming-usd3-billion-crypto-market-with-local-currency-launch",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-31T23:30:00+00:00",
-      "raw_text": "Coinbase makes a major play for India’s booming $3 billion crypto market with local currency launch",
-      "impact": {}
-    },
-    {
-      "event_id": "ee3addaf-210d-443f-b806-f507a6d268ef",
-      "source": "rss:theblock",
-      "title": "Dev helps rescue $2 million locked in 2016 ICO contract for nine years with whitehat exploit",
-      "url": "https://www.theblock.co/post/403126/dev-helps-rescue-2-million-locked-in-2016-ico-contract-for-nine-years-with-whitehat-exploit?utm_source=rss&utm_medium=rss",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-05-31T21:34:48+00:00",
-      "raw_text": "Dev helps rescue $2 million locked in 2016 ICO contract for nine years with whitehat exploit\n\n<p>The developer told The Block that two of 48 eligible investors have already claimed 96.5 ETH that was unfrozen, worth nearly $200,000 at current prices. </p>\n\n<p>The developer told The Block that two of ",
-      "impact": {
-        "t_plus_5m": -0.1884,
-        "t_plus_15m": 0.0497,
-        "t_plus_1h": 0.0375,
-        "t_plus_4h": -0.3963
-      }
-    },
-    {
-      "event_id": "1c9132ae-93d2-44be-8ab7-5640c9eca3ac",
-      "source": "rss:cointelegraph",
-      "title": "US, UK central bankers offer contrary views on stablecoins",
-      "url": "https://cointelegraph.com/news/us-uk-central-bankers-offer-contrary-views-on-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-31T21:11:35+00:00",
-      "raw_text": "US, UK central bankers offer contrary views on stablecoins\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US, UK central bankers offer contrary views on stablecoins\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpY",
-      "impact": {}
-    },
-    {
-      "event_id": "a148d196-80b0-4f5d-bd4b-49f4afedbfe7",
-      "source": "rss:theblock",
-      "title": "Sui traces three mainnet halts to upgrade bugs, including a fix it knew carried halt risk",
-      "url": "https://www.theblock.co/post/403124/sui-traces-three-mainnet-halts-to-upgrade-bugs-including-a-fix-it-knew-carried-halt-risk?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-05-31T20:46:27+00:00",
-      "raw_text": "Sui traces three mainnet halts to upgrade bugs, including a fix it knew carried halt risk\n\n<p>The Sui Foundation said no user funds were at risk and credited AI agents with speeding up its diagnosis of the incidents.</p>\n\n<p>The Sui Foundation said no user funds were at risk and credited AI agents w",
-      "impact": {}
-    },
-    {
-      "event_id": "3505d145-a8ce-4ecb-96e7-47a0cabe0eb5",
-      "source": "rss:cointelegraph",
-      "title": "Strategy's Michael Saylor teases BTC buy with 'working better' tweet",
-      "url": "https://cointelegraph.com/news/strategys-michael-saylor-says-working-better-tees-up-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-05-31T20:00:12+00:00",
-      "raw_text": "Strategy's Michael Saylor teases BTC buy with 'working better' tweet\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy's Michael Saylor teases BTC buy with 'working better' tweet\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zM",
-      "impact": {
-        "t_plus_5m": -0.1436,
-        "t_plus_15m": -0.1158,
-        "t_plus_1h": 0.0035,
-        "t_plus_4h": -0.0893
-      }
-    },
-    {
-      "event_id": "3b3d10f3-7fda-4c7d-8954-47b414416574",
-      "source": "rss:coindesk",
-      "title": "A massive $1.26 billion sale of BlackRock’s IBIT was likely a rapid exit by a large investor",
-      "url": "https://www.coindesk.com/markets/2026/05/31/a-massive-usd1-26-billion-sale-of-blackrock-s-ibit-was-likely-a-rapid-exit-by-a-large-investor",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-31T19:41:51+00:00",
-      "raw_text": "A massive $1.26 billion sale of BlackRock’s IBIT was likely a rapid exit by a large investor",
-      "impact": {}
-    },
-    {
-      "event_id": "0dc49172-b650-4f9c-a47e-2c1b1f930a14",
-      "source": "rss:coindesk",
-      "title": "How the House Financial Services Committee is taking on tokenization: State of Crypto",
-      "url": "https://www.coindesk.com/policy/2026/05/31/how-the-house-financial-services-committee-is-taking-on-tokenization-state-of-crypto",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-31T18:30:00+00:00",
-      "raw_text": "How the House Financial Services Committee is taking on tokenization: State of Crypto",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 223,
-        "avg_1h": 0.36,
-        "avg_24h": -2.29,
+        "count": 222,
+        "avg_1h": 0.35,
+        "avg_24h": -2.55,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 158,
-        "avg_1h": 0.26,
+        "count": 160,
+        "avg_1h": 0.25,
         "avg_24h": -4.98,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 17,
+        "avg_1h": 0.45,
+        "avg_24h": -0.54,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
@@ -6533,7 +6553,7 @@
       "listing": {
         "count": 17,
         "avg_1h": -0.0,
-        "avg_24h": -2.85,
+        "avg_24h": -3.55,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
@@ -6541,12 +6561,6 @@
         "avg_1h": null,
         "avg_24h": null,
         "win_rate_1h_gt5pct": null
-      },
-      "hack": {
-        "count": 18,
-        "avg_1h": 0.03,
-        "avg_24h": -0.54,
-        "win_rate_1h_gt5pct": 0.0
       }
     }
   }
