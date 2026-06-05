@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-06-04T23:20:44.340636+00:00",
+  "generated_at": "2026-06-05T04:43:46.910126+00:00",
   "events": [
+    {
+      "event_id": "7e017870-8f58-4513-8eb6-18802b40a2b3",
+      "source": "rss:theblock",
+      "title": "Security researcher finds Zcash vulnerability allowing ‘unlimited’ counterfeit minting; ZEC drops 31%",
+      "url": "https://www.theblock.co/post/403698/zcash-vulnerability-zec-drops?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-05T03:16:08+00:00",
+      "raw_text": "Security researcher finds Zcash vulnerability allowing ‘unlimited’ counterfeit minting; ZEC drops 31%\n\n<p>The vulnerability was fixed within days, and findings suggest that actual exploitation of the bug is unlikely.</p>\n\n<p>The vulnerability was fixed within days, and findings suggest that actual e",
+      "impact": {}
+    },
+    {
+      "event_id": "9eb23b2b-7aca-4ff2-b31f-d29c5576c1a9",
+      "source": "rss:theblock",
+      "title": "JPMorgan, Citi-backed consortium plans to launch tokenized deposit network in early 2027: WSJ",
+      "url": "https://www.theblock.co/post/403701/jpmorgan-citi-major-banks-tokenized-deposit-network?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-05T02:57:24+00:00",
+      "raw_text": "JPMorgan, Citi-backed consortium plans to launch tokenized deposit network in early 2027: WSJ\n\n<p>The initiative would enable tokenized deposits to move instantly and support around-the-clock settlement, the Wall Street Journal reported.</p>\n\n<p>The initiative would enable tokenized deposits to move",
+      "impact": {}
+    },
     {
       "event_id": "14a00156-27d9-408e-879c-37afb9ef820a",
       "source": "rss:cointelegraph",
@@ -32,10 +56,16 @@
       "url": "https://bitcoinmagazine.com/news/bitcoin-as-pompliano-stays-bullish",
       "event_type": "listing",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-04T21:12:41+00:00",
       "raw_text": "Bitcoin’s Pullback Tests Institutional Adoption Narrative as Pompliano Stays Bullish\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strive-ASST-Adds-185-Million-in-Bitcoin-as-Holdings-Reach-19000-BT",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2851,
+        "t_plus_15m": 0.0242,
+        "t_plus_1h": -0.3019
+      }
     },
     {
       "event_id": "5630e428-b85f-4d19-91d8-d8cc1bf78bd1",
@@ -6461,34 +6491,16 @@
       "timestamp_utc": "2026-05-29T18:03:31+00:00",
       "raw_text": "Retired Couple Loses $76,000 Life Savings to Bitcoin ATM Scam, Sues Bitcoin Depot in Federal Court\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Retired-Couple-Loses-76000-Life-Savings-to-Bitcoin-A",
       "impact": {}
-    },
-    {
-      "event_id": "8545a0e9-fa09-4294-9ff6-3604833b92f0",
-      "source": "rss:cointelegraph",
-      "title": "Coinbase brings global crypto derivatives markets to US institutional clients",
-      "url": "https://cointelegraph.com/news/coinbase-regulated-access-global-crypto-perpetual-futures-options-us-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-05-29T17:56:33+00:00",
-      "raw_text": "Coinbase brings global crypto derivatives markets to US institutional clients\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase brings global crypto derivatives markets to US institutional clients\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
-      "impact": {}
-    },
-    {
-      "event_id": "da27f68e-d136-4e1e-98d1-a8ad83b39897",
-      "source": "rss:theblock",
-      "title": "JPMorgan CEO Jamie Dimon blasts Coinbase’s Brian Armstrong, plans to fight Clarity Act",
-      "url": "https://www.theblock.co/post/403049/jpmorgan-ceo-jamie-dimon-blasts-coinbases-brian-armstrong-plans-fight-clarity-act?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-05-29T17:52:02+00:00",
-      "raw_text": "JPMorgan CEO Jamie Dimon blasts Coinbase’s Brian Armstrong, plans to fight Clarity Act\n\n<p>Dimon said Coinbase's Armstrong is spending hundreds of millions of dollars trying to get Clarity Act passed.</p>\n\n<p>Dimon said Coinbase's Armstrong is spending hundreds of millions of dollars trying to get C",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 23,
+        "avg_1h": 0.05,
+        "avg_24h": -0.89,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 213,
         "avg_1h": 0.35,
@@ -6496,14 +6508,14 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 159,
+        "count": 158,
         "avg_1h": 0.32,
         "avg_24h": -4.98,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
         "count": 15,
-        "avg_1h": 0.15,
+        "avg_1h": -0.0,
         "avg_24h": -2.76,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6511,12 +6523,6 @@
         "count": 87,
         "avg_1h": 0.26,
         "avg_24h": -2.04,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 22,
-        "avg_1h": 0.05,
-        "avg_24h": -0.89,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
