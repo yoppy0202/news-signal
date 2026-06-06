@@ -1,6 +1,37 @@
 {
-  "generated_at": "2026-06-06T04:16:38.820749+00:00",
+  "generated_at": "2026-06-06T08:00:16.233895+00:00",
   "events": [
+    {
+      "event_id": "f0e343b0-d90a-40f6-b647-0bdd17354b75",
+      "source": "rss:coindesk",
+      "title": "Bitcoin back above $61,000 after rout leads to $1.6 billion liquidations",
+      "url": "https://www.coindesk.com/markets/2026/06/06/bitcoin-back-above-usd61-000-after-rout-leads-to-usd1-6-billion-liquidations",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-06T06:40:17+00:00",
+      "raw_text": "Bitcoin back above $61,000 after rout leads to $1.6 billion liquidations",
+      "impact": {}
+    },
+    {
+      "event_id": "0e04a82b-fb87-46d1-af83-bd0451d7e73f",
+      "source": "rss:coindesk",
+      "title": "Cardano social activity surges as ADA falls under 20 cents to four-year lows",
+      "url": "https://www.coindesk.com/markets/2026/06/06/cardano-social-activity-surges-as-ada-falls-under-20-cents-to-four-year-lows",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [
+        "ADA"
+      ],
+      "timestamp_utc": "2026-06-06T03:30:00+00:00",
+      "raw_text": "Cardano social activity surges as ADA falls under 20 cents to four-year lows",
+      "impact": {
+        "t_plus_5m": 3.2989,
+        "t_plus_15m": 3.1723,
+        "t_plus_1h": 0.2757,
+        "t_plus_4h": 4.1874
+      }
+    },
     {
       "event_id": "c319acd6-7797-4626-9175-b304bd8df531",
       "source": "rss:cointelegraph",
@@ -16,7 +47,8 @@
       "impact": {
         "t_plus_5m": 0.1394,
         "t_plus_15m": 0.0252,
-        "t_plus_1h": -0.6065
+        "t_plus_1h": -0.6065,
+        "t_plus_4h": -1.591
       }
     },
     {
@@ -6507,36 +6539,12 @@
       "timestamp_utc": "2026-06-01T08:49:18+00:00",
       "raw_text": "Digital euro is key to counter stablecoin risks, says ECB’s Schnabel\n\n<p>Isabel Schnabel, an ECB board member, said Monday that central banks should respond to stablecoin risks with strong regulation and CBDCs.</p>\n\n<p>Isabel Schnabel, an ECB board member, said Monday that central banks should respo",
       "impact": {}
-    },
-    {
-      "event_id": "c8e47eca-8c3f-4e01-bc24-1d71d16948de",
-      "source": "rss:cointelegraph",
-      "title": "NYDIG suggests $1.3B IBIT sale was whale exiting directional trade",
-      "url": "https://cointelegraph.com/news/nydig-ibit-whale-exit-directional-bitcoin-trade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "whale_move",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-01T07:09:14+00:00",
-      "raw_text": "NYDIG suggests $1.3B IBIT sale was whale exiting directional trade\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"NYDIG suggests $1.3B IBIT sale was whale exiting directional trade\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pb",
-      "impact": {}
-    },
-    {
-      "event_id": "486cfa8b-793b-42b3-a40c-71a3628b8a04",
-      "source": "rss:cointelegraph",
-      "title": "Anchorage rolls out platform to reduce crypto trading counterparty risk",
-      "url": "https://cointelegraph.com/news/anchorage-launches-settlement-network-for-institutional-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-01T07:00:00+00:00",
-      "raw_text": "Anchorage rolls out platform to reduce crypto trading counterparty risk\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Anchorage rolls out platform to reduce crypto trading counterparty risk\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 226,
+        "count": 227,
         "avg_1h": 0.31,
         "avg_24h": -2.55,
         "win_rate_1h_gt5pct": 0.0
@@ -6566,7 +6574,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
-        "count": 5,
+        "count": 4,
         "avg_1h": null,
         "avg_24h": null,
         "win_rate_1h_gt5pct": null
