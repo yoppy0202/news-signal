@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-06-06T18:18:44.703104+00:00",
+  "generated_at": "2026-06-06T20:19:09.588108+00:00",
   "events": [
+    {
+      "event_id": "333583df-bbf2-45c1-842b-fe8f1e09d17d",
+      "source": "rss:theblock",
+      "title": "Hyperion DeFi to unwind $29 million in HYPE deals with Felix, Native Markets as USDH sunsets",
+      "url": "https://www.theblock.co/post/403879/hyperion-defi-to-unwind-29m-in-hype-deals-with-felix-native-markets-as-usdh-sunsets?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-06T19:40:36+00:00",
+      "raw_text": "Hyperion DeFi to unwind $29 million in HYPE deals with Felix, Native Markets as USDH sunsets\n\n<p>Roughly 800,000 HYPE will return to the company's treasury for redeployment to \"more profitable\" strategies, per a Friday filing. </p>\n\n<p>Roughly 800,000 HYPE will return to the company's treasury for r",
+      "impact": {}
+    },
+    {
+      "event_id": "27e60b02-a4e4-4963-afb7-693037243738",
+      "source": "rss:decrypt",
+      "title": "Claude Code Vulnerability Could Let Attackers Steal Credentials From GitHub, Says Microsoft",
+      "url": "https://decrypt.co/370238/claude-code-vulnerability-attackers-steal-credentials-github-microsoft",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-06T18:08:56+00:00",
+      "raw_text": "Claude Code Vulnerability Could Let Attackers Steal Credentials From GitHub, Says Microsoft\n\nResearchers say prompt injection attacks could manipulate AI coding agents to access sensitive credentials stored in software development pipelines.",
+      "impact": {}
+    },
+    {
+      "event_id": "922e7339-8c4f-40d3-8652-91d6438b92bf",
+      "source": "rss:theblock",
+      "title": "Wallet linked to Ethereum co-founder Joseph Lubin moves 110,000 ETH to defend $259 million DAI debt position",
+      "url": "https://www.theblock.co/post/403876/wallet-linked-to-ethereum-co-founder-joseph-lubin-moves-110000-eth-to-defend-259m-dai-debt-position?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-06T17:21:19+00:00",
+      "raw_text": "Wallet linked to Ethereum co-founder Joseph Lubin moves 110,000 ETH to defend $259 million DAI debt position\n\n<p>Onchain analysts described the move as defensive collateral management to reduce liquidation risk, not likely a sale.</p>\n\n<p>Onchain analysts described the move as defensive collateral m",
+      "impact": {}
+    },
     {
       "event_id": "e70417ea-a587-4c8f-a8bd-40238810b92c",
       "source": "rss:coindesk",
@@ -20,10 +56,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-most-oversold-since-2020-crash-can-btc-rebound-to-70k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-06T16:06:54+00:00",
       "raw_text": "Bitcoin most oversold since 2020 crash: Can BTC rebound to $70K next?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin most oversold since 2020 crash: Can BTC rebound to $70K next?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2819,
+        "t_plus_15m": 0.1949,
+        "t_plus_1h": 0.1528
+      }
     },
     {
       "event_id": "7dd2019b-672a-4640-b5c5-1217eca862ac",
@@ -386,7 +428,8 @@
         "t_plus_5m": 1.8808,
         "t_plus_15m": 1.0225,
         "t_plus_1h": 0.8716,
-        "t_plus_4h": 2.6393
+        "t_plus_4h": 2.6393,
+        "t_plus_24h": 0.8694
       }
     },
     {
@@ -6497,62 +6540,26 @@
       "timestamp_utc": "2026-06-01T11:46:35+00:00",
       "raw_text": "Bitcoin ETF Losses Near $3B Across 10 Days as YTD Flows Turn Negative\n\nU.S. spot Bitcoin ETFs extended their outflow streak to 10 days, as crypto markets contend with multiple simultaneous headwinds.",
       "impact": {}
-    },
-    {
-      "event_id": "37bf0a68-7da1-4e2b-bf6b-27f198c95a78",
-      "source": "rss:cointelegraph",
-      "title": "Binance adds US stock trading in push beyond crypto",
-      "url": "https://cointelegraph.com/news/binance-launches-tokenized-stocks-245-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-01T11:30:08+00:00",
-      "raw_text": "Binance adds US stock trading in push beyond crypto\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance adds US stock trading in push beyond crypto\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9",
-      "impact": {}
-    },
-    {
-      "event_id": "043ea642-33d9-45f6-ba6e-de7ccb0c387a",
-      "source": "rss:cointelegraph",
-      "title": "ECB official says stablecoins risk importing old market flaws",
-      "url": "https://cointelegraph.com/news/ecb-stablecoins-public-money-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-01T11:21:55+00:00",
-      "raw_text": "ECB official says stablecoins risk importing old market flaws\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ECB official says stablecoins risk importing old market flaws\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3R",
-      "impact": {}
-    },
-    {
-      "event_id": "3a94f5ab-aacd-458b-a48c-a910a27619d6",
-      "source": "rss:coindesk",
-      "title": "Bitcoin remains under pressure as ETF outflows, higher oil prices weigh on crypto markets",
-      "url": "https://www.coindesk.com/daybook-us/2026/06/01/bitcoin-remains-under-pressure-as-etf-outflows-higher-oil-prices-weigh-on-crypto-markets",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-01T11:15:00+00:00",
-      "raw_text": "Bitcoin remains under pressure as ETF outflows, higher oil prices weigh on crypto markets",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 232,
-        "avg_1h": 0.31,
-        "avg_24h": -2.55,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 159,
+        "count": 161,
         "avg_1h": 0.25,
         "avg_24h": -3.41,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 16,
+        "count": 17,
         "avg_1h": 0.45,
-        "avg_24h": -0.54,
+        "avg_24h": 0.17,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 230,
+        "avg_1h": 0.31,
+        "avg_24h": -2.55,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
@@ -6562,7 +6569,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 73,
+        "count": 72,
         "avg_1h": 0.09,
         "avg_24h": -3.62,
         "win_rate_1h_gt5pct": 0.0
