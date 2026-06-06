@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-06-06T16:16:58.028815+00:00",
+  "generated_at": "2026-06-06T18:18:44.703104+00:00",
   "events": [
+    {
+      "event_id": "e70417ea-a587-4c8f-a8bd-40238810b92c",
+      "source": "rss:coindesk",
+      "title": "Meta is paying creators in Stablecoins. Spending them is someone else's problem",
+      "url": "https://www.coindesk.com/opinion/2026/06/06/meta-is-paying-creators-in-stablecoins-spending-them-is-someone-else-s-problem",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-06T16:30:00+00:00",
+      "raw_text": "Meta is paying creators in Stablecoins. Spending them is someone else's problem",
+      "impact": {}
+    },
+    {
+      "event_id": "b7daf47f-d152-4d37-8ae9-a7cb00d3eda9",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin most oversold since 2020 crash: Can BTC rebound to $70K next?",
+      "url": "https://cointelegraph.com/markets/bitcoin-most-oversold-since-2020-crash-can-btc-rebound-to-70k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-06T16:06:54+00:00",
+      "raw_text": "Bitcoin most oversold since 2020 crash: Can BTC rebound to $70K next?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin most oversold since 2020 crash: Can BTC rebound to $70K next?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
+      "impact": {}
+    },
+    {
+      "event_id": "7dd2019b-672a-4640-b5c5-1217eca862ac",
+      "source": "rss:decrypt",
+      "title": "Bitcoin Has Dumped All of Its Gains Since Trump Was Reelected—And Then Some",
+      "url": "https://decrypt.co/370235/bitcoin-dumped-gains-since-trump-reelected-then-some",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-06T15:59:30+00:00",
+      "raw_text": "Bitcoin Has Dumped All of Its Gains Since Trump Was Reelected—And Then Some\n\nBitcoin surged in the wake of President Trump's reelection, pushing to new highs deep into 2025. Now it's down more than 50% from that peak.",
+      "impact": {}
+    },
+    {
+      "event_id": "b7fc9c2a-cbff-4148-b9b2-dac0957bb6f9",
+      "source": "rss:coindesk",
+      "title": "America’s largest banks are building a new digital currency network to stop a massive deposit drain",
+      "url": "https://www.coindesk.com/business/2026/06/06/america-s-largest-banks-are-building-a-new-digital-currency-network-to-stop-a-massive-deposit-drain",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-06T15:59:00+00:00",
+      "raw_text": "America’s largest banks are building a new digital currency network to stop a massive deposit drain",
+      "impact": {}
+    },
     {
       "event_id": "347931e5-f616-4a0f-b98d-ab1b4231940a",
       "source": "rss:coindesk",
@@ -501,7 +549,8 @@
         "t_plus_5m": -1.0379,
         "t_plus_15m": -0.678,
         "t_plus_1h": -0.1219,
-        "t_plus_4h": -2.0669
+        "t_plus_4h": -2.0669,
+        "t_plus_24h": -0.2634
       }
     },
     {
@@ -6484,67 +6533,12 @@
       "timestamp_utc": "2026-06-01T11:15:00+00:00",
       "raw_text": "Bitcoin remains under pressure as ETF outflows, higher oil prices weigh on crypto markets",
       "impact": {}
-    },
-    {
-      "event_id": "fcb17296-2fa9-43c4-8ce4-14681a2acb17",
-      "source": "rss:decrypt",
-      "title": "Coinbase Launches Direct Indian Rupee Deposit and Withdrawal Rails",
-      "url": "https://decrypt.co/369580/coinbase-launches-direct-indian-rupee-deposit-and-withdrawal-rails",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-01T11:11:26+00:00",
-      "raw_text": "Coinbase Launches Direct Indian Rupee Deposit and Withdrawal Rails\n\nThe U.S. exchange has established direct rupee trading rails for Indian customers after securing regulatory clearance.",
-      "impact": {}
-    },
-    {
-      "event_id": "d629a1e6-c55b-4029-9bd8-ec69d723039b",
-      "source": "rss:theblock",
-      "title": "Binance adds over 7,000 US stocks and ETFs for traders outside the United States amid super app push",
-      "url": "https://www.theblock.co/post/403155/binance-adds-us-stocks-etfs-traders-outside-united-states-super-app-push?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BNB"
-      ],
-      "timestamp_utc": "2026-06-01T10:48:36+00:00",
-      "raw_text": "Binance adds over 7,000 US stocks and ETFs for traders outside the United States amid super app push\n\n<p>Binance launched U.S. stock and ETF trading for non-U.S. users and has plans for tokenized equities on BNB Chain.</p>\n\n<p>Binance launched U.S. stock and ETF trading for non-U.S. users and has pl",
-      "impact": {
-        "t_plus_5m": 1.3946,
-        "t_plus_15m": 1.9336,
-        "t_plus_1h": 1.2209,
-        "t_plus_4h": -1.6925
-      }
-    },
-    {
-      "event_id": "0c51d76d-a7cc-4b9f-a4ee-9aec8efdbc84",
-      "source": "rss:coindesk",
-      "title": "Cardano Summit 2026 canceled after community votes against Foundation funding proposal",
-      "url": "https://www.coindesk.com/markets/2026/06/01/cardano-governance-vote-kills-summit-approves-smaller-token2049-plan",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-01T10:46:51+00:00",
-      "raw_text": "Cardano Summit 2026 canceled after community votes against Foundation funding proposal",
-      "impact": {}
-    },
-    {
-      "event_id": "a859b3b6-385e-4c88-851c-201f5b64bcfd",
-      "source": "rss:coindesk",
-      "title": "Strategy holds STRC dividend at 11.5% for fourth straight month",
-      "url": "https://www.coindesk.com/markets/2026/06/01/strategy-holds-strc-dividend-at-11-5-for-fourth-straight-month",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-01T10:37:27+00:00",
-      "raw_text": "Strategy holds STRC dividend at 11.5% for fourth straight month",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 230,
+        "count": 232,
         "avg_1h": 0.31,
         "avg_24h": -2.55,
         "win_rate_1h_gt5pct": 0.0
@@ -6552,7 +6546,7 @@
       "narrative": {
         "count": 159,
         "avg_1h": 0.25,
-        "avg_24h": -4.98,
+        "avg_24h": -3.41,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
@@ -6568,8 +6562,8 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 75,
-        "avg_1h": 0.17,
+        "count": 73,
+        "avg_1h": 0.09,
         "avg_24h": -3.62,
         "win_rate_1h_gt5pct": 0.0
       },
