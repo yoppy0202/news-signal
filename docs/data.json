@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-06-06T20:19:09.588108+00:00",
+  "generated_at": "2026-06-06T22:14:26.710007+00:00",
   "events": [
+    {
+      "event_id": "06d141bf-fcaa-4d14-b2f2-e3a43eaaba8b",
+      "source": "rss:decrypt",
+      "title": "AI Is Helping Discover Tech Vulnerabilities—And Zcash Is Just the Latest Example",
+      "url": "https://decrypt.co/370237/ai-discover-tech-vulnerabilities-zcash-latest-example",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-06T20:56:43+00:00",
+      "raw_text": "AI Is Helping Discover Tech Vulnerabilities—And Zcash Is Just the Latest Example\n\nFrontier AI models have evolved into bug-finding tools, uncovering vulnerabilities across the tech world—and now in crypto too.",
+      "impact": {}
+    },
+    {
+      "event_id": "ca974840-d14d-469f-b2e8-bd13860ceff8",
+      "source": "rss:coindesk",
+      "title": "Bitcoin, ether eye worst weekly rout since FTX collapse as cryptos shed $390 billion",
+      "url": "https://www.coindesk.com/markets/2026/06/06/bitcoin-ether-eye-worst-weekly-rout-since-ftx-collapse-as-cryptos-shed-usd390-billion",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-06T19:58:54+00:00",
+      "raw_text": "Bitcoin, ether eye worst weekly rout since FTX collapse as cryptos shed $390 billion",
+      "impact": {}
+    },
     {
       "event_id": "333583df-bbf2-45c1-842b-fe8f1e09d17d",
       "source": "rss:theblock",
@@ -32,10 +56,16 @@
       "url": "https://www.theblock.co/post/403876/wallet-linked-to-ethereum-co-founder-joseph-lubin-moves-110000-eth-to-defend-259m-dai-debt-position?utm_source=rss&utm_medium=rss",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-06-06T17:21:19+00:00",
       "raw_text": "Wallet linked to Ethereum co-founder Joseph Lubin moves 110,000 ETH to defend $259 million DAI debt position\n\n<p>Onchain analysts described the move as defensive collateral management to reduce liquidation risk, not likely a sale.</p>\n\n<p>Onchain analysts described the move as defensive collateral m",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2463,
+        "t_plus_15m": 0.5054,
+        "t_plus_1h": -0.2087
+      }
     },
     {
       "event_id": "e70417ea-a587-4c8f-a8bd-40238810b92c",
@@ -64,7 +94,8 @@
       "impact": {
         "t_plus_5m": 0.2819,
         "t_plus_15m": 0.1949,
-        "t_plus_1h": 0.1528
+        "t_plus_1h": 0.1528,
+        "t_plus_4h": -0.1637
       }
     },
     {
@@ -313,7 +344,8 @@
         "t_plus_5m": -2.2075,
         "t_plus_15m": -2.1488,
         "t_plus_1h": 0.0316,
-        "t_plus_4h": 0.0519
+        "t_plus_4h": 0.0519,
+        "t_plus_24h": -0.5078
       }
     },
     {
@@ -6516,50 +6548,26 @@
       "timestamp_utc": "2026-06-01T11:50:13+00:00",
       "raw_text": "Bitcoin ETPs post largest 2026 outflow as crypto funds bleed $1.67B\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETPs post largest 2026 outflow as crypto funds bleed $1.67B\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1",
       "impact": {}
-    },
-    {
-      "event_id": "fc47c12c-f9f6-4e8b-9127-06cd63c4dfd3",
-      "source": "rss:theblock",
-      "title": "US-based funds drive $1.7B in global crypto ETP outflows as redemption streak extends to three weeks: CoinShares",
-      "url": "https://www.theblock.co/post/403167/us-based-funds-drive-1-7b-in-global-crypto-etp-outflows-as-redemption-streak-extends-to-three-weeks-coinshares?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-01T11:50:00+00:00",
-      "raw_text": "US-based funds drive $1.7B in global crypto ETP outflows as redemption streak extends to three weeks: CoinShares\n\n<p>Global crypto ETP outflows hit $1.67 billion last week as Bitcoin products recorded their biggest weekly outflow of the year.</p>\n\n<p>Global crypto ETP outflows hit $1.67 billion last",
-      "impact": {}
-    },
-    {
-      "event_id": "eec70da0-19e3-4ea6-96b8-b6742ca12de4",
-      "source": "rss:decrypt",
-      "title": "Bitcoin ETF Losses Near $3B Across 10 Days as YTD Flows Turn Negative",
-      "url": "https://decrypt.co/369583/bitcoin-etf-losses-near-3b-across-10-days-as-ytd-flows-turn-negative",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-01T11:46:35+00:00",
-      "raw_text": "Bitcoin ETF Losses Near $3B Across 10 Days as YTD Flows Turn Negative\n\nU.S. spot Bitcoin ETFs extended their outflow streak to 10 days, as crypto markets contend with multiple simultaneous headwinds.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 161,
-        "avg_1h": 0.25,
+        "count": 162,
+        "avg_1h": 0.22,
         "avg_24h": -3.41,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 230,
+        "avg_1h": 0.31,
+        "avg_24h": -2.37,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
         "count": 17,
         "avg_1h": 0.45,
         "avg_24h": 0.17,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 230,
-        "avg_1h": 0.31,
-        "avg_24h": -2.55,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
@@ -6569,7 +6577,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 72,
+        "count": 71,
         "avg_1h": 0.09,
         "avg_24h": -3.62,
         "win_rate_1h_gt5pct": 0.0
