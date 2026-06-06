@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T23:22:57.444355+00:00",
+  "generated_at": "2026-06-06T04:16:38.820749+00:00",
   "events": [
     {
       "event_id": "c319acd6-7797-4626-9175-b304bd8df531",
@@ -8,10 +8,16 @@
       "url": "https://cointelegraph.com/markets/eth-falls-to-13-month-low-on-zcash-bug-news-and-bitcoin-drop-to-sub-60k-is-14k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-06-05T22:18:29+00:00",
       "raw_text": "ETH falls to 13-month low on Zcash bug news and Bitcoin drop to sub-$60K: Is $1.4K next?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ETH falls to 13-month low on Zcash bug news and Bitcoin drop to sub-$60K: Is $1.4K next?\" class=\"type:primaryImage\" src=\"https://images.co",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1394,
+        "t_plus_15m": 0.0252,
+        "t_plus_1h": -0.6065
+      }
     },
     {
       "event_id": "90aec4ef-ebaf-4345-ac18-ba0565c3966d",
@@ -88,7 +94,8 @@
       "impact": {
         "t_plus_5m": -2.2075,
         "t_plus_15m": -2.1488,
-        "t_plus_1h": 0.0316
+        "t_plus_1h": 0.0316,
+        "t_plus_4h": 0.0519
       }
     },
     {
@@ -6530,7 +6537,7 @@
     "by_event_type": {
       "unknown": {
         "count": 226,
-        "avg_1h": 0.35,
+        "avg_1h": 0.31,
         "avg_24h": -2.55,
         "win_rate_1h_gt5pct": 0.0
       },
