@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-06T14:51:24.765296+00:00",
+  "generated_at": "2026-06-06T16:16:58.028815+00:00",
   "events": [
+    {
+      "event_id": "347931e5-f616-4a0f-b98d-ab1b4231940a",
+      "source": "rss:coindesk",
+      "title": "A crypto pioneer who turned a $20 million family stake into a billion-dollar fund doubles down on bitcoin",
+      "url": "https://www.coindesk.com/business/2026/06/06/a-crypto-pioneer-who-turned-a-usd20-million-family-stake-into-a-billion-dollar-fund-doubles-down-on-bitcoin",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-06T15:00:00+00:00",
+      "raw_text": "A crypto pioneer who turned a $20 million family stake into a billion-dollar fund doubles down on bitcoin",
+      "impact": {}
+    },
     {
       "event_id": "c7dad445-11df-4639-9e05-04fc805a3754",
       "source": "rss:decrypt",
@@ -6527,24 +6539,12 @@
       "timestamp_utc": "2026-06-01T10:37:27+00:00",
       "raw_text": "Strategy holds STRC dividend at 11.5% for fourth straight month",
       "impact": {}
-    },
-    {
-      "event_id": "3212410d-9d8a-43f9-b20f-45fe870fa513",
-      "source": "rss:theblock",
-      "title": "‘Gnosis will cover all user losses’ amid exploit related to Gnosis Pay, co-founder Koppelmann says",
-      "url": "https://www.theblock.co/post/403147/gnosis-will-cover-all-user-losses-amid-exploit-related-to-gnosis-pay-co-founder-koppelmann-says?utm_source=rss&utm_medium=rss",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-01T10:14:19+00:00",
-      "raw_text": "‘Gnosis will cover all user losses’ amid exploit related to Gnosis Pay, co-founder Koppelmann says\n\n<p>Gnosis co-founder Martin Koppelmann said all user losses will be covered as containment efforts continue following an exploit.</p>\n\n<p>Gnosis co-founder Martin Koppelmann said all user losses will ",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 229,
+        "count": 230,
         "avg_1h": 0.31,
         "avg_24h": -2.55,
         "win_rate_1h_gt5pct": 0.0
@@ -6556,7 +6556,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 17,
+        "count": 16,
         "avg_1h": 0.45,
         "avg_24h": -0.54,
         "win_rate_1h_gt5pct": 0.0
