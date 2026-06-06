@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-06T10:17:22.227254+00:00",
+  "generated_at": "2026-06-06T12:14:17.596261+00:00",
   "events": [
+    {
+      "event_id": "94a66061-6532-4316-bae3-2fc0476e44bf",
+      "source": "rss:coindesk",
+      "title": "Are retail traders selling their bitcoin to buy the SpaceX IPO?",
+      "url": "https://www.coindesk.com/markets/2026/06/06/are-retail-traders-selling-their-bitcoin-to-buy-the-spacex-ipo",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-06T09:45:15+00:00",
+      "raw_text": "Are retail traders selling their bitcoin to buy the SpaceX IPO?",
+      "impact": {}
+    },
     {
       "event_id": "89d86c90-f247-4267-9e0f-a4e53418cf09",
       "source": "rss:coindesk",
@@ -6527,30 +6539,18 @@
       "timestamp_utc": "2026-06-01T09:45:49+00:00",
       "raw_text": "Coinbase launches rupee bank rails in India after FIU nod\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase launches rupee bank rails in India after FIU nod\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5",
       "impact": {}
-    },
-    {
-      "event_id": "50b932e7-3d78-4f67-84d4-95994b3bf2fd",
-      "source": "rss:cointelegraph",
-      "title": "Trump says Iran will ‘work out well’: Five things to know in Bitcoin this week",
-      "url": "https://cointelegraph.com/markets/trump-says-iran-will-work-out-well-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-01T08:56:01+00:00",
-      "raw_text": "Trump says Iran will ‘work out well’: Five things to know in Bitcoin this week\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump says Iran will ‘work out well’: Five things to know in Bitcoin this week\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/imag",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 161,
+        "count": 162,
         "avg_1h": 0.25,
         "avg_24h": -4.98,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 227,
+        "count": 226,
         "avg_1h": 0.31,
         "avg_24h": -2.55,
         "win_rate_1h_gt5pct": 0.0
