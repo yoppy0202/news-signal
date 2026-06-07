@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-07T18:17:08.943909+00:00",
+  "generated_at": "2026-06-07T20:22:12.825472+00:00",
   "events": [
+    {
+      "event_id": "afd85b71-ddeb-48a6-9a47-f1c2257a859d",
+      "source": "rss:decrypt",
+      "title": "Frontier AI Models Can Find Crypto's Biggest Bugs. Experts Warn the Industry Isn't Ready",
+      "url": "https://decrypt.co/370232/frontier-ai-models-find-crypto-bugs-industry-isnt-ready",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-07T18:01:03+00:00",
+      "raw_text": "Frontier AI Models Can Find Crypto's Biggest Bugs. Experts Warn the Industry Isn't Ready\n\nThe Zcash vulnerability uncovered with help from Anthropic's Claude Opus 4.8 signals a shift in who may discover critical flaws first.",
+      "impact": {}
+    },
     {
       "event_id": "75863320-cce8-401a-9da3-a3890f2b77c7",
       "source": "rss:coindesk",
@@ -209,7 +221,8 @@
         "t_plus_5m": 0.2463,
         "t_plus_15m": 0.5054,
         "t_plus_1h": -0.2087,
-        "t_plus_4h": 0.2998
+        "t_plus_4h": 0.2998,
+        "t_plus_24h": 5.0882
       }
     },
     {
@@ -6510,39 +6523,20 @@
         "t_plus_1h": 0.153,
         "t_plus_4h": 0.3764
       }
-    },
-    {
-      "event_id": "e20dd61f-3ce4-4fdf-b4e4-c60369dd2b8e",
-      "source": "rss:theblock",
-      "title": "Dogecoin gains access to Paxos network used by PayPal and Venmo",
-      "url": "https://www.theblock.co/post/403193/dogecoin-gains-access-to-paxos-network-used-by-paypal-and-venmo?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [
-        "DOGE"
-      ],
-      "timestamp_utc": "2026-06-01T13:45:21+00:00",
-      "raw_text": "Dogecoin gains access to Paxos network used by PayPal and Venmo\n\n<p>House of Doge struck partnership with Paxos to integrate DOGE across the firm's enterprise-grade brokerage and custody infrastructure.</p>\n\n<p>House of Doge struck partnership with Paxos to integrate DOGE across the firm's enterpris",
-      "impact": {
-        "t_plus_5m": -0.5286,
-        "t_plus_15m": -1.0085,
-        "t_plus_1h": -1.2275,
-        "t_plus_4h": 0.1334
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 166,
+        "avg_1h": 0.33,
+        "avg_24h": -0.51,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 228,
         "avg_1h": 0.28,
         "avg_24h": -1.18,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 166,
-        "avg_1h": 0.24,
-        "avg_24h": -3.3,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
