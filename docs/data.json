@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-06-07T12:00:37.224952+00:00",
+  "generated_at": "2026-06-07T14:17:03.780060+00:00",
   "events": [
+    {
+      "event_id": "f1f89da5-db72-4bfe-aa95-45718efdacc9",
+      "source": "rss:decrypt",
+      "title": "Claude Opus 4.8 Review: Better At What’s It Good At, Worse At What It’s Not",
+      "url": "https://decrypt.co/370128/claude-opus-4-8-review",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-07T13:01:06+00:00",
+      "raw_text": "Claude Opus 4.8 Review: Better At What’s It Good At, Worse At What It’s Not\n\nAnthropic's new flagship aced our math problem and shipped a spotless game—then drained our entire token quota in a single prompt. We ran it through six tests, and here's how it did.",
+      "impact": {}
+    },
+    {
+      "event_id": "147a3e92-b98f-44f0-b2aa-46692ee947c1",
+      "source": "rss:coindesk",
+      "title": "Ethereum Foundation cuts and departures aren't a crisis, Joe Lubin says",
+      "url": "https://www.coindesk.com/tech/2026/06/07/ethereum-foundation-cuts-and-departures-aren-t-a-crisis-joe-lubin-says",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-07T13:00:00+00:00",
+      "raw_text": "Ethereum Foundation cuts and departures aren't a crisis, Joe Lubin says",
+      "impact": {}
+    },
     {
       "event_id": "23b2fdde-1042-490e-9e4f-5a39fb68146a",
       "source": "rss:theblock",
@@ -6527,50 +6551,26 @@
         "t_plus_4h": -1.6132,
         "t_plus_24h": -3.6208
       }
-    },
-    {
-      "event_id": "7bd343f2-7367-4a53-aed7-6082379f24de",
-      "source": "rss:coindesk",
-      "title": "Michael Saylor's Strategy sold 32 bitcoin for $2.5 million to fund dividend payments",
-      "url": "https://www.coindesk.com/markets/2026/06/01/strategy-sold-32-btc-for-usd2-5-million-in-late-may-filing-shows",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-01T12:07:17+00:00",
-      "raw_text": "Michael Saylor's Strategy sold 32 bitcoin for $2.5 million to fund dividend payments",
-      "impact": {}
-    },
-    {
-      "event_id": "2d8457df-e9c2-4b60-87db-eff30d30f063",
-      "source": "rss:coindesk",
-      "title": "Strategy sold 32 bitcoin for $2.5 million in late May, filing shows",
-      "url": "https://www.coindesk.com/markets/2026/06/01/strategy-sold-32-btc-for-usd2-5-million-in-late-may-filing-shows",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-01T12:07:17+00:00",
-      "raw_text": "Strategy sold 32 bitcoin for $2.5 million in late May, filing shows",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 163,
-        "avg_1h": 0.22,
-        "avg_24h": -3.41,
+      "hack": {
+        "count": 18,
+        "avg_1h": 0.45,
+        "avg_24h": 0.17,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 229,
+        "count": 228,
         "avg_1h": 0.31,
         "avg_24h": -1.58,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 17,
-        "avg_1h": 0.45,
-        "avg_24h": 0.17,
+      "narrative": {
+        "count": 163,
+        "avg_1h": 0.22,
+        "avg_24h": -3.41,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
