@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-06T22:14:26.710007+00:00",
+  "generated_at": "2026-06-07T00:15:35.118591+00:00",
   "events": [
+    {
+      "event_id": "23b2fdde-1042-490e-9e4f-5a39fb68146a",
+      "source": "rss:theblock",
+      "title": "HTX to delist Trump-linked USD1 after saying World Liberty Financial froze exchange-linked addresses",
+      "url": "https://www.theblock.co/post/403885/htx-to-delist-trump-linked-usd1-after-saying-world-liberty-financial-froze-exchange-linked-addresses?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-06T21:03:25+00:00",
+      "raw_text": "HTX to delist Trump-linked USD1 after saying World Liberty Financial froze exchange-linked addresses\n\n<p>The move follows World Liberty Financial's apparent freeze of HTX-linked on-chain addresses, citing UK sanctions compliance, per HTX. </p>\n\n<p>The move follows World Liberty Financial's apparent ",
+      "impact": {}
+    },
     {
       "event_id": "06d141bf-fcaa-4d14-b2f2-e3a43eaaba8b",
       "source": "rss:decrypt",
@@ -64,7 +76,8 @@
       "impact": {
         "t_plus_5m": 0.2463,
         "t_plus_15m": 0.5054,
-        "t_plus_1h": -0.2087
+        "t_plus_1h": -0.2087,
+        "t_plus_4h": 0.2998
       }
     },
     {
@@ -6536,30 +6549,18 @@
       "timestamp_utc": "2026-06-01T12:07:17+00:00",
       "raw_text": "Strategy sold 32 bitcoin for $2.5 million in late May, filing shows",
       "impact": {}
-    },
-    {
-      "event_id": "40d6cbf2-9b48-4963-aff8-3871d0b6b578",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin ETPs post largest 2026 outflow as crypto funds bleed $1.67B",
-      "url": "https://cointelegraph.com/news/crypto-etps-bleed-1-67-billion-altcoin-participation-collapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-01T11:50:13+00:00",
-      "raw_text": "Bitcoin ETPs post largest 2026 outflow as crypto funds bleed $1.67B\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETPs post largest 2026 outflow as crypto funds bleed $1.67B\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 162,
+        "count": 163,
         "avg_1h": 0.22,
         "avg_24h": -3.41,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 230,
+        "count": 229,
         "avg_1h": 0.31,
         "avg_24h": -2.37,
         "win_rate_1h_gt5pct": 0.0
