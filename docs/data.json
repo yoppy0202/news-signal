@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T22:15:27.456393+00:00",
+  "generated_at": "2026-06-08T00:19:48.049852+00:00",
   "events": [
     {
       "event_id": "968b68a2-af4c-4675-ada4-7f74bd4311d9",
@@ -20,10 +20,16 @@
       "url": "https://cointelegraph.com/markets/what-happens-to-bitcoin-if-the-nasdaq-falls-further?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-07T20:52:36+00:00",
       "raw_text": "What happens to Bitcoin if the Nasdaq falls further?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"What happens to Bitcoin if the Nasdaq falls further?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpY",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2806,
+        "t_plus_15m": 0.0004,
+        "t_plus_1h": -0.1266
+      }
     },
     {
       "event_id": "6c1b4e74-985f-4865-bf70-1506fbb94932",
@@ -44,10 +50,16 @@
       "url": "https://cointelegraph.com/news/strategys-saylor-signals-btc-buy-as-preferred-dividend-pay-date-vote-looms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-07T19:45:17+00:00",
       "raw_text": "Strategy’s Saylor signals BTC buy as preferred dividend pay date vote looms\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy’s Saylor signals BTC buy as preferred dividend pay date vote looms\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.8371,
+        "t_plus_15m": -0.7214,
+        "t_plus_1h": 0.0424
+      }
     },
     {
       "event_id": "afd85b71-ddeb-48a6-9a47-f1c2257a859d",
@@ -6521,7 +6533,7 @@
       },
       "unknown": {
         "count": 230,
-        "avg_1h": 0.28,
+        "avg_1h": 0.26,
         "avg_24h": -1.18,
         "win_rate_1h_gt5pct": 0.0
       },
