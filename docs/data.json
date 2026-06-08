@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-06-08T21:59:09.560726+00:00",
+  "generated_at": "2026-06-08T23:21:47.242636+00:00",
   "events": [
+    {
+      "event_id": "82291b33-69f2-4fad-8d7e-eef2dd9d5fae",
+      "source": "rss:decrypt",
+      "title": "OpenAI Wants to Kill the Chatbot It Invented and Turn It Into a Superapp",
+      "url": "https://decrypt.co/370467/openai-chagpt-chatbot-superapp",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-08T22:00:57+00:00",
+      "raw_text": "OpenAI Wants to Kill the Chatbot It Invented and Turn It Into a Superapp\n\nThe company that launched ChatGPT in 2022 is now betting its future on something closer to WeChat than a Q&#038;A box",
+      "impact": {}
+    },
+    {
+      "event_id": "20a3defc-6f59-45d4-a021-9bfd64899103",
+      "source": "rss:theblock",
+      "title": "Brazen bitcoin kidnapping and carjacking co-conspirator pleads guilty, faces up to 20 years in prison: DOJ",
+      "url": "https://www.theblock.co/post/404043/brazen-bitcoin-kidnapping-carjacking-pleads-guilty-faces-20-years-prison-doj?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-08T21:54:29+00:00",
+      "raw_text": "Brazen bitcoin kidnapping and carjacking co-conspirator pleads guilty, faces up to 20 years in prison: DOJ\n\n<p>Six men from Florida carjacked Sushil and Radhika Chetal's Lamborghini Urus, beat the couple and briefly detained them.</p>\n\n<p>Six men from Florida carjacked Sushil and Radhika Chetal's La",
+      "impact": {}
+    },
+    {
+      "event_id": "80ba32c0-7978-4a84-af46-f4ad7ad9dfe4",
+      "source": "rss:decrypt",
+      "title": "OpenAI Confirms Confidential IPO Filing, Keeps Timing Open",
+      "url": "https://decrypt.co/370468/openai-confidential-ipo-filing-keeps-timing-open",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-08T21:45:58+00:00",
+      "raw_text": "OpenAI Confirms Confidential IPO Filing, Keeps Timing Open\n\nThe ChatGPT maker says it has filed paperwork for a potential public offering but may remain private while it pursues other priorities.",
+      "impact": {}
+    },
+    {
+      "event_id": "d8353c9e-f52e-4df1-a8df-cbf1e757f781",
+      "source": "rss:bitcoinmagazine",
+      "title": "Coinbase Executive: Massive Institutions Are Buying Bitcoin’s Crash",
+      "url": "https://bitcoinmagazine.com/news/coinbase-executive-institutions-bitcoin",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-08T21:29:19+00:00",
+      "raw_text": "Coinbase Executive: Massive Institutions Are Buying Bitcoin’s Crash\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Charles-Schwab-Launches-247-Bitcoin-Futures-Trading-on-thinkorswim.jpg\" style=\"disp",
+      "impact": {}
+    },
+    {
+      "event_id": "ab7797fc-14df-42cc-87af-ccc92fedb010",
+      "source": "rss:theblock",
+      "title": "Crypto has ‘limited utility’ in solving AI’s trust and payment issues, IC3 researchers say",
+      "url": "https://www.theblock.co/post/404021/crypto-has-limited-utility-in-solving-ais-trust-and-payment-issues-ic3-researchers-say?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-08T21:23:31+00:00",
+      "raw_text": "Crypto has ‘limited utility’ in solving AI’s trust and payment issues, IC3 researchers say\n\n<p>The academic researchers attempt to debunk idea that giving AI agents access to crypto wallets has the ability to make them autonomous.</p>\n\n<p>The academic researchers attempt to debunk idea that giving A",
+      "impact": {}
+    },
     {
       "event_id": "145ccba7-b9a0-47ef-85ce-d3d46cbab260",
       "source": "rss:decrypt",
@@ -116,10 +176,16 @@
       "url": "https://cointelegraph.com/markets/best-thesis-for-bitcoin-accumulation-surfaces-despite-downside-risk-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "whale_move",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-08T18:11:29+00:00",
       "raw_text": "'Best thesis' for Bitcoin accumulation surfaces despite current downside risk: Analyst\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"'Best thesis' for Bitcoin accumulation surfaces despite current downside risk: Analyst\" class=\"type:primaryImage\" src=\"https://images.cointe",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0274,
+        "t_plus_15m": -0.0683,
+        "t_plus_1h": -0.1909
+      }
     },
     {
       "event_id": "267d3c43-b9d9-49f9-a1f4-ab1a0a6130f5",
@@ -172,7 +238,8 @@
       "impact": {
         "t_plus_5m": -0.0199,
         "t_plus_15m": 0.0923,
-        "t_plus_1h": 0.1066
+        "t_plus_1h": 0.1066,
+        "t_plus_4h": 0.5737
       }
     },
     {
@@ -214,7 +281,8 @@
       "impact": {
         "t_plus_5m": 0.0825,
         "t_plus_15m": -0.028,
-        "t_plus_1h": 0.2254
+        "t_plus_1h": 0.2254,
+        "t_plus_4h": 0.2087
       }
     },
     {
@@ -865,16 +933,35 @@
       "impact": {}
     },
     {
+      "event_id": "21255948-c584-427b-b847-b3d1d61a2760",
+      "source": "rss:cointelegraph",
+      "title": "MetaMask unveils self-custodial wallet for agentic DeFi trading",
+      "url": "https://cointelegraph.com/news/metamask-unveils-self-custodial-wallet-for-ai-powered-defi-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-08T07:00:00+00:00",
+      "raw_text": "MetaMask unveils self-custodial wallet for agentic DeFi trading\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MetaMask unveils self-custodial wallet for agentic DeFi trading\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXM",
+      "impact": {}
+    },
+    {
       "event_id": "6adcd8e0-daef-4c01-a490-e104ce631318",
       "source": "rss:cointelegraph",
       "title": "Bitmine boosts Ethereum treasury to 5.54M ETH, nearing 5% supply target",
       "url": "https://cointelegraph.com/news/bitmine-boosts-ethereum-treasury-to-554m-eth-nearing-5-supply-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-06-08T07:00:00+00:00",
       "raw_text": "Bitmine boosts Ethereum treasury to 5.54M ETH, nearing 5% supply target\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitmine boosts Ethereum treasury to 5.54M ETH, nearing 5% supply target \" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cH",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -1.8943,
+        "t_plus_15m": -1.5727,
+        "t_plus_1h": -1.4769,
+        "t_plus_4h": -1.5226
+      }
     },
     {
       "event_id": "1d0a17f3-0796-40f5-939b-d764cce550a9",
@@ -1062,7 +1149,8 @@
         "t_plus_5m": -1.6756,
         "t_plus_15m": -1.9503,
         "t_plus_1h": -2.0748,
-        "t_plus_4h": 1.2113
+        "t_plus_4h": 1.2113,
+        "t_plus_24h": 0.6173
       }
     },
     {
@@ -1081,7 +1169,8 @@
         "t_plus_5m": 0.2806,
         "t_plus_15m": 0.0004,
         "t_plus_1h": -0.1266,
-        "t_plus_4h": 3.2249
+        "t_plus_4h": 3.2249,
+        "t_plus_24h": 2.6192
       }
     },
     {
@@ -6398,90 +6487,26 @@
       "timestamp_utc": "2026-06-02T12:38:03+00:00",
       "raw_text": "Live markets: bitcoin loses $67,000 level in Tuesday plunge, putting February's lows back in play",
       "impact": {}
-    },
-    {
-      "event_id": "0c0a8cb1-2d58-454a-9e5c-df28b1b5bd03",
-      "source": "rss:coindesk",
-      "title": "Live markets: bitcoin's plunge continues, putting February $60,000 low back in play",
-      "url": "https://www.coindesk.com/markets/2026/06/02/live-markets-bitcoin-s-plunge-continues-putting-february-usd60-000-low-back-in-play",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-02T12:38:03+00:00",
-      "raw_text": "Live markets: bitcoin's plunge continues, putting February $60,000 low back in play",
-      "impact": {}
-    },
-    {
-      "event_id": "63cdf7ce-34d9-4140-8dbc-c3ab38e391a8",
-      "source": "rss:cointelegraph",
-      "title": "Capital B seeks $122B funding mandate to buy more Bitcoin",
-      "url": "https://cointelegraph.com/news/capital-b-shareholder-motion-58b-capital-increase-116b-credit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-02T12:35:58+00:00",
-      "raw_text": "Capital B seeks $122B funding mandate to buy more Bitcoin\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Capital B seeks $122B funding mandate to buy more Bitcoin\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5",
-      "impact": {}
-    },
-    {
-      "event_id": "9ca957c2-4c1c-4dc3-8512-67106cb551f3",
-      "source": "rss:coindesk",
-      "title": "Stellar CEO says Clarity Act would help, but tokenization isn't dependent on it",
-      "url": "https://www.coindesk.com/coindesk-news/2026/06/02/stellar-ceo-says-clarity-act-would-help-but-tokenization-isn-t-dependent-on-it",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-02T12:35:35+00:00",
-      "raw_text": "Stellar CEO says Clarity Act would help, but tokenization isn't dependent on it",
-      "impact": {}
-    },
-    {
-      "event_id": "b9501ec2-268b-43e9-bc23-458cc8638c26",
-      "source": "rss:coindesk",
-      "title": "Strive added 2,500 bitcoin last week to reach 19,000 BTC as Strategy sold",
-      "url": "https://www.coindesk.com/markets/2026/06/02/strive-adds-2-500-bitcoin-to-hit-19-000-btc-just-a-day-after-strategy-turns-seller",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-02T12:23:38+00:00",
-      "raw_text": "Strive added 2,500 bitcoin last week to reach 19,000 BTC as Strategy sold",
-      "impact": {
-        "t_plus_24h": -0.455
-      }
-    },
-    {
-      "event_id": "4db2ae40-2055-4481-8ef2-8f59a6de8735",
-      "source": "rss:coindesk",
-      "title": "Bitcoin ETF outflows are noise as Wall Street doubles down on crypto, says analyst",
-      "url": "https://www.coindesk.com/coindesk-news/2026/06/02/bitcoin-etf-outflows-are-noise-as-wall-street-doubles-down-on-crypto-says-analyst",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-02T12:14:58+00:00",
-      "raw_text": "Bitcoin ETF outflows are noise as Wall Street doubles down on crypto, says analyst",
-      "impact": {}
-    },
-    {
-      "event_id": "9418270a-1008-4963-ae78-db4d201b8e19",
-      "source": "rss:decrypt",
-      "title": "Morning Minute: Saylor Sells Bitcoin for First Time Since 2022",
-      "url": "https://decrypt.co/369709/morning-minute-saylor-sells-bitcoin-for-first-time-since-2022",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-02T12:14:51+00:00",
-      "raw_text": "Morning Minute: Saylor Sells Bitcoin for First Time Since 2022\n\nBitcoin fell below $70K on the back of the sales, and a major Polymarket dispute is brewing over whether Strategy indeed sold in May or not.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 164,
+        "avg_1h": 0.39,
+        "avg_24h": 2.41,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 73,
+        "avg_1h": 0.15,
+        "avg_24h": -3.05,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 232,
-        "avg_1h": 0.07,
-        "avg_24h": -0.88,
+        "count": 228,
+        "avg_1h": 0.02,
+        "avg_24h": -0.53,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
@@ -6490,23 +6515,11 @@
         "avg_24h": 0.17,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 161,
-        "avg_1h": 0.39,
-        "avg_24h": 2.41,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 72,
-        "avg_1h": 0.15,
-        "avg_24h": -3.05,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "whale_move": {
         "count": 3,
-        "avg_1h": null,
+        "avg_1h": -0.19,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": null
+        "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
         "count": 16,
