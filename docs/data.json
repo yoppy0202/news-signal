@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-08T23:21:47.242636+00:00",
+  "generated_at": "2026-06-09T04:20:28.061009+00:00",
   "events": [
+    {
+      "event_id": "d3120818-6ada-4f0a-ac6c-240f31768ad0",
+      "source": "rss:coindesk",
+      "title": "Forehead tattoos and alcohol dares: Inside the dark underbelly of crypto's memecoin craze",
+      "url": "https://www.coindesk.com/markets/2026/06/08/forehead-tattoos-and-alcohol-dares-inside-the-dark-underbelly-of-crypto-s-memecoin-craze",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-08T22:58:02+00:00",
+      "raw_text": "Forehead tattoos and alcohol dares: Inside the dark underbelly of crypto's memecoin craze",
+      "impact": {}
+    },
     {
       "event_id": "82291b33-69f2-4fad-8d7e-eef2dd9d5fae",
       "source": "rss:decrypt",
@@ -44,10 +56,16 @@
       "url": "https://bitcoinmagazine.com/news/coinbase-executive-institutions-bitcoin",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-08T21:29:19+00:00",
       "raw_text": "Coinbase Executive: Massive Institutions Are Buying Bitcoin’s Crash\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Charles-Schwab-Launches-247-Bitcoin-Futures-Trading-on-thinkorswim.jpg\" style=\"disp",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.6721,
+        "t_plus_15m": 0.8711,
+        "t_plus_1h": 0.1435
+      }
     },
     {
       "event_id": "ab7797fc-14df-42cc-87af-ccc92fedb010",
@@ -184,7 +202,8 @@
       "impact": {
         "t_plus_5m": -0.0274,
         "t_plus_15m": -0.0683,
-        "t_plus_1h": -0.1909
+        "t_plus_1h": -0.1909,
+        "t_plus_4h": -0.1638
       }
     },
     {
@@ -6475,24 +6494,12 @@
       "timestamp_utc": "2026-06-02T12:52:52+00:00",
       "raw_text": "NEAR, Worldcoin Post Double-Digit Gains as Market Sees $714M in Liquidations\n\nWhile Bitcoin dipped below $70,000 to trigger a massive liquidation cascade, select altcoins surged on individual ecosystem catalysts.",
       "impact": {}
-    },
-    {
-      "event_id": "ae17b871-2f59-4aca-bc63-b77bbff0fc19",
-      "source": "rss:coindesk",
-      "title": "Live markets: bitcoin loses $67,000 level in Tuesday plunge, putting February's lows back in play",
-      "url": "https://www.coindesk.com/markets/2026/06/02/live-markets-bitcoin-s-plunge-continues-putting-february-usd60-000-low-back-in-play",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-02T12:38:03+00:00",
-      "raw_text": "Live markets: bitcoin loses $67,000 level in Tuesday plunge, putting February's lows back in play",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 164,
+        "count": 165,
         "avg_1h": 0.39,
         "avg_24h": 2.41,
         "win_rate_1h_gt5pct": 0.0
@@ -6504,7 +6511,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 228,
+        "count": 227,
         "avg_1h": 0.02,
         "avg_24h": -0.53,
         "win_rate_1h_gt5pct": 0.0
