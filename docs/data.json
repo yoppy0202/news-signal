@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-06-09T21:57:21.872270+00:00",
+  "generated_at": "2026-06-09T23:38:51.095745+00:00",
   "events": [
+    {
+      "event_id": "3716a747-537d-4bca-9352-423ee6220cc4",
+      "source": "rss:decrypt",
+      "title": "Crypto Tax Bills Face Pushback in House Committee Hearing",
+      "url": "https://decrypt.co/370599/crypto-tax-bills-pushback-house-committee",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-09T21:44:38+00:00",
+      "raw_text": "Crypto Tax Bills Face Pushback in House Committee Hearing\n\nPro-crypto Democrats questioned staking and mining tax exemptions Tuesday, while party leadership said the bills may need to wait until after the midterms.",
+      "impact": {}
+    },
+    {
+      "event_id": "b641c500-fb14-4b42-b067-d3089148842f",
+      "source": "rss:cointelegraph",
+      "title": "ETH crash to $1K looms if key support breaks: Will futures traders step in?",
+      "url": "https://cointelegraph.com/markets/ether-risks-revisit-of-1000-if-this-support-level-breaks-amid-leverage-reset-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [
+        "ETH"
+      ],
+      "timestamp_utc": "2026-06-09T21:21:47+00:00",
+      "raw_text": "ETH crash to $1K looms if key support breaks: Will futures traders step in?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ETH crash to $1K looms if key support breaks: Will futures traders step in?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528",
+      "impact": {
+        "t_plus_5m": 0.5862,
+        "t_plus_15m": 0.4827,
+        "t_plus_1h": 0.3957
+      }
+    },
     {
       "event_id": "22466705-e5c8-492b-9578-5779d91576ac",
       "source": "rss:coindesk",
@@ -172,7 +202,8 @@
       "impact": {
         "t_plus_5m": -0.0768,
         "t_plus_15m": -0.1915,
-        "t_plus_1h": -0.0791
+        "t_plus_1h": -0.0791,
+        "t_plus_4h": 0.1091
       }
     },
     {
@@ -274,7 +305,8 @@
       "impact": {
         "t_plus_5m": -0.0006,
         "t_plus_15m": 0.1158,
-        "t_plus_1h": -0.4238
+        "t_plus_1h": -0.4238,
+        "t_plus_4h": 0.8966
       }
     },
     {
@@ -826,6 +858,18 @@
       "tokens": [],
       "timestamp_utc": "2026-06-09T07:14:26+00:00",
       "raw_text": "Zcash finalizes Ironwood upgrade plan, targets July activation\n\n<p>The Ironwood upgrade would introduce a new shielded pool and ensure the circulating ZEC supply remains bounded.</p>\n\n<p>The Ironwood upgrade would introduce a new shielded pool and ensure the circulating ZEC supply remains bounded.</",
+      "impact": {}
+    },
+    {
+      "event_id": "41a3d5b9-a0d4-4bfe-9d88-e9309a141a58",
+      "source": "rss:cointelegraph",
+      "title": "Unverified DeFi contracts linked to $36.7M in losses: Chainalysis",
+      "url": "https://cointelegraph.com/news/ai-powered-attackers-stole-367m-from-unverified-defi-contracts-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-09T07:00:00+00:00",
+      "raw_text": "Unverified DeFi contracts linked to $36.7M in losses: Chainalysis\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Unverified DeFi contracts linked to $36.7M in losses: Chainalysis\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWF",
       "impact": {}
     },
     {
@@ -6455,56 +6499,20 @@
       "timestamp_utc": "2026-06-03T03:42:54+00:00",
       "raw_text": "Blockchain Association urges Senate to pass Clarity Act with letter from 160 former security officials\n\n<p>The Blockchain Association is also set to organize a virtual town hall on Thursday to discuss the legislation.</p>\n\n<p>The Blockchain Association is also set to organize a virtual town hall on ",
       "impact": {}
-    },
-    {
-      "event_id": "c5454580-cd2b-475e-8efb-48d191e38621",
-      "source": "rss:decrypt",
-      "title": "Microsoft Reveals '1,000x More Reliable' Quantum Chip as Bitcoin Threat Draws Nearer",
-      "url": "https://decrypt.co/369811/microsoft-1000x-more-reliable-quantum-chip-bitcoin-threat-draws-nearer",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-03T03:31:03+00:00",
-      "raw_text": "Microsoft Reveals '1,000x More Reliable' Quantum Chip as Bitcoin Threat Draws Nearer\n\nMicrosoft said AI helped speed Majorana 2 development, adding to growing concerns about when quantum computers could threaten Bitcoin's cryptography.",
-      "impact": {}
-    },
-    {
-      "event_id": "832595ed-5867-4d2e-a36d-11a165d37752",
-      "source": "rss:cointelegraph",
-      "title": "Cardano’s TapTools to wind down after 5 execs exit",
-      "url": "https://cointelegraph.com/news/cardano-protocol-taptools-winds-down-after-five-execs-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-03T02:45:56+00:00",
-      "raw_text": "Cardano’s TapTools to wind down after 5 execs exit\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cardano’s TapTools to wind down after 5 execs exit\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hc",
-      "impact": {}
-    },
-    {
-      "event_id": "0a5e2b6a-223d-4385-ae49-e77b8e1eab5b",
-      "source": "rss:coindesk",
-      "title": "Bitcoin's slide to $66,000 is accelerating a shift into digital dollars",
-      "url": "https://www.coindesk.com/markets/2026/06/03/bitcoin-s-slide-to-usd67-000-is-accelerating-a-shift-into-digital-dollars",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-03T02:44:12+00:00",
-      "raw_text": "Bitcoin's slide to $66,000 is accelerating a shift into digital dollars",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 233,
-        "avg_1h": 0.04,
-        "avg_24h": -0.38,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 156,
+        "count": 155,
         "avg_1h": 0.15,
         "avg_24h": 2.41,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 233,
+        "avg_1h": 0.05,
+        "avg_24h": -0.38,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
@@ -6514,7 +6522,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 22,
+        "count": 23,
         "avg_1h": 0.87,
         "avg_24h": 0.87,
         "win_rate_1h_gt5pct": 0.0
