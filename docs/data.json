@@ -1,6 +1,90 @@
 {
-  "generated_at": "2026-06-09T19:27:59.313984+00:00",
+  "generated_at": "2026-06-09T21:57:21.872270+00:00",
   "events": [
+    {
+      "event_id": "22466705-e5c8-492b-9578-5779d91576ac",
+      "source": "rss:coindesk",
+      "title": "Crypto tax bills a work-in-progress as U.S. House lawmakers pose concerns",
+      "url": "https://www.coindesk.com/policy/2026/06/09/crypto-tax-bills-a-work-in-progress-as-u-s-house-lawmakers-pose-concerns",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-09T21:06:01+00:00",
+      "raw_text": "Crypto tax bills a work-in-progress as U.S. House lawmakers pose concerns",
+      "impact": {}
+    },
+    {
+      "event_id": "a50f51a5-9468-4bb7-a1e9-c1e25c8218c4",
+      "source": "rss:decrypt",
+      "title": "EU Orders Meta to Open WhatsApp to Rival AI Chatbots—Meta Calls It 'Regulatory Overreach'",
+      "url": "https://decrypt.co/370580/eu-orders-meta-open-whatsapp-rival-ai-chatbots",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-09T20:36:20+00:00",
+      "raw_text": "EU Orders Meta to Open WhatsApp to Rival AI Chatbots—Meta Calls It 'Regulatory Overreach'\n\nThe European Commission has issued interim measures forcing Meta to restore third-party AI access to the WhatsApp Business API within five days.",
+      "impact": {}
+    },
+    {
+      "event_id": "2ebf0e29-2dde-438f-9804-654351c504fd",
+      "source": "rss:decrypt",
+      "title": "Seattle-Area Man Gets Prison for Laundering Foreign Fraud Funds With Bitcoin, Ethereum",
+      "url": "https://decrypt.co/370576/seattle-man-prison-laundering-foreign-fraud-funds-bitcoin-ethereum",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-09T20:26:11+00:00",
+      "raw_text": "Seattle-Area Man Gets Prison for Laundering Foreign Fraud Funds With Bitcoin, Ethereum\n\nThe fraudster took in nearly $100 million from victims before laundering funds via Bitcoin, Ethereum, and stablecoins.",
+      "impact": {}
+    },
+    {
+      "event_id": "482215dc-8195-45da-aaf6-503291ededa0",
+      "source": "rss:decrypt",
+      "title": "December Trial Date Set for US Soldier Accused of Insider Trading on Polymarket",
+      "url": "https://decrypt.co/370571/december-trial-date-us-soldier-insider-trading-polymarket",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-09T20:09:50+00:00",
+      "raw_text": "December Trial Date Set for US Soldier Accused of Insider Trading on Polymarket\n\nThe insider trading case is the government's first to center on prediction markets.",
+      "impact": {}
+    },
+    {
+      "event_id": "371e328d-1a44-473a-b90a-3254517bc0bd",
+      "source": "rss:cointelegraph",
+      "title": "Solana Institute CEO says CLARITY Act must shield open-source developers",
+      "url": "https://cointelegraph.com/news/solana-institute-ceo-clarity-act-developer-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-09T20:05:52+00:00",
+      "raw_text": "Solana Institute CEO says CLARITY Act must shield open-source developers\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana Institute CEO says CLARITY Act must shield open-source developers\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
+      "impact": {}
+    },
+    {
+      "event_id": "bb38b1e3-f893-4adb-be85-cb566fc39d2e",
+      "source": "rss:coindesk",
+      "title": "Securitize CEO says tokenized stocks could unlock a $5 trillion crypto market",
+      "url": "https://www.coindesk.com/business/2026/06/09/securitize-ceo-says-tokenized-stocks-could-unlock-a-usd5-trillion-crypto-market",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-09T19:49:28+00:00",
+      "raw_text": "Securitize CEO says tokenized stocks could unlock a $5 trillion crypto market",
+      "impact": {}
+    },
+    {
+      "event_id": "83b19979-c355-4f9e-8a5d-505adc368f4d",
+      "source": "rss:decrypt",
+      "title": "A Quantum Clock Is Ticking for Bitcoin and Crypto—Here's How Stellar Is Preparing",
+      "url": "https://decrypt.co/370570/quantum-clock-ticking-bitcoin-crypto-how-stellar-preparing",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-09T19:49:05+00:00",
+      "raw_text": "A Quantum Clock Is Ticking for Bitcoin and Crypto—Here's How Stellar Is Preparing\n\nThe Stellar Development Foundation unveiled a three-step roadmap to prepare the XLM network for the coming quantum computing threat.",
+      "impact": {}
+    },
     {
       "event_id": "4707d68c-7340-42ba-8b8f-7eaa21f25096",
       "source": "rss:decrypt",
@@ -80,10 +164,16 @@
       "url": "https://bitcoinmagazine.com/markets/traditional-finance-rushing-to-crypto",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-09T17:41:46+00:00",
       "raw_text": "Traditional Finance is Rushing Into Crypto as Institutions Buy Bitcoin’s Dip: Axios\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Traditional-Finance-is-Rushing-Into-Crypto-as-Institutions-Buy-Bitc",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0768,
+        "t_plus_15m": -0.1915,
+        "t_plus_1h": -0.0791
+      }
     },
     {
       "event_id": "e5791876-4f54-4226-b4e0-278e424b18c0",
@@ -176,10 +266,16 @@
       "url": "https://bitcoinmagazine.com/news/five-years-on-el-salvador-bitcoin",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-09T15:32:18+00:00",
       "raw_text": "Five Years On, El Salvador Is Still Buying Bitcoin\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Five-Years-On-El-Salvador-Is-Still-Buying-Bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0006,
+        "t_plus_15m": 0.1158,
+        "t_plus_1h": -0.4238
+      }
     },
     {
       "event_id": "420e1ef0-6aca-49ba-8021-9bfaa0dfb367",
@@ -212,10 +308,17 @@
       "url": "https://cointelegraph.com/markets/bitcoin-price-slips-toward-62k-local-lows-as-bear-market-history-keeps-repeating?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-09T15:05:28+00:00",
       "raw_text": "Bitcoin price slips toward $62K local lows as bear-market history keeps repeating\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price slips toward $62K local lows as bear-market history keeps repeating\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.co",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.5102,
+        "t_plus_15m": 0.5239,
+        "t_plus_1h": -0.3189,
+        "t_plus_4h": 0.8666
+      }
     },
     {
       "event_id": "9e3e6822-84b1-4c21-8062-c9ff03417894",
@@ -272,10 +375,17 @@
       "url": "https://cointelegraph.com/markets/bitcoin-bottom-these-four-charts-hint-at-btc-price-dropping-to-50k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-09T14:33:53+00:00",
       "raw_text": "Bitcoin bottom? These four charts hint at BTC price dropping to $50K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin bottom? These four charts hint at BTC price dropping to $50K\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zM",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2646,
+        "t_plus_15m": -0.0911,
+        "t_plus_1h": 0.0749,
+        "t_plus_4h": 0.7454
+      }
     },
     {
       "event_id": "34ed7a15-fe68-4b38-bfa3-988a3bd305bb",
@@ -398,6 +508,18 @@
       "impact": {}
     },
     {
+      "event_id": "0a8912d8-b81e-402c-8b4f-2bbd78607a07",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin narrows early losses, returns to $62,000 as Nasdaq bounces to close down 1%",
+      "url": "https://www.coindesk.com/tech/2026/06/09/live-updates-bitcoin-drifts-back-to-usd62-500-putting-damper-on-hope-for-two-straight-up-days",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-09T12:52:07+00:00",
+      "raw_text": "Live updates: Bitcoin narrows early losses, returns to $62,000 as Nasdaq bounces to close down 1%",
+      "impact": {}
+    },
+    {
       "event_id": "b8ea4799-f39a-4725-b0e7-5455a04ba28d",
       "source": "rss:coindesk",
       "title": "Live updates: Bitcoin drifts back to $61,000, after two straight up days amid equities selloff",
@@ -460,7 +582,8 @@
       "impact": {
         "t_plus_5m": 0.5254,
         "t_plus_15m": 0.4118,
-        "t_plus_1h": -0.03
+        "t_plus_1h": -0.03,
+        "t_plus_4h": -2.0884
       }
     },
     {
@@ -703,6 +826,18 @@
       "tokens": [],
       "timestamp_utc": "2026-06-09T07:14:26+00:00",
       "raw_text": "Zcash finalizes Ironwood upgrade plan, targets July activation\n\n<p>The Ironwood upgrade would introduce a new shielded pool and ensure the circulating ZEC supply remains bounded.</p>\n\n<p>The Ironwood upgrade would introduce a new shielded pool and ensure the circulating ZEC supply remains bounded.</",
+      "impact": {}
+    },
+    {
+      "event_id": "02f07c35-415a-4fc4-a586-1fbbb2d1d52b",
+      "source": "rss:cointelegraph",
+      "title": "Merck and Hashgraph Group launch Hedera-based product passport for EU compliance",
+      "url": "https://cointelegraph.com/news/merck-and-hashgraph-group-launch-hedera-based-product-passport-for-eu-compliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-09T07:00:00+00:00",
+      "raw_text": "Merck and Hashgraph Group launch Hedera-based product passport for EU compliance\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Merck and Hashgraph Group launch Hedera-based product passport for EU compliance\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/",
       "impact": {}
     },
     {
@@ -6356,147 +6491,32 @@
       "timestamp_utc": "2026-06-03T02:44:12+00:00",
       "raw_text": "Bitcoin's slide to $66,000 is accelerating a shift into digital dollars",
       "impact": {}
-    },
-    {
-      "event_id": "c78c92c1-39a1-46fb-b84b-85a1aa4b68e1",
-      "source": "rss:decrypt",
-      "title": "Cardsmiths' New America250 Trading Cards Have Real Bitcoin, Dogecoin Up for Grabs",
-      "url": "https://decrypt.co/369772/cardsmiths-america250-trading-cards-real-bitcoin-dogecoin",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-03T01:22:43+00:00",
-      "raw_text": "Cardsmiths' New America250 Trading Cards Have Real Bitcoin, Dogecoin Up for Grabs\n\nCardsmiths’ latest Currency trading card series tackles American history—and some packs include codes for real Bitcoin, Ethereum, and more.",
-      "impact": {}
-    },
-    {
-      "event_id": "15dd5830-b5aa-46cd-a798-31a77de3bde2",
-      "source": "rss:cointelegraph",
-      "title": "UK Lords warn BoE could regulate pound stablecoins into irrelevance",
-      "url": "https://cointelegraph.com/news/lords-warn-bank-of-england-not-to-regulate-gbp-stablecoins-into-irrelevance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-03T00:01:00+00:00",
-      "raw_text": "UK Lords warn BoE could regulate pound stablecoins into irrelevance\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK Lords warn BoE could regulate pound stablecoins into irrelevance\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1",
-      "impact": {}
-    },
-    {
-      "event_id": "3beb1817-7f8b-4a64-bb60-28b5fc0191ff",
-      "source": "rss:coindesk",
-      "title": "Bitcoin’s compute power dwarfs top 100 supercomputers by 600k times, says Bittensor co-founder",
-      "url": "https://www.coindesk.com/tech/2026/06/02/bitcoin-s-compute-power-dwarfs-top-100-supercomputers-by-600-000x-says-bittensor-co-founder",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-02T23:25:44+00:00",
-      "raw_text": "Bitcoin’s compute power dwarfs top 100 supercomputers by 600k times, says Bittensor co-founder",
-      "impact": {}
-    },
-    {
-      "event_id": "6c85fe84-c510-4886-be60-aac59c1e7d82",
-      "source": "rss:coindesk",
-      "title": "UK House of Lords committee calls on Bank of England to reconsider proposed stablecoin restrictions",
-      "url": "https://www.coindesk.com/policy/2026/06/02/uk-house-of-lords-committee-calls-on-bank-of-england-to-reconsider-proposed-stablecoin-restrictions",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-02T23:01:00+00:00",
-      "raw_text": "UK House of Lords committee calls on Bank of England to reconsider proposed stablecoin restrictions",
-      "impact": {}
-    },
-    {
-      "event_id": "0c225fc8-9355-43f7-a8e9-7ce4a6078241",
-      "source": "rss:decrypt",
-      "title": "US Treasury Sanctions Iranian Crypto Exchanges Including Nobitex for Terrorist Financing",
-      "url": "https://decrypt.co/369816/us-treasury-sanctions-iranian-crypto-exchanges-nobitex-terrorist-financing",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-02T22:55:00+00:00",
-      "raw_text": "US Treasury Sanctions Iranian Crypto Exchanges Including Nobitex for Terrorist Financing\n\nThe Treasury's Office of Foreign Assets Control accused the platforms of enabling illicit finance activities across Iran's crypto ecosystem.",
-      "impact": {}
-    },
-    {
-      "event_id": "41695866-0998-4e46-9623-ff60bc71cc66",
-      "source": "rss:cointelegraph",
-      "title": "US lawmakers push back on Labor Department plans to include crypto in 401(k)s",
-      "url": "https://cointelegraph.com/news/democrats-labor-department-digital-assets-retirement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-02T22:44:19+00:00",
-      "raw_text": "US lawmakers push back on Labor Department plans to include crypto in 401(k)s\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US lawmakers push back on Labor Department plans to include crypto in 401(k)s\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
-      "impact": {}
-    },
-    {
-      "event_id": "a049ca44-30dd-45fd-b9a1-4eb5d8b53b3d",
-      "source": "rss:decrypt",
-      "title": "As Bitcoin Sinks, It's Time for Ethereum to Outperform: Standard Chartered",
-      "url": "https://decrypt.co/369803/bitcoin-sinks-time-ethereum-outperform-standard-chartered",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-02T22:36:32+00:00",
-      "raw_text": "As Bitcoin Sinks, It's Time for Ethereum to Outperform: Standard Chartered\n\nBitcoin is falling following Strategy's first BTC sale since 2022—and one analyst sees that as a good thing for Ethereum.",
-      "impact": {
-        "t_plus_5m": -0.1519,
-        "t_plus_15m": -0.7493,
-        "t_plus_1h": -0.9342,
-        "t_plus_4h": -0.732
-      }
-    },
-    {
-      "event_id": "f6225068-981a-4bfa-a9f8-02fff9476506",
-      "source": "rss:cointelegraph",
-      "title": "SEC makes digital assets strategic priority through 2030",
-      "url": "https://cointelegraph.com/news/sec-makes-digital-assets-strategic-priority-through-2030?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-02T22:17:11+00:00",
-      "raw_text": "SEC makes digital assets strategic priority through 2030\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC makes digital assets strategic priority through 2030\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pb",
-      "impact": {}
-    },
-    {
-      "event_id": "2ce0c898-af30-4fa2-a118-16d99b63b400",
-      "source": "rss:coindesk",
-      "title": "U.S. sanctions Iranian crypto exchanges in ongoing war against the country",
-      "url": "https://www.coindesk.com/policy/2026/06/02/u-s-sanctions-iranian-crypto-exchanges-in-ongoing-war-against-country",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-02T21:49:30+00:00",
-      "raw_text": "U.S. sanctions Iranian crypto exchanges in ongoing war against the country",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "hack": {
-        "count": 22,
-        "avg_1h": 0.87,
-        "avg_24h": 0.87,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 73,
-        "avg_1h": 0.12,
-        "avg_24h": -3.05,
+      "unknown": {
+        "count": 233,
+        "avg_1h": 0.04,
+        "avg_24h": -0.38,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 155,
+        "count": 156,
         "avg_1h": 0.15,
         "avg_24h": 2.41,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 232,
-        "avg_1h": 0.02,
-        "avg_24h": -0.38,
+      "macro": {
+        "count": 71,
+        "avg_1h": 0.08,
+        "avg_24h": -3.05,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 22,
+        "avg_1h": 0.87,
+        "avg_24h": 0.87,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
