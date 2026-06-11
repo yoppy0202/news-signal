@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-06-10T22:18:19.158269+00:00",
+  "generated_at": "2026-06-11T01:35:25.096135+00:00",
   "events": [
+    {
+      "event_id": "4d8cf760-5348-439a-a893-a4682f4f7659",
+      "source": "rss:cointelegraph",
+      "title": "CFTC proposes framework favoring sports event contracts over gambling",
+      "url": "https://cointelegraph.com/news/cftc-prediction-market-rules-sports-election-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-10T22:30:00+00:00",
+      "raw_text": "CFTC proposes framework favoring sports event contracts over gambling\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC proposes framework favoring sports event contracts over gambling\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
+      "impact": {}
+    },
+    {
+      "event_id": "d809c8a9-92bc-4985-a45f-85b7352c3356",
+      "source": "rss:decrypt",
+      "title": "Google's DiffusionGemma AI Hits 1,000 Tokens Per Second—And It's Free",
+      "url": "https://decrypt.co/370706/google-new-open-model-generates-text-diffusiongemma",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-10T22:01:03+00:00",
+      "raw_text": "Google's DiffusionGemma AI Hits 1,000 Tokens Per Second—And It's Free\n\nDiffusionGemma hits 1,000 tokens per second by ditching word-by-word generation entirely. It just doesn't run on most people's machines yet.",
+      "impact": {}
+    },
+    {
+      "event_id": "f766993f-ce23-4c6c-862e-26235872b3ba",
+      "source": "rss:decrypt",
+      "title": "Anthropic CEO Warns AI Is Getting Too Powerful—While Releasing Powerful AI",
+      "url": "https://decrypt.co/370704/anthropic-ceo-ai-too-powerful-regulation-cant-wait",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-10T21:31:33+00:00",
+      "raw_text": "Anthropic CEO Warns AI Is Getting Too Powerful—While Releasing Powerful AI\n\nIn a new essay, Dario Amodei called for binding safety rules for frontier models as his company heads toward an IPO.",
+      "impact": {}
+    },
     {
       "event_id": "dd7bf111-a3e8-465c-97a7-d11ab65ef757",
       "source": "rss:cointelegraph",
@@ -8,10 +44,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-miner-margins-fall-to-record-low-will-btcs-60k-floor-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-10T20:42:55+00:00",
       "raw_text": "Bitcoin miner margins fall to record low: Will BTC’s $60K floor hold?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin miner margins fall to record low: Will BTC’s $60K floor hold?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.3954,
+        "t_plus_15m": 0.3642,
+        "t_plus_1h": 0.1817
+      }
     },
     {
       "event_id": "5e20ed34-c3f5-455c-8ddd-c0bd62115cce",
@@ -20,10 +62,16 @@
       "url": "https://bitcoinmagazine.com/news/strategy-mstr-ceo-says-bitcoin-sale",
       "event_type": "listing",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-10T20:41:08+00:00",
       "raw_text": "Strategy (MSTR) CEO Says Bitcoin Sale Was About Market ‘Inoculation,’ Not a Retreat\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-CEO-Says-Bitcoin-Sale-Was-About-Market-Inoculation-No",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.4813,
+        "t_plus_15m": 0.3178,
+        "t_plus_1h": 0.1699
+      }
     },
     {
       "event_id": "adf2be2d-5b0d-47bd-8013-b11e81e6c078",
@@ -116,10 +164,17 @@
       "url": "https://cointelegraph.com/markets/can-bitcoin-avoid-another-sell-off-after-a-bank-of-japan-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-10T18:41:15+00:00",
       "raw_text": "Pending Bank of Japan rate decision may impact Bitcoin price: Should traders prepare?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Pending Bank of Japan rate decision may impact Bitcoin price: Should traders prepare?\" class=\"type:primaryImage\" src=\"https://images.cointele",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.3723,
+        "t_plus_15m": 0.3489,
+        "t_plus_1h": 0.7475,
+        "t_plus_4h": -0.2836
+      }
     },
     {
       "event_id": "6f169d2c-be2d-4ac4-a296-8c95b34c468d",
@@ -364,7 +419,8 @@
       "impact": {
         "t_plus_5m": 0.4341,
         "t_plus_15m": 0.0739,
-        "t_plus_1h": -0.4153
+        "t_plus_1h": -0.4153,
+        "t_plus_4h": -0.6816
       }
     },
     {
@@ -1019,6 +1075,18 @@
       "tokens": [],
       "timestamp_utc": "2026-06-10T07:03:20+00:00",
       "raw_text": "Chainalysis, South Korean police link up to fight crypto crime\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Chainalysis, South Korean police link up to fight crypto crime\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY",
+      "impact": {}
+    },
+    {
+      "event_id": "4f26d584-fb7f-4338-957a-a7e2547cb8f0",
+      "source": "rss:cointelegraph",
+      "title": "Tether expands robotics push with lead role in NEURA's $1B-plus funding round",
+      "url": "https://cointelegraph.com/news/tether-backs-neura-robotics-in-up-to-14b-round-for-autonomous-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-10T07:00:00+00:00",
+      "raw_text": "Tether expands robotics push with lead role in NEURA's $1B-plus funding round\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether expands robotics push with lead role in NEURA's $1B-plus funding round\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
       "impact": {}
     },
     {
@@ -6449,82 +6517,12 @@
       "timestamp_utc": "2026-06-03T20:28:37+00:00",
       "raw_text": "Hermes Ends AI Agent Terminal Era With Release of Official Desktop App\n\nUntil now, the only way to run Hermes was through a terminal—or one of several unofficial GUIs the community had cobbled together.",
       "impact": {}
-    },
-    {
-      "event_id": "f87739d1-c123-4daf-9122-7e4db7915043",
-      "source": "rss:decrypt",
-      "title": "Someone Just Redeemed a 15-Year-Old Physical Bitcoin, Scoring $1.78 Million in BTC",
-      "url": "https://decrypt.co/369947/someone-redeemed-15-year-old-physical-bitcoin-scoring-1-78-million",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-03T20:21:13+00:00",
-      "raw_text": "Someone Just Redeemed a 15-Year-Old Physical Bitcoin, Scoring $1.78 Million in BTC\n\nPhysical Casascius coins were minted 15 years ago in the early days of Bitcoin—and the BTC held within is worth a whole lot more today.",
-      "impact": {
-        "t_plus_24h": -1.2553
-      }
-    },
-    {
-      "event_id": "ec04a2c3-2a4b-41a3-b24d-6605f559d224",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin Price Crashes to Precarious Position Below $65,000 as Momentum Rotates Into AI, IPOs",
-      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-to-precarious",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-03T20:20:57+00:00",
-      "raw_text": "Bitcoin Price Crashes to Precarious Position Below $65,000 as Momentum Rotates Into AI, IPOs\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Price-Crashes-to-Precarious-Position-Near-65000-as",
-      "impact": {}
-    },
-    {
-      "event_id": "8d513660-59d9-437c-b664-d3e56af68b7f",
-      "source": "rss:theblock",
-      "title": "Crypto VC deal count slumps to five-year low as investors grow more selective",
-      "url": "https://www.theblock.co/post/403382/crypto-vc-deal-flow-hits-multi-year-low-billion-dollar-rounds-keep-capital-flowing?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-03T19:42:03+00:00",
-      "raw_text": "Crypto VC deal count slumps to five-year low as investors grow more selective\n\n<p>Monthly venture deal count in crypto fell to roughly 50 deals in May, a level not seen since before 2021.</p>\n\n<p>Monthly venture deal count in crypto fell to roughly 50 deals in May, a level not seen since before 2021",
-      "impact": {}
-    },
-    {
-      "event_id": "596d17b8-5d34-4b22-945c-9f9445fc0223",
-      "source": "rss:bitcoinmagazine",
-      "title": "Blockware Appoints Megan Brooks-Anderson as Chief Executive Officer",
-      "url": "https://bitcoinmagazine.com/press-releases/blockware-appoints-megan-brooks-anderson-as-chief-executive-officer",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-03T19:34:37+00:00",
-      "raw_text": "Blockware Appoints Megan Brooks-Anderson as Chief Executive Officer\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/blockware-press-release.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a ",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 231,
-        "avg_1h": -0.03,
-        "avg_24h": -0.37,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "listing": {
-        "count": 16,
-        "avg_1h": -0.08,
-        "avg_24h": -4.34,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 24,
-        "avg_1h": 0.87,
-        "avg_24h": 0.87,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 160,
+        "count": 162,
         "avg_1h": -0.08,
         "avg_24h": 2.03,
         "win_rate_1h_gt5pct": 0.0
@@ -6533,6 +6531,24 @@
         "count": 67,
         "avg_1h": -0.09,
         "avg_24h": -4.64,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 229,
+        "avg_1h": -0.0,
+        "avg_24h": -0.31,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "listing": {
+        "count": 16,
+        "avg_1h": 0.0,
+        "avg_24h": -4.34,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 24,
+        "avg_1h": 0.87,
+        "avg_24h": 0.87,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
