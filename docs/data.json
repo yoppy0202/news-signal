@@ -1,6 +1,157 @@
 {
-  "generated_at": "2026-06-11T19:43:04.971111+00:00",
+  "generated_at": "2026-06-11T22:11:38.577598+00:00",
   "events": [
+    {
+      "event_id": "a6a74e07-a075-4808-a5de-1489467770ec",
+      "source": "rss:decrypt",
+      "title": "Microsoft President Asks Graduates to Stop Fearing AI and Start Adapting",
+      "url": "https://decrypt.co/370843/microsoft-graduates-stop-fearing-ai-start-adapting",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-11T20:25:11+00:00",
+      "raw_text": "Microsoft President Asks Graduates to Stop Fearing AI and Start Adapting\n\nBrad Smith published a 3,000-word essay urging empathy for graduates booing AI at commencements. The same week, Microsoft's CFO confirmed headcount will keep shrinking.",
+      "impact": {}
+    },
+    {
+      "event_id": "04f120c6-a323-47bb-a0ce-6f2fa987f7ae",
+      "source": "rss:decrypt",
+      "title": "Nasdaq-Listed Bitcoin Firm Nakamoto Sells BTC, Cuts Debt and Authorizes Share Buyback",
+      "url": "https://decrypt.co/370842/nasdaq-listed-bitcoin-firm-nakamoto-sells-btc-cuts-debt-share-buyback",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-06-11T20:19:46+00:00",
+      "raw_text": "Nasdaq-Listed Bitcoin Firm Nakamoto Sells BTC, Cuts Debt and Authorizes Share Buyback\n\nNakamoto, the Nasdaq-listed Bitcoin services and treasury firm, sold about $48 million worth of BTC and derivatives to help reduce debt.",
+      "impact": {
+        "t_plus_5m": 0.1562,
+        "t_plus_15m": 0.0002,
+        "t_plus_1h": 0.2096
+      }
+    },
+    {
+      "event_id": "63c2537d-59aa-4c86-a08c-f3093bf9e04b",
+      "source": "rss:theblock",
+      "title": "Americans secretly drove as much as $34 billion in offshore prediction market bets, new report claims",
+      "url": "https://www.theblock.co/post/404505/americans-secretly-drove-34-billion-offshore-prediction-market-bets-report-claims?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-11T20:15:54+00:00",
+      "raw_text": "Americans secretly drove as much as $34 billion in offshore prediction market bets, new report claims\n\n<p>A new report from a boutique consulting firm claims that nearly a third of U.S. prediction market volume occurs on offshore platforms.</p>\n\n<p>A new report from a boutique consulting firm claims",
+      "impact": {}
+    },
+    {
+      "event_id": "822817f6-defa-4913-bcdd-5a696b8b9bb6",
+      "source": "rss:coindesk",
+      "title": "Elon Musk's SpaceX prices shares at $135, raising $75 billion in largest-ever IPO",
+      "url": "https://www.coindesk.com/markets/2026/06/11/spacex-prices-shares-at-usd135-in-largest-ipo-ever",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-11T20:12:46+00:00",
+      "raw_text": "Elon Musk's SpaceX prices shares at $135, raising $75 billion in largest-ever IPO",
+      "impact": {}
+    },
+    {
+      "event_id": "bce1730c-5922-4844-835e-54f21179f4c3",
+      "source": "rss:cointelegraph",
+      "title": "ETH futures traders lean into $1.6K range lows: Will Ether lead market recovery?",
+      "url": "https://cointelegraph.com/markets/ether-bulls-ramp-up-risk-above-16k-can-buyers-regain-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [
+        "ETH",
+        "BTC"
+      ],
+      "timestamp_utc": "2026-06-11T19:37:41+00:00",
+      "raw_text": "ETH futures traders lean into $1.6K range lows: Will Ether lead market recovery?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ETH futures traders lean into $1.6K range lows: Will Ether lead market recovery?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/",
+      "impact": {
+        "t_plus_5m": 0.886,
+        "t_plus_15m": 0.6595,
+        "t_plus_1h": -0.194
+      }
+    },
+    {
+      "event_id": "7e5559db-4763-4c93-9c0d-64c9ead76749",
+      "source": "rss:decrypt",
+      "title": "Coinbase Launches Tool That Lets AI Agents Trade Crypto and Make Payments for Users",
+      "url": "https://decrypt.co/370835/coinbase-tool-ai-agents-trade-crypto-make-payments",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-11T19:29:44+00:00",
+      "raw_text": "Coinbase Launches Tool That Lets AI Agents Trade Crypto and Make Payments for Users\n\nCoinbase's new product allows AI agents to execute crypto trades, payments, and portfolio management tasks within user-defined limits.",
+      "impact": {}
+    },
+    {
+      "event_id": "c94715fb-c2e8-406c-9a75-6b17106e1d2d",
+      "source": "rss:decrypt",
+      "title": "Crypto Platforms Broaden Access to Elon Musk's SpaceX Ahead of $1.75 Trillion IPO",
+      "url": "https://decrypt.co/370828/crypto-platforms-broaden-access-elon-musks-spacex-1-75-trillion-ipo",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-11T19:16:34+00:00",
+      "raw_text": "Crypto Platforms Broaden Access to Elon Musk's SpaceX Ahead of $1.75 Trillion IPO\n\nWith the help of crypto rails, retail investors have a variety of ways to bypass traditional Wall Street gatekeepers to get SpaceX exposure.",
+      "impact": {}
+    },
+    {
+      "event_id": "cf9bf4f5-867d-4f74-b7c5-8c7092e18460",
+      "source": "rss:theblock",
+      "title": "Arbitrum token jumps 5% on news LG Electronics is building a new blockchain",
+      "url": "https://www.theblock.co/post/404494/arbitrum-token-jumps-5-news-lg-electronics-building-new-blockchain?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-11T19:15:42+00:00",
+      "raw_text": "Arbitrum token jumps 5% on news LG Electronics is building a new blockchain\n\n<p>LG’s new Arbitrum-based blockchain will serve as a platform for placing, buying, selling, and managing digital ads.</p>\n\n<p>LG’s new Arbitrum-based blockchain will serve as a platform for placing, buying, selling, and ma",
+      "impact": {}
+    },
+    {
+      "event_id": "68d61cb8-1f3b-4d65-9c74-6a7df01a8da4",
+      "source": "rss:decrypt",
+      "title": "Anthropic Apologizes for Claude Fable 5 Secret Censorship—But the Fix Has a Catch",
+      "url": "https://decrypt.co/370831/anthropic-apologizes-claude-fable-5-secret-censorship",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-11T18:55:48+00:00",
+      "raw_text": "Anthropic Apologizes for Claude Fable 5 Secret Censorship—But the Fix Has a Catch\n\nOne day after the AI community erupted over invisible performance sabotage, Anthropic reversed course. Visible safeguards are coming—and so are more false positives.",
+      "impact": {}
+    },
+    {
+      "event_id": "06ecbd9d-e150-4474-9cc6-b309763b4c9e",
+      "source": "rss:cointelegraph",
+      "title": "Three signs that XRP price risks falling below $1 in June",
+      "url": "https://cointelegraph.com/markets/three-signs-that-xrp-price-risks-falling-below-1-in-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [
+        "XRP"
+      ],
+      "timestamp_utc": "2026-06-11T18:29:54+00:00",
+      "raw_text": "Three signs that XRP price risks falling below $1 in June\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Three signs that XRP price risks falling below $1 in June\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5",
+      "impact": {
+        "t_plus_5m": 0.4804,
+        "t_plus_15m": 0.5848,
+        "t_plus_1h": 1.0542
+      }
+    },
+    {
+      "event_id": "4fe9f5b4-be74-4f28-83db-4087a23ab781",
+      "source": "rss:decrypt",
+      "title": "Whistleblower Sues Elon Musk's xAI, Claiming He Was Fired After Raising Grok Safety Concerns",
+      "url": "https://decrypt.co/370825/whistleblower-sues-elon-musk-xai-fired-raising-grok-safety-concerns",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-11T18:11:44+00:00",
+      "raw_text": "Whistleblower Sues Elon Musk's xAI, Claiming He Was Fired After Raising Grok Safety Concerns\n\nDevin Kim alleged he was terminated after repeatedly warning about bias, misinformation, and dangerous outputs from Elon Musk's Grok chatbot.",
+      "impact": {}
+    },
     {
       "event_id": "47993fb2-c844-4bf9-bf7a-0c40e0ed4c76",
       "source": "rss:cointelegraph",
@@ -64,7 +215,8 @@
       "impact": {
         "t_plus_5m": -1.4159,
         "t_plus_15m": -1.5511,
-        "t_plus_1h": -0.0051
+        "t_plus_1h": -0.0051,
+        "t_plus_4h": 0.1811
       }
     },
     {
@@ -689,6 +841,18 @@
       "impact": {}
     },
     {
+      "event_id": "0a9c1a77-1ecb-4472-83f8-3532cf18d0ba",
+      "source": "rss:cointelegraph",
+      "title": "Bitso brings peso-backed MXNB stablecoin to XRP Ledger via Ripple partnership",
+      "url": "https://cointelegraph.com/news/ripple-bitso-bring-mxn-stablecoin-settlement-to-xrp-ledger-for-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-11T07:00:00+00:00",
+      "raw_text": "Bitso brings peso-backed MXNB stablecoin to XRP Ledger via Ripple partnership\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitso brings peso-backed MXNB stablecoin to XRP Ledger via Ripple partnership\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
+      "impact": {}
+    },
+    {
       "event_id": "d3ab3714-6d31-4752-a5e0-1c86998c0072",
       "source": "rss:cointelegraph",
       "title": "Archax introduces real-time yield payments for tokenized securities on Hedera",
@@ -722,6 +886,18 @@
       "tokens": [],
       "timestamp_utc": "2026-06-11T05:52:08+00:00",
       "raw_text": "BlackRock files new amendment for yield-generating bitcoin ETF; launch expected soon, Bloomberg analyst says\n\n<p>BlackRock's new bitcoin fund seeks to provide yield through active covered call strategies on IBIT shares and ETP indices.</p>\n\n<p>BlackRock's new bitcoin fund seeks to provide yield thro",
+      "impact": {}
+    },
+    {
+      "event_id": "42d3d93e-c3ff-41eb-8625-4ad6ce2f785d",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin tops $63,000 as Trump teases yet another peace deal with Iran",
+      "url": "https://www.coindesk.com/markets/2026/06/11/live-updates-soft-core-inflation-gave-crypto-a-bounce-but-only-bitcoin-held-up-on-the-week",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-11T05:45:57+00:00",
+      "raw_text": "Live updates: Bitcoin tops $63,000 as Trump teases yet another peace deal with Iran",
       "impact": {}
     },
     {
@@ -1046,7 +1222,8 @@
         "t_plus_5m": 0.3723,
         "t_plus_15m": 0.3489,
         "t_plus_1h": 0.7475,
-        "t_plus_4h": -0.2836
+        "t_plus_4h": -0.2836,
+        "t_plus_24h": 3.0385
       }
     },
     {
@@ -6322,217 +6499,38 @@
       "timestamp_utc": "2026-06-04T15:12:00+00:00",
       "raw_text": "Fannie Mae-Backed Bitcoin Home Mortgages Are Finally Here, Coinbase Says\n\nCoinbase said a Michigan couple closed on the first-ever conventional, Fannie Mae-backed home mortgage by pledging Bitcoin as collateral.",
       "impact": {}
-    },
-    {
-      "event_id": "6e67e070-2a1a-4289-b79f-551dcb6632da",
-      "source": "rss:coindesk",
-      "title": "Crypto for Advisors: The crypto due diligence questions you forgot to ask",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/06/03/crypto-for-advisors-the-crypto-due-diligence-questions-you-forgot-to-ask",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-04T15:00:00+00:00",
-      "raw_text": "Crypto for Advisors: The crypto due diligence questions you forgot to ask",
-      "impact": {}
-    },
-    {
-      "event_id": "715e2392-b8fd-40a2-9b10-47799c0b3e42",
-      "source": "rss:theblock",
-      "title": "Senate Republicans urged financial regulators to rework bank capital rules for digital assets",
-      "url": "https://www.theblock.co/post/403671/senate-republicans-urged-financial-regulators-to-rework-bank-capital-rules-for-digital-assets?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-04T14:54:53+00:00",
-      "raw_text": "Senate Republicans urged financial regulators to rework bank capital rules for digital assets\n\n<p>A group of Senate Republicans is pressing key financial regulatory agencies to clarify capital standards for digital assets.</p>\n\n<p>A group of Senate Republicans is pressing key financial regulatory ag",
-      "impact": {}
-    },
-    {
-      "event_id": "e732cb80-ff6e-43ab-9e08-f21ffa25439f",
-      "source": "rss:cointelegraph",
-      "title": "Saylor downplays Bitcoin slide as Strategy faces $11B paper loss",
-      "url": "https://cointelegraph.com/news/strategys-unrealized-loss-soars-11b-standard-chartered-bottom-near?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-04T14:48:44+00:00",
-      "raw_text": "Saylor downplays Bitcoin slide as Strategy faces $11B paper loss\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Saylor downplays Bitcoin slide as Strategy faces $11B paper loss\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZ",
-      "impact": {
-        "t_plus_5m": 0.1019,
-        "t_plus_15m": 0.3265,
-        "t_plus_1h": 0.0056,
-        "t_plus_4h": 0.3582
-      }
-    },
-    {
-      "event_id": "aca060cd-7000-4de8-91b7-799712233f8c",
-      "source": "rss:coindesk",
-      "title": "Why tokenization is an ETF-style market structure revolution",
-      "url": "https://www.coindesk.com/opinion/2026/06/04/why-tokenization-is-an-etf-style-market-structure-revolution",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-04T14:44:07+00:00",
-      "raw_text": "Why tokenization is an ETF-style market structure revolution",
-      "impact": {}
-    },
-    {
-      "event_id": "bcadf8d5-3686-419c-9a35-a4482a081fc8",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin Buys a Home: Better and Coinbase Close First Fannie Mae-Backed BTC Mortgage",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-buys-a-home-better-and-coinbase",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-04T14:33:33+00:00",
-      "raw_text": "Bitcoin Buys a Home: Better and Coinbase Close First Fannie Mae-Backed BTC Mortgage\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Buys-a-Home-Better-and-Coinbase-Close-First-Fannie-Mae-Back",
-      "impact": {
-        "t_plus_5m": 0.2468,
-        "t_plus_15m": 0.1664,
-        "t_plus_1h": 0.2788,
-        "t_plus_4h": 0.0869,
-        "t_plus_24h": -5.2128
-      }
-    },
-    {
-      "event_id": "b5350f38-23e9-4669-8940-39558dd7f7d3",
-      "source": "rss:decrypt",
-      "title": "British Teen Sanctioned By Russia After Alleging Crypto Use to Evade Sanctions",
-      "url": "https://decrypt.co/370002/british-teen-sanctioned-russia-alleging-crypto-evade-sanctions",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-04T14:27:40+00:00",
-      "raw_text": "British Teen Sanctioned By Russia After Alleging Crypto Use to Evade Sanctions\n\nThe teenager's research into Russia’s alleged illicit crypto flows appears to have prompted Moscow's retaliation.",
-      "impact": {}
-    },
-    {
-      "event_id": "4091e35e-aae4-4092-83b2-849c9537e622",
-      "source": "rss:theblock",
-      "title": "Travala unveils agentic AI travel protocol with gasless USDC payments on Base",
-      "url": "https://www.theblock.co/post/402860/travala-debuts-agentic-ai-travel-protocol-with-gasless-usdc-payments-on-base?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-04T14:00:00+00:00",
-      "raw_text": "Travala unveils agentic AI travel protocol with gasless USDC payments on Base\n\n<p>Travala introduced an agentic AI travel protocol on Base supporting gasless USDC hotel bookings and AI-assisted payment execution.</p>\n\n<p>Travala introduced an agentic AI travel protocol on Base supporting gasless USD",
-      "impact": {}
-    },
-    {
-      "event_id": "adf18132-95b2-482b-b344-a13f77bac6e6",
-      "source": "rss:theblock",
-      "title": "‘The rally that wasn’t’: Bitcoin slides 14% in one week as ETF outflows, Strategy sale and oil prices hit sentiment",
-      "url": "https://www.theblock.co/post/403659/the-rally-that-wasnt-bitcoin-slides-14-in-one-week-as-etf-outflows-strategy-sale-and-oil-prices-hit-sentiment?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-04T13:58:53+00:00",
-      "raw_text": "‘The rally that wasn’t’: Bitcoin slides 14% in one week as ETF outflows, Strategy sale and oil prices hit sentiment\n\n<p>Bitcoin falls 13% to near $62K as Strategy's BTC sale, $4.2B in ETF outflows and macro headwinds pressure crypto markets.</p>\n\n<p>Bitcoin falls 13% to near $62K as Strategy's BTC s",
-      "impact": {
-        "t_plus_24h": -4.0706
-      }
-    },
-    {
-      "event_id": "4da4e0e7-6b5c-405b-8444-92094506929b",
-      "source": "rss:coindesk",
-      "title": "Not all Ethereum layer 2s are dying, but many general-purpose chains no longer have a reason to exist",
-      "url": "https://www.coindesk.com/tech/2026/06/04/not-all-ethereum-layer-2s-are-dying-but-many-general-purpose-chains-no-longer-have-a-reason-to-exist",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-04T13:52:21+00:00",
-      "raw_text": "Not all Ethereum layer 2s are dying, but many general-purpose chains no longer have a reason to exist",
-      "impact": {}
-    },
-    {
-      "event_id": "28136df0-929f-4fd5-ab30-97155c8d58da",
-      "source": "rss:bitcoinmagazine",
-      "title": "Standard Chartered Sees Bitcoin Bottom ‘Almost In’ as Sell-Off Cuts 14% in Seven Days",
-      "url": "https://bitcoinmagazine.com/news/standard-chartered-sees-bitcoin-bottom",
-      "event_type": "listing",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-04T13:50:06+00:00",
-      "raw_text": "Standard Chartered Sees Bitcoin Bottom ‘Almost In’ as Sell-Off Cuts 14% in Seven Days\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Standard-Chartered-Sees-Bitcoin-Bottom-Almost-In-as-Sell-Off-Cuts",
-      "impact": {
-        "t_plus_24h": -3.0378
-      }
-    },
-    {
-      "event_id": "fea6b0b5-6a83-4adf-a778-c6d25f48c529",
-      "source": "rss:theblock",
-      "title": "Visa, Brale test privacy-enabled SBC stablecoin settlement on Canton Network",
-      "url": "https://www.theblock.co/post/403658/visa-brale-test-privacy-enabled-sbc-stablecoin-settlement-on-canton-network?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-04T13:34:02+00:00",
-      "raw_text": "Visa, Brale test privacy-enabled SBC stablecoin settlement on Canton Network\n\n<p>Visa and Brale initiate a proof of concept testing SBC stablecoin settlement with privacy controls on the Canton Network.</p>\n\n<p>Visa and Brale initiate a proof of concept testing SBC stablecoin settlement with privacy",
-      "impact": {}
-    },
-    {
-      "event_id": "a8cc7310-92cf-422b-a0d8-04e299bba87a",
-      "source": "rss:coindesk",
-      "title": "Tom Lee’s $250,000 ether target: Here’s what math says about this crazy prediction",
-      "url": "https://www.coindesk.com/markets/2026/06/04/tom-lee-s-usd250-000-ether-target-runs-into-a-usd30-trillion-problem",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-04T13:30:02+00:00",
-      "raw_text": "Tom Lee’s $250,000 ether target: Here’s what math says about this crazy prediction",
-      "impact": {}
-    },
-    {
-      "event_id": "42368609-f697-4d31-8f85-63dd168367be",
-      "source": "rss:cointelegraph",
-      "title": "Apex, Archax join Goldman Sachs tokenized real estate fund project",
-      "url": "https://cointelegraph.com/news/apex-group-tokenized-real-estate-fund-goldman-sachs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-04T13:25:56+00:00",
-      "raw_text": "Apex, Archax join Goldman Sachs tokenized real estate fund project\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Apex, Archax join Goldman Sachs tokenized real estate fund project\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pb",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 172,
+        "avg_1h": -0.16,
+        "avg_24h": 2.03,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "listing": {
+        "count": 17,
+        "avg_1h": -0.29,
+        "avg_24h": -5.63,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 70,
+        "avg_1h": -0.15,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 218,
-        "avg_1h": -0.09,
-        "avg_24h": 0.39,
+        "count": 215,
+        "avg_1h": -0.06,
+        "avg_24h": 0.57,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
         "count": 24,
         "avg_1h": 0.87,
         "avg_24h": 0.87,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 167,
-        "avg_1h": -0.16,
-        "avg_24h": 2.03,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 72,
-        "avg_1h": -0.12,
-        "avg_24h": -4.64,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "listing": {
-        "count": 17,
-        "avg_1h": -0.39,
-        "avg_24h": -4.34,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
