@@ -1,6 +1,90 @@
 {
-  "generated_at": "2026-06-12T20:23:14.370103+00:00",
+  "generated_at": "2026-06-12T22:43:46.118326+00:00",
   "events": [
+    {
+      "event_id": "036c4dcd-af95-4162-b01a-ae2bdb89db8c",
+      "source": "rss:bitcoinmagazine",
+      "title": "Standard Chartered Calls Crypto Bottom as Bitcoin Price Recovers From $59,000 Low",
+      "url": "https://bitcoinmagazine.com/markets/standard-chartered-calls-bitcoin-bottom",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T20:00:19+00:00",
+      "raw_text": "Standard Chartered Calls Crypto Bottom as Bitcoin Price Recovers From $59,000 Low\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Standard-Chartered-Calls-Crypto-Bottom-as-Bitcoin-Price-Recovers-From",
+      "impact": {}
+    },
+    {
+      "event_id": "214f59d3-56e2-4ee8-b378-964d638657bf",
+      "source": "rss:decrypt",
+      "title": "How Crypto Firms Will Own the Octagon at Trump's White House UFC Event",
+      "url": "https://decrypt.co/370974/how-crypto-firms-own-octagon-trump-white-house-ufc-event",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T19:56:26+00:00",
+      "raw_text": "How Crypto Firms Will Own the Octagon at Trump's White House UFC Event\n\nPresident Trump’s upcoming UFC fight will provide several crypto firms with an unprecedented opportunity for corporate branding.",
+      "impact": {}
+    },
+    {
+      "event_id": "5517266b-4bfd-44c2-b916-aa012a07726a",
+      "source": "rss:decrypt",
+      "title": "AI Agents Still Can't Stop Prompt Injection Attacks, Researchers Warn",
+      "url": "https://decrypt.co/370972/ai-agents-prompt-injection-attacks-research",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T19:22:28+00:00",
+      "raw_text": "AI Agents Still Can't Stop Prompt Injection Attacks, Researchers Warn\n\nA new benchmark study found AI agents remain vulnerable to prompt injection attacks as companies increasingly roll out the technology to the public.",
+      "impact": {}
+    },
+    {
+      "event_id": "840a77fd-7ff2-412f-abd9-9951646b9475",
+      "source": "rss:bitcoinmagazine",
+      "title": "Blockworks Acquires Messari in Deal Highlighting Crypto’s Data Consolidation Race",
+      "url": "https://bitcoinmagazine.com/news/blockworks-acquires-messari",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T18:41:15+00:00",
+      "raw_text": "Blockworks Acquires Messari in Deal Highlighting Crypto’s Data Consolidation Race\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Blockworks-Acquires-Messari-in-Deal-Highlighting-Cryptos-Data-Consoli",
+      "impact": {}
+    },
+    {
+      "event_id": "dff4bc70-4332-4143-aad2-e41042cb41a3",
+      "source": "rss:decrypt",
+      "title": "Moonshot AI's Kimi Work Brings 300 AI Agents to Your Desktop",
+      "url": "https://decrypt.co/370954/moonshot-ai-kimi-work-300-agents-desktop",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T18:40:57+00:00",
+      "raw_text": "Moonshot AI's Kimi Work Brings 300 AI Agents to Your Desktop\n\nKimi Work lets an AI agent loose on your local files, your browser, and your schedule—without routing everything through the cloud.",
+      "impact": {}
+    },
+    {
+      "event_id": "b442e41b-d6ac-4e25-a2b7-4beb773b4d53",
+      "source": "rss:decrypt",
+      "title": "Americans Fear Job Losses Due to AI But Hope for Cancer, Alzheimer’s Cures: Anthropic Survey",
+      "url": "https://decrypt.co/370951/americans-fear-job-losses-ai-hope-cancer-alzheimers-cures-anthropic",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T18:14:24+00:00",
+      "raw_text": "Americans Fear Job Losses Due to AI But Hope for Cancer, Alzheimer’s Cures: Anthropic Survey\n\nAnthropic's AI survey showed Americans are afraid of job losses, hopeful for health breakthroughs, and distrustful of firms behind the tech.",
+      "impact": {}
+    },
+    {
+      "event_id": "1161d180-ca3a-4db1-9b55-24c352ca6110",
+      "source": "rss:coindesk",
+      "title": "Bitcoin hit bottom at $59,000 marking end to the crypto winter, says Standard Chartered analyst",
+      "url": "https://www.coindesk.com/markets/2026/06/12/bitcoin-hit-bottom-at-usd59-000-marking-end-to-the-crypto-winter-says-standard-chartered-analyst",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T18:09:06+00:00",
+      "raw_text": "Bitcoin hit bottom at $59,000 marking end to the crypto winter, says Standard Chartered analyst",
+      "impact": {}
+    },
     {
       "event_id": "da267ded-3391-4fb1-8d0a-51880f73b602",
       "source": "rss:decrypt",
@@ -100,7 +184,8 @@
       "impact": {
         "t_plus_5m": -0.1119,
         "t_plus_15m": -0.0017,
-        "t_plus_1h": -0.0333
+        "t_plus_1h": -0.0333,
+        "t_plus_4h": -0.5329
       }
     },
     {
@@ -142,7 +227,8 @@
       "impact": {
         "t_plus_5m": -0.0864,
         "t_plus_15m": 0.0428,
-        "t_plus_1h": 0.1859
+        "t_plus_1h": 0.1859,
+        "t_plus_4h": -0.4967
       }
     },
     {
@@ -184,7 +270,8 @@
       "impact": {
         "t_plus_5m": -0.0903,
         "t_plus_15m": -0.2367,
-        "t_plus_1h": 0.0693
+        "t_plus_1h": 0.0693,
+        "t_plus_4h": -0.2222
       }
     },
     {
@@ -749,6 +836,18 @@
       }
     },
     {
+      "event_id": "dfd0b5b5-f540-4a41-b830-aab25de375c8",
+      "source": "rss:coindesk",
+      "title": "Live updates: SpaceX rallies nearly 20% in first session, while bitcoin trades shy of $64,000",
+      "url": "https://www.coindesk.com/tech/2026/06/12/live-updates-bitcoin-in-volatile-trading-above-usd63-000-doge-unchanged",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T06:32:02+00:00",
+      "raw_text": "Live updates: SpaceX rallies nearly 20% in first session, while bitcoin trades shy of $64,000",
+      "impact": {}
+    },
+    {
       "event_id": "f2406c6e-d181-4ee0-99b3-0241997ffab7",
       "source": "rss:coindesk",
       "title": "Live updates: SpaceX surges 26% on debut, while bitcoin stalls just shy of $64,000",
@@ -1039,7 +1138,8 @@
         "t_plus_5m": -0.2082,
         "t_plus_15m": 0.01,
         "t_plus_1h": -0.1002,
-        "t_plus_4h": 0.1386
+        "t_plus_4h": 0.1386,
+        "t_plus_24h": -0.1504
       }
     },
     {
@@ -1082,7 +1182,8 @@
         "t_plus_5m": 0.1562,
         "t_plus_15m": 0.0002,
         "t_plus_1h": 0.2096,
-        "t_plus_4h": 0.3988
+        "t_plus_4h": 0.3988,
+        "t_plus_24h": 0.3397
       }
     },
     {
@@ -1126,7 +1227,8 @@
         "t_plus_5m": 0.886,
         "t_plus_15m": 0.6595,
         "t_plus_1h": -0.194,
-        "t_plus_4h": 0.0782
+        "t_plus_4h": 0.0782,
+        "t_plus_24h": -0.1004
       }
     },
     {
@@ -6397,134 +6499,38 @@
       "timestamp_utc": "2026-06-05T16:44:44+00:00",
       "raw_text": "Pump.fun bounty platform pays users to tattoo tokens and chase viral stunts\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Pump.fun bounty platform pays users to tattoo tokens and chase viral stunts\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528",
       "impact": {}
-    },
-    {
-      "event_id": "74185abc-13b9-4199-8942-940dd548b455",
-      "source": "rss:theblock",
-      "title": "Securitize clears SEC registration statement hurdle, sets path to NYSE listing as SECZ",
-      "url": "https://www.theblock.co/post/403842/securitize-clears-sec-registration-statement-hurdle-sets-path-to-nyse-listing-as-secz?utm_source=rss&utm_medium=rss",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T16:30:52+00:00",
-      "raw_text": "Securitize clears SEC registration statement hurdle, sets path to NYSE listing as SECZ\n\n<p>Securitize's SPAC merger is expected to close shortly after a CEPT shareholder vote, if approved, later this month.</p>\n\n<p>Securitize's SPAC merger is expected to close shortly after a CEPT shareholder vote, ",
-      "impact": {}
-    },
-    {
-      "event_id": "1528e525-10b7-43e1-af5e-342afff0375a",
-      "source": "rss:decrypt",
-      "title": "Bitcoin Dives Below $60K Following Strong Jobs Data, Zcash Crash Shaking Crypto Confidence",
-      "url": "https://decrypt.co/370120/bitcoin-dives-below-60k-first-time-2024-zcash-crash",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T16:15:42+00:00",
-      "raw_text": "Bitcoin Dives Below $60K Following Strong Jobs Data, Zcash Crash Shaking Crypto Confidence\n\nBitcoin has now fallen more than 50% from its October peak, dipping below $60,000 as the crypto industry reckons with the Zcash vulnerability.",
-      "impact": {}
-    },
-    {
-      "event_id": "ed558ea5-c5a9-40a2-8744-717ece00c3c4",
-      "source": "rss:cointelegraph",
-      "title": "Saylor says Bitcoin needs ‘disciplined expansion’ as analysts weigh demand reset",
-      "url": "https://cointelegraph.com/news/saylor-bitcoin-disciplined-expansion-demand-reset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T16:09:40+00:00",
-      "raw_text": "Saylor says Bitcoin needs ‘disciplined expansion’ as analysts weigh demand reset\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Saylor says Bitcoin needs ‘disciplined expansion’ as analysts weigh demand reset\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/",
-      "impact": {}
-    },
-    {
-      "event_id": "7974e0ee-83ec-4398-bd57-1ce613b49ffa",
-      "source": "rss:theblock",
-      "title": "Crypto Council for Innovation launches coalition to push for regulatory clarity on vaults",
-      "url": "https://www.theblock.co/post/403829/crypto-council-for-innovation-launches-coalition-to-push-for-regulatory-clarity-on-vaults?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T16:05:02+00:00",
-      "raw_text": "Crypto Council for Innovation launches coalition to push for regulatory clarity on vaults\n\n<p>A new coalition is forming, focused on crypto vaults, an increasingly popular mechanism for depositing digital assets and earning yield.</p>\n\n<p>A new coalition is forming, focused on crypto vaults, an incr",
-      "impact": {}
-    },
-    {
-      "event_id": "604a5688-7b01-441b-8c47-469593a8817a",
-      "source": "rss:coindesk",
-      "title": "Memecoins dogecoin, shiba inu dive 9% as bitcoin nears $60,000",
-      "url": "https://www.coindesk.com/markets/2026/06/05/memecoins-dogecoin-shiba-inu-dive-9-as-bitcoin-nears-usd60-000",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T16:01:00+00:00",
-      "raw_text": "Memecoins dogecoin, shiba inu dive 9% as bitcoin nears $60,000",
-      "impact": {}
-    },
-    {
-      "event_id": "5ea3263e-11d5-4e8d-9b22-80ab43518550",
-      "source": "rss:decrypt",
-      "title": "Government Stablecoin Payments Would Fuel 'Tax Evasion Economy,' Lawmaker Warns",
-      "url": "https://decrypt.co/370121/government-stablecoin-payments-would-fuel-tax-evasion-economy-lawmaker-warns",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T15:52:15+00:00",
-      "raw_text": "Government Stablecoin Payments Would Fuel 'Tax Evasion Economy,' Lawmaker Warns\n\nRep. Brad Sherman warned that allowing government payments in stablecoins would \"sanctify an alternative to the U.S. dollar.\"",
-      "impact": {}
-    },
-    {
-      "event_id": "4a27cecf-4548-45b5-b0b2-f08c266163fd",
-      "source": "rss:coindesk",
-      "title": "U.S. House tax committee weighs crypto bills, including relief for small transactions",
-      "url": "https://www.coindesk.com/policy/2026/06/05/u-s-house-tax-committee-weighs-crypto-bills-including-relief-for-small-transactions",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T15:49:13+00:00",
-      "raw_text": "U.S. House tax committee weighs crypto bills, including relief for small transactions",
-      "impact": {}
-    },
-    {
-      "event_id": "106a29d5-1225-4b19-a5e1-755b4708aa28",
-      "source": "rss:decrypt",
-      "title": "Winklevoss-Backed Zcash Treasury Plunges Nearly 40% on ZEC Privacy Bug Concerns",
-      "url": "https://decrypt.co/370127/winklevoss-backed-zcash-treasury-plunges-nearly-40-zec-privacy-bug",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T15:49:08+00:00",
-      "raw_text": "Winklevoss-Backed Zcash Treasury Plunges Nearly 40% on ZEC Privacy Bug Concerns\n\nCypherpunk Technologies shares tumbled to their lowest point since March as jitters tied to a Zcash bug knocked the Winklevoss-backed firm.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 206,
-        "avg_1h": -0.02,
-        "avg_24h": 1.13,
+      "macro": {
+        "count": 84,
+        "avg_1h": -0.03,
+        "avg_24h": 1.09,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 83,
-        "avg_1h": -0.03,
-        "avg_24h": 2.34,
+      "unknown": {
+        "count": 204,
+        "avg_1h": -0.02,
+        "avg_24h": 1.05,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 26,
+        "count": 27,
         "avg_1h": 0.39,
         "avg_24h": 0.87,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 166,
+        "count": 167,
         "avg_1h": -0.11,
         "avg_24h": 2.42,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
-        "count": 18,
+        "count": 17,
         "avg_1h": -0.31,
-        "avg_24h": 0.19,
+        "avg_24h": 0.27,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
