@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T01:36:47.774643+00:00",
+  "generated_at": "2026-06-12T06:53:46.471048+00:00",
   "events": [
     {
       "event_id": "6c6beb40-6795-44e5-93ad-d68fc6861a67",
@@ -8,10 +8,17 @@
       "url": "https://www.theblock.co/post/404469/anarchistic-neobanks-bitcoins-next-frontier-says-blockrise-ceo?utm_source=rss&utm_medium=rss",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-12T00:01:02+00:00",
       "raw_text": "‘Anarchistic neobanks’ are bitcoin’s next frontier, says Blockrise CEO\n\n<p>Blockrise CEO Jos Lazet sees bitcoin-native institutions evolving into alternatives to banks, in an interview at BTC Prague. </p>\n\n<p>Blockrise CEO Jos Lazet sees bitcoin-native institutions evolving into alternatives to bank",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0182,
+        "t_plus_15m": 0.2106,
+        "t_plus_1h": 0.1008,
+        "t_plus_4h": -0.1275
+      }
     },
     {
       "event_id": "26210f2d-fd02-4ef1-a4ad-13bd25fc1fc1",
@@ -20,10 +27,17 @@
       "url": "https://cointelegraph.com/markets/big-tech-crash-oil-volatility-rattles-markets-will-bitcoin-hold-above-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-11T22:58:52+00:00",
       "raw_text": "Big Tech crash, oil volatility rattles markets: Will Bitcoin hold above $60K?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Big Tech crash, oil volatility rattles markets: Will Bitcoin hold above $60K?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2529,
+        "t_plus_15m": -0.2889,
+        "t_plus_1h": 0.0572,
+        "t_plus_4h": -0.0153
+      }
     },
     {
       "event_id": "c7e98241-904f-4264-a834-13a4461b47c4",
@@ -76,7 +90,8 @@
       "impact": {
         "t_plus_5m": -0.2082,
         "t_plus_15m": 0.01,
-        "t_plus_1h": -0.1002
+        "t_plus_1h": -0.1002,
+        "t_plus_4h": 0.1386
       }
     },
     {
@@ -94,7 +109,8 @@
       "impact": {
         "t_plus_5m": -0.2082,
         "t_plus_15m": 0.01,
-        "t_plus_1h": -0.1002
+        "t_plus_1h": -0.1002,
+        "t_plus_4h": 0.1386
       }
     },
     {
@@ -136,7 +152,8 @@
       "impact": {
         "t_plus_5m": 0.1562,
         "t_plus_15m": 0.0002,
-        "t_plus_1h": 0.2096
+        "t_plus_1h": 0.2096,
+        "t_plus_4h": 0.3988
       }
     },
     {
@@ -1105,7 +1122,8 @@
         "t_plus_5m": -0.0605,
         "t_plus_15m": -0.3155,
         "t_plus_1h": -0.5129,
-        "t_plus_4h": 0.0693
+        "t_plus_4h": 0.0693,
+        "t_plus_24h": 2.3371
       }
     },
     {
@@ -1148,7 +1166,8 @@
         "t_plus_5m": -1.3507,
         "t_plus_15m": -1.3056,
         "t_plus_1h": -0.4654,
-        "t_plus_4h": -0.3876
+        "t_plus_4h": -0.3876,
+        "t_plus_24h": 0.8896
       }
     },
     {
@@ -1167,7 +1186,8 @@
         "t_plus_5m": -1.1536,
         "t_plus_15m": -0.8293,
         "t_plus_1h": -0.5506,
-        "t_plus_4h": 0.4758
+        "t_plus_4h": 0.4758,
+        "t_plus_24h": 2.8177
       }
     },
     {
@@ -6514,19 +6534,19 @@
       "unknown": {
         "count": 215,
         "avg_1h": -0.06,
-        "avg_24h": 0.57,
+        "avg_24h": 0.72,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
         "count": 72,
-        "avg_1h": -0.13,
-        "avg_24h": null,
+        "avg_1h": -0.12,
+        "avg_24h": 2.34,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
         "count": 169,
         "avg_1h": -0.16,
-        "avg_24h": 2.03,
+        "avg_24h": 1.75,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
