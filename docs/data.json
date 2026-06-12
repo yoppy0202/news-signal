@@ -1,6 +1,114 @@
 {
-  "generated_at": "2026-06-11T22:11:38.577598+00:00",
+  "generated_at": "2026-06-12T01:36:47.774643+00:00",
   "events": [
+    {
+      "event_id": "6c6beb40-6795-44e5-93ad-d68fc6861a67",
+      "source": "rss:theblock",
+      "title": "‘Anarchistic neobanks’ are bitcoin’s next frontier, says Blockrise CEO",
+      "url": "https://www.theblock.co/post/404469/anarchistic-neobanks-bitcoins-next-frontier-says-blockrise-ceo?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T00:01:02+00:00",
+      "raw_text": "‘Anarchistic neobanks’ are bitcoin’s next frontier, says Blockrise CEO\n\n<p>Blockrise CEO Jos Lazet sees bitcoin-native institutions evolving into alternatives to banks, in an interview at BTC Prague. </p>\n\n<p>Blockrise CEO Jos Lazet sees bitcoin-native institutions evolving into alternatives to bank",
+      "impact": {}
+    },
+    {
+      "event_id": "26210f2d-fd02-4ef1-a4ad-13bd25fc1fc1",
+      "source": "rss:cointelegraph",
+      "title": "Big Tech crash, oil volatility rattles markets: Will Bitcoin hold above $60K?",
+      "url": "https://cointelegraph.com/markets/big-tech-crash-oil-volatility-rattles-markets-will-bitcoin-hold-above-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-11T22:58:52+00:00",
+      "raw_text": "Big Tech crash, oil volatility rattles markets: Will Bitcoin hold above $60K?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Big Tech crash, oil volatility rattles markets: Will Bitcoin hold above $60K?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
+      "impact": {}
+    },
+    {
+      "event_id": "c7e98241-904f-4264-a834-13a4461b47c4",
+      "source": "rss:decrypt",
+      "title": "OpenAI Wants a Price War With Anthropic—Is It Proving DeepSeek Right?",
+      "url": "https://decrypt.co/370854/openai-price-war-anthropic-deepseek-china",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-11T22:31:03+00:00",
+      "raw_text": "OpenAI Wants a Price War With Anthropic—Is It Proving DeepSeek Right?\n\nSam Altman is weighing drastic token price cuts to fight Anthropic. The problem is DeepSeek already made that argument for him—and for free.",
+      "impact": {}
+    },
+    {
+      "event_id": "33e2adbb-a0aa-402b-88fb-27afb46c5a78",
+      "source": "rss:decrypt",
+      "title": "Bitcoin Must Prepare for Quantum Threat Now, Coinbase Says",
+      "url": "https://decrypt.co/370851/bitcoin-quantum-threat-now-coinbase",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-11T21:50:06+00:00",
+      "raw_text": "Bitcoin Must Prepare for Quantum Threat Now, Coinbase Says\n\nCoinbase's quantum advisory council says crypto developers should begin post-quantum migration work now, warning that unresolved questions around abandoned and vulnerable coins could become one of Bitcoin's biggest battles.",
+      "impact": {}
+    },
+    {
+      "event_id": "6e3d083d-ac6d-4dbc-b699-2802a0896ce1",
+      "source": "rss:cointelegraph",
+      "title": "Citi launches blockchain marketplace for private companies shares: Report",
+      "url": "https://cointelegraph.com/news/citi-launches-blockchain-marketplace-private-company-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-11T21:24:56+00:00",
+      "raw_text": "Citi launches blockchain marketplace for private companies shares: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Citi launches blockchain marketplace for private companies shares: Report\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
+      "impact": {}
+    },
+    {
+      "event_id": "9eb2b1e3-cceb-4598-9833-5e3540b78964",
+      "source": "rss:theblock",
+      "title": "Man who spent 1,500 BTC on graphics card now helps insure bitcoin holders",
+      "url": "https://www.theblock.co/post/404438/man-who-spent-1500-btc-graphics-card-now-helps-insure-bitcoin-holders?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-06-11T21:01:02+00:00",
+      "raw_text": "Man who spent 1,500 BTC on graphics card now helps insure bitcoin holders\n\n<p>Bitsurance, insures clients' bitcoin against \"physical attacks\" like fire, water, robbery and the \"$5 Wrench Attack.\"</p>\n\n<p>Bitsurance, insures clients' bitcoin against \"physical attacks\" like fire, water, robbery and th",
+      "impact": {
+        "t_plus_5m": -0.2082,
+        "t_plus_15m": 0.01,
+        "t_plus_1h": -0.1002
+      }
+    },
+    {
+      "event_id": "fe76c340-3fbd-4dce-b3d9-84a65281b0af",
+      "source": "rss:bitcoinmagazine",
+      "title": "Bukele’s Reform Makes El Salvador a Top Tax Haven: 0% on Foreign Income and Bitcoin Gains with Minimal Presence",
+      "url": "https://bitcoinmagazine.com/business/bukeles-reform-makes-el-salvador-a-top-tax-haven-0-on-foreign-income-and-bitcoin-gains-with-minimal-presence",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-06-11T20:59:13+00:00",
+      "raw_text": "Bukele’s Reform Makes El Salvador a Top Tax Haven: 0% on Foreign Income and Bitcoin Gains with Minimal Presence\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/tn-2.webp\" style=\"display: block; margi",
+      "impact": {
+        "t_plus_5m": -0.2082,
+        "t_plus_15m": 0.01,
+        "t_plus_1h": -0.1002
+      }
+    },
+    {
+      "event_id": "8bc8975a-c79a-43e7-b2d2-5b8209eab2d2",
+      "source": "rss:decrypt",
+      "title": "Ripple CEO Takes Aim at JPMorgan's Jamie Dimon Over Clarity Act Crypto Bill Criticism",
+      "url": "https://decrypt.co/370840/ripple-ceo-takes-aim-jpmorgan-jamie-dimon-clarity-act-comments",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-11T20:44:14+00:00",
+      "raw_text": "Ripple CEO Takes Aim at JPMorgan's Jamie Dimon Over Clarity Act Crypto Bill Criticism\n\nRipple's Brad Garlinghouse spoke out against JPMorgan CEO Jamie Dimon and his comments on the key piece of crypto legislation.",
+      "impact": {}
+    },
     {
       "event_id": "a6a74e07-a075-4808-a5de-1489467770ec",
       "source": "rss:decrypt",
@@ -71,7 +179,8 @@
       "impact": {
         "t_plus_5m": 0.886,
         "t_plus_15m": 0.6595,
-        "t_plus_1h": -0.194
+        "t_plus_1h": -0.194,
+        "t_plus_4h": 0.0782
       }
     },
     {
@@ -137,7 +246,8 @@
       "impact": {
         "t_plus_5m": 0.4804,
         "t_plus_15m": 0.5848,
-        "t_plus_1h": 1.0542
+        "t_plus_1h": 1.0542,
+        "t_plus_4h": 1.1195
       }
     },
     {
@@ -838,6 +948,18 @@
       "tokens": [],
       "timestamp_utc": "2026-06-11T07:00:53+00:00",
       "raw_text": "AI researcher claims he's already bypassed Anthropic's Fable 5 guardrails\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"AI researcher claims he's already bypassed Anthropic's Fable 5 guardrails\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
+      "impact": {}
+    },
+    {
+      "event_id": "a31d5a8e-7a67-4353-9e7c-1803127b91a1",
+      "source": "rss:cointelegraph",
+      "title": "US lawmakers seek coordinated federal response to crypto theft and scams",
+      "url": "https://cointelegraph.com/news/doj-crypto-theft-task-force-proposed-by-bipartisan-lawmakers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-11T07:00:00+00:00",
+      "raw_text": "US lawmakers seek coordinated federal response to crypto theft and scams\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US lawmakers seek coordinated federal response to crypto theft and scams\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
       "impact": {}
     },
     {
@@ -6385,152 +6507,38 @@
       "timestamp_utc": "2026-06-04T17:21:27+00:00",
       "raw_text": "Bybit joins Western Union’s new USDPT network as stablecoin expands distribution\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bybit joins Western Union’s new USDPT network as stablecoin expands distribution\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/",
       "impact": {}
-    },
-    {
-      "event_id": "fc239f52-7cc2-4b4b-b9fb-ea515e416adc",
-      "source": "rss:decrypt",
-      "title": "Crypto Billionaires Donate $9.4M to Farage’s Reform UK in Q1",
-      "url": "https://decrypt.co/370059/crypto-billionaires-donate-9-4m-to-farages-reform-uk-in-q1",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-04T17:20:39+00:00",
-      "raw_text": "Crypto Billionaires Donate $9.4M to Farage’s Reform UK in Q1\n\nTether investor Christopher Harborne and BitMEX co-founder Ben Delo’s outspent Britain's traditional political donors.",
-      "impact": {}
-    },
-    {
-      "event_id": "48f4c0f3-6120-45f2-bfdb-6da4fdbfd9fc",
-      "source": "rss:theblock",
-      "title": "Ether.fi allocates $100 million to a Plume RWA vault, giving users access to yield",
-      "url": "https://www.theblock.co/post/403681/ether-fi-allocates-100-million-plume-rwa-vault-yield?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-04T17:20:03+00:00",
-      "raw_text": "Ether.fi allocates $100 million to a Plume RWA vault, giving users access to yield\n\n<p>The allocation comes from a mix of ether.fi's liquidity provider base and managed capital from its existing liquid vaults.</p>\n\n<p>The allocation comes from a mix of ether.fi's liquidity provider base and managed ",
-      "impact": {}
-    },
-    {
-      "event_id": "678a39f8-50f0-4b1b-bcaf-83ad136d7486",
-      "source": "rss:theblock",
-      "title": "Chainalysis says ‘top-tier’ gray market peptide vendors turn to bitcoin and stablecoins",
-      "url": "https://www.theblock.co/post/403683/chainalysis-says-top-tier-gray-market-peptide-vendors-turn-to-bitcoin-and-stablecoins?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-04T17:08:46+00:00",
-      "raw_text": "Chainalysis says ‘top-tier’ gray market peptide vendors turn to bitcoin and stablecoins\n\n<p>“To scale, the gray-market peptide trade adopted cryptocurrency as its backbone,” Chainalysis said in a report.</p>\n\n<p>“To scale, the gray-market peptide trade adopted cryptocurrency as its backbone,” Chaina",
-      "impact": {}
-    },
-    {
-      "event_id": "017e2f7c-a6a9-493e-8ca0-a22458c179f7",
-      "source": "rss:decrypt",
-      "title": "Bitcoin Miners Emerge as 'Power Landlords' of AI Boom—And Revenue Will Surge: Bernstein",
-      "url": "https://decrypt.co/370047/bitcoin-miners-power-landlords-ai-boom-revenue-surge-bernstein",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-04T16:32:52+00:00",
-      "raw_text": "Bitcoin Miners Emerge as 'Power Landlords' of AI Boom—And Revenue Will Surge: Bernstein\n\nBernstein is bullish on Bitcoin miners as they increasingly power the AI boom, assigning “Outperform” ratings to TeraWulf and Cipher Digital.",
-      "impact": {}
-    },
-    {
-      "event_id": "45087bd1-e2ef-4be8-a5b2-83bfb5a6f30f",
-      "source": "rss:coindesk",
-      "title": "Hyperliquid pulls back from record highs as Arthur Hayes exits position shy of $150 price target",
-      "url": "https://www.coindesk.com/markets/2026/06/04/hyperliquid-pulls-back-from-record-highs-as-arthur-hayes-exits-position-shy-of-usd150-price-target",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-04T15:52:19+00:00",
-      "raw_text": "Hyperliquid pulls back from record highs as Arthur Hayes exits position shy of $150 price target",
-      "impact": {}
-    },
-    {
-      "event_id": "e77972bb-4a04-4f86-9dd3-68da289c276e",
-      "source": "rss:theblock",
-      "title": "JPMorgan says crypto bill may have only a narrow window for passage this year",
-      "url": "https://www.theblock.co/post/403676/jpmorgan-crypto-bill-narrow-window-passage-this-year?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-04T15:44:40+00:00",
-      "raw_text": "JPMorgan says crypto bill may have only a narrow window for passage this year\n\n<p>JPMorgan analysts said the crypto market structure bill, or Clarity Act, may have only a narrow window for passage this year.</p>\n\n<p>JPMorgan analysts said the crypto market structure bill, or Clarity Act, may have on",
-      "impact": {}
-    },
-    {
-      "event_id": "93d78057-2fb1-4a30-82a4-05a856e4da32",
-      "source": "rss:decrypt",
-      "title": "DOJ Task Force Freezes $3.8M in Illicit Crypto—With Help From Coinbase, SpaceX and Meta",
-      "url": "https://decrypt.co/370005/doj-task-force-freezes-3-8m-illicit-crypto-help-fcoinbase-spacex-meta",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-04T15:44:31+00:00",
-      "raw_text": "DOJ Task Force Freezes $3.8M in Illicit Crypto—With Help From Coinbase, SpaceX and Meta\n\nSome of America's biggest companies helped squash crypto fraud stemming from organized crime in Southeast Asia.",
-      "impact": {}
-    },
-    {
-      "event_id": "405d71a3-6838-426d-8afd-65f123fd08d0",
-      "source": "rss:bitcoinmagazine",
-      "title": "Michael Saylor Calls Bitcoin’s Drop a ‘Capital Rotation’ to AI as BTC Slides Below $62,000",
-      "url": "https://bitcoinmagazine.com/news/michael-saylor-calls-bitcoins-drop",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-04T15:36:58+00:00",
-      "raw_text": "Michael Saylor Calls Bitcoin’s Drop a ‘Capital Rotation’ to AI as BTC Slides Below $62,000\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/01/Michael-Saylors-Strategy-MSTR-Spends-2.13-Billion-to-Buy-223",
-      "impact": {
-        "t_plus_5m": 0.1696,
-        "t_plus_15m": 0.0056,
-        "t_plus_1h": -0.321
-      }
-    },
-    {
-      "event_id": "778997e4-0f9b-4827-b97f-933b39039c60",
-      "source": "rss:decrypt",
-      "title": "Fannie Mae-Backed Bitcoin Home Mortgages Are Finally Here, Coinbase Says",
-      "url": "https://decrypt.co/370016/fannie-mae-backed-bitcoin-home-mortgages-finally-here-coinbase",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-04T15:12:00+00:00",
-      "raw_text": "Fannie Mae-Backed Bitcoin Home Mortgages Are Finally Here, Coinbase Says\n\nCoinbase said a Michigan couple closed on the first-ever conventional, Fannie Mae-backed home mortgage by pledging Bitcoin as collateral.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 172,
-        "avg_1h": -0.16,
-        "avg_24h": 2.03,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "listing": {
-        "count": 17,
-        "avg_1h": -0.29,
-        "avg_24h": -5.63,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 70,
-        "avg_1h": -0.15,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
         "count": 215,
         "avg_1h": -0.06,
         "avg_24h": 0.57,
         "win_rate_1h_gt5pct": 0.0
       },
+      "macro": {
+        "count": 72,
+        "avg_1h": -0.13,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 169,
+        "avg_1h": -0.16,
+        "avg_24h": 2.03,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
-        "count": 24,
-        "avg_1h": 0.87,
+        "count": 25,
+        "avg_1h": 0.39,
         "avg_24h": 0.87,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "listing": {
+        "count": 17,
+        "avg_1h": -0.29,
+        "avg_24h": -5.63,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
