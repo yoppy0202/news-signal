@@ -1,6 +1,288 @@
 {
-  "generated_at": "2026-06-12T14:14:26.495689+00:00",
+  "generated_at": "2026-06-12T17:41:39.000778+00:00",
   "events": [
+    {
+      "event_id": "c1d5da08-0d76-46a6-8b9c-54ef9a9b79b7",
+      "source": "rss:coindesk",
+      "title": "Bloomberg Analyst: Most Bitcoin ETF Investors Have Stayed Put Despite Outflows",
+      "url": "https://www.coindesk.com/markets/2026/06/08/bloomberg-analyst-most-bitcoin-etf-investors-have-stayed-put-despite-outflows",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T15:49:36+00:00",
+      "raw_text": "Bloomberg Analyst: Most Bitcoin ETF Investors Have Stayed Put Despite Outflows",
+      "impact": {}
+    },
+    {
+      "event_id": "8c56e2f9-8dd4-4df0-9682-3adf28100740",
+      "source": "rss:bitcoinmagazine",
+      "title": "SpaceX Officially Joins Public Bitcoin Leaderboard as 8th Largest Holder With 18,712 BTC",
+      "url": "https://bitcoinmagazine.com/news/spacex-officially-join-bitcoin-leaderboard",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-06-12T15:45:20+00:00",
+      "raw_text": "SpaceX Officially Joins Public Bitcoin Leaderboard as 8th Largest Holder With 18,712 BTC\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/SpaceX-Officially-Joins-Public-Bitcoin-Leaderboard-as-8th-Larg",
+      "impact": {
+        "t_plus_5m": -0.0903,
+        "t_plus_15m": -0.2367,
+        "t_plus_1h": 0.0693
+      }
+    },
+    {
+      "event_id": "9df51a07-8148-4efb-95cb-49f327465108",
+      "source": "rss:coindesk",
+      "title": "Kalshi’s crypto perpetuals spark debate over whether they’re futures or swaps",
+      "url": "https://www.coindesk.com/policy/2026/06/12/kalshi-s-crypto-perpetuals-spark-debate-over-whether-they-re-futures-or-swaps",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T15:37:08+00:00",
+      "raw_text": "Kalshi’s crypto perpetuals spark debate over whether they’re futures or swaps",
+      "impact": {}
+    },
+    {
+      "event_id": "e438f52d-69cd-4e93-acd2-d431b5ac616a",
+      "source": "rss:coindesk",
+      "title": "The U.S. government is betting $2 Billion on quantum computing, and the defense side can't keep up",
+      "url": "https://www.coindesk.com/opinion/2026/06/12/the-u-s-government-is-betting-usd2-billion-on-quantum-computing-and-the-defense-side-can-t-keep-up",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T15:31:00+00:00",
+      "raw_text": "The U.S. government is betting $2 Billion on quantum computing, and the defense side can't keep up",
+      "impact": {}
+    },
+    {
+      "event_id": "2c94c9f2-daa1-487b-8834-929cfa2704e6",
+      "source": "rss:decrypt",
+      "title": "'Winter Is Over': Standard Chartered Calls Crypto Bottom as Bitcoin Recovers From $60K Fall",
+      "url": "https://decrypt.co/370907/winter-over-standard-chartered-calls-crypto-bottom-bitcoin-recovers-60k-fall",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T15:16:08+00:00",
+      "raw_text": "'Winter Is Over': Standard Chartered Calls Crypto Bottom as Bitcoin Recovers From $60K Fall\n\nStandard Chartered analyst Geoff Kendrick suggests the crypto market has hit its lowest point following Bitcoin's recent drop below $60,000.",
+      "impact": {}
+    },
+    {
+      "event_id": "933f9714-eb9a-4b93-a905-8292e39e4523",
+      "source": "rss:decrypt",
+      "title": "Sam Bankman-Fried Loses Appeal as Federal Court Upholds 'Robust' Fraud Conviction",
+      "url": "https://decrypt.co/370909/sam-bankman-fried-loses-appeal-federal-court-upholds-fraud",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T15:05:24+00:00",
+      "raw_text": "Sam Bankman-Fried Loses Appeal as Federal Court Upholds 'Robust' Fraud Conviction\n\nDisgraced FTX founder Sam Bankman-Fried has applied for a pardon from President Trump, which is now his one remaining path out of prison.",
+      "impact": {}
+    },
+    {
+      "event_id": "58a81b07-54ec-47ec-b70e-134e6a3f97d4",
+      "source": "rss:decrypt",
+      "title": "GameStop Renews Bitcoin Deal That Did Little for Its Record Quarter",
+      "url": "https://decrypt.co/370905/gamestop-renews-bitcoin-deal-that-did-little-for-its-record-quarter",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T15:02:28+00:00",
+      "raw_text": "GameStop Renews Bitcoin Deal That Did Little for Its Record Quarter\n\nThe retailer rolled its Coinbase options deal forward in late May, keeping nearly all its Bitcoin tied up for upfront cash.",
+      "impact": {}
+    },
+    {
+      "event_id": "35412485-af65-4a19-993c-e8174da22f09",
+      "source": "rss:bitcoinmagazine",
+      "title": "Sam Bankman-Fried Loses Appeal to Overturn FTX Fraud Conviction",
+      "url": "https://bitcoinmagazine.com/news/sam-bankman-fried-loses-appeal-ftx",
+      "event_type": "listing",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T14:45:21+00:00",
+      "raw_text": "Sam Bankman-Fried Loses Appeal to Overturn FTX Fraud Conviction\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Sam-Bankman-Fried-Loses-Appeal-to-Overturn-FTX-Fraud-Conviction.jpg\" style=\"display: bl",
+      "impact": {}
+    },
+    {
+      "event_id": "31766ac7-ec4f-4330-adf7-609ff1438055",
+      "source": "rss:coindesk",
+      "title": "FTX's Sam Bankman-Fried loses appeal of criminal conviction on fraud, conspiracy charges",
+      "url": "https://www.coindesk.com/policy/2026/06/12/ftx-s-sam-bankman-fried-loses-appeal-of-criminal-conviction-on-fraud-conspiracy-charges",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T14:13:40+00:00",
+      "raw_text": "FTX's Sam Bankman-Fried loses appeal of criminal conviction on fraud, conspiracy charges",
+      "impact": {}
+    },
+    {
+      "event_id": "21f3e6f0-42b5-404e-9ffe-af9dde873973",
+      "source": "rss:coindesk",
+      "title": "XRP sentiment falls to 8-month low, and that has been a buy signal before",
+      "url": "https://www.coindesk.com/markets/2026/06/12/xrp-sentiment-falls-to-an-eight-month-low-and-that-has-been-a-buy-signal-before",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [
+        "XRP"
+      ],
+      "timestamp_utc": "2026-06-12T14:08:03+00:00",
+      "raw_text": "XRP sentiment falls to 8-month low, and that has been a buy signal before",
+      "impact": {
+        "t_plus_5m": -0.6748,
+        "t_plus_15m": -0.6406,
+        "t_plus_1h": 0.8952
+      }
+    },
+    {
+      "event_id": "2e42d150-20e3-4930-9c72-4664f5d04153",
+      "source": "rss:bitcoinmagazine",
+      "title": "Strategy Stock MSTR Offers Bitcoin Exposure At 18% Discount",
+      "url": "https://bitcoinmagazine.com/markets/strategy-stock-mstr-offers-bitcoin-exposure-at-18-discount",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-06-12T13:51:40+00:00",
+      "raw_text": "Strategy Stock MSTR Offers Bitcoin Exposure At 18% Discount\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-Stock-MSTR-Offers-Bitcoin-Exposure-At-18-Discount.jpg\" style=\"display: block; marg",
+      "impact": {
+        "t_plus_5m": -1.0257,
+        "t_plus_15m": -0.6577,
+        "t_plus_1h": -0.4937
+      }
+    },
+    {
+      "event_id": "a96c9cbe-fa2e-426f-9a18-e2e5ff610861",
+      "source": "rss:theblock",
+      "title": "Appeals court rejects Sam Bankman-Fried’s bid for new trial in FTX fraud case",
+      "url": "https://www.theblock.co/post/404637/appeals-court-rejects-sam-bankman-frieds-bid-for-new-trial-in-ftx-fraud-case?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T13:47:54+00:00",
+      "raw_text": "Appeals court rejects Sam Bankman-Fried’s bid for new trial in FTX fraud case\n\n<p>Sam Bankman-Fried lost his appeal to overturn his 25-year sentence after accusing the original court of not giving him a fair chance.</p>\n\n<p>Sam Bankman-Fried lost his appeal to overturn his 25-year sentence after acc",
+      "impact": {}
+    },
+    {
+      "event_id": "bc5a2280-b5fc-4141-b32d-6b76e4ee5552",
+      "source": "rss:bitcoinmagazine",
+      "title": "Metaplanet Acquires Siiibo Securities in Push to Build Bitcoin Financial Ecosystem",
+      "url": "https://bitcoinmagazine.com/news/metaplanet-acquires-siiibo-securities",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-06-12T13:32:45+00:00",
+      "raw_text": "Metaplanet Acquires Siiibo Securities in Push to Build Bitcoin Financial Ecosystem\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Metaplanet-Acquires-Siiibo-Securities-in-Push-to-Build-Bitcoin-Finan",
+      "impact": {
+        "t_plus_5m": -0.7989,
+        "t_plus_15m": -1.0526,
+        "t_plus_1h": -0.3446
+      }
+    },
+    {
+      "event_id": "2b423df9-24af-45d5-96d4-54420aaec013",
+      "source": "rss:theblock",
+      "title": "Exodus, Ondo launch tokenized markets with 200-plus stocks and ETFs on Solana",
+      "url": "https://www.theblock.co/post/404622/exodus-launches-tokenized-markets-200-plus-stocks-etfs-on-solana?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T13:26:25+00:00",
+      "raw_text": "Exodus, Ondo launch tokenized markets with 200-plus stocks and ETFs on Solana\n\n<p>Exodus partnered with Ondo on to launch tokenized trading of 200+ stocks and ETFs directly on the Solana blockchain.</p>\n\n<p>Exodus partnered with Ondo on to launch tokenized trading of 200+ stocks and ETFs directly on",
+      "impact": {}
+    },
+    {
+      "event_id": "4fb1133c-65a4-45c2-9396-b96c1c5c6821",
+      "source": "rss:cointelegraph",
+      "title": "Polish president vetoes crypto bill for third time ahead of MiCA deadline",
+      "url": "https://cointelegraph.com/news/polish-president-vetoes-crypto-bill-third-time-mica-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T13:25:53+00:00",
+      "raw_text": "Polish president vetoes crypto bill for third time ahead of MiCA deadline\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Polish president vetoes crypto bill for third time ahead of MiCA deadline\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
+      "impact": {}
+    },
+    {
+      "event_id": "c755abbf-e1aa-40a8-8732-764d41e64af4",
+      "source": "rss:coindesk",
+      "title": "CoinDesk 20 performance update: Ethereum (ETH) falls 1% as index trades lower",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/06/12/coindesk-20-performance-update-ethereum-eth-falls-1-as-index-trades-lower",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [
+        "ETH"
+      ],
+      "timestamp_utc": "2026-06-12T13:11:26+00:00",
+      "raw_text": "CoinDesk 20 performance update: Ethereum (ETH) falls 1% as index trades lower",
+      "impact": {
+        "t_plus_5m": -0.1713,
+        "t_plus_15m": -0.1834,
+        "t_plus_1h": -0.1867
+      }
+    },
+    {
+      "event_id": "1731b412-b05d-4a7c-b7d8-7db1ec55ce6f",
+      "source": "rss:cointelegraph",
+      "title": "KuCoin has not paid $2M award tied to delisted token dispute, investor says",
+      "url": "https://cointelegraph.com/news/kucoin-yet-pay-seychelles-court-order-2m-token-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "listing",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T13:03:23+00:00",
+      "raw_text": "KuCoin has not paid $2M award tied to delisted token dispute, investor says\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"KuCoin has not paid $2M award tied to delisted token dispute, investor says\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528",
+      "impact": {}
+    },
+    {
+      "event_id": "6d33d52e-5b1e-45e5-9035-a0fd67ce6eae",
+      "source": "rss:theblock",
+      "title": "Ethena Labs to allocate $250 million to Securitize’s Tokenized AAA CLO Fund as it deploys on Solana",
+      "url": "https://www.theblock.co/post/404602/ethena-labs-to-allocate-250-million-to-securitizes-tokenized-aaa-clo-fund-as-it-deploys-on-solana?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T13:00:00+00:00",
+      "raw_text": "Ethena Labs to allocate $250 million to Securitize’s Tokenized AAA CLO Fund as it deploys on Solana\n\n<p>STAC is one of Securitize’s in-house offerings that provides onchain access to institutional-grade, floating-rate structured credit.</p>\n\n<p>STAC is one of Securitize’s in-house offerings that pro",
+      "impact": {}
+    },
+    {
+      "event_id": "7716e6ca-6e51-426a-8c61-b890e5aa1278",
+      "source": "rss:theblock",
+      "title": "US spot Bitcoin ETFs set to hit $2 trillion cumulative trading volume milestone amid mounting outflows",
+      "url": "https://www.theblock.co/post/404584/bitcoin-etfs-2-trillion-usd-cumulative-trading-volume?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T12:52:38+00:00",
+      "raw_text": "US spot Bitcoin ETFs set to hit $2 trillion cumulative trading volume milestone amid mounting outflows\n\n<p>BlackRock's IBIT dominates spot Bitcoin exchange-traded funds by trading volume, with a current 73.7% market share.</p>\n\n<p>BlackRock's IBIT dominates spot Bitcoin exchange-traded funds by trad",
+      "impact": {}
+    },
+    {
+      "event_id": "9e56963e-a945-43e3-94da-19929e8da125",
+      "source": "rss:decrypt",
+      "title": "Metaplanet Acquires Japanese Securities Firm for $13M to Launch Bitcoin Yield Products",
+      "url": "https://decrypt.co/370891/metaplanet-acquires-japanese-securities-firm-for-13m-to-launch-bitcoin-yield-products",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T12:45:39+00:00",
+      "raw_text": "Metaplanet Acquires Japanese Securities Firm for $13M to Launch Bitcoin Yield Products\n\nThe Siiibo Securities deal positions Metaplanet to tap $7.4 trillion in household savings as the country shifts from deflation to inflation.",
+      "impact": {}
+    },
+    {
+      "event_id": "7d176c5f-d3d6-47ea-9852-fb654c74fdea",
+      "source": "rss:decrypt",
+      "title": "Morning Minute: SpaceX Prices Largest IPO Ever at $135",
+      "url": "https://decrypt.co/370879/morning-minute-spacex-prices-largest-ipo-ever-at-135",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T12:31:52+00:00",
+      "raw_text": "Morning Minute: SpaceX Prices Largest IPO Ever at $135\n\nHyperliquid has SpaceX trading at $177 a share. Will we see a 30% pop on open this morning?",
+      "impact": {}
+    },
     {
       "event_id": "e6ad1e52-313f-4daf-b7b5-7818c0b94aba",
       "source": "rss:decrypt",
@@ -11,6 +293,18 @@
       "tokens": [],
       "timestamp_utc": "2026-06-12T12:25:00+00:00",
       "raw_text": "Elon Musk's SpaceX IPO: The Bull and Bear Case for Bitcoin\n\nSpaceX’s $75 billion IPO has already drained crypto liquidity, but a strong first-day pop could help rotate profits back, analysts argue.",
+      "impact": {}
+    },
+    {
+      "event_id": "584c3969-31ba-4032-bbe8-0cef874991c1",
+      "source": "rss:cointelegraph",
+      "title": "Metaplanet to form securities arm through Siiibo acquisition",
+      "url": "https://cointelegraph.com/news/metaplanet-to-form-securities-arm-through-siiibo-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T12:05:09+00:00",
+      "raw_text": "Metaplanet to form securities arm through Siiibo acquisition\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Metaplanet to form securities arm through Siiibo acquisition\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZ",
       "impact": {}
     },
     {
@@ -47,6 +341,18 @@
       "tokens": [],
       "timestamp_utc": "2026-06-12T11:23:25+00:00",
       "raw_text": "For crypto, SpaceX's stock market debut could go either way",
+      "impact": {}
+    },
+    {
+      "event_id": "ef7a9b04-3ae8-42c0-887d-c25b7ccc5a0b",
+      "source": "rss:coindesk",
+      "title": "Monero price rockets 33% to $438 amid $120 million onchain laundering maze",
+      "url": "https://www.coindesk.com/markets/2026/06/12/monero-spiked-to-usd430-as-usd120-million-moved-through-it-then-tether-froze-usd72-million",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T11:10:51+00:00",
+      "raw_text": "Monero price rockets 33% to $438 amid $120 million onchain laundering maze",
       "impact": {}
     },
     {
@@ -271,6 +577,18 @@
         "t_plus_1h": -0.8043,
         "t_plus_4h": 0.1969
       }
+    },
+    {
+      "event_id": "1d390501-c682-4f12-9812-066decdc20b7",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin climbs to $64,000 on Iran peace hope as Street awaits opening SpaceX trades",
+      "url": "https://www.coindesk.com/tech/2026/06/12/live-updates-bitcoin-in-volatile-trading-above-usd63-000-doge-unchanged",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T06:32:02+00:00",
+      "raw_text": "Live updates: Bitcoin climbs to $64,000 on Iran peace hope as Street awaits opening SpaceX trades",
+      "impact": {}
     },
     {
       "event_id": "9a9772b9-6222-4636-8e0b-70c0d451fb9a",
@@ -6190,346 +6508,38 @@
       "timestamp_utc": "2026-06-05T12:57:14+00:00",
       "raw_text": "U.S. job growth blows past forecasts, setting stage for Fed rate hikes",
       "impact": {}
-    },
-    {
-      "event_id": "852d058d-705a-4443-9a63-e2989a06dd63",
-      "source": "rss:coindesk",
-      "title": "Bearish zcash bets hit record high as privacy token's price crashes",
-      "url": "https://www.coindesk.com/markets/2026/06/05/bearish-zcash-bets-hit-record-high-as-privacy-token-s-price-crashes",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T12:54:02+00:00",
-      "raw_text": "Bearish zcash bets hit record high as privacy token's price crashes",
-      "impact": {}
-    },
-    {
-      "event_id": "3317cf94-dd38-4901-b951-67adff61ab48",
-      "source": "rss:decrypt",
-      "title": "Morning Minute: Massive ZCash Exploit Found by Claude, Extent Unknown",
-      "url": "https://decrypt.co/370112/morning-minute-massive-zcash-exploit-found-by-claude-extent-unknown",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T12:49:04+00:00",
-      "raw_text": "Morning Minute: Massive ZCash Exploit Found by Claude, Extent Unknown\n\nThe ZCash team hired a hacker to find an exploit in the ZCash protocol, and he exposed a glitch that has been out there for four years.",
-      "impact": {}
-    },
-    {
-      "event_id": "3a1fa3be-a01c-4f95-a4c0-3ad273ee8469",
-      "source": "rss:cointelegraph",
-      "title": "House GOP eyes summer vote on prediction market restrictions for lawmakers",
-      "url": "https://cointelegraph.com/news/house-gop-summer-vote-ban-lawmakers-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T12:46:44+00:00",
-      "raw_text": "House GOP eyes summer vote on prediction market restrictions for lawmakers\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"House GOP eyes summer vote on prediction market restrictions for lawmakers\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
-      "impact": {}
-    },
-    {
-      "event_id": "6606836a-ead3-4bb0-8eda-342dc9588c60",
-      "source": "rss:theblock",
-      "title": "Bitcoin, ether ETFs end 13- and 17-day outflow streaks as traders rotate into equity perps ahead of NFP: analysts",
-      "url": "https://www.theblock.co/post/403805/bitcoin-ether-etfs-end-13-and-17-day-outflow-streaks-as-traders-rotate-into-equity-perps-ahead-of-nfp-analysts?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-06-05T12:45:02+00:00",
-      "raw_text": "Bitcoin, ether ETFs end 13- and 17-day outflow streaks as traders rotate into equity perps ahead of NFP: analysts\n\n<p>Bitcoin ETFs ended a 13-day outflow streak with $3M inflows, and ETH ETFs snapped a 17-day run ahead of NFP as traders rotate to equity perps.</p>\n\n<p>Bitcoin ETFs ended a 13-day out",
-      "impact": {
-        "t_plus_5m": 2.954,
-        "t_plus_15m": 2.9826,
-        "t_plus_1h": 2.9335
-      }
-    },
-    {
-      "event_id": "31dadd4d-ca6c-4f39-a1c4-a0bbd413e5fe",
-      "source": "rss:cointelegraph",
-      "title": "JPMorgan, Citi-backed Clearing House plans tokenized deposit network in 2027: WSJ",
-      "url": "https://cointelegraph.com/news/jpmorgan-citi-bank-of-america-launch-tokenized-deposit-system-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T12:39:32+00:00",
-      "raw_text": "JPMorgan, Citi-backed Clearing House plans tokenized deposit network in 2027: WSJ\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"JPMorgan, Citi-backed Clearing House plans tokenized deposit network in 2027: WSJ\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.co",
-      "impact": {}
-    },
-    {
-      "event_id": "83ee15ea-df4e-4604-a6c0-e6b494d1f0e8",
-      "source": "rss:cointelegraph",
-      "title": "How low can Bitcoin price go if $60K support fails?",
-      "url": "https://cointelegraph.com/markets/how-low-can-bitcoin-price-go-if-60k-support-fails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T12:24:23+00:00",
-      "raw_text": "How low can Bitcoin price go if $60K support fails?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"How low can Bitcoin price go if $60K support fails?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9",
-      "impact": {}
-    },
-    {
-      "event_id": "b95fd3b1-c5e7-48c7-a4e1-8eda7fe09fc7",
-      "source": "rss:coindesk",
-      "title": "Live updates: bitcoin tumbles to $60,000 as blowout jobs data, Zcash bug keeps pressure on crypto",
-      "url": "https://www.coindesk.com/tech/2026/06/05/live-updates-bitcoin-below-usd62-000-ahead-of-jobs-data-as-zcash-bug-rocks-crypto",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T12:08:26+00:00",
-      "raw_text": "Live updates: bitcoin tumbles to $60,000 as blowout jobs data, Zcash bug keeps pressure on crypto",
-      "impact": {}
-    },
-    {
-      "event_id": "a47fcd4d-a2a1-4e71-896d-c9253cc907e5",
-      "source": "rss:theblock",
-      "title": "CME CEO Duffy says new perpetual futures could be ‘disaster waiting to happen’",
-      "url": "https://www.theblock.co/post/403795/cme-ceo-duffy-says-new-perpetual-futures-could-be-disaster-waiting-to-happen?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T12:03:24+00:00",
-      "raw_text": "CME CEO Duffy says new perpetual futures could be ‘disaster waiting to happen’\n\n<p>CME CEO Terry Duffy warned that U.S.-approved perpetual futures risk retail blowouts and excessive leverage exposure.</p>\n\n<p>CME CEO Terry Duffy warned that U.S.-approved perpetual futures risk retail blowouts and ex",
-      "impact": {}
-    },
-    {
-      "event_id": "68ebb70f-d2be-4594-99b4-1c5c013fe753",
-      "source": "rss:coindesk",
-      "title": "Arthur Hayes dumps zcash holdings after Orchard Pool vulnerability revealed",
-      "url": "https://www.coindesk.com/markets/2026/06/05/arthur-hayes-dumps-zcash-holdings-after-orchard-pool-vulnerability-revealed",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T11:57:22+00:00",
-      "raw_text": "Arthur Hayes dumps zcash holdings after Orchard Pool vulnerability revealed",
-      "impact": {}
-    },
-    {
-      "event_id": "90e71d05-3d22-415b-bf7c-cf70dcb8171f",
-      "source": "rss:theblock",
-      "title": "Zcash selloff extends past 50% amid bug disclosure as liquidations top $100 million",
-      "url": "https://www.theblock.co/post/403791/zcash-selloff-extends-past-50-amid-bug-disclosure-as-liquidations-top-100-million?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T11:35:03+00:00",
-      "raw_text": "Zcash selloff extends past 50% amid bug disclosure as liquidations top $100 million\n\n<p>ZEC crashed over 50% to around $310 amid Zcash's Orchard bug disclosure and more than $116 million in 24-hour liquidations.</p>\n\n<p>ZEC crashed over 50% to around $310 amid Zcash's Orchard bug disclosure and more",
-      "impact": {}
-    },
-    {
-      "event_id": "b58664bc-628d-462d-9069-1a4225cc0125",
-      "source": "rss:decrypt",
-      "title": "Pump.fun's Latest Experiment Is Already Getting Weird",
-      "url": "https://decrypt.co/370108/pump-funs-latest-experiment-is-already-getting-weird",
-      "event_type": "listing",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T11:33:50+00:00",
-      "raw_text": "Pump.fun's Latest Experiment Is Already Getting Weird\n\nPump.fun's GO bounty platform already has hundreds of listings following its pitch to let users “Pay ANYONE to do ANYTHING.”",
-      "impact": {}
-    },
-    {
-      "event_id": "51c143d8-6eed-4fcc-a2ce-5e15ffdce763",
-      "source": "rss:coindesk",
-      "title": "Bitcoin sentiment hit peak bearishness at recent lows, peak bullishness near tops",
-      "url": "https://www.coindesk.com/daybook-us/2026/06/04/bitcoin-sentiment-hit-peak-bearishness-at-recent-lows-peak-bullishness-near-tops",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T11:25:49+00:00",
-      "raw_text": "Bitcoin sentiment hit peak bearishness at recent lows, peak bullishness near tops",
-      "impact": {}
-    },
-    {
-      "event_id": "86e0a700-fd0f-4e60-bb8f-527c3024f423",
-      "source": "rss:cointelegraph",
-      "title": "Forward Industries moves $32M in SOL amid $1B paper loss",
-      "url": "https://cointelegraph.com/news/forward-industries-moves-319m-in-sol-to-coinbase-prime-amid-113b-paper-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [
-        "SOL"
-      ],
-      "timestamp_utc": "2026-06-05T10:59:50+00:00",
-      "raw_text": "Forward Industries moves $32M in SOL amid $1B paper loss\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Forward Industries moves $32M in SOL amid $1B paper loss\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pb",
-      "impact": {
-        "t_plus_5m": -0.4726,
-        "t_plus_15m": -0.8516,
-        "t_plus_1h": -0.6624,
-        "t_plus_4h": -2.0233
-      }
-    },
-    {
-      "event_id": "2194dd64-5429-4b5b-92f0-df7914424be0",
-      "source": "rss:cointelegraph",
-      "title": "South Korea police probe Polymarket users over illegal gambling claims: Report",
-      "url": "https://cointelegraph.com/news/south-korean-authorities-first-illegal-gambling-probe-polymarket-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T10:47:17+00:00",
-      "raw_text": "South Korea police probe Polymarket users over illegal gambling claims: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea police probe Polymarket users over illegal gambling claims: Report\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/imag",
-      "impact": {}
-    },
-    {
-      "event_id": "1fc01ca6-7833-4b2a-bc2c-5d04505bb5d1",
-      "source": "rss:decrypt",
-      "title": "ZEC Crashes 38% as Zcash Discloses ‘Critical Counterfeiting Vulnerability’",
-      "url": "https://decrypt.co/370105/zec-crashes-38-as-zcash-discloses-critical-counterfeiting-vulnerability",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T10:41:59+00:00",
-      "raw_text": "ZEC Crashes 38% as Zcash Discloses ‘Critical Counterfeiting Vulnerability’\n\nAn Orchard vulnerability that allowed undetectable counterfeiting of ZEC in its shielded pool has reignited debate over privacy coins.",
-      "impact": {}
-    },
-    {
-      "event_id": "543f0a1c-2ccb-4614-a962-bf98cfe73b1f",
-      "source": "rss:coindesk",
-      "title": "Crypto's worst week since July 2024 deepens as bitcoin, ether near critical price levels",
-      "url": "https://www.coindesk.com/markets/2026/06/05/crypto-s-worst-week-since-july-2024-deepens-as-bitcoin-ether-near-critical-price-levels",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T10:39:16+00:00",
-      "raw_text": "Crypto's worst week since July 2024 deepens as bitcoin, ether near critical price levels",
-      "impact": {}
-    },
-    {
-      "event_id": "521b4cd2-172d-49fe-a17a-37374f7b1e09",
-      "source": "rss:theblock",
-      "title": "Hong Kong taps JPMorgan, HSBC for expert group to scale tokenized bonds",
-      "url": "https://www.theblock.co/post/403787/hong-kong-expert-group-tokenized-bonds?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T10:05:44+00:00",
-      "raw_text": "Hong Kong taps JPMorgan, HSBC for expert group to scale tokenized bonds\n\n<p>The Hong Kong Monetary Authority announced the formation of an expert group to advance the development of tokenized bonds.</p>\n\n<p>The Hong Kong Monetary Authority announced the formation of an expert group to advance the de",
-      "impact": {}
-    },
-    {
-      "event_id": "cb52641a-2137-4804-973a-9eb71f887e0c",
-      "source": "rss:theblock",
-      "title": "Grayscale says bitcoin needs other buyers to find a ‘sustainable bottom’ amid Strategy BTC sale",
-      "url": "https://www.theblock.co/post/403770/grayscale-other-buyers-must-step-in-for-bitcoins-price-to-find-a-sustainable-bottom-after-strategy-btc-sale?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-05T09:27:29+00:00",
-      "raw_text": "Grayscale says bitcoin needs other buyers to find a ‘sustainable bottom’ amid Strategy BTC sale\n\n<p>Grayscale said Strategy's ability to accumulate more bitcoin is limited at the current STRC and MSTR share prices.</p>\n\n<p>Grayscale said Strategy's ability to accumulate more bitcoin is limited at th",
-      "impact": {
-        "t_plus_5m": 1.0377,
-        "t_plus_15m": 0.706,
-        "t_plus_1h": 0.3304,
-        "t_plus_4h": -0.3215
-      }
-    },
-    {
-      "event_id": "02bde69d-94da-4da6-8b7f-096d3b3a5723",
-      "source": "rss:coindesk",
-      "title": "JPMorgan, Bank of America, Citi to start blockchain offensive with shared tokenized network",
-      "url": "https://www.coindesk.com/markets/2026/06/05/jpmorgan-bank-of-america-and-citi-are-going-on-the-blockchain-offensive-with-a-shared-tokenized-network",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T09:16:29+00:00",
-      "raw_text": "JPMorgan, Bank of America, Citi to start blockchain offensive with shared tokenized network",
-      "impact": {}
-    },
-    {
-      "event_id": "126f2ccd-a282-4a5b-8080-677b9a5c86dc",
-      "source": "rss:theblock",
-      "title": "South Korean police investigate local Polymarket users on illegal gambling charges: report",
-      "url": "https://www.theblock.co/post/403777/south-korean-police-investigates-local-polymarket-users?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T08:59:09+00:00",
-      "raw_text": "South Korean police investigate local Polymarket users on illegal gambling charges: report\n\n<p>South Korean Polymarket users could be subject to a fine of up to 10 million Korean won, which is worth around $6,495.</p>\n\n<p>South Korean Polymarket users could be subject to a fine of up to 10 million K",
-      "impact": {}
-    },
-    {
-      "event_id": "50430ee3-a82e-4868-b7ee-d9cdaf97d638",
-      "source": "rss:coindesk",
-      "title": "U.S. bitcoin, ether ETFs end record multibillion outflow streak",
-      "url": "https://www.coindesk.com/markets/2026/06/05/bitcoin-and-ether-etfs-end-record-multi-billion-outflow-streak",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T08:53:30+00:00",
-      "raw_text": "U.S. bitcoin, ether ETFs end record multibillion outflow streak",
-      "impact": {}
-    },
-    {
-      "event_id": "263acef9-48fa-4005-95d6-433c1c39ed59",
-      "source": "rss:coindesk",
-      "title": "Here's what could happen if bitcoin breaks below $60,000",
-      "url": "https://www.coindesk.com/markets/2026/06/05/here-s-what-could-happen-if-bitcoin-breaks-below-usd60-000",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T07:52:25+00:00",
-      "raw_text": "Here's what could happen if bitcoin breaks below $60,000",
-      "impact": {}
-    },
-    {
-      "event_id": "58d4eb3b-4da9-4a80-9dd4-fb39f27af972",
-      "source": "rss:cointelegraph",
-      "title": "Crypto billionaires bankroll Nigel Farage's pro-crypto party",
-      "url": "https://cointelegraph.com/news/crypto-billionaires-bankroll-reform-uk-more-than-other-parties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T07:02:59+00:00",
-      "raw_text": "Crypto billionaires bankroll Nigel Farage's pro-crypto party\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto billionaires bankroll Nigel Farage's pro-crypto party\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZ",
-      "impact": {}
-    },
-    {
-      "event_id": "2a51df36-1950-4b0e-9423-dd6135bb7f35",
-      "source": "rss:cointelegraph",
-      "title": "Strategy’s leveraged Bitcoin model has faced its first stress test: Grayscale",
-      "url": "https://cointelegraph.com/news/strategys-leveraged-bitcoin-model-faces-first-stress-test-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T07:00:55+00:00",
-      "raw_text": "Strategy’s leveraged Bitcoin model has faced its first stress test: Grayscale\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy’s leveraged Bitcoin model has faced its first stress test: Grayscale\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "hack": {
-        "count": 26,
-        "avg_1h": 0.39,
-        "avg_24h": 0.87,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 75,
-        "avg_1h": 0.22,
+        "count": 81,
+        "avg_1h": -0.05,
         "avg_24h": 2.34,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 171,
-        "avg_1h": -0.09,
-        "avg_24h": 1.75,
+      "listing": {
+        "count": 19,
+        "avg_1h": -0.31,
+        "avg_24h": 0.19,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 210,
-        "avg_1h": -0.03,
+        "count": 206,
+        "avg_1h": -0.01,
         "avg_24h": 1.13,
         "win_rate_1h_gt5pct": 0.0
       },
-      "listing": {
-        "count": 16,
-        "avg_1h": -0.39,
-        "avg_24h": 0.19,
+      "narrative": {
+        "count": 167,
+        "avg_1h": -0.07,
+        "avg_24h": 1.75,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 25,
+        "avg_1h": 0.39,
+        "avg_24h": 0.87,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
