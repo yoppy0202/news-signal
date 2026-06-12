@@ -1,6 +1,423 @@
 {
-  "generated_at": "2026-06-12T11:07:21.186394+00:00",
+  "generated_at": "2026-06-12T14:14:26.495689+00:00",
   "events": [
+    {
+      "event_id": "e6ad1e52-313f-4daf-b7b5-7818c0b94aba",
+      "source": "rss:decrypt",
+      "title": "Elon Musk's SpaceX IPO: The Bull and Bear Case for Bitcoin",
+      "url": "https://decrypt.co/370886/elon-musks-spacex-ipo-the-bull-and-bear-case-for-bitcoin",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T12:25:00+00:00",
+      "raw_text": "Elon Musk's SpaceX IPO: The Bull and Bear Case for Bitcoin\n\nSpaceX’s $75 billion IPO has already drained crypto liquidity, but a strong first-day pop could help rotate profits back, analysts argue.",
+      "impact": {}
+    },
+    {
+      "event_id": "c837cc2a-c3f0-45ab-8bf2-7b2591a4f91a",
+      "source": "rss:theblock",
+      "title": "South Korea finance ministry says tokenized stocks are securities, not crypto assets, opening door to taxes: report",
+      "url": "https://www.theblock.co/post/404580/south-korea-finance-ministry-says-tokenized-stocks-are-securities-not-crypto-assets-opening-door-to-taxes-report?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T11:38:22+00:00",
+      "raw_text": "South Korea finance ministry says tokenized stocks are securities, not crypto assets, opening door to taxes: report\n\n<p>South Korea’s finance ministry said tokenized stocks are securities, opening potential taxation as early as H2 2026 if regulators agree.</p>\n\n<p>South Korea’s finance ministry said",
+      "impact": {}
+    },
+    {
+      "event_id": "ffdfd8bf-f6af-4060-8a0d-a1c5a3933e63",
+      "source": "rss:cointelegraph",
+      "title": "SpaceX tokenized IPO campaign draws $557M on Binance ahead of debut",
+      "url": "https://cointelegraph.com/news/spacex-ipo-550m-binance-crypto-rails-front-run-wall-street-pre-ipo-price-discovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T11:32:44+00:00",
+      "raw_text": "SpaceX tokenized IPO campaign draws $557M on Binance ahead of debut\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SpaceX tokenized IPO campaign draws $557M on Binance ahead of debut\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1",
+      "impact": {}
+    },
+    {
+      "event_id": "1a585f4f-3d3b-4f98-9286-19af2cdf7693",
+      "source": "rss:coindesk",
+      "title": "For crypto, SpaceX's stock market debut could go either way",
+      "url": "https://www.coindesk.com/daybook-us/2026/06/12/for-crypto-spacex-s-stock-market-debut-could-go-either-way",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T11:23:25+00:00",
+      "raw_text": "For crypto, SpaceX's stock market debut could go either way",
+      "impact": {}
+    },
+    {
+      "event_id": "d4e2e4d6-f360-4899-85e8-cab3d60c2467",
+      "source": "rss:coindesk",
+      "title": "Monero prices rocket to $438 amid $120 million onchain laundering maze",
+      "url": "https://www.coindesk.com/markets/2026/06/12/monero-spiked-to-usd430-as-usd120-million-moved-through-it-then-tether-froze-usd72-million",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T11:10:51+00:00",
+      "raw_text": "Monero prices rocket to $438 amid $120 million onchain laundering maze",
+      "impact": {}
+    },
+    {
+      "event_id": "9e5e5842-e9d1-407a-9428-53c66d550cf2",
+      "source": "rss:decrypt",
+      "title": "Gary Gensler Backs States in Fight Over Prediction Market Regulation",
+      "url": "https://decrypt.co/370875/gary-gensler-backs-states-in-fight-over-prediction-market-regulation",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T11:02:05+00:00",
+      "raw_text": "Gary Gensler Backs States in Fight Over Prediction Market Regulation\n\nThe former SEC and CFTC chair says Congress \"categorically\" did not intend to put sports betting under exclusive federal oversight.",
+      "impact": {}
+    },
+    {
+      "event_id": "29396df2-a41d-4cc5-946c-a694c99b2291",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin miner 'capitulation' comes as trader sees later 2026 bear-market bottom",
+      "url": "https://cointelegraph.com/markets/bitcoin-miner-capitulation-comes-as-trader-sees-later-2026-bear-market-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-06-12T10:46:54+00:00",
+      "raw_text": "Bitcoin miner 'capitulation' comes as trader sees later 2026 bear-market bottom\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin miner 'capitulation' comes as trader sees later 2026 bear-market bottom\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/im",
+      "impact": {
+        "t_plus_5m": 0.3606,
+        "t_plus_15m": 0.3415,
+        "t_plus_1h": 0.4694
+      }
+    },
+    {
+      "event_id": "1ff739ee-1d55-4794-b3c8-5a6de4b196ed",
+      "source": "rss:coindesk",
+      "title": "While bitcoin holds near $63,000, some data points to pain ahead for bulls",
+      "url": "https://www.coindesk.com/markets/2026/06/12/while-bitcoin-holds-near-usd63-000-some-data-points-to-pain-ahead-for-bulls",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T10:41:24+00:00",
+      "raw_text": "While bitcoin holds near $63,000, some data points to pain ahead for bulls",
+      "impact": {}
+    },
+    {
+      "event_id": "3e53a2d1-401a-486f-bfc4-d1161abe7b3c",
+      "source": "rss:theblock",
+      "title": "There is a ‘fundamental clash’ between bitcoin and institutionalization, says BTC circular economy project founder",
+      "url": "https://www.theblock.co/post/404563/bitcoin-ekasi-btc-prague?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-06-12T10:30:53+00:00",
+      "raw_text": "There is a ‘fundamental clash’ between bitcoin and institutionalization, says BTC circular economy project founder\n\n<p>Bitcoin Ekasi's Hermann Vivier emphasized that bitcoin's store-of-value narrative does not exist without usage as a medium of exchange.</p>\n\n<p>Bitcoin Ekasi's Hermann Vivier emphas",
+      "impact": {
+        "t_plus_5m": 0.311,
+        "t_plus_15m": 0.28,
+        "t_plus_1h": 0.5447
+      }
+    },
+    {
+      "event_id": "ab59ca47-2df7-4d4d-8058-6c9cbabf5c3d",
+      "source": "rss:decrypt",
+      "title": "LG Electronics Teams With Arbitrum for Blockchain-Based Ad Platform",
+      "url": "https://decrypt.co/370866/lg-electronics-teams-with-arbitrum-for-blockchain-based-ad-platform",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T10:23:39+00:00",
+      "raw_text": "LG Electronics Teams With Arbitrum for Blockchain-Based Ad Platform\n\nThe South Korean tech giant built a custom layer-2 network with Arbitrum for an advertising platform set to launch this year.",
+      "impact": {}
+    },
+    {
+      "event_id": "13ce580c-9137-48f7-abc7-f2ff8f94ca66",
+      "source": "rss:cointelegraph",
+      "title": "SpaceX IPO update: Whale opens $22.3M SPCX long as synthetic price hits 30% premium",
+      "url": "https://cointelegraph.com/markets/spacex-ipo-update-whale-opens-223m-spcx-long-as-synthetic-price-hits-30-premium?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T10:18:58+00:00",
+      "raw_text": "SpaceX IPO update: Whale opens $22.3M SPCX long as synthetic price hits 30% premium\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SpaceX IPO update: Whale opens $22.3M SPCX long as synthetic price hits 30% premium\" class=\"type:primaryImage\" src=\"https://images.cointelegrap",
+      "impact": {}
+    },
+    {
+      "event_id": "6f58bed7-fcc9-4bff-bff8-db4942ccc43d",
+      "source": "rss:theblock",
+      "title": "Bitwise’s Dragosch sees up to 20% further downside for bitcoin, puts ‘max pain’ scenario at $48,000",
+      "url": "https://www.theblock.co/post/404561/bitwise-dragosch-bitcoin-max-pain-48k?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T10:02:30+00:00",
+      "raw_text": "Bitwise’s Dragosch sees up to 20% further downside for bitcoin, puts ‘max pain’ scenario at $48,000\n\n<p>Bitwise's Dragosch sees up to 20% more bitcoin downside, with the long-term holder cost basis at $48,000 the \"max pain\" scenario.</p>\n\n<p>Bitwise's Dragosch sees up to 20% more bitcoin downside, w",
+      "impact": {}
+    },
+    {
+      "event_id": "bb9d4fb6-d0da-4b00-a0dc-019f7ad8380f",
+      "source": "rss:coindesk",
+      "title": "Metaplanet buys Siiibo Securities to accelerate bitcoin financial ecosystem plans",
+      "url": "https://www.coindesk.com/markets/2026/06/12/metaplanet-buys-siiibo-securities-to-accelerate-bitcoin-financial-ecosystem-plans",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T10:00:12+00:00",
+      "raw_text": "Metaplanet buys Siiibo Securities to accelerate bitcoin financial ecosystem plans",
+      "impact": {}
+    },
+    {
+      "event_id": "739be6ff-28ba-48da-962f-bc2afa29176f",
+      "source": "rss:cointelegraph",
+      "title": "Crypto scammers exploit World Cup ticket demand, TRM warns",
+      "url": "https://cointelegraph.com/news/trm-world-cup-crypto-scams-fake-tickets-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T09:52:36+00:00",
+      "raw_text": "Crypto scammers exploit World Cup ticket demand, TRM warns\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto scammers exploit World Cup ticket demand, TRM warns\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpY",
+      "impact": {}
+    },
+    {
+      "event_id": "e550aefd-7a57-435c-8e07-2db66bd4d4b8",
+      "source": "rss:theblock",
+      "title": "Metaplanet to acquire Siiibo Securities for $13 million to develop bitcoin-linked yield products",
+      "url": "https://www.theblock.co/post/404564/metaplanet-siiibo-securities-acquisition?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T09:39:38+00:00",
+      "raw_text": "Metaplanet to acquire Siiibo Securities for $13 million to develop bitcoin-linked yield products\n\n<p>Metaplanet CEO Simon Gerovich said the deal is expected to close in July, and the company plans to rename the business Metaplanet Securities.</p>\n\n<p>Metaplanet CEO Simon Gerovich said the deal is ex",
+      "impact": {}
+    },
+    {
+      "event_id": "2103cf8f-ffb3-4c74-9a15-3384fdb624d6",
+      "source": "rss:theblock",
+      "title": "AI buildout weighs on bitcoin demand but future gains could reverse trend, Relai CEO says",
+      "url": "https://www.theblock.co/post/404554/ai-buildout-weighs-on-bitcoin-demand-relai-ceo?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T09:00:55+00:00",
+      "raw_text": "AI buildout weighs on bitcoin demand but future gains could reverse trend, Relai CEO says\n\n<p>Julian Liniger, CEO of Relai, said the current bitcoin bear market is driven in part by liquidity absorbed by AI investments.</p>\n\n<p>Julian Liniger, CEO of Relai, said the current bitcoin bear market is dr",
+      "impact": {}
+    },
+    {
+      "event_id": "396419a5-a6ec-4292-abcc-327b82e9d585",
+      "source": "rss:coindesk",
+      "title": "There's one simple way to tell whether bitcoin has really bottomed. Right now, it hasn't.",
+      "url": "https://www.coindesk.com/markets/2026/06/12/there-s-one-simple-way-to-tell-whether-bitcoin-has-really-bottomed-right-now-it-hasn-t",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T07:57:47+00:00",
+      "raw_text": "There's one simple way to tell whether bitcoin has really bottomed. Right now, it hasn't.",
+      "impact": {}
+    },
+    {
+      "event_id": "3030db83-b47e-4e71-8279-31fe13f9c23c",
+      "source": "rss:cointelegraph",
+      "title": "International sting shuts down $390M crypto money-laundering ring",
+      "url": "https://cointelegraph.com/news/international-sting-shuts-down-390m-crypto-money-laundering-ring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T07:12:06+00:00",
+      "raw_text": "International sting shuts down $390M crypto money-laundering ring\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"International sting shuts down $390M crypto money-laundering ring\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWF",
+      "impact": {}
+    },
+    {
+      "event_id": "8aabe63e-9843-41b0-9084-0c4e63124541",
+      "source": "rss:coindesk",
+      "title": "BlackRock files to list its bitcoin income ETF, with expected debut next week",
+      "url": "https://www.coindesk.com/markets/2026/06/12/blackrock-files-to-list-its-bitcoin-income-etf-with-expected-debut-next-week",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T07:07:34+00:00",
+      "raw_text": "BlackRock files to list its bitcoin income ETF, with expected debut next week",
+      "impact": {}
+    },
+    {
+      "event_id": "c679a32a-3d91-4d09-a312-94ef8306f488",
+      "source": "rss:cointelegraph",
+      "title": "SEC plan to scrap ‘Rule 611’ positive for tokenized US stocks: Galaxy",
+      "url": "https://cointelegraph.com/news/sec-plan-to-scrap-rule-611-a-boon-for-tokenized-us-stocks-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T06:44:20+00:00",
+      "raw_text": "SEC plan to scrap ‘Rule 611’ positive for tokenized US stocks: Galaxy\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC plan to scrap ‘Rule 611’ positive for tokenized US stocks: Galaxy\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
+      "impact": {}
+    },
+    {
+      "event_id": "7122855d-4c28-4f05-a519-7901e690c409",
+      "source": "rss:coindesk",
+      "title": "XRP jumps 3% above $1.14 as institutional buying meets key resistance test",
+      "url": "https://www.coindesk.com/markets/2026/06/12/xrp-jumps-3-above-usd1-14-as-institutional-buying-meets-key-resistance-test",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [
+        "XRP"
+      ],
+      "timestamp_utc": "2026-06-12T06:38:32+00:00",
+      "raw_text": "XRP jumps 3% above $1.14 as institutional buying meets key resistance test",
+      "impact": {
+        "t_plus_5m": -1.0894,
+        "t_plus_15m": -1.0395,
+        "t_plus_1h": -0.8043,
+        "t_plus_4h": 0.1969
+      }
+    },
+    {
+      "event_id": "9a9772b9-6222-4636-8e0b-70c0d451fb9a",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin traders eye rally to $75,000, Japan set to hike rate to 31-year high",
+      "url": "https://www.coindesk.com/tech/2026/06/12/live-updates-bitcoin-in-volatile-trading-above-usd63-000-doge-unchanged",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T06:32:02+00:00",
+      "raw_text": "Live updates: Bitcoin traders eye rally to $75,000, Japan set to hike rate to 31-year high",
+      "impact": {}
+    },
+    {
+      "event_id": "c1c8e0da-0339-404c-8e7b-31b1542d956c",
+      "source": "rss:coindesk",
+      "title": "Former SEC, CFTC Chair Gary Gensler argues that prediction markets don't overrule state regulations",
+      "url": "https://www.coindesk.com/policy/2026/06/12/former-sec-cftc-chair-gary-gensler-argues-that-prediction-markets-don-t-overrule-state-regulations",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T06:27:20+00:00",
+      "raw_text": "Former SEC, CFTC Chair Gary Gensler argues that prediction markets don't overrule state regulations",
+      "impact": {}
+    },
+    {
+      "event_id": "e3650ea6-9071-4966-8282-05831370bf7b",
+      "source": "rss:coindesk",
+      "title": "SpaceX's crypto-traded IPO was sharply falling. It now points upward to a $2.4 trillion valuation",
+      "url": "https://www.coindesk.com/markets/2026/06/12/spacex-s-crypto-traded-ipo-was-sharply-falling-it-now-points-upward-to-a-usd2-4-trillion-valuation",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T06:13:44+00:00",
+      "raw_text": "SpaceX's crypto-traded IPO was sharply falling. It now points upward to a $2.4 trillion valuation",
+      "impact": {}
+    },
+    {
+      "event_id": "676a7b33-b8fe-46f9-9074-481c47c36cf3",
+      "source": "rss:theblock",
+      "title": "BlackRock files 8-A for yield-bearing bitcoin ETF; analyst expects launch next week",
+      "url": "https://www.theblock.co/post/404530/blackrock-8a-yield-bearing-bitcoin-etf?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T05:39:00+00:00",
+      "raw_text": "BlackRock files 8-A for yield-bearing bitcoin ETF; analyst expects launch next week\n\n<p>Bloomberg Analyst Eric Balchunas said the filing signals an imminent launch, adding that he expects it to start trading next week.</p>\n\n<p>Bloomberg Analyst Eric Balchunas said the filing signals an imminent laun",
+      "impact": {}
+    },
+    {
+      "event_id": "eb896b9c-f6c3-4835-b607-eaeef35d673f",
+      "source": "rss:coindesk",
+      "title": "The company that makes your TV is taking ads onchain. Arbitrum helped",
+      "url": "https://www.coindesk.com/markets/2026/06/12/the-company-that-makes-your-tv-is-taking-ads-onchain-arbitrum-helped",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T05:35:25+00:00",
+      "raw_text": "The company that makes your TV is taking ads onchain. Arbitrum helped",
+      "impact": {}
+    },
+    {
+      "event_id": "a3794cc5-b9b9-4c99-a083-5b2e372dfff9",
+      "source": "rss:coindesk",
+      "title": "Bitcoin climbs back into the green as Trump signals an end to the Iran war",
+      "url": "https://www.coindesk.com/markets/2026/06/12/bitcoin-climbs-back-into-the-green-as-trump-signals-an-end-to-the-iran-war",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T05:14:33+00:00",
+      "raw_text": "Bitcoin climbs back into the green as Trump signals an end to the Iran war",
+      "impact": {}
+    },
+    {
+      "event_id": "24abf161-8767-479f-b8b2-abc45910b700",
+      "source": "rss:theblock",
+      "title": "Avalanche Treasury shares fall 38% on Nasdaq debut after $675 million merger",
+      "url": "https://www.theblock.co/post/404523/avalanche-treasury-nasdaq-debut?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [
+        "AVAX"
+      ],
+      "timestamp_utc": "2026-06-12T05:14:10+00:00",
+      "raw_text": "Avalanche Treasury shares fall 38% on Nasdaq debut after $675 million merger\n\n<p>The company intends to accelerate the growth of the Avalanche ecosystem and plans to acquire over $1 billion worth of AVAX over time.</p>\n\n<p>The company intends to accelerate the growth of the Avalanche ecosystem and p",
+      "impact": {
+        "t_plus_5m": 0.2204,
+        "t_plus_15m": 0.1387,
+        "t_plus_1h": -0.4279,
+        "t_plus_4h": -0.1187
+      }
+    },
+    {
+      "event_id": "564d1c00-4e48-4823-a613-edd074eaed30",
+      "source": "rss:cointelegraph",
+      "title": "LG, Arbitrum launch blockchain-based bid in $679B ad market",
+      "url": "https://cointelegraph.com/news/lg-arbitrum-launch-blockchain-based-bid-for-679b-ad-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T04:32:04+00:00",
+      "raw_text": "LG, Arbitrum launch blockchain-based bid in $679B ad market\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"LG, Arbitrum launch blockchain-based bid in $679B ad market\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWR",
+      "impact": {}
+    },
+    {
+      "event_id": "5e382a55-7e7d-4e19-b224-9db612ffb57e",
+      "source": "rss:cointelegraph",
+      "title": "Coinbase launches tool letting AI agents make payments and trade crypto",
+      "url": "https://cointelegraph.com/news/coinbase-launches-tool-letting-ai-agents-make-payments-and-trade-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T04:19:03+00:00",
+      "raw_text": "Coinbase launches tool letting AI agents make payments and trade crypto\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase launches tool letting AI agents make payments and trade crypto\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
+      "impact": {}
+    },
+    {
+      "event_id": "be6ff423-c15a-4df1-b015-cff77f66202b",
+      "source": "rss:cointelegraph",
+      "title": "Avalanche Treasury falls 16% as it debuts on Nasdaq",
+      "url": "https://cointelegraph.com/news/avalanche-treasury-starts-trading-on-nasdaq-but-shares-fall-16-on-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [
+        "AVAX"
+      ],
+      "timestamp_utc": "2026-06-12T04:16:51+00:00",
+      "raw_text": "Avalanche Treasury falls 16% as it debuts on Nasdaq\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Avalanche Treasury falls 16% as it debuts on Nasdaq\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9",
+      "impact": {
+        "t_plus_5m": 0.4176,
+        "t_plus_15m": 0.6356,
+        "t_plus_1h": 0.1685,
+        "t_plus_4h": -0.602
+      }
+    },
+    {
+      "event_id": "732d7d9c-3c38-4c40-b9c8-2b090a1802dd",
+      "source": "rss:theblock",
+      "title": "SEC’s proposal to scrap key NMS rules a major unlock for tokenized US stocks: analysts",
+      "url": "https://www.theblock.co/post/404515/sec-proposal-major-unlock-tokenized-stocks?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T04:15:13+00:00",
+      "raw_text": "SEC’s proposal to scrap key NMS rules a major unlock for tokenized US stocks: analysts\n\n<p>Galaxy's Thorn said this would remove barriers that prevented DeFi automated market makers from trading tokenized US equities at scale.</p>\n\n<p>Galaxy's Thorn said this would remove barriers that prevented DeF",
+      "impact": {}
+    },
     {
       "event_id": "6c6beb40-6795-44e5-93ad-d68fc6861a67",
       "source": "rss:theblock",
@@ -61,6 +478,18 @@
       "tokens": [],
       "timestamp_utc": "2026-06-11T21:50:06+00:00",
       "raw_text": "Bitcoin Must Prepare for Quantum Threat Now, Coinbase Says\n\nCoinbase's quantum advisory council says crypto developers should begin post-quantum migration work now, warning that unresolved questions around abandoned and vulnerable coins could become one of Bitcoin's biggest battles.",
+      "impact": {}
+    },
+    {
+      "event_id": "20450c7b-846a-453d-bc71-1d4bae6109e9",
+      "source": "rss:cointelegraph",
+      "title": "Citi launches blockchain marketplace for shares of private companies: Report",
+      "url": "https://cointelegraph.com/news/citi-launches-blockchain-marketplace-private-company-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-11T21:24:56+00:00",
+      "raw_text": "Citi launches blockchain marketplace for shares of private companies: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Citi launches blockchain marketplace for shares of private companies: Report\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/5",
       "impact": {}
     },
     {
@@ -700,7 +1129,8 @@
         "t_plus_5m": -0.879,
         "t_plus_15m": -0.6398,
         "t_plus_1h": -0.8222,
-        "t_plus_4h": -0.9857
+        "t_plus_4h": -0.9857,
+        "t_plus_24h": 0.1945
       }
     },
     {
@@ -6068,497 +6498,38 @@
       "timestamp_utc": "2026-06-05T07:00:55+00:00",
       "raw_text": "Strategy’s leveraged Bitcoin model has faced its first stress test: Grayscale\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy’s leveraged Bitcoin model has faced its first stress test: Grayscale\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
       "impact": {}
-    },
-    {
-      "event_id": "02ef5c75-7590-426f-9669-d5ee720d3199",
-      "source": "rss:coindesk",
-      "title": "Bitcoin in danger of dropping to $60,000, with Zcash bulls turning their backs on ZEC",
-      "url": "https://www.coindesk.com/tech/2026/06/05/bitcoin-in-danger-of-dropping-to-usd60-000-with-zcash-bulls-turning-their-backs-on-zec",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T06:18:59+00:00",
-      "raw_text": "Bitcoin in danger of dropping to $60,000, with Zcash bulls turning their backs on ZEC",
-      "impact": {}
-    },
-    {
-      "event_id": "58ab6893-d3b6-4b7f-9bc8-cba4e295b2ba",
-      "source": "rss:theblock",
-      "title": "What Is an XRP ETF? A Complete Guide to XRP Exchange-Traded Funds",
-      "url": "https://www.theblock.co/learn/403712/what-is-an-xrp-etf?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-06-05T06:08:41+00:00",
-      "raw_text": "What Is an XRP ETF? A Complete Guide to XRP Exchange-Traded Funds\n\n<p>An XRP ETF is an exchange-traded fund that tracks the price of XRP. These funds trade on regulated stock exchanges such as the New York Stock Exchange or Nasdaq. Instead of buying XRP on a crypto exchange and holding it in a digit",
-      "impact": {
-        "t_plus_5m": -0.9742,
-        "t_plus_15m": -2.962,
-        "t_plus_1h": -1.7558,
-        "t_plus_4h": 0.5419
-      }
-    },
-    {
-      "event_id": "d7dac736-7bff-4c53-a65d-3f5ba9213d2c",
-      "source": "rss:theblock",
-      "title": "What Is an XRP ETF? A Complete Guide to XRP Exchange-Traded Funds",
-      "url": "https://www.theblock.co/learn/403712/what-is-an-xrp-etf-a-complete-guide-to-xrp-exchange-traded-funds?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-06-05T06:08:41+00:00",
-      "raw_text": "What Is an XRP ETF? A Complete Guide to XRP Exchange-Traded Funds\n\n<p>An XRP ETF is an exchange-traded fund that tracks the price of XRP. These funds trade on regulated stock exchanges such as the New York Stock Exchange or Nasdaq. Instead of buying XRP on a crypto exchange and holding it in a digit",
-      "impact": {
-        "t_plus_5m": -0.9742,
-        "t_plus_15m": -2.962,
-        "t_plus_1h": -1.7558,
-        "t_plus_4h": 0.5419
-      }
-    },
-    {
-      "event_id": "c4875ada-0f5e-42e9-a395-3efd56e05987",
-      "source": "rss:coindesk",
-      "title": "Bitcoin plunges to near $62,000 as the AI trade unwinds, HYPE falls 14%",
-      "url": "https://www.coindesk.com/markets/2026/06/05/bitcoin-plunges-to-near-usd62-000-as-the-ai-trade-unwinds-hype-falls-14",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T06:08:32+00:00",
-      "raw_text": "Bitcoin plunges to near $62,000 as the AI trade unwinds, HYPE falls 14%",
-      "impact": {}
-    },
-    {
-      "event_id": "4d6de324-2219-4425-9a1a-a2b1c23a7199",
-      "source": "rss:cointelegraph",
-      "title": "Anthropic says self-improving AI may be closer than expected",
-      "url": "https://cointelegraph.com/news/anthropic-ai-self-improvement-agents-recursive-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T06:03:52+00:00",
-      "raw_text": "Anthropic says self-improving AI may be closer than expected\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Anthropic says self-improving AI may be closer than expected\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZ",
-      "impact": {}
-    },
-    {
-      "event_id": "902072e3-148f-40f6-90c5-3405861bdab0",
-      "source": "rss:coindesk",
-      "title": "Zcash plummets 38% as Shielded Labs reveals a major bug that went undetected for four years",
-      "url": "https://www.coindesk.com/markets/2026/06/05/zcash-plummets-30-as-developer-reveals-a-major-bug-that-went-undetected-for-four-years",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T05:43:07+00:00",
-      "raw_text": "Zcash plummets 38% as Shielded Labs reveals a major bug that went undetected for four years",
-      "impact": {}
-    },
-    {
-      "event_id": "63bc2d11-38ca-4e2a-a9ad-dfb123a0ac53",
-      "source": "rss:coindesk",
-      "title": "Zcash plummets 30% as Shielded Labs reveals a major bug that went undetected for four years",
-      "url": "https://www.coindesk.com/markets/2026/06/05/zcash-plummets-30-as-developer-reveals-a-major-bug-that-went-undetected-for-four-years",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T05:43:07+00:00",
-      "raw_text": "Zcash plummets 30% as Shielded Labs reveals a major bug that went undetected for four years",
-      "impact": {}
-    },
-    {
-      "event_id": "e0d74e07-e06c-4f97-9c86-9886b8f6a41d",
-      "source": "rss:cointelegraph",
-      "title": "ZEC drops 30% as Shielded Labs reveals more about infinite counterfeit bug",
-      "url": "https://cointelegraph.com/news/zec-tanks-30-after-ai-security-review-discovers-critical-zcash-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T05:09:56+00:00",
-      "raw_text": "ZEC drops 30% as Shielded Labs reveals more about infinite counterfeit bug\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ZEC drops 30% as Shielded Labs reveals more about infinite counterfeit bug\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_a",
-      "impact": {}
-    },
-    {
-      "event_id": "cd781117-389c-416d-8ce4-1aae4ea7a680",
-      "source": "rss:cointelegraph",
-      "title": "Senate Republicans push finance watchdogs to clarify crypto capital rules",
-      "url": "https://cointelegraph.com/news/senate-republicans-push-finance-regulators-to-clarify-crypto-capital-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T04:26:57+00:00",
-      "raw_text": "Senate Republicans push finance watchdogs to clarify crypto capital rules\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Senate Republicans push finance watchdogs to clarify crypto capital rules\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR",
-      "impact": {}
-    },
-    {
-      "event_id": "7e017870-8f58-4513-8eb6-18802b40a2b3",
-      "source": "rss:theblock",
-      "title": "Security researcher finds Zcash vulnerability allowing ‘unlimited’ counterfeit minting; ZEC drops 31%",
-      "url": "https://www.theblock.co/post/403698/zcash-vulnerability-zec-drops?utm_source=rss&utm_medium=rss",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T03:16:08+00:00",
-      "raw_text": "Security researcher finds Zcash vulnerability allowing ‘unlimited’ counterfeit minting; ZEC drops 31%\n\n<p>The vulnerability was fixed within days, and findings suggest that actual exploitation of the bug is unlikely.</p>\n\n<p>The vulnerability was fixed within days, and findings suggest that actual e",
-      "impact": {}
-    },
-    {
-      "event_id": "3de07793-c733-43af-b094-6f6d9d626147",
-      "source": "rss:solana_official",
-      "title": "Solana Ecosystem Roundup: May 2026",
-      "url": "https://solana.com/news/solana-ecosystem-roundup-may-2026",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T03:15:00+00:00",
-      "raw_text": "Solana Ecosystem Roundup: May 2026\n\nSolana Ecosystem Roundup May 2026: RWA ATH at $2.8B+, 97% tokenized equities share, $16.4B stablecoin supply, and record ETF inflows.",
-      "impact": {}
-    },
-    {
-      "event_id": "9eb23b2b-7aca-4ff2-b31f-d29c5576c1a9",
-      "source": "rss:theblock",
-      "title": "JPMorgan, Citi-backed consortium plans to launch tokenized deposit network in early 2027: WSJ",
-      "url": "https://www.theblock.co/post/403701/jpmorgan-citi-major-banks-tokenized-deposit-network?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T02:57:24+00:00",
-      "raw_text": "JPMorgan, Citi-backed consortium plans to launch tokenized deposit network in early 2027: WSJ\n\n<p>The initiative would enable tokenized deposits to move instantly and support around-the-clock settlement, the Wall Street Journal reported.</p>\n\n<p>The initiative would enable tokenized deposits to move",
-      "impact": {}
-    },
-    {
-      "event_id": "14a00156-27d9-408e-879c-37afb9ef820a",
-      "source": "rss:cointelegraph",
-      "title": "Comptroller says only Democrats pressuring over crypto trust charter",
-      "url": "https://cointelegraph.com/news/occ-gould-political-pressure-democrats-world-liberty-financial?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-04T21:54:37+00:00",
-      "raw_text": "Comptroller says only Democrats pressuring over crypto trust charter\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Comptroller says only Democrats pressuring over crypto trust charter\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zM",
-      "impact": {}
-    },
-    {
-      "event_id": "62412d07-4c72-4a48-b90c-ebc3ee17221e",
-      "source": "rss:decrypt",
-      "title": "AI Is Already Developing AI, Says Anthropic—And Humans May Be Slowing Things Down",
-      "url": "https://decrypt.co/370089/ai-already-developing-ai-anthropic-humans-slowing-things-down",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-04T21:37:01+00:00",
-      "raw_text": "AI Is Already Developing AI, Says Anthropic—And Humans May Be Slowing Things Down\n\nAnthropic says AI now writes most of its code and runs increasingly complex research tasks, leaving people to decide which problems are worth solving.",
-      "impact": {}
-    },
-    {
-      "event_id": "d47c273e-76d7-4d0f-a1db-bc0556a5946c",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin’s Pullback Tests Institutional Adoption Narrative as Pompliano Stays Bullish",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-as-pompliano-stays-bullish",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-04T21:12:41+00:00",
-      "raw_text": "Bitcoin’s Pullback Tests Institutional Adoption Narrative as Pompliano Stays Bullish\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strive-ASST-Adds-185-Million-in-Bitcoin-as-Holdings-Reach-19000-BT",
-      "impact": {
-        "t_plus_5m": 0.2851,
-        "t_plus_15m": 0.0242,
-        "t_plus_1h": -0.3019,
-        "t_plus_4h": -0.3458
-      }
-    },
-    {
-      "event_id": "5630e428-b85f-4d19-91d8-d8cc1bf78bd1",
-      "source": "rss:decrypt",
-      "title": "Republican Lawmaker Plans to Add Prediction Markets to Congressional Stock Ban Bill",
-      "url": "https://decrypt.co/370086/republican-lawmaker-add-prediction-markets-ongressional-stock-ban-bill",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-04T20:43:19+00:00",
-      "raw_text": "Republican Lawmaker Plans to Add Prediction Markets to Congressional Stock Ban Bill\n\nRep. Bryan Steil said he'll add language to the House congressional stock ban bill to cover prediction markets like Polymarket and Kalshi.",
-      "impact": {}
-    },
-    {
-      "event_id": "1c6760f6-cdfb-4e29-a3cb-a9f4720f410d",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin fell 21% after Strategy’s debt buyback news: Is Terra Luna-style doom loop next?",
-      "url": "https://cointelegraph.com/markets/bitcoin-fell-21-after-strategys-debt-buyback-news-is-a-terra-luna-style-doom-loop-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-04T20:37:58+00:00",
-      "raw_text": "Bitcoin fell 21% after Strategy’s debt buyback news: Is Terra Luna-style doom loop next?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin fell 21% after Strategy’s debt buyback news: Is Terra Luna-style doom loop next?\" class=\"type:primaryImage\" src=\"https://images.co",
-      "impact": {}
-    },
-    {
-      "event_id": "8bfcb500-e7f3-48d4-ab75-654976b6968b",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin fell 21% after Strategy’s debt buyback news— Is a Terra Luna-style doom loop next?",
-      "url": "https://cointelegraph.com/markets/bitcoin-fell-21-after-strategys-debt-buyback-news-is-a-terra-luna-style-doom-loop-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-04T20:37:58+00:00",
-      "raw_text": "Bitcoin fell 21% after Strategy’s debt buyback news— Is a Terra Luna-style doom loop next?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin fell 21% after Strategy’s debt buyback news— Is a Terra Luna-style doom loop next?\" class=\"type:primaryImage\" src=\"https://image",
-      "impact": {
-        "t_plus_5m": -0.3763,
-        "t_plus_15m": -0.4868,
-        "t_plus_1h": -0.7462,
-        "t_plus_4h": -0.115
-      }
-    },
-    {
-      "event_id": "2bb81c75-9e4e-4286-98fe-f683b0bb023e",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin Price Plunges Below ‘Fire Sale’ Territory as Fear Index Reads 12 — Echoing the FTX Crash",
-      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-plunges-below-fire-sale",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-04T20:28:54+00:00",
-      "raw_text": "Bitcoin Price Plunges Below ‘Fire Sale’ Territory as Fear Index Reads 12 — Echoing the FTX Crash\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Price-Plunges-Below-Fire-Sale-Territory-as-Fea",
-      "impact": {
-        "t_plus_5m": -0.4967,
-        "t_plus_15m": -0.3763,
-        "t_plus_1h": -0.5342,
-        "t_plus_4h": 0.0239
-      }
-    },
-    {
-      "event_id": "a35cd294-738c-4c7f-a766-643af6019e92",
-      "source": "rss:cointelegraph",
-      "title": "Russia targets British 17-year-old for alleging digital assets were skirting sanctions",
-      "url": "https://cointelegraph.com/news/russia-sanctions-british-teenager-ruble-stablecoin-ukraine-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-04T20:21:55+00:00",
-      "raw_text": "Russia targets British 17-year-old for alleging digital assets were skirting sanctions\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Russia targets British 17-year-old for alleging digital assets were skirting sanctions\" class=\"type:primaryImage\" src=\"https://images.cointe",
-      "impact": {}
-    },
-    {
-      "event_id": "ccbb132e-60bf-4504-b1b1-f540c4c5e0e7",
-      "source": "rss:theblock",
-      "title": "White House crypto adviser Witt defends Clarity Act, calls it ‘pro-law enforcement’ as lawmakers race to pass bill",
-      "url": "https://www.theblock.co/post/403693/white-house-crypto-adviser-witt-defends-clarity-act-calls-it-pro-law-enforcement-as-lawmakers-race-to-pass-bill?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-04T20:08:40+00:00",
-      "raw_text": "White House crypto adviser Witt defends Clarity Act, calls it ‘pro-law enforcement’ as lawmakers race to pass bill\n\n<p>The White House's top cryptocurrency adviser, Patrick Witt, called the Clarity Act a \"pro-enforcement bill,\" despite pushback.</p>\n\n<p>The White House's top cryptocurrency adviser, ",
-      "impact": {}
-    },
-    {
-      "event_id": "9dd85232-07f9-4ba9-baab-039a7c899419",
-      "source": "rss:decrypt",
-      "title": "'Looksmaxxing' Trend Spawns $100M Gray Market Fueled By Bitcoin, Stablecoins: Chainalysis",
-      "url": "https://decrypt.co/370078/looksmaxxing-trend-100m-gray-market-bitcoin-stablecoins-chainalysis",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-04T19:54:29+00:00",
-      "raw_text": "'Looksmaxxing' Trend Spawns $100M Gray Market Fueled By Bitcoin, Stablecoins: Chainalysis\n\nDemand for peptides fueled by the \"looksmaxxing\" trend has spawned a $100 million gray market paid for primarily with crypto.",
-      "impact": {}
-    },
-    {
-      "event_id": "db946f84-007c-409d-b0fe-b7d378126aa5",
-      "source": "rss:cointelegraph",
-      "title": "Professional investors dumped 52K BTC worth of ETFs in Q1, filings show",
-      "url": "https://cointelegraph.com/news/bitcoin-etf-ownership-shifts-hedge-funds-sell-banks-buy-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-04T19:53:33+00:00",
-      "raw_text": "Professional investors dumped 52K BTC worth of ETFs in Q1, filings show\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Professional investors dumped 52K BTC worth of ETFs in Q1, filings show\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
-      "impact": {
-        "t_plus_5m": -0.3199,
-        "t_plus_15m": -0.8691,
-        "t_plus_1h": -0.4868,
-        "t_plus_4h": -0.0186
-      }
-    },
-    {
-      "event_id": "0901cd45-293f-4d7f-9e1e-e746d2959fa1",
-      "source": "rss:bitcoinmagazine",
-      "title": "Schwab Strategist: Bitcoin’s $60,000 Mining Cost Could Mark the Cycle Bottom",
-      "url": "https://bitcoinmagazine.com/news/schwab-strategist-bitcoins-60000-mining",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-04T19:49:15+00:00",
-      "raw_text": "Schwab Strategist: Bitcoin’s $60,000 Mining Cost Could Mark the Cycle Bottom\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Schwab-Strategist-Bitcoins-60000-Mining-Cost-Could-Mark-the-Cycle-Bottom.j",
-      "impact": {
-        "t_plus_5m": -0.3182,
-        "t_plus_15m": -0.5433,
-        "t_plus_1h": -0.5253,
-        "t_plus_4h": -0.1546
-      }
-    },
-    {
-      "event_id": "77d5488f-f8ef-4ce3-961a-71115966dfcd",
-      "source": "rss:coindesk",
-      "title": "Crypto Clarity Act in spotlight for bad-actor provisions as Senate process grinds forward",
-      "url": "https://www.coindesk.com/policy/2026/06/04/crypto-clarity-act-in-spotlight-for-bad-actor-provisions-as-senate-process-grinds-forward",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-04T19:41:14+00:00",
-      "raw_text": "Crypto Clarity Act in spotlight for bad-actor provisions as Senate process grinds forward",
-      "impact": {}
-    },
-    {
-      "event_id": "a0e652bd-1825-43e3-a7d5-3855760410e9",
-      "source": "rss:decrypt",
-      "title": "Google DeepMind CEO Says AGI Is Coming Fast: 'We Don't Have Long to Prepare'",
-      "url": "https://decrypt.co/370080/google-deepmind-ceo-agi-coming",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-04T18:54:22+00:00",
-      "raw_text": "Google DeepMind CEO Says AGI Is Coming Fast: 'We Don't Have Long to Prepare'\n\nThe Nobel Prize-winning AI researcher says humanity is standing in the \"foothills of the singularity.\"",
-      "impact": {}
-    },
-    {
-      "event_id": "4c4dca25-96e3-4c69-b13a-91cd9d06986e",
-      "source": "rss:cointelegraph",
-      "title": "Coinbase to launch token-backed mortgage down payments this summer",
-      "url": "https://cointelegraph.com/news/coinbase-token-backed-mortgages-fannie-mae-summer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-04T18:52:00+00:00",
-      "raw_text": "Coinbase to launch token-backed mortgage down payments this summer\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase to launch token-backed mortgage down payments this summer\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pb",
-      "impact": {}
-    },
-    {
-      "event_id": "eac8ff00-488d-4066-a39f-51a09e724339",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin Privacy in 2026: A Practical Guide",
-      "url": "https://bitcoinmagazine.com/guides/bitcoin-privacy-in-2026-a-practical-guide",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-04T18:30:40+00:00",
-      "raw_text": "Bitcoin Privacy in 2026: A Practical Guide\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/tn.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/guides/bitc",
-      "impact": {
-        "t_plus_5m": -0.2638,
-        "t_plus_15m": -0.0526,
-        "t_plus_1h": 0.1409,
-        "t_plus_24h": -5.6332
-      }
-    },
-    {
-      "event_id": "0ca5b17d-b6b7-466f-9823-6663344bdfe5",
-      "source": "rss:coindesk",
-      "title": "OCC chief says Democrats applying sole political pressure in World Liberty charter choice",
-      "url": "https://www.coindesk.com/policy/2026/06/04/occ-chief-says-democrats-applying-sole-political-pressure-in-world-liberty-charter-choice",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-04T18:19:13+00:00",
-      "raw_text": "OCC chief says Democrats applying sole political pressure in World Liberty charter choice",
-      "impact": {}
-    },
-    {
-      "event_id": "b3328798-0a81-4cbc-bc30-a48a98a9d9aa",
-      "source": "rss:coindesk",
-      "title": "'Dr. Doom'-backed Atlas Capital CEO says bitcoin could crash 70% before reaching $500,000",
-      "url": "https://www.coindesk.com/markets/2026/06/04/dr-doom-backed-atlas-capital-ceo-says-bitcoin-could-crash-70-before-reaching-usd500-000",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-04T18:15:52+00:00",
-      "raw_text": "'Dr. Doom'-backed Atlas Capital CEO says bitcoin could crash 70% before reaching $500,000",
-      "impact": {}
-    },
-    {
-      "event_id": "2af2f1da-5323-4e77-b6bb-6b9f7a0bc427",
-      "source": "rss:decrypt",
-      "title": "Strategy's Michael Saylor Blames 'Capital Rotation' Into AI as Bitcoin Dives 13%",
-      "url": "https://decrypt.co/370053/strategy-michael-saylor-blames-capital-rotation-ai-bitcoin-dives",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-04T18:06:15+00:00",
-      "raw_text": "Strategy's Michael Saylor Blames 'Capital Rotation' Into AI as Bitcoin Dives 13%\n\nWith Bitcoin falling hard this week and down nearly 50% from peak. Strategy's Michael Saylor is pointing the finger at the AI boom.",
-      "impact": {}
-    },
-    {
-      "event_id": "6bf19533-024c-4062-b1ba-bc9b423c3725",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin bulls' fate rests on $60K support as crypto erases $2T in market cap",
-      "url": "https://cointelegraph.com/markets/bitcoin-bulls-fate-rests-on-60k-support-as-sellers-remain-in-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-04T17:30:15+00:00",
-      "raw_text": "Bitcoin bulls' fate rests on $60K support as crypto erases $2T in market cap\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin bulls' fate rests on $60K support as crypto erases $2T in market cap\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/5",
-      "impact": {
-        "t_plus_5m": -1.363,
-        "t_plus_15m": -1.5449,
-        "t_plus_1h": -0.5945,
-        "t_plus_24h": -4.9142
-      }
-    },
-    {
-      "event_id": "a536426e-f720-4ba7-b52a-e06929591fba",
-      "source": "rss:cointelegraph",
-      "title": "Bybit joins Western Union’s new USDPT network as stablecoin expands distribution",
-      "url": "https://cointelegraph.com/news/seo-url-bybit-western-union-usdpt-stablecoin-exchange-integration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-04T17:21:27+00:00",
-      "raw_text": "Bybit joins Western Union’s new USDPT network as stablecoin expands distribution\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bybit joins Western Union’s new USDPT network as stablecoin expands distribution\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 215,
-        "avg_1h": -0.06,
-        "avg_24h": 0.72,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 72,
-        "avg_1h": -0.12,
-        "avg_24h": 2.34,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 169,
-        "avg_1h": -0.16,
-        "avg_24h": 1.75,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 25,
+        "count": 26,
         "avg_1h": 0.39,
         "avg_24h": 0.87,
         "win_rate_1h_gt5pct": 0.0
       },
+      "macro": {
+        "count": 75,
+        "avg_1h": 0.22,
+        "avg_24h": 2.34,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 171,
+        "avg_1h": -0.09,
+        "avg_24h": 1.75,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 210,
+        "avg_1h": -0.03,
+        "avg_24h": 1.13,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "listing": {
-        "count": 17,
-        "avg_1h": -0.29,
-        "avg_24h": -5.63,
+        "count": 16,
+        "avg_1h": -0.39,
+        "avg_24h": 0.19,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
