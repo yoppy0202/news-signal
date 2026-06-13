@@ -1,6 +1,73 @@
 {
-  "generated_at": "2026-06-13T06:30:35.401925+00:00",
+  "generated_at": "2026-06-13T10:06:45.452549+00:00",
   "events": [
+    {
+      "event_id": "8a27f6e5-4be5-4d66-8787-973ef4194d82",
+      "source": "rss:coindesk",
+      "title": "Top cryptographers can't agree on Bitcoin's biggest quantum question",
+      "url": "https://www.coindesk.com/tech/2026/06/13/top-cryptographers-can-t-agree-on-bitcoin-s-biggest-quantum-question",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-13T06:07:00+00:00",
+      "raw_text": "Top cryptographers can't agree on Bitcoin's biggest quantum question",
+      "impact": {}
+    },
+    {
+      "event_id": "d98ce8c7-26f4-4138-972a-a7ec9a64de8b",
+      "source": "rss:coindesk",
+      "title": "Anthropic's pre-IPO shares fall as US government shuts down its most powerful AI model",
+      "url": "https://www.coindesk.com/markets/2026/06/13/anthropic-s-pre-ipo-shares-fall-as-us-government-shuts-down-its-most-powerful-ai-model",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-13T06:02:05+00:00",
+      "raw_text": "Anthropic's pre-IPO shares fall as US government shuts down its most powerful AI model",
+      "impact": {}
+    },
+    {
+      "event_id": "688cbfff-a7d5-462d-b2b5-e65df87bc3b6",
+      "source": "rss:coindesk",
+      "title": "Bitcoin steadies above $63,000 as its worst week in months got a late macro rescue",
+      "url": "https://www.coindesk.com/markets/2026/06/13/bitcoin-steady-above-usd63-000-as-its-worst-week-in-months-got-a-late-macro-rescue",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-13T05:46:38+00:00",
+      "raw_text": "Bitcoin steadies above $63,000 as its worst week in months got a late macro rescue",
+      "impact": {}
+    },
+    {
+      "event_id": "fba9d7eb-a945-4bd0-a8ea-02c4ea0857ae",
+      "source": "rss:coindesk",
+      "title": "SpaceX IPO scramble reveals difference between tokenizing a stock and getting one",
+      "url": "https://www.coindesk.com/tech/2026/06/13/spacex-ipo-scramble-reveals-difference-between-tokenizing-a-stock-and-getting-one",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-13T05:16:10+00:00",
+      "raw_text": "SpaceX IPO scramble reveals difference between tokenizing a stock and getting one",
+      "impact": {}
+    },
+    {
+      "event_id": "75b79e44-991a-4f01-a485-fa1afee67b38",
+      "source": "rss:cointelegraph",
+      "title": "ETH futures flash bearish signal, but stakers’ resilience points to underlying strength",
+      "url": "https://cointelegraph.com/markets/eth-futures-flash-bearish-signal-but-stakers-resilience-points-to-underlying-strength?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [
+        "ETH"
+      ],
+      "timestamp_utc": "2026-06-13T03:24:05+00:00",
+      "raw_text": "ETH futures flash bearish signal, but stakers’ resilience points to underlying strength\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ETH futures flash bearish signal, but stakers’ resilience points to underlying strength\" class=\"type:primaryImage\" src=\"https://images.coin",
+      "impact": {
+        "t_plus_5m": -0.2826,
+        "t_plus_15m": -0.2254,
+        "t_plus_1h": -0.1654,
+        "t_plus_4h": 0.0794
+      }
+    },
     {
       "event_id": "82ab3e02-ffba-4822-a43c-6a813387917c",
       "source": "rss:cointelegraph",
@@ -6431,76 +6498,10 @@
       "timestamp_utc": "2026-06-05T19:18:56+00:00",
       "raw_text": "Anthropic Is Helping the NSA Hack China. It Also Wants Everyone to Pause AI\n\nThe company behind Claude embedded engineers at the NSA for offensive cyber ops, then published a report warning AI could soon build itself without humans in the loop.",
       "impact": {}
-    },
-    {
-      "event_id": "b7b095be-2eab-4d9c-a693-af794d9da893",
-      "source": "rss:decrypt",
-      "title": "Zcash Crash Just Wiped Billions From the Privacy Coin's Market Cap—Can ZEC Recover?",
-      "url": "https://decrypt.co/370184/zcash-crash-wiped-billions-market-cap-can-zec-recover",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T18:25:01+00:00",
-      "raw_text": "Zcash Crash Just Wiped Billions From the Privacy Coin's Market Cap—Can ZEC Recover?\n\nThe price of Zcash cratered following the disclosure of a serious vulnerability for the privacy coin. Can ZEC make a comeback anytime soon?",
-      "impact": {}
-    },
-    {
-      "event_id": "7cc59ddb-de38-4de8-ac7e-05b36e09879a",
-      "source": "rss:cointelegraph",
-      "title": "Kraken offers SpaceX IPO access through xStocks",
-      "url": "https://cointelegraph.com/news/kraken-offers-spacex-ipo-access-through-xstocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "listing",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T18:17:50+00:00",
-      "raw_text": "Kraken offers SpaceX IPO access through xStocks\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken offers SpaceX IPO access through xStocks\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2x",
-      "impact": {}
-    },
-    {
-      "event_id": "b46add4c-55f4-42fe-aa51-55c3be709f62",
-      "source": "rss:decrypt",
-      "title": "Congress Gets 7 New Crypto Tax Bills: Here's What's In Them",
-      "url": "https://decrypt.co/370197/congress-7-crypto-tax-bills",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T18:13:56+00:00",
-      "raw_text": "Congress Gets 7 New Crypto Tax Bills: Here's What's In Them\n\nThe crypto tax bills—the first of their kind to be deliberated by congressional leadership—will be discussed at a House hearing on Tuesday.",
-      "impact": {}
-    },
-    {
-      "event_id": "2b36c1a5-e00e-4634-8f7f-cea58927adf1",
-      "source": "rss:cointelegraph",
-      "title": "Crypto tax in Illinois FY2027 budget is one step away from becoming law",
-      "url": "https://cointelegraph.com/news/cryptocurrency-tax-illinois-fy2027-budget-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T18:10:59+00:00",
-      "raw_text": "Crypto tax in Illinois FY2027 budget is one step away from becoming law\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto tax in Illinois FY2027 budget is one step away from becoming law\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
-      "impact": {}
-    },
-    {
-      "event_id": "6b736ba7-a993-4d45-ad5b-7f5686959c0f",
-      "source": "rss:coindesk",
-      "title": "AI exposed a massive flaw in top crypto network and experts warn banks could be next",
-      "url": "https://www.coindesk.com/tech/2026/06/05/ai-exposed-a-massive-flaw-in-top-crypto-network-and-experts-warn-banks-could-be-next",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T18:02:33+00:00",
-      "raw_text": "AI exposed a massive flaw in top crypto network and experts warn banks could be next",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 84,
-        "avg_1h": -0.03,
-        "avg_24h": 1.09,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
         "count": 207,
         "avg_1h": -0.02,
@@ -6508,9 +6509,15 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 165,
-        "avg_1h": -0.11,
+        "count": 166,
+        "avg_1h": -0.12,
         "avg_24h": 2.42,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 84,
+        "avg_1h": -0.03,
+        "avg_24h": 1.09,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
@@ -6520,7 +6527,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
-        "count": 17,
+        "count": 16,
         "avg_1h": -0.31,
         "avg_24h": 0.27,
         "win_rate_1h_gt5pct": 0.0
