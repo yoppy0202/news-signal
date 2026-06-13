@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-12T22:43:46.118326+00:00",
+  "generated_at": "2026-06-13T01:33:09.687337+00:00",
   "events": [
+    {
+      "event_id": "dff701fa-3c9f-453b-8ea8-bab4f0b8c44f",
+      "source": "rss:theblock",
+      "title": "CFTC sues New Mexico in latest bid to assert authority over sports betting markets",
+      "url": "https://www.theblock.co/post/404674/cftc-sues-new-mexico-latest-bid-assert-authority-sports-betting-markets?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T20:37:49+00:00",
+      "raw_text": "CFTC sues New Mexico in latest bid to assert authority over sports betting markets\n\n<p>New Mexico is the next state in the CFTC's crosshairs as the fight continues over regulatory jurisdiction over sports betting. </p>\n\n<p>New Mexico is the next state in the CFTC's crosshairs as the fight continues ",
+      "impact": {}
+    },
     {
       "event_id": "036c4dcd-af95-4162-b01a-ae2bdb89db8c",
       "source": "rss:bitcoinmagazine",
@@ -790,6 +802,18 @@
       "tokens": [],
       "timestamp_utc": "2026-06-12T07:07:34+00:00",
       "raw_text": "BlackRock files to list its bitcoin income ETF, with expected debut next week",
+      "impact": {}
+    },
+    {
+      "event_id": "9f65a517-3be8-40b9-97b2-23afb53b0434",
+      "source": "rss:cointelegraph",
+      "title": "Blockworks acquires Messari in crypto data consolidation push",
+      "url": "https://cointelegraph.com/news/blockworks-buys-rival-messari-at-fraction-of-2022-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T07:00:00+00:00",
+      "raw_text": "Blockworks acquires Messari in crypto data consolidation push\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Blockworks acquires Messari in crypto data consolidation push\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3R",
       "impact": {}
     },
     {
@@ -6475,34 +6499,16 @@
       "timestamp_utc": "2026-06-05T16:46:28+00:00",
       "raw_text": "BlackRock-backed tokenization firm Securitize clears key hurdle to go public on NYSE",
       "impact": {}
-    },
-    {
-      "event_id": "e967567e-abce-45f3-981e-715721b11b6a",
-      "source": "rss:theblock",
-      "title": "‘Please stop the FUD’: Zcash treasury company Cypherpunk remains committed to accumulating 5% of ZEC supply",
-      "url": "https://www.theblock.co/post/403839/zcash-treasury-cypherpunk-remains-committed-accumulating-5-zec-supply?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T16:46:20+00:00",
-      "raw_text": "‘Please stop the FUD’: Zcash treasury company Cypherpunk remains committed to accumulating 5% of ZEC supply\n\n<p>Shares of Cypherpunk Technologies plunged more than 40% following the disclosure of a critical bug that was recently patched in Zcash.</p>\n\n<p>Shares of Cypherpunk Technologies plunged mor",
-      "impact": {}
-    },
-    {
-      "event_id": "6ba18e99-35ea-4752-9494-29eadcdf2914",
-      "source": "rss:cointelegraph",
-      "title": "Pump.fun bounty platform pays users to tattoo tokens and chase viral stunts",
-      "url": "https://cointelegraph.com/news/pumpfun-bounty-platforms-funds-memecoin-tattoos-world-cup-skydives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T16:44:44+00:00",
-      "raw_text": "Pump.fun bounty platform pays users to tattoo tokens and chase viral stunts\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Pump.fun bounty platform pays users to tattoo tokens and chase viral stunts\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 166,
+        "avg_1h": -0.11,
+        "avg_24h": 2.42,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 84,
         "avg_1h": -0.03,
@@ -6510,7 +6516,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 204,
+        "count": 205,
         "avg_1h": -0.02,
         "avg_24h": 1.05,
         "win_rate_1h_gt5pct": 0.0
@@ -6519,12 +6525,6 @@
         "count": 27,
         "avg_1h": 0.39,
         "avg_24h": 0.87,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 167,
-        "avg_1h": -0.11,
-        "avg_24h": 2.42,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
