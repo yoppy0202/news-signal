@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T10:06:45.452549+00:00",
+  "generated_at": "2026-06-13T12:02:00.225964+00:00",
   "events": [
     {
       "event_id": "8a27f6e5-4be5-4d66-8787-973ef4194d82",
@@ -594,6 +594,18 @@
         "t_plus_15m": -0.1834,
         "t_plus_1h": -0.1867
       }
+    },
+    {
+      "event_id": "519e377a-9b96-477c-bd1a-706d85d7a598",
+      "source": "rss:cointelegraph",
+      "title": "Exclusive: KuCoin has not paid $2M award tied to delisted token dispute, investor says",
+      "url": "https://cointelegraph.com/news/kucoin-yet-pay-seychelles-court-order-2m-token-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "listing",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-12T13:03:23+00:00",
+      "raw_text": "Exclusive: KuCoin has not paid $2M award tied to delisted token dispute, investor says\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Exclusive: KuCoin has not paid $2M award tied to delisted token dispute, investor says\" class=\"type:primaryImage\" src=\"https://images.cointe",
+      "impact": {}
     },
     {
       "event_id": "1731b412-b05d-4a7c-b7d8-7db1ec55ce6f",
@@ -6486,18 +6498,6 @@
       "timestamp_utc": "2026-06-05T19:27:20+00:00",
       "raw_text": "Why diehard bitcoin purists aren’t sweating the massive price crash that wiped out $200 billion",
       "impact": {}
-    },
-    {
-      "event_id": "5b18cd4d-05c7-4603-b080-a473322683ff",
-      "source": "rss:decrypt",
-      "title": "Anthropic Is Helping the NSA Hack China. It Also Wants Everyone to Pause AI",
-      "url": "https://decrypt.co/370207/anthropic-helping-nsa-hack-china-also-wants-everyone-pause-ai",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-05T19:18:56+00:00",
-      "raw_text": "Anthropic Is Helping the NSA Hack China. It Also Wants Everyone to Pause AI\n\nThe company behind Claude embedded engineers at the NSA for offensive cyber ops, then published a report warning AI could soon build itself without humans in the loop.",
-      "impact": {}
     }
   ],
   "stats": {
@@ -6521,13 +6521,13 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 26,
+        "count": 25,
         "avg_1h": -0.1,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
-        "count": 16,
+        "count": 17,
         "avg_1h": -0.31,
         "avg_24h": 0.27,
         "win_rate_1h_gt5pct": 0.0
