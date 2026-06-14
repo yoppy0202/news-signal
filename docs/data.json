@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-06-14T15:15:22.106404+00:00",
+  "generated_at": "2026-06-14T17:41:25.305673+00:00",
   "events": [
+    {
+      "event_id": "a6087a47-4380-4702-8964-b2fc53ba2915",
+      "source": "rss:theblock",
+      "title": "Trump-backed World Liberty Financial to fund UFC fighter bonuses in USD1 stablecoin at White House event",
+      "url": "https://www.theblock.co/post/404697/trump-backed-world-liberty-financial-to-fund-ufc-fighter-bonuses-in-usd1-stablecoin-at-white-house-event?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-14T15:44:41+00:00",
+      "raw_text": "Trump-backed World Liberty Financial to fund UFC fighter bonuses in USD1 stablecoin at White House event\n\n<p>The deal puts USD1 branding inside the Octagon at an event held on the White House South Lawn, on President Trump's 80th birthday.</p>\n\n<p>The deal puts USD1 branding inside the Octagon at an",
+      "impact": {}
+    },
+    {
+      "event_id": "94f4221a-cb63-4546-a3ee-b13ae3092a95",
+      "source": "rss:coindesk",
+      "title": "Aerodrome is turning liquidity into a prediction market with its biggest upgrade yet",
+      "url": "https://www.coindesk.com/tech/2026/06/12/aerodrome-is-turning-liquidity-into-a-prediction-market-with-its-biggest-upgrade-yet",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-14T15:00:00+00:00",
+      "raw_text": "Aerodrome is turning liquidity into a prediction market with its biggest upgrade yet",
+      "impact": {}
+    },
+    {
+      "event_id": "1f8e60d2-18fc-49a7-9c70-fdc88436ac58",
+      "source": "rss:coindesk",
+      "title": "SEC's big swing to clear tokenization path isn't likely to get resilience of full rule",
+      "url": "https://www.coindesk.com/news-analysis/2026/06/12/sec-s-big-swing-to-clear-tokenization-path-isn-t-likely-to-get-resilience-of-full-rule",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-14T14:00:00+00:00",
+      "raw_text": "SEC's big swing to clear tokenization path isn't likely to get resilience of full rule",
+      "impact": {}
+    },
+    {
+      "event_id": "8e9c3f7e-bbe8-49ca-a121-3da8fa9fd2ad",
+      "source": "rss:cointelegraph",
+      "title": "Ethereum can quantum-proof accounts for just 7 cents, says Ethereum's Kohaku lead",
+      "url": "https://cointelegraph.com/news/ethereum-quantum-proof-accounts-7-cents-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-14T13:49:48+00:00",
+      "raw_text": "Ethereum can quantum-proof accounts for just 7 cents, says Ethereum's Kohaku lead\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum can quantum-proof accounts for just 7 cents, says Ethereum's Kohaku lead\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.co",
+      "impact": {}
+    },
     {
       "event_id": "8ce3e04d-4503-4925-8736-5ae35cd8c3cc",
       "source": "rss:decrypt",
@@ -52,7 +100,8 @@
       "impact": {
         "t_plus_5m": 0.0587,
         "t_plus_15m": 0.094,
-        "t_plus_1h": 0.0022
+        "t_plus_1h": 0.0022,
+        "t_plus_4h": -0.327
       }
     },
     {
@@ -6428,54 +6477,6 @@
       "timestamp_utc": "2026-06-07T13:01:06+00:00",
       "raw_text": "Claude Opus 4.8 Review: Better At What’s It Good At, Worse At What It’s Not\n\nAnthropic's new flagship aced our math problem and shipped a spotless game—then drained our entire token quota in a single prompt. We ran it through six tests, and here's how it did.",
       "impact": {}
-    },
-    {
-      "event_id": "147a3e92-b98f-44f0-b2aa-46692ee947c1",
-      "source": "rss:coindesk",
-      "title": "Ethereum Foundation cuts and departures aren't a crisis, Joe Lubin says",
-      "url": "https://www.coindesk.com/tech/2026/06/07/ethereum-foundation-cuts-and-departures-aren-t-a-crisis-joe-lubin-says",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-07T13:00:00+00:00",
-      "raw_text": "Ethereum Foundation cuts and departures aren't a crisis, Joe Lubin says",
-      "impact": {}
-    },
-    {
-      "event_id": "23b2fdde-1042-490e-9e4f-5a39fb68146a",
-      "source": "rss:theblock",
-      "title": "HTX to delist Trump-linked USD1 after saying World Liberty Financial froze exchange-linked addresses",
-      "url": "https://www.theblock.co/post/403885/htx-to-delist-trump-linked-usd1-after-saying-world-liberty-financial-froze-exchange-linked-addresses?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-06T21:03:25+00:00",
-      "raw_text": "HTX to delist Trump-linked USD1 after saying World Liberty Financial froze exchange-linked addresses\n\n<p>The move follows World Liberty Financial's apparent freeze of HTX-linked on-chain addresses, citing UK sanctions compliance, per HTX. </p>\n\n<p>The move follows World Liberty Financial's apparent ",
-      "impact": {}
-    },
-    {
-      "event_id": "06d141bf-fcaa-4d14-b2f2-e3a43eaaba8b",
-      "source": "rss:decrypt",
-      "title": "AI Is Helping Discover Tech Vulnerabilities—And Zcash Is Just the Latest Example",
-      "url": "https://decrypt.co/370237/ai-discover-tech-vulnerabilities-zcash-latest-example",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-06T20:56:43+00:00",
-      "raw_text": "AI Is Helping Discover Tech Vulnerabilities—And Zcash Is Just the Latest Example\n\nFrontier AI models have evolved into bug-finding tools, uncovering vulnerabilities across the tech world—and now in crypto too.",
-      "impact": {}
-    },
-    {
-      "event_id": "ca974840-d14d-469f-b2e8-bd13860ceff8",
-      "source": "rss:coindesk",
-      "title": "Bitcoin, ether eye worst weekly rout since FTX collapse as cryptos shed $390 billion",
-      "url": "https://www.coindesk.com/markets/2026/06/06/bitcoin-ether-eye-worst-weekly-rout-since-ftx-collapse-as-cryptos-shed-usd390-billion",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-06T19:58:54+00:00",
-      "raw_text": "Bitcoin, ether eye worst weekly rout since FTX collapse as cryptos shed $390 billion",
-      "impact": {}
     }
   ],
   "stats": {
@@ -6486,22 +6487,22 @@
         "avg_24h": 0.76,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 26,
-        "avg_1h": -0.1,
-        "avg_24h": null,
+      "macro": {
+        "count": 88,
+        "avg_1h": -0.03,
+        "avg_24h": 0.9,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 169,
+        "count": 168,
         "avg_1h": -0.1,
         "avg_24h": 0.55,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 87,
-        "avg_1h": -0.03,
-        "avg_24h": 0.9,
+      "hack": {
+        "count": 26,
+        "avg_1h": -0.1,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
