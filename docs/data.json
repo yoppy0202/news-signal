@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-06-14T12:11:30.291917+00:00",
+  "generated_at": "2026-06-14T15:15:22.106404+00:00",
   "events": [
+    {
+      "event_id": "8ce3e04d-4503-4925-8736-5ae35cd8c3cc",
+      "source": "rss:decrypt",
+      "title": "Pokémon Card Sales Are Surging on Crypto Platforms—Just Don't Call It Gambling",
+      "url": "https://decrypt.co/370978/pokemon-cards-surging-crypto-platforms-gambling",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-14T13:01:03+00:00",
+      "raw_text": "Pokémon Card Sales Are Surging on Crypto Platforms—Just Don't Call It Gambling\n\nTokenized Pokémon card sales have skyrocketed over the past year, fueled by a wave of speculation and so-called gacha machines.",
+      "impact": {}
+    },
+    {
+      "event_id": "033c2ef0-fbe0-4176-94be-2a3059e2ea61",
+      "source": "rss:coindesk",
+      "title": "Wall Street and crypto are crashing into each other as tokenized treasury markets hit $14.6 billion",
+      "url": "https://www.coindesk.com/markets/2026/06/11/wall-street-and-crypto-are-crashing-into-each-other-as-tokenized-treasury-markets-hit-usd14-6-billion",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-14T13:00:00+00:00",
+      "raw_text": "Wall Street and crypto are crashing into each other as tokenized treasury markets hit $14.6 billion",
+      "impact": {}
+    },
+    {
+      "event_id": "ccc9d201-002a-4d7f-a8f7-4c4b1ef2bef8",
+      "source": "rss:cointelegraph",
+      "title": "Humanity Protocol’s $36M hack tied to suspected North Korean hackers: Quantstamp",
+      "url": "https://cointelegraph.com/news/humanity-protocol-hack-linked-north-korean-actors-quantstamp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-14T11:07:34+00:00",
+      "raw_text": "Humanity Protocol’s $36M hack tied to suspected North Korean hackers: Quantstamp\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Humanity Protocol’s $36M hack tied to suspected North Korean hackers: Quantstamp\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/",
+      "impact": {}
+    },
     {
       "event_id": "5c27359f-8f1c-4000-bebe-0e4941f885e3",
       "source": "rss:cointelegraph",
@@ -8,10 +44,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-nears-65k-as-trump-says-hormuz-will-open-to-all-in-sunday-iran-peace-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-14T10:06:04+00:00",
       "raw_text": "Bitcoin nears $65K as Trump says Hormuz will 'open to all' in Sunday Iran peace deal\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin nears $65K as Trump says Hormuz will 'open to all' in Sunday Iran peace deal\" class=\"type:primaryImage\" src=\"https://images.cointelegr",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0587,
+        "t_plus_15m": 0.094,
+        "t_plus_1h": 0.0022
+      }
     },
     {
       "event_id": "1560f996-be15-4e20-9ab3-4902040e500f",
@@ -269,7 +311,8 @@
         "t_plus_5m": -0.2319,
         "t_plus_15m": -0.285,
         "t_plus_1h": -0.0443,
-        "t_plus_4h": 0.4578
+        "t_plus_4h": 0.4578,
+        "t_plus_24h": -0.6164
       }
     },
     {
@@ -6433,62 +6476,12 @@
       "timestamp_utc": "2026-06-06T19:58:54+00:00",
       "raw_text": "Bitcoin, ether eye worst weekly rout since FTX collapse as cryptos shed $390 billion",
       "impact": {}
-    },
-    {
-      "event_id": "333583df-bbf2-45c1-842b-fe8f1e09d17d",
-      "source": "rss:theblock",
-      "title": "Hyperion DeFi to unwind $29 million in HYPE deals with Felix, Native Markets as USDH sunsets",
-      "url": "https://www.theblock.co/post/403879/hyperion-defi-to-unwind-29m-in-hype-deals-with-felix-native-markets-as-usdh-sunsets?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-06T19:40:36+00:00",
-      "raw_text": "Hyperion DeFi to unwind $29 million in HYPE deals with Felix, Native Markets as USDH sunsets\n\n<p>Roughly 800,000 HYPE will return to the company's treasury for redeployment to \"more profitable\" strategies, per a Friday filing. </p>\n\n<p>Roughly 800,000 HYPE will return to the company's treasury for r",
-      "impact": {}
-    },
-    {
-      "event_id": "27e60b02-a4e4-4963-afb7-693037243738",
-      "source": "rss:decrypt",
-      "title": "Claude Code Vulnerability Could Let Attackers Steal Credentials From GitHub, Says Microsoft",
-      "url": "https://decrypt.co/370238/claude-code-vulnerability-attackers-steal-credentials-github-microsoft",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-06T18:08:56+00:00",
-      "raw_text": "Claude Code Vulnerability Could Let Attackers Steal Credentials From GitHub, Says Microsoft\n\nResearchers say prompt injection attacks could manipulate AI coding agents to access sensitive credentials stored in software development pipelines.",
-      "impact": {}
-    },
-    {
-      "event_id": "922e7339-8c4f-40d3-8652-91d6438b92bf",
-      "source": "rss:theblock",
-      "title": "Wallet linked to Ethereum co-founder Joseph Lubin moves 110,000 ETH to defend $259 million DAI debt position",
-      "url": "https://www.theblock.co/post/403876/wallet-linked-to-ethereum-co-founder-joseph-lubin-moves-110000-eth-to-defend-259m-dai-debt-position?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-06-06T17:21:19+00:00",
-      "raw_text": "Wallet linked to Ethereum co-founder Joseph Lubin moves 110,000 ETH to defend $259 million DAI debt position\n\n<p>Onchain analysts described the move as defensive collateral management to reduce liquidation risk, not likely a sale.</p>\n\n<p>Onchain analysts described the move as defensive collateral m",
-      "impact": {
-        "t_plus_5m": 0.2463,
-        "t_plus_15m": 0.5054,
-        "t_plus_1h": -0.2087,
-        "t_plus_4h": 0.2998,
-        "t_plus_24h": 5.0882
-      }
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 171,
-        "avg_1h": -0.11,
-        "avg_24h": 1.69,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 198,
+        "count": 200,
         "avg_1h": -0.02,
         "avg_24h": 0.76,
         "win_rate_1h_gt5pct": 0.0
@@ -6497,6 +6490,12 @@
         "count": 26,
         "avg_1h": -0.1,
         "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 169,
+        "avg_1h": -0.1,
+        "avg_24h": 0.55,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
