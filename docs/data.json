@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-14T21:35:55.647774+00:00",
+  "generated_at": "2026-06-14T23:23:49.539466+00:00",
   "events": [
+    {
+      "event_id": "0b95cef5-9dde-44d4-96a1-3ae75c7e75e7",
+      "source": "rss:theblock",
+      "title": "Zimbabwe moves to regulate crypto sector, requiring firms to register with central bank: Reuters",
+      "url": "https://www.theblock.co/post/404705/zimbabwe-moves-to-regulate-crypto-sector-requiring-firms-to-register-with-central-bank-reuters?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-14T22:12:29+00:00",
+      "raw_text": "Zimbabwe moves to regulate crypto sector, requiring firms to register with central bank: Reuters\n\n<p>Registration costs an initial $500 with renewal costing $400 a year, and operating without registration is now an offense, according to Reuters.</p>\n\n<p>Registration costs an initial $500 with renewa",
+      "impact": {}
+    },
     {
       "event_id": "344c1d25-9f4a-4a9f-9b7b-9cefef2ed2d6",
       "source": "rss:theblock",
@@ -6471,24 +6483,12 @@
       "timestamp_utc": "2026-06-07T15:48:14+00:00",
       "raw_text": "Wall Street Is Coming for Hyperliquid's Perps Crown, Arthur Hayes Says\n\nArthur Hayes warned that Hyperliquid's core value driver—using trading fees to burn tokens—exposes the protocol to market share losses.",
       "impact": {}
-    },
-    {
-      "event_id": "e7625226-8373-4bdc-a93e-085129303a35",
-      "source": "rss:theblock",
-      "title": "Michael Saylor hints at fresh bitcoin buy with ‘add more dots’ post as Strategy sits $11.7 billion underwater",
-      "url": "https://www.theblock.co/post/403900/michael-saylor-signals-fresh-bitcoin-buy-with-add-more-dots-post-as-strategy-sits-11-7-billion-underwater?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-07T15:03:24+00:00",
-      "raw_text": "Michael Saylor hints at fresh bitcoin buy with ‘add more dots’ post as Strategy sits $11.7 billion underwater\n\n<p>The post lands a week after Strategy revealed its first bitcoin sale since 2022 and one day before voting closes on a STRC dividend amendment.</p>\n\n<p>The post lands a week after Strateg",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "macro": {
-        "count": 89,
+        "count": 90,
         "avg_1h": -0.03,
         "avg_24h": 0.9,
         "win_rate_1h_gt5pct": 0.0
@@ -6500,7 +6500,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 168,
+        "count": 167,
         "avg_1h": -0.12,
         "avg_24h": 0.55,
         "win_rate_1h_gt5pct": 0.0
