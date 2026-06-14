@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-14T09:53:52.744668+00:00",
+  "generated_at": "2026-06-14T12:11:30.291917+00:00",
   "events": [
+    {
+      "event_id": "5c27359f-8f1c-4000-bebe-0e4941f885e3",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin nears $65K as Trump says Hormuz will 'open to all' in Sunday Iran peace deal",
+      "url": "https://cointelegraph.com/markets/bitcoin-nears-65k-as-trump-says-hormuz-will-open-to-all-in-sunday-iran-peace-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-14T10:06:04+00:00",
+      "raw_text": "Bitcoin nears $65K as Trump says Hormuz will 'open to all' in Sunday Iran peace deal\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin nears $65K as Trump says Hormuz will 'open to all' in Sunday Iran peace deal\" class=\"type:primaryImage\" src=\"https://images.cointelegr",
+      "impact": {}
+    },
     {
       "event_id": "1560f996-be15-4e20-9ab3-4902040e500f",
       "source": "rss:cointelegraph",
@@ -6465,30 +6477,18 @@
         "t_plus_4h": 0.2998,
         "t_plus_24h": 5.0882
       }
-    },
-    {
-      "event_id": "e70417ea-a587-4c8f-a8bd-40238810b92c",
-      "source": "rss:coindesk",
-      "title": "Meta is paying creators in Stablecoins. Spending them is someone else's problem",
-      "url": "https://www.coindesk.com/opinion/2026/06/06/meta-is-paying-creators-in-stablecoins-spending-them-is-someone-else-s-problem",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-06T16:30:00+00:00",
-      "raw_text": "Meta is paying creators in Stablecoins. Spending them is someone else's problem",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 170,
+        "count": 171,
         "avg_1h": -0.11,
         "avg_24h": 1.69,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 199,
+        "count": 198,
         "avg_1h": -0.02,
         "avg_24h": 0.76,
         "win_rate_1h_gt5pct": 0.0
