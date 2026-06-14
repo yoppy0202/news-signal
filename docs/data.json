@@ -1,6 +1,72 @@
 {
-  "generated_at": "2026-06-14T19:53:45.315850+00:00",
+  "generated_at": "2026-06-14T21:35:55.647774+00:00",
   "events": [
+    {
+      "event_id": "344c1d25-9f4a-4a9f-9b7b-9cefef2ed2d6",
+      "source": "rss:theblock",
+      "title": "Bitcoin mining difficulty drops 10% in second-largest negative adjustment of 2026",
+      "url": "https://www.theblock.co/post/404702/bitcoin-mining-difficulty-drops-10-in-second-largest-negative-adjustment-of-2026?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-14T20:42:19+00:00",
+      "raw_text": "Bitcoin mining difficulty drops 10% in second-largest negative adjustment of 2026\n\n<p>The cut hands surviving miners roughly 11% more bitcoin per unit of active hashrate, but all-in production economics remain underwater at current prices. </p>\n\n<p>The cut hands surviving miners roughly 11% more bit",
+      "impact": {}
+    },
+    {
+      "event_id": "f48c5308-c8a9-4f05-9693-c9cde3cd2123",
+      "source": "rss:coindesk",
+      "title": "Bitcoin could crash to $48,000, if this historical pattern is triggered",
+      "url": "https://www.coindesk.com/markets/2026/06/14/bitcoin-could-crash-to-usd48-000-if-this-historical-pattern-is-triggered",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-14T19:17:30+00:00",
+      "raw_text": "Bitcoin could crash to $48,000, if this historical pattern is triggered",
+      "impact": {}
+    },
+    {
+      "event_id": "4a8a1866-cd67-4757-9d7b-94ba9f782439",
+      "source": "rss:decrypt",
+      "title": "Reve 2.0 Review: The Best AI Image Generator for Layout Control",
+      "url": "https://decrypt.co/371033/reve-2-review-best-ai-image-generator-layout-control",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-14T19:11:33+00:00",
+      "raw_text": "Reve 2.0 Review: The Best AI Image Generator for Layout Control\n\nThe startup that beat Midjourney at a penny per image is back with a 4K model that plans pictures like code—and refuses far less than its rivals",
+      "impact": {}
+    },
+    {
+      "event_id": "3b0b58a1-2539-4009-b53f-43c7ca2de45f",
+      "source": "rss:cointelegraph",
+      "title": "StanChart looks for 3 signs of BTC bottom, including Strategy’s Monday news",
+      "url": "https://cointelegraph.com/news/stanchart-looks-for-3-signs-of-btc-bottom-including-strategys-monday-news?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-06-14T19:05:46+00:00",
+      "raw_text": "StanChart looks for 3 signs of BTC bottom, including Strategy’s Monday news\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"StanChart looks for 3 signs of BTC bottom, including Strategy’s Monday news\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528",
+      "impact": {
+        "t_plus_5m": -0.5109,
+        "t_plus_15m": -0.3999,
+        "t_plus_1h": -0.4217
+      }
+    },
+    {
+      "event_id": "53e37f6d-680d-4f25-b1f3-e62e418ae9ab",
+      "source": "rss:coindesk",
+      "title": "Summer of crypto (regs): State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/06/14/summer-of-crypto-regs-state-of-crypto",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-14T18:30:00+00:00",
+      "raw_text": "Summer of crypto (regs): State of Crypto",
+      "impact": {}
+    },
     {
       "event_id": "a6087a47-4380-4702-8964-b2fc53ba2915",
       "source": "rss:theblock",
@@ -6417,90 +6483,30 @@
       "timestamp_utc": "2026-06-07T15:03:24+00:00",
       "raw_text": "Michael Saylor hints at fresh bitcoin buy with ‘add more dots’ post as Strategy sits $11.7 billion underwater\n\n<p>The post lands a week after Strategy revealed its first bitcoin sale since 2022 and one day before voting closes on a STRC dividend amendment.</p>\n\n<p>The post lands a week after Strateg",
       "impact": {}
-    },
-    {
-      "event_id": "94e3769b-dad8-44e5-861b-fc5ef61a2f45",
-      "source": "rss:coindesk",
-      "title": "Abra’s Bill Barhydt says Wall Street’s next crypto bet is tokenization",
-      "url": "https://www.coindesk.com/business/2026/06/07/abra-s-bill-barhydt-says-wall-street-s-next-crypto-bet-is-tokenization",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-07T15:00:00+00:00",
-      "raw_text": "Abra’s Bill Barhydt says Wall Street’s next crypto bet is tokenization",
-      "impact": {}
-    },
-    {
-      "event_id": "3979d711-4fbc-4e4b-a07f-07732dbc3daf",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin risks new purge with bear-market losses still $35B below 2022 total",
-      "url": "https://cointelegraph.com/markets/bitcoin-risks-new-purge-with-bear-market-losses-still-35b-below-2022-total?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-07T14:29:19+00:00",
-      "raw_text": "Bitcoin risks new purge with bear-market losses still $35B below 2022 total\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin risks new purge with bear-market losses still $35B below 2022 total\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528",
-      "impact": {}
-    },
-    {
-      "event_id": "c7a3fbcf-a896-4665-8f81-1f1bc4d89c26",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin risks new 'purge' with bear-market losses still $35B below 2022 total",
-      "url": "https://cointelegraph.com/markets/bitcoin-risks-new-purge-with-bear-market-losses-still-35b-below-2022-total?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-07T14:29:19+00:00",
-      "raw_text": "Bitcoin risks new 'purge' with bear-market losses still $35B below 2022 total\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin risks new 'purge' with bear-market losses still $35B below 2022 total\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
-      "impact": {}
-    },
-    {
-      "event_id": "0a93ffff-52c8-4820-b532-349c57dbca2f",
-      "source": "rss:theblock",
-      "title": "Bybit follows Kraken in offering tokenized SpaceX IPO access via xStocks",
-      "url": "https://www.theblock.co/post/403893/bybit-follows-kraken-in-offering-tokenized-spacex-ipo-access-via-xstocks?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-07T14:05:40+00:00",
-      "raw_text": "Bybit follows Kraken in offering tokenized SpaceX IPO access via xStocks\n\n<p>The product is built on Payward's xStocks framework, the tokenized equities platform Kraken acquired through its purchase of Backed Finance in late 2025.</p>\n\n<p>The product is built on Payward's xStocks framework, the toke",
-      "impact": {}
-    },
-    {
-      "event_id": "f1f89da5-db72-4bfe-aa95-45718efdacc9",
-      "source": "rss:decrypt",
-      "title": "Claude Opus 4.8 Review: Better At What’s It Good At, Worse At What It’s Not",
-      "url": "https://decrypt.co/370128/claude-opus-4-8-review",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-07T13:01:06+00:00",
-      "raw_text": "Claude Opus 4.8 Review: Better At What’s It Good At, Worse At What It’s Not\n\nAnthropic's new flagship aced our math problem and shipped a spotless game—then drained our entire token quota in a single prompt. We ran it through six tests, and here's how it did.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 89,
+        "avg_1h": -0.03,
+        "avg_24h": 0.9,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 200,
         "avg_1h": -0.02,
         "avg_24h": 0.76,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 88,
-        "avg_1h": -0.03,
-        "avg_24h": 0.9,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
         "count": 168,
-        "avg_1h": -0.1,
+        "avg_1h": -0.12,
         "avg_24h": 0.55,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 26,
+        "count": 25,
         "avg_1h": -0.1,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
