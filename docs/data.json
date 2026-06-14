@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-06-14T06:03:23.672139+00:00",
+  "generated_at": "2026-06-14T09:53:52.744668+00:00",
   "events": [
+    {
+      "event_id": "1560f996-be15-4e20-9ab3-4902040e500f",
+      "source": "rss:cointelegraph",
+      "title": "Trump says Iran peace deal to be signed Sunday, contradicting Tehran",
+      "url": "https://cointelegraph.com/news/trump-says-iran-peace-deal-to-be-signed-sunday-contradicting-tehran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-14T05:07:31+00:00",
+      "raw_text": "Trump says Iran peace deal to be signed Sunday, contradicting Tehran\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump says Iran peace deal to be signed Sunday, contradicting Tehran\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zM",
+      "impact": {}
+    },
+    {
+      "event_id": "8e1d0610-d61e-4e86-90c6-9ea905d8bc0e",
+      "source": "rss:cointelegraph",
+      "title": "Amazon warning triggered US crackdown on Anthropic AI models: Reports",
+      "url": "https://cointelegraph.com/news/amazon-warning-triggered-us-crackdown-on-anthropic-ai-models-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-14T03:36:49+00:00",
+      "raw_text": "Amazon warning triggered US crackdown on Anthropic AI models: Reports\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Amazon warning triggered US crackdown on Anthropic AI models: Reports\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
+      "impact": {}
+    },
     {
       "event_id": "a4f30ce7-e901-4342-8735-07f739861e63",
       "source": "rss:theblock",
@@ -312,7 +336,8 @@
         "t_plus_5m": -0.2826,
         "t_plus_15m": -0.2254,
         "t_plus_1h": -0.1654,
-        "t_plus_4h": 0.0794
+        "t_plus_4h": 0.0794,
+        "t_plus_24h": 0.8442
       }
     },
     {
@@ -6452,52 +6477,20 @@
       "timestamp_utc": "2026-06-06T16:30:00+00:00",
       "raw_text": "Meta is paying creators in Stablecoins. Spending them is someone else's problem",
       "impact": {}
-    },
-    {
-      "event_id": "b7daf47f-d152-4d37-8ae9-a7cb00d3eda9",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin most oversold since 2020 crash: Can BTC rebound to $70K next?",
-      "url": "https://cointelegraph.com/markets/bitcoin-most-oversold-since-2020-crash-can-btc-rebound-to-70k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-06T16:06:54+00:00",
-      "raw_text": "Bitcoin most oversold since 2020 crash: Can BTC rebound to $70K next?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin most oversold since 2020 crash: Can BTC rebound to $70K next?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
-      "impact": {
-        "t_plus_5m": 0.2819,
-        "t_plus_15m": 0.1949,
-        "t_plus_1h": 0.1528,
-        "t_plus_4h": -0.1637,
-        "t_plus_24h": 2.2921
-      }
-    },
-    {
-      "event_id": "7dd2019b-672a-4640-b5c5-1217eca862ac",
-      "source": "rss:decrypt",
-      "title": "Bitcoin Has Dumped All of Its Gains Since Trump Was Reelected—And Then Some",
-      "url": "https://decrypt.co/370235/bitcoin-dumped-gains-since-trump-reelected-then-some",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-06T15:59:30+00:00",
-      "raw_text": "Bitcoin Has Dumped All of Its Gains Since Trump Was Reelected—And Then Some\n\nBitcoin surged in the wake of President Trump's reelection, pushing to new highs deep into 2025. Now it's down more than 50% from that peak.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 169,
+        "count": 170,
         "avg_1h": -0.11,
-        "avg_24h": 1.9,
+        "avg_24h": 1.69,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 200,
-        "avg_1h": -0.01,
-        "avg_24h": 0.89,
+        "count": 199,
+        "avg_1h": -0.02,
+        "avg_24h": 0.76,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
