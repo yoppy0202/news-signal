@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-06-14T23:23:49.539466+00:00",
+  "generated_at": "2026-06-15T05:24:23.300047+00:00",
   "events": [
+    {
+      "event_id": "fe7e17b5-818e-470c-99e1-6d6161fa72ac",
+      "source": "rss:coindesk",
+      "title": "Bitcoin hits a two-week high above $65,500 as the US-Iran deal sends oil sliding",
+      "url": "https://www.coindesk.com/markets/2026/06/15/bitcoin-hits-a-two-week-high-above-usd65-500-as-the-us-iran-deal-sends-oil-sliding",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-15T03:56:27+00:00",
+      "raw_text": "Bitcoin hits a two-week high above $65,500 as the US-Iran deal sends oil sliding",
+      "impact": {}
+    },
+    {
+      "event_id": "c1ebb08b-7e0c-46d9-a526-4691a6a803db",
+      "source": "rss:theblock",
+      "title": "The Funding: Is the bitcoin bottom in? Crypto funds weigh in",
+      "url": "https://www.theblock.co/post/404714/bitcoin-bottom-crypto-funds-outlook?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-15T02:41:59+00:00",
+      "raw_text": "The Funding: Is the bitcoin bottom in? Crypto funds weigh in\n\n<p>Crypto funds share their outlook on bitcoin, the biggest risks ahead, and where they see the best risk-reward opportunities today.</p>\n\n<p>Crypto funds share their outlook on bitcoin, the biggest risks ahead, and where they see the bes",
+      "impact": {}
+    },
+    {
+      "event_id": "ae661cc3-d6d0-466a-ae3b-8ea98f3faf18",
+      "source": "rss:coindesk",
+      "title": "Bitcoin shoots higher on Iran peace deal, with Strait of Hormuz set to open",
+      "url": "https://www.coindesk.com/markets/2026/06/14/bitcoin-shoots-higher-on-iran-deal-with-strait-of-hormuz-set-to-open",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-15T00:08:10+00:00",
+      "raw_text": "Bitcoin shoots higher on Iran peace deal, with Strait of Hormuz set to open",
+      "impact": {}
+    },
     {
       "event_id": "0b95cef5-9dde-44d4-96a1-3ae75c7e75e7",
       "source": "rss:theblock",
@@ -64,7 +100,8 @@
       "impact": {
         "t_plus_5m": -0.5109,
         "t_plus_15m": -0.3999,
-        "t_plus_1h": -0.4217
+        "t_plus_1h": -0.4217,
+        "t_plus_4h": 1.9701
       }
     },
     {
@@ -6447,52 +6484,10 @@
       "timestamp_utc": "2026-06-07T17:08:36+00:00",
       "raw_text": "JPMorgan says Strategy may need to rebuild dollar reserves to restore confidence\n\n<p>JPMorgan said crypto's outlook depends on Strategy's dividend plan and the Clarity Act, for which it now sees less than a 50% chance of passage this year.</p>\n\n<p>JPMorgan said crypto's outlook depends on Strategy's",
       "impact": {}
-    },
-    {
-      "event_id": "bda16fe8-516b-4365-9cf6-5defbfdd3b98",
-      "source": "rss:coindesk",
-      "title": "Bitcoin near $60,000 today vs February: Institutional sentiment has flipped",
-      "url": "https://www.coindesk.com/markets/2026/06/07/bitcoin-near-usd60-000-today-vs-february-institutional-mood-is-starkly-different",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-07T16:14:08+00:00",
-      "raw_text": "Bitcoin near $60,000 today vs February: Institutional sentiment has flipped",
-      "impact": {}
-    },
-    {
-      "event_id": "b02873fa-b237-453f-992a-23f6605b125d",
-      "source": "rss:coindesk",
-      "title": "Bitcoin's slide has no single cause. AI, tech IPOs, quantum, Strategy sale all play a role, NYDIG says",
-      "url": "https://www.coindesk.com/markets/2026/06/07/bitcoin-s-slide-has-no-single-cause-ai-tech-ipos-quantum-strategy-sale-all-play-a-role-nydig-says",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-07T16:00:00+00:00",
-      "raw_text": "Bitcoin's slide has no single cause. AI, tech IPOs, quantum, Strategy sale all play a role, NYDIG says",
-      "impact": {}
-    },
-    {
-      "event_id": "8f2a3558-f030-4ea2-8829-94990e081c77",
-      "source": "rss:decrypt",
-      "title": "Wall Street Is Coming for Hyperliquid's Perps Crown, Arthur Hayes Says",
-      "url": "https://decrypt.co/370236/wall-street-coming-hyperliquid-perps-crown-arthur-hayes-says",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-07T15:48:14+00:00",
-      "raw_text": "Wall Street Is Coming for Hyperliquid's Perps Crown, Arthur Hayes Says\n\nArthur Hayes warned that Hyperliquid's core value driver—using trading fees to burn tokens—exposes the protocol to market share losses.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 90,
-        "avg_1h": -0.03,
-        "avg_24h": 0.9,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
         "count": 200,
         "avg_1h": -0.02,
@@ -6503,6 +6498,12 @@
         "count": 167,
         "avg_1h": -0.12,
         "avg_24h": 0.55,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 90,
+        "avg_1h": -0.03,
+        "avg_24h": 0.9,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
