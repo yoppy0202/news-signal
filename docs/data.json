@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-06-15T21:17:28.323440+00:00",
+  "generated_at": "2026-06-15T23:58:46.606658+00:00",
   "events": [
+    {
+      "event_id": "9a01f99a-3fb1-4a3a-9366-e8ca7b461619",
+      "source": "rss:theblock",
+      "title": "Spot HYPE ETFs near $900 million in volume as early demand signals institutional interest",
+      "url": "https://www.theblock.co/post/404802/spot-hype-etfs-near-900-million-volume-early-demand-signals-institutional-interest?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-15T21:26:02+00:00",
+      "raw_text": "Spot HYPE ETFs near $900 million in volume as early demand signals institutional interest\n\n<p>Volume across the three products has been uneven, with BHYP and THYP accounting for the bulk of activity while HYPG continues to ramp.</p>\n\n<p>Volume across the three products has been uneven, with BHYP and",
+      "impact": {}
+    },
+    {
+      "event_id": "8dd98d80-451c-4436-9587-412156740f77",
+      "source": "rss:decrypt",
+      "title": "Elon Musk Loses Again to OpenAI as Judge Dismisses xAI Trade Secret Lawsuit",
+      "url": "https://decrypt.co/371253/elon-musk-loses-again-openai-xai-trade-secret-lawsuit",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-15T21:05:00+00:00",
+      "raw_text": "Elon Musk Loses Again to OpenAI as Judge Dismisses xAI Trade Secret Lawsuit\n\nA federal judge handed Elon Musk his second defeat against OpenAI after finding xAI failed to show OpenAI improperly obtained confidential info.",
+      "impact": {}
+    },
+    {
+      "event_id": "b2494c69-92a2-418f-a97e-7b24de52379d",
+      "source": "rss:decrypt",
+      "title": "Pudgy Penguins NFT Game 'Pudgy Party' Shuts Down Less Than a Year After Launch",
+      "url": "https://decrypt.co/371197/pudgy-penguins-nft-game-pudgy-party-shuts-down",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-15T20:47:53+00:00",
+      "raw_text": "Pudgy Penguins NFT Game 'Pudgy Party' Shuts Down Less Than a Year After Launch\n\nPudgy Party, a mobile battle royale game, has closed up shop as the Pudgy Penguins team shifts its focus to its Pudgy World experience.",
+      "impact": {}
+    },
+    {
+      "event_id": "57764d98-7f18-4783-b863-b58e11e273e3",
+      "source": "rss:theblock",
+      "title": "SpaceX IPO fuels $1.4 billion trading frenzy on Hyperliquid as SPCX perp becomes HIP-3’s biggest market",
+      "url": "https://www.theblock.co/post/404804/spacex-ipo-1-4-billion-trading-frenzy-hyperliquid-spcx-perp-hip-3s-biggest-market?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-15T20:31:48+00:00",
+      "raw_text": "SpaceX IPO fuels $1.4 billion trading frenzy on Hyperliquid as SPCX perp becomes HIP-3’s biggest market\n\n<p>Stock-linked HIP-3 markets have generated more than $18.8 billion in volume so far this month, eclipsing crude oil and Brent perps combined.</p>\n\n<p>Stock-linked HIP-3 markets have generated m",
+      "impact": {}
+    },
+    {
+      "event_id": "28fa7e0b-c75c-4510-a6a5-e9fe00060acb",
+      "source": "rss:cointelegraph",
+      "title": "Nvidia’s $20 billion debt boom reinforces Bitcoin miners' AI pivot",
+      "url": "https://cointelegraph.com/news/nvidia-20-billion-debt-boom-reinforces-bitocin-minings-ai-pivot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-15T20:15:43+00:00",
+      "raw_text": "Nvidia’s $20 billion debt boom reinforces Bitcoin miners' AI pivot\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Nvidia’s $20 billion debt boom reinforces Bitcoin miners' AI pivot\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pb",
+      "impact": {}
+    },
+    {
+      "event_id": "99280502-29dd-45c5-86d1-63b4e05bd220",
+      "source": "rss:decrypt",
+      "title": "Someone Just Lost $1 Million on Polymarket Over Spain World Cup Shocker",
+      "url": "https://decrypt.co/371227/polymarket-trader-loses-1-million-spain-world-cup-bet",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-15T20:06:36+00:00",
+      "raw_text": "Someone Just Lost $1 Million on Polymarket Over Spain World Cup Shocker\n\nOne trader lost $1 million betting Spain would win. Another bought \"No\" at 9¢ and walked away with $4.3 million.",
+      "impact": {}
+    },
     {
       "event_id": "fd11dae3-d33c-49c2-b2f8-ec945b51b3d2",
       "source": "rss:theblock",
@@ -32,9 +104,27 @@
       "url": "https://bitcoinmagazine.com/markets/bitcoin-price-and-crypto-stocks-surge",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-15T19:43:01+00:00",
       "raw_text": "Bitcoin Price and Crypto Stocks Surge as Iran Ceasefire, Strategy’s $100M Buy Collide With Fed Week\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Price-and-Crypto-Stocks-Surge-as-Iran-Cease",
+      "impact": {
+        "t_plus_5m": 0.0016,
+        "t_plus_15m": -0.0634,
+        "t_plus_1h": -0.0076
+      }
+    },
+    {
+      "event_id": "272dc3ac-6e7c-4005-9cf8-741b78000422",
+      "source": "rss:cointelegraph",
+      "title": "CFTC hires SEC crypto task force adviser with blockchain forensics chops",
+      "url": "https://cointelegraph.com/news/sec-crypto-adviser-cftc-blockchain-forensics?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-15T19:41:24+00:00",
+      "raw_text": "CFTC hires SEC crypto task force adviser with blockchain forensics chops\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC hires SEC crypto task force adviser with blockchain forensics chops\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0c",
       "impact": {}
     },
     {
@@ -56,10 +146,16 @@
       "url": "https://cointelegraph.com/news/bitmine-eth-holdings-near-10b-bear-market-accumulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-06-15T18:55:11+00:00",
       "raw_text": "BitMine boosts ETH holdings closer to $10B as bear market accumulation continues\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitMine boosts ETH holdings closer to $10B as bear market accumulation continues\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.3,
+        "t_plus_15m": 0.4461,
+        "t_plus_1h": 0.0001
+      }
     },
     {
       "event_id": "44d7b246-5abf-4630-8840-e0f76106a2b4",
@@ -104,10 +200,16 @@
       "url": "https://www.theblock.co/post/404792/win-win-outcomes-solana-treasury-forward-acquire-sol-dats?utm_source=rss&utm_medium=rss",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "SOL"
+      ],
       "timestamp_utc": "2026-06-15T17:59:08+00:00",
       "raw_text": "‘There’s room for win-win outcomes’: Largest Solana treasury firm Forward looks to acquire smaller SOL DATs\n\n<p>Forward Industries is offering to acquire Solana DAT competitors at a premium as their mNAVs slip along with the declining price of SOL.</p>\n\n<p>Forward Industries is offering to acquire S",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0121,
+        "t_plus_15m": 0.1505,
+        "t_plus_1h": 0.1769
+      }
     },
     {
       "event_id": "6f866e08-a318-40a7-83fa-2f73251863ea",
@@ -152,10 +254,17 @@
       "url": "https://bitcoinmagazine.com/business/bitgo-joins-fortune-500-with-16-2b-revenue-marking-milestone-for-regulated-bitcoin-custody",
       "event_type": "listing",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-15T16:22:32+00:00",
       "raw_text": "BitGo Joins Fortune 500 with $16.2B Revenue, Marking Milestone for Regulated Bitcoin Infrastructure\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/tn-3.webp\" style=\"display: block; margin: 1em auto;",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.8086,
+        "t_plus_15m": 0.8394,
+        "t_plus_1h": 0.2929,
+        "t_plus_4h": -0.0912
+      }
     },
     {
       "event_id": "8d68cb2c-87c8-469a-bdd4-034444e97432",
@@ -164,10 +273,17 @@
       "url": "https://cointelegraph.com/markets/these-bitcoin-charts-show-how-btc-price-could-hit-100k-before-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "whale_move",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-15T16:18:14+00:00",
       "raw_text": "These Bitcoin charts show how BTC price could hit $100K before October\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"These Bitcoin charts show how BTC price could hit $100K before October\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6L",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.8102,
+        "t_plus_15m": 0.8655,
+        "t_plus_1h": 0.444,
+        "t_plus_4h": -0.1312
+      }
     },
     {
       "event_id": "fbf178b5-7918-4a9a-a73d-5a3da402f805",
@@ -294,6 +410,18 @@
         "t_plus_15m": -0.7624,
         "t_plus_1h": 0.0095
       }
+    },
+    {
+      "event_id": "bd069c36-77a9-44bf-a86c-c278eb2fc846",
+      "source": "rss:cointelegraph",
+      "title": "Bybit expands RWA push with tokenized bond funds from PIMCO, CMBI",
+      "url": "https://cointelegraph.com/news/bybit-launches-tokenized-bond-products-from-pimco-and-cmbi-through-rwa-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-15T15:00:00+00:00",
+      "raw_text": "Bybit expands RWA push with tokenized bond funds from PIMCO, CMBI\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bybit expands RWA push with tokenized bond funds from PIMCO, CMBI\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWF",
+      "impact": {}
     },
     {
       "event_id": "a714cdad-9757-4d6a-acdc-5a52b824f536",
@@ -741,6 +869,18 @@
       "impact": {}
     },
     {
+      "event_id": "d5d86e00-bd98-4fb5-ac0e-d0adea89b7a3",
+      "source": "rss:coindesk",
+      "title": "Live markets: Bitcoin gives back some gains as SpaceX's post-IPO rally extends to 40%",
+      "url": "https://www.coindesk.com/tech/2026/06/15/live-markets-bitcoin-not-fully-out-of-danger-as-trump-warns-of-further-iran-strikes",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-15T05:19:14+00:00",
+      "raw_text": "Live markets: Bitcoin gives back some gains as SpaceX's post-IPO rally extends to 40%",
+      "impact": {}
+    },
+    {
       "event_id": "459616e7-8162-4e44-9a6f-21e23da7c2fc",
       "source": "rss:coindesk",
       "title": "Live markets: Bitcoin jumps above $67,000 as short squeeze builds on US-Iran deal hopes",
@@ -907,7 +1047,8 @@
         "t_plus_5m": -0.5109,
         "t_plus_15m": -0.3999,
         "t_plus_1h": -0.4217,
-        "t_plus_4h": 1.9701
+        "t_plus_4h": 1.9701,
+        "t_plus_24h": 4.2263
       }
     },
     {
@@ -6322,159 +6463,37 @@
       "timestamp_utc": "2026-06-08T17:13:52+00:00",
       "raw_text": "What is Zcash (ZEC)? The Privacy Coin Using Zero-Knowledge Proofs\n\nZcash is a privacy-focused cryptocurrency that enables users to hide key details of transactions by leveraging zk-SNARKs.",
       "impact": {}
-    },
-    {
-      "event_id": "916ee251-cf1b-435d-9aea-2f0656c8a509",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin tops $63,000 as Strategy adds $100 million BTC in latest purchase",
-      "url": "https://www.coindesk.com/business/2026/06/08/live-updates-bitcoin-above-usd63-400-as-strategy-adds-usd100-million-btc-in-latest-purchase",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-08T17:04:38+00:00",
-      "raw_text": "Live updates: Bitcoin tops $63,000 as Strategy adds $100 million BTC in latest purchase",
-      "impact": {
-        "t_plus_5m": 0.0825,
-        "t_plus_15m": -0.028,
-        "t_plus_1h": 0.2254,
-        "t_plus_4h": 0.2087
-      }
-    },
-    {
-      "event_id": "b8c18d0b-87d2-4740-b44b-83d24040170b",
-      "source": "rss:bitcoinmagazine",
-      "title": "Sam Bankman-Fried Formally Seeks Presidential Pardon From Trump, Files Clemency Petition",
-      "url": "https://bitcoinmagazine.com/news/sam-bankman-fried-formally-seeks-pardon",
-      "event_type": "listing",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-08T16:54:03+00:00",
-      "raw_text": "Sam Bankman-Fried Formally Seeks Presidential Pardon From Trump, Files Clemency Petition\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/01/Trump-Says-He-Wont-Pardon-Sam-Bankman-Fried.jpg\" style=\"displa",
-      "impact": {}
-    },
-    {
-      "event_id": "cac66119-7e88-4ed2-858f-5f79e802c98b",
-      "source": "rss:bitcoinmagazine",
-      "title": "Crypto Coalition of Over 200 Companies Presses Senate Leaders to Bring Clarity Act to Floor",
-      "url": "https://bitcoinmagazine.com/news/crypto-coalition-200-companies-clarity-act",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-08T16:49:00+00:00",
-      "raw_text": "Crypto Coalition of Over 200 Companies Presses Senate Leaders to Bring Clarity Act to Floor\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Senate-Banking-Committee-Advances-Clarity-Act-Two-Democrats",
-      "impact": {}
-    },
-    {
-      "event_id": "3d5d868b-8685-4d32-9343-89e89e5b6b0c",
-      "source": "rss:decrypt",
-      "title": "'Extremely Bullish': Zcash Rebounds By $2.5 Billion Amid Planned Fix for Supply Conundrum",
-      "url": "https://decrypt.co/370322/extremely-bullish-zcash-rebounds-planned-fix-supply-conundrum",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-08T16:23:53+00:00",
-      "raw_text": "'Extremely Bullish': Zcash Rebounds By $2.5 Billion Amid Planned Fix for Supply Conundrum\n\nZcash pared steep losses after the privacy coin's backers introduced an upgrade aimed at restoring faith in the digital asset's supply.",
-      "impact": {}
-    },
-    {
-      "event_id": "676210a5-0583-4cb7-adfe-79570131e648",
-      "source": "rss:theblock",
-      "title": "Strategy shareholders approve semi-monthly dividends for STRC preferred stock",
-      "url": "https://www.theblock.co/post/404010/strategy-shareholders-approve-semi-monthly-dividends-strc-preferred-stock?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-08T15:41:38+00:00",
-      "raw_text": "Strategy shareholders approve semi-monthly dividends for STRC preferred stock\n\n<p>\"Paying dividends on STRC twice a month is designed to stabilize price, dampen cyclicality, drive liquidity, and grow demand for STRC,\" Strategy's CEO said.</p>\n\n<p>\"Paying dividends on STRC twice a month is designed t",
-      "impact": {}
-    },
-    {
-      "event_id": "4d048e4f-6f09-4f67-8ec4-aa2dd15f5c6a",
-      "source": "rss:coindesk",
-      "title": "Sam Bankman-Fried officially asks Trump for a presidential pardon",
-      "url": "https://www.coindesk.com/policy/2026/06/08/sam-bankman-fried-officially-asks-donald-trump-for-a-presidential-pardon",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-08T15:41:10+00:00",
-      "raw_text": "Sam Bankman-Fried officially asks Trump for a presidential pardon",
-      "impact": {}
-    },
-    {
-      "event_id": "26bb5172-e4b8-4642-9158-67e43ee5e80f",
-      "source": "rss:coindesk",
-      "title": "The startup killer: Ledger CTO says the EU's crushing compliance costs are choking Web3 innovation",
-      "url": "https://www.coindesk.com/business/2026/06/08/europe-s-strict-new-crypto-rules-are-crushing-small-startups-ledger-cto-says",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-08T15:38:03+00:00",
-      "raw_text": "The startup killer: Ledger CTO says the EU's crushing compliance costs are choking Web3 innovation",
-      "impact": {}
-    },
-    {
-      "event_id": "c8490bc0-3e28-4e8e-a5d1-c5cf9e663521",
-      "source": "rss:decrypt",
-      "title": "Tom Lee's BitMine Buys the Dip Amid 'Superficial' Crypto Selloff, Adding $214M in Ethereum",
-      "url": "https://decrypt.co/370315/tom-lees-bitmine-buys-dip-superficial-crypto-selloff-214m-ethereum",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-06-08T15:18:37+00:00",
-      "raw_text": "Tom Lee's BitMine Buys the Dip Amid 'Superficial' Crypto Selloff, Adding $214M in Ethereum\n\nLeading Ethereum treasury firm BitMine Immersion Technologies bought the dip, making its largest weekly ETH purchase so far this year.",
-      "impact": {
-        "t_plus_5m": 1.0197,
-        "t_plus_15m": 0.6526,
-        "t_plus_1h": 1.0142,
-        "t_plus_4h": 0.1269
-      }
-    },
-    {
-      "event_id": "72322d93-264c-4c26-9548-c48711bedab9",
-      "source": "rss:coindesk",
-      "title": "Aave chief defends protocol's 'resilience' after $8.45 billion bank run",
-      "url": "https://www.coindesk.com/business/2026/06/08/aave-labs-founder-stani-kulechov-deflects-responsibility-in-usd8-billion-run-on-stage",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-08T15:17:44+00:00",
-      "raw_text": "Aave chief defends protocol's 'resilience' after $8.45 billion bank run",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 94,
+        "avg_1h": -0.08,
+        "avg_24h": 0.9,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 189,
-        "avg_1h": 0.08,
+        "count": 186,
+        "avg_1h": 0.03,
         "avg_24h": 0.8,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 173,
-        "avg_1h": -0.16,
-        "avg_24h": 0.74,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 92,
-        "avg_1h": -0.09,
-        "avg_24h": 0.9,
+        "count": 175,
+        "avg_1h": -0.14,
+        "avg_24h": 1.24,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
-        "count": 17,
-        "avg_1h": -0.31,
+        "count": 16,
+        "avg_1h": -0.22,
         "avg_24h": 0.44,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
         "count": 2,
-        "avg_1h": -0.19,
+        "avg_1h": 0.13,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
