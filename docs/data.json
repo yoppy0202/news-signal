@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-15T23:58:46.606658+00:00",
+  "generated_at": "2026-06-16T05:27:23.142783+00:00",
   "events": [
+    {
+      "event_id": "0ff97eb5-18dd-486c-b09a-fb8eb7cc4ced",
+      "source": "rss:cointelegraph",
+      "title": "Trump crypto company's USD1 stablecoins backing UFC event bonuses",
+      "url": "https://cointelegraph.com/news/donald-trump-crypto-company-ufc-fighter-bonuses-usd1-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-15T22:10:00+00:00",
+      "raw_text": "Trump crypto company's USD1 stablecoins backing UFC event bonuses\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump crypto company's USD1 stablecoins backing UFC event bonuses\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWF",
+      "impact": {}
+    },
     {
       "event_id": "9a01f99a-3fb1-4a3a-9366-e8ca7b461619",
       "source": "rss:theblock",
@@ -112,7 +124,8 @@
       "impact": {
         "t_plus_5m": 0.0016,
         "t_plus_15m": -0.0634,
-        "t_plus_1h": -0.0076
+        "t_plus_1h": -0.0076,
+        "t_plus_4h": -0.6073
       }
     },
     {
@@ -154,7 +167,8 @@
       "impact": {
         "t_plus_5m": 0.3,
         "t_plus_15m": 0.4461,
-        "t_plus_1h": 0.0001
+        "t_plus_1h": 0.0001,
+        "t_plus_4h": -1.8112
       }
     },
     {
@@ -208,7 +222,8 @@
       "impact": {
         "t_plus_5m": 0.0121,
         "t_plus_15m": 0.1505,
-        "t_plus_1h": 0.1769
+        "t_plus_1h": 0.1769,
+        "t_plus_4h": -0.9289
       }
     },
     {
@@ -6451,36 +6466,24 @@
       "timestamp_utc": "2026-06-08T17:27:15+00:00",
       "raw_text": "For Bitcoin Giant Strategy, Cash Is Key to Calming Investors: JPMorgan\n\nStrategy’s fortunes have long been tied to Bitcoin, but it now appears to rest on the greenback, according to JPMorgan analysts.",
       "impact": {}
-    },
-    {
-      "event_id": "aac26dc2-504c-4fa2-a374-39d912c11064",
-      "source": "rss:decrypt",
-      "title": "What is Zcash (ZEC)? The Privacy Coin Using Zero-Knowledge Proofs",
-      "url": "https://decrypt.co/resources/zcash",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-08T17:13:52+00:00",
-      "raw_text": "What is Zcash (ZEC)? The Privacy Coin Using Zero-Knowledge Proofs\n\nZcash is a privacy-focused cryptocurrency that enables users to hide key details of transactions by leveraging zk-SNARKs.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 187,
+        "avg_1h": 0.03,
+        "avg_24h": 0.8,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 94,
         "avg_1h": -0.08,
         "avg_24h": 0.9,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 186,
-        "avg_1h": 0.03,
-        "avg_24h": 0.8,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 175,
+        "count": 174,
         "avg_1h": -0.14,
         "avg_24h": 1.24,
         "win_rate_1h_gt5pct": 0.0
