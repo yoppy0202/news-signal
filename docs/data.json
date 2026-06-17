@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T23:45:36.764317+00:00",
+  "generated_at": "2026-06-17T05:08:36.718603+00:00",
   "events": [
     {
       "event_id": "c8ff783d-cff2-4f0c-8adf-85316d8faff5",
@@ -20,10 +20,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-tops-67k-following-us-iran-peace-deal-is-it-a-bull-trap?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-16T22:28:40+00:00",
       "raw_text": "Bitcoin tops $67K following US-Iran peace deal: Is it a bull trap?\n\nDespite Bitcoin derivatives data highlight traders’ skepticism even though BTC briefly rallied above $67,000. Are bulls stepping into a trap?",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0401,
+        "t_plus_15m": -0.0387,
+        "t_plus_1h": -0.0449
+      }
     },
     {
       "event_id": "e2feb724-781c-4fb6-a5cd-86950c2a0a6d",
@@ -80,10 +86,16 @@
       "url": "https://bitcoinmagazine.com/news/vaneck-bitcoin-miners-face-50b-funding-gap",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-16T20:32:51+00:00",
       "raw_text": "VanEck: Bitcoin Miners Face $50B Funding Gap as AI Pivot Separates Winners From Losers\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/VanEck-Bitcoin-Miners-Face-50B-Funding-Gap-as-AI-Pivot-Separates",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0411,
+        "t_plus_15m": 0.098,
+        "t_plus_1h": -0.0674
+      }
     },
     {
       "event_id": "02040d83-017e-4b60-a0c8-c0921ff210e6",
@@ -140,10 +152,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-risk-metric-nears-low-risk-zone-as-holders-absorb-125k-btc-in-june?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-16T19:54:21+00:00",
       "raw_text": "Bitcoin metric near ‘low-risk’ zone after holders absorb 125K BTC in June: Time for a rebound?\n\nBitcoin’s Sharpe ratio and a 125,000 BTC increase in BTC accumulator demand mark the start of a new demand phase. Will prices follow?",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2307,
+        "t_plus_15m": -0.2173,
+        "t_plus_1h": 0.1262
+      }
     },
     {
       "event_id": "2371d511-f4a8-4e9c-8742-a43a33f7c639",
@@ -184,7 +202,8 @@
       "impact": {
         "t_plus_5m": -0.1038,
         "t_plus_15m": 0.0393,
-        "t_plus_1h": 0.0938
+        "t_plus_1h": 0.0938,
+        "t_plus_4h": 0.1375
       }
     },
     {
@@ -250,7 +269,8 @@
       "impact": {
         "t_plus_5m": 0.5216,
         "t_plus_15m": 0.5213,
-        "t_plus_1h": 0.1091
+        "t_plus_1h": 0.1091,
+        "t_plus_4h": -0.0396
       }
     },
     {
@@ -6498,7 +6518,7 @@
       },
       "unknown": {
         "count": 182,
-        "avg_1h": -0.03,
+        "avg_1h": -0.02,
         "avg_24h": -0.3,
         "win_rate_1h_gt5pct": 0.0
       },
