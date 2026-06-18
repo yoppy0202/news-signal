@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-06-17T22:51:15.654321+00:00",
+  "generated_at": "2026-06-18T01:36:27.165834+00:00",
   "events": [
+    {
+      "event_id": "4195f9d9-9bfc-4ad3-9b16-73fcf33bc302",
+      "source": "rss:cointelegraph",
+      "title": "Crypto market treads thin ice following Warsh FOMC, Trump Iran comments",
+      "url": "https://cointelegraph.com/markets/crypto-market-tread-thin-ice-following-warsh-fomc-trump-iran-comments?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-17T23:45:29+00:00",
+      "raw_text": "Crypto market treads thin ice following Warsh FOMC, Trump Iran comments\n\nMarkets wobbled after mixed comments from President Trump on the Iran peace deal and Fed Chair Kevin Warsh signaling a new direction from the Federal Reserve.",
+      "impact": {}
+    },
+    {
+      "event_id": "a763644c-0c51-4da9-b163-6c6435caae75",
+      "source": "rss:decrypt",
+      "title": "Psychologists Say Patients Are Bringing AI Into Therapy Sessions: Survey",
+      "url": "https://decrypt.co/371451/psychologists-patients-bringing-ai-therapy-sessions-survey",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-17T23:36:08+00:00",
+      "raw_text": "Psychologists Say Patients Are Bringing AI Into Therapy Sessions: Survey\n\nA new APA survey found that more than a third of psychologists have patients using AI as an additional mental health professional, even as clinicians warn that the technology can reinforce delusions.",
+      "impact": {}
+    },
     {
       "event_id": "ee05dd3c-3e49-414b-9b6e-ccdf660c1b99",
       "source": "rss:decrypt",
@@ -92,10 +116,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-capitulation-twice-as-weak-as-spot-liquidity-turns-supportive-glassnode?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-17T20:26:13+00:00",
       "raw_text": "Bitcoin capitulation ‘twice as weak’ after spot liquidity turns supportive: Glassnode\n\nBitcoin’s realized losses fell by 46% as increasing bid-side liquidity points to easing sell pressure. Can bulls push BTC price back above $70,000?",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1107,
+        "t_plus_15m": 0.2595,
+        "t_plus_1h": 0.1074
+      }
     },
     {
       "event_id": "6228c1e6-f03f-4f89-a4b0-9b7cbf66e960",
@@ -316,7 +346,8 @@
       "impact": {
         "t_plus_5m": 0.6478,
         "t_plus_15m": 0.6216,
-        "t_plus_1h": -0.1502
+        "t_plus_1h": -0.1502,
+        "t_plus_4h": -1.8034
       }
     },
     {
@@ -6460,37 +6491,6 @@
       "timestamp_utc": "2026-06-11T05:16:18+00:00",
       "raw_text": "Corporate bitcoin buying has collapsed from $500 million per day to almost negligible",
       "impact": {}
-    },
-    {
-      "event_id": "4e47ca41-b9c2-4214-b671-a8a9dd816a9d",
-      "source": "rss:coindesk",
-      "title": "It's not just bitcoin ETFs. Corporate BTC buying has dried up too",
-      "url": "https://www.coindesk.com/markets/2026/06/11/it-s-not-just-bitcoin-etfs-corporate-btc-buying-has-dried-up-too",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-11T05:16:18+00:00",
-      "raw_text": "It's not just bitcoin ETFs. Corporate BTC buying has dried up too",
-      "impact": {
-        "t_plus_5m": -0.4103,
-        "t_plus_15m": -0.478,
-        "t_plus_1h": -0.2306,
-        "t_plus_4h": -0.1362
-      }
-    },
-    {
-      "event_id": "2569057e-476a-4a6a-b588-fd9d12381a26",
-      "source": "rss:cointelegraph",
-      "title": "Analysts tip pressure for Bitcoin, gold as US inflation tops 4%",
-      "url": "https://cointelegraph.com/news/pressure-on-bitcoin-and-gold-increases-as-us-inflation-tops-4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T04:51:52+00:00",
-      "raw_text": "Analysts tip pressure for Bitcoin, gold as US inflation tops 4%\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Analysts tip pressure for Bitcoin, gold as US inflation tops 4%\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXM",
-      "impact": {}
     }
   ],
   "stats": {
@@ -6501,16 +6501,16 @@
         "avg_24h": -1.06,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 185,
-        "avg_1h": -0.02,
-        "avg_24h": -1.57,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
         "count": 181,
         "avg_1h": -0.22,
         "avg_24h": -0.36,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 185,
+        "avg_1h": -0.01,
+        "avg_24h": -1.57,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
