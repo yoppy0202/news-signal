@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-06-18T01:36:27.165834+00:00",
+  "generated_at": "2026-06-18T07:03:10.589492+00:00",
   "events": [
+    {
+      "event_id": "3559ce5f-c80a-4899-ac9e-f568df482e7f",
+      "source": "rss:coindesk",
+      "title": "Bitcoin, ether slide after a hawkish Fed, even as Trump's signed Iran deal lifts stocks",
+      "url": "https://www.coindesk.com/markets/2026/06/18/bitcoin-ether-slide-after-a-hawkish-fed-even-as-trump-s-signed-iran-deal-lifts-stocks",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T04:52:46+00:00",
+      "raw_text": "Bitcoin, ether slide after a hawkish Fed, even as Trump's signed Iran deal lifts stocks",
+      "impact": {}
+    },
+    {
+      "event_id": "c72e6c26-13ed-4eda-95a1-4684f1354651",
+      "source": "rss:coindesk",
+      "title": "Next bull run will be slower, less volatile as investors' crypto appetite evolves, Bitwise CIO says",
+      "url": "https://www.coindesk.com/markets/2026/06/17/next-bull-run-will-be-slower-less-volatile-as-investors-crypto-appetite-evolves-bitwise-cio-says",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T04:00:00+00:00",
+      "raw_text": "Next bull run will be slower, less volatile as investors' crypto appetite evolves, Bitwise CIO says",
+      "impact": {}
+    },
+    {
+      "event_id": "9b877959-e5ae-4c6e-8655-797f0f6b55cb",
+      "source": "rss:coindesk",
+      "title": "CME chief executive says company plans to sue CFTC after perpetual futures approval",
+      "url": "https://www.coindesk.com/policy/2026/06/17/cme-chief-executive-says-company-plans-to-sue-cftc-after-perpetual-futures-approval",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T03:44:30+00:00",
+      "raw_text": "CME chief executive says company plans to sue CFTC after perpetual futures approval",
+      "impact": {}
+    },
+    {
+      "event_id": "379b2a01-5819-4658-8856-56e6773122f3",
+      "source": "rss:theblock",
+      "title": "Ark Invest buys $18 million worth of Coinbase shares, offloads $29 million in Robinhood",
+      "url": "https://www.theblock.co/post/405180/ark-invest-buys-coinbase-offloads-robinhood?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T03:03:18+00:00",
+      "raw_text": "Ark Invest buys $18 million worth of Coinbase shares, offloads $29 million in Robinhood\n\n<p>The trades came as Coinbase's stock closed down 2.57% at $164.92 on Wednesday, while Robinhood gained 8.78%.</p>\n\n<p>The trades came as Coinbase's stock closed down 2.57% at $164.92 on Wednesday, while Robinh",
+      "impact": {}
+    },
+    {
+      "event_id": "835384a0-dae9-4753-9a76-e32ce4238a3c",
+      "source": "rss:theblock",
+      "title": "CME Group to sue CFTC over approval of perpetual futures, CEO tells CNBC",
+      "url": "https://www.theblock.co/post/405173/cme-group-to-sue-cftc-ceo-says?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T01:32:44+00:00",
+      "raw_text": "CME Group to sue CFTC over approval of perpetual futures, CEO tells CNBC\n\n<p>CME Group CEO Duffy said perpetual futures should be classified as swaps under the Dodd-Frank Act, which would form the basis of the lawsuit.</p>\n\n<p>CME Group CEO Duffy said perpetual futures should be classified as swaps ",
+      "impact": {}
+    },
+    {
+      "event_id": "2d880a55-a166-4f29-ad2a-30972ef4307c",
+      "source": "rss:decrypt",
+      "title": "France to Phase Out Non-Quantum Encryption as Bitcoin Security Concerns Grow",
+      "url": "https://decrypt.co/371487/france-phase-out-non-quantum-encryption-bitcoin-security-concerns-grow",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T00:31:06+00:00",
+      "raw_text": "France to Phase Out Non-Quantum Encryption as Bitcoin Security Concerns Grow\n\nFrench authorities said that government cybersecurity researchers will stop certifying security products that lack quantum-resistant encryption beginning in 2027.",
+      "impact": {}
+    },
     {
       "event_id": "4195f9d9-9bfc-4ad3-9b16-73fcf33bc302",
       "source": "rss:cointelegraph",
@@ -124,7 +196,8 @@
       "impact": {
         "t_plus_5m": 0.1107,
         "t_plus_15m": 0.2595,
-        "t_plus_1h": 0.1074
+        "t_plus_1h": 0.1074,
+        "t_plus_4h": 0.5644
       }
     },
     {
@@ -6419,98 +6492,26 @@
       "timestamp_utc": "2026-06-11T07:00:00+00:00",
       "raw_text": "Archax introduces real-time yield payments for tokenized securities on Hedera\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Archax introduces real-time yield payments for tokenized securities on Hedera\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images",
       "impact": {}
-    },
-    {
-      "event_id": "7141e5de-c1d3-456b-9c05-440a0cf64834",
-      "source": "rss:cointelegraph",
-      "title": "Teen crypto scammer stole $13M to splurge on private jets, Lambo",
-      "url": "https://cointelegraph.com/news/teen-admits-to-scamming-13m-crypto-to-splurge-on-private-jets-lambo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T05:57:24+00:00",
-      "raw_text": "Teen crypto scammer stole $13M to splurge on private jets, Lambo\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Teen crypto scammer stole $13M to splurge on private jets, Lambo\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZ",
-      "impact": {}
-    },
-    {
-      "event_id": "ebed5a13-6ca2-4832-931a-d7a7b2e7e152",
-      "source": "rss:theblock",
-      "title": "BlackRock files new amendment for yield-generating bitcoin ETF; launch expected soon, Bloomberg analyst says",
-      "url": "https://www.theblock.co/post/404367/blackrock-amendment-yield-bitcoin-etf?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T05:52:08+00:00",
-      "raw_text": "BlackRock files new amendment for yield-generating bitcoin ETF; launch expected soon, Bloomberg analyst says\n\n<p>BlackRock's new bitcoin fund seeks to provide yield through active covered call strategies on IBIT shares and ETP indices.</p>\n\n<p>BlackRock's new bitcoin fund seeks to provide yield thro",
-      "impact": {}
-    },
-    {
-      "event_id": "42d3d93e-c3ff-41eb-8625-4ad6ce2f785d",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin tops $63,000 as Trump teases yet another peace deal with Iran",
-      "url": "https://www.coindesk.com/markets/2026/06/11/live-updates-soft-core-inflation-gave-crypto-a-bounce-but-only-bitcoin-held-up-on-the-week",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T05:45:57+00:00",
-      "raw_text": "Live updates: Bitcoin tops $63,000 as Trump teases yet another peace deal with Iran",
-      "impact": {}
-    },
-    {
-      "event_id": "2325a053-a74b-4982-9900-13b6cb543346",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin nears $63,000 ahead of highly anticipated SpaceX IPO",
-      "url": "https://www.coindesk.com/markets/2026/06/11/live-updates-soft-core-inflation-gave-crypto-a-bounce-but-only-bitcoin-held-up-on-the-week",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T05:45:57+00:00",
-      "raw_text": "Live updates: Bitcoin nears $63,000 ahead of highly anticipated SpaceX IPO",
-      "impact": {}
-    },
-    {
-      "event_id": "b725d71e-05f6-47d1-8aff-942bd4903c42",
-      "source": "rss:coindesk",
-      "title": "Live updates: Soft core inflation gave crypto a bounce, but only bitcoin held up on the week",
-      "url": "https://www.coindesk.com/markets/2026/06/11/live-updates-soft-core-inflation-gave-crypto-a-bounce-but-only-bitcoin-held-up-on-the-week",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T05:45:57+00:00",
-      "raw_text": "Live updates: Soft core inflation gave crypto a bounce, but only bitcoin held up on the week",
-      "impact": {}
-    },
-    {
-      "event_id": "0fc014af-b2ad-461f-932f-154843c675f1",
-      "source": "rss:coindesk",
-      "title": "Corporate bitcoin buying has collapsed from $500 million per day to almost negligible",
-      "url": "https://www.coindesk.com/markets/2026/06/11/it-s-not-just-bitcoin-etfs-corporate-btc-buying-has-dried-up-too",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T05:16:18+00:00",
-      "raw_text": "Corporate bitcoin buying has collapsed from $500 million per day to almost negligible",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "macro": {
-        "count": 101,
+        "count": 102,
         "avg_1h": -0.25,
         "avg_24h": -1.06,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 181,
-        "avg_1h": -0.22,
-        "avg_24h": -0.36,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 185,
+        "count": 182,
         "avg_1h": -0.01,
         "avg_24h": -1.57,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 183,
+        "avg_1h": -0.22,
+        "avg_24h": -0.36,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
