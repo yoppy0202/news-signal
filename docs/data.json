@@ -1,6 +1,288 @@
 {
-  "generated_at": "2026-06-18T15:50:38.486982+00:00",
+  "generated_at": "2026-06-18T18:33:34.369346+00:00",
   "events": [
+    {
+      "event_id": "40b5f1fc-a40b-4b48-9f40-f20567895316",
+      "source": "rss:decrypt",
+      "title": "Everyday Savers Bet Big on Bitcoin Giant Strategy's STRC—Now It's Falling",
+      "url": "https://decrypt.co/371529/everyday-savers-bet-big-bitcoin-giant-strategy-strc-falling",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T15:48:32+00:00",
+      "raw_text": "Everyday Savers Bet Big on Bitcoin Giant Strategy's STRC—Now It's Falling\n\nEveryday investors that own Strategy’s STRC have been drawn to double-digit yields, but the preferred stock’s volatility has shaken some.",
+      "impact": {}
+    },
+    {
+      "event_id": "b5df7b21-083f-481d-8729-e7b6f1166c97",
+      "source": "rss:coindesk",
+      "title": "Ethereum Foundation loses another key leader as co-executive director Hsiao-Wei Wang resigns",
+      "url": "https://www.coindesk.com/tech/2026/06/18/ethereum-foundation-loses-another-key-leader-as-co-executive-director-hsiao-wei-wang-resigns",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T15:41:17+00:00",
+      "raw_text": "Ethereum Foundation loses another key leader as co-executive director Hsiao-Wei Wang resigns",
+      "impact": {}
+    },
+    {
+      "event_id": "289d11e5-bbf9-4b7b-9696-b650e83a938c",
+      "source": "rss:theblock",
+      "title": "Bitcoin miners Bitdeer, CleanSpark and more report mixed May output as AI buildouts impact hashrate growth, treasury models",
+      "url": "https://www.theblock.co/post/405268/bitcoin-miners-bitdeer-cleanspark-and-more-report-mixed-may-output-as-ai-buildouts-impact-hashrate-growth-treasury-models?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-06-18T15:36:02+00:00",
+      "raw_text": "Bitcoin miners Bitdeer, CleanSpark and more report mixed May output as AI buildouts impact hashrate growth, treasury models\n\n<p>Bitdeer, BitFuFu, Canaan and CleanSpark posted May bitcoin production updates, with combined output of 1,859 BTC and diverging strategies.</p>\n\n<p>Bitdeer, BitFuFu, Canaan ",
+      "impact": {
+        "t_plus_5m": 0.4567,
+        "t_plus_15m": 0.1456,
+        "t_plus_1h": -0.1063
+      }
+    },
+    {
+      "event_id": "ebe1514f-6d80-4fd2-943d-49d448aa0b9e",
+      "source": "rss:decrypt",
+      "title": "Jerome Powell Supports Fed's New Stablecoin Policies—But Chair Kevin Warsh Abstains",
+      "url": "https://decrypt.co/371548/jerome-powell-supports-fed-stablecoin-policies-chair-kevin-warsh-abstains",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T15:33:27+00:00",
+      "raw_text": "Jerome Powell Supports Fed's New Stablecoin Policies—But Chair Kevin Warsh Abstains\n\nThe proposed rulemaking establishes how U.S. crypto companies will have to screen stablecoin customers after the passage of the GENIUS Act.",
+      "impact": {}
+    },
+    {
+      "event_id": "baac30f2-d008-4ace-a3e4-3fcf75f0dff1",
+      "source": "rss:bitcoinmagazine",
+      "title": "Federal Reserve Moves to Close Stablecoin Loopholes With New Customer ID Rules",
+      "url": "https://bitcoinmagazine.com/news/federal-reserve-moves-to-close-stablecoin",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T15:31:09+00:00",
+      "raw_text": "Federal Reserve Moves to Close Stablecoin Loopholes With New Customer ID Rules\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Federal-Reserve-Moves-to-Close-Stablecoin-Loopholes-With-New-Customer-ID",
+      "impact": {}
+    },
+    {
+      "event_id": "87df7c94-e72c-468c-9d21-ae4ac1986066",
+      "source": "rss:theblock",
+      "title": "The DAO hack at 10: From $50 million exploit to a $130 million Ethereum security fund",
+      "url": "https://www.theblock.co/post/405248/ethereum-130-million-security-fund-the-dao-hack-10-years?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "neutral",
+      "tokens": [
+        "ETH"
+      ],
+      "timestamp_utc": "2026-06-18T15:20:16+00:00",
+      "raw_text": "The DAO hack at 10: From $50 million exploit to a $130 million Ethereum security fund\n\n<p>Ten years ago, an attacker drained roughly 3.6 million ETH from The DAO, helping to spur the creation of the modern crypto security industry.</p>\n\n<p>Ten years ago, an attacker drained roughly 3.6 million ETH f",
+      "impact": {
+        "t_plus_5m": 2.1935,
+        "t_plus_15m": 1.9971,
+        "t_plus_1h": -0.2376
+      }
+    },
+    {
+      "event_id": "8f10ed2d-5e30-4552-b050-c1fa15bc1a20",
+      "source": "rss:theblock",
+      "title": "Ethereum Foundation co-Exec Director and board member Hsiao-Wei Wang steps down",
+      "url": "https://www.theblock.co/post/405271/ethereum-foundation-co-exec-director-board-member-hsiao-wei-wang-steps-down?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T15:07:48+00:00",
+      "raw_text": "Ethereum Foundation co-Exec Director and board member Hsiao-Wei Wang steps down\n\n<p>Several high-ranking EF leaders have left, including the Protocol cluster leads and former co-executive director Tomasz Stańczak.</p>\n\n<p>Several high-ranking EF leaders have left, including the Protocol cluster lead",
+      "impact": {}
+    },
+    {
+      "event_id": "032c1169-2410-4a1a-8be5-589e5459d864",
+      "source": "rss:coindesk",
+      "title": "Crypto for Advisors: Trading the bitcoin cycle",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/06/17/crypto-for-advisors-trading-the-bitcoin-cycle",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T15:00:00+00:00",
+      "raw_text": "Crypto for Advisors: Trading the bitcoin cycle",
+      "impact": {}
+    },
+    {
+      "event_id": "6e7ba3d3-a2b7-4ac6-85b1-e50cc88ee2d3",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin to $145K by October? Why this 'crazy accurate' 4chan prediction is sketchy",
+      "url": "https://cointelegraph.com/markets/bitcoin-to-145k-by-october-why-this-crazy-accurate-4chan-prediction-is-sketchy?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-06-18T14:46:56+00:00",
+      "raw_text": "Bitcoin to $145K by October? Why this 'crazy accurate' 4chan prediction is sketchy\n\nA viral 4chan Bitcoin prediction appears to have nailed past BTC prices, but edited targets and impossible supply claims weaken its $145,000 call.",
+      "impact": {
+        "t_plus_5m": 2.0828,
+        "t_plus_15m": 1.8981,
+        "t_plus_1h": 0.1336
+      }
+    },
+    {
+      "event_id": "fcc093a2-724e-45ae-910e-a87c911aab0e",
+      "source": "rss:cointelegraph",
+      "title": "What happens when ChatGPT becomes the front door to crypto",
+      "url": "https://cointelegraph.com/learn/ai-chatbots-crypto-users?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T14:30:00+00:00",
+      "raw_text": "What happens when ChatGPT becomes the front door to crypto\n\nChatGPT could become crypto’s new onboarding gateway, making Bitcoin and wallets easier to use while creating new trust risks.",
+      "impact": {}
+    },
+    {
+      "event_id": "95dc3143-7ced-4d9d-a83e-272bd2d100f8",
+      "source": "rss:theblock",
+      "title": "Federal Reserve rolls out proposing rulemaking requiring stablecoin issuers to maintain customer identification program",
+      "url": "https://www.theblock.co/post/405247/federal-reserve-rolls-out-proposing-rulemaking-requiring-stablecoin-issuers-to-maintain-customer-identification-program?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T14:22:18+00:00",
+      "raw_text": "Federal Reserve rolls out proposing rulemaking requiring stablecoin issuers to maintain customer identification program\n\n<p>The Fed rolled out a rule requiring stablecoin issuers to have a program in place to identify customers to combat illicit finance.</p>\n\n<p>The Fed rolled out a rule requiring s",
+      "impact": {}
+    },
+    {
+      "event_id": "c543707a-44f5-4df6-bddd-7cf42d189346",
+      "source": "rss:theblock",
+      "title": "Kraken integrates Solana DEX trading into core app, with support for additional networks planned",
+      "url": "https://www.theblock.co/post/405242/kraken-integrates-solana-dex-trading-into-core-app-support-additional-networks-planned?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T14:05:02+00:00",
+      "raw_text": "Kraken integrates Solana DEX trading into core app, with support for additional networks planned\n\n<p>Kraken launches onchain DEX trading to give customers access to thousands of tokens across the Solana ecosystem.</p>\n\n<p>Kraken launches onchain DEX trading to give customers access to thousands of t",
+      "impact": {}
+    },
+    {
+      "event_id": "a08f7305-1fda-47e9-b878-0a284dd17255",
+      "source": "rss:theblock",
+      "title": "Tether’s XAUT gold token added to Ledn lending platform",
+      "url": "https://www.theblock.co/post/405168/tethers-xaut-gold-token-added-to-ledn-lending-platform?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T14:00:00+00:00",
+      "raw_text": "Tether’s XAUT gold token added to Ledn lending platform\n\n<p>\"When XAUT-backed loans go live, you will be able to borrow against your gold the way you already borrow against Bitcoin,\" Ledn said.</p>\n\n<p>\"When XAUT-backed loans go live, you will be able to borrow against your gold the way you already ",
+      "impact": {}
+    },
+    {
+      "event_id": "f98ed0b4-fe5d-435d-bee2-35b6c1c9d850",
+      "source": "rss:cointelegraph",
+      "title": "Ledn adds Tether Gold as loan collateral, expanding Bitcoin-backed lending model",
+      "url": "https://cointelegraph.com/news/ledn-tether-gold-xaut-loans-bitcoin-backed-lending?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T14:00:00+00:00",
+      "raw_text": "Ledn adds Tether Gold as loan collateral, expanding Bitcoin-backed lending model\n\nLedn’s addition of Tether Gold lending comes as tokenized commodities expand, with the sector accounting for nearly 17% of the $43 billion RWA market.",
+      "impact": {}
+    },
+    {
+      "event_id": "63f18741-b0a4-4471-ab6a-07d1b0a99960",
+      "source": "rss:coindesk",
+      "title": "Algorand unveils roadmap to achieve quantum resistance by 2028",
+      "url": "https://www.coindesk.com/tech/2026/06/18/algorand-unveils-post-quantum-roadmap-to-secure-blockchain-by-2027",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T14:00:00+00:00",
+      "raw_text": "Algorand unveils roadmap to achieve quantum resistance by 2028",
+      "impact": {}
+    },
+    {
+      "event_id": "8242a9f5-778b-4277-b8ee-761d3cbe391f",
+      "source": "rss:bitcoinmagazine",
+      "title": "CME Group to Sue CFTC Over Bitcoin Perpetual Futures Approval in Clash Over Dodd-Frank Classification",
+      "url": "https://bitcoinmagazine.com/news/cme-group-to-sue-cftc-over-bitcoin",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T13:50:00+00:00",
+      "raw_text": "CME Group to Sue CFTC Over Bitcoin Perpetual Futures Approval in Clash Over Dodd-Frank Classification\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/CME-Group-to-Sue-CFTC-Over-Bitcoin-Perpetual-Futu",
+      "impact": {}
+    },
+    {
+      "event_id": "5f4e1039-6d6a-402a-bb93-394e606fa6b1",
+      "source": "rss:theblock",
+      "title": "Bitcoin miner HIVE inks $220 million AI GPU deal with Bell, expects $70 million annual revenue",
+      "url": "https://www.theblock.co/post/405234/bitcoin-miner-hive-220-million-ai-gpu-deal-bell-expects-70-million-annual-revenue?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T13:33:56+00:00",
+      "raw_text": "Bitcoin miner HIVE inks $220 million AI GPU deal with Bell, expects $70 million annual revenue\n\n<p>HIVE finalized a $220 million sovereign cloud contract to deploy 2,304 NVIDIA Blackwell GPUs across Canada by early 2027.</p>\n\n<p>HIVE finalized a $220 million sovereign cloud contract to deploy 2,304 ",
+      "impact": {}
+    },
+    {
+      "event_id": "e773af45-2b1c-40c6-a136-3386651f87bd",
+      "source": "rss:decrypt",
+      "title": "Morning Minute: Crypto Sinks After Hawkish FOMC",
+      "url": "https://decrypt.co/371517/morning-minute-crypto-sinks-after-hawkish-fomc",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T13:22:09+00:00",
+      "raw_text": "Morning Minute: Crypto Sinks After Hawkish FOMC\n\nBitcoin slid to $64k as rate hike odds soared after Kevin Warsh's first FOMC presser. But was it Warsh or Saylor truly driving the selloff?",
+      "impact": {}
+    },
+    {
+      "event_id": "f22ae0dd-8c86-41d7-a43c-bd4b43d6522e",
+      "source": "rss:coindesk",
+      "title": "CoinDesk 20 performance update: Stellar (XLM) jumps 10% while index declines",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/06/18/coindesk-20-performance-update-stellar-xlm-jumps-10-while-index-declines",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T13:13:44+00:00",
+      "raw_text": "CoinDesk 20 performance update: Stellar (XLM) jumps 10% while index declines",
+      "impact": {}
+    },
+    {
+      "event_id": "2629d400-53ee-4d45-ad12-3b72e267f6d1",
+      "source": "rss:theblock",
+      "title": "Alchemy unveils Visa-powered virtual payment card for AI agents",
+      "url": "https://www.theblock.co/post/405224/alchemy-unveils-visa-powered-virtual-payment-card-for-ai-agents?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T13:00:00+00:00",
+      "raw_text": "Alchemy unveils Visa-powered virtual payment card for AI agents\n\n<p>AgentCard will default to Visa-issued tokens, but will support crypto and agent-native payment protocols when available.</p>\n\n<p>AgentCard will default to Visa-issued tokens, but will support crypto and agent-native payment protocol",
+      "impact": {}
+    },
+    {
+      "event_id": "4a0a3265-6ca9-457d-95db-98c662f497aa",
+      "source": "rss:coindesk",
+      "title": "Alchemy's AI-driven identity and payment service gains access to Visa network",
+      "url": "https://www.coindesk.com/business/2026/06/18/alchemy-s-ai-driven-identity-and-payment-service-gains-access-to-visa-network",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T13:00:00+00:00",
+      "raw_text": "Alchemy's AI-driven identity and payment service gains access to Visa network",
+      "impact": {}
+    },
+    {
+      "event_id": "bdc9890a-d9cf-4e27-925f-7c5d000c3f57",
+      "source": "rss:cointelegraph",
+      "title": "Capital B shareholders approve up to $120B in financing capacity for Bitcoin strategy",
+      "url": "https://cointelegraph.com/news/capital-b-shareholders-approve-120b-capital?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T12:46:47+00:00",
+      "raw_text": "Capital B shareholders approve up to $120B in financing capacity for Bitcoin strategy\n\nCapital B shareholders approved up to $120 billion in financing capacity, including equity and credit instruments, to support the company's Bitcoin accumulation strategy.",
+      "impact": {}
+    },
     {
       "event_id": "f6f2e45f-5e6a-4fea-82aa-a63f9605b302",
       "source": "rss:decrypt",
@@ -28,7 +310,8 @@
       "impact": {
         "t_plus_5m": -0.0488,
         "t_plus_15m": 0.0223,
-        "t_plus_1h": 0.2462
+        "t_plus_1h": 0.2462,
+        "t_plus_4h": -2.2814
       }
     },
     {
@@ -166,7 +449,8 @@
       "impact": {
         "t_plus_5m": -0.317,
         "t_plus_15m": -0.2418,
-        "t_plus_1h": -0.2495
+        "t_plus_1h": -0.2495,
+        "t_plus_4h": -0.5133
       }
     },
     {
@@ -282,6 +566,18 @@
       "tokens": [],
       "timestamp_utc": "2026-06-18T06:06:20+00:00",
       "raw_text": "Florida man pleads guilty for promoting $1.8B ‘HyperFund’ crypto fraud\n\nRodney “Bitcoin Rodney” Burton faces a maximum sentence of five years in federal prison for conspiracy to operate an unlicensed money transmitting business.",
+      "impact": {}
+    },
+    {
+      "event_id": "3bdf61b9-daee-486b-a71c-2ac8aeb1252b",
+      "source": "rss:coindesk",
+      "title": "Live markets: price action turns panicky in Saylor's STRC as bitcoin drops below $63,000",
+      "url": "https://www.coindesk.com/tech/2026/06/18/live-markets-bitcoin-and-ether-etfs-lost-usd111-million-combined-as-rate-cut-hopes-died",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T06:02:19+00:00",
+      "raw_text": "Live markets: price action turns panicky in Saylor's STRC as bitcoin drops below $63,000",
       "impact": {}
     },
     {
@@ -529,6 +825,18 @@
       "tokens": [],
       "timestamp_utc": "2026-06-17T21:25:59+00:00",
       "raw_text": "SpaceX Surge Could Be Worth Billions for FTX—Will Creditors Benefit?\n\nDefunct crypto exchange FTX gained exposure to SpaceX in 2022, and the rocket-maker’s post-IPO rally has lifted hopes among creditors.",
+      "impact": {}
+    },
+    {
+      "event_id": "000b90c7-dd92-44d0-8be5-46509310e19c",
+      "source": "rss:coindesk",
+      "title": "Kentucky targets prediction markets, puts Trump-aligned state in potential clash with president's team",
+      "url": "https://www.coindesk.com/policy/2026/06/17/kentucky-targets-prediction-markets-puts-red-state-in-potential-clash-with-trump-team",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-17T21:20:05+00:00",
+      "raw_text": "Kentucky targets prediction markets, puts Trump-aligned state in potential clash with president's team",
       "impact": {}
     },
     {
@@ -6201,346 +6509,37 @@
       "timestamp_utc": "2026-06-11T17:55:44+00:00",
       "raw_text": "U.S. Charges Two Men for $389 Million Bitcoin and Crypto Money Laundering Scheme Tied to Dark Web\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/U.S.-Charges-Two-Men-for-389-Million-Bitcoin-and-Cryp",
       "impact": {}
-    },
-    {
-      "event_id": "86b37738-d594-4a0d-bc94-1f2377c2e484",
-      "source": "rss:theblock",
-      "title": "JPMorgan says debasement trade retreat has ‘accelerated’ for bitcoin",
-      "url": "https://www.theblock.co/post/404471/jpmorgan-debasement-trade-retreat-bitcoin-gold?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T17:54:56+00:00",
-      "raw_text": "JPMorgan says debasement trade retreat has ‘accelerated’ for bitcoin\n\n<p>The retreat from the debasement trade has continued for gold and accelerated for bitcoin in recent weeks, JPMorgan analysts said.</p>\n\n<p>The retreat from the debasement trade has continued for gold and accelerated for bitcoin ",
-      "impact": {}
-    },
-    {
-      "event_id": "795fc119-66d3-454e-92e5-0fec26f15605",
-      "source": "rss:theblock",
-      "title": "Coinbase for Agents sets up dedicated accounts for AI bots to trade and pay for users",
-      "url": "https://www.theblock.co/post/404458/coinbase-agents-dedicated-accounts-ai-bots-trade-pay-users?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T17:11:22+00:00",
-      "raw_text": "Coinbase for Agents sets up dedicated accounts for AI bots to trade and pay for users\n\n<p>AI agents will get access to trade, manage money, and make payments on behalf of Coinbase users via dedicated accounts.</p>\n\n<p>AI agents will get access to trade, manage money, and make payments on behalf of C",
-      "impact": {}
-    },
-    {
-      "event_id": "cb56c033-102c-4052-a7f7-032df71b8e10",
-      "source": "rss:bitcoinmagazine",
-      "title": "BitGo Launches Lightning Earn to Let Institutions Put Bitcoin to Work on Lightning Network",
-      "url": "https://bitcoinmagazine.com/news/bitgo-launches-lightning-earn",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-11T17:09:53+00:00",
-      "raw_text": "BitGo Launches Lightning Earn to Let Institutions Put Bitcoin to Work on Lightning Network\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/12/BitGo-Enables-Lightning-Network-Payments-Directly-from-Custo",
-      "impact": {
-        "t_plus_5m": -1.4159,
-        "t_plus_15m": -1.5511,
-        "t_plus_1h": -0.0051,
-        "t_plus_4h": 0.1811
-      }
-    },
-    {
-      "event_id": "5e9f19a3-3603-44aa-baf5-53aa51dcb4bd",
-      "source": "rss:coindesk",
-      "title": "Coinbase launches AI agent accounts that can trade and spend on your behalf",
-      "url": "https://www.coindesk.com/tech/2026/06/11/coinbase-launches-ai-agent-accounts-that-can-trade-and-spend-on-your-behalf",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T17:00:00+00:00",
-      "raw_text": "Coinbase launches AI agent accounts that can trade and spend on your behalf",
-      "impact": {}
-    },
-    {
-      "event_id": "72d12de3-4fd3-4526-858d-7c44f1910de4",
-      "source": "rss:decrypt",
-      "title": "Authorities Take Down 'AudiA6' Group That Allegedly Laundered $389 Million in Bitcoin",
-      "url": "https://decrypt.co/370812/authorities-take-down-audia6-allegedly-laundered-389-million-bitcoin",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T16:52:07+00:00",
-      "raw_text": "Authorities Take Down 'AudiA6' Group That Allegedly Laundered $389 Million in Bitcoin\n\nAuthorities are seeking extradition to the U.S. of two arrested individuals for allegedly laundering $389 million in Bitcoin.",
-      "impact": {}
-    },
-    {
-      "event_id": "fc074738-8639-4936-88ed-9723377616ac",
-      "source": "rss:theblock",
-      "title": "‘You sell what you can, not what you want’: Jack Mallers says bitcoin is pricing a global liquidity crisis",
-      "url": "https://www.theblock.co/post/404453/sell-what-you-can-not-what-you-want-jack-mallers-bitcoin-pricing-global-liquidity-crisis?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T16:46:52+00:00",
-      "raw_text": "‘You sell what you can, not what you want’: Jack Mallers says bitcoin is pricing a global liquidity crisis\n\n<p>Strike CEO Jack Mallers says Bitcoin at $63,000 reflects a liquidity-starved world, and questions Strategy's perpetual stock capital dynamic.</p>\n\n<p>Strike CEO Jack Mallers says Bitcoin at",
-      "impact": {}
-    },
-    {
-      "event_id": "c97d7449-6486-4945-9e8c-5273a4d9c5b1",
-      "source": "rss:coindesk",
-      "title": "Banking rails are moving past the 'stablecoin winner' narrative: Sygnum",
-      "url": "https://www.coindesk.com/business/2026/06/11/big-banks-are-ditching-private-blockchains-to-build-tokenized-cash-networks-on-public-infrastructure",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T16:37:53+00:00",
-      "raw_text": "Banking rails are moving past the 'stablecoin winner' narrative: Sygnum",
-      "impact": {}
-    },
-    {
-      "event_id": "9a451ad5-9a28-4243-ac51-27f031ada7dc",
-      "source": "rss:decrypt",
-      "title": "World Cup Could Bring Billions in Volume to Prediction Markets in 'Watershed Moment': Bernstein",
-      "url": "https://decrypt.co/370786/world-cup-billions-volume-prediction-markets-watershed-moment-bernstein",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T16:20:01+00:00",
-      "raw_text": "World Cup Could Bring Billions in Volume to Prediction Markets in 'Watershed Moment': Bernstein\n\nThe 48-team FIFA World Cup tournament is expected to be the single largest catalyst for online sports betting in history, Bernstein said.",
-      "impact": {}
-    },
-    {
-      "event_id": "e00940bf-6bbc-49e9-b1f6-f9ed3cf3ba88",
-      "source": "rss:bitcoinmagazine",
-      "title": "Hungary Backs Away From Bitcoin and Crypto Criminalization in Regulatory U-Turn",
-      "url": "https://bitcoinmagazine.com/news/hungary-backs-away-from-bitcoin-laws",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T16:16:20+00:00",
-      "raw_text": "Hungary Backs Away From Bitcoin and Crypto Criminalization in Regulatory U-Turn\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Hungary-Backs-Away-From-Bitcoin-and-Crypto-Criminalization-in-Regulator",
-      "impact": {}
-    },
-    {
-      "event_id": "db6d23e2-e2fd-47f3-85dd-89a38f4a8ef7",
-      "source": "rss:cointelegraph",
-      "title": "MassPay taps Coinbase to expand stablecoin payouts",
-      "url": "https://cointelegraph.com/news/masspay-coinbase-partner-stablecoin-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T16:00:00+00:00",
-      "raw_text": "MassPay taps Coinbase to expand stablecoin payouts\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MassPay taps Coinbase to expand stablecoin payouts\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hc",
-      "impact": {}
-    },
-    {
-      "event_id": "7f5dc589-4b5c-4cec-a95d-515969525f62",
-      "source": "rss:theblock",
-      "title": "Community bank group launches new ad campaign targeting Clarity Act stablecoin reward language",
-      "url": "https://www.theblock.co/post/404439/community-bank-group-ad-campaign-targeting-clarity-act-stablecoin-reward-language?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T15:14:33+00:00",
-      "raw_text": "Community bank group launches new ad campaign targeting Clarity Act stablecoin reward language\n\n<p>A key group representing small to mid-sized community banks plans to launch a new ad warning of risks in digital assets. </p>\n\n<p>A key group representing small to mid-sized community banks plans to la",
-      "impact": {}
-    },
-    {
-      "event_id": "002cb2d8-858a-4290-970b-bbbeb80bf45d",
-      "source": "rss:decrypt",
-      "title": "Wall Street Giants, Sovereign Wealth Fund Back Canton Network Creator in $355M Round",
-      "url": "https://decrypt.co/370753/wall-street-giants-sovereign-wealth-fund-canton-creator-355m-round",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T15:05:22+00:00",
-      "raw_text": "Wall Street Giants, Sovereign Wealth Fund Back Canton Network Creator in $355M Round\n\nCanton Network creator Digital Asset secured $355 million in a funding round led by Andreessen Horowitz alongside an array of other backers.",
-      "impact": {}
-    },
-    {
-      "event_id": "aebdf739-fe79-46b5-8080-188139cdfde4",
-      "source": "rss:decrypt",
-      "title": "Banks Say Stablecoin Rules Should Cover Secondary Markets",
-      "url": "https://decrypt.co/370752/banks-say-stablecoin-rules-should-cover-secondary-markets",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T15:03:24+00:00",
-      "raw_text": "Banks Say Stablecoin Rules Should Cover Secondary Markets\n\nBanking industry trade groups argue AML rules should focus on higher-risk activity while addressing gaps in stablecoin secondary markets.",
-      "impact": {}
-    },
-    {
-      "event_id": "b25e5d65-529a-42ad-9d4e-6a949ced3011",
-      "source": "rss:cointelegraph",
-      "title": "Franklin Templeton, BNP Paribas see tokenization boosting EU's capital efficiency",
-      "url": "https://cointelegraph.com/news/liquidity-capital-efficiency-tokenization-adoption-banks-franklin-templeton-bnp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T15:01:27+00:00",
-      "raw_text": "Franklin Templeton, BNP Paribas see tokenization boosting EU's capital efficiency\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Franklin Templeton, BNP Paribas see tokenization boosting EU's capital efficiency\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.co",
-      "impact": {}
-    },
-    {
-      "event_id": "31ed54d4-1ac2-4e3e-ab07-216964ef9af7",
-      "source": "rss:coindesk",
-      "title": "Crypto for Advisors: Crypto ETFs",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/06/10/crypto-for-advisors-crypto-etfs",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T15:00:00+00:00",
-      "raw_text": "Crypto for Advisors: Crypto ETFs",
-      "impact": {}
-    },
-    {
-      "event_id": "3fa70ba3-dce8-489e-936d-76a5193f9a29",
-      "source": "rss:coindesk",
-      "title": "U.S. House bill would erect crypto-theft task force across law enforcement agencies",
-      "url": "https://www.coindesk.com/policy/2026/06/10/u-s-house-bill-would-erect-crypto-theft-task-force-across-law-enforcement-agencies",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T14:30:00+00:00",
-      "raw_text": "U.S. House bill would erect crypto-theft task force across law enforcement agencies",
-      "impact": {}
-    },
-    {
-      "event_id": "ea1356eb-b250-43cf-87ca-cbac1c950a56",
-      "source": "rss:bitcoinmagazine",
-      "title": "Nakamoto Inc. (NAKA) Strengthens Balance With 600 Bitcoin Sale, Refinancing, and Buyback Authorization",
-      "url": "https://bitcoinmagazine.com/news/nakamoto-inc-naka-balance-sheet",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-11T14:18:25+00:00",
-      "raw_text": "Nakamoto Inc. (NAKA) Strengthens Balance With 600 Bitcoin Sale, Refinancing, and Buyback Authorization\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Nakamoto-Inc.-NAKA-Strengthens-Balance-With-600-",
-      "impact": {
-        "t_plus_5m": -0.7159,
-        "t_plus_15m": -0.7215,
-        "t_plus_1h": -1.1121,
-        "t_plus_4h": 0.2479
-      }
-    },
-    {
-      "event_id": "6110e9ed-5bb6-46fa-bbc5-aa5327d9f2b6",
-      "source": "rss:theblock",
-      "title": "DOJ charges two in $389 million AudiA6 crypto laundering case",
-      "url": "https://www.theblock.co/post/404433/doj-charges-two-389-million-audia6-crypto-laundering-case?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T14:07:21+00:00",
-      "raw_text": "DOJ charges two in $389 million AudiA6 crypto laundering case\n\n<p>DOJ charges two men over alleged AudiA6 crypto laundering service tied to more than $389 million in transactions.</p>\n\n<p>DOJ charges two men over alleged AudiA6 crypto laundering service tied to more than $389 million in transactions",
-      "impact": {}
-    },
-    {
-      "event_id": "21021a59-8b4e-4158-a216-28399d39b920",
-      "source": "rss:coindesk",
-      "title": "SpaceX stock is coming to Solana on the same day it lists on Nasdaq",
-      "url": "https://www.coindesk.com/tech/2026/06/10/spacex-stock-is-coming-to-solana-on-the-same-day-it-lists-on-nasdaq",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T14:00:00+00:00",
-      "raw_text": "SpaceX stock is coming to Solana on the same day it lists on Nasdaq",
-      "impact": {}
-    },
-    {
-      "event_id": "b7c13b75-1dcb-4818-b358-4407e86c0b47",
-      "source": "rss:coindesk",
-      "title": "Canton Network developer raises $355 million to bring Wall Street onchain",
-      "url": "https://www.coindesk.com/business/2026/06/11/canton-network-developer-raises-usd355-million-to-bring-wall-street-onchain",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T13:50:13+00:00",
-      "raw_text": "Canton Network developer raises $355 million to bring Wall Street onchain",
-      "impact": {}
-    },
-    {
-      "event_id": "71bca742-cf8f-4eef-a178-02c2db048474",
-      "source": "rss:coindesk",
-      "title": "Tether leads $1.4 billion funding round in German robotics company Neura",
-      "url": "https://www.coindesk.com/business/2026/06/11/tether-leads-usd1-4-billion-funding-round-in-german-robotics-company-neura",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T13:49:27+00:00",
-      "raw_text": "Tether leads $1.4 billion funding round in German robotics company Neura",
-      "impact": {}
-    },
-    {
-      "event_id": "a79af76a-8440-46af-b3c5-9ed43c2efa73",
-      "source": "rss:coindesk",
-      "title": "CoinDesk 20 performance update: Uniswap (UNI) gains 4.5% as all constituents rise",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/06/11/coindesk-20-performance-update-uniswap-uni-gains-4-5-as-all-constituents-rise",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T13:45:50+00:00",
-      "raw_text": "CoinDesk 20 performance update: Uniswap (UNI) gains 4.5% as all constituents rise",
-      "impact": {}
-    },
-    {
-      "event_id": "b78ef291-9c24-48d9-bcd8-b05c3d63482d",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin tags $63.2K as BTC price action ignores inflation, Iran Hormuz closure",
-      "url": "https://cointelegraph.com/markets/bitcoin-tags-632k-as-btc-price-action-ignores-new-iran-hormuz-closure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-11T13:41:47+00:00",
-      "raw_text": "Bitcoin tags $63.2K as BTC price action ignores inflation, Iran Hormuz closure\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin tags $63.2K as BTC price action ignores inflation, Iran Hormuz closure\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/imag",
-      "impact": {
-        "t_plus_5m": -0.7581,
-        "t_plus_15m": -0.266,
-        "t_plus_1h": -0.6543,
-        "t_plus_4h": -0.2527
-      }
-    },
-    {
-      "event_id": "9f38e0f2-6646-4527-8aec-f4c79958e221",
-      "source": "rss:coindesk",
-      "title": "Citi opens new route into private markets with tokenized share offering",
-      "url": "https://www.coindesk.com/business/2026/06/11/citi-opens-new-route-into-private-markets-with-tokenized-share-offering",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T13:27:12+00:00",
-      "raw_text": "Citi opens new route into private markets with tokenized share offering",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 183,
+        "count": 186,
         "avg_1h": -0.08,
         "avg_24h": -1.57,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 104,
-        "avg_1h": -0.2,
-        "avg_24h": -1.06,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 179,
-        "avg_1h": -0.22,
+        "count": 176,
+        "avg_1h": -0.18,
         "avg_24h": -0.36,
         "win_rate_1h_gt5pct": 0.0
       },
+      "macro": {
+        "count": 104,
+        "avg_1h": -0.21,
+        "avg_24h": -1.06,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
-        "count": 17,
-        "avg_1h": -0.1,
+        "count": 18,
+        "avg_1h": -0.17,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
-        "count": 14,
-        "avg_1h": -0.08,
+        "count": 13,
+        "avg_1h": 0.06,
         "avg_24h": 0.51,
         "win_rate_1h_gt5pct": 0.0
       },
