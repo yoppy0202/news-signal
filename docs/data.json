@@ -1,6 +1,217 @@
 {
-  "generated_at": "2026-06-18T11:15:41.468877+00:00",
+  "generated_at": "2026-06-18T15:50:38.486982+00:00",
   "events": [
+    {
+      "event_id": "f6f2e45f-5e6a-4fea-82aa-a63f9605b302",
+      "source": "rss:decrypt",
+      "title": "Ireland Tightens Crypto Safeguards in New Financial Crime Action Plan",
+      "url": "https://decrypt.co/371518/ireland-tightens-crypto-safeguards-in-new-financial-crime-action-plan",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T12:29:13+00:00",
+      "raw_text": "Ireland Tightens Crypto Safeguards in New Financial Crime Action Plan\n\nA new National Risk Assessment names crypto-asset misuse among Ireland's top threats, as a 30-point plan tightens checks on crypto funds.",
+      "impact": {}
+    },
+    {
+      "event_id": "b77accbf-b3be-497e-b21b-1158606b5108",
+      "source": "rss:theblock",
+      "title": "Bitcoin slips below $64,000 as hawkish Fed overshadows signs of onchain repair",
+      "url": "https://www.theblock.co/post/405213/bitcoin-slips-below-64000-as-hawkish-fed-overshadows-signs-of-onchain-repair?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-06-18T12:23:39+00:00",
+      "raw_text": "Bitcoin slips below $64,000 as hawkish Fed overshadows signs of onchain repair\n\n<p>Bitcoin holds near $64,000 as BTC ETFs post an $82.2 million net outflow, and Glassnode said improving liquidity may be forming a floor.</p>\n\n<p>Bitcoin holds near $64,000 as BTC ETFs post an $82.2 million net outflow",
+      "impact": {
+        "t_plus_5m": -0.0488,
+        "t_plus_15m": 0.0223,
+        "t_plus_1h": 0.2462
+      }
+    },
+    {
+      "event_id": "a96028d7-bf89-4375-a004-744a785628f2",
+      "source": "rss:coindesk",
+      "title": "Hive shares jumps 10% on $220m Canada sovereign AI infrastructure deal",
+      "url": "https://www.coindesk.com/markets/2026/06/18/hive-shares-jumps-10-on-usd220m-canada-sovereign-ai-infrastructure-deal",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T11:49:41+00:00",
+      "raw_text": "Hive shares jumps 10% on $220m Canada sovereign AI infrastructure deal",
+      "impact": {}
+    },
+    {
+      "event_id": "01f4e4e2-f4de-45ab-8c7d-a7f9d536a5fd",
+      "source": "rss:theblock",
+      "title": "Stablecoin compliance startup Range raises $8.3 million from fintech and crypto VCs",
+      "url": "https://www.theblock.co/post/405205/stablecoin-compliance-startup-range-fintech-crypto-vcs-series-a?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T11:48:15+00:00",
+      "raw_text": "Stablecoin compliance startup Range raises $8.3 million from fintech and crypto VCs\n\n<p>\"Stablecoins and fiat are converging, and finance teams need one platform to run both safely and at scale,\" Range CEO Andres Monteoliva said.</p>\n\n<p>\"Stablecoins and fiat are converging, and finance teams need o",
+      "impact": {}
+    },
+    {
+      "event_id": "9a4a8411-0018-4d78-833f-a5934891a9e9",
+      "source": "rss:coindesk",
+      "title": "The great rotation: Investors desert the Magnificent 7, crypto for AI bottlenecks",
+      "url": "https://www.coindesk.com/markets/2026/06/18/the-great-rotation-investors-desert-the-magnificent-7-crypto-for-ai-bottlenecks",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T11:37:32+00:00",
+      "raw_text": "The great rotation: Investors desert the Magnificent 7, crypto for AI bottlenecks",
+      "impact": {}
+    },
+    {
+      "event_id": "456b0b8a-6ea1-4431-bfa1-a8cbad7d5747",
+      "source": "rss:theblock",
+      "title": "Aztec investigates $2 million exploit of deprecated payments product",
+      "url": "https://www.theblock.co/post/405207/aztec-investigates-2-million-exploit-of-deprecated-payments-product?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T11:35:47+00:00",
+      "raw_text": "Aztec investigates $2 million exploit of deprecated payments product\n\n<p>The immutable stage 2 rollup was sunset in 2022, and Aztec Labs holds no admin keys or control over the system, the team said.</p>\n\n<p>The immutable stage 2 rollup was sunset in 2022, and Aztec Labs holds no admin keys or contr",
+      "impact": {}
+    },
+    {
+      "event_id": "74662165-096e-4b51-8819-f7c358ee5734",
+      "source": "rss:cointelegraph",
+      "title": "G7 calls for joint action on North Korean crypto theft, cybercrime",
+      "url": "https://cointelegraph.com/news/g7-north-korea-crypto-theft-cybercrime-warning?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T11:33:29+00:00",
+      "raw_text": "G7 calls for joint action on North Korean crypto theft, cybercrime\n\nG7 leaders broadened their warning over North Korean crypto theft to include wider cybercrime as researchers link DPRK-affiliated actors to billions of dollars in stolen digital assets.",
+      "impact": {}
+    },
+    {
+      "event_id": "f1e333cc-8249-45cb-9a24-764abcb692ef",
+      "source": "rss:decrypt",
+      "title": "CME to Sue CFTC Over Bitcoin Perpetual Futures Approval: CEO",
+      "url": "https://decrypt.co/371514/cme-to-sue-cftc-over-bitcoin-perpetual-futures-approval-ceo",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T11:20:05+00:00",
+      "raw_text": "CME to Sue CFTC Over Bitcoin Perpetual Futures Approval: CEO\n\nOutgoing CME chief Terry Duffy says perpetual futures are actually swaps under Dodd-Frank, and that the exchange will file suit Thursday.",
+      "impact": {}
+    },
+    {
+      "event_id": "7ea8a03b-f243-49d7-bc8c-36c4ae4ee286",
+      "source": "rss:coindesk",
+      "title": "Bitcoin's nemesis, the Dollar Index, is on the verge of a major breakout",
+      "url": "https://www.coindesk.com/daybook-us/2026/06/18/bitcoin-s-nemesis-the-dollar-index-is-on-the-verge-of-a-major-breakout",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T11:10:40+00:00",
+      "raw_text": "Bitcoin's nemesis, the Dollar Index, is on the verge of a major breakout",
+      "impact": {}
+    },
+    {
+      "event_id": "89d1d0c5-f236-41ad-bf30-32f6a47b5f46",
+      "source": "rss:coindesk",
+      "title": "Aster popped over 10% on radical 'buyback and burn' upgrade. But gains were short-lived",
+      "url": "https://www.coindesk.com/markets/2026/06/18/aster-popped-over-10-on-radical-buyback-and-burn-upgrade-but-gains-were-short-lived",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T11:02:57+00:00",
+      "raw_text": "Aster popped over 10% on radical 'buyback and burn' upgrade. But gains were short-lived",
+      "impact": {}
+    },
+    {
+      "event_id": "36752ecb-17b2-40a7-8caa-673a5e5c1d9f",
+      "source": "rss:coindesk",
+      "title": "Crypto market positioning is 'defensive and thin' after Fed, Marex  analysts say",
+      "url": "https://www.coindesk.com/markets/2026/06/18/crypto-market-positioning-is-defensive-and-thin-after-fed-marex-analysts-say",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T10:56:50+00:00",
+      "raw_text": "Crypto market positioning is 'defensive and thin' after Fed, Marex  analysts say",
+      "impact": {}
+    },
+    {
+      "event_id": "6ae5c1bb-4264-4e1e-9200-a02157b6ac19",
+      "source": "rss:coindesk",
+      "title": "Malta's financial regulator explores bringing parts of DeFi under MiCA's orbit",
+      "url": "https://www.coindesk.com/policy/2026/06/18/malta-s-financial-regulator-explores-bringing-parts-of-defi-under-mica-s-orbit",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T10:43:21+00:00",
+      "raw_text": "Malta's financial regulator explores bringing parts of DeFi under MiCA's orbit",
+      "impact": {}
+    },
+    {
+      "event_id": "55cb30d5-5989-48d3-a141-657696b490a7",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin market cap rebound to take '5-10 years' after dropping 10 places since mid-2025",
+      "url": "https://cointelegraph.com/markets/bitcoin-market-cap-rebound-to-take-5-10-years-after-dropping-10-places-since-mid-2025?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-06-18T10:29:07+00:00",
+      "raw_text": "Bitcoin market cap rebound to take '5-10 years' after dropping 10 places since mid-2025\n\nBitcoin could be absent from the world's top five assets by market cap until 2036, despite an estimate seeing the BTC bear market being nearly 70% complete.",
+      "impact": {
+        "t_plus_5m": -0.317,
+        "t_plus_15m": -0.2418,
+        "t_plus_1h": -0.2495
+      }
+    },
+    {
+      "event_id": "ed7db346-de1c-40cb-bbe6-61cb898fa502",
+      "source": "rss:cointelegraph",
+      "title": "Aztec hit by second $2.1M exploit in less than week: SlowMist",
+      "url": "https://cointelegraph.com/news/aztec-exploited-21-million-previous-hack-slowmist?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T10:28:00+00:00",
+      "raw_text": "Aztec hit by second $2.1M exploit in less than week: SlowMist\n\nSecurity researchers warn that deprecated smart contracts can remain vulnerable long after projects stop maintaining them.",
+      "impact": {}
+    },
+    {
+      "event_id": "50fb1bdf-b3a3-4a59-bfbf-daa1ff8dc89d",
+      "source": "rss:decrypt",
+      "title": "Bitcoin Steadies Near $64K as Analysts Eye Floor After Hawkish Fed",
+      "url": "https://decrypt.co/371511/bitcoin-steadies-near-64k-as-analysts-eye-floor-after-hawkish-fed",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-06-18T10:07:12+00:00",
+      "raw_text": "Bitcoin Steadies Near $64K as Analysts Eye Floor After Hawkish Fed\n\nBTC slid to around $64,100 after Kevin Warsh's hawkish debut, but analysts argue a $60,000 floor and catalysts could spark a rebound.",
+      "impact": {
+        "t_plus_5m": -0.2526,
+        "t_plus_15m": -0.2996,
+        "t_plus_1h": -0.0133,
+        "t_plus_4h": -0.3261
+      }
+    },
+    {
+      "event_id": "22c92e1d-7ae5-4fe1-8cce-7373c5e8781a",
+      "source": "rss:cointelegraph",
+      "title": "Grayscale applies traditional finance models to AAVE, sees $175 value",
+      "url": "https://cointelegraph.com/news/grayscale-aave-traditional-finance-defi-token-valuation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T09:45:51+00:00",
+      "raw_text": "Grayscale applies traditional finance models to AAVE, sees $175 value\n\nGrayscale and CoinShares are applying traditional valuation techniques to crypto assets as institutions explore revenue-generating DeFi protocols.",
+      "impact": {}
+    },
     {
       "event_id": "af8f9309-52f7-429f-ae0f-d3ba9e7cff2e",
       "source": "rss:theblock",
@@ -71,6 +282,18 @@
       "tokens": [],
       "timestamp_utc": "2026-06-18T06:06:20+00:00",
       "raw_text": "Florida man pleads guilty for promoting $1.8B ‘HyperFund’ crypto fraud\n\nRodney “Bitcoin Rodney” Burton faces a maximum sentence of five years in federal prison for conspiracy to operate an unlicensed money transmitting business.",
+      "impact": {}
+    },
+    {
+      "event_id": "a6947ed9-daa5-49d1-8837-fa71db289bac",
+      "source": "rss:coindesk",
+      "title": "Live markets: DXY Index breaks higher as bitcoin tries to weather stronger dollar",
+      "url": "https://www.coindesk.com/tech/2026/06/18/live-markets-bitcoin-and-ether-etfs-lost-usd111-million-combined-as-rate-cut-hopes-died",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T06:02:19+00:00",
+      "raw_text": "Live markets: DXY Index breaks higher as bitcoin tries to weather stronger dollar",
       "impact": {}
     },
     {
@@ -1025,6 +1248,18 @@
       "tokens": [],
       "timestamp_utc": "2026-06-17T12:54:28+00:00",
       "raw_text": "A new Bittensor proposal would turn validators into something like fund managers",
+      "impact": {}
+    },
+    {
+      "event_id": "f2d7f353-69ed-43e6-8351-e50d85e150d3",
+      "source": "rss:solana_official",
+      "title": "Introducing Frontier Traders",
+      "url": "https://solana.com/news/introducing-frontier-traders",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-17T12:29:00+00:00",
+      "raw_text": "Introducing Frontier Traders\n\nJoin Frontier Traders, Solana's onchain trading community with VIP rebates, trading campaigns, global events, and rewards across the network's leading venues.",
       "impact": {}
     },
     {
@@ -6275,262 +6510,38 @@
       "timestamp_utc": "2026-06-11T13:27:12+00:00",
       "raw_text": "Citi opens new route into private markets with tokenized share offering",
       "impact": {}
-    },
-    {
-      "event_id": "22b4a0fe-fb94-41f0-8497-6da7e89a36eb",
-      "source": "rss:theblock",
-      "title": "The Incentive Dynamic Engine: io.net’s Shift to Sustainable Tokenomics",
-      "url": "https://www.theblock.co/post/402943/the-incentive-dynamic-engine-io-nets-shift-to-sustainable-tokenomics?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T13:14:52+00:00",
-      "raw_text": "The Incentive Dynamic Engine: io.net’s Shift to Sustainable Tokenomics\n\n<p>DePIN Needs a Tokenomics Reset  In recent years, DePINs have surged in prominence, offering a revolutionary model for scaling physical infrastructure through community-driven participation. By leveraging blockchain to coordin",
-      "impact": {}
-    },
-    {
-      "event_id": "3df1059b-d8aa-41fa-9ce1-de16778007e2",
-      "source": "rss:cointelegraph",
-      "title": "Digital Asset lands $355M as a16z doubles down on Wall Street blockchain rails",
-      "url": "https://cointelegraph.com/news/digital-asset-355m-16z-wall-street-blockchain-rails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T12:59:11+00:00",
-      "raw_text": "Digital Asset lands $355M as a16z doubles down on Wall Street blockchain rails\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Digital Asset lands $355M as a16z doubles down on Wall Street blockchain rails\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/imag",
-      "impact": {}
-    },
-    {
-      "event_id": "d85bf382-67f7-486d-8012-931b8f82cfc5",
-      "source": "rss:coindesk",
-      "title": "Ondo Finance hires former Invesco ETF chief to build onchain investment products",
-      "url": "https://www.coindesk.com/business/2026/06/10/ondo-finance-hires-former-invesco-etf-chief-to-build-onchain-investment-products",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T12:57:56+00:00",
-      "raw_text": "Ondo Finance hires former Invesco ETF chief to build onchain investment products",
-      "impact": {}
-    },
-    {
-      "event_id": "32cc142d-8468-4a79-b44d-8e12a26c8453",
-      "source": "rss:cointelegraph",
-      "title": "Hungary to reverse crypto trading crackdown after EU scrutiny",
-      "url": "https://cointelegraph.com/news/hungary-decriminalize-crypto-trading-prison-terms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T12:52:15+00:00",
-      "raw_text": "Hungary to reverse crypto trading crackdown after EU scrutiny\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hungary to reverse crypto trading crackdown after EU scrutiny\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3R",
-      "impact": {}
-    },
-    {
-      "event_id": "3c9a7bc3-cca9-45c5-b2bb-6cf685249209",
-      "source": "rss:theblock",
-      "title": "Citigroup to offer tokenized shares of private companies for wealthy and institutional clients: WSJ",
-      "url": "https://www.theblock.co/post/404422/citigroup-to-offer-tokenized-shares-of-private-companies-for-wealthy-and-institutional-clients-wsj?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T12:44:10+00:00",
-      "raw_text": "Citigroup to offer tokenized shares of private companies for wealthy and institutional clients: WSJ\n\n<p>Citigroup is rolling out tokenized shares of private companies on blockchain for wealth and institutional clients.</p>\n\n<p>Citigroup is rolling out tokenized shares of private companies on blockch",
-      "impact": {}
-    },
-    {
-      "event_id": "51b78fc5-446a-44a4-a3df-f45f911ae3f7",
-      "source": "rss:coindesk",
-      "title": "It's not SpaceX. Bitcoin ETF outflows may be an arbitrage story",
-      "url": "https://www.coindesk.com/markets/2026/06/11/bitcoin-etf-outflows-may-be-more-about-arbitrage-unwinds-than-spacex-fomo",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T12:42:19+00:00",
-      "raw_text": "It's not SpaceX. Bitcoin ETF outflows may be an arbitrage story",
-      "impact": {}
-    },
-    {
-      "event_id": "1be68624-6e31-4f57-a860-71e835688b50",
-      "source": "rss:bitcoinmagazine",
-      "title": "Public Companies Added 43,557 BTC in May as SpaceX Enters Bitcoin Treasury Race",
-      "url": "https://bitcoinmagazine.com/news/public-companies-added-43557-bitcoin",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-11T12:37:50+00:00",
-      "raw_text": "Public Companies Added 43,557 BTC in May as SpaceX Enters Bitcoin Treasury Race\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Public-Companies-Added-43557-BTC-in-May-as-SpaceX-Enters-Bitcoin-Treasu",
-      "impact": {
-        "t_plus_5m": -0.879,
-        "t_plus_15m": -0.6398,
-        "t_plus_1h": -0.8222,
-        "t_plus_4h": -0.9857,
-        "t_plus_24h": 0.1945
-      }
-    },
-    {
-      "event_id": "4e719525-f4a5-430f-901d-f16fd565b8a7",
-      "source": "rss:decrypt",
-      "title": "Bitcoin ETFs Shed $2.1B in June So Far as Market Selloff Deepens",
-      "url": "https://decrypt.co/370749/bitcoin-etfs-shed-2-1b-in-june-so-far-as-market-selloff-deepens",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T12:36:17+00:00",
-      "raw_text": "Bitcoin ETFs Shed $2.1B in June So Far as Market Selloff Deepens\n\nThe pace of outflows from U.S. spot Bitcoin ETFs has “moderated,” with analysts assessing whether selling pressure is exhausting.",
-      "impact": {}
-    },
-    {
-      "event_id": "0b770bb1-2472-4a3d-9764-c31dba008924",
-      "source": "rss:theblock",
-      "title": "Hungary to scrap Orban-era crypto rules that carried jail terms: reports",
-      "url": "https://www.theblock.co/post/404417/hungary-reverses-orban-era-crypto-rules?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T12:19:39+00:00",
-      "raw_text": "Hungary to scrap Orban-era crypto rules that carried jail terms: reports\n\n<p>Hungary will decriminalize crypto trading, reversing Orban-era rules that carried jail terms and led platforms like Revolut to suspend services.</p>\n\n<p>Hungary will decriminalize crypto trading, reversing Orban-era rules t",
-      "impact": {}
-    },
-    {
-      "event_id": "1f75d93f-9880-423a-8e96-0066e16bc294",
-      "source": "rss:cointelegraph",
-      "title": "Japan crypto bill advances with ETF, tax reform path: Report",
-      "url": "https://cointelegraph.com/news/japan-crypto-bill-etf-tax-reform-path?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T12:17:21+00:00",
-      "raw_text": "Japan crypto bill advances with ETF, tax reform path: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Japan crypto bill advances with ETF, tax reform path: Report\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZ",
-      "impact": {}
-    },
-    {
-      "event_id": "267ebe4f-b503-4e67-b407-cea74f5b8d6c",
-      "source": "rss:cointelegraph",
-      "title": "Audiera’s AI token BEAT beats Bitcoin, Ethereum as price surges 1,500% in a month",
-      "url": "https://cointelegraph.com/markets/audieras-ai-token-beat-beats-bitcoin-ethereum-as-price-surges-1500-in-a-month?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T12:08:03+00:00",
-      "raw_text": "Audiera’s AI token BEAT beats Bitcoin, Ethereum as price surges 1,500% in a month\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Audiera’s AI token BEAT beats Bitcoin, Ethereum as price surges 1,500% in a month\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.co",
-      "impact": {}
-    },
-    {
-      "event_id": "e74045cf-2dd1-467c-8eac-0fc884aa3ac6",
-      "source": "rss:cointelegraph",
-      "title": "AI models led to a ‘vulnerability apocalypse’ in crypto security: Immunefi CEO",
-      "url": "https://cointelegraph.com/news/frontier-ai-models-vulnerability-apocalypse-crypto-security-immunefi-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T12:01:48+00:00",
-      "raw_text": "AI models led to a ‘vulnerability apocalypse’ in crypto security: Immunefi CEO\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"AI models led to a ‘vulnerability apocalypse’ in crypto security: Immunefi CEO\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/imag",
-      "impact": {}
-    },
-    {
-      "event_id": "2424437b-a209-4b53-b330-348614c7be42",
-      "source": "rss:decrypt",
-      "title": "Morning Minute: Citadel Cautions Against the AI Trade Ahead of SpaceX IPO",
-      "url": "https://decrypt.co/370746/morning-minute-citadel-cautions-against-the-ai-trade-ahead-of-spacex-ipo",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T11:57:19+00:00",
-      "raw_text": "Morning Minute: Citadel Cautions Against the AI Trade Ahead of SpaceX IPO\n\nCitadel says the AI boom may be running into a cost wall, and Tether just led a $1.4B round into humanoid robotics.",
-      "impact": {}
-    },
-    {
-      "event_id": "0bdcd475-6f29-43f0-88d4-b5215ac17de7",
-      "source": "rss:coindesk",
-      "title": "Michael Saylor and Jack Mallers go toe-to-toe over Strategy's bitcoin reporting metrics",
-      "url": "https://www.coindesk.com/markets/2026/06/11/michael-saylor-and-jack-mallers-go-toe-to-toe-over-strategy-s-bitcoin-reporting-metrics",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T11:52:57+00:00",
-      "raw_text": "Michael Saylor and Jack Mallers go toe-to-toe over Strategy's bitcoin reporting metrics",
-      "impact": {}
-    },
-    {
-      "event_id": "5d54a266-e363-47ee-bf00-8ab6de4fdbcc",
-      "source": "rss:decrypt",
-      "title": "IMF Urges Nepal Monitor Crypto as Usage Rises Despite Ban",
-      "url": "https://decrypt.co/370738/imf-urges-nepal-monitor-crypto-as-usage-rises-despite-ban",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T11:33:30+00:00",
-      "raw_text": "IMF Urges Nepal Monitor Crypto as Usage Rises Despite Ban\n\nThe warning echoes the IMF's concerns over crypto adoption, including previous clashes with El Salvador over Bitcoin accumulation.",
-      "impact": {}
-    },
-    {
-      "event_id": "69618a81-0a1d-4cf7-b6be-2703ce649a99",
-      "source": "rss:coindesk",
-      "title": "As SpaceX IPO approaches, Polymarket, Ventuals assign $2 trillion valuation onchain",
-      "url": "https://www.coindesk.com/daybook-us/2026/06/11/as-spacex-ipo-approaches-polymarket-ventuals-assign-usd2-trillion-valuation-onchain",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T11:23:54+00:00",
-      "raw_text": "As SpaceX IPO approaches, Polymarket, Ventuals assign $2 trillion valuation onchain",
-      "impact": {}
-    },
-    {
-      "event_id": "0eb9d2aa-49d5-470f-b66b-728186468732",
-      "source": "rss:theblock",
-      "title": "Bernstein calls FIFA World Cup a ‘watershed moment’ for prediction markets, projects $5-10B consumer volume surge",
-      "url": "https://www.theblock.co/post/404403/bernstein-calls-fifa-world-cup-a-watershed-moment-for-prediction-markets-projects-5-10b-consumer-volume-surge?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T11:13:40+00:00",
-      "raw_text": "Bernstein calls FIFA World Cup a ‘watershed moment’ for prediction markets, projects $5-10B consumer volume surge\n\n<p>Bernstein sees the FIFA World Cup as a potential watershed moment for prediction markets, projecting a $5B to $10B uplift in volume.</p>\n\n<p>Bernstein sees the FIFA World Cup as a po",
-      "impact": {}
-    },
-    {
-      "event_id": "cec17185-8f31-4066-bd8f-ba9c5367d5cd",
-      "source": "rss:decrypt",
-      "title": "Bithumb CEO Booked as Suspect Over South Korea Bribery Case",
-      "url": "https://decrypt.co/370730/bithumb-ceo-booked-as-suspect-over-south-korea-bribery-case",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-11T11:09:01+00:00",
-      "raw_text": "Bithumb CEO Booked as Suspect Over South Korea Bribery Case\n\nSouth Korean police have placed Lee Jae-won under investigation for bribery over allegedly hiring a legislator’s relatives.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 183,
+        "avg_1h": -0.08,
+        "avg_24h": -1.57,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 105,
-        "avg_1h": -0.25,
+        "count": 104,
+        "avg_1h": -0.2,
         "avg_24h": -1.06,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 180,
+        "count": 179,
         "avg_1h": -0.22,
         "avg_24h": -0.36,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 182,
-        "avg_1h": -0.07,
-        "avg_24h": -1.57,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 15,
+        "count": 17,
         "avg_1h": -0.1,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
-        "count": 15,
-        "avg_1h": -0.17,
-        "avg_24h": 0.43,
+        "count": 14,
+        "avg_1h": -0.08,
+        "avg_24h": 0.51,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
