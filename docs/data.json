@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-06-18T21:26:01.942833+00:00",
+  "generated_at": "2026-06-18T23:58:22.381959+00:00",
   "events": [
+    {
+      "event_id": "a5ff605a-538d-4ca2-8bfa-f87ff6472ff9",
+      "source": "rss:cointelegraph",
+      "title": "Malta proposes DeFi rulebook covering DAOs under MiCA-era framework",
+      "url": "https://cointelegraph.com/news/malta-defi-framework-daos-software-based-organizations-mica?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T22:04:19+00:00",
+      "raw_text": "Malta proposes DeFi rulebook covering DAOs under MiCA-era framework\n\nThe Maltese regulator is seeking industry feedback on a legal framework for software-governed organizations, arguing that many DeFi projects are not fully decentralized.",
+      "impact": {}
+    },
+    {
+      "event_id": "8f3dba72-324a-429c-85a2-e205f689c4ba",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin decouples from tech stocks: Is $60K BTC’s next stop?",
+      "url": "https://cointelegraph.com/markets/bitcoin-decouples-from-tech-stocks-is-60k-btcs-next-stop?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T21:58:25+00:00",
+      "raw_text": "Bitcoin decouples from tech stocks: Is $60K BTC’s next stop?\n\nBitcoin’s slump accelerated as capital rotated further into the AI sector, raising the odds of a BTC price drop below $60,000.",
+      "impact": {}
+    },
+    {
+      "event_id": "060dc6f8-130b-45d0-a2dc-cc5415a01284",
+      "source": "rss:cointelegraph",
+      "title": "US regulators push user ID requirements for stablecoin issuers akin to regulated banks",
+      "url": "https://cointelegraph.com/news/us-agencies-user-identification-stablecoin-issuers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T21:42:13+00:00",
+      "raw_text": "US regulators push user ID requirements for stablecoin issuers akin to regulated banks\n\nThe proposed rules by US government agencies suggested that stablecoin issuers be subject to customer identification program requirements under the Bank Secrecy Act, the same as regulated financial firms.",
+      "impact": {}
+    },
+    {
+      "event_id": "dfc79380-0092-4c4a-bb07-595fbab386b9",
+      "source": "rss:theblock",
+      "title": "Strategy’s preferred stock STRC continues to trade under $90 as trading volume jumps",
+      "url": "https://www.theblock.co/post/405350/strategys-preferred-stock-strc-continues-trade-under-90-trading-volume-jumps?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T21:30:02+00:00",
+      "raw_text": "Strategy’s preferred stock STRC continues to trade under $90 as trading volume jumps\n\n<p>Strategy's preferred STRC stock closed again under $90 for the second consecutive day at $88.59, having drifted as low as $82.50.</p>\n\n<p>Strategy's preferred STRC stock closed again under $90 for the second con",
+      "impact": {}
+    },
+    {
+      "event_id": "a6301487-94fa-4d8d-ba05-3400e58bb2c5",
+      "source": "rss:decrypt",
+      "title": "China’s Z.AI Releases GLM-5.2: A Model That Rivals Claude Opus—Using Zero Nvidia Chips",
+      "url": "https://decrypt.co/371613/china-z-ai-glm-5-2-model-rivals-claude-opus",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T21:26:34+00:00",
+      "raw_text": "China’s Z.AI Releases GLM-5.2: A Model That Rivals Claude Opus—Using Zero Nvidia Chips\n\nZ.ai's GLM-5.2 sits within 1% of Claude Opus 4.8 on long-horizon coding benchmarks, runs entirely on Huawei silicon, and undercuts Western frontier models by up to 82% per token.",
+      "impact": {}
+    },
+    {
+      "event_id": "829da40a-5f11-4cd5-bddd-216be00120a5",
+      "source": "rss:decrypt",
+      "title": "Midjourney Pivots From AI Images to Medical Imaging, Aiming to Build a Better MRI Alternative",
+      "url": "https://decrypt.co/371606/midjourney-pivots-ai-images-medical-imaging-build-better-mri",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-18T21:18:41+00:00",
+      "raw_text": "Midjourney Pivots From AI Images to Medical Imaging, Aiming to Build a Better MRI Alternative\n\nImage generation company Midjourney is developing a full-body imaging system that combines ultrasound tech with AI smarts.",
+      "impact": {}
+    },
     {
       "event_id": "90d857fa-3328-4bd1-addb-e72216c8883c",
       "source": "rss:theblock",
@@ -8,10 +80,15 @@
       "url": "https://www.theblock.co/post/405340/cryptoquant-bitcoin-micro-transactions-btc?utm_source=rss&utm_medium=rss",
       "event_type": "narrative",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-18T21:07:49+00:00",
       "raw_text": "CryptoQuant says bitcoin microtransactions now make up 80% of daily transactions\n\n<p>Bitcoin transactions below 0.01 BTC now make up about 80% of all daily transactions, up from about 44% in 2023, CryptoQuant said.</p>\n\n<p>Bitcoin transactions below 0.01 BTC now make up about 80% of all daily transa",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1355,
+        "t_plus_15m": -0.0337
+      }
     },
     {
       "event_id": "b60eea19-e982-4461-a0f6-639baeee897b",
@@ -236,10 +313,16 @@
       "url": "https://www.theblock.co/post/405302/jpmorgan-bitcoin-mining-btc-production-cost?utm_source=rss&utm_medium=rss",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-18T18:31:02+00:00",
       "raw_text": "JPMorgan says bitcoin mining economics have ‘worsened’ as BTC trades below production cost\n\n<p>JPMorgan's current estimated production cost of bitcoin is about $78,000, while bitcoin is currently trading around $62,500.</p>\n\n<p>JPMorgan's current estimated production cost of bitcoin is about $78,000",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0972,
+        "t_plus_15m": 0.0297,
+        "t_plus_1h": 0.0813
+      }
     },
     {
       "event_id": "0472d283-f9b8-4ef8-8e95-280fa37c039b",
@@ -272,10 +355,16 @@
       "url": "https://bitcoinmagazine.com/markets/strc-is-junk-credit-in-a-bitcoin-costume-and-retail-is-holding-8-8-billion-of-it",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-18T18:04:43+00:00",
       "raw_text": "STRC Is Junk Credit in a Bitcoin Costume, and Retail Is Holding $8.8 Billion of It\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/STRC-fotor-2026061813245.png\" style=\"display: block; margin: 1em aut",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0658,
+        "t_plus_15m": 0.0792,
+        "t_plus_1h": -0.04
+      }
     },
     {
       "event_id": "5813c490-f064-4847-ae83-4a10f7e8237e",
@@ -380,10 +469,17 @@
       "url": "https://bitcoinmagazine.com/markets/bitcoin-price-falls-to-62000-as-hawkish",
       "event_type": "listing",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-18T16:48:06+00:00",
       "raw_text": "Bitcoin Price Falls to $62,000 as Hawkish Fed Shift Raises Risk of Deeper Pullback\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Price-Falls-to-62000-as-Hawkish-Fed-Shift-Raises-Risk-of-Dee",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1052,
+        "t_plus_15m": -0.2905,
+        "t_plus_1h": -0.1614,
+        "t_plus_4h": 0.5714
+      }
     },
     {
       "event_id": "40b5f1fc-a40b-4b48-9f40-f20567895316",
@@ -424,7 +520,8 @@
       "impact": {
         "t_plus_5m": 0.4567,
         "t_plus_15m": 0.1456,
-        "t_plus_1h": -0.1063
+        "t_plus_1h": -0.1063,
+        "t_plus_4h": 0.282
       }
     },
     {
@@ -6363,110 +6460,31 @@
       "timestamp_utc": "2026-06-12T07:00:00+00:00",
       "raw_text": "Blockworks acquires Messari in crypto data consolidation push\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Blockworks acquires Messari in crypto data consolidation push\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3R",
       "impact": {}
-    },
-    {
-      "event_id": "9480158c-8000-4684-b109-44632495f9d2",
-      "source": "rss:cointelegraph",
-      "title": "Exodus launches tokenized stock marketplace with Ondo, adds 200-plus onchain equities",
-      "url": "https://cointelegraph.com/news/exodus-launches-tokenized-stock-marketplace-with-ondo-adds-200-onchain-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-12T07:00:00+00:00",
-      "raw_text": "Exodus launches tokenized stock marketplace with Ondo, adds 200-plus onchain equities\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Exodus launches tokenized stock marketplace with Ondo, adds 200-plus onchain equities\" class=\"type:primaryImage\" src=\"https://images.cointele",
-      "impact": {}
-    },
-    {
-      "event_id": "c679a32a-3d91-4d09-a312-94ef8306f488",
-      "source": "rss:cointelegraph",
-      "title": "SEC plan to scrap ‘Rule 611’ positive for tokenized US stocks: Galaxy",
-      "url": "https://cointelegraph.com/news/sec-plan-to-scrap-rule-611-a-boon-for-tokenized-us-stocks-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-12T06:44:20+00:00",
-      "raw_text": "SEC plan to scrap ‘Rule 611’ positive for tokenized US stocks: Galaxy\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC plan to scrap ‘Rule 611’ positive for tokenized US stocks: Galaxy\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9",
-      "impact": {}
-    },
-    {
-      "event_id": "7122855d-4c28-4f05-a519-7901e690c409",
-      "source": "rss:coindesk",
-      "title": "XRP jumps 3% above $1.14 as institutional buying meets key resistance test",
-      "url": "https://www.coindesk.com/markets/2026/06/12/xrp-jumps-3-above-usd1-14-as-institutional-buying-meets-key-resistance-test",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-06-12T06:38:32+00:00",
-      "raw_text": "XRP jumps 3% above $1.14 as institutional buying meets key resistance test",
-      "impact": {
-        "t_plus_5m": -1.0894,
-        "t_plus_15m": -1.0395,
-        "t_plus_1h": -0.8043,
-        "t_plus_4h": 0.1969
-      }
-    },
-    {
-      "event_id": "dfd0b5b5-f540-4a41-b830-aab25de375c8",
-      "source": "rss:coindesk",
-      "title": "Live updates: SpaceX rallies nearly 20% in first session, while bitcoin trades shy of $64,000",
-      "url": "https://www.coindesk.com/tech/2026/06/12/live-updates-bitcoin-in-volatile-trading-above-usd63-000-doge-unchanged",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-12T06:32:02+00:00",
-      "raw_text": "Live updates: SpaceX rallies nearly 20% in first session, while bitcoin trades shy of $64,000",
-      "impact": {}
-    },
-    {
-      "event_id": "f2406c6e-d181-4ee0-99b3-0241997ffab7",
-      "source": "rss:coindesk",
-      "title": "Live updates: SpaceX surges 26% on debut, while bitcoin stalls just shy of $64,000",
-      "url": "https://www.coindesk.com/tech/2026/06/12/live-updates-bitcoin-in-volatile-trading-above-usd63-000-doge-unchanged",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-12T06:32:02+00:00",
-      "raw_text": "Live updates: SpaceX surges 26% on debut, while bitcoin stalls just shy of $64,000",
-      "impact": {}
-    },
-    {
-      "event_id": "1d390501-c682-4f12-9812-066decdc20b7",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin climbs to $64,000 on Iran peace hope as Street awaits opening SpaceX trades",
-      "url": "https://www.coindesk.com/tech/2026/06/12/live-updates-bitcoin-in-volatile-trading-above-usd63-000-doge-unchanged",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-12T06:32:02+00:00",
-      "raw_text": "Live updates: Bitcoin climbs to $64,000 on Iran peace hope as Street awaits opening SpaceX trades",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 172,
+        "count": 173,
         "avg_1h": -0.2,
         "avg_24h": -0.36,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 191,
-        "avg_1h": -0.13,
-        "avg_24h": -1.78,
+      "macro": {
+        "count": 107,
+        "avg_1h": -0.23,
+        "avg_24h": -1.29,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 105,
-        "avg_1h": -0.25,
-        "avg_24h": -1.29,
+      "unknown": {
+        "count": 188,
+        "avg_1h": -0.08,
+        "avg_24h": -1.78,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
         "count": 13,
-        "avg_1h": 0.04,
+        "avg_1h": 0.01,
         "avg_24h": 0.59,
         "win_rate_1h_gt5pct": 0.0
       },
