@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-06-19T20:01:04.501954+00:00",
+  "generated_at": "2026-06-19T21:18:39.312854+00:00",
   "events": [
+    {
+      "event_id": "29e7e5b2-1ee2-4de9-a714-c1d417a039d4",
+      "source": "rss:cointelegraph",
+      "title": "WhiteBIT secures MiCA license in Austria ahead of July 1 EU deadline",
+      "url": "https://cointelegraph.com/news/whitebit-secures-mica-license-austria-gains-access-eu-crypto-market?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-19T20:07:27+00:00",
+      "raw_text": "WhiteBIT secures MiCA license in Austria ahead of July 1 EU deadline\n\nThe Austrian authorization gives WhiteBIT access to the EU's unified crypto framework, which will require exchanges to hold MiCA licenses or stop serving clients after July 1.",
+      "impact": {}
+    },
+    {
+      "event_id": "54f791e6-1679-4adb-b1bb-b72a810e2402",
+      "source": "rss:decrypt",
+      "title": "Charles Schwab Planning to Roll Out S&#038;P 500 Prediction Markets With Cboe: WSJ",
+      "url": "https://decrypt.co/371708/charles-schwab-planning-sp-500-prediction-markets-cboe",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-19T20:02:32+00:00",
+      "raw_text": "Charles Schwab Planning to Roll Out S&#038;P 500 Prediction Markets With Cboe: WSJ\n\nGlobal financial institution Charles Schwab is the latest firm hoping to steal a piece of the growing prediction market pie.",
+      "impact": {}
+    },
+    {
+      "event_id": "d3806aab-3d66-4073-a0f2-b7dd6aa2c7da",
+      "source": "rss:decrypt",
+      "title": "House Republican Introduces Insider Trading Bill to Ban Lawmaker Prediction Market Bets",
+      "url": "https://decrypt.co/371705/house-republican-insider-trading-bill-ban-lawmaker-prediction-market",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-19T19:36:09+00:00",
+      "raw_text": "House Republican Introduces Insider Trading Bill to Ban Lawmaker Prediction Market Bets\n\nThe bill is meant to curb potential insider trading, blocking lawmakers and family members from policy-related prediction market bets.",
+      "impact": {}
+    },
     {
       "event_id": "08e78ee6-2020-4359-a53c-394d0e140986",
       "source": "rss:bitcoinmagazine",
@@ -8,10 +44,16 @@
       "url": "https://bitcoinmagazine.com/news/jpmorgan-bitcoin-mining-costs-worsened",
       "event_type": "listing",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-19T18:35:13+00:00",
       "raw_text": "JPMorgan: Bitcoin Mining Costs Have ‘Worsened’ as BTC Trades Below Production Cost\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/JPMorgan-Bitcoin-Mining-Costs-Have-Worsened-as-BTC-Trades-Below-Prod",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0601,
+        "t_plus_15m": 0.0409,
+        "t_plus_1h": -0.0711
+      }
     },
     {
       "event_id": "69783fa4-7539-488b-9967-8512685f0297",
@@ -208,7 +250,8 @@
       "impact": {
         "t_plus_5m": 0.0547,
         "t_plus_15m": 0.0058,
-        "t_plus_1h": 0.1614
+        "t_plus_1h": 0.1614,
+        "t_plus_4h": -0.0793
       }
     },
     {
@@ -6408,50 +6451,14 @@
       "timestamp_utc": "2026-06-12T18:40:57+00:00",
       "raw_text": "Moonshot AI's Kimi Work Brings 300 AI Agents to Your Desktop\n\nKimi Work lets an AI agent loose on your local files, your browser, and your schedule—without routing everything through the cloud.",
       "impact": {}
-    },
-    {
-      "event_id": "b442e41b-d6ac-4e25-a2b7-4beb773b4d53",
-      "source": "rss:decrypt",
-      "title": "Americans Fear Job Losses Due to AI But Hope for Cancer, Alzheimer’s Cures: Anthropic Survey",
-      "url": "https://decrypt.co/370951/americans-fear-job-losses-ai-hope-cancer-alzheimers-cures-anthropic",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-12T18:14:24+00:00",
-      "raw_text": "Americans Fear Job Losses Due to AI But Hope for Cancer, Alzheimer’s Cures: Anthropic Survey\n\nAnthropic's AI survey showed Americans are afraid of job losses, hopeful for health breakthroughs, and distrustful of firms behind the tech.",
-      "impact": {}
-    },
-    {
-      "event_id": "1161d180-ca3a-4db1-9b55-24c352ca6110",
-      "source": "rss:coindesk",
-      "title": "Bitcoin hit bottom at $59,000 marking end to the crypto winter, says Standard Chartered analyst",
-      "url": "https://www.coindesk.com/markets/2026/06/12/bitcoin-hit-bottom-at-usd59-000-marking-end-to-the-crypto-winter-says-standard-chartered-analyst",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-12T18:09:06+00:00",
-      "raw_text": "Bitcoin hit bottom at $59,000 marking end to the crypto winter, says Standard Chartered analyst",
-      "impact": {}
-    },
-    {
-      "event_id": "da267ded-3391-4fb1-8d0a-51880f73b602",
-      "source": "rss:decrypt",
-      "title": "Crypto Firms Scrap Tokenized SpaceX Share Offerings as SPCX Surges After IPO",
-      "url": "https://decrypt.co/370948/crypto-firms-scrap-tokenized-spacex-share-offerings-spcx-surges-ipo",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-12T17:50:06+00:00",
-      "raw_text": "Crypto Firms Scrap Tokenized SpaceX Share Offerings as SPCX Surges After IPO\n\nParticipants were refunded and did not receive shares in the record-breaking SpaceX IPO from Elon Musk's rocket company.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "listing": {
-        "count": 11,
-        "avg_1h": 0.08,
-        "avg_24h": 0.38,
+      "macro": {
+        "count": 102,
+        "avg_1h": -0.2,
+        "avg_24h": -1.9,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
@@ -6460,16 +6467,16 @@
         "avg_24h": -1.78,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 174,
-        "avg_1h": -0.24,
-        "avg_24h": -0.41,
+      "listing": {
+        "count": 11,
+        "avg_1h": 0.06,
+        "avg_24h": 0.38,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 101,
-        "avg_1h": -0.2,
-        "avg_24h": -1.9,
+      "narrative": {
+        "count": 173,
+        "avg_1h": -0.24,
+        "avg_24h": -0.41,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
