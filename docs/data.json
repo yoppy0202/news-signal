@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-06-19T21:18:39.312854+00:00",
+  "generated_at": "2026-06-19T23:12:08.313224+00:00",
   "events": [
+    {
+      "event_id": "e356dd7b-b1c1-4931-938a-b8d20e3646f6",
+      "source": "rss:cointelegraph",
+      "title": "Charles Schwab to enter prediction markets with S&P 500 wagers: WSJ",
+      "url": "https://cointelegraph.com/news/charles-schwab-prediction-markets-sp500-wagers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-19T21:11:07+00:00",
+      "raw_text": "Charles Schwab to enter prediction markets with S&P 500 wagers: WSJ\n\nThe offering from the financial services company will reportedly only include yes-or-no bets on whether the S&amp;P 500 closes above or below a target price.",
+      "impact": {}
+    },
+    {
+      "event_id": "4a91a940-bf22-4927-a5b3-9ae034151e16",
+      "source": "rss:cointelegraph",
+      "title": "$13B Bitcoin options expiry looms: Will bulls endure more pain in June?",
+      "url": "https://cointelegraph.com/markets/13b-bitcoin-options-expiry-looms-will-bulls-endure-more-pain-in-june?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-19T20:57:49+00:00",
+      "raw_text": "$13B Bitcoin options expiry looms: Will bulls endure more pain in June?\n\nBitcoin bears hold the upper hand in the upcoming Bitcoin options expiry, a potentially early warning that more BTC downside could unfold.",
+      "impact": {}
+    },
     {
       "event_id": "29e7e5b2-1ee2-4de9-a714-c1d417a039d4",
       "source": "rss:cointelegraph",
@@ -6427,56 +6451,32 @@
       "timestamp_utc": "2026-06-12T19:22:28+00:00",
       "raw_text": "AI Agents Still Can't Stop Prompt Injection Attacks, Researchers Warn\n\nA new benchmark study found AI agents remain vulnerable to prompt injection attacks as companies increasingly roll out the technology to the public.",
       "impact": {}
-    },
-    {
-      "event_id": "840a77fd-7ff2-412f-abd9-9951646b9475",
-      "source": "rss:bitcoinmagazine",
-      "title": "Blockworks Acquires Messari in Deal Highlighting Crypto’s Data Consolidation Race",
-      "url": "https://bitcoinmagazine.com/news/blockworks-acquires-messari",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-12T18:41:15+00:00",
-      "raw_text": "Blockworks Acquires Messari in Deal Highlighting Crypto’s Data Consolidation Race\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Blockworks-Acquires-Messari-in-Deal-Highlighting-Cryptos-Data-Consoli",
-      "impact": {}
-    },
-    {
-      "event_id": "dff4bc70-4332-4143-aad2-e41042cb41a3",
-      "source": "rss:decrypt",
-      "title": "Moonshot AI's Kimi Work Brings 300 AI Agents to Your Desktop",
-      "url": "https://decrypt.co/370954/moonshot-ai-kimi-work-300-agents-desktop",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-12T18:40:57+00:00",
-      "raw_text": "Moonshot AI's Kimi Work Brings 300 AI Agents to Your Desktop\n\nKimi Work lets an AI agent loose on your local files, your browser, and your schedule—without routing everything through the cloud.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 102,
-        "avg_1h": -0.2,
-        "avg_24h": -1.9,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 198,
+        "count": 199,
         "avg_1h": -0.14,
         "avg_24h": -1.78,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "listing": {
-        "count": 11,
-        "avg_1h": 0.06,
-        "avg_24h": 0.38,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
         "count": 173,
         "avg_1h": -0.24,
         "avg_24h": -0.41,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 101,
+        "avg_1h": -0.2,
+        "avg_24h": -1.9,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "listing": {
+        "count": 11,
+        "avg_1h": 0.06,
+        "avg_24h": 0.38,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
