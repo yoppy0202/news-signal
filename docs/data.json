@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-06-18T23:58:22.381959+00:00",
+  "generated_at": "2026-06-19T05:20:21.928030+00:00",
   "events": [
+    {
+      "event_id": "71518692-9861-4f8c-b1d5-8c2b3bf1cfec",
+      "source": "rss:theblock",
+      "title": "Fidelity launches GENIUS-aligned money market fund for stablecoin issuers",
+      "url": "https://www.theblock.co/post/405357/fidelity-stablecoin-money-market-fund?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-19T01:58:25+00:00",
+      "raw_text": "Fidelity launches GENIUS-aligned money market fund for stablecoin issuers\n\n<p>The fund invests exclusively in eligible reserve assets permitted for stablecoin issuers under the GENIUS Act.</p>\n\n<p>The fund invests exclusively in eligible reserve assets permitted for stablecoin issuers under the GENI",
+      "impact": {}
+    },
+    {
+      "event_id": "84e97b2f-c5d3-4813-bbc2-8193f28a05cf",
+      "source": "rss:cointelegraph",
+      "title": "Ether analysts predict another ‘selling wave’ as ETH struggles to overcome $1.7K",
+      "url": "https://cointelegraph.com/markets/ether-below-17k-gains-interest-as-analysts-warn-of-another-selling-wave?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-19T00:26:39+00:00",
+      "raw_text": "Ether analysts predict another ‘selling wave’ as ETH struggles to overcome $1.7K\n\nExchange inflows, slumping demand and a 31% drop in Ether futures open interest may signal that another wave of selling could hit ETH.",
+      "impact": {}
+    },
     {
       "event_id": "a5ff605a-538d-4ca2-8bfa-f87ff6472ff9",
       "source": "rss:cointelegraph",
@@ -20,10 +44,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-decouples-from-tech-stocks-is-60k-btcs-next-stop?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-18T21:58:25+00:00",
       "raw_text": "Bitcoin decouples from tech stocks: Is $60K BTC’s next stop?\n\nBitcoin’s slump accelerated as capital rotated further into the AI sector, raising the odds of a BTC price drop below $60,000.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1109,
+        "t_plus_15m": 0.0828,
+        "t_plus_1h": 0.0105
+      }
     },
     {
       "event_id": "060dc6f8-130b-45d0-a2dc-cc5415a01284",
@@ -87,7 +117,8 @@
       "raw_text": "CryptoQuant says bitcoin microtransactions now make up 80% of daily transactions\n\n<p>Bitcoin transactions below 0.01 BTC now make up about 80% of all daily transactions, up from about 44% in 2023, CryptoQuant said.</p>\n\n<p>Bitcoin transactions below 0.01 BTC now make up about 80% of all daily transa",
       "impact": {
         "t_plus_5m": -0.1355,
-        "t_plus_15m": -0.0337
+        "t_plus_15m": -0.0337,
+        "t_plus_1h": -0.181
       }
     },
     {
@@ -321,7 +352,8 @@
       "impact": {
         "t_plus_5m": 0.0972,
         "t_plus_15m": 0.0297,
-        "t_plus_1h": 0.0813
+        "t_plus_1h": 0.0813,
+        "t_plus_4h": 0.1873
       }
     },
     {
@@ -363,7 +395,8 @@
       "impact": {
         "t_plus_5m": -0.0658,
         "t_plus_15m": 0.0792,
-        "t_plus_1h": -0.04
+        "t_plus_1h": -0.04,
+        "t_plus_4h": 0.3585
       }
     },
     {
@@ -6436,34 +6469,16 @@
       "timestamp_utc": "2026-06-12T07:12:06+00:00",
       "raw_text": "International sting shuts down $390M crypto money-laundering ring\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"International sting shuts down $390M crypto money-laundering ring\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWF",
       "impact": {}
-    },
-    {
-      "event_id": "8aabe63e-9843-41b0-9084-0c4e63124541",
-      "source": "rss:coindesk",
-      "title": "BlackRock files to list its bitcoin income ETF, with expected debut next week",
-      "url": "https://www.coindesk.com/markets/2026/06/12/blackrock-files-to-list-its-bitcoin-income-etf-with-expected-debut-next-week",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-12T07:07:34+00:00",
-      "raw_text": "BlackRock files to list its bitcoin income ETF, with expected debut next week",
-      "impact": {}
-    },
-    {
-      "event_id": "9f65a517-3be8-40b9-97b2-23afb53b0434",
-      "source": "rss:cointelegraph",
-      "title": "Blockworks acquires Messari in crypto data consolidation push",
-      "url": "https://cointelegraph.com/news/blockworks-buys-rival-messari-at-fraction-of-2022-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-12T07:00:00+00:00",
-      "raw_text": "Blockworks acquires Messari in crypto data consolidation push\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Blockworks acquires Messari in crypto data consolidation push\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3R",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 189,
+        "avg_1h": -0.08,
+        "avg_24h": -1.78,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 173,
         "avg_1h": -0.2,
@@ -6471,15 +6486,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 107,
-        "avg_1h": -0.23,
+        "count": 106,
+        "avg_1h": -0.21,
         "avg_24h": -1.29,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 188,
-        "avg_1h": -0.08,
-        "avg_24h": -1.78,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
