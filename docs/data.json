@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-06-20T14:27:10.061613+00:00",
+  "generated_at": "2026-06-20T16:44:14.269344+00:00",
   "events": [
+    {
+      "event_id": "ec331e13-a0f1-4de1-945d-8bf75541160f",
+      "source": "rss:coindesk",
+      "title": "AI is making crypto security cheaper, faster and harder to ignore",
+      "url": "https://www.coindesk.com/tech/2026/06/20/ai-is-making-crypto-security-cheaper-faster-and-harder-to-ignore",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-20T15:00:00+00:00",
+      "raw_text": "AI is making crypto security cheaper, faster and harder to ignore",
+      "impact": {}
+    },
+    {
+      "event_id": "93cdc072-a54e-4f06-8682-ac6c90df71b6",
+      "source": "rss:decrypt",
+      "title": "Bitcoin Network Activity Is Rising as BTC Falls Nearly 50% Below Peak Price: CryptoQuant",
+      "url": "https://decrypt.co/371702/bitcoin-network-activity-rising-btc-falls-50-percent-below-peak-price",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-06-20T14:59:51+00:00",
+      "raw_text": "Bitcoin Network Activity Is Rising as BTC Falls Nearly 50% Below Peak Price: CryptoQuant\n\nActivity on the Bitcoin network is surging, CryptoQuant said, but it's not correlating with price movement for its native asset.",
+      "impact": {
+        "t_plus_5m": 0.0933,
+        "t_plus_15m": 0.0537,
+        "t_plus_1h": 0.3459
+      }
+    },
+    {
+      "event_id": "2cb9cb32-22e4-4a6b-852a-6d256d6a063c",
+      "source": "rss:cointelegraph",
+      "title": "Crypto industry looks to stablecoins and DeFi revisions in MiCA 2.0",
+      "url": "https://cointelegraph.com/features/crypto-industry-stablecoins-defi-mica?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-20T14:57:41+00:00",
+      "raw_text": "Crypto industry looks to stablecoins and DeFi revisions in MiCA 2.0\n\nThe European Commission is seeking comment on how it can tweak MiCA, its regulatory framework for the crypto and blockchain industries.",
+      "impact": {}
+    },
     {
       "event_id": "eb99d98f-2163-4c13-ac13-ca5c182e03d2",
       "source": "rss:coindesk",
@@ -343,7 +385,8 @@
         "t_plus_5m": 0.0547,
         "t_plus_15m": 0.0058,
         "t_plus_1h": 0.1614,
-        "t_plus_4h": -0.0793
+        "t_plus_4h": -0.0793,
+        "t_plus_24h": 0.3603
       }
     },
     {
@@ -6417,76 +6460,32 @@
       "timestamp_utc": "2026-06-13T05:16:10+00:00",
       "raw_text": "SpaceX IPO scramble reveals difference between tokenizing a stock and getting one",
       "impact": {}
-    },
-    {
-      "event_id": "75b79e44-991a-4f01-a485-fa1afee67b38",
-      "source": "rss:cointelegraph",
-      "title": "ETH futures flash bearish signal, but stakers’ resilience points to underlying strength",
-      "url": "https://cointelegraph.com/markets/eth-futures-flash-bearish-signal-but-stakers-resilience-points-to-underlying-strength?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-06-13T03:24:05+00:00",
-      "raw_text": "ETH futures flash bearish signal, but stakers’ resilience points to underlying strength\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ETH futures flash bearish signal, but stakers’ resilience points to underlying strength\" class=\"type:primaryImage\" src=\"https://images.coin",
-      "impact": {
-        "t_plus_5m": -0.2826,
-        "t_plus_15m": -0.2254,
-        "t_plus_1h": -0.1654,
-        "t_plus_4h": 0.0794,
-        "t_plus_24h": 0.8442
-      }
-    },
-    {
-      "event_id": "82ab3e02-ffba-4822-a43c-6a813387917c",
-      "source": "rss:cointelegraph",
-      "title": "Anthropic suspends access to Fable 5, Mythos 5, citing US directive",
-      "url": "https://cointelegraph.com/news/anthropic-suspends-access-to-fable-mythos-citing-us-directive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-13T02:37:40+00:00",
-      "raw_text": "Anthropic suspends access to Fable 5, Mythos 5, citing US directive\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Anthropic suspends access to Fable 5, Mythos 5, citing US directive\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1",
-      "impact": {}
-    },
-    {
-      "event_id": "b45c0c0c-8870-4092-95a4-05ea9ea0759d",
-      "source": "rss:cointelegraph",
-      "title": "Major crypto exchanges cancel SpaceX IPO allocations, promising refunds",
-      "url": "https://cointelegraph.com/news/major-crypto-exchanges-cancel-spacex-ipo-allocations-promising-refunds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-13T02:17:55+00:00",
-      "raw_text": "Major crypto exchanges cancel SpaceX IPO allocations, promising refunds\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Major crypto exchanges cancel SpaceX IPO allocations, promising refunds\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 199,
-        "avg_1h": -0.14,
-        "avg_24h": -1.39,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 173,
-        "avg_1h": -0.23,
-        "avg_24h": -0.41,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
         "count": 102,
         "avg_1h": -0.2,
         "avg_24h": -1.03,
         "win_rate_1h_gt5pct": 0.0
       },
+      "narrative": {
+        "count": 174,
+        "avg_1h": -0.2,
+        "avg_24h": -0.52,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 198,
+        "avg_1h": -0.14,
+        "avg_24h": -1.39,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "listing": {
         "count": 11,
         "avg_1h": 0.06,
-        "avg_24h": 0.38,
+        "avg_24h": 0.37,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
