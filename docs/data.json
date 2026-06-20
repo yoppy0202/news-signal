@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-06-20T18:43:18.861223+00:00",
+  "generated_at": "2026-06-20T20:38:31.602940+00:00",
   "events": [
+    {
+      "event_id": "754f46ef-2c3f-4770-be3b-581913056574",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin rotations into altcoins collapses: Have altseasons 'disappeared'?",
+      "url": "https://cointelegraph.com/markets/bitcoin-rotations-into-altcoins-collapses-have-altseasons-disappeared?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-06-20T19:09:21+00:00",
+      "raw_text": "Bitcoin rotations into altcoins collapses: Have altseasons 'disappeared'?\n\nBTC's crypto market dominance is holding above a key support, signaling Bitcoin may keep absorbing capital from altcoins and delay a broader altseason.",
+      "impact": {
+        "t_plus_5m": -0.0647,
+        "t_plus_15m": -0.0083,
+        "t_plus_1h": 0.0621
+      }
+    },
+    {
+      "event_id": "4238e4ab-598c-47f5-8443-3b6b3da3baef",
+      "source": "rss:theblock",
+      "title": "Charles Schwab is working with Cboe to launch S&P 500 ‘yes-or-no’ binary options contracts: WSJ",
+      "url": "https://www.theblock.co/post/405454/charles-schwab-is-working-with-cboe-to-launch-sp-500-yes-or-no-binary-options-contracts-wsj?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-20T19:06:25+00:00",
+      "raw_text": "Charles Schwab is working with Cboe to launch S&P 500 ‘yes-or-no’ binary options contracts: WSJ\n\n<p>The binary contracts would mark the brokerage's first move into prediction-market-style products, a sector that Kalshi and Polymarket already dominate.</p>\n\n<p>The binary contracts would mark the brok",
+      "impact": {}
+    },
     {
       "event_id": "756ecaf7-0b56-48a8-b14b-5bbf1e293c74",
       "source": "rss:decrypt",
@@ -52,7 +82,8 @@
       "impact": {
         "t_plus_5m": 0.0933,
         "t_plus_15m": 0.0537,
-        "t_plus_1h": 0.3459
+        "t_plus_1h": 0.3459,
+        "t_plus_4h": -0.1817
       }
     },
     {
@@ -210,7 +241,8 @@
         "t_plus_5m": 0.0601,
         "t_plus_15m": 0.0409,
         "t_plus_1h": -0.0711,
-        "t_plus_4h": 0.3615
+        "t_plus_4h": 0.3615,
+        "t_plus_24h": 1.2958
       }
     },
     {
@@ -6436,56 +6468,32 @@
       "timestamp_utc": "2026-06-13T06:07:00+00:00",
       "raw_text": "Top cryptographers can't agree on Bitcoin's biggest quantum question",
       "impact": {}
-    },
-    {
-      "event_id": "b66c8db3-e95f-43b2-bf9a-012f873ed978",
-      "source": "rss:coindesk",
-      "title": "Anthropic's pre-IPO shares fall as U.S. government shuts down its most powerful AI model",
-      "url": "https://www.coindesk.com/markets/2026/06/13/anthropic-s-pre-ipo-shares-fall-as-us-government-shuts-down-its-most-powerful-ai-model",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-13T06:02:05+00:00",
-      "raw_text": "Anthropic's pre-IPO shares fall as U.S. government shuts down its most powerful AI model",
-      "impact": {}
-    },
-    {
-      "event_id": "d98ce8c7-26f4-4138-972a-a7ec9a64de8b",
-      "source": "rss:coindesk",
-      "title": "Anthropic's pre-IPO shares fall as US government shuts down its most powerful AI model",
-      "url": "https://www.coindesk.com/markets/2026/06/13/anthropic-s-pre-ipo-shares-fall-as-us-government-shuts-down-its-most-powerful-ai-model",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-13T06:02:05+00:00",
-      "raw_text": "Anthropic's pre-IPO shares fall as US government shuts down its most powerful AI model",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 176,
-        "avg_1h": -0.2,
-        "avg_24h": -0.52,
+      "unknown": {
+        "count": 197,
+        "avg_1h": -0.13,
+        "avg_24h": -1.39,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 102,
+        "count": 103,
         "avg_1h": -0.2,
         "avg_24h": -1.03,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 196,
-        "avg_1h": -0.14,
-        "avg_24h": -1.39,
+      "narrative": {
+        "count": 174,
+        "avg_1h": -0.2,
+        "avg_24h": -0.52,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
         "count": 11,
         "avg_1h": 0.06,
-        "avg_24h": 0.37,
+        "avg_24h": 0.68,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
