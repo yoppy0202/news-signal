@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-06-20T04:37:41.578327+00:00",
+  "generated_at": "2026-06-20T08:27:29.326861+00:00",
   "events": [
+    {
+      "event_id": "5aed7878-bf5d-4b51-a2d7-a6eff4552f9d",
+      "source": "rss:cointelegraph",
+      "title": "Crypto kidnappers who robbed a Minnesota family of $8M plead guilty",
+      "url": "https://cointelegraph.com/news/crypto-kidnappers-who-robbed-a-minnesota-family-of-8m-plead-guilty?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-20T05:12:43+00:00",
+      "raw_text": "Crypto kidnappers who robbed a Minnesota family of $8M plead guilty\n\nTwo Texas brothers admitted to holding a Minnesota family at gunpoint and forcing the transfer of $8 million in cryptocurrency.",
+      "impact": {}
+    },
+    {
+      "event_id": "b86bb4ad-be29-4b1c-9bc4-461ac9c5c187",
+      "source": "rss:cointelegraph",
+      "title": "S token drops 5% as 3 former execs resign from Sonic Labs board",
+      "url": "https://cointelegraph.com/news/s-token-drops-5-as-3-former-execs-resign-from-sonic-labs-board?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-20T01:41:39+00:00",
+      "raw_text": "S token drops 5% as 3 former execs resign from Sonic Labs board\n\nAndre Cronje, Michael Kong and David Richardson stepped down from the Sonic Labs board on Friday, while Matt Visser has been appointed as CEO, replacing Mitchell Demeter who resigned in February.",
+      "impact": {}
+    },
     {
       "event_id": "e356dd7b-b1c1-4931-938a-b8d20e3646f6",
       "source": "rss:cointelegraph",
@@ -6435,36 +6459,12 @@
       "timestamp_utc": "2026-06-12T20:37:49+00:00",
       "raw_text": "CFTC sues New Mexico in latest bid to assert authority over sports betting markets\n\n<p>New Mexico is the next state in the CFTC's crosshairs as the fight continues over regulatory jurisdiction over sports betting. </p>\n\n<p>New Mexico is the next state in the CFTC's crosshairs as the fight continues ",
       "impact": {}
-    },
-    {
-      "event_id": "036c4dcd-af95-4162-b01a-ae2bdb89db8c",
-      "source": "rss:bitcoinmagazine",
-      "title": "Standard Chartered Calls Crypto Bottom as Bitcoin Price Recovers From $59,000 Low",
-      "url": "https://bitcoinmagazine.com/markets/standard-chartered-calls-bitcoin-bottom",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-12T20:00:19+00:00",
-      "raw_text": "Standard Chartered Calls Crypto Bottom as Bitcoin Price Recovers From $59,000 Low\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Standard-Chartered-Calls-Crypto-Bottom-as-Bitcoin-Price-Recovers-From",
-      "impact": {}
-    },
-    {
-      "event_id": "214f59d3-56e2-4ee8-b378-964d638657bf",
-      "source": "rss:decrypt",
-      "title": "How Crypto Firms Will Own the Octagon at Trump's White House UFC Event",
-      "url": "https://decrypt.co/370974/how-crypto-firms-own-octagon-trump-white-house-ufc-event",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-12T19:56:26+00:00",
-      "raw_text": "How Crypto Firms Will Own the Octagon at Trump's White House UFC Event\n\nPresident Trump’s upcoming UFC fight will provide several crypto firms with an unprecedented opportunity for corporate branding.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 199,
+        "count": 200,
         "avg_1h": -0.14,
         "avg_24h": -1.78,
         "win_rate_1h_gt5pct": 0.0
@@ -6476,7 +6476,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 102,
+        "count": 101,
         "avg_1h": -0.2,
         "avg_24h": -1.9,
         "win_rate_1h_gt5pct": 0.0
