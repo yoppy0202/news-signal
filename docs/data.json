@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T23:12:08.313224+00:00",
+  "generated_at": "2026-06-20T04:37:41.578327+00:00",
   "events": [
     {
       "event_id": "e356dd7b-b1c1-4931-938a-b8d20e3646f6",
@@ -20,10 +20,17 @@
       "url": "https://cointelegraph.com/markets/13b-bitcoin-options-expiry-looms-will-bulls-endure-more-pain-in-june?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-19T20:57:49+00:00",
       "raw_text": "$13B Bitcoin options expiry looms: Will bulls endure more pain in June?\n\nBitcoin bears hold the upper hand in the upcoming Bitcoin options expiry, a potentially early warning that more BTC downside could unfold.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.097,
+        "t_plus_15m": 0.261,
+        "t_plus_1h": -0.0487,
+        "t_plus_4h": 0.7188
+      }
     },
     {
       "event_id": "29e7e5b2-1ee2-4de9-a714-c1d417a039d4",
@@ -76,7 +83,8 @@
       "impact": {
         "t_plus_5m": 0.0601,
         "t_plus_15m": 0.0409,
-        "t_plus_1h": -0.0711
+        "t_plus_1h": -0.0711,
+        "t_plus_4h": 0.3615
       }
     },
     {
@@ -336,6 +344,18 @@
       "tokens": [],
       "timestamp_utc": "2026-06-19T12:30:00+00:00",
       "raw_text": "GoMining challenges Jack Dorsey's Square with payments system designed around bitcoin",
+      "impact": {}
+    },
+    {
+      "event_id": "ccfdb951-6b2f-4317-aa6d-99dff1293bd0",
+      "source": "rss:cointelegraph",
+      "title": "BlockShoals lawyer clarifies Binance’s regulatory status in the Philippines",
+      "url": "https://cointelegraph.com/news/blockshoals-binance-regulatory-status-philippines?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-19T12:15:20+00:00",
+      "raw_text": "BlockShoals lawyer clarifies Binance’s regulatory status in the Philippines\n\nBlockShoals’ head of legal said Binance can provide trading access under the Philippine SEC’s crypto framework, while peso transfers and other central bank-regulated services require a licensed VASP.",
       "impact": {}
     },
     {
@@ -6439,18 +6459,6 @@
       "timestamp_utc": "2026-06-12T19:56:26+00:00",
       "raw_text": "How Crypto Firms Will Own the Octagon at Trump's White House UFC Event\n\nPresident Trump’s upcoming UFC fight will provide several crypto firms with an unprecedented opportunity for corporate branding.",
       "impact": {}
-    },
-    {
-      "event_id": "5517266b-4bfd-44c2-b916-aa012a07726a",
-      "source": "rss:decrypt",
-      "title": "AI Agents Still Can't Stop Prompt Injection Attacks, Researchers Warn",
-      "url": "https://decrypt.co/370972/ai-agents-prompt-injection-attacks-research",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-12T19:22:28+00:00",
-      "raw_text": "AI Agents Still Can't Stop Prompt Injection Attacks, Researchers Warn\n\nA new benchmark study found AI agents remain vulnerable to prompt injection attacks as companies increasingly roll out the technology to the public.",
-      "impact": {}
     }
   ],
   "stats": {
@@ -6463,12 +6471,12 @@
       },
       "narrative": {
         "count": 173,
-        "avg_1h": -0.24,
+        "avg_1h": -0.23,
         "avg_24h": -0.41,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 101,
+        "count": 102,
         "avg_1h": -0.2,
         "avg_24h": -1.9,
         "win_rate_1h_gt5pct": 0.0
@@ -6480,7 +6488,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 13,
+        "count": 12,
         "avg_1h": -0.24,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
