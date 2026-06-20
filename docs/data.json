@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-20T08:27:29.326861+00:00",
+  "generated_at": "2026-06-20T11:24:46.948145+00:00",
   "events": [
+    {
+      "event_id": "eec1889c-6e0d-4c18-abc9-a88a3b995b63",
+      "source": "rss:cointelegraph",
+      "title": "Philippine SEC signals readiness for RWA tokenization",
+      "url": "https://cointelegraph.com/news/philippine-sec-rwa-tokenization-readiness?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-20T07:05:20+00:00",
+      "raw_text": "Philippine SEC signals readiness for RWA tokenization\n\nPhilippine SEC Commissioner Rogelio Quevedo told Cointelegraph that tokenized assets could give Filipinos more legitimate investment options while helping steer them away from scams.",
+      "impact": {}
+    },
     {
       "event_id": "5aed7878-bf5d-4b51-a2d7-a6eff4552f9d",
       "source": "rss:cointelegraph",
@@ -657,7 +669,8 @@
         "t_plus_5m": -0.1261,
         "t_plus_15m": -0.0869,
         "t_plus_1h": 0.2104,
-        "t_plus_4h": -0.671
+        "t_plus_4h": -0.671,
+        "t_plus_24h": 1.3175
       }
     },
     {
@@ -6447,38 +6460,26 @@
       "timestamp_utc": "2026-06-12T23:42:12+00:00",
       "raw_text": "Bitcoin rally to $70K builds as orderbook structure highlights traders’ confidence\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin rally to $70K builds as orderbook structure highlights traders’ confidence\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.",
       "impact": {}
-    },
-    {
-      "event_id": "dff701fa-3c9f-453b-8ea8-bab4f0b8c44f",
-      "source": "rss:theblock",
-      "title": "CFTC sues New Mexico in latest bid to assert authority over sports betting markets",
-      "url": "https://www.theblock.co/post/404674/cftc-sues-new-mexico-latest-bid-assert-authority-sports-betting-markets?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-12T20:37:49+00:00",
-      "raw_text": "CFTC sues New Mexico in latest bid to assert authority over sports betting markets\n\n<p>New Mexico is the next state in the CFTC's crosshairs as the fight continues over regulatory jurisdiction over sports betting. </p>\n\n<p>New Mexico is the next state in the CFTC's crosshairs as the fight continues ",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 102,
+        "avg_1h": -0.2,
+        "avg_24h": -1.9,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 200,
         "avg_1h": -0.14,
-        "avg_24h": -1.78,
+        "avg_24h": -1.39,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 173,
+        "count": 172,
         "avg_1h": -0.23,
         "avg_24h": -0.41,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 101,
-        "avg_1h": -0.2,
-        "avg_24h": -1.9,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
