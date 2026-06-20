@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-06-20T16:44:14.269344+00:00",
+  "generated_at": "2026-06-20T18:43:18.861223+00:00",
   "events": [
+    {
+      "event_id": "756ecaf7-0b56-48a8-b14b-5bbf1e293c74",
+      "source": "rss:decrypt",
+      "title": "OpenRouter's Fusion Promises Claude Fable-Level AI for Cheap—Right as Fable 5 Goes Dark",
+      "url": "https://decrypt.co/371711/openrouter-fusion-claude-fable-level-ai-cheap",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-20T18:01:04+00:00",
+      "raw_text": "OpenRouter's Fusion Promises Claude Fable-Level AI for Cheap—Right as Fable 5 Goes Dark\n\nOpenRouter's compound-model API stacks budget AI models—and beat GPT-5.5 and Claude Opus 4.8 outright in benchmark testing.",
+      "impact": {}
+    },
+    {
+      "event_id": "10f8e0a0-d7a8-407c-8af3-2e423ecdf0af",
+      "source": "rss:theblock",
+      "title": "Andre Cronje, two others resign from Sonic Labs board as S token trades 97% below its peak",
+      "url": "https://www.theblock.co/post/405450/andre-cronje-two-others-resign-from-sonic-labs-board-as-s-token-trades-97-below-its-peak?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-20T16:01:05+00:00",
+      "raw_text": "Andre Cronje, two others resign from Sonic Labs board as S token trades 97% below its peak\n\n<p>Sonic Labs said the three \"remain invested in Sonic's success\" but will no longer make business decisions for the Layer 1 network, formerly Fantom.</p>\n\n<p>Sonic Labs said the three \"remain invested in Son",
+      "impact": {}
+    },
     {
       "event_id": "ec331e13-a0f1-4de1-945d-8bf75541160f",
       "source": "rss:coindesk",
@@ -6436,48 +6460,24 @@
       "timestamp_utc": "2026-06-13T06:02:05+00:00",
       "raw_text": "Anthropic's pre-IPO shares fall as US government shuts down its most powerful AI model",
       "impact": {}
-    },
-    {
-      "event_id": "688cbfff-a7d5-462d-b2b5-e65df87bc3b6",
-      "source": "rss:coindesk",
-      "title": "Bitcoin steadies above $63,000 as its worst week in months got a late macro rescue",
-      "url": "https://www.coindesk.com/markets/2026/06/13/bitcoin-steady-above-usd63-000-as-its-worst-week-in-months-got-a-late-macro-rescue",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-13T05:46:38+00:00",
-      "raw_text": "Bitcoin steadies above $63,000 as its worst week in months got a late macro rescue",
-      "impact": {}
-    },
-    {
-      "event_id": "fba9d7eb-a945-4bd0-a8ea-02c4ea0857ae",
-      "source": "rss:coindesk",
-      "title": "SpaceX IPO scramble reveals difference between tokenizing a stock and getting one",
-      "url": "https://www.coindesk.com/tech/2026/06/13/spacex-ipo-scramble-reveals-difference-between-tokenizing-a-stock-and-getting-one",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-13T05:16:10+00:00",
-      "raw_text": "SpaceX IPO scramble reveals difference between tokenizing a stock and getting one",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 176,
+        "avg_1h": -0.2,
+        "avg_24h": -0.52,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 102,
         "avg_1h": -0.2,
         "avg_24h": -1.03,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 174,
-        "avg_1h": -0.2,
-        "avg_24h": -0.52,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 198,
+        "count": 196,
         "avg_1h": -0.14,
         "avg_24h": -1.39,
         "win_rate_1h_gt5pct": 0.0
