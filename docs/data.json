@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-06-20T11:24:46.948145+00:00",
+  "generated_at": "2026-06-20T14:27:10.061613+00:00",
   "events": [
+    {
+      "event_id": "eb99d98f-2163-4c13-ac13-ca5c182e03d2",
+      "source": "rss:coindesk",
+      "title": "How STRC lost its par: The timeline behind Strategy's preferred-stock meltdown",
+      "url": "https://www.coindesk.com/markets/2026/06/20/how-strc-lost-its-par-the-timeline-behind-strategy-s-preferred-stock-meltdown",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-20T13:00:00+00:00",
+      "raw_text": "How STRC lost its par: The timeline behind Strategy's preferred-stock meltdown",
+      "impact": {}
+    },
+    {
+      "event_id": "2ea84165-71eb-4da2-9421-47a324d0f6f7",
+      "source": "rss:cointelegraph",
+      "title": "Pudgy Penguins expands retail footprint with Target trading card rollout",
+      "url": "https://cointelegraph.com/news/pudgy-penguins-expands-retail-footprint-with-target-trading-card-rollout?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-20T11:49:02+00:00",
+      "raw_text": "Pudgy Penguins expands retail footprint with Target trading card rollout\n\nThe NFT-born franchise is bringing its Vibes Series 3 trading cards to Target stores across the United States as it expands into physical products and mainstream retail.",
+      "impact": {}
+    },
     {
       "event_id": "eec1889c-6e0d-4c18-abc9-a88a3b995b63",
       "source": "rss:cointelegraph",
@@ -518,7 +542,8 @@
         "t_plus_5m": -0.4075,
         "t_plus_15m": -0.2823,
         "t_plus_1h": -0.1856,
-        "t_plus_4h": 0.9497
+        "t_plus_4h": 0.9497,
+        "t_plus_24h": 1.5671
       }
     },
     {
@@ -6436,50 +6461,26 @@
       "timestamp_utc": "2026-06-13T02:17:55+00:00",
       "raw_text": "Major crypto exchanges cancel SpaceX IPO allocations, promising refunds\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Major crypto exchanges cancel SpaceX IPO allocations, promising refunds\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM",
       "impact": {}
-    },
-    {
-      "event_id": "8283b689-a9a0-46e1-8a34-db558ae3c968",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin’s ‘calm top’ challenges most market bottom estimates: Research",
-      "url": "https://cointelegraph.com/markets/bitcoins-calm-top-challenges-old-bottom-targets-what-traders-need-to-know?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-13T00:51:36+00:00",
-      "raw_text": "Bitcoin’s ‘calm top’ challenges most market bottom estimates: Research\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin’s ‘calm top’ challenges most market bottom estimates: Research\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6L",
-      "impact": {}
-    },
-    {
-      "event_id": "04b1b758-8a3c-466c-8892-8495fcd861f1",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin rally to $70K builds as orderbook structure highlights traders’ confidence",
-      "url": "https://cointelegraph.com/markets/bitcoin-data-points-to-a-relief-rally-as-order-book-demand-targets-70k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-12T23:42:12+00:00",
-      "raw_text": "Bitcoin rally to $70K builds as orderbook structure highlights traders’ confidence\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin rally to $70K builds as orderbook structure highlights traders’ confidence\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 102,
-        "avg_1h": -0.2,
-        "avg_24h": -1.9,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 200,
+        "count": 199,
         "avg_1h": -0.14,
         "avg_24h": -1.39,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 172,
+        "count": 173,
         "avg_1h": -0.23,
         "avg_24h": -0.41,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 102,
+        "avg_1h": -0.2,
+        "avg_24h": -1.03,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
