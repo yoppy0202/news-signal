@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-20T22:19:48.346923+00:00",
+  "generated_at": "2026-06-21T00:19:28.345007+00:00",
   "events": [
+    {
+      "event_id": "7bbc2d5c-c6be-406c-a6de-da54e44f97fa",
+      "source": "rss:theblock",
+      "title": "Secret Network’s Axelar bridge drained for $4.67 million in infinite-mint exploit that went unnoticed for seven days",
+      "url": "https://www.theblock.co/post/405459/secret-networks-axelar-bridge-drained-for-4-67-million-in-infinite-mint-exploit-that-went-unnoticed-for-seven-days?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-20T21:57:05+00:00",
+      "raw_text": "Secret Network’s Axelar bridge drained for $4.67 million in infinite-mint exploit that went unnoticed for seven days\n\n<p>Secret Network says about $770,000 of the stolen funds still sits in the attacker's Axelar wallet, and that Axelar declined its request to freeze it.</p>\n\n<p>Secret Network says a",
+      "impact": {}
+    },
     {
       "event_id": "754f46ef-2c3f-4770-be3b-581913056574",
       "source": "rss:cointelegraph",
@@ -147,6 +159,18 @@
       "impact": {}
     },
     {
+      "event_id": "63330738-0bca-4fa2-b7b8-3a22946a42b7",
+      "source": "rss:cointelegraph",
+      "title": "Sonic token drops 5% as 3 former execs resign from Sonic Labs board",
+      "url": "https://cointelegraph.com/news/s-token-drops-5-as-3-former-execs-resign-from-sonic-labs-board?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-20T01:41:39+00:00",
+      "raw_text": "Sonic token drops 5% as 3 former execs resign from Sonic Labs board\n\nAndre Cronje, Michael Kong and David Richardson stepped down from the Sonic Labs board on Friday, while Matt Visser has been appointed as CEO, replacing Mitchell Demeter who resigned in February.",
+      "impact": {}
+    },
+    {
       "event_id": "b86bb4ad-be29-4b1c-9bc4-461ac9c5c187",
       "source": "rss:cointelegraph",
       "title": "S token drops 5% as 3 former execs resign from Sonic Labs board",
@@ -186,7 +210,8 @@
         "t_plus_5m": 0.097,
         "t_plus_15m": 0.261,
         "t_plus_1h": -0.0487,
-        "t_plus_4h": 0.7188
+        "t_plus_4h": 0.7188,
+        "t_plus_24h": 1.2385
       }
     },
     {
@@ -6436,42 +6461,16 @@
       "timestamp_utc": "2026-06-13T11:52:41+00:00",
       "raw_text": "Morpho's $175M raise shows where crypto VC money is flowing\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Morpho's $175M raise shows where crypto VC money is flowing\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWR",
       "impact": {}
-    },
-    {
-      "event_id": "68b35c3b-80d3-4cad-8376-dd121d352640",
-      "source": "rss:coindesk",
-      "title": "Ripple wants AI agents to pay in XRP and RLUSD. The market is still mostly USDC",
-      "url": "https://www.coindesk.com/tech/2026/06/11/ripple-wants-ai-agents-to-pay-in-xrp-and-rlusd-the-market-is-still-mostly-usdc",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-06-13T11:30:00+00:00",
-      "raw_text": "Ripple wants AI agents to pay in XRP and RLUSD. The market is still mostly USDC",
-      "impact": {
-        "t_plus_5m": -0.2319,
-        "t_plus_15m": -0.285,
-        "t_plus_1h": -0.0443,
-        "t_plus_4h": 0.4578,
-        "t_plus_24h": -0.6164
-      }
-    },
-    {
-      "event_id": "8a27f6e5-4be5-4d66-8787-973ef4194d82",
-      "source": "rss:coindesk",
-      "title": "Top cryptographers can't agree on Bitcoin's biggest quantum question",
-      "url": "https://www.coindesk.com/tech/2026/06/13/top-cryptographers-can-t-agree-on-bitcoin-s-biggest-quantum-question",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-13T06:07:00+00:00",
-      "raw_text": "Top cryptographers can't agree on Bitcoin's biggest quantum question",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 13,
+        "avg_1h": -0.24,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 197,
         "avg_1h": -0.13,
@@ -6485,21 +6484,15 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 174,
-        "avg_1h": -0.2,
-        "avg_24h": -0.52,
+        "count": 173,
+        "avg_1h": -0.21,
+        "avg_24h": -0.36,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
         "count": 11,
         "avg_1h": 0.06,
         "avg_24h": 0.68,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 12,
-        "avg_1h": -0.24,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
