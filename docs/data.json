@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-06-21T06:16:25.350677+00:00",
+  "generated_at": "2026-06-21T10:41:29.013812+00:00",
   "events": [
+    {
+      "event_id": "f18707a1-efe3-41df-851d-65c0a6b64760",
+      "source": "rss:coindesk",
+      "title": "Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit",
+      "url": "https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-21T07:12:35+00:00",
+      "raw_text": "Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit",
+      "impact": {}
+    },
+    {
+      "event_id": "848b9ef2-aee8-421d-99ef-7664a3d1fbbc",
+      "source": "rss:coindesk",
+      "title": "Bitcoin holds near $64,000 as a renewed Hormuz threat clouds US-Iran ceasefire talks",
+      "url": "https://www.coindesk.com/markets/2026/06/21/bitcoin-holds-near-usd64-000-as-a-renewed-hormuz-threat-clouds-us-iran-ceasefire-talks",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-21T06:46:28+00:00",
+      "raw_text": "Bitcoin holds near $64,000 as a renewed Hormuz threat clouds US-Iran ceasefire talks",
+      "impact": {}
+    },
+    {
+      "event_id": "ee26cfdf-f23b-4816-82a7-ec9b1bfd704a",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin ETFs shed record $6.4B in 30 days amid crypto winter chill",
+      "url": "https://cointelegraph.com/news/bitcoin-etfs-shed-a-record-64b-in-30-days-as-bitcoin-shivers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "listing",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-21T04:30:00+00:00",
+      "raw_text": "Bitcoin ETFs shed record $6.4B in 30 days amid crypto winter chill\n\nUS-listed spot Bitcoin exchange-traded funds saw their biggest 30-day net outflow since launching in 2024, coming as Bitcoin fell 17% over the past month.",
+      "impact": {}
+    },
     {
       "event_id": "9e78bd28-9b80-4ad5-89fa-d9a0616ca711",
       "source": "rss:cointelegraph",
@@ -157,6 +193,18 @@
       "tokens": [],
       "timestamp_utc": "2026-06-20T07:05:20+00:00",
       "raw_text": "Philippine SEC signals readiness for RWA tokenization\n\nPhilippine SEC Commissioner Rogelio Quevedo told Cointelegraph that tokenized assets could give Filipinos more legitimate investment options while helping steer them away from scams.",
+      "impact": {}
+    },
+    {
+      "event_id": "d5baee94-45ec-4beb-b1d5-22b153bf9762",
+      "source": "rss:cointelegraph",
+      "title": "Crypto kidnappers who robbed Minnesota family of $8M plead guilty",
+      "url": "https://cointelegraph.com/news/crypto-kidnappers-who-robbed-a-minnesota-family-of-8m-plead-guilty?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-20T05:12:43+00:00",
+      "raw_text": "Crypto kidnappers who robbed Minnesota family of $8M plead guilty\n\nTwo Texas brothers admitted to holding a Minnesota family at gunpoint and forcing the transfer of $8 million in cryptocurrency.",
       "impact": {}
     },
     {
@@ -6414,68 +6462,26 @@
       "timestamp_utc": "2026-06-13T14:00:00+00:00",
       "raw_text": "Perpetual futures could become crypto's next ETF moment",
       "impact": {}
-    },
-    {
-      "event_id": "bcb49710-3358-49db-8552-9d1cfedad8be",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin sales are necessary for Strategy's digital credit business, Saylor says",
-      "url": "https://cointelegraph.com/news/saylor-strategys-bitcoin-sale-defend-digital-credit-products?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-13T13:58:24+00:00",
-      "raw_text": "Bitcoin sales are necessary for Strategy's digital credit business, Saylor says\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin sales are necessary for Strategy's digital credit business, Saylor says\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/im",
-      "impact": {}
-    },
-    {
-      "event_id": "a532dcc6-f057-4121-9bb5-3130e04e74ca",
-      "source": "rss:coindesk",
-      "title": "Saylor to Musk: Thanks to you, 25% of 'Mag8' firms now hold bitcoin",
-      "url": "https://www.coindesk.com/markets/2026/06/13/saylor-to-musk-thanks-to-you-25-of-mag8-firms-now-hold-bitcoin",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-13T13:05:40+00:00",
-      "raw_text": "Saylor to Musk: Thanks to you, 25% of 'Mag8' firms now hold bitcoin",
-      "impact": {}
-    },
-    {
-      "event_id": "8f8ec333-acc4-47d0-8bea-6ef6ca236077",
-      "source": "rss:decrypt",
-      "title": "AI Agent Rekts Dev on Bogus Scan, Leaves Them Begging for Crypto Donations",
-      "url": "https://decrypt.co/370988/ai-agent-rekts-dev-bogus-scan-crypto-donations",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-13T13:01:06+00:00",
-      "raw_text": "AI Agent Rekts Dev on Bogus Scan, Leaves Them Begging for Crypto Donations\n\nA hobbyist network handed an autonomous agent a masterclass in why you don't give AI a credit card and a deadline.",
-      "impact": {}
-    },
-    {
-      "event_id": "6eaaf995-aaaa-4cb5-8502-67a1dc1bfc9e",
-      "source": "rss:coindesk",
-      "title": "Crypto should adopt the best of centralization, says LMAX CEO",
-      "url": "https://www.coindesk.com/business/2026/06/09/crypto-should-adopt-the-best-of-centralization-says-lmax-ceo",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-13T13:00:00+00:00",
-      "raw_text": "Crypto should adopt the best of centralization, says LMAX CEO",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "hack": {
-        "count": 14,
+        "count": 15,
         "avg_1h": -0.24,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 197,
+        "count": 196,
         "avg_1h": -0.13,
         "avg_24h": -1.39,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "listing": {
+        "count": 12,
+        "avg_1h": 0.06,
+        "avg_24h": 0.68,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
@@ -6485,15 +6491,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 172,
+        "count": 171,
         "avg_1h": -0.21,
         "avg_24h": -0.36,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "listing": {
-        "count": 11,
-        "avg_1h": 0.06,
-        "avg_24h": 0.68,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
