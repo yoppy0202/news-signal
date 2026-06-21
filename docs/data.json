@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-21T21:39:23.148719+00:00",
+  "generated_at": "2026-06-21T23:41:11.149029+00:00",
   "events": [
+    {
+      "event_id": "3c397d54-47d8-46d5-bc80-6dc997264f37",
+      "source": "rss:theblock",
+      "title": "Polymarket paid creators to stage fake winning bets on dummy sites: WSJ",
+      "url": "https://www.theblock.co/post/405471/polymarket-paid-creators-to-stage-fake-winning-bets-on-dummy-sites-wsj?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-21T22:42:56+00:00",
+      "raw_text": "Polymarket paid creators to stage fake winning bets on dummy sites: WSJ\n\n<p>The Journal reviewed more than 1,100 videos and found none of the roughly $1.9 million in bets shown in influencer-produced hype videos were real.</p>\n\n<p>The Journal reviewed more than 1,100 videos and found none of the rou",
+      "impact": {}
+    },
     {
       "event_id": "51f379ab-77e3-46f1-9534-b9e3cea113fb",
       "source": "rss:theblock",
@@ -6474,32 +6486,20 @@
       "timestamp_utc": "2026-06-13T20:04:46+00:00",
       "raw_text": "Venice and Morpheus tokens climb as US ban on Anthropic’s Fable 5 fuels ‘permissionless AI’ pitch\n\n<p>Venice founder Erik Voorhees and the official Morpheus account seized on the shutdown, casting it as proof of \"permissionless\" AI's use case.</p>\n\n<p>Venice founder Erik Voorhees and the official Mo",
       "impact": {}
-    },
-    {
-      "event_id": "377a75ae-4ad5-4eaf-9b6d-3ef2d7cc77cf",
-      "source": "rss:decrypt",
-      "title": "US Government Orders Anthropic to Pull Claude Fable, Mythos AI Models",
-      "url": "https://decrypt.co/371027/us-government-orders-anthropic-pull-claude-fable-mythos-ai-models",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-13T19:23:34+00:00",
-      "raw_text": "US Government Orders Anthropic to Pull Claude Fable, Mythos AI Models\n\nAnthropic pushed back against what it described as an overreach, saying the vulnerability cited is already widespread across the industry.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 197,
-        "avg_1h": -0.14,
-        "avg_24h": -1.09,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
         "count": 172,
         "avg_1h": -0.2,
         "avg_24h": -0.32,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 197,
+        "avg_1h": -0.14,
+        "avg_24h": -1.09,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
