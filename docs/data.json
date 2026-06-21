@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-21T19:58:50.373171+00:00",
+  "generated_at": "2026-06-21T21:39:23.148719+00:00",
   "events": [
+    {
+      "event_id": "51f379ab-77e3-46f1-9534-b9e3cea113fb",
+      "source": "rss:theblock",
+      "title": "Fentanyl-linked Chinese network tied to crypto fraud from Japan involving fake ‘Zksync.jp’ token: Nikkei",
+      "url": "https://www.theblock.co/post/405468/fentanyl-linked-chinese-network-tied-to-crypto-fraud-from-japan-involving-fake-zksync-jp-token-nikkei?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-21T20:06:58+00:00",
+      "raw_text": "Fentanyl-linked Chinese network tied to crypto fraud from Japan involving fake ‘Zksync.jp’ token: Nikkei\n\n<p>The linked criminal group allegedly distributed a scam token under the name \"zksync.jp\" to deceive crypto users worldwide, with losses of over $1 million. </p>\n\n<p>The linked criminal group a",
+      "impact": {}
+    },
     {
       "event_id": "5b6747a7-5064-49d8-9526-2f9b9dc52ba7",
       "source": "rss:coindesk",
@@ -52,7 +64,8 @@
       "impact": {
         "t_plus_5m": -0.1948,
         "t_plus_15m": 0.0435,
-        "t_plus_1h": 0.128
+        "t_plus_1h": 0.128,
+        "t_plus_4h": -0.0407
       }
     },
     {
@@ -198,7 +211,8 @@
         "t_plus_5m": -0.7007,
         "t_plus_15m": -0.6446,
         "t_plus_1h": -0.5747,
-        "t_plus_4h": -0.0845
+        "t_plus_4h": -0.0845,
+        "t_plus_24h": -0.1718
       }
     },
     {
@@ -217,7 +231,8 @@
         "t_plus_5m": -0.0647,
         "t_plus_15m": -0.0083,
         "t_plus_1h": 0.0621,
-        "t_plus_4h": 0.5554
+        "t_plus_4h": 0.5554,
+        "t_plus_24h": 0.4676
       }
     },
     {
@@ -6471,18 +6486,6 @@
       "timestamp_utc": "2026-06-13T19:23:34+00:00",
       "raw_text": "US Government Orders Anthropic to Pull Claude Fable, Mythos AI Models\n\nAnthropic pushed back against what it described as an overreach, saying the vulnerability cited is already widespread across the industry.",
       "impact": {}
-    },
-    {
-      "event_id": "f8dfccf8-ef63-4f64-9f76-da6e6b567bfd",
-      "source": "rss:theblock",
-      "title": "Coinbase quantum report flags exchange cold wallets among millions of bitcoin exposed by address reuse",
-      "url": "https://www.theblock.co/post/404685/coinbase-quantum-report-flags-exchange-cold-wallets-among-millions-of-bitcoin-exposed-by-address-reuse?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-13T18:21:35+00:00",
-      "raw_text": "Coinbase quantum report flags exchange cold wallets among millions of bitcoin exposed by address reuse\n\n<p>The report lays out possible solutions to the abandoned coins problem, such as setting a deadline for migration and then freezing vulnerable coins. </p>\n\n<p>The report lays out possible solutio",
-      "impact": {}
     }
   ],
   "stats": {
@@ -6490,7 +6493,7 @@
       "unknown": {
         "count": 197,
         "avg_1h": -0.14,
-        "avg_24h": -1.39,
+        "avg_24h": -1.09,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
