@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-21T17:49:23.528013+00:00",
+  "generated_at": "2026-06-21T19:58:50.373171+00:00",
   "events": [
+    {
+      "event_id": "5b6747a7-5064-49d8-9526-2f9b9dc52ba7",
+      "source": "rss:coindesk",
+      "title": "Are perps swaps? A quick look at that CME suit: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/06/21/are-perps-swaps-a-quick-look-at-that-cme-suit-state-of-crypto",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-21T18:30:00+00:00",
+      "raw_text": "Are perps swaps? A quick look at that CME suit: State of Crypto",
+      "impact": {}
+    },
     {
       "event_id": "631f254d-1291-4732-a1e3-fb4487464cdc",
       "source": "rss:decrypt",
@@ -6471,22 +6483,16 @@
       "timestamp_utc": "2026-06-13T18:21:35+00:00",
       "raw_text": "Coinbase quantum report flags exchange cold wallets among millions of bitcoin exposed by address reuse\n\n<p>The report lays out possible solutions to the abandoned coins problem, such as setting a deadline for migration and then freezing vulnerable coins. </p>\n\n<p>The report lays out possible solutio",
       "impact": {}
-    },
-    {
-      "event_id": "dca51fec-8284-42c8-879e-3eac8715e7e9",
-      "source": "rss:coindesk",
-      "title": "Crypto’s next billion-dollar hacker may move at superhuman speed",
-      "url": "https://www.coindesk.com/tech/2026/06/13/crypto-s-next-billion-dollar-hacker-may-move-at-superhuman-speed",
-      "event_type": "hack",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-13T18:00:00+00:00",
-      "raw_text": "Crypto’s next billion-dollar hacker may move at superhuman speed",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 197,
+        "avg_1h": -0.14,
+        "avg_24h": -1.39,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 172,
         "avg_1h": -0.2,
@@ -6494,7 +6500,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 16,
+        "count": 15,
         "avg_1h": -0.24,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
@@ -6503,12 +6509,6 @@
         "count": 101,
         "avg_1h": -0.2,
         "avg_24h": -1.03,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 196,
-        "avg_1h": -0.14,
-        "avg_24h": -1.39,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
