@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-21T00:19:28.345007+00:00",
+  "generated_at": "2026-06-21T06:16:25.350677+00:00",
   "events": [
+    {
+      "event_id": "9e78bd28-9b80-4ad5-89fa-d9a0616ca711",
+      "source": "rss:cointelegraph",
+      "title": "Notorious ‘sandwich attack’ bot Jaredfromsubway.eth exploited for $7.5M",
+      "url": "https://cointelegraph.com/news/notorious-sandwich-attack-bot-jaredfromsubwayeth-exploited-for-75m?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-21T00:04:47+00:00",
+      "raw_text": "Notorious ‘sandwich attack’ bot Jaredfromsubway.eth exploited for $7.5M\n\nJaredfromsubway.eth was responsible for 70% of sandwich attacks on Ethereum between November 2024 and October 2025.",
+      "impact": {}
+    },
     {
       "event_id": "7bbc2d5c-c6be-406c-a6de-da54e44f97fa",
       "source": "rss:theblock",
@@ -28,7 +40,8 @@
       "impact": {
         "t_plus_5m": -0.0647,
         "t_plus_15m": -0.0083,
-        "t_plus_1h": 0.0621
+        "t_plus_1h": 0.0621,
+        "t_plus_4h": 0.5554
       }
     },
     {
@@ -6449,24 +6462,12 @@
       "timestamp_utc": "2026-06-13T13:00:00+00:00",
       "raw_text": "Crypto should adopt the best of centralization, says LMAX CEO",
       "impact": {}
-    },
-    {
-      "event_id": "46eb8427-068d-46ec-a994-014ff10dfa8e",
-      "source": "rss:cointelegraph",
-      "title": "Morpho's $175M raise shows where crypto VC money is flowing",
-      "url": "https://cointelegraph.com/news/morphos-175m-raise-shows-where-the-last-of-the-crypto-vc-money-is-going?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-13T11:52:41+00:00",
-      "raw_text": "Morpho's $175M raise shows where crypto VC money is flowing\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Morpho's $175M raise shows where crypto VC money is flowing\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWR",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "hack": {
-        "count": 13,
+        "count": 14,
         "avg_1h": -0.24,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
@@ -6484,7 +6485,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 173,
+        "count": 172,
         "avg_1h": -0.21,
         "avg_24h": -0.36,
         "win_rate_1h_gt5pct": 0.0
