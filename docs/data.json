@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-21T16:06:38.942565+00:00",
+  "generated_at": "2026-06-21T17:49:23.528013+00:00",
   "events": [
+    {
+      "event_id": "631f254d-1291-4732-a1e3-fb4487464cdc",
+      "source": "rss:decrypt",
+      "title": "Inception Labs' Mercury 2 AI Beats Google's DiffusionGemma at Its Own Game",
+      "url": "https://decrypt.co/371722/inception-labs-mercury-2-ai-beats-googles-diffusiongemma",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-21T16:01:03+00:00",
+      "raw_text": "Inception Labs' Mercury 2 AI Beats Google's DiffusionGemma at Its Own Game\n\nBoth models trade word-by-word generation for parallel denoising. Only one of them does it without losing intelligence in the trade.",
+      "impact": {}
+    },
     {
       "event_id": "fea62ecf-2d89-4df6-b97a-11172f872b45",
       "source": "rss:theblock",
@@ -20,10 +32,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-tipped-for-66k-top-as-trader-flags-suspicious-btc-price-gains?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-21T14:50:55+00:00",
       "raw_text": "Bitcoin tipped for $66K top as trader flags 'suspicious' BTC price gains\n\nBitcoin pushed for a $64,000 reclaim despite the US-Iran war making a partial comeback and Binance spot sellers keeping up pressure from earlier in the week.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1948,
+        "t_plus_15m": 0.0435,
+        "t_plus_1h": 0.128
+      }
     },
     {
       "event_id": "54fd2b86-384a-4644-a250-c43410e900c5",
@@ -76,7 +94,8 @@
       "impact": {
         "t_plus_5m": -0.106,
         "t_plus_15m": -0.03,
-        "t_plus_1h": 0.1253
+        "t_plus_1h": 0.1253,
+        "t_plus_4h": -0.4154
       }
     },
     {
@@ -253,7 +272,8 @@
         "t_plus_5m": 0.0933,
         "t_plus_15m": 0.0537,
         "t_plus_1h": 0.3459,
-        "t_plus_4h": -0.1817
+        "t_plus_4h": -0.1817,
+        "t_plus_24h": 0.2554
       }
     },
     {
@@ -6463,32 +6483,20 @@
       "timestamp_utc": "2026-06-13T18:00:00+00:00",
       "raw_text": "Crypto’s next billion-dollar hacker may move at superhuman speed",
       "impact": {}
-    },
-    {
-      "event_id": "df8a4283-504f-49e5-8be5-5e309efc8b4c",
-      "source": "rss:coindesk",
-      "title": "Here's what SpaceX's IPO means for its $1.3 billion bitcoin reserve",
-      "url": "https://www.coindesk.com/business/2026/06/13/here-s-what-spacex-s-ipo-means-for-its-usd1-3-billion-bitcoin-reserve",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-13T17:00:16+00:00",
-      "raw_text": "Here's what SpaceX's IPO means for its $1.3 billion bitcoin reserve",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 172,
+        "avg_1h": -0.2,
+        "avg_24h": -0.32,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
         "count": 16,
         "avg_1h": -0.24,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 171,
-        "avg_1h": -0.21,
-        "avg_24h": -0.36,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
@@ -6498,7 +6506,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 197,
+        "count": 196,
         "avg_1h": -0.14,
         "avg_24h": -1.39,
         "win_rate_1h_gt5pct": 0.0
