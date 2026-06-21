@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-06-21T13:16:26.860887+00:00",
+  "generated_at": "2026-06-21T16:06:38.942565+00:00",
   "events": [
+    {
+      "event_id": "fea62ecf-2d89-4df6-b97a-11172f872b45",
+      "source": "rss:theblock",
+      "title": "Notorious ‘jaredfromsubway’ MEV bot drained for roughly $7.5 million in counter-MEV honeypot",
+      "url": "https://www.theblock.co/post/405464/notorious-jaredfromsubway-mev-bot-drained-for-roughly-7-5-million-in-counter-mev-honeypot?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-21T15:00:57+00:00",
+      "raw_text": "Notorious ‘jaredfromsubway’ MEV bot drained for roughly $7.5 million in counter-MEV honeypot\n\n<p>An X account using the bot's name claimed a $15 million loss and offered a $1 million bounty, but evidence shows it is a likely impersonator.</p>\n\n<p>An X account using the bot's name claimed a $15 milli",
+      "impact": {}
+    },
+    {
+      "event_id": "bf5aa8c8-3aa4-4745-a882-9eec22993b25",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin tipped for $66K top as trader flags 'suspicious' BTC price gains",
+      "url": "https://cointelegraph.com/markets/bitcoin-tipped-for-66k-top-as-trader-flags-suspicious-btc-price-gains?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-21T14:50:55+00:00",
+      "raw_text": "Bitcoin tipped for $66K top as trader flags 'suspicious' BTC price gains\n\nBitcoin pushed for a $64,000 reclaim despite the US-Iran war making a partial comeback and Binance spot sellers keeping up pressure from earlier in the week.",
+      "impact": {}
+    },
+    {
+      "event_id": "54fd2b86-384a-4644-a250-c43410e900c5",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin price may hit $24K if US stock market crashes by 50%, analyst warns",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-may-hit-24k-if-us-stock-market-crashes-by-50-analyst-warns?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-21T14:21:06+00:00",
+      "raw_text": "Bitcoin price may hit $24K if US stock market crashes by 50%, analyst warns\n\nBitcoin’s drop to $23,980 remains the worst-case scenario as weaker ETF flows and low US demand show big investors are still cautious.",
+      "impact": {}
+    },
+    {
+      "event_id": "f3124c4a-99b1-4293-b471-18c6e719a562",
+      "source": "rss:decrypt",
+      "title": "AI 'Amplification Spiral' May Be Causing Delusions Among Users, Study Suggests",
+      "url": "https://decrypt.co/371648/ai-amplification-spiral-causing-delusions-among-users-study",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-21T13:01:03+00:00",
+      "raw_text": "AI 'Amplification Spiral' May Be Causing Delusions Among Users, Study Suggests\n\nNew research outlines how chatbot behaviors, including personalization, mirroring, and excessive agreement, reinforce delusions.",
+      "impact": {}
+    },
+    {
+      "event_id": "cbd5467e-be85-4147-9057-3db267aff323",
+      "source": "rss:cointelegraph",
+      "title": "Dash eyes Philippines as market for crypto payments",
+      "url": "https://cointelegraph.com/news/dash-eyes-philippines-crypto-payments-market?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-21T12:25:12+00:00",
+      "raw_text": "Dash eyes Philippines as market for crypto payments\n\nDash is assessing the Philippines for a crypto payments push as regulators promote easier business registration, though industry participants say compliant market entry can still take years.",
+      "impact": {}
+    },
     {
       "event_id": "9a72a3b4-1bf8-4065-811f-4e583d7d2c2e",
       "source": "rss:cointelegraph",
@@ -8,10 +68,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-price-is-down-over-40-since-strc-launched-is-strategy-fine?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-21T10:15:57+00:00",
       "raw_text": "Bitcoin price is down over 40% since STRC launched: Is Strategy 'fine'?\n\nSTRC’s slide below par has emboldened critics, slowed Strategy’s Bitcoin buys and sparked debate over whether Michael Saylor’s BTC flywheel is still fine.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.106,
+        "t_plus_15m": -0.03,
+        "t_plus_1h": 0.1253
+      }
     },
     {
       "event_id": "77e99c8e-e8f6-478c-818f-26d8b6a31079",
@@ -92,10 +158,17 @@
       "url": "https://cointelegraph.com/markets/bitcoin-rotations-into-altcoins-collapses-have-altseasons-disappeared?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-20T19:09:21+00:00",
       "raw_text": "Bitcoin rotations into altcoins collapse: Have altseasons 'disappeared'?\n\nBTC's crypto market dominance is holding above a key support, signaling Bitcoin may keep absorbing capital from altcoins and delay a broader altseason.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.7007,
+        "t_plus_15m": -0.6446,
+        "t_plus_1h": -0.5747,
+        "t_plus_4h": -0.0845
+      }
     },
     {
       "event_id": "754f46ef-2c3f-4770-be3b-581913056574",
@@ -6402,86 +6475,20 @@
       "timestamp_utc": "2026-06-13T17:00:16+00:00",
       "raw_text": "Here's what SpaceX's IPO means for its $1.3 billion bitcoin reserve",
       "impact": {}
-    },
-    {
-      "event_id": "e3e9330d-29f6-49f4-a6f7-c358e7ab0add",
-      "source": "rss:coindesk",
-      "title": "Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.",
-      "url": "https://www.coindesk.com/opinion/2026/06/13/stablecoins-were-meant-to-disrupt-finance-instead-they-became-idle-cash",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-13T16:51:00+00:00",
-      "raw_text": "Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.",
-      "impact": {}
-    },
-    {
-      "event_id": "47112347-832c-415a-9b85-33cfbbee702d",
-      "source": "rss:coindesk",
-      "title": "Bitcoin rises above $64,000 after Pakistan prime minister says Iran peace deal is near",
-      "url": "https://www.coindesk.com/markets/2026/06/13/bitcoin-rises-above-usd64-000-after-pakistan-prime-minister-says-iran-peace-deal-is-near",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-13T16:16:54+00:00",
-      "raw_text": "Bitcoin rises above $64,000 after Pakistan prime minister says Iran peace deal is near",
-      "impact": {}
-    },
-    {
-      "event_id": "ac8f8bdc-9e30-471d-a60f-43ecf74b3522",
-      "source": "rss:decrypt",
-      "title": "Google Sues Chinese Crime Group for Allegedly Using Gemini AI for Mass Phishing Scams",
-      "url": "https://decrypt.co/371014/google-sues-chinese-crime-group-gemini-ai-phishing-scams",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-13T16:01:04+00:00",
-      "raw_text": "Google Sues Chinese Crime Group for Allegedly Using Gemini AI for Mass Phishing Scams\n\nGoogle alleges a Chinese network weaponized its Gemini AI to create phishing sites that stole millions of credit card numbers and targeted crypto investors.",
-      "impact": {}
-    },
-    {
-      "event_id": "5c4daf76-4adc-469a-a2c5-49187601e537",
-      "source": "rss:coindesk",
-      "title": "Wall Street is moving past crypto pilots and deeper into Ethereum, says Etherealize founder",
-      "url": "https://www.coindesk.com/business/2026/06/13/wall-street-is-moving-past-crypto-pilots-and-deeper-into-ethereum-says-etherealize-founder",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-13T16:00:00+00:00",
-      "raw_text": "Wall Street is moving past crypto pilots and deeper into Ethereum, says Etherealize founder",
-      "impact": {}
-    },
-    {
-      "event_id": "ebb6ff44-2338-4320-8213-0ae24be80f5c",
-      "source": "rss:coindesk",
-      "title": "Tokenization mirrors the $20 trillion ETF boom as blockchain and AI converge, Ondo exec says",
-      "url": "https://www.coindesk.com/business/2026/06/13/tokenization-mirrors-the-usd20-trillion-etf-boom-as-blockchain-and-ai-converge-ondo-exec-says",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-13T15:29:00+00:00",
-      "raw_text": "Tokenization mirrors the $20 trillion ETF boom as blockchain and AI converge, Ondo exec says",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 199,
-        "avg_1h": -0.13,
-        "avg_24h": -1.39,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 15,
+        "count": 16,
         "avg_1h": -0.24,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "listing": {
-        "count": 12,
-        "avg_1h": 0.06,
-        "avg_24h": 0.68,
+      "narrative": {
+        "count": 171,
+        "avg_1h": -0.21,
+        "avg_24h": -0.36,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
@@ -6490,10 +6497,16 @@
         "avg_24h": -1.03,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 170,
-        "avg_1h": -0.21,
-        "avg_24h": -0.36,
+      "unknown": {
+        "count": 197,
+        "avg_1h": -0.14,
+        "avg_24h": -1.39,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "listing": {
+        "count": 12,
+        "avg_1h": 0.06,
+        "avg_24h": 0.68,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
