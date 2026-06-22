@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-06-22T21:11:08.980368+00:00",
+  "generated_at": "2026-06-22T23:43:54.066796+00:00",
   "events": [
+    {
+      "event_id": "241b2c39-9672-4a75-8a2f-03dc72afc2ca",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin funding rate hits 2-week high: Is $70K next?",
+      "url": "https://cointelegraph.com/markets/bitcoin-funding-rate-hits-2-week-high-is-70k-next?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-22T22:15:51+00:00",
+      "raw_text": "Bitcoin funding rate hits 2-week high: Is $70K next?\n\nBitcoin’s funding rate and orderbook setup signal investor optimism, but ETF outflows and macro red flags could limit BTC’s short-term upside.",
+      "impact": {}
+    },
+    {
+      "event_id": "046cd419-db81-4eb9-9e34-e845018488d1",
+      "source": "rss:bitcoinmagazine",
+      "title": "Trump Signs Quantum Computing Orders — What Does This Mean For Bitcoin?",
+      "url": "https://bitcoinmagazine.com/news/trump-signs-quantum-computing-orders",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-22T21:35:38+00:00",
+      "raw_text": "Trump Signs Quantum Computing Orders — What Does This Mean For Bitcoin?\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Bernstein-Pushes-Back-on-Bitcoin-Quantum-Threat-Fears-Says-Its-Not-a-Crisis-Rep",
+      "impact": {}
+    },
+    {
+      "event_id": "c057c073-855a-4ebf-aa23-cda7d47d77a5",
+      "source": "rss:coindesk",
+      "title": "Securitize and tZERO clash over patents as race to bring Wall Street onchain heats up",
+      "url": "https://www.coindesk.com/business/2026/06/22/securitize-and-tzero-clash-over-patents-as-race-to-bring-wall-street-onchain-heats-up",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-22T21:08:50+00:00",
+      "raw_text": "Securitize and tZERO clash over patents as race to bring Wall Street onchain heats up",
+      "impact": {}
+    },
+    {
+      "event_id": "4faac16d-935e-4337-9dd9-ce5ad73de0a8",
+      "source": "rss:coindesk",
+      "title": "Ric Edelman says crypto’s biggest growth story is happening off the price chart",
+      "url": "https://www.coindesk.com/markets/2026/06/22/ric-edelman-says-crypto-s-biggest-growth-story-is-happening-off-the-price-chart",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-22T20:58:40+00:00",
+      "raw_text": "Ric Edelman says crypto’s biggest growth story is happening off the price chart",
+      "impact": {}
+    },
+    {
+      "event_id": "7b05c739-8adf-47e0-88e7-7d331cc3f41e",
+      "source": "rss:coindesk",
+      "title": "21Shares co-founder warns tokenization hype is outrunning Wall Street reality",
+      "url": "https://www.coindesk.com/markets/2026/06/22/21shares-co-founder-warns-tokenization-hype-is-outrunning-wall-street-reality",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-22T20:53:39+00:00",
+      "raw_text": "21Shares co-founder warns tokenization hype is outrunning Wall Street reality",
+      "impact": {}
+    },
+    {
+      "event_id": "99b1cd15-1d52-4fab-b56a-302de321dde6",
+      "source": "rss:decrypt",
+      "title": "Comparing Bitcoin Giant Strategy to Terra Luna Is a STRC, Benchmark Says",
+      "url": "https://decrypt.co/371814/strategy-bitcoin-strc-terra-luna-benchmark",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-22T20:45:46+00:00",
+      "raw_text": "Comparing Bitcoin Giant Strategy to Terra Luna Is a STRC, Benchmark Says\n\nThe analysts underscored that Strategy's Stretch (STRC) can't technically lose its “peg.”",
+      "impact": {}
+    },
     {
       "event_id": "622efb92-b20a-414e-baf1-08fc4953beab",
       "source": "rss:cointelegraph",
@@ -44,10 +116,15 @@
       "url": "https://decrypt.co/371811/bitmine-sharplink-joe-lubin-ethereum-research-lab-ethlabs",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-06-22T20:12:31+00:00",
       "raw_text": "BitMine, Sharplink, Joe Lubin Back New Ethereum Research and Development Lab\n\nSome of Ethereum's largest holders are coming together to fund a new research and development lab aimed at boosting the network and ETH.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0892,
+        "t_plus_15m": -0.1709
+      }
     },
     {
       "event_id": "972772f7-f6da-469c-aed5-853ce1505095",
@@ -80,10 +157,16 @@
       "url": "https://www.theblock.co/post/405694/bitmine-sharplink-and-joe-lubin-back-ethlabs-nonprofit-to-advance-ethereums-next-phase-of-growth?utm_source=rss&utm_medium=rss",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-06-22T19:39:22+00:00",
       "raw_text": "Bitmine, SharpLink and Joe Lubin back Ethlabs nonprofit to advance Ethereum’s ‘next phase’ of growth\n\n<p>Ethlabs, backed by Joe Lubin and the two largest ETH DATs, Bitmine and SharpLink, will focus on institutional adoption.</p>\n\n<p>Ethlabs, backed by Joe Lubin and the two largest ETH DATs, Bitmine ",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1186,
+        "t_plus_15m": -0.1074,
+        "t_plus_1h": -0.0204
+      }
     },
     {
       "event_id": "3f84a5f3-3225-4978-9858-07350d492c71",
@@ -128,10 +211,16 @@
       "url": "https://cointelegraph.com/markets/solana-captures-95-of-tokenized-equity-as-sol-bottom-debate-grows?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "SOL"
+      ],
       "timestamp_utc": "2026-06-22T19:17:34+00:00",
       "raw_text": "Solana grabs 95% of tokenized equity as traders debate if SOL bottom is in\n\nSolana captured 95% of tokenized equity volumes as analysts debate whether $60 was the bottom for SOL.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.081,
+        "t_plus_15m": -0.2351,
+        "t_plus_1h": -0.0079
+      }
     },
     {
       "event_id": "767c86ad-b65c-4ed7-acda-c518abd0ed09",
@@ -284,10 +373,17 @@
       "url": "https://bitcoinmagazine.com/news/bitcoin-network-activity-hit-highest-level",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-22T16:42:35+00:00",
       "raw_text": "Bitcoin Network Activity Hits Highest Level Since 2024: CryptoQuant\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Network-Activity-Hits-Highest-Level-Since-2024-CryptoQuant-.jpg\" style=\"dis",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1933,
+        "t_plus_15m": 0.4016,
+        "t_plus_1h": -0.0497,
+        "t_plus_4h": 0.0104
+      }
     },
     {
       "event_id": "ac2e02a6-3850-47f1-8c2e-cc1f1fb762b4",
@@ -356,10 +452,17 @@
       "url": "https://cointelegraph.com/markets/bitcoin-price-taps-655k-as-iran-deal-sees-oil-drop-toward-16-week-low?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-22T15:48:49+00:00",
       "raw_text": "Bitcoin price taps $65.5K as Iran deal sees oil drop toward 16-week low\n\nBitcoin sought a breakout toward a potential BTC price target near $70,000 as Iran news sent oil toward its lowest levels since early March.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.581,
+        "t_plus_15m": 0.3708,
+        "t_plus_1h": 0.1933,
+        "t_plus_4h": -0.255
+      }
     },
     {
       "event_id": "61fe9018-32fd-4b85-96e7-2d3fe6edab7f",
@@ -6339,116 +6442,32 @@
       "timestamp_utc": "2026-06-15T18:14:07+00:00",
       "raw_text": "Hyperliquid loses Anthropic, OpenAI markets as creator shuts down project",
       "impact": {}
-    },
-    {
-      "event_id": "46fae459-1968-4d18-ac53-0346f8d26f59",
-      "source": "rss:theblock",
-      "title": "‘There’s room for win-win outcomes’: Largest Solana treasury firm Forward looks to acquire smaller SOL DATs",
-      "url": "https://www.theblock.co/post/404792/win-win-outcomes-solana-treasury-forward-acquire-sol-dats?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "SOL"
-      ],
-      "timestamp_utc": "2026-06-15T17:59:08+00:00",
-      "raw_text": "‘There’s room for win-win outcomes’: Largest Solana treasury firm Forward looks to acquire smaller SOL DATs\n\n<p>Forward Industries is offering to acquire Solana DAT competitors at a premium as their mNAVs slip along with the declining price of SOL.</p>\n\n<p>Forward Industries is offering to acquire S",
-      "impact": {
-        "t_plus_5m": 0.0121,
-        "t_plus_15m": 0.1505,
-        "t_plus_1h": 0.1769,
-        "t_plus_4h": -0.9289,
-        "t_plus_24h": -1.9639
-      }
-    },
-    {
-      "event_id": "6f866e08-a318-40a7-83fa-2f73251863ea",
-      "source": "rss:decrypt",
-      "title": "Anthropic Faces Lawsuit Over Allegedly Misleading Claude AI Pricing",
-      "url": "https://decrypt.co/371201/anthropic-lawsuit-allegedly-misleading-claude-ai-pricing",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-15T17:57:48+00:00",
-      "raw_text": "Anthropic Faces Lawsuit Over Allegedly Misleading Claude AI Pricing\n\nA class action lawsuit alleges Anthropic overstated the usage limits of its Claude Max subscription plans and misled customers about savings.",
-      "impact": {}
-    },
-    {
-      "event_id": "04b0b207-d907-4284-8da7-5015ad7631c4",
-      "source": "rss:cointelegraph",
-      "title": "BitMine boosts ETH holdings closer to $10B as bear market accumulation continues",
-      "url": "https://cointelegraph.com/news/bitmine-eth-holdings-near-10b-bear-market-accumulation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-06-15T17:55:11+00:00",
-      "raw_text": "BitMine boosts ETH holdings closer to $10B as bear market accumulation continues\n\nBitMine continued buying Ether through the market downturn, growing its stake to nearly 5% of the circulating supply while generating staking yield amid mounting ecosystem challenges.",
-      "impact": {
-        "t_plus_24h": -0.2405
-      }
-    },
-    {
-      "event_id": "7a92a44e-44db-48aa-9f6e-1dd127ec2f00",
-      "source": "rss:cointelegraph",
-      "title": "Kraken rolls out perpetual futures for US traders through CFTC-regulated venue",
-      "url": "https://cointelegraph.com/news/kraken-launches-perpetual-futures-for-us-traders-through-cftc-regulated-venue?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-15T17:53:15+00:00",
-      "raw_text": "Kraken rolls out perpetual futures for US traders through CFTC-regulated venue\n\nThe offering follows Kraken's acquisition of Bitnomial and comes amid a broader push to bring crypto derivatives trading onshore.",
-      "impact": {}
-    },
-    {
-      "event_id": "617bba3b-9742-467d-b772-9e20be9eb601",
-      "source": "rss:decrypt",
-      "title": "Solana Treasury Firm Forward Industries Keeps Trying to Acquire Rivals—But Nobody's Biting",
-      "url": "https://decrypt.co/371198/solana-treasury-firm-forward-industries-trying-acquire-rivals",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-15T17:30:29+00:00",
-      "raw_text": "Solana Treasury Firm Forward Industries Keeps Trying to Acquire Rivals—But Nobody's Biting\n\nForward Industries has been unsuccessful on all three recent attempts to combine with rival publicly traded Solana treasury firms.",
-      "impact": {}
-    },
-    {
-      "event_id": "04ec256a-40e8-45c1-8333-54f905473e8a",
-      "source": "rss:theblock",
-      "title": "IREN enters Europe with acquisition of Spanish AI data center developer Nostrum",
-      "url": "https://www.theblock.co/post/404783/iren-enters-europe-acquisition-spanish-ai-data-center-developer-nostrum?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-15T16:46:17+00:00",
-      "raw_text": "IREN enters Europe with acquisition of Spanish AI data center developer Nostrum\n\n<p>IREN now has AI infrastructure projects in the works across multiple continents as it expands beyond bitcoin mining.</p>\n\n<p>IREN now has AI infrastructure projects in the works across multiple continents as it expan",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 166,
-        "avg_1h": 0.01,
-        "avg_24h": -0.58,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 204,
-        "avg_1h": -0.15,
-        "avg_24h": -0.43,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 103,
+        "count": 105,
         "avg_1h": -0.24,
         "avg_24h": 1.57,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 17,
+        "count": 18,
         "avg_1h": -0.24,
         "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 205,
+        "avg_1h": -0.12,
+        "avg_24h": -0.46,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 162,
+        "avg_1h": -0.0,
+        "avg_24h": -0.35,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
