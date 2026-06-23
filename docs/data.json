@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-06-22T23:43:54.066796+00:00",
+  "generated_at": "2026-06-23T04:17:30.784411+00:00",
   "events": [
+    {
+      "event_id": "945e1b04-f9f1-43f4-bbef-68c124879c8a",
+      "source": "rss:theblock",
+      "title": "TurboFlow, aiming to be the ‘Kalshi of APAC,’ raises $6 million seed led by Pantera Capital",
+      "url": "https://www.theblock.co/post/405706/turboflow-funding-crypto-pantera-capital?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-23T00:00:02+00:00",
+      "raw_text": "TurboFlow, aiming to be the ‘Kalshi of APAC,’ raises $6 million seed led by Pantera Capital\n\n<p>The platform offers prediction markets and perpetual futures and aims to be a localized alternative to Kalshi and Polymarket for Asian users.</p>\n\n<p>The platform offers prediction markets and perpetual f",
+      "impact": {}
+    },
+    {
+      "event_id": "9348205f-c1c9-4d52-ac48-3ecf71bac58f",
+      "source": "rss:coindesk",
+      "title": "U.S. Senate passes housing bill that carries four-year ban on a Fed CBDC",
+      "url": "https://www.coindesk.com/policy/2026/06/22/u-s-senate-passes-housing-bill-that-carries-four-year-ban-on-a-fed-cbdc",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-22T23:01:15+00:00",
+      "raw_text": "U.S. Senate passes housing bill that carries four-year ban on a Fed CBDC",
+      "impact": {}
+    },
     {
       "event_id": "241b2c39-9672-4a75-8a2f-03dc72afc2ca",
       "source": "rss:cointelegraph",
@@ -8,10 +32,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-funding-rate-hits-2-week-high-is-70k-next?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-22T22:15:51+00:00",
       "raw_text": "Bitcoin funding rate hits 2-week high: Is $70K next?\n\nBitcoin’s funding rate and orderbook setup signal investor optimism, but ETF outflows and macro red flags could limit BTC’s short-term upside.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0561,
+        "t_plus_15m": -0.2595,
+        "t_plus_1h": -0.3953
+      }
     },
     {
       "event_id": "046cd419-db81-4eb9-9e34-e845018488d1",
@@ -20,10 +50,16 @@
       "url": "https://bitcoinmagazine.com/news/trump-signs-quantum-computing-orders",
       "event_type": "hack",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-22T21:35:38+00:00",
       "raw_text": "Trump Signs Quantum Computing Orders — What Does This Mean For Bitcoin?\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Bernstein-Pushes-Back-on-Bitcoin-Quantum-Threat-Fears-Says-Its-Not-a-Crisis-Rep",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0284,
+        "t_plus_15m": 0.0066,
+        "t_plus_1h": -0.256
+      }
     },
     {
       "event_id": "c057c073-855a-4ebf-aa23-cda7d47d77a5",
@@ -123,7 +159,8 @@
       "raw_text": "BitMine, Sharplink, Joe Lubin Back New Ethereum Research and Development Lab\n\nSome of Ethereum's largest holders are coming together to fund a new research and development lab aimed at boosting the network and ETH.",
       "impact": {
         "t_plus_5m": 0.0892,
-        "t_plus_15m": -0.1709
+        "t_plus_15m": -0.1709,
+        "t_plus_1h": -0.0565
       }
     },
     {
@@ -219,7 +256,8 @@
       "impact": {
         "t_plus_5m": -0.081,
         "t_plus_15m": -0.2351,
-        "t_plus_1h": -0.0079
+        "t_plus_1h": -0.0079,
+        "t_plus_4h": -1.0092
       }
     },
     {
@@ -833,10 +871,17 @@
       "url": "https://cointelegraph.com/markets/these-xrp-price-charts-hint-at-a-potential-25-relief-rally-in-july?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-06-22T11:39:19+00:00",
       "raw_text": "These XRP price charts hint at potential 25% relief rally in July\n\nAn XRP death cross and liquidation signals align for a possible 25% relief rally in the short term, while one analyst eyes a longer-term rebound toward $8.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 1.3929,
+        "t_plus_15m": 1.4912,
+        "t_plus_1h": 1.5875,
+        "t_plus_4h": 1.3077
+      }
     },
     {
       "event_id": "b53120e3-f05d-40ff-9ce6-17cb91384f36",
@@ -6418,56 +6463,32 @@
       "timestamp_utc": "2026-06-15T18:41:24+00:00",
       "raw_text": "CFTC hires SEC crypto task force adviser with blockchain forensics chops\n\nThe CFTC staff appointment came amid the US Congress seeking to overhaul federal financial regulators’ roles over digital assets with the CLARITY Act.",
       "impact": {}
-    },
-    {
-      "event_id": "62b18597-30ab-44ec-a433-aee1de63ea86",
-      "source": "rss:decrypt",
-      "title": "Wall Street Could Boost Uniswap's Token Price Nearly 40x by 2030: Standard Chartered",
-      "url": "https://decrypt.co/371207/wall-street-boost-uniswap-token-price-40x-2030-standard-chartered",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-15T18:37:57+00:00",
-      "raw_text": "Wall Street Could Boost Uniswap's Token Price Nearly 40x by 2030: Standard Chartered\n\nUniswap’s native token UNI is set to surge nearly fortyfold in the coming years as Wall Street migrates on-chain, Standard Chartered said.",
-      "impact": {}
-    },
-    {
-      "event_id": "87d17063-fc9c-4aed-ac37-6657c7f794d8",
-      "source": "rss:coindesk",
-      "title": "Hyperliquid loses Anthropic, OpenAI markets as creator shuts down project",
-      "url": "https://www.coindesk.com/business/2026/06/15/hyperliquid-loses-anthropic-openai-markets-as-creator-shuts-down-project",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-15T18:14:07+00:00",
-      "raw_text": "Hyperliquid loses Anthropic, OpenAI markets as creator shuts down project",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 161,
+        "avg_1h": -0.0,
+        "avg_24h": -0.35,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 105,
-        "avg_1h": -0.24,
+        "count": 106,
+        "avg_1h": -0.25,
         "avg_24h": 1.57,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
         "count": 18,
-        "avg_1h": -0.24,
+        "avg_1h": -0.25,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
         "count": 205,
-        "avg_1h": -0.12,
+        "avg_1h": -0.06,
         "avg_24h": -0.46,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 162,
-        "avg_1h": -0.0,
-        "avg_24h": -0.35,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
