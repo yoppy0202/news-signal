@@ -1,6 +1,102 @@
 {
-  "generated_at": "2026-06-23T08:36:02.480134+00:00",
+  "generated_at": "2026-06-23T12:13:47.470773+00:00",
   "events": [
+    {
+      "event_id": "cedf7019-1cfc-42f6-8c83-aa4a6a2e487f",
+      "source": "rss:decrypt",
+      "title": "US Senate Passes Housing Bill With Four-Year Fed CBDC Ban",
+      "url": "https://decrypt.co/371848/us-senate-passes-housing-bill-with-four-year-fed-cbdc-ban",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-23T10:23:30+00:00",
+      "raw_text": "US Senate Passes Housing Bill With Four-Year Fed CBDC Ban\n\nA bipartisan housing bill the Senate passed 85-5 Monday would block a Fed digital dollar through 2030, and now heads to the House.",
+      "impact": {}
+    },
+    {
+      "event_id": "a5bc0ac9-d6e9-4242-8f9b-0bea5b58575f",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin gets new $54K warning as BTC price hits 11-day low on Asia tech sell-off",
+      "url": "https://cointelegraph.com/markets/bitcoin-gets-new-54k-warning-as-btc-price-hits-11-day-low-on-asia-tech-sell-off?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-23T10:23:19+00:00",
+      "raw_text": "Bitcoin gets new $54K warning as BTC price hits 11-day low on Asia tech sell-off\n\nBitcoin analysis warned of \"new lows\" as Asia markets dropped up to 10% and BTC price action dipped below $62,000 for the first time in nearly two weeks.",
+      "impact": {}
+    },
+    {
+      "event_id": "2a562fb1-d5df-433d-85a6-f9eae40accc1",
+      "source": "rss:coindesk",
+      "title": "Ripple targets EU, wins preliminary MiCA approval from Luxembourg financial regulator",
+      "url": "https://www.coindesk.com/policy/2026/06/23/ripple-targets-eu-wins-preliminary-mica-approval-from-luxembourg-financial-regulator",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-23T10:17:19+00:00",
+      "raw_text": "Ripple targets EU, wins preliminary MiCA approval from Luxembourg financial regulator",
+      "impact": {}
+    },
+    {
+      "event_id": "80e9e55a-38b5-408f-a55e-3333e3894d9f",
+      "source": "rss:theblock",
+      "title": "David Bailey’s Nakamoto closes legacy healthcare clinics as bitcoin operating company pivot nears completion",
+      "url": "https://www.theblock.co/post/405755/david-baileys-nakamoto-closes-legacy-healthcare-clinics-as-bitcoin-operating-company-pivot-nears-completion?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-23T10:01:32+00:00",
+      "raw_text": "David Bailey’s Nakamoto closes legacy healthcare clinics as bitcoin operating company pivot nears completion\n\n<p>Nakamoto closed its healthcare clinics on June 19, completing a merger-linked wind-down as it pivots fully to bitcoin operations.</p>\n\n<p>Nakamoto closed its healthcare clinics on June 19",
+      "impact": {}
+    },
+    {
+      "event_id": "89e3a20d-4f7e-4e22-8222-81a33d87258a",
+      "source": "rss:cointelegraph",
+      "title": "THORChain resumes trading more than a month after $10M exploit",
+      "url": "https://cointelegraph.com/news/thorchain-resumes-trading-month-10m-exploit?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "hack",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-23T10:00:24+00:00",
+      "raw_text": "THORChain resumes trading more than a month after $10M exploit\n\nTHORChain resumed all network activity after implementing multiple security upgrades and a vault migration to fix the vulnerabilities that led to the $10.7 million exploit.",
+      "impact": {}
+    },
+    {
+      "event_id": "ce0e8472-ae30-46ef-a915-d42c2f79fb1b",
+      "source": "rss:coindesk",
+      "title": "Hut 8 to pay $2.35 million to settle investor suit over U.S. Bitcoin merger",
+      "url": "https://www.coindesk.com/markets/2026/06/23/hut-8-to-pay-usd2-35-million-to-settle-investor-suit-over-u-s-bitcoin-merger",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-23T09:57:11+00:00",
+      "raw_text": "Hut 8 to pay $2.35 million to settle investor suit over U.S. Bitcoin merger",
+      "impact": {}
+    },
+    {
+      "event_id": "31ad5aed-9a93-4ec0-bc31-433d854dcc9f",
+      "source": "rss:cointelegraph",
+      "title": "Ripple gains preliminary MiCA license ahead of July 1 EU deadline",
+      "url": "https://cointelegraph.com/news/ripple-preliminary-casp-mica-license-july-1-deadline?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-23T08:47:59+00:00",
+      "raw_text": "Ripple gains preliminary MiCA license ahead of July 1 EU deadline\n\nRipple secures preliminary CASP approval in Luxembourg ahead of July 1 MiCA deadline as companies race for EU crypto licensing.",
+      "impact": {}
+    },
+    {
+      "event_id": "8ef339b1-65d5-48ad-9986-5181d98e46b6",
+      "source": "rss:coindesk",
+      "title": "Bitcoin price has limited downside, likely near bottom, contrarian indicator suggests",
+      "url": "https://www.coindesk.com/markets/2026/06/23/bitcoin-price-has-limited-downside-likely-near-bottom-contrarian-indicator-suggests",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-23T08:24:00+00:00",
+      "raw_text": "Bitcoin price has limited downside, likely near bottom, contrarian indicator suggests",
+      "impact": {}
+    },
     {
       "event_id": "e44b8105-5c66-4576-a46a-fcbcd56e2a7b",
       "source": "rss:coindesk",
@@ -20,9 +116,27 @@
       "url": "https://www.coindesk.com/markets/2026/06/23/xrp-drifts-toward-usd1-10-support-as-traders-await-break-from-three-week-range",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-06-23T06:27:10+00:00",
       "raw_text": "XRP drifts toward $1.10 support as traders await break from three-week range",
+      "impact": {
+        "t_plus_5m": 0.005,
+        "t_plus_15m": 0.2237,
+        "t_plus_1h": 0.5332
+      }
+    },
+    {
+      "event_id": "6e85400a-7c58-43f5-812f-b9aef7f30562",
+      "source": "rss:coindesk",
+      "title": "SpaceX’s $600 billion plunge erased equivalent of nearly half of bitcoin’s market cap in 3 days",
+      "url": "https://www.coindesk.com/markets/2026/06/23/spacex-s-usd600-billion-dive-erased-nearly-half-a-bitcoin-market-cap-in-three-days",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-23T06:23:36+00:00",
+      "raw_text": "SpaceX’s $600 billion plunge erased equivalent of nearly half of bitcoin’s market cap in 3 days",
       "impact": {}
     },
     {
@@ -83,6 +197,18 @@
       "tokens": [],
       "timestamp_utc": "2026-06-23T05:15:16+00:00",
       "raw_text": "Trump signs orders to build a quantum computer and protect against the one that could break encryption",
+      "impact": {}
+    },
+    {
+      "event_id": "beae4d51-aa37-4bb9-b046-f24e0832cb59",
+      "source": "rss:cointelegraph",
+      "title": "Crypto lobby urges Congress to pass staking and mining tax bill as is",
+      "url": "https://cointelegraph.com/news/crypto-lobby-urges-congress-pass-staking-mining-tax-bill-without-changes?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-23T05:01:13+00:00",
+      "raw_text": "Crypto lobby urges Congress to pass staking and mining tax bill as is\n\nA trio of crypto lobby groups says a bill allowing staking and mining rewards to be taxed when they’re sold should be passed without further amendments.",
       "impact": {}
     },
     {
@@ -6332,150 +6458,30 @@
         "t_plus_1h": -0.2163,
         "t_plus_4h": 1.1278
       }
-    },
-    {
-      "event_id": "f292087f-f535-4465-bdae-310e46df8848",
-      "source": "rss:coindesk",
-      "title": "Profit-taking across bitcoin, ether, solana as traders wait on the Iran signing",
-      "url": "https://www.coindesk.com/markets/2026/06/16/profit-taking-across-bitcoin-ether-solana-as-traders-wait-on-the-iran-signing",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-16T04:48:31+00:00",
-      "raw_text": "Profit-taking across bitcoin, ether, solana as traders wait on the Iran signing",
-      "impact": {}
-    },
-    {
-      "event_id": "a7d76969-2e30-4e2f-aa85-dd994632d770",
-      "source": "rss:cointelegraph",
-      "title": "US government watchdog urges FDIC to coordinate on crypto oversight",
-      "url": "https://cointelegraph.com/news/us-government-watchdog-urges-fdic-coordinate-on-crypto-oversight?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-16T04:42:22+00:00",
-      "raw_text": "US government watchdog urges FDIC to coordinate on crypto oversight\n\nThe US Government Accountability Office says that regulators, including the FDIC, lack an “ongoing coordination mechanism for addressing blockchain risks.”",
-      "impact": {}
-    },
-    {
-      "event_id": "38890926-e952-4e87-9e40-c9b07035a1d3",
-      "source": "rss:cointelegraph",
-      "title": "Anthropic shutdown makes a strong case for decentralized AI: Grayscale",
-      "url": "https://cointelegraph.com/news/anthropic-shutdown-makes-a-strong-case-for-decentralized-ai-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-16T04:38:49+00:00",
-      "raw_text": "Anthropic shutdown makes a strong case for decentralized AI: Grayscale\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Anthropic shutdown makes a strong case for decentralized AI: Grayscale\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6L",
-      "impact": {}
-    },
-    {
-      "event_id": "08576e03-8609-44c8-a250-aaefe31b72c4",
-      "source": "rss:coindesk",
-      "title": "Bitcoin rises after Bank of Japan hikes interest rates to a 31-year high",
-      "url": "https://www.coindesk.com/markets/2026/06/16/bitcoin-rises-after-bank-of-japan-hikes-interest-rates-to-a-31-year-high",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-16T04:30:41+00:00",
-      "raw_text": "Bitcoin rises after Bank of Japan hikes interest rates to a 31-year high",
-      "impact": {}
-    },
-    {
-      "event_id": "5c1e60d2-16a7-4a8c-85cf-560101570546",
-      "source": "rss:cointelegraph",
-      "title": "Anthropic shutdown makes a strong case for decentralized AI: Grayscale",
-      "url": "https://cointelegraph.com/news/anthropic-shutdown-makes-a-strong-case-for-decentralized-ai-grayscale?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-16T03:38:49+00:00",
-      "raw_text": "Anthropic shutdown makes a strong case for decentralized AI: Grayscale\n\nGrayscale says decentralized AI tokens gained after the US government ordered Anthropic to cut access to its latest AI models, showing user demand for alternatives to centralized AI.",
-      "impact": {}
-    },
-    {
-      "event_id": "0ff97eb5-18dd-486c-b09a-fb8eb7cc4ced",
-      "source": "rss:cointelegraph",
-      "title": "Trump crypto company's USD1 stablecoins backing UFC event bonuses",
-      "url": "https://cointelegraph.com/news/donald-trump-crypto-company-ufc-fighter-bonuses-usd1-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-15T22:10:00+00:00",
-      "raw_text": "Trump crypto company's USD1 stablecoins backing UFC event bonuses\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump crypto company's USD1 stablecoins backing UFC event bonuses\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWF",
-      "impact": {}
-    },
-    {
-      "event_id": "9a01f99a-3fb1-4a3a-9366-e8ca7b461619",
-      "source": "rss:theblock",
-      "title": "Spot HYPE ETFs near $900 million in volume as early demand signals institutional interest",
-      "url": "https://www.theblock.co/post/404802/spot-hype-etfs-near-900-million-volume-early-demand-signals-institutional-interest?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-15T21:26:02+00:00",
-      "raw_text": "Spot HYPE ETFs near $900 million in volume as early demand signals institutional interest\n\n<p>Volume across the three products has been uneven, with BHYP and THYP accounting for the bulk of activity while HYPG continues to ramp.</p>\n\n<p>Volume across the three products has been uneven, with BHYP and",
-      "impact": {}
-    },
-    {
-      "event_id": "5b3fadb3-8ca7-4416-83a7-b4430ef6535b",
-      "source": "rss:cointelegraph",
-      "title": "Trump crypto company's USD1 stablecoins backing UFC event bonuses",
-      "url": "https://cointelegraph.com/news/donald-trump-crypto-company-ufc-fighter-bonuses-usd1-stablecoins?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-15T21:10:00+00:00",
-      "raw_text": "Trump crypto company's USD1 stablecoins backing UFC event bonuses\n\nA spokesperson for the Democratic National Committee decried the move as “an opportunity to use the power of the presidency to make [Trump] and his family even richer.”",
-      "impact": {}
-    },
-    {
-      "event_id": "8dd98d80-451c-4436-9587-412156740f77",
-      "source": "rss:decrypt",
-      "title": "Elon Musk Loses Again to OpenAI as Judge Dismisses xAI Trade Secret Lawsuit",
-      "url": "https://decrypt.co/371253/elon-musk-loses-again-openai-xai-trade-secret-lawsuit",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-15T21:05:00+00:00",
-      "raw_text": "Elon Musk Loses Again to OpenAI as Judge Dismisses xAI Trade Secret Lawsuit\n\nA federal judge handed Elon Musk his second defeat against OpenAI after finding xAI failed to show OpenAI improperly obtained confidential info.",
-      "impact": {}
-    },
-    {
-      "event_id": "b2494c69-92a2-418f-a97e-7b24de52379d",
-      "source": "rss:decrypt",
-      "title": "Pudgy Penguins NFT Game 'Pudgy Party' Shuts Down Less Than a Year After Launch",
-      "url": "https://decrypt.co/371197/pudgy-penguins-nft-game-pudgy-party-shuts-down",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-15T20:47:53+00:00",
-      "raw_text": "Pudgy Penguins NFT Game 'Pudgy Party' Shuts Down Less Than a Year After Launch\n\nPudgy Party, a mobile battle royale game, has closed up shop as the Pudgy Penguins team shifts its focus to its Pudgy World experience.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 206,
-        "avg_1h": -0.06,
-        "avg_24h": -0.3,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 161,
-        "avg_1h": -0.0,
-        "avg_24h": -0.35,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
         "count": 105,
         "avg_1h": -0.28,
         "avg_24h": 1.57,
         "win_rate_1h_gt5pct": 0.0
       },
+      "unknown": {
+        "count": 208,
+        "avg_1h": -0.06,
+        "avg_24h": -0.3,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 158,
+        "avg_1h": 0.03,
+        "avg_24h": -0.35,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
-        "count": 18,
+        "count": 19,
         "avg_1h": -0.25,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
