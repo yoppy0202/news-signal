@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-06-24T00:07:36.482266+00:00",
+  "generated_at": "2026-06-24T04:32:42.308501+00:00",
   "events": [
+    {
+      "event_id": "73985fb4-1a6b-41b1-bce6-9671c3e58d70",
+      "source": "rss:theblock",
+      "title": "Congress sends anti-CBDC housing bill to Trump’s desk for final approval",
+      "url": "https://www.theblock.co/post/405915/anti-cbdc-housing-bill-passes-congress?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-24T00:52:43+00:00",
+      "raw_text": "Congress sends anti-CBDC housing bill to Trump’s desk for final approval\n\n<p>The bill, which seeks to boost housing affordability in America, also includes language banning CBDC until Dec. 31, 2030.</p>\n\n<p>The bill, which seeks to boost housing affordability in America, also includes language banni",
+      "impact": {}
+    },
+    {
+      "event_id": "aee53a59-ad35-4d8e-84bd-80d14382ce12",
+      "source": "rss:cointelegraph",
+      "title": "Ethereum’s much-hated staking 'tax' may already be obsolete",
+      "url": "https://cointelegraph.com/features/ethereums-funding-scare-why-a-hated-staking-tax-may-already-be-obsolete?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-23T23:18:08+00:00",
+      "raw_text": "Ethereum’s much-hated staking 'tax' may already be obsolete\n\nEthereum’s latest “funding crisis” has triggered a fierce debate over whether to tax staking rewards or to pursue funding from large ETH holders for new organizations like EthLabs.",
+      "impact": {}
+    },
     {
       "event_id": "bbd969b1-c602-45b5-bf22-e7a529462ac1",
       "source": "rss:coindesk",
@@ -20,10 +44,16 @@
       "url": "https://cointelegraph.com/markets/170m-ether-positions-liquidated-as-crypto-market-tumbles-is-eth-doomed?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-06-23T22:15:20+00:00",
       "raw_text": "$170M Ether longs liquidated as crypto market tumbles: Is ETH doomed?\n\nETH price hangs in the balance as a fresh wave of liquidations pressure the altcoin and spillover from Bitcoin’s struggles to hold $62,000 impact investor sentiment.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.5108,
+        "t_plus_15m": 0.1088,
+        "t_plus_1h": -0.0596
+      }
     },
     {
       "event_id": "dbc16994-c9e2-47f0-877d-449f8f38cf77",
@@ -6402,51 +6432,20 @@
       "timestamp_utc": "2026-06-16T23:00:00+00:00",
       "raw_text": "Bitcoin Covenants Part 2: OP_CHECKTEMPLATEVERIFY\n\nCTV lets a Bitcoin output commit to precisely what the next transaction must look like. This enables trust-minimized vaults, congestion control, and smart contract primitives without pre-signed key management.",
       "impact": {}
-    },
-    {
-      "event_id": "c8ff783d-cff2-4f0c-8adf-85316d8faff5",
-      "source": "rss:decrypt",
-      "title": "Alibaba Is Building Qwen-Robot: The Operating System for the Robot Economy",
-      "url": "https://decrypt.co/371357/alibaba-qwen-robot-operating-system-robot-economy",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-16T22:32:21+00:00",
-      "raw_text": "Alibaba Is Building Qwen-Robot: The Operating System for the Robot Economy\n\nThe Chinese company is doubling down on its \"embodied AI\" bet.",
-      "impact": {}
-    },
-    {
-      "event_id": "5d7fd2a5-486a-4198-b6b4-8f636a238b65",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin tops $67K following US-Iran peace deal: Is it a bull trap?",
-      "url": "https://cointelegraph.com/markets/bitcoin-tops-67k-following-us-iran-peace-deal-is-it-a-bull-trap?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-16T22:28:40+00:00",
-      "raw_text": "Bitcoin tops $67K following US-Iran peace deal: Is it a bull trap?\n\nDespite Bitcoin derivatives data highlight traders’ skepticism even though BTC briefly rallied above $67,000. Are bulls stepping into a trap?",
-      "impact": {
-        "t_plus_5m": -0.0401,
-        "t_plus_15m": -0.0387,
-        "t_plus_1h": -0.0449,
-        "t_plus_4h": 0.4703
-      }
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 147,
-        "avg_1h": 0.1,
-        "avg_24h": -1.16,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 211,
+        "count": 212,
         "avg_1h": -0.03,
         "avg_24h": -2.11,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 146,
+        "avg_1h": 0.1,
+        "avg_24h": -1.16,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
