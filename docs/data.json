@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T23:19:24.930779+00:00",
+  "generated_at": "2026-06-25T04:20:31.075333+00:00",
   "events": [
     {
       "event_id": "54c84c2c-0a82-410e-b641-b3d9fa4113db",
@@ -80,10 +80,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-nearly-loses-59k-as-dxy-surges-are-traders-bracing-for-more-pain?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-24T20:58:28+00:00",
       "raw_text": "Bitcoin nearly loses $59K as DXY surges: Are traders bracing for more pain?\n\nBitcoin drops toward new 2026 lows as spot BTC ETF outflows and slowing accumulation from Strategy weigh on market sentiment.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.4093,
+        "t_plus_15m": -0.5014,
+        "t_plus_1h": 0.0662
+      }
     },
     {
       "event_id": "0fec6edd-05a8-4d01-8dc3-62f277624a6f",
@@ -92,10 +98,16 @@
       "url": "https://decrypt.co/372025/painful-bitcoin-sell-off-ethereum-xrp-dogecoin-lower-crypto-firms-dive",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-06-24T20:50:14+00:00",
       "raw_text": "'Painful' Bitcoin Sell-Off Drags Ethereum, XRP and Dogecoin Lower as Crypto Stocks Dive\n\nBitcoin's slide to its lowest point in 21 months slammed the price of leading altcoins, while pressuring crypto stocks on Wall Street.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0762,
+        "t_plus_15m": -0.2161,
+        "t_plus_1h": 0.1135
+      }
     },
     {
       "event_id": "46b94b2a-7ec8-4bdf-9200-b85f7436f37a",
@@ -220,7 +232,8 @@
       "impact": {
         "t_plus_5m": -1.8696,
         "t_plus_15m": -1.8685,
-        "t_plus_1h": -1.3935
+        "t_plus_1h": -1.3935,
+        "t_plus_4h": 0.336
       }
     },
     {
@@ -250,7 +263,8 @@
       "impact": {
         "t_plus_5m": -0.1446,
         "t_plus_15m": 0.1291,
-        "t_plus_1h": 0.14
+        "t_plus_1h": 0.14,
+        "t_plus_4h": 2.5306
       }
     },
     {
@@ -1479,7 +1493,8 @@
         "t_plus_5m": 0.5108,
         "t_plus_15m": 0.1088,
         "t_plus_1h": -0.0596,
-        "t_plus_4h": 0.4808
+        "t_plus_4h": 0.4808,
+        "t_plus_24h": -2.4839
       }
     },
     {
@@ -6458,12 +6473,12 @@
       "unknown": {
         "count": 212,
         "avg_1h": 0.11,
-        "avg_24h": -1.89,
+        "avg_24h": -1.94,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
         "count": 101,
-        "avg_1h": -0.23,
+        "avg_1h": -0.21,
         "avg_24h": -1.88,
         "win_rate_1h_gt5pct": 0.0
       },
