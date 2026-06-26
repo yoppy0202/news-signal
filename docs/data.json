@@ -1,6 +1,90 @@
 {
-  "generated_at": "2026-06-26T20:05:32.009356+00:00",
+  "generated_at": "2026-06-26T21:37:45.937814+00:00",
   "events": [
+    {
+      "event_id": "ddeb7b5a-a30b-4226-b781-34ef930ec6df",
+      "source": "rss:theblock",
+      "title": "Ripple CEO says Michael Saylor has hurt crypto market as Strategy’s STRC trades 25% below par",
+      "url": "https://www.theblock.co/post/406432/ripple-ceo-says-michael-saylor-has-hurt-crypto-market-as-strategys-strc-trades-25-below-par?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-26T20:44:55+00:00",
+      "raw_text": "Ripple CEO says Michael Saylor has hurt crypto market as Strategy’s STRC trades 25% below par\n\n<p>\"Financial engineering does not drive long-term value ... long-term value of any digital asset is going to be driven by utility,\" said Garlinghouse.</p>\n\n<p>\"Financial engineering does not drive long-te",
+      "impact": {}
+    },
+    {
+      "event_id": "0f569d08-a4ed-402d-bef6-7158d6a540dc",
+      "source": "rss:coindesk",
+      "title": "Aave, Solana ecosystem tokens lead crypto rebound as bitcoin steadies near $60,000",
+      "url": "https://www.coindesk.com/markets/2026/06/26/aave-solana-ecosystem-tokens-lead-crypto-rebound-as-bitcoin-steadies-near-usd60-000",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-26T20:15:03+00:00",
+      "raw_text": "Aave, Solana ecosystem tokens lead crypto rebound as bitcoin steadies near $60,000",
+      "impact": {}
+    },
+    {
+      "event_id": "e372ea90-14d8-4f76-833c-9186d5fc0669",
+      "source": "rss:coindesk",
+      "title": "U.S. House Democrat, who may soon run key committee, condemns crypto in 401(k)s",
+      "url": "https://www.coindesk.com/policy/2026/06/26/u-s-house-democrat-who-may-soon-run-key-committee-condemns-crypto-in-401-k-s",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-26T19:38:12+00:00",
+      "raw_text": "U.S. House Democrat, who may soon run key committee, condemns crypto in 401(k)s",
+      "impact": {}
+    },
+    {
+      "event_id": "79afc2e7-39a5-471e-9908-ebbec5501ef0",
+      "source": "rss:decrypt",
+      "title": "Linux Foundation, Tech Giants Launch Akrites to Defend Open Source Against AI-Powered Attacks",
+      "url": "https://decrypt.co/372244/linux-foundation-tech-giants-akrites-defend-open-source-ai-attacks",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-26T19:23:37+00:00",
+      "raw_text": "Linux Foundation, Tech Giants Launch Akrites to Defend Open Source Against AI-Powered Attacks\n\nA coalition of 19 organizations—including every major AI lab and Wall Street banks—just built the security team that open-source maintainers never had.",
+      "impact": {}
+    },
+    {
+      "event_id": "6fd72f6f-3542-45b0-b29b-bbaad94d9b52",
+      "source": "rss:cointelegraph",
+      "title": "Spain regulator rules out extension for non-MiCA compliant crypto companies",
+      "url": "https://cointelegraph.com/news/spain-no-extension-mica-compliance-crypto-companies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-26T19:20:33+00:00",
+      "raw_text": "Spain regulator rules out extension for non-MiCA compliant crypto companies\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Spain regulator rules out extension for non-MiCA compliant crypto companies\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-",
+      "impact": {}
+    },
+    {
+      "event_id": "e9392f25-1775-46e1-8330-2fe821ee4f95",
+      "source": "rss:decrypt",
+      "title": "Senators Demand Answers From CFTC Over Alleged Polymarket Deceptive Advertising",
+      "url": "https://decrypt.co/372239/senators-demand-answers-cftc-polymarket-deceptive-advertising",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-26T19:18:41+00:00",
+      "raw_text": "Senators Demand Answers From CFTC Over Alleged Polymarket Deceptive Advertising\n\nSenators are seeking answers from the CFTC about recent allegations of deceptive marketing from Polymarket.",
+      "impact": {}
+    },
+    {
+      "event_id": "8c2393c2-d972-4c05-869a-5082eee83b41",
+      "source": "rss:decrypt",
+      "title": "OpenAI Rolls Out GPT-5.6—But Only for Some Users Due to Trump Admin",
+      "url": "https://decrypt.co/372238/openai-rolls-out-gpt-5-6-limited-access-trump-admin",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-26T19:06:06+00:00",
+      "raw_text": "OpenAI Rolls Out GPT-5.6—But Only for Some Users Due to Trump Admin\n\nOpenAI introduced the GPT-5.6 family of AI models on Friday, but only limited users can access them for now thanks to the U.S. government.",
+      "impact": {}
+    },
     {
       "event_id": "a0bac084-a861-43a7-b61f-b01aeff4522e",
       "source": "rss:coindesk",
@@ -20,10 +104,16 @@
       "url": "https://www.theblock.co/post/406414/solana-dat-stocks-climb-double-digits-sol-jumps-9?utm_source=rss&utm_medium=rss",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "SOL"
+      ],
       "timestamp_utc": "2026-06-26T18:34:02+00:00",
       "raw_text": "Solana DAT stocks climb double digits as SOL jumps 9%\n\n<p>Sol Strategies (STKE) climbed as much as 22% to a high of $1.20 on Friday, outpacing other crypto treasury stocks.</p>\n\n<p>Sol Strategies (STKE) climbed as much as 22% to a high of $1.20 on Friday, outpacing other crypto treasury stocks.</p>",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0373,
+        "t_plus_15m": 0.0193,
+        "t_plus_1h": 1.5102
+      }
     },
     {
       "event_id": "48e43aec-113c-47fd-9e4e-6399575c6eab",
@@ -80,10 +170,16 @@
       "url": "https://bitcoinmagazine.com/news/billionaire-jeremy-grantham-bitcoin",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-26T17:57:49+00:00",
       "raw_text": "Billionaire Investor Jeremy Grantham: Bitcoin Will ‘Dwindle Away With a Whimper’\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Billionaire-Investor-Jeremy-Grantham-Bitcoin-Will-Dwindle-Away-With-a-",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.7046,
+        "t_plus_15m": 0.7527,
+        "t_plus_1h": -0.0298
+      }
     },
     {
       "event_id": "df1cb926-f79a-40e4-ba1e-a85506908397",
@@ -140,10 +236,16 @@
       "url": "https://cointelegraph.com/markets/ethereum-whale-who-shorted-october-2025-crash-returns-with-a-197m-short-eth-bet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "whale_move",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-06-26T17:02:33+00:00",
       "raw_text": "Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.5273,
+        "t_plus_15m": 0.6403,
+        "t_plus_1h": 0.5503
+      }
     },
     {
       "event_id": "b1200fe9-6150-4f3d-a4bf-68bbf1130f67",
@@ -220,7 +322,8 @@
       "impact": {
         "t_plus_5m": 0.4376,
         "t_plus_15m": 0.3719,
-        "t_plus_1h": 0.0334
+        "t_plus_1h": 0.0334,
+        "t_plus_4h": -0.3016
       }
     },
     {
@@ -286,7 +389,8 @@
       "impact": {
         "t_plus_5m": 0.092,
         "t_plus_15m": 0.3257,
-        "t_plus_1h": 0.9152
+        "t_plus_1h": 0.9152,
+        "t_plus_4h": 0.406
       }
     },
     {
@@ -1064,7 +1168,8 @@
         "t_plus_5m": -0.545,
         "t_plus_15m": 0.0246,
         "t_plus_1h": -0.4447,
-        "t_plus_4h": 0.2944
+        "t_plus_4h": 0.2944,
+        "t_plus_24h": 0.4635
       }
     },
     {
@@ -1074,10 +1179,14 @@
       "url": "https://cointelegraph.com/markets/key-bitcoin-price-levels-after-btc-power-law-says-58k-is-normal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-25T19:51:35+00:00",
       "raw_text": "Bitcoin may fall lower but BTC power-law frames crash to $58K as ‘normal’\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin may fall lower but BTC power-law frames crash to $58K as ‘normal’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
-      "impact": {}
+      "impact": {
+        "t_plus_24h": 0.7663
+      }
     },
     {
       "event_id": "f135d1bc-4133-4d70-9c83-2b783fbe3075",
@@ -6369,121 +6478,37 @@
       "timestamp_utc": "2026-06-22T07:34:05+00:00",
       "raw_text": "Live markets: Bitcoin gives up morning gains as Nasdaq sheds more than 1%",
       "impact": {}
-    },
-    {
-      "event_id": "1ad51c99-c97c-421f-b8aa-41f1854836d8",
-      "source": "rss:coindesk",
-      "title": "Live markets: Bitcoin bounces to $65,000; Saylor's Strategy adds cash, coins",
-      "url": "https://www.coindesk.com/tech/2026/06/22/live-markets-bitcoin-is-stuck-near-usd64-000-as-etf-outflows-reach-a-sixth-week",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-22T07:34:05+00:00",
-      "raw_text": "Live markets: Bitcoin bounces to $65,000; Saylor's Strategy adds cash, coins",
-      "impact": {}
-    },
-    {
-      "event_id": "c464cb6c-4078-4eac-a29c-e1dc8f123396",
-      "source": "rss:theblock",
-      "title": "Bitget enables direct US stock purchases using crypto",
-      "url": "https://www.theblock.co/post/405507/bitget-us-stock-purchases-crypto?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-22T07:06:15+00:00",
-      "raw_text": "Bitget enables direct US stock purchases using crypto\n\n<p>Bitget launched Stock+, enabling crypto-funded purchases of full and fractional US stocks through regulated brokers.</p>\n\n<p>Bitget launched Stock+, enabling crypto-funded purchases of full and fractional US stocks through regulated brokers.<",
-      "impact": {}
-    },
-    {
-      "event_id": "3dd92c57-f092-4c24-8988-26d9201f680e",
-      "source": "rss:theblock",
-      "title": "How Does Tether Make Money? Understanding the Business Model Behind USDT",
-      "url": "https://www.theblock.co/learn/405498/how-does-tether-make-money?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-22T07:05:14+00:00",
-      "raw_text": "How Does Tether Make Money? Understanding the Business Model Behind USDT\n\n<p>Tether primarily makes money by earning interest on the reserve assets that back USDT, the world’s largest stablecoin. When USDT is minted, Tether receives dollars or equivalent assets and invests most of those reserves in ",
-      "impact": {}
-    },
-    {
-      "event_id": "f2d9c4b2-badf-4d39-9181-6c9101ad5820",
-      "source": "rss:theblock",
-      "title": "South Korea’s Toss Bank to test blockchain-based financial infrastructure on Solana",
-      "url": "https://www.theblock.co/post/405505/toss-solana-partnership?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-22T06:37:28+00:00",
-      "raw_text": "South Korea’s Toss Bank to test blockchain-based financial infrastructure on Solana\n\n<p>Toss Bank and Solana will work on a proof-of-concept for overseas remittances and payments involving stablecoins.</p>\n\n<p>Toss Bank and Solana will work on a proof-of-concept for overseas remittances and payments",
-      "impact": {}
-    },
-    {
-      "event_id": "1a685713-2586-41c8-b82f-1493b58447fd",
-      "source": "rss:coindesk",
-      "title": "Bitcoin developers want to fix the 'replace this transaction with a higher fee' button. Here's why",
-      "url": "https://www.coindesk.com/tech/2026/06/22/bitcoin-developers-want-to-fix-the-replace-this-transaction-with-a-higher-fee-button-here-s-why",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-22T06:19:13+00:00",
-      "raw_text": "Bitcoin developers want to fix the 'replace this transaction with a higher fee' button. Here's why",
-      "impact": {}
-    },
-    {
-      "event_id": "3722095f-520b-441a-8a0c-25ae37d6286c",
-      "source": "rss:cointelegraph",
-      "title": "MoneyGram joins Solana as validator, expanding role in blockchain infrastructure",
-      "url": "https://cointelegraph.com/news/moneygram-joins-solana-validator-expanding-role-blockchain-infrastructure?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-22T06:00:00+00:00",
-      "raw_text": "MoneyGram joins Solana as validator, expanding role in blockchain infrastructure\n\nThe remittance giant is staking SOL and processing transaction blocks as stablecoin adoption accelerates across the global remittance industry.",
-      "impact": {}
-    },
-    {
-      "event_id": "3ef03bad-35ba-4e9a-910d-7c4d755145c8",
-      "source": "rss:coindesk",
-      "title": "Ethereum validators asked to fund projects with up to 10% of staking rewards under new proposal",
-      "url": "https://www.coindesk.com/tech/2026/06/22/ethereum-validators-asked-to-fund-projects-with-up-to-10-of-staking-rewards-under-new-proposal",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-22T05:43:26+00:00",
-      "raw_text": "Ethereum validators asked to fund projects with up to 10% of staking rewards under new proposal",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 201,
-        "avg_1h": 0.21,
-        "avg_24h": -3.04,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 92,
-        "avg_1h": -0.26,
-        "avg_24h": -2.35,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
         "count": 178,
         "avg_1h": 0.31,
         "avg_24h": -3.02,
         "win_rate_1h_gt5pct": 0.0
       },
+      "unknown": {
+        "count": 199,
+        "avg_1h": 0.25,
+        "avg_24h": -2.62,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
-        "count": 22,
+        "count": 23,
         "avg_1h": 0.21,
         "avg_24h": 1.53,
         "win_rate_1h_gt5pct": 0.0
       },
+      "macro": {
+        "count": 93,
+        "avg_1h": -0.24,
+        "avg_24h": -1.78,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "whale_move": {
         "count": 3,
-        "avg_1h": 1.14,
+        "avg_1h": 0.94,
         "avg_24h": 1.29,
         "win_rate_1h_gt5pct": 0.0
       },
