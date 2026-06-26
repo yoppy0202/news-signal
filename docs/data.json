@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-25T22:42:03.829091+00:00",
+  "generated_at": "2026-06-26T00:20:55.194631+00:00",
   "events": [
+    {
+      "event_id": "5010d8ae-0fb3-4ac3-a964-e81a6b94fec0",
+      "source": "rss:cointelegraph",
+      "title": "Does Botanix’s failure prove Bitcoiners don’t care about DeFi?",
+      "url": "https://cointelegraph.com/features/does-botanixs-failure-prove-bitcoiners-dont-care-about-defi?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-25T23:09:10+00:00",
+      "raw_text": "Does Botanix’s failure prove Bitcoiners don’t care about DeFi?\n\nThe failure of Botanix suggests that Bitcoiners still prefer Ethereum DeFi to Bitcoin L2s. How can Bitcoin L2s change to win hodlers over?",
+      "impact": {}
+    },
     {
       "event_id": "72d09e3c-ab85-4d47-96c8-ad614b7da90e",
       "source": "rss:theblock",
@@ -32,10 +44,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-bounces-off-new-2026-price-lows-will-us-stock-weakness-push-btc-lower?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-25T21:02:50+00:00",
       "raw_text": "Bitcoin bounces off new 2026 price lows: Will US stock weakness push BTC lower?\n\nBitcoin’s trek into new 2026 lows continued as spot BTC ETF outflows, a bearish monthly options expiry and Strategy’s unrealized losses widened its gap with AI-connected stock returns.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.9766,
+        "t_plus_15m": -0.9161,
+        "t_plus_1h": 0.0199
+      }
     },
     {
       "event_id": "af2f1bf0-7553-4e51-b3b0-91ba7ffb46bb",
@@ -104,10 +122,16 @@
       "url": "https://bitcoinmagazine.com/markets/strategy-stock-mstr-craters-another-10",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-25T19:52:39+00:00",
       "raw_text": "Strategy Stock (MSTR) Nearly Craters Another 10% as Securities Lawsuit Lands\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/12/Bitcoin-treasury-Strategy-Boosts-Cash-Reserve-to-2.19-Billion-Pauses-BTC-B",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.545,
+        "t_plus_15m": 0.0246,
+        "t_plus_1h": -0.4447
+      }
     },
     {
       "event_id": "f135d1bc-4133-4d70-9c83-2b783fbe3075",
@@ -116,10 +140,16 @@
       "url": "https://cointelegraph.com/markets/key-bitcoin-price-levels-after-btc-power-law-says-58k-is-normal?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-25T19:51:35+00:00",
       "raw_text": "Bitcoin may fall lower but BTC power-law frames crash to $58K as ‘normal’\n\nBitcoin’s drop to $58,000 lines up with the power-law model’s cycle lows, even though futures market data points to deeper lows for BTC price.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.5965,
+        "t_plus_15m": -0.0195,
+        "t_plus_1h": -0.3161
+      }
     },
     {
       "event_id": "feaf1e2c-3a20-4027-8494-3e574e801660",
@@ -220,7 +250,8 @@
       "impact": {
         "t_plus_5m": 0.058,
         "t_plus_15m": -0.0059,
-        "t_plus_1h": -0.3422
+        "t_plus_1h": -0.3422,
+        "t_plus_4h": 0.8583
       }
     },
     {
@@ -262,7 +293,8 @@
       "impact": {
         "t_plus_5m": -0.0703,
         "t_plus_15m": 0.0051,
-        "t_plus_1h": -0.28
+        "t_plus_1h": -0.28,
+        "t_plus_4h": 0.4583
       }
     },
     {
@@ -6426,37 +6458,25 @@
       "timestamp_utc": "2026-06-19T05:04:22+00:00",
       "raw_text": "Live markets: Bitcoin under pressure as Saylor comments on STRC selloff",
       "impact": {}
-    },
-    {
-      "event_id": "10667a2d-82a5-44b2-9fdb-ec6bad7bbfcc",
-      "source": "rss:coindesk",
-      "title": "Live markets: Bitcoin and precious metals remain under pressure",
-      "url": "https://www.coindesk.com/markets/2026/06/19/live-markets-bitcoin-has-traded-below-its-mining-cost-for-five-months-squeezing-miners",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-19T05:04:22+00:00",
-      "raw_text": "Live markets: Bitcoin and precious metals remain under pressure",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 212,
-        "avg_1h": 0.12,
-        "avg_24h": -1.9,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
         "count": 165,
         "avg_1h": 0.23,
         "avg_24h": -1.14,
         "win_rate_1h_gt5pct": 0.0
       },
+      "unknown": {
+        "count": 212,
+        "avg_1h": 0.1,
+        "avg_24h": -1.9,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 87,
-        "avg_1h": -0.35,
+        "avg_1h": -0.32,
         "avg_24h": -1.56,
         "win_rate_1h_gt5pct": 0.0
       },
