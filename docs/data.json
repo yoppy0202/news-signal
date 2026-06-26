@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-06-26T21:37:45.937814+00:00",
+  "generated_at": "2026-06-26T23:20:36.836311+00:00",
   "events": [
+    {
+      "event_id": "967f03f3-6a62-4be8-a3ae-178073cfba58",
+      "source": "rss:theblock",
+      "title": "Strategy loses its bitcoin premium as enterprise mNAV dips below 1",
+      "url": "https://www.theblock.co/post/406438/strategy-loses-bitcoin-premium-enterprise-mnav-dips-below-1?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-26T21:21:56+00:00",
+      "raw_text": "Strategy loses its bitcoin premium as enterprise mNAV dips below 1\n\n<p>Strategy's STRC briefly fell to a record low of $71.40 on Friday, leaving the preferred shares about 25% below par.</p>\n\n<p>Strategy's STRC briefly fell to a record low of $71.40 on Friday, leaving the preferred shares about 25% ",
+      "impact": {}
+    },
+    {
+      "event_id": "187acd91-f6a5-484a-a8f9-6c4c729f6773",
+      "source": "rss:bitcoinmagazine",
+      "title": "Galaxy Research Cuts CLARITY Act Passage Odds to 50-50 as Senate Clock Runs Out",
+      "url": "https://bitcoinmagazine.com/news/galaxy-research-cuts-clarity-act-passage",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-26T20:48:42+00:00",
+      "raw_text": "Galaxy Research Cuts CLARITY Act Passage Odds to 50-50 as Senate Clock Runs Out\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/100-Crypto-Firms-Urge-Senate-to-Advance-Clarity-Act.jpg\" style=\"display",
+      "impact": {}
+    },
+    {
+      "event_id": "7bbc9d04-edd8-4632-a990-d11a18290a28",
+      "source": "rss:decrypt",
+      "title": "Wall Street's Next Tokenization Test: BlackRock-Backed Securitize's Market Debut",
+      "url": "https://decrypt.co/372249/wall-street-next-tokenization-test-blackrock-backed-securitize-ipo",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-26T20:47:44+00:00",
+      "raw_text": "Wall Street's Next Tokenization Test: BlackRock-Backed Securitize's Market Debut\n\nSecuritize expects to begin trading next week under the ticker symbol “SECZ,” following the completion of a merger with a blank-check firm.",
+      "impact": {}
+    },
     {
       "event_id": "ddeb7b5a-a30b-4226-b781-34ef930ec6df",
       "source": "rss:theblock",
@@ -244,7 +280,8 @@
       "impact": {
         "t_plus_5m": 0.5273,
         "t_plus_15m": 0.6403,
-        "t_plus_1h": 0.5503
+        "t_plus_1h": 0.5503,
+        "t_plus_4h": -0.2985
       }
     },
     {
@@ -6442,68 +6479,32 @@
       "timestamp_utc": "2026-06-22T09:23:02+00:00",
       "raw_text": "Taiko halts its Ethereum layer-2 network after a bridge exploit, token dives",
       "impact": {}
-    },
-    {
-      "event_id": "db45188e-0896-4726-94ce-747a08b9e3c9",
-      "source": "rss:coindesk",
-      "title": "Bitcoin price may be headed to $54,000, says analyst who forecast October's all-time high",
-      "url": "https://www.coindesk.com/markets/2026/06/22/bitcoin-price-may-be-headed-to-usd54-000-says-analyst-who-forecast-october-s-all-time-high",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-22T09:19:24+00:00",
-      "raw_text": "Bitcoin price may be headed to $54,000, says analyst who forecast October's all-time high",
-      "impact": {}
-    },
-    {
-      "event_id": "f49482b3-6708-4326-8175-34a8aa8cf678",
-      "source": "rss:cointelegraph",
-      "title": "South Korea pushes Travel Rule expansion for smaller crypto transfers",
-      "url": "https://cointelegraph.com/news/south-korea-travel-rule-smaller-crypto-transfers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-22T08:58:43+00:00",
-      "raw_text": "South Korea pushes Travel Rule expansion for smaller crypto transfers\n\nSouth Korea’s FIU is calling for broader crypto transfer reporting rules during FATF talks, citing offshore risks and uneven global AML enforcement.",
-      "impact": {}
-    },
-    {
-      "event_id": "a21e0f52-069c-4ea4-bb80-977241d1de73",
-      "source": "rss:coindesk",
-      "title": "Live markets: Bitcoin gives up morning gains as Nasdaq sheds more than 1%",
-      "url": "https://www.coindesk.com/tech/2026/06/22/live-markets-bitcoin-is-stuck-near-usd64-000-as-etf-outflows-reach-a-sixth-week",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-22T07:34:05+00:00",
-      "raw_text": "Live markets: Bitcoin gives up morning gains as Nasdaq sheds more than 1%",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 178,
-        "avg_1h": 0.31,
-        "avg_24h": -3.02,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 199,
+        "count": 198,
         "avg_1h": 0.25,
         "avg_24h": -2.62,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 95,
+        "avg_1h": -0.24,
+        "avg_24h": -1.78,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 177,
+        "avg_1h": 0.31,
+        "avg_24h": -3.02,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
         "count": 23,
         "avg_1h": 0.21,
         "avg_24h": 1.53,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 93,
-        "avg_1h": -0.24,
-        "avg_24h": -1.78,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
