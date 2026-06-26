@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-26T00:20:55.194631+00:00",
+  "generated_at": "2026-06-26T05:20:19.738138+00:00",
   "events": [
+    {
+      "event_id": "459f9af2-7f44-4c34-a0aa-1a991b76d560",
+      "source": "rss:cointelegraph",
+      "title": "BitGo cuts 15% of staff to sharpen focus on AI, stablecoins",
+      "url": "https://cointelegraph.com/news/crypto-infrastructure-firm-bitgo-lays-off-15-of-staff?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-26T00:41:02+00:00",
+      "raw_text": "BitGo cuts 15% of staff to sharpen focus on AI, stablecoins\n\nBitGo co-founder and CEO Mike Belshe says the layoffs are “a one-time action” and the company doesn’t see the need for further staff reductions.",
+      "impact": {}
+    },
     {
       "event_id": "5010d8ae-0fb3-4ac3-a964-e81a6b94fec0",
       "source": "rss:cointelegraph",
@@ -130,7 +142,8 @@
       "impact": {
         "t_plus_5m": -0.545,
         "t_plus_15m": 0.0246,
-        "t_plus_1h": -0.4447
+        "t_plus_1h": -0.4447,
+        "t_plus_4h": 0.2944
       }
     },
     {
@@ -148,7 +161,8 @@
       "impact": {
         "t_plus_5m": -0.5965,
         "t_plus_15m": -0.0195,
-        "t_plus_1h": -0.3161
+        "t_plus_1h": -0.3161,
+        "t_plus_4h": 0.4133
       }
     },
     {
@@ -6446,30 +6460,18 @@
         "t_plus_4h": -0.671,
         "t_plus_24h": 1.3175
       }
-    },
-    {
-      "event_id": "59f5bdf8-a0f9-4c23-bb67-615cdf0f533a",
-      "source": "rss:coindesk",
-      "title": "Live markets: Bitcoin under pressure as Saylor comments on STRC selloff",
-      "url": "https://www.coindesk.com/markets/2026/06/19/live-markets-bitcoin-has-traded-below-its-mining-cost-for-five-months-squeezing-miners",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-19T05:04:22+00:00",
-      "raw_text": "Live markets: Bitcoin under pressure as Saylor comments on STRC selloff",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 165,
+        "count": 166,
         "avg_1h": 0.23,
         "avg_24h": -1.14,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 212,
+        "count": 211,
         "avg_1h": 0.1,
         "avg_24h": -1.9,
         "win_rate_1h_gt5pct": 0.0
