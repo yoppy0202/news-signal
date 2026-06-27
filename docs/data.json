@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-27T20:17:12.911558+00:00",
+  "generated_at": "2026-06-27T22:13:42.864606+00:00",
   "events": [
+    {
+      "event_id": "765ddf4c-bb17-4ac6-8a71-fcc9a305939f",
+      "source": "rss:cointelegraph",
+      "title": "Fidelity rebuts claims Bitcoin becomes less secure after halvings",
+      "url": "https://cointelegraph.com/news/fidelity-bitcoin-long-term-security-halvings-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-27T20:53:02+00:00",
+      "raw_text": "Fidelity rebuts claims Bitcoin becomes less secure after halvings\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fidelity rebuts claims Bitcoin becomes less secure after halvings\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-btc-halvin",
+      "impact": {}
+    },
     {
       "event_id": "f8196fcb-a4d0-453d-ba7a-92278a97831e",
       "source": "rss:cointelegraph",
@@ -8,10 +20,15 @@
       "url": "https://cointelegraph.com/markets/bitcoin-faces-fresh-capitulation-risk-as-50k-btc-moves-at-a-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-27T19:27:44+00:00",
       "raw_text": "Bitcoin faces fresh capitulation risk as 50K BTC moved at a loss\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin faces fresh capitulation risk as 50K BTC moved at a loss\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0405,
+        "t_plus_15m": 0.0579
+      }
     },
     {
       "event_id": "7ce1caea-9658-4b24-8a22-d6e6b0aabee7",
@@ -415,7 +432,8 @@
         "t_plus_5m": 0.0373,
         "t_plus_15m": 0.0193,
         "t_plus_1h": 1.5102,
-        "t_plus_4h": -1.2113
+        "t_plus_4h": -1.2113,
+        "t_plus_24h": -0.7718
       }
     },
     {
@@ -6454,24 +6472,18 @@
       "timestamp_utc": "2026-06-22T12:39:40+00:00",
       "raw_text": "Strategy added $35 million in bitcoin, $300 million in cash reserves last week",
       "impact": {}
-    },
-    {
-      "event_id": "7ae84dbe-251a-4ad9-95b2-4179d1ca6500",
-      "source": "rss:theblock",
-      "title": "MoneyGram becomes Solana validator, expands blockchain payments strategy",
-      "url": "https://www.theblock.co/post/405568/moneygram-solana-validator-blockchain-payments?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-22T12:30:44+00:00",
-      "raw_text": "MoneyGram becomes Solana validator, expands blockchain payments strategy\n\n<p>Solana is now the third blockchain where MoneyGram operates an official validator, alongside Tempo and the Midnight Network.</p>\n\n<p>Solana is now the third blockchain where MoneyGram operates an official validator, alongsi",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 95,
+        "avg_1h": -0.24,
+        "avg_24h": -1.23,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 179,
+        "count": 178,
         "avg_1h": 0.35,
         "avg_24h": -3.02,
         "win_rate_1h_gt5pct": 0.0
@@ -6479,13 +6491,7 @@
       "unknown": {
         "count": 196,
         "avg_1h": 0.32,
-        "avg_24h": -2.18,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 94,
-        "avg_1h": -0.24,
-        "avg_24h": -1.23,
+        "avg_24h": -1.98,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
