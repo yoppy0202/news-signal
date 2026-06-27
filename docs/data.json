@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-27T10:20:00.989455+00:00",
+  "generated_at": "2026-06-27T12:15:41.029464+00:00",
   "events": [
+    {
+      "event_id": "0efda6a6-ea98-4ace-af03-5d6e0beee8e9",
+      "source": "rss:cointelegraph",
+      "title": "EU lawmakers urge assessing DeFi, staking, NFT regulation",
+      "url": "https://cointelegraph.com/news/eu-lawmakers-assessing-defi-staking-nft-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-27T08:21:04+00:00",
+      "raw_text": "EU lawmakers urge assessing DeFi, staking, NFT regulation\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EU lawmakers urge assessing DeFi, staking, NFT regulation\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-european-union-moves-to-re",
+      "impact": {}
+    },
     {
       "event_id": "fe4befb5-2224-43c9-bb63-055bee5e427d",
       "source": "rss:coindesk",
@@ -6476,22 +6488,16 @@
       "timestamp_utc": "2026-06-22T10:48:14+00:00",
       "raw_text": "Bank of England backs down on strict stablecoin holding limits, sets $50 billion issuance cap",
       "impact": {}
-    },
-    {
-      "event_id": "afac4cb7-bef8-4660-8a6b-ac698b3daf84",
-      "source": "rss:theblock",
-      "title": "Bank of England drops proposed holding caps for sterling stablecoins, sets £40 billion issuance guardrail",
-      "url": "https://www.theblock.co/post/405545/bank-of-england-drops-proposed-individual-holding-caps-for-sterling-stablecoins-sets-40-billion-issuance-guardrail?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-22T10:46:50+00:00",
-      "raw_text": "Bank of England drops proposed holding caps for sterling stablecoins, sets £40 billion issuance guardrail\n\n<p>The Bank of England proposed a £40 billion systemic stablecoin issuance guardrail and revised backing assets, targeting a 2027 launch.</p>\n\n<p>The Bank of England proposed a £40 billion syst",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 94,
+        "avg_1h": -0.24,
+        "avg_24h": -1.78,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 198,
         "avg_1h": 0.3,
@@ -6499,15 +6505,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 179,
+        "count": 178,
         "avg_1h": 0.35,
         "avg_24h": -3.02,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 93,
-        "avg_1h": -0.24,
-        "avg_24h": -1.78,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
