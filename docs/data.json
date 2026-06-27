@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-06-27T08:03:59.998312+00:00",
+  "generated_at": "2026-06-27T10:20:00.989455+00:00",
   "events": [
+    {
+      "event_id": "fe4befb5-2224-43c9-bb63-055bee5e427d",
+      "source": "rss:coindesk",
+      "title": "Ripple CEO stays bullish on bitcoin but says Saylor's strategy has hurt crypto",
+      "url": "https://www.coindesk.com/markets/2026/06/27/ripple-ceo-stays-bullish-on-bitcoin-but-says-saylor-s-strategy-has-hurt-crypto",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-27T07:58:35+00:00",
+      "raw_text": "Ripple CEO stays bullish on bitcoin but says Saylor's strategy has hurt crypto",
+      "impact": {}
+    },
+    {
+      "event_id": "19366280-e062-4939-a085-de4c8e59dfc2",
+      "source": "rss:coindesk",
+      "title": "Dogecoin and Hyperliquid's HYPE led weekly crypto losses as AI stocks lure buyers",
+      "url": "https://www.coindesk.com/markets/2026/06/27/dogecoin-and-hyperliquid-s-hype-led-weekly-crypto-losses-as-ai-stocks-lure-buyers",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-27T07:43:58+00:00",
+      "raw_text": "Dogecoin and Hyperliquid's HYPE led weekly crypto losses as AI stocks lure buyers",
+      "impact": {}
+    },
+    {
+      "event_id": "8ba7d0ee-c214-4036-9d1f-edd1d35d94a0",
+      "source": "rss:cointelegraph",
+      "title": "Securitize expects to raise $400M ahead of public debut",
+      "url": "https://cointelegraph.com/news/securitize-expects-to-raise-400m-ahead-of-public-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-27T05:35:27+00:00",
+      "raw_text": "Securitize expects to raise $400M ahead of public debut\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Securitize expects to raise $400M ahead of public debut\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-types-of-consensus-mechanisms-",
+      "impact": {}
+    },
     {
       "event_id": "09f56436-5307-450e-828d-702838f71a4e",
       "source": "rss:cointelegraph",
@@ -6452,75 +6488,32 @@
       "timestamp_utc": "2026-06-22T10:46:50+00:00",
       "raw_text": "Bank of England drops proposed holding caps for sterling stablecoins, sets £40 billion issuance guardrail\n\n<p>The Bank of England proposed a £40 billion systemic stablecoin issuance guardrail and revised backing assets, targeting a 2027 launch.</p>\n\n<p>The Bank of England proposed a £40 billion syst",
       "impact": {}
-    },
-    {
-      "event_id": "d198aa97-6cca-44bc-a473-84211ce73dae",
-      "source": "rss:coindesk",
-      "title": "Geopolitical relief meets the Warsh Fed: Crypto Week Ahead",
-      "url": "https://www.coindesk.com/markets/2026/06/22/geopolitical-relief-meets-the-warsh-fed-crypto-week-ahead",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-22T10:22:22+00:00",
-      "raw_text": "Geopolitical relief meets the Warsh Fed: Crypto Week Ahead",
-      "impact": {}
-    },
-    {
-      "event_id": "ea7e3806-24b9-401b-9536-9711c3774799",
-      "source": "rss:theblock",
-      "title": "Spot bitcoin ETFs log sixth consecutive week of net outflows; analyst says selling wave is exhausting itself",
-      "url": "https://www.theblock.co/post/405540/spot-bitcoin-etfs-sixth-consecutive-week-outflow?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-22T10:20:57+00:00",
-      "raw_text": "Spot bitcoin ETFs log sixth consecutive week of net outflows; analyst says selling wave is exhausting itself\n\n<p>US spot bitcoin ETFs saw $227 million in net outflows last week, extending the negative flow streak to six consecutive weeks.</p>\n\n<p>US spot bitcoin ETFs saw $227 million in net outflows",
-      "impact": {}
-    },
-    {
-      "event_id": "d0647a30-f71c-4241-98d1-ea22f96641f0",
-      "source": "rss:cointelegraph",
-      "title": "US dollar strength hits highest since May 2025: Five things to know in Bitcoin this week",
-      "url": "https://cointelegraph.com/markets/us-dollar-strength-hits-highest-since-may-2025-five-things-to-know-in-bitcoin-this-week?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-22T10:13:05+00:00",
-      "raw_text": "US dollar strength hits highest since May 2025: Five things to know in Bitcoin this week\n\nBitcoin faced a resurgent US dollar index and macro hurdles as it circled $64,000, but July seasonality could spark BTC price relief.",
-      "impact": {
-        "t_plus_5m": -1.4281,
-        "t_plus_15m": -1.4541,
-        "t_plus_1h": -1.2353,
-        "t_plus_4h": 0.2633
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 198,
+        "avg_1h": 0.3,
+        "avg_24h": -2.62,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 178,
+        "count": 179,
         "avg_1h": 0.35,
         "avg_24h": -3.02,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 198,
-        "avg_1h": 0.25,
-        "avg_24h": -2.62,
+      "macro": {
+        "count": 93,
+        "avg_1h": -0.24,
+        "avg_24h": -1.78,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
         "count": 4,
         "avg_1h": 0.68,
         "avg_24h": 1.29,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 94,
-        "avg_1h": -0.24,
-        "avg_24h": -1.78,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
