@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-06-27T04:13:04.661843+00:00",
+  "generated_at": "2026-06-27T08:03:59.998312+00:00",
   "events": [
+    {
+      "event_id": "09f56436-5307-450e-828d-702838f71a4e",
+      "source": "rss:cointelegraph",
+      "title": "SOL reclaims $72, but onchain data flags weakening momentum",
+      "url": "https://cointelegraph.com/markets/sol-reclaims-72-but-onchain-data-flags-weakening-momentum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [
+        "SOL"
+      ],
+      "timestamp_utc": "2026-06-27T02:47:59+00:00",
+      "raw_text": "SOL reclaims $72, but onchain data flags weakening momentum\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SOL reclaims $72, but onchain data flags weakening momentum\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-202708-leg",
+      "impact": {
+        "t_plus_5m": 0.5952,
+        "t_plus_15m": 0.6358,
+        "t_plus_1h": 0.8624,
+        "t_plus_4h": 0.6636
+      }
+    },
+    {
+      "event_id": "44cd8383-5733-425a-aa16-e0e489617fa8",
+      "source": "rss:cointelegraph",
+      "title": "US senators urge CFTC probe Polymarket over ‘deceptive marketing’",
+      "url": "https://cointelegraph.com/news/us-senators-urge-cftc-probe-polymarket-over-report-deceptive-marketing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-27T02:16:06+00:00",
+      "raw_text": "US senators urge CFTC probe Polymarket over ‘deceptive marketing’\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US senators urge CFTC probe Polymarket over ‘deceptive marketing’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/analys-analyt",
+      "impact": {}
+    },
+    {
+      "event_id": "cc3223c7-8a9b-4f69-bcd3-4e3437abd535",
+      "source": "rss:cointelegraph",
+      "title": "Old Ether wallets move 37,806 ETH as whale conviction faces key test at $1.5K",
+      "url": "https://cointelegraph.com/markets/old-ether-wallets-move-37806-eth-as-whale-conviction-faces-key-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "whale_move",
+      "sentiment_label": "negative",
+      "tokens": [
+        "ETH"
+      ],
+      "timestamp_utc": "2026-06-26T22:18:07+00:00",
+      "raw_text": "Old Ether wallets move 37,806 ETH as whale conviction faces key test at $1.5K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Old Ether wallets move 37,806 ETH as whale conviction faces key test at $1.5K\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti",
+      "impact": {
+        "t_plus_5m": -0.2381,
+        "t_plus_15m": -0.4267,
+        "t_plus_1h": -0.0931,
+        "t_plus_4h": 0.154
+      }
+    },
     {
       "event_id": "967f03f3-6a62-4be8-a3ae-178073cfba58",
       "source": "rss:theblock",
@@ -6445,74 +6495,38 @@
         "t_plus_1h": -1.2353,
         "t_plus_4h": 0.2633
       }
-    },
-    {
-      "event_id": "3efe4f7e-0459-477f-9126-0c6505a69b98",
-      "source": "rss:theblock",
-      "title": "Bank of Korea advances CBDC deposit token initiative to test real-world usage: report",
-      "url": "https://www.theblock.co/post/405529/south-korea-cbdc-second-phase?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-22T10:02:46+00:00",
-      "raw_text": "Bank of Korea advances CBDC deposit token initiative to test real-world usage: report\n\n<p>South Korea's CBDC pilot project is entering its second phase, where deposit tokens will be integrated into existing banking systems.</p>\n\n<p>South Korea's CBDC pilot project is entering its second phase, where",
-      "impact": {}
-    },
-    {
-      "event_id": "03ae93ff-5434-479c-a6d5-f38df3e7ca26",
-      "source": "rss:theblock",
-      "title": "Ethereum ‘tax’ debate erupts over proposal to redirect portion of staking rewards to ecosystem funding",
-      "url": "https://www.theblock.co/post/405525/ethereum-tax-debate?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-22T09:49:52+00:00",
-      "raw_text": "Ethereum ‘tax’ debate erupts over proposal to redirect portion of staking rewards to ecosystem funding\n\n<p>A post on the Ethereum Research forum proposes letting validators vote to redirect up to 10% of staking rewards to fund public goods.</p>\n\n<p>A post on the Ethereum Research forum proposes lett",
-      "impact": {}
-    },
-    {
-      "event_id": "f43c1ecc-80d4-4099-81f0-744f057f8c48",
-      "source": "rss:coindesk",
-      "title": "Taiko halts its Ethereum layer-2 network after a bridge exploit, token dives",
-      "url": "https://www.coindesk.com/tech/2026/06/22/taiko-halts-its-ethereum-layer-2-network-after-a-bridge-exploit-token-dives-10",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-22T09:23:02+00:00",
-      "raw_text": "Taiko halts its Ethereum layer-2 network after a bridge exploit, token dives",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 178,
+        "avg_1h": 0.35,
+        "avg_24h": -3.02,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 198,
         "avg_1h": 0.25,
         "avg_24h": -2.62,
         "win_rate_1h_gt5pct": 0.0
       },
+      "whale_move": {
+        "count": 4,
+        "avg_1h": 0.68,
+        "avg_24h": 1.29,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 95,
+        "count": 94,
         "avg_1h": -0.24,
         "avg_24h": -1.78,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 177,
-        "avg_1h": 0.31,
-        "avg_24h": -3.02,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 23,
+        "count": 22,
         "avg_1h": 0.21,
         "avg_24h": 1.53,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "whale_move": {
-        "count": 3,
-        "avg_1h": 0.94,
-        "avg_24h": 1.29,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
