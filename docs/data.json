@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-06-27T12:15:41.029464+00:00",
+  "generated_at": "2026-06-27T14:53:10.043692+00:00",
   "events": [
+    {
+      "event_id": "327f4cb5-2c6e-47a0-b1c2-093ced800044",
+      "source": "rss:coindesk",
+      "title": "Binance founder CZ blames crypto's sour 2026 on mix of AI, global tension, 4-year cycle",
+      "url": "https://www.coindesk.com/policy/2026/06/27/binance-founder-cz-blames-crypto-s-sour-2026-on-mix-of-ai-global-tension-4-year-cycle",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-27T13:00:00+00:00",
+      "raw_text": "Binance founder CZ blames crypto's sour 2026 on mix of AI, global tension, 4-year cycle",
+      "impact": {}
+    },
+    {
+      "event_id": "bd3145b2-d022-4868-b328-8589c6c4d429",
+      "source": "rss:coindesk",
+      "title": "Strategy's valuation has fallen below the value of its bitcoin holdings",
+      "url": "https://www.coindesk.com/markets/2026/06/27/strategy-s-valuation-has-fallen-below-the-value-of-its-bitcoin-holdings",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-27T12:08:14+00:00",
+      "raw_text": "Strategy's valuation has fallen below the value of its bitcoin holdings",
+      "impact": {}
+    },
+    {
+      "event_id": "3d7ad5cd-ee5c-4f0c-8267-3d0db129e68f",
+      "source": "rss:cointelegraph",
+      "title": "SecondFi targets two-week recovery after Cardano wallet exploit",
+      "url": "https://cointelegraph.com/news/secondfi-two-week-recovery-cardano-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-27T12:00:56+00:00",
+      "raw_text": "SecondFi targets two-week recovery after Cardano wallet exploit\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" SecondFi targets two-week recovery after Cardano wallet exploit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-spotlight-for",
+      "impact": {}
+    },
     {
       "event_id": "0efda6a6-ea98-4ace-af03-5d6e0beee8e9",
       "source": "rss:cointelegraph",
@@ -6452,74 +6488,38 @@
       "timestamp_utc": "2026-06-22T11:00:00+00:00",
       "raw_text": "MoneyGram Joins Solana Developer Platform\n\nMoneyGram joins Solana Developer Platform as an infrastructure partner and validator, advancing blockchain-powered global payments with compliant, API-driven infrastructure.",
       "impact": {}
-    },
-    {
-      "event_id": "3e85e05d-8ba0-4e38-bc64-8b16d663e668",
-      "source": "rss:decrypt",
-      "title": "$1.9M in Fake Bets Drove Polymarket Hype: WSJ",
-      "url": "https://decrypt.co/371756/1-9m-in-fake-bets-drove-polymarket-hype-wsj",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-22T10:53:16+00:00",
-      "raw_text": "$1.9M in Fake Bets Drove Polymarket Hype: WSJ\n\nA Wall Street Journal probe found none of the roughly $1.9 million in bets shown across 1,100-plus creator videos were real.",
-      "impact": {}
-    },
-    {
-      "event_id": "1d9052e1-c561-40cd-88ca-6bcb514efa45",
-      "source": "rss:cointelegraph",
-      "title": "Q2 2026 emerges as most-hacked quarter on record with 83 incidents",
-      "url": "https://cointelegraph.com/news/q2-2026-most-hacked-quarter-record-83-incidents?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-22T10:52:50+00:00",
-      "raw_text": "Q2 2026 emerges as most-hacked quarter on record with 83 incidents\n\nCrypto hackers stole $755 million across 83 cybersecurity incidents, as cross–chain bridges remained the most costly attack vector of the crypto industry.",
-      "impact": {}
-    },
-    {
-      "event_id": "d813d8df-b8fb-4875-8816-e0dabcf19dd2",
-      "source": "rss:coindesk",
-      "title": "Bank of England backs down on strict stablecoin holding limits, sets $50 billion issuance cap",
-      "url": "https://www.coindesk.com/policy/2026/06/22/bank-of-england-backs-down-on-strict-stablecoin-holding-limits-sets-usd50-billion-issuance-cap",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-22T10:48:14+00:00",
-      "raw_text": "Bank of England backs down on strict stablecoin holding limits, sets $50 billion issuance cap",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 94,
-        "avg_1h": -0.24,
-        "avg_24h": -1.78,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 198,
-        "avg_1h": 0.3,
-        "avg_24h": -2.62,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 178,
+        "count": 179,
         "avg_1h": 0.35,
         "avg_24h": -3.02,
         "win_rate_1h_gt5pct": 0.0
       },
-      "whale_move": {
-        "count": 4,
-        "avg_1h": 0.68,
-        "avg_24h": 1.29,
+      "unknown": {
+        "count": 197,
+        "avg_1h": 0.3,
+        "avg_24h": -2.62,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
         "count": 22,
         "avg_1h": 0.21,
         "avg_24h": 1.53,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 94,
+        "avg_1h": -0.24,
+        "avg_24h": -1.78,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "whale_move": {
+        "count": 4,
+        "avg_1h": 0.68,
+        "avg_24h": 1.29,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
