@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-06-27T18:15:53.368577+00:00",
+  "generated_at": "2026-06-27T20:17:12.911558+00:00",
   "events": [
+    {
+      "event_id": "f8196fcb-a4d0-453d-ba7a-92278a97831e",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin faces fresh capitulation risk as 50K BTC moved at a loss",
+      "url": "https://cointelegraph.com/markets/bitcoin-faces-fresh-capitulation-risk-as-50k-btc-moves-at-a-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-27T19:27:44+00:00",
+      "raw_text": "Bitcoin faces fresh capitulation risk as 50K BTC moved at a loss\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin faces fresh capitulation risk as 50K BTC moved at a loss\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-",
+      "impact": {}
+    },
+    {
+      "event_id": "7ce1caea-9658-4b24-8a22-d6e6b0aabee7",
+      "source": "rss:coindesk",
+      "title": "Why a selloff in gold and silver is dragging bitcoin down",
+      "url": "https://www.coindesk.com/markets/2026/06/27/why-a-selloff-in-gold-and-silver-is-dragging-bitcoin-down",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-27T18:11:04+00:00",
+      "raw_text": "Why a selloff in gold and silver is dragging bitcoin down",
+      "impact": {}
+    },
+    {
+      "event_id": "d6d4bc03-7d58-4f3c-8fee-f46b8363b2d9",
+      "source": "rss:cointelegraph",
+      "title": "DCG-backed Yuma launches fund offering institutional exposure to Bittensor",
+      "url": "https://cointelegraph.com/news/yuma-bittensor-fund-institutional-tao-decentralized-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-27T17:59:31+00:00",
+      "raw_text": "DCG-backed Yuma launches fund offering institutional exposure to Bittensor\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DCG-backed Yuma launches fund offering institutional exposure to Bittensor\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-co",
+      "impact": {}
+    },
     {
       "event_id": "bfea64a0-36ca-4133-a856-f6c8801e4c88",
       "source": "rss:decrypt",
@@ -446,7 +482,8 @@
         "t_plus_5m": 0.7046,
         "t_plus_15m": 0.7527,
         "t_plus_1h": -0.0298,
-        "t_plus_4h": 0.4903
+        "t_plus_4h": 0.4903,
+        "t_plus_24h": 1.5353
       }
     },
     {
@@ -513,7 +550,8 @@
         "t_plus_5m": 0.5273,
         "t_plus_15m": 0.6403,
         "t_plus_1h": 0.5503,
-        "t_plus_4h": -0.2985
+        "t_plus_4h": -0.2985,
+        "t_plus_24h": 2.0504
       }
     },
     {
@@ -6428,70 +6466,26 @@
       "timestamp_utc": "2026-06-22T12:30:44+00:00",
       "raw_text": "MoneyGram becomes Solana validator, expands blockchain payments strategy\n\n<p>Solana is now the third blockchain where MoneyGram operates an official validator, alongside Tempo and the Midnight Network.</p>\n\n<p>Solana is now the third blockchain where MoneyGram operates an official validator, alongsi",
       "impact": {}
-    },
-    {
-      "event_id": "98870f4b-37b4-40f8-87c9-9cb33fdc0853",
-      "source": "rss:cointelegraph",
-      "title": "EUR trading accounts for 1% of Binance spot volume, CryptoQuant says",
-      "url": "https://cointelegraph.com/news/eur-trades-binance-spot-volume-cryptoquant?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-22T12:26:58+00:00",
-      "raw_text": "EUR trading accounts for 1% of Binance spot volume, CryptoQuant says\n\nEuro-denominated trading accounts for around 1% of Binance's spot volume, according to CryptoQuant data, as the exchange faces uncertainty ahead of MiCA's July 1 deadline.",
-      "impact": {}
-    },
-    {
-      "event_id": "280d8027-58df-4d2d-aa22-70805b1426f7",
-      "source": "rss:decrypt",
-      "title": "Bitcoin 'Resilient' After Hawkish Fed, But No 'Return of Demand': Analysts",
-      "url": "https://decrypt.co/371760/bitcoin-resilient-after-hawkish-fed-but-no-return-of-demand-analysts",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-22T12:12:25+00:00",
-      "raw_text": "Bitcoin 'Resilient' After Hawkish Fed, But No 'Return of Demand': Analysts\n\nWith ETF outflows persisting and selling \"nearly exhausted,\" analysts say Bitcoin is range-bound and waiting for a catalyst.",
-      "impact": {}
-    },
-    {
-      "event_id": "125157ff-f384-47d3-bec4-4511c6110ea2",
-      "source": "rss:theblock",
-      "title": "Michael Saylor’s Strategy buys another 520 BTC for $35 million, adds to USD reserve despite STRC slide",
-      "url": "https://www.theblock.co/post/405565/michael-saylor-strategy-buys-more-bitcoin-despite-strc-slide?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-22T12:07:46+00:00",
-      "raw_text": "Michael Saylor’s Strategy buys another 520 BTC for $35 million, adds to USD reserve despite STRC slide\n\n<p>Strategy's total holdings account for more than 4% of the 21 million bitcoin supply cap — worth around $55 billion.</p>\n\n<p>Strategy's total holdings account for more than 4% of the 21 million ",
-      "impact": {
-        "t_plus_5m": -0.5579,
-        "t_plus_15m": -0.4361,
-        "t_plus_1h": -0.0932,
-        "t_plus_4h": -0.6736,
-        "t_plus_24h": -4.0197
-      }
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 178,
+        "count": 179,
         "avg_1h": 0.35,
         "avg_24h": -3.02,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
         "count": 196,
-        "avg_1h": 0.31,
-        "avg_24h": -2.44,
+        "avg_1h": 0.32,
+        "avg_24h": -2.18,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 95,
+        "count": 94,
         "avg_1h": -0.24,
-        "avg_24h": -1.78,
+        "avg_24h": -1.23,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
@@ -6503,7 +6497,7 @@
       "whale_move": {
         "count": 4,
         "avg_1h": 0.68,
-        "avg_24h": 1.29,
+        "avg_24h": 1.54,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
