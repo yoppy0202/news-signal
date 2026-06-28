@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-06-28T05:43:16.279838+00:00",
+  "generated_at": "2026-06-28T09:29:03.629303+00:00",
   "events": [
+    {
+      "event_id": "52d84ecd-6dc4-4b76-9fd0-03bbebe41715",
+      "source": "rss:coindesk",
+      "title": "Bitcoin falls below $60,000, on track for a rare back-to-back quarterly loss",
+      "url": "https://www.coindesk.com/markets/2026/06/28/bitcoin-falls-below-usd60-000-on-track-for-a-rare-back-to-back-quarterly-loss",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-28T07:10:52+00:00",
+      "raw_text": "Bitcoin falls below $60,000, on track for a rare back-to-back quarterly loss",
+      "impact": {}
+    },
+    {
+      "event_id": "8151edd2-d0c9-4406-bb90-bb699fb742a2",
+      "source": "rss:cointelegraph",
+      "title": "Base post-mortem reveals sequencer bug behind back-to-back outages",
+      "url": "https://cointelegraph.com/news/base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-28T05:14:05+00:00",
+      "raw_text": "Base post-mortem reveals sequencer bug behind back-to-back outages\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Base post-mortem reveals sequencer bug behind back-to-back outages\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-transact",
+      "impact": {}
+    },
     {
       "event_id": "ef857371-ffce-4931-a8c4-8126e7b936e7",
       "source": "rss:cointelegraph",
@@ -6451,42 +6475,22 @@
       "timestamp_utc": "2026-06-22T13:12:10+00:00",
       "raw_text": "Benchmark reiterates $570 target on Strategy after STRC selloff, says preferred stock is ‘not a stablecoin’\n\n<p>Benchmark said STRC's drop below $83 was a leverage flush, not a \"depeg,\" and reiterated its $570 target on Strategy.</p>\n\n<p>Benchmark said STRC's drop below $83 was a leverage flush, not",
       "impact": {}
-    },
-    {
-      "event_id": "63d5fed9-5d08-4e95-b7f7-4ec69d03184e",
-      "source": "rss:coindesk",
-      "title": "Bitmine added $92 million of ETH, with Tom Lee continuing to believe in 'crypto spring'",
-      "url": "https://www.coindesk.com/business/2026/06/22/bitmine-added-usd92-million-of-eth-with-tom-lee-continuing-to-believe-in-crypto-spring",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-06-22T13:04:44+00:00",
-      "raw_text": "Bitmine added $92 million of ETH, with Tom Lee continuing to believe in 'crypto spring'",
-      "impact": {
-        "t_plus_5m": -0.1087,
-        "t_plus_15m": -0.075,
-        "t_plus_1h": 0.4543,
-        "t_plus_4h": -1.3555,
-        "t_plus_24h": -6.2993
-      }
-    },
-    {
-      "event_id": "ba7cf2ac-6110-4353-9113-0591202472ef",
-      "source": "rss:coindesk",
-      "title": "Bitcoin mining network becoming more sensitive to price swings, JPMorgan says",
-      "url": "https://www.coindesk.com/markets/2026/06/22/bitcoin-mining-network-becoming-more-sensitive-to-price-swings-jpmorgan-says",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-22T12:51:16+00:00",
-      "raw_text": "Bitcoin mining network becoming more sensitive to price swings, JPMorgan says",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 194,
+        "avg_1h": 0.32,
+        "avg_24h": -1.26,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 96,
+        "avg_1h": -0.24,
+        "avg_24h": -1.23,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 178,
         "avg_1h": 0.34,
@@ -6497,18 +6501,6 @@
         "count": 24,
         "avg_1h": 0.13,
         "avg_24h": 1.53,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 95,
-        "avg_1h": -0.24,
-        "avg_24h": -1.23,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 195,
-        "avg_1h": 0.32,
-        "avg_24h": -1.98,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
