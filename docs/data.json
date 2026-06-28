@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-06-28T18:15:51.483984+00:00",
+  "generated_at": "2026-06-28T20:21:36.503175+00:00",
   "events": [
+    {
+      "event_id": "b29cfad0-9d6f-457a-9521-7a88501d38f4",
+      "source": "rss:coindesk",
+      "title": "CZ wants to make the U.S. the 'capital of crypto': State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/06/28/cz-wants-to-make-the-u-s-the-capital-of-crypto-state-of-crypto",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-06-28T19:30:00+00:00",
+      "raw_text": "CZ wants to make the U.S. the 'capital of crypto': State of Crypto",
+      "impact": {}
+    },
+    {
+      "event_id": "a4418c7c-77dc-4e14-b03c-9bf8c65994cd",
+      "source": "rss:cointelegraph",
+      "title": "BIS warns stablecoins risk fragmenting global financial system",
+      "url": "https://cointelegraph.com/news/bis-warns-stablecoins-risk-fragmenting-global-financial-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-28T18:58:45+00:00",
+      "raw_text": "BIS warns stablecoins risk fragmenting global financial system\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BIS warns stablecoins risk fragmenting global financial system\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-world-bank-initi",
+      "impact": {}
+    },
     {
       "event_id": "b6b68b0a-cd80-4f9a-9ed1-77ece9accdbf",
       "source": "rss:theblock",
@@ -8,10 +32,16 @@
       "url": "https://www.theblock.co/post/406460/michael-saylor-signals-another-bitcoin-buy-as-strategy-sits-about-13-billion-underwater?utm_source=rss&utm_medium=rss",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-28T16:13:13+00:00",
       "raw_text": "Michael Saylor signals another bitcoin buy as Strategy sits about $13 billion underwater\n\n<p>A Monday filing would mark Strategy's fourth straight week of buying, after a 520 BTC purchase on June 22 that was its smallest recent tranche.</p>\n\n<p>A Monday filing would mark Strategy's fourth straight w",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.4141,
+        "t_plus_15m": 0.1741,
+        "t_plus_1h": 0.0225
+      }
     },
     {
       "event_id": "51d7d3f5-8251-4ab2-96f1-bdc3caba7a10",
@@ -6435,44 +6465,20 @@
       "timestamp_utc": "2026-06-22T14:55:32+00:00",
       "raw_text": "Strategy Pads Cash Reserves to $1.4B After STRC's Stumble\n\nMichael Saylor’s firm topped up its USD cash reserve to $1.4 billion as it made its smallest Bitcoin buy since selling 32 BTC three weeks ago",
       "impact": {}
-    },
-    {
-      "event_id": "e6fe2992-73a5-4f3a-93c8-01654daa3540",
-      "source": "rss:cointelegraph",
-      "title": "Why Google search can be a crypto wallet risk",
-      "url": "https://cointelegraph.com/learn/fake-google-ads-crypto-wallet-security?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-22T14:30:00+00:00",
-      "raw_text": "Why Google search can be a crypto wallet risk\n\nThink your wallet is safe? A major crypto risk may start with a Google search and one wrong click.",
-      "impact": {}
-    },
-    {
-      "event_id": "617d889a-49bd-4d37-920e-a95b41c7a838",
-      "source": "rss:bitcoinmagazine",
-      "title": "ICE and OKX Form Joint Venture to Connect NYSE Infrastructure With 120 Million Crypto Users",
-      "url": "https://bitcoinmagazine.com/news/ice-and-okx-form-crypto-to-connect-nyse",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-22T14:17:43+00:00",
-      "raw_text": "ICE and OKX Form Joint Venture to Connect NYSE Infrastructure With 120 Million Crypto Users\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/ICE-and-OKX-Form-Joint-Venture-to-Connect-NYSE-Infrastructu",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 181,
-        "avg_1h": 0.34,
-        "avg_24h": -1.2,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
         "count": 194,
         "avg_1h": 0.32,
         "avg_24h": -0.77,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 181,
+        "avg_1h": 0.32,
+        "avg_24h": -1.2,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
