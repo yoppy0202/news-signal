@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-28T00:12:29.971936+00:00",
+  "generated_at": "2026-06-28T05:43:16.279838+00:00",
   "events": [
+    {
+      "event_id": "ef857371-ffce-4931-a8c4-8126e7b936e7",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin unspent transaction outputs signal capitulation underway: analyst",
+      "url": "https://cointelegraph.com/news/bitcoin-unspent-transaction-outputs-signal-capitulation-underway-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-28T02:51:04+00:00",
+      "raw_text": "Bitcoin unspent transaction outputs signal capitulation underway: analyst\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin unspent transaction outputs signal capitulation underway: analyst\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
+      "impact": {}
+    },
     {
       "event_id": "2c3363ee-4447-446e-885f-46519bcd3ab7",
       "source": "rss:theblock",
@@ -8,10 +20,17 @@
       "url": "https://www.theblock.co/post/406457/secondfi-maps-recovery-path-after-2-4-million-cardano-wallet-exploit-aims-to-return-funds-within-two-weeks?utm_source=rss&utm_medium=rss",
       "event_type": "hack",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "ADA"
+      ],
       "timestamp_utc": "2026-06-27T23:10:39+00:00",
       "raw_text": "SecondFi maps recovery path after $2.4 million Cardano wallet exploit, aims to return funds within two weeks\n\n<p>An exploit drained about $2.4 million in ADA from 374 addresses over three days through a flaw in SecondFi's wallet-generation software.</p>\n\n<p>An exploit drained about $2.4 million in A",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1958,
+        "t_plus_15m": 0.0013,
+        "t_plus_1h": -0.0295,
+        "t_plus_4h": -0.0794
+      }
     },
     {
       "event_id": "765ddf4c-bb17-4ac6-8a71-fcc9a305939f",
@@ -40,7 +59,8 @@
       "impact": {
         "t_plus_5m": 0.0405,
         "t_plus_15m": 0.0579,
-        "t_plus_1h": 0.1655
+        "t_plus_1h": 0.1655,
+        "t_plus_4h": -0.2902
       }
     },
     {
@@ -263,7 +283,8 @@
         "t_plus_5m": 0.5952,
         "t_plus_15m": 0.6358,
         "t_plus_1h": 0.8624,
-        "t_plus_4h": 0.6636
+        "t_plus_4h": 0.6636,
+        "t_plus_24h": -1.3149
       }
     },
     {
@@ -294,7 +315,8 @@
         "t_plus_5m": -0.2381,
         "t_plus_15m": -0.4267,
         "t_plus_1h": -0.0931,
-        "t_plus_4h": 0.154
+        "t_plus_4h": 0.154,
+        "t_plus_24h": -0.2093
       }
     },
     {
@@ -6461,25 +6483,19 @@
       "timestamp_utc": "2026-06-22T12:51:16+00:00",
       "raw_text": "Bitcoin mining network becoming more sensitive to price swings, JPMorgan says",
       "impact": {}
-    },
-    {
-      "event_id": "e22ba5a7-65d2-4dad-87b4-4c76848f5bb5",
-      "source": "rss:theblock",
-      "title": "Crypto trading app Fomo raises $75 million at $550 million valuation in Index Ventures-led Series B",
-      "url": "https://www.theblock.co/post/405563/crypto-trading-app-fomo-raises-75-million-at-550-million-valuation-in-index-ventures-led-series-b-report?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-22T12:46:27+00:00",
-      "raw_text": "Crypto trading app Fomo raises $75 million at $550 million valuation in Index Ventures-led Series B\n\n<p>Fomo raised a $75 million Series B round at a $550 million valuation led by Index Ventures, with participation from USV and others.</p>\n\n<p>Fomo raised a $75 million Series B round at a $550 milli",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 178,
+        "avg_1h": 0.34,
+        "avg_24h": -2.45,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
         "count": 24,
-        "avg_1h": 0.21,
+        "avg_1h": 0.13,
         "avg_24h": 1.53,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6487,12 +6503,6 @@
         "count": 95,
         "avg_1h": -0.24,
         "avg_24h": -1.23,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 178,
-        "avg_1h": 0.34,
-        "avg_24h": -3.02,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
@@ -6504,7 +6514,7 @@
       "whale_move": {
         "count": 4,
         "avg_1h": 0.68,
-        "avg_24h": 1.54,
+        "avg_24h": 1.11,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
