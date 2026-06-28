@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-27T22:13:42.864606+00:00",
+  "generated_at": "2026-06-28T00:12:29.971936+00:00",
   "events": [
+    {
+      "event_id": "2c3363ee-4447-446e-885f-46519bcd3ab7",
+      "source": "rss:theblock",
+      "title": "SecondFi maps recovery path after $2.4 million Cardano wallet exploit, aims to return funds within two weeks",
+      "url": "https://www.theblock.co/post/406457/secondfi-maps-recovery-path-after-2-4-million-cardano-wallet-exploit-aims-to-return-funds-within-two-weeks?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-27T23:10:39+00:00",
+      "raw_text": "SecondFi maps recovery path after $2.4 million Cardano wallet exploit, aims to return funds within two weeks\n\n<p>An exploit drained about $2.4 million in ADA from 374 addresses over three days through a flaw in SecondFi's wallet-generation software.</p>\n\n<p>An exploit drained about $2.4 million in A",
+      "impact": {}
+    },
     {
       "event_id": "765ddf4c-bb17-4ac6-8a71-fcc9a305939f",
       "source": "rss:cointelegraph",
@@ -27,7 +39,8 @@
       "raw_text": "Bitcoin faces fresh capitulation risk as 50K BTC moved at a loss\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin faces fresh capitulation risk as 50K BTC moved at a loss\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-",
       "impact": {
         "t_plus_5m": 0.0405,
-        "t_plus_15m": 0.0579
+        "t_plus_15m": 0.0579,
+        "t_plus_1h": 0.1655
       }
     },
     {
@@ -6460,22 +6473,16 @@
       "timestamp_utc": "2026-06-22T12:46:27+00:00",
       "raw_text": "Crypto trading app Fomo raises $75 million at $550 million valuation in Index Ventures-led Series B\n\n<p>Fomo raised a $75 million Series B round at a $550 million valuation led by Index Ventures, with participation from USV and others.</p>\n\n<p>Fomo raised a $75 million Series B round at a $550 milli",
       "impact": {}
-    },
-    {
-      "event_id": "e4968bc5-5c1f-4503-8880-f00875935d26",
-      "source": "rss:coindesk",
-      "title": "Strategy added $35 million in bitcoin, $300 million in cash reserves last week",
-      "url": "https://www.coindesk.com/markets/2026/06/22/strategy-added-usd35-million-in-bitcoin-usd300-million-in-cash-reserves-last-week",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-22T12:39:40+00:00",
-      "raw_text": "Strategy added $35 million in bitcoin, $300 million in cash reserves last week",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 24,
+        "avg_1h": 0.21,
+        "avg_24h": 1.53,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 95,
         "avg_1h": -0.24,
@@ -6484,20 +6491,14 @@
       },
       "narrative": {
         "count": 178,
-        "avg_1h": 0.35,
+        "avg_1h": 0.34,
         "avg_24h": -3.02,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 196,
+        "count": 195,
         "avg_1h": 0.32,
         "avg_24h": -1.98,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 23,
-        "avg_1h": 0.21,
-        "avg_24h": 1.53,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
