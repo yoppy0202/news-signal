@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-28T09:29:03.629303+00:00",
+  "generated_at": "2026-06-28T11:57:19.889298+00:00",
   "events": [
+    {
+      "event_id": "0fdb4251-c62d-4615-b674-3166e12676d0",
+      "source": "rss:cointelegraph",
+      "title": "Grayscale's Pandl hopes Strategy sells $3B in Bitcoin to restore confidence",
+      "url": "https://cointelegraph.com/news/grayscales-pandl-strategy-sells-3b-bitcoin-confidence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-28T07:59:28+00:00",
+      "raw_text": "Grayscale's Pandl hopes Strategy sells $3B in Bitcoin to restore confidence\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Grayscale's Pandl hopes Strategy sells $3B in Bitcoin to restore confidence\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-",
+      "impact": {}
+    },
     {
       "event_id": "52d84ecd-6dc4-4b76-9fd0-03bbebe41715",
       "source": "rss:coindesk",
@@ -6463,22 +6475,16 @@
       "impact": {
         "t_plus_24h": -3.6167
       }
-    },
-    {
-      "event_id": "0c93eba1-7cbd-42b2-994c-674c937805aa",
-      "source": "rss:theblock",
-      "title": "Benchmark reiterates $570 target on Strategy after STRC selloff, says preferred stock is ‘not a stablecoin’",
-      "url": "https://www.theblock.co/post/405581/benchmark-reiterates-570-target-on-strategy-after-strc-selloff-says-preferred-stock-is-not-a-stablecoin?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-22T13:12:10+00:00",
-      "raw_text": "Benchmark reiterates $570 target on Strategy after STRC selloff, says preferred stock is ‘not a stablecoin’\n\n<p>Benchmark said STRC's drop below $83 was a leverage flush, not a \"depeg,\" and reiterated its $570 target on Strategy.</p>\n\n<p>Benchmark said STRC's drop below $83 was a leverage flush, not",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 178,
+        "avg_1h": 0.34,
+        "avg_24h": -2.45,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 194,
         "avg_1h": 0.32,
@@ -6489,12 +6495,6 @@
         "count": 96,
         "avg_1h": -0.24,
         "avg_24h": -1.23,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 178,
-        "avg_1h": 0.34,
-        "avg_24h": -2.45,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
