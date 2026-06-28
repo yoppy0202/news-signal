@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-06-28T11:57:19.889298+00:00",
+  "generated_at": "2026-06-28T14:11:48.072536+00:00",
   "events": [
+    {
+      "event_id": "5c22b049-f186-4d72-a586-cab2cd3d8ba4",
+      "source": "rss:cointelegraph",
+      "title": "Binance posts over $400M in weekly net outflows as MiCA deadline nears",
+      "url": "https://cointelegraph.com/news/binance-400m-weekly-net-outflows-mica-deadline-nears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-28T11:51:33+00:00",
+      "raw_text": "Binance posts over $400M in weekly net outflows as MiCA deadline nears\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance posts over $400M in weekly net outflows as MiCA deadline nears\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-",
+      "impact": {}
+    },
     {
       "event_id": "0fdb4251-c62d-4615-b674-3166e12676d0",
       "source": "rss:cointelegraph",
@@ -6459,28 +6471,12 @@
       "impact": {
         "t_plus_24h": -3.5986
       }
-    },
-    {
-      "event_id": "c8c02d97-e7a4-472b-a31a-ea05b7389546",
-      "source": "rss:bitcoinmagazine",
-      "title": "Michael Saylor’s Strategy (MSTR) Buys 520 Bitcoin, Raises USD Reserve to $1.4 Billion",
-      "url": "https://bitcoinmagazine.com/news/michael-saylors-strategy-buys-520-bitcoin",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-22T13:16:43+00:00",
-      "raw_text": "Michael Saylor’s Strategy (MSTR) Buys 520 Bitcoin, Raises USD Reserve to $1.4 Billion\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time-in-Years-as-Bitcoin-Pr",
-      "impact": {
-        "t_plus_24h": -3.6167
-      }
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 178,
+        "count": 179,
         "avg_1h": 0.34,
         "avg_24h": -2.45,
         "win_rate_1h_gt5pct": 0.0
@@ -6492,9 +6488,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 96,
+        "count": 95,
         "avg_1h": -0.24,
-        "avg_24h": -1.23,
+        "avg_24h": -0.75,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
