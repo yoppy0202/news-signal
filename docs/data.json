@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-06-28T22:12:51.327537+00:00",
+  "generated_at": "2026-06-29T00:17:44.826928+00:00",
   "events": [
+    {
+      "event_id": "94c1794b-b569-404f-893c-d849237a9e2b",
+      "source": "rss:cointelegraph",
+      "title": "Binance booted from EU, EthLabs rises up to save Ethereum: Hodler's Digest June 14-28",
+      "url": "https://cointelegraph.com/features/hodlers-digest-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-28T22:59:38+00:00",
+      "raw_text": "Binance booted from EU, EthLabs rises up to save Ethereum: Hodler's Digest June 14-28\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance booted from EU, EthLabs rises up to save Ethereum: Hodler's Digest June 14-28\" class=\"type:primaryImage\" src=\"https://s3-images.ctmed",
+      "impact": {}
+    },
+    {
+      "event_id": "289478b4-9201-4261-88dc-8122f9cc9683",
+      "source": "rss:theblock",
+      "title": "BIS says stablecoins fall short as money, warns of emerging-market risks in annual report",
+      "url": "https://www.theblock.co/post/406466/bis-says-stablecoins-fall-short-as-money-warns-of-emerging-market-risks-in-annual-report?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-28T22:04:00+00:00",
+      "raw_text": "BIS says stablecoins fall short as money, warns of emerging-market risks in annual report\n\n<p>The Bank for International Settlements argued in its annual report that stablecoins still fall short of money on singleness, elasticity and integrity.</p>\n\n<p>The Bank for International Settlements argued i",
+      "impact": {}
+    },
     {
       "event_id": "b29cfad0-9d6f-457a-9521-7a88501d38f4",
       "source": "rss:coindesk",
@@ -6443,34 +6467,16 @@
       "timestamp_utc": "2026-06-22T15:01:10+00:00",
       "raw_text": "Bitcoin treasury Strive’s shares jump as company’s holdings near 20,000 BTC\n\n<p>The bitcoin treasury company founded by Vivek Ramaswamy saw its shares jump about 10% in early trading Monday.</p>\n\n<p>The bitcoin treasury company founded by Vivek Ramaswamy saw its shares jump about 10% in early tradin",
       "impact": {}
-    },
-    {
-      "event_id": "7ef8677e-9854-4b0f-a264-c1a8cc22f551",
-      "source": "rss:coindesk",
-      "title": "Anchorage aims to bring banks onchain with new tokenized deposit platform",
-      "url": "https://www.coindesk.com/business/2026/06/19/anchorage-aims-to-bring-banks-onchain-with-new-tokenized-deposit-platform",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-22T15:00:00+00:00",
-      "raw_text": "Anchorage aims to bring banks onchain with new tokenized deposit platform",
-      "impact": {}
-    },
-    {
-      "event_id": "88e6d8e6-c29f-4b20-92e0-7634f00b6653",
-      "source": "rss:decrypt",
-      "title": "Strategy Pads Cash Reserves to $1.4B After STRC's Stumble",
-      "url": "https://decrypt.co/371763/strategy-pads-cash-reserves-to-1-4b-after-strcs-stumble",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-22T14:55:32+00:00",
-      "raw_text": "Strategy Pads Cash Reserves to $1.4B After STRC's Stumble\n\nMichael Saylor’s firm topped up its USD cash reserve to $1.4 billion as it made its smallest Bitcoin buy since selling 32 BTC three weeks ago",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 94,
+        "avg_1h": -0.24,
+        "avg_24h": -0.04,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 194,
         "avg_1h": 0.32,
@@ -6478,15 +6484,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 181,
+        "count": 180,
         "avg_1h": 0.32,
         "avg_24h": -1.17,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 93,
-        "avg_1h": -0.24,
-        "avg_24h": -0.04,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
