@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-06-30T15:38:58.890435+00:00",
+  "generated_at": "2026-06-30T18:08:08.280418+00:00",
   "events": [
+    {
+      "event_id": "37515555-5f49-48bd-ac36-8ac281db8720",
+      "source": "rss:bitcoinmagazine",
+      "title": "One Year Later: How Coldcard Q’s Key Teleport Delivers Secure Remote Key Management for Bitcoin Treasuries",
+      "url": "https://bitcoinmagazine.com/technical/one-year-later-how-coldcard-qs-key-teleport-delivers-secure-remote-key-management-for-bitcoin-treasuries",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-30T16:54:49+00:00",
+      "raw_text": "One Year Later: How Coldcard Q’s Key Teleport Delivers Secure Remote Key Management for Bitcoin Treasuries\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/tn-7.webp\" style=\"display: block; margin: 1e",
+      "impact": {}
+    },
+    {
+      "event_id": "3bd6e6f7-5189-4733-ad31-f49d2ddca0ba",
+      "source": "rss:cointelegraph",
+      "title": "Business use of stablecoins set for growth surge: Cybrid report",
+      "url": "https://cointelegraph.com/news/42-of-businesses-surveyed-use-stablecoins-for-cross-border-payments-cybrid-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-30T16:34:31+00:00",
+      "raw_text": "Business use of stablecoins set for growth surge: Cybrid report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Business use of stablecoins set for growth surge: Cybrid report \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/cross-border-tra",
+      "impact": {}
+    },
+    {
+      "event_id": "ce80f719-1db9-49dd-b33b-6a6d5c158204",
+      "source": "rss:coindesk",
+      "title": "Chinese exile once linked to Trump strategist gets 30-year sentence in $1 billion fraud",
+      "url": "https://www.coindesk.com/policy/2026/06/30/chinese-exile-once-linked-to-trump-strategist-gets-30-year-sentence-in-usd1-billion-fraud",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-30T16:31:46+00:00",
+      "raw_text": "Chinese exile once linked to Trump strategist gets 30-year sentence in $1 billion fraud",
+      "impact": {}
+    },
+    {
+      "event_id": "9b98eecb-f243-4d1e-a503-95efb598afe3",
+      "source": "rss:bitcoinmagazine",
+      "title": "Crypto Firms Lead $517 Million Corporate Surge Into 2026 Midterms",
+      "url": "https://bitcoinmagazine.com/news/crypto-firms-lead-517-million-corporate",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-30T16:03:06+00:00",
+      "raw_text": "Crypto Firms Lead $517 Million Corporate Surge Into 2026 Midterms\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Crypto-Firms-Lead-517-Million-Corporate-Surge-Into-2026-Midterms.jpg\" style=\"display:",
+      "impact": {}
+    },
+    {
+      "event_id": "13d1c6d7-08f2-4644-971f-ede26f840b5e",
+      "source": "rss:decrypt",
+      "title": "Sharplink Buys Ethereum for First Time in 2026—With ETH Down 68% From Peak",
+      "url": "https://decrypt.co/372432/harplink-buys-ethereum-first-time-2026-eth-down",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-30T15:54:01+00:00",
+      "raw_text": "Sharplink Buys Ethereum for First Time in 2026—With ETH Down 68% From Peak\n\nEthereum treasury firm Sharplink purchased around $16 million worth of ETH last week, marking its first crypto buy since last year.",
+      "impact": {}
+    },
+    {
+      "event_id": "ce6cf7a1-fa22-4e03-bf4b-f3712b760a6d",
+      "source": "rss:decrypt",
+      "title": "Dutch Prosecutors Seek to Bankrupt Crypto Platform Knaken After Funds Frozen",
+      "url": "https://decrypt.co/372433/dutch-prosecutors-seek-to-bankrupt-crypto-platform-knaken-after-funds-frozen",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-30T15:50:32+00:00",
+      "raw_text": "Dutch Prosecutors Seek to Bankrupt Crypto Platform Knaken After Funds Frozen\n\nProsecutors asked a Rotterdam court to wind up the unlicensed exchange, which has locked some 30,000 customers out of their crypto.",
+      "impact": {}
+    },
     {
       "event_id": "d844c6db-ee3c-4351-bfac-27d6914b0b64",
       "source": "rss:decrypt",
@@ -80,10 +152,16 @@
       "url": "https://bitcoinmagazine.com/news/goldman-lampe-bank-acquires-137m-in-btc",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-30T14:15:25+00:00",
       "raw_text": "UAE-Based Goldman Lampe Private Bank Acquires $137 Million in Bitcoin\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/UAE-Based-Goldman-Lampe-Private-Bank-Acquires-137-Million-in-Bitcoin.jpg\" style=\"",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 1.1634,
+        "t_plus_15m": 1.3175,
+        "t_plus_1h": 0.2662
+      }
     },
     {
       "event_id": "854fa71f-1bb3-4d6f-a2a7-aaa9df27e64f",
@@ -152,10 +230,16 @@
       "url": "https://www.theblock.co/post/406721/sharplink-buys-10000-eth-repurchases-2-13-million-shares-latest-buyback?utm_source=rss&utm_medium=rss",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-06-30T13:59:18+00:00",
       "raw_text": "Sharplink buys 10,000 ETH, repurchases 2.13 million SBET shares in latest buyback\n\n<p>Sharplink bought 10,000 ETH and repurchased 2.13 million SBET shares after completing a $75 million capital raise.</p>\n\n<p>Sharplink bought 10,000 ETH and repurchased 2.13 million SBET shares after completing a $75",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.7899,
+        "t_plus_15m": 0.7282,
+        "t_plus_1h": 0.1469
+      }
     },
     {
       "event_id": "d3d0203f-d094-4ef4-b543-c2f59e79f787",
@@ -539,6 +623,18 @@
       "tokens": [],
       "timestamp_utc": "2026-06-30T07:14:40+00:00",
       "raw_text": "Bitcoin's correlation with dollar-yen rate hits -0.90, undercutting 'carry trade' theory",
+      "impact": {}
+    },
+    {
+      "event_id": "2278f1db-8384-41c2-8c5f-f64cdf96af5c",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin falls back below $59,000, Circle's stock gets crushed",
+      "url": "https://www.coindesk.com/tech/2026/06/30/live-updates-blackrock-s-ibit-sheds-usd300-million-as-bitcoin-demand-dwindles",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-30T07:01:09+00:00",
+      "raw_text": "Live updates: Bitcoin falls back below $59,000, Circle's stock gets crushed",
       "impact": {}
     },
     {
@@ -1564,7 +1660,8 @@
         "t_plus_5m": 1.2096,
         "t_plus_15m": 1.1832,
         "t_plus_1h": 0.4299,
-        "t_plus_4h": 0.9963
+        "t_plus_4h": 0.9963,
+        "t_plus_24h": -0.7527
       }
     },
     {
@@ -6360,122 +6457,38 @@
       "timestamp_utc": "2026-06-24T06:39:41+00:00",
       "raw_text": "Bitcoin OGs aren't selling as aggressively as they did above $100,000",
       "impact": {}
-    },
-    {
-      "event_id": "c8bfa11e-79d6-496f-ad62-977207eb0f4e",
-      "source": "rss:coindesk",
-      "title": "Bitcoin’s ‘OG’ investors have slowed selling in a bullish sign for the market",
-      "url": "https://www.coindesk.com/markets/2026/06/24/bitcoin-s-og-investors-have-slowed-selling-in-a-bullish-sign-for-the-market",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-24T06:39:41+00:00",
-      "raw_text": "Bitcoin’s ‘OG’ investors have slowed selling in a bullish sign for the market",
-      "impact": {}
-    },
-    {
-      "event_id": "b0156580-cb9f-469d-9bb6-f63509304cc6",
-      "source": "rss:theblock",
-      "title": "Cboe launches prediction market suite with binary option contracts on S&P 500",
-      "url": "https://www.theblock.co/post/405930/cboe-launches-prediction-market-suite?utm_source=rss&utm_medium=rss",
-      "event_type": "listing",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-24T06:37:28+00:00",
-      "raw_text": "Cboe launches prediction market suite with binary option contracts on S&P 500\n\n<p>The contracts are currently available on Interactive Brokers and are expected to launch on Charles Schwab in the coming months.</p>\n\n<p>The contracts are currently available on Interactive Brokers and are expected to l",
-      "impact": {}
-    },
-    {
-      "event_id": "22f78358-99a4-4ddc-87ca-45fbbe5470ab",
-      "source": "rss:cointelegraph",
-      "title": "US nears ban on CBDCs until 2030 as housing bill goes to Trump",
-      "url": "https://cointelegraph.com/news/us-nears-ban-on-cbdcs-until-2030-as-housing-bill-goes-to-trump?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-24T06:06:46+00:00",
-      "raw_text": "US nears ban on CBDCs until 2030 as housing bill goes to Trump\n\nThe House passed a housing bill with a central bank digital currency ban until 2030, meaning it now just needs US President Donald Trump’s sign-off.",
-      "impact": {}
-    },
-    {
-      "event_id": "984922aa-01da-4183-9d9a-b9da68cfec09",
-      "source": "rss:cointelegraph",
-      "title": "Catholic leaders, US authorities challenge CLARITY Act over illicit activity",
-      "url": "https://cointelegraph.com/news/law-enforcement-and-catholic-groups-warn-clarity-act-facilitates-crypto-crime?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-24T06:06:15+00:00",
-      "raw_text": "Catholic leaders, US authorities challenge CLARITY Act over illicit activity\n\n“Regulatory certainty should not come at the expense of accountability, transparency, victim protection, or public safety,” the law enforcement associations said.",
-      "impact": {}
-    },
-    {
-      "event_id": "bf96cf67-b0fa-49af-add9-532ab5261b25",
-      "source": "rss:cointelegraph",
-      "title": "Blockchain.com, KuCoin expand payment rails across emerging markets",
-      "url": "https://cointelegraph.com/news/blockchaincom-kucoin-connect-digital-assets-to-payment-networks-in-emerging-markets?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-24T06:00:00+00:00",
-      "raw_text": "Blockchain.com, KuCoin expand payment rails across emerging markets\n\nBlockchain.com launched a Brazil-focused payments platform for businesses, while KuCoin expanded integrations with banking and mobile-money networks across Mexico, Bangladesh and Zambia.",
-      "impact": {}
-    },
-    {
-      "event_id": "b1899395-e036-4cbf-abd5-90a23de8e002",
-      "source": "rss:cointelegraph",
-      "title": "Sweden's H100 shareholders greenlight acquisition deal to triple Bitcoin holdings",
-      "url": "https://cointelegraph.com/news/h100-clears-shareholder-hurdle-for-deal-that-would-triple-bitcoin-holdings?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-24T06:00:00+00:00",
-      "raw_text": "Sweden's H100 shareholders greenlight acquisition deal to triple Bitcoin holdings\n\nThe Swedish health-tech company moved closer to becoming one of Europe's largest publicly traded Bitcoin treasury firms after shareholders approved a key condition for its planned acquisition of two Norwegian investme",
-      "impact": {}
-    },
-    {
-      "event_id": "8a7aa332-fcce-4d03-b551-e779fe4f6157",
-      "source": "rss:coindesk",
-      "title": "Live markets: Bitcoin claws back some of the losses after Micron beats earnings",
-      "url": "https://www.coindesk.com/tech/2026/06/24/live-markets-bitcoin-could-drop-to-usd59-000-in-the-short-term-as-liquidaity-dries-up",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-24T05:13:27+00:00",
-      "raw_text": "Live markets: Bitcoin claws back some of the losses after Micron beats earnings",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 22,
+        "avg_1h": 0.32,
+        "avg_24h": -0.37,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 195,
-        "avg_1h": 0.33,
-        "avg_24h": -1.17,
+        "count": 194,
+        "avg_1h": 0.32,
+        "avg_24h": -1.07,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 188,
+        "count": 187,
         "avg_1h": 0.43,
         "avg_24h": -0.5,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 87,
-        "avg_1h": -0.11,
+        "count": 89,
+        "avg_1h": -0.08,
         "avg_24h": -0.04,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
-        "count": 5,
+        "count": 4,
         "avg_1h": -0.59,
         "avg_24h": 0.97,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 21,
-        "avg_1h": 0.32,
-        "avg_24h": -0.37,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
