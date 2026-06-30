@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-06-30T00:16:08.195125+00:00",
+  "generated_at": "2026-06-30T05:15:57.118935+00:00",
   "events": [
+    {
+      "event_id": "682faf66-c0c9-40ce-95d2-cd84555dabe1",
+      "source": "rss:theblock",
+      "title": "Ark Invest loads up on Coinbase, Circle, Bullish, Robinhood shares as stocks rally higher",
+      "url": "https://www.theblock.co/post/406628/ark-invest-coinbase-circle-bullish-robinhood-monday?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-06-30T01:35:59+00:00",
+      "raw_text": "Ark Invest loads up on Coinbase, Circle, Bullish, Robinhood shares as stocks rally higher\n\n<p>Ark bought $6.85 million worth of Coinbase, $6.21 million worth of Circle Internet Group, and $3.54 million in Bullish on Monday.</p>\n\n<p>Ark bought $6.85 million worth of Coinbase, $6.21 million worth of C",
+      "impact": {}
+    },
+    {
+      "event_id": "8ccf7545-ae2b-44e2-b3a7-6e2cb788ee7c",
+      "source": "rss:cointelegraph",
+      "title": "Singapore's Hyperliquid warning, Indonesia's FinFluencer licence: Asia Express",
+      "url": "https://cointelegraph.com/features/singapores-hyperliquid-warning-indonesias-finfluencer-licence-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-06-30T01:23:22+00:00",
+      "raw_text": "Singapore's Hyperliquid warning, Indonesia's FinFluencer licence: Asia Express\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Singapore's Hyperliquid warning, Indonesia's FinFluencer licence: Asia Express \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/a",
+      "impact": {}
+    },
     {
       "event_id": "8dfcc9e3-a589-4e61-82d0-657bef6684e1",
       "source": "rss:coindesk",
@@ -44,10 +68,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-faces-critical-test-as-bulls-aim-to-hold-60k-did-btc-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-29T21:57:57+00:00",
       "raw_text": "Bitcoin faces critical test as bulls aim to hold $60K: Did BTC bottom?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin faces critical test as bulls aim to hold $60K: Did BTC bottom?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/art",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.3716,
+        "t_plus_15m": 0.293,
+        "t_plus_1h": 0.1856
+      }
     },
     {
       "event_id": "9bda3276-f60a-42b8-a3c1-538b49882b52",
@@ -124,7 +154,8 @@
       "impact": {
         "t_plus_5m": 0.2904,
         "t_plus_15m": 0.1325,
-        "t_plus_1h": 0.0477
+        "t_plus_1h": 0.0477,
+        "t_plus_4h": -0.1242
       }
     },
     {
@@ -226,7 +257,8 @@
       "impact": {
         "t_plus_5m": 0.0573,
         "t_plus_15m": 0.0336,
-        "t_plus_1h": 0.2673
+        "t_plus_1h": 0.2673,
+        "t_plus_4h": 0.2752
       }
     },
     {
@@ -6454,48 +6486,24 @@
         "t_plus_15m": -0.3716,
         "t_plus_1h": -0.6379
       }
-    },
-    {
-      "event_id": "c12d8cf6-dafd-4e76-ba0e-bd0833c926b3",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin Suisse Secures MiCAR License, Launches European Expansion from Liechtenstein",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-suisse-secures-micar-license",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-23T14:31:29+00:00",
-      "raw_text": "Bitcoin Suisse Secures MiCAR License, Launches European Expansion from Liechtenstein\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Suisse-Secures-MiCAR-License-Launches-European-Expansion-f",
-      "impact": {}
-    },
-    {
-      "event_id": "a5fd70a2-6ab5-422d-bac1-f9b92433cb19",
-      "source": "rss:cointelegraph",
-      "title": "Why tokenized SpaceX shares broke before retail investors could buy them",
-      "url": "https://cointelegraph.com/learn/tokenized-spacex-shares-xstocks-refunds?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-23T14:30:00+00:00",
-      "raw_text": "Why tokenized SpaceX shares broke before retail investors could buy them\n\nTokenized SpaceX shares drew more than $1 billion in demand, but many investors received refunds instead. What went wrong?",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 92,
-        "avg_1h": -0.15,
-        "avg_24h": -0.04,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 188,
+        "count": 190,
         "avg_1h": 0.35,
         "avg_24h": -1.0,
         "win_rate_1h_gt5pct": 0.0
       },
+      "macro": {
+        "count": 91,
+        "avg_1h": -0.15,
+        "avg_24h": -0.04,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 189,
+        "count": 188,
         "avg_1h": 0.33,
         "avg_24h": -1.17,
         "win_rate_1h_gt5pct": 0.0
