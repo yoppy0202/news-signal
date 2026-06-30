@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T20:17:13.214532+00:00",
+  "generated_at": "2026-06-30T22:35:21.648895+00:00",
   "events": [
     {
       "event_id": "955d8281-e986-4199-b302-d34d5febee78",
@@ -44,10 +44,17 @@
       "url": "https://cointelegraph.com/markets/bitcoin-price-slumps-to-near-58k-as-us-dollar-hits-40-year-high-against-yen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-06-30T18:17:56+00:00",
       "raw_text": "Bitcoin price risks drop below $58K as US dollar hits 40-year high against yen\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price risks drop below $58K as US dollar hits 40-year high against yen\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1424,
+        "t_plus_15m": -0.279,
+        "t_plus_1h": -0.0317,
+        "t_plus_4h": 0.1348
+      }
     },
     {
       "event_id": "a13dbdc2-12ad-4b36-b14b-0f3d86b8c378",
@@ -184,7 +191,8 @@
       "impact": {
         "t_plus_5m": -0.2948,
         "t_plus_15m": -0.0709,
-        "t_plus_1h": 0.0416
+        "t_plus_1h": 0.0416,
+        "t_plus_4h": 0.544
       }
     },
     {
@@ -286,7 +294,8 @@
       "impact": {
         "t_plus_5m": 1.1634,
         "t_plus_15m": 1.3175,
-        "t_plus_1h": 0.2662
+        "t_plus_1h": 0.2662,
+        "t_plus_4h": 0.3464
       }
     },
     {
@@ -6463,7 +6472,7 @@
     "by_event_type": {
       "narrative": {
         "count": 193,
-        "avg_1h": 0.32,
+        "avg_1h": 0.3,
         "avg_24h": -1.07,
         "win_rate_1h_gt5pct": 0.0
       },
