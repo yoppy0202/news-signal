@@ -1,6 +1,201 @@
 {
-  "generated_at": "2026-07-01T15:48:20.751600+00:00",
+  "generated_at": "2026-07-01T18:08:28.355080+00:00",
   "events": [
+    {
+      "event_id": "23dd4560-6fab-47a5-b310-b87fbe5f37e0",
+      "source": "rss:bitcoinmagazine",
+      "title": "Citi Slashes Bitcoin Target to $82,000 as ETF Money Heads for the Exits",
+      "url": "https://bitcoinmagazine.com/news/citi-slashes-bitcoin-target-to-82000",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-07-01T16:18:45+00:00",
+      "raw_text": "Citi Slashes Bitcoin Target to $82,000 as ETF Money Heads for the Exits\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/02/Citi-to-Integrate-Bitcoin-with-Traditional-Finance-Launch-Custody-Services.jpg\"",
+      "impact": {
+        "t_plus_5m": -0.0135
+      }
+    },
+    {
+      "event_id": "8fd1d90d-4858-471e-b579-305ed5471df7",
+      "source": "rss:coindesk",
+      "title": "Jefferies warns against buying the dip in Circle as Open USD raises new competition fears",
+      "url": "https://www.coindesk.com/markets/2026/07/01/jefferies-warns-against-buying-the-dip-in-circle-as-open-usd-raises-new-competition-fears",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-01T16:11:50+00:00",
+      "raw_text": "Jefferies warns against buying the dip in Circle as Open USD raises new competition fears",
+      "impact": {}
+    },
+    {
+      "event_id": "54716d6f-70ef-4196-8fc0-cf4e93aa9067",
+      "source": "rss:theblock",
+      "title": "Forward Industries jumps 17% after expanding Solana treasury to 7.55 million SOL",
+      "url": "https://www.theblock.co/post/406903/forward-industries-stock-jumps-expanding-solana-treasury-7-55-million-sol?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [
+        "SOL"
+      ],
+      "timestamp_utc": "2026-07-01T15:53:25+00:00",
+      "raw_text": "Forward Industries jumps 17% after expanding Solana treasury to 7.55 million SOL\n\n<p>Forward Industries holds more SOL than the next three largest publicly traded Solana treasury companies combined.</p>\n\n<p>Forward Industries holds more SOL than the next three largest publicly traded Solana treasury",
+      "impact": {
+        "t_plus_5m": -0.1251,
+        "t_plus_15m": -0.1498
+      }
+    },
+    {
+      "event_id": "9c39bec3-c00f-42e3-a83d-a3236fab678e",
+      "source": "rss:theblock",
+      "title": "Solana-based prediction market app on Phantom wallet launches",
+      "url": "https://www.theblock.co/post/406900/solana-based-prediction-market-app-on-phantom-wallet-launches?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-01T15:34:21+00:00",
+      "raw_text": "Solana-based prediction market app on Phantom wallet launches\n\n<p>“Prediction markets are one of the most powerful applications you can build on a high-performance blockchain,” said Solana Foundation.</p>\n\n<p>“Prediction markets are one of the most powerful applications you can build on a high-perfo",
+      "impact": {}
+    },
+    {
+      "event_id": "20043851-b3b7-42f1-8020-bad883f582c3",
+      "source": "rss:bitcoinmagazine",
+      "title": "Trump-Backed American Bitcoin (ABTC) Sets Reverse Split for July 2",
+      "url": "https://bitcoinmagazine.com/news/trump-backed-american-bitcoin-july-2",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-07-01T15:29:00+00:00",
+      "raw_text": "Trump-Backed American Bitcoin (ABTC) Sets Reverse Split for July 2\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/03/Trump-Linked-American-Bitcoin-ABTC-Surpasses-7000-BTC-as-Treasury-Growth-Accelerates",
+      "impact": {
+        "t_plus_5m": 0.4332,
+        "t_plus_15m": 0.388,
+        "t_plus_1h": 0.2847
+      }
+    },
+    {
+      "event_id": "67318a4d-1b31-4d50-92bf-273eb4287a72",
+      "source": "rss:coindesk",
+      "title": "Cantor says bitcoin bear market may be entering final stretch",
+      "url": "https://www.coindesk.com/markets/2026/07/01/cantor-says-bitcoin-bear-market-may-be-entering-final-stretch",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-01T15:11:46+00:00",
+      "raw_text": "Cantor says bitcoin bear market may be entering final stretch",
+      "impact": {}
+    },
+    {
+      "event_id": "e7852c92-22a6-4b96-8139-5ace856ba81a",
+      "source": "rss:decrypt",
+      "title": "Forward Industries Shares Spike as Leading Solana Treasury Adds $38 Million in SOL",
+      "url": "https://decrypt.co/372519/forward-industries-shares-spike-solana-treasury-adds-38-million",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [
+        "SOL"
+      ],
+      "timestamp_utc": "2026-07-01T15:09:05+00:00",
+      "raw_text": "Forward Industries Shares Spike as Leading Solana Treasury Adds $38 Million in SOL\n\nShares in top Solana treasury firm Forward Industries are jumping Wedesday after announcing that it added over 500,000 SOL to its stash.",
+      "impact": {
+        "t_plus_5m": -0.4933,
+        "t_plus_15m": -0.2559,
+        "t_plus_1h": -0.1498
+      }
+    },
+    {
+      "event_id": "224a50d9-8cc1-415c-8d4f-b14d390e60e0",
+      "source": "rss:coindesk",
+      "title": "Goliath Ventures CEO pleads guilty in $400 million crypto Ponzi case",
+      "url": "https://www.coindesk.com/policy/2026/07/01/goliath-ventures-ceo-pleads-guilty-in-usd400-million-crypto-ponzi-case",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-01T15:06:22+00:00",
+      "raw_text": "Goliath Ventures CEO pleads guilty in $400 million crypto Ponzi case",
+      "impact": {}
+    },
+    {
+      "event_id": "71e4a637-62c0-4156-8cff-a28426bc3b73",
+      "source": "rss:bitcoinmagazine",
+      "title": "SEC’s Peirce Sees Clarity Act Passing This Summer as Crypto Rules Take Shape",
+      "url": "https://bitcoinmagazine.com/news/secs-peirce-sees-clarity-act-passing",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-01T14:56:51+00:00",
+      "raw_text": "SEC’s Peirce Sees Clarity Act Passing This Summer as Crypto Rules Take Shape\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Congress-Schedules-CLARITY-Act-Hearing-for-July-17-in-New-York.jpg\" style=",
+      "impact": {}
+    },
+    {
+      "event_id": "40a47d11-72ed-460d-b42a-57fd29e29044",
+      "source": "rss:coindesk",
+      "title": "Bitcoin breaks above $60,000 after Fed Chair Warsh said inflation risks has come down",
+      "url": "https://www.coindesk.com/markets/2026/07/01/bitcoin-retakes-usd60-000-level-after-fed-chair-warsh-said-inflation-risks-has-come-down",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-01T14:36:00+00:00",
+      "raw_text": "Bitcoin breaks above $60,000 after Fed Chair Warsh said inflation risks has come down",
+      "impact": {}
+    },
+    {
+      "event_id": "ac0bdc27-2f0a-4d27-aaef-df3b8c74dd5a",
+      "source": "rss:coindesk",
+      "title": "EthLabs launches as Ethereum undergoes its biggest leadership transition in years",
+      "url": "https://www.coindesk.com/tech/2026/07/01/ethlabs-launches-as-ethereum-undergoes-its-biggest-leadership-transition-in-years",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-01T14:09:56+00:00",
+      "raw_text": "EthLabs launches as Ethereum undergoes its biggest leadership transition in years",
+      "impact": {}
+    },
+    {
+      "event_id": "f49d1846-6185-4a63-99a1-435229243509",
+      "source": "rss:bitcoinmagazine",
+      "title": "Taiwan Passes Crucial Crypto Law With Licensing Rules, Stablecoin Framework",
+      "url": "https://bitcoinmagazine.com/news/taiwan-passes-crucial-crypto-law",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-07-01T14:07:47+00:00",
+      "raw_text": "Taiwan Passes Crucial Crypto Law With Licensing Rules, Stablecoin Framework\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Taiwan-Passes-Crucial-Crypto-Law-With-Licensing-Rules-Stablecoin-Framework.",
+      "impact": {
+        "t_plus_5m": -0.2419,
+        "t_plus_15m": -0.1145,
+        "t_plus_1h": -0.2862
+      }
+    },
+    {
+      "event_id": "1f3732e1-3755-46a9-b0bd-76bba1135ba3",
+      "source": "rss:coindesk",
+      "title": "Europe's MiCA rollout sparks debate over who wins under new crypto rules",
+      "url": "https://www.coindesk.com/policy/2026/07/01/europe-s-mica-rollout-sparks-debate-over-who-wins-under-new-crypto-rules",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-01T14:00:24+00:00",
+      "raw_text": "Europe's MiCA rollout sparks debate over who wins under new crypto rules",
+      "impact": {}
+    },
+    {
+      "event_id": "0edc1e43-3a02-42eb-bd66-b467b812ba15",
+      "source": "rss:coindesk",
+      "title": "Europe is closing the door on offshore crypto, but it’s leaving the riskiest window open",
+      "url": "https://www.coindesk.com/opinion/2026/07/01/europe-is-closing-the-door-on-offshore-crypto-but-it-s-leaving-the-riskiest-window-open",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-01T14:00:00+00:00",
+      "raw_text": "Europe is closing the door on offshore crypto, but it’s leaving the riskiest window open",
+      "impact": {}
+    },
     {
       "event_id": "481a15ab-29aa-49dc-b04e-afd5552b45ee",
       "source": "rss:coindesk",
@@ -425,6 +620,18 @@
       "tokens": [],
       "timestamp_utc": "2026-07-01T07:42:49+00:00",
       "raw_text": "Bitcoin’s 20% June crash looks even deadlier on the charts. Here’s why",
+      "impact": {}
+    },
+    {
+      "event_id": "da9fc17b-c8d1-46b7-b233-4a873e460153",
+      "source": "rss:coindesk",
+      "title": "Live markets: bitcoin bounces to $60,000 after Warsh comments, economic data",
+      "url": "https://www.coindesk.com/tech/2026/07/01/live-markets-u-s-spot-bitcoin-etfs-had-their-worst-month-ever-in-june-shedding-usd4-5-billion",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-01T07:05:11+00:00",
+      "raw_text": "Live markets: bitcoin bounces to $60,000 after Warsh comments, economic data",
       "impact": {}
     },
     {
@@ -6219,220 +6426,32 @@
         "t_plus_1h": 1.6466,
         "t_plus_4h": 2.0742
       }
-    },
-    {
-      "event_id": "71d6bafb-eed7-4dcf-a578-cd642d613694",
-      "source": "rss:theblock",
-      "title": "Ripple launches RLUSD stablecoin in Japan after regulatory approval",
-      "url": "https://www.theblock.co/post/406067/ripple-launches-rlusd-stablecoin-japan?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-25T03:26:12+00:00",
-      "raw_text": "Ripple launches RLUSD stablecoin in Japan after regulatory approval\n\n<p>Ripple's RLUSD stablecoin is available through SBI VC Trade for both institutional and retail users in the country.</p>\n\n<p>Ripple's RLUSD stablecoin is available through SBI VC Trade for both institutional and retail users in t",
-      "impact": {}
-    },
-    {
-      "event_id": "29fe0a93-94f6-4c1a-8d73-c4549e0ae547",
-      "source": "rss:cointelegraph",
-      "title": "Abracadabra takes emergency action as MIM stablecoin depeg worsens",
-      "url": "https://cointelegraph.com/news/abracadabra-takes-emergency-measures-as-magic-internet-money-depeg-worsens?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-25T03:22:05+00:00",
-      "raw_text": "Abracadabra takes emergency action as MIM stablecoin depeg worsens\n\nThe protocol is raising interest rates across all Cauldrons to encourage debt repayment and reduce supply.",
-      "impact": {}
-    },
-    {
-      "event_id": "05c7d4f1-61ea-4408-8001-f5d5366261c0",
-      "source": "rss:cointelegraph",
-      "title": "Kalshi seeks funding at $40B valuation, nearly doubling last raise: FT",
-      "url": "https://cointelegraph.com/news/kalshi-seeks-funding-at-40b-valuation-nearly-doubling-last-raise-ft?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-25T02:23:39+00:00",
-      "raw_text": "Kalshi seeks funding at $40B valuation, nearly doubling last raise: FT\n\nKalshi is reportedly in talks to raise new capital at a $40 billion valuation, reflecting growing investor confidence in regulated prediction markets.",
-      "impact": {}
-    },
-    {
-      "event_id": "02860bc7-0201-4032-8fde-51034e8d7d41",
-      "source": "rss:theblock",
-      "title": "Kalshi in talks to raise funds at $40 billion valuation: FT",
-      "url": "https://www.theblock.co/post/406061/kalshi-40-billion-valuation?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-25T02:12:17+00:00",
-      "raw_text": "Kalshi in talks to raise funds at $40 billion valuation: FT\n\n<p>Kalshi's reported valuation reflects the firm's rapid growth, as it reported a $5 billion valuation last October.</p>\n\n<p>Kalshi's reported valuation reflects the firm's rapid growth, as it reported a $5 billion valuation last October.<",
-      "impact": {}
-    },
-    {
-      "event_id": "54c84c2c-0a82-410e-b641-b3d9fa4113db",
-      "source": "rss:decrypt",
-      "title": "Aave Token Could Climb 50x by End of 2030, Standard Chartered Says—Here's Why",
-      "url": "https://decrypt.co/372056/aave-token-climb-50x-end-2030-standard-chartered",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-24T22:27:05+00:00",
-      "raw_text": "Aave Token Could Climb 50x by End of 2030, Standard Chartered Says—Here's Why\n\nBitcoin to $500K, Ethereum to $40K, and Aave to $3,500 by the end of 2030? Standard Chartered just laid out some bullish price targets.",
-      "impact": {}
-    },
-    {
-      "event_id": "4244f7ec-b83e-452c-8211-3a5a04863d78",
-      "source": "rss:cointelegraph",
-      "title": "HYPE down 22% from record highs: Will spot demand revive the uptrend?",
-      "url": "https://cointelegraph.com/markets/hype-down-22-from-record-highs-can-spot-demand-retain-the-uptrend?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-24T22:08:25+00:00",
-      "raw_text": "HYPE down 22% from record highs: Will spot demand revive the uptrend?\n\nHYPE price drops near a key support zone where fading selling pressure collides with shrinking futures market activity. Will the altcoin resume its uptrend above $60?",
-      "impact": {}
-    },
-    {
-      "event_id": "ca955c4e-17c0-4571-ab00-7d48795ccc6b",
-      "source": "rss:theblock",
-      "title": "Bitcoin miners face deepening margin squeeze as revenue falls below production costs",
-      "url": "https://www.theblock.co/post/405858/bitcoin-miners-face-deepening-margin-squeeze-as-revenue-falls-below-production-costs?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-24T21:41:02+00:00",
-      "raw_text": "Bitcoin miners face deepening margin squeeze as revenue falls below production costs\n\n<p>An estimated 20% of miners are now unprofitable at current prices, and the stress shows up at the network level, too.</p>\n\n<p>An estimated 20% of miners are now unprofitable at current prices, and the stress sho",
-      "impact": {}
-    },
-    {
-      "event_id": "951d80dc-4de4-422e-bb95-5c602c0b1c25",
-      "source": "rss:decrypt",
-      "title": "Kalshi Sues Illinois Over New State Tax on Sports-Related Prediction Markets",
-      "url": "https://decrypt.co/372048/kalshi-sues-illinois-state-taxes-sports-related-prediction-markets",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-24T21:37:45+00:00",
-      "raw_text": "Kalshi Sues Illinois Over New State Tax on Sports-Related Prediction Markets\n\nIllinois is set to institute a new tax on prediction markets next week that would take 15% of gross receipts from sports-related wagers.",
-      "impact": {}
-    },
-    {
-      "event_id": "fdc8b695-ec8c-4fe2-9612-df84048b595f",
-      "source": "rss:cointelegraph",
-      "title": "FTX exec’s wife scheduled for November trial on campaign finance charges",
-      "url": "https://cointelegraph.com/news/ftx-exec-wife-november-trial-campaign-finance-charges?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-24T21:07:03+00:00",
-      "raw_text": "FTX exec’s wife scheduled for November trial on campaign finance charges\n\nA Manhattan judge ordered that Michelle Bond’s criminal trial start in November after he denied a motion to dismiss the indictment based on claims that prosecutors misled her husband over her charges.",
-      "impact": {}
-    },
-    {
-      "event_id": "903305c1-bc57-4ca1-9e12-a9477539d3d2",
-      "source": "rss:decrypt",
-      "title": "The Next GameStop? Meme Stock Traders Make Biggie-Size Bet on Wendy's",
-      "url": "https://decrypt.co/372023/next-gamestop-meme-stock-traders-biggie-size-bet-wendys",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-24T21:02:57+00:00",
-      "raw_text": "The Next GameStop? Meme Stock Traders Make Biggie-Size Bet on Wendy's\n\nShares in fast-food chain Wendy's might be the next hot meme stock for retail investors hungry for a cause.",
-      "impact": {}
-    },
-    {
-      "event_id": "a95eba87-816f-43a0-aa77-49a37f2edeae",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin nearly loses $59K as DXY surges: Are traders bracing for more pain?",
-      "url": "https://cointelegraph.com/markets/bitcoin-nearly-loses-59k-as-dxy-surges-are-traders-bracing-for-more-pain?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-24T20:58:28+00:00",
-      "raw_text": "Bitcoin nearly loses $59K as DXY surges: Are traders bracing for more pain?\n\nBitcoin drops toward new 2026 lows as spot BTC ETF outflows and slowing accumulation from Strategy weigh on market sentiment.",
-      "impact": {
-        "t_plus_5m": -0.4093,
-        "t_plus_15m": -0.5014,
-        "t_plus_1h": 0.0662,
-        "t_plus_4h": -0.4922
-      }
-    },
-    {
-      "event_id": "0fec6edd-05a8-4d01-8dc3-62f277624a6f",
-      "source": "rss:decrypt",
-      "title": "'Painful' Bitcoin Sell-Off Drags Ethereum, XRP and Dogecoin Lower as Crypto Stocks Dive",
-      "url": "https://decrypt.co/372025/painful-bitcoin-sell-off-ethereum-xrp-dogecoin-lower-crypto-firms-dive",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-06-24T20:50:14+00:00",
-      "raw_text": "'Painful' Bitcoin Sell-Off Drags Ethereum, XRP and Dogecoin Lower as Crypto Stocks Dive\n\nBitcoin's slide to its lowest point in 21 months slammed the price of leading altcoins, while pressuring crypto stocks on Wall Street.",
-      "impact": {
-        "t_plus_5m": 0.0762,
-        "t_plus_15m": -0.2161,
-        "t_plus_1h": 0.1135,
-        "t_plus_4h": -0.093
-      }
-    },
-    {
-      "event_id": "46b94b2a-7ec8-4bdf-9200-b85f7436f37a",
-      "source": "rss:decrypt",
-      "title": "Your Hermes Agent Now Has a Pet. It Does Nothing—And That’s the Point",
-      "url": "https://decrypt.co/372026/your-hermes-agent-now-pet",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-24T20:45:29+00:00",
-      "raw_text": "Your Hermes Agent Now Has a Pet. It Does Nothing—And That’s the Point\n\nNous Research added animated mascot sprites to the self-improving AI agent—and the only thing they do is look cute while your AI works.",
-      "impact": {}
-    },
-    {
-      "event_id": "11cb11eb-eac8-4f8d-aec6-f8fc5723e431",
-      "source": "rss:coindesk",
-      "title": "Upheaval at the Ethereum Foundation has some of crypto’s biggest names feeling bullish",
-      "url": "https://www.coindesk.com/tech/2026/06/24/upheaval-at-the-ethereum-foundation-has-some-of-crypto-s-biggest-names-feeling-bullish",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-24T19:52:39+00:00",
-      "raw_text": "Upheaval at the Ethereum Foundation has some of crypto’s biggest names feeling bullish",
-      "impact": {}
-    },
-    {
-      "event_id": "1469c17e-9567-456a-b57b-ee5a4fced169",
-      "source": "rss:coindesk",
-      "title": "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
-      "url": "https://www.coindesk.com/business/2026/06/24/kalshi-targets-a-massive-usd40-billion-valuation-widening-lead-over-rival-polymarket",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-24T19:48:23+00:00",
-      "raw_text": "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 191,
-        "avg_1h": 0.35,
-        "avg_24h": -0.0,
+      "macro": {
+        "count": 99,
+        "avg_1h": -0.01,
+        "avg_24h": 1.0,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 185,
-        "avg_1h": 0.36,
+        "count": 181,
+        "avg_1h": 0.34,
         "avg_24h": -1.07,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 97,
-        "avg_1h": 0.02,
-        "avg_24h": 1.0,
+      "listing": {
+        "count": 5,
+        "avg_1h": -0.3,
+        "avg_24h": 0.97,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 192,
+        "avg_1h": 0.35,
+        "avg_24h": -0.0,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
@@ -6445,12 +6464,6 @@
         "count": 5,
         "avg_1h": 0.68,
         "avg_24h": 1.11,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "listing": {
-        "count": 4,
-        "avg_1h": -0.59,
-        "avg_24h": 0.97,
         "win_rate_1h_gt5pct": 0.0
       }
     }
