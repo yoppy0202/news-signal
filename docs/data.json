@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-01T00:18:11.782364+00:00",
+  "generated_at": "2026-07-01T05:52:16.519891+00:00",
   "events": [
+    {
+      "event_id": "4cc7b273-d3e3-41d0-b110-4f1f3ec0b8f7",
+      "source": "rss:cointelegraph",
+      "title": "UK crypto investors sue Binance, Changpeng Zhao for $200M",
+      "url": "https://cointelegraph.com/news/uk-crypto-investors-sue-binance-changpeng-zhao-for-potential-200m-payout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-01T02:30:07+00:00",
+      "raw_text": "UK crypto investors sue Binance, Changpeng Zhao for $200M\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK crypto investors sue Binance, Changpeng Zhao for $200M\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hammerbinance.jpg\" /></p><p>O",
+      "impact": {}
+    },
+    {
+      "event_id": "89965273-4d9d-4486-911e-8c13de1394d9",
+      "source": "rss:theblock",
+      "title": "Million-dollar homes, luxury bags and Lamborghinis: Florida man pleads guilty in crypto fraud scheme",
+      "url": "https://www.theblock.co/post/406789/florida-man-pleads-guilty-crypto-fraud?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-01T01:58:40+00:00",
+      "raw_text": "Million-dollar homes, luxury bags and Lamborghinis: Florida man pleads guilty in crypto fraud scheme\n\n<p>A man pleaded guilty to fraud charges after prosecutors said he tricked people into the promise of making returns in crypto liquidity pools.</p>\n\n<p>A man pleaded guilty to fraud charges after pr",
+      "impact": {}
+    },
     {
       "event_id": "3c6d93bb-a2e0-452d-a269-7760d7bc3009",
       "source": "rss:cointelegraph",
@@ -104,10 +128,16 @@
       "url": "https://cointelegraph.com/markets/bitmine-ether-buys-eclipsed-by-345m-eth-etf-345m-outflows-is-sub-15k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-06-30T21:16:47+00:00",
       "raw_text": "Bitmine Ether buys eclipsed by $345M ETH ETF $345M outflows: Is sub $1.5K next?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitmine Ether buys eclipsed by $345M ETH ETF $345M outflows: Is sub $1.5K next?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.3695,
+        "t_plus_15m": 0.2654,
+        "t_plus_1h": 0.2653
+      }
     },
     {
       "event_id": "d8a8a68d-0839-446b-91ef-8ab4b5d65d33",
@@ -6405,57 +6435,26 @@
       "timestamp_utc": "2026-06-24T13:48:04+00:00",
       "raw_text": "Gold, silver and bitcoin tumble as debasement trade unwinds",
       "impact": {}
-    },
-    {
-      "event_id": "ff744f7d-a5b4-4fed-982a-3176bba2f865",
-      "source": "rss:coindesk",
-      "title": "Bitcoin could fall to $55,000 before finding a bottom, 10x Research says",
-      "url": "https://www.coindesk.com/markets/2026/06/24/bitcoin-could-fall-to-usd55-000-before-finding-a-bottom-10x-research-says",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-24T13:42:31+00:00",
-      "raw_text": "Bitcoin could fall to $55,000 before finding a bottom, 10x Research says",
-      "impact": {}
-    },
-    {
-      "event_id": "2d2edf65-d060-44da-8c3d-d8abcdf771e8",
-      "source": "rss:bitcoinmagazine",
-      "title": "Strive (ASST) CEO Says Company Is Buying Bitcoin ‘Hand Over Fist’ as Treasury Hits 19,864 BTC",
-      "url": "https://bitcoinmagazine.com/news/strive-asst-ceo-says-buying-bitcoin",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-24T13:39:57+00:00",
-      "raw_text": "Strive (ASST) CEO Says Company Is Buying Bitcoin ‘Hand Over Fist’ as Treasury Hits 19,864 BTC\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Strive-ASST-Adds-113-Bitcoin-at-an-Average-Price-of-68584",
-      "impact": {
-        "t_plus_5m": -0.0631,
-        "t_plus_15m": -0.1376,
-        "t_plus_1h": -0.5746,
-        "t_plus_4h": -3.3789
-      }
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 188,
-        "avg_1h": 0.35,
-        "avg_24h": -0.0,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 190,
+        "count": 191,
         "avg_1h": 0.3,
         "avg_24h": -1.07,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
         "count": 93,
-        "avg_1h": -0.04,
+        "avg_1h": 0.03,
         "avg_24h": 0.12,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 187,
+        "avg_1h": 0.35,
+        "avg_24h": -0.0,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
