@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T00:18:19.621550+00:00",
+  "generated_at": "2026-07-02T05:08:36.577068+00:00",
   "events": [
     {
       "event_id": "51c1a725-6850-487f-8d3e-af41fde75292",
@@ -8,10 +8,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-pings-60k-amid-fed-inflation-talks-is-bull-trap-or-65k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-01T22:02:40+00:00",
       "raw_text": "Bitcoin tops $60K amid Fed inflation talks: Is bull trap or $65K next?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin tops $60K amid Fed inflation talks: Is bull trap or $65K next? \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/ar",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.8654,
+        "t_plus_15m": 0.8818,
+        "t_plus_1h": 0.0675
+      }
     },
     {
       "event_id": "b1f39e00-b29f-4ad2-9c50-ebda94efb73a",
@@ -214,7 +220,8 @@
       "impact": {
         "t_plus_5m": 0.536,
         "t_plus_15m": 0.5633,
-        "t_plus_1h": 0.1375
+        "t_plus_1h": 0.1375,
+        "t_plus_4h": 0.8972
       }
     },
     {
@@ -6429,7 +6436,7 @@
     "by_event_type": {
       "macro": {
         "count": 100,
-        "avg_1h": -0.0,
+        "avg_1h": 0.0,
         "avg_24h": 1.0,
         "win_rate_1h_gt5pct": 0.0
       },
