@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-02T20:35:51.044204+00:00",
+  "generated_at": "2026-07-02T22:16:21.549024+00:00",
   "events": [
+    {
+      "event_id": "bd50222d-a1c6-43d3-9d6d-256d83a5a1bb",
+      "source": "rss:decrypt",
+      "title": "OpenAI Offers US Government a $42 Billion Slice of Itself: Report",
+      "url": "https://decrypt.co/372715/openai-offers-us-government-42-billion-slice",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-02T21:39:25+00:00",
+      "raw_text": "OpenAI Offers US Government a $42 Billion Slice of Itself: Report\n\nSam Altman is pitching a 5% equity stake in OpenAI for the U.S. government—and reportedly wants every major AI company to do the same.",
+      "impact": {}
+    },
+    {
+      "event_id": "05d3d98d-ccdf-4c7b-bb98-ef3f52ac272f",
+      "source": "rss:decrypt",
+      "title": "Russia Is Ready for 'Widespread Use' of Digital Ruble by September, Says Bank Governor",
+      "url": "https://decrypt.co/372698/russia-is-ready-for-widespread-use-of-digital-ruble-by-september-says-bank-governor",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-02T21:13:37+00:00",
+      "raw_text": "Russia Is Ready for 'Widespread Use' of Digital Ruble by September, Says Bank Governor\n\nBank of Russia Governor Elvira Nabiullina said major banks and retailers are on track to begin accepting the digital ruble by September 1.",
+      "impact": {}
+    },
+    {
+      "event_id": "ec1cc639-ad6a-42da-999f-4ae2eb5ba90b",
+      "source": "rss:decrypt",
+      "title": "Treasury Department Sanctions Over 130 ISIS-Affiliated Crypto Wallets on Tron",
+      "url": "https://decrypt.co/372697/treasury-department-sanctions-130-isis-affiliated-crypto-wallets-tron",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-02T20:59:18+00:00",
+      "raw_text": "Treasury Department Sanctions Over 130 ISIS-Affiliated Crypto Wallets on Tron\n\nMore than 130 Tron wallets connected with a Central Asian ISIS affiliate were sanctioned by the U.S. government, with funds frozen by Tether.",
+      "impact": {}
+    },
     {
       "event_id": "cd8c4a4f-1143-42a8-b8c0-fd1cfa129b26",
       "source": "rss:theblock",
@@ -6411,53 +6447,22 @@
         "t_plus_1h": 0.0085,
         "t_plus_4h": 2.1214
       }
-    },
-    {
-      "event_id": "ca481c59-3d32-4192-942a-e306e7b7a190",
-      "source": "rss:theblock",
-      "title": "Sharplink buys Ethereum for first time in 8 months, adding 5,000 ETH: onchain analyst",
-      "url": "https://www.theblock.co/post/406268/sharplink-buys-ethereum-8-months?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-06-26T03:55:10+00:00",
-      "raw_text": "Sharplink buys Ethereum for first time in 8 months, adding 5,000 ETH: onchain analyst\n\n<p>The buy came days after a group of former Ethereum Foundation researchers launched Ethlabs, a nonprofit Sharplink helped fund.</p>\n\n<p>The buy came days after a group of former Ethereum Foundation researchers l",
-      "impact": {
-        "t_plus_5m": 0.5133,
-        "t_plus_15m": 0.459,
-        "t_plus_1h": 0.0085,
-        "t_plus_4h": 2.1214
-      }
-    },
-    {
-      "event_id": "d59c92f4-78c9-4845-99ee-c74516cc2a89",
-      "source": "rss:cointelegraph",
-      "title": "StablecoinX bets on Ethena ecosystem with Nasdaq debut",
-      "url": "https://cointelegraph.com/news/stablecoinx-merges-with-tlgy-and-begins-trading-on-nasdaq-friday?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-26T03:48:03+00:00",
-      "raw_text": "StablecoinX bets on Ethena ecosystem with Nasdaq debut\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"StablecoinX bets on Ethena ecosystem with Nasdaq debut\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-b-ethena.jpg\" /></p><p>USDe circ",
-      "impact": {}
-    },
-    {
-      "event_id": "007b7a13-0238-43cd-a443-6d80922a68c5",
-      "source": "rss:cointelegraph",
-      "title": "StablecoinX bets on Ethena ecosystem with Nasdaq debut",
-      "url": "https://cointelegraph.com/news/stablecoinx-merges-with-tlgy-and-begins-trading-on-nasdaq-friday?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-26T03:48:03+00:00",
-      "raw_text": "StablecoinX bets on Ethena ecosystem with Nasdaq debut\n\nUSDe circulating supply has shrunk by 70% since the October bull market peak, when it topped $14 billion.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 168,
+        "avg_1h": 0.06,
+        "avg_24h": 0.27,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 195,
+        "avg_1h": 0.41,
+        "avg_24h": 1.17,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 102,
         "avg_1h": 0.02,
@@ -6474,18 +6479,6 @@
         "count": 20,
         "avg_1h": -0.03,
         "avg_24h": -2.27,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 167,
-        "avg_1h": 0.06,
-        "avg_24h": 0.27,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 196,
-        "avg_1h": 0.41,
-        "avg_24h": 1.17,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
