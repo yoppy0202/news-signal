@@ -1,6 +1,204 @@
 {
-  "generated_at": "2026-07-02T18:44:44.277523+00:00",
+  "generated_at": "2026-07-02T20:35:51.044204+00:00",
   "events": [
+    {
+      "event_id": "cd8c4a4f-1143-42a8-b8c0-fd1cfa129b26",
+      "source": "rss:theblock",
+      "title": "Securitize becomes first to debut shares on NYSE and onchain, but it won’t be the last",
+      "url": "https://www.theblock.co/post/407104/securitize-first-debut-shares-nyse-onchain-but-wont-be-last?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-02T20:10:16+00:00",
+      "raw_text": "Securitize becomes first to debut shares on NYSE and onchain, but it won’t be the last\n\n<p>President Brett Redfearn said the firm is in discussions to tokenize other IPOs \"definitely ... within the next year.”</p>\n\n<p>President Brett Redfearn said the firm is in discussions to tokenize other IPOs \"d",
+      "impact": {}
+    },
+    {
+      "event_id": "4a365320-ae36-4c9d-a0e3-3f358a0bafed",
+      "source": "rss:bitcoinmagazine",
+      "title": "Bitcoin Exchange Inflows Spike to 49,000 BTC in a Day, Signaling More Volatility is Coming: Report",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-exchange-inflows-spike-to-49000",
+      "event_type": "whale_move",
+      "sentiment_label": "negative",
+      "tokens": [
+        "BTC",
+        "ETH"
+      ],
+      "timestamp_utc": "2026-07-02T19:56:52+00:00",
+      "raw_text": "Bitcoin Exchange Inflows Spike to 49,000 BTC in a Day, Signaling More Volatility is Coming: Report\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-Exchange-Inflows-Spike-to-49000-BTC-in-a-Day",
+      "impact": {
+        "t_plus_5m": 0.0154,
+        "t_plus_15m": 0.0697
+      }
+    },
+    {
+      "event_id": "08f61199-cdd7-4183-9fd9-e481b9f9bd79",
+      "source": "rss:decrypt",
+      "title": "AI Researchers Got Chatbots to Share Cocaine Recipes Using This One Wild Trick",
+      "url": "https://decrypt.co/372688/ai-researchers-chatbots-share-cocaine-recipes-wild-trick",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-02T19:36:58+00:00",
+      "raw_text": "AI Researchers Got Chatbots to Share Cocaine Recipes Using This One Wild Trick\n\nResearchers say a new jailbreak technique tricked AI models into treating attacker-written text as their own reasoning, bypassing safety guardrails and exposing a deeper security flaw.",
+      "impact": {}
+    },
+    {
+      "event_id": "483158bc-d9de-4d64-b650-70fe7c437028",
+      "source": "rss:theblock",
+      "title": "eToro leads $12.5 million round in onchain perps exchange Extended",
+      "url": "https://www.theblock.co/post/407093/etoro-leads-12-5-million-round-in-onchain-perps-exchange-extended?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-02T19:23:16+00:00",
+      "raw_text": "eToro leads $12.5 million round in onchain perps exchange Extended\n\n<p>\"The partnership will focus on expanding access to global financial markets through next-generation on-chain infrastructure,\" eToro said.</p>\n\n<p>\"The partnership will focus on expanding access to global financial markets through",
+      "impact": {}
+    },
+    {
+      "event_id": "f0d9e94b-23df-480f-8bd6-83fe68362a40",
+      "source": "rss:cointelegraph",
+      "title": "IMF says tokenization could transform settlement and financial stability",
+      "url": "https://cointelegraph.com/news/imf-tokenization-financial-markets-settlement-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-02T19:17:32+00:00",
+      "raw_text": "IMF says tokenization could transform settlement and financial stability\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"IMF says tokenization could transform settlement and financial stability\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
+      "impact": {}
+    },
+    {
+      "event_id": "413a4ab9-d3fe-4e4e-b92c-6cb4ff786cfc",
+      "source": "rss:theblock",
+      "title": "CFTC’s Selig says Illinois lawmakers ‘decided they know better’ on crypto tax",
+      "url": "https://www.theblock.co/post/407094/cftcs-selig-says-illinois-lawmakers-decided-they-know-better-on-crypto-tax?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-02T19:12:45+00:00",
+      "raw_text": "CFTC’s Selig says Illinois lawmakers ‘decided they know better’ on crypto tax\n\n<p>CFTC Chair Michael Selig sharply criticized Illinois' decision to pass a law that puts into place a 0.2% tax on crypto transactions. </p>\n\n<p>CFTC Chair Michael Selig sharply criticized Illinois' decision to pass a law",
+      "impact": {}
+    },
+    {
+      "event_id": "a99575f1-87b7-4880-8e68-7932997bdc13",
+      "source": "rss:bitcoinmagazine",
+      "title": "Wavespace Launches MiCA-Compliant Self-Custodial Bitcoin Debit Card Powered by Lightning and NWC",
+      "url": "https://bitcoinmagazine.com/business/wavespace-launches-mica-compliant-self-custodial-bitcoin-debit-card-powered-by-lightning-and-nwc",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-02T19:11:07+00:00",
+      "raw_text": "Wavespace Launches MiCA-Compliant Self-Custodial Bitcoin Debit Card Powered by Lightning and NWC\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/tn.webp\" style=\"display: block; margin: 1em auto;\" /><",
+      "impact": {}
+    },
+    {
+      "event_id": "133d8403-0bd9-4aa6-a49e-ca1ef3b4b3ba",
+      "source": "rss:cointelegraph",
+      "title": "Russia on track for digital ruble rollout on Sept. 1: Central bank governor",
+      "url": "https://cointelegraph.com/news/russia-digital-ruble-rollout-september-central-bank-governor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-02T19:04:55+00:00",
+      "raw_text": "Russia on track for digital ruble rollout on Sept. 1: Central bank governor\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Russia on track for digital ruble rollout on Sept. 1: Central bank governor \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article",
+      "impact": {}
+    },
+    {
+      "event_id": "325abef6-5838-4898-a585-e91e5e04465e",
+      "source": "rss:coindesk",
+      "title": "Securitize tokenizes $295 million of its own stock on Solana and Avalanche amid NYSE debut",
+      "url": "https://www.coindesk.com/business/2026/07/02/securitize-tokenizes-usd295-million-of-its-own-stock-on-solana-and-avalanche-amid-nyse-debut",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-02T19:00:03+00:00",
+      "raw_text": "Securitize tokenizes $295 million of its own stock on Solana and Avalanche amid NYSE debut",
+      "impact": {}
+    },
+    {
+      "event_id": "121068ba-4c7a-47e7-b445-e3e9bba9d68f",
+      "source": "rss:theblock",
+      "title": "JPMorgan says Strategy’s bitcoin sale policy introduced ‘avoidable’ risk into crypto markets",
+      "url": "https://www.theblock.co/post/407071/jpmorgan-strategy-mstr-bitcoin-sale-policy-risk-crypto-markets?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-02T18:52:29+00:00",
+      "raw_text": "JPMorgan says Strategy’s bitcoin sale policy introduced ‘avoidable’ risk into crypto markets\n\n<p>Strategy introduced \"avoidable two-way risk\" into crypto markets with its recent bitcoin sale policy, according to JPMorgan analysts.</p>\n\n<p>Strategy introduced \"avoidable two-way risk\" into crypto mark",
+      "impact": {}
+    },
+    {
+      "event_id": "98672e3f-5eb5-4781-bf19-8242fcaee246",
+      "source": "rss:decrypt",
+      "title": "Securitize Begins Trading on NYSE as Tokenized Shares Land on Solana, Avalanche",
+      "url": "https://decrypt.co/372689/securitize-trading-nyse-tokenized-shares-solana-avalanche",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-02T18:43:50+00:00",
+      "raw_text": "Securitize Begins Trading on NYSE as Tokenized Shares Land on Solana, Avalanche\n\nBlackRock-backed tokenization firm Securitize now has shares trading on the New York Stock Exchange—or via Solana and Avalanche.",
+      "impact": {}
+    },
+    {
+      "event_id": "b7a9ad43-2bbd-4ff3-aa66-e201725c420c",
+      "source": "rss:decrypt",
+      "title": "Japanese Financial Giant SBI to Shut Down Bitcoin Mining Pool",
+      "url": "https://decrypt.co/372686/japanese-financial-giant-sbi-shut-down-bitcoin-mining-pool",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-02T18:28:47+00:00",
+      "raw_text": "Japanese Financial Giant SBI to Shut Down Bitcoin Mining Pool\n\nSBI Crypto, the subsidiary of the Japanese financial giant, is the latest firm to shutter its Bitcoin mining endeavor.",
+      "impact": {}
+    },
+    {
+      "event_id": "e29ce9c5-c474-4892-b28e-f8caf7a72603",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin price taps new July high above $62K on weak US jobs data",
+      "url": "https://cointelegraph.com/markets/bitcoin-returns-to-62k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-02T17:41:26+00:00",
+      "raw_text": "Bitcoin price taps new July high above $62K on weak US jobs data\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price taps new July high above $62K on weak US jobs data\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-",
+      "impact": {}
+    },
+    {
+      "event_id": "d5750bba-6c92-4bad-bd71-5cb67234c383",
+      "source": "rss:theblock",
+      "title": "Irish authorities recover another 500 bitcoins from lost Clifton Collins drug stash",
+      "url": "https://www.theblock.co/post/407062/irish-authorities-recover-another-500-bitcoins-lost-clifton-collins-drug-stash?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-07-02T17:30:59+00:00",
+      "raw_text": "Irish authorities recover another 500 bitcoins from lost Clifton Collins drug stash\n\n<p>Onchain data from Arkham Intelligence now shows wallets tagged \"Clifton Collins\" holding roughly 4,500 BTC.</p>\n\n<p>Onchain data from Arkham Intelligence now shows wallets tagged \"Clifton Collins\" holding roughly",
+      "impact": {
+        "t_plus_5m": 0.0624,
+        "t_plus_15m": 0.0123,
+        "t_plus_1h": 0.085
+      }
+    },
+    {
+      "event_id": "abecc3f1-462d-4966-8444-4da102ffa493",
+      "source": "rss:decrypt",
+      "title": "Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Rise to Weekly High Prices",
+      "url": "https://decrypt.co/372676/crypto-shorts-rekt-bitcoin-ethereum-xrp-rise-weekly-highs",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [
+        "XRP"
+      ],
+      "timestamp_utc": "2026-07-02T17:29:19+00:00",
+      "raw_text": "Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Rise to Weekly High Prices\n\nBitcoin continued rising after hitting a 21-month-low earlier this week, topping $62,000 and leading a broader crypto market rebound.",
+      "impact": {
+        "t_plus_5m": 0.1704,
+        "t_plus_15m": 0.0239,
+        "t_plus_1h": 0.0885
+      }
+    },
     {
       "event_id": "d8abcfce-1506-4349-9a7e-7d449d60f9a9",
       "source": "rss:bitcoinmagazine",
@@ -112,7 +310,8 @@
       "impact": {
         "t_plus_5m": -0.0932,
         "t_plus_15m": 0.0323,
-        "t_plus_1h": 0.0089
+        "t_plus_1h": 0.0089,
+        "t_plus_4h": 0.3228
       }
     },
     {
@@ -238,7 +437,8 @@
       "impact": {
         "t_plus_5m": 0.0005,
         "t_plus_15m": 0.2943,
-        "t_plus_1h": 0.4246
+        "t_plus_1h": 0.4246,
+        "t_plus_4h": 0.114
       }
     },
     {
@@ -268,7 +468,8 @@
       "impact": {
         "t_plus_5m": -0.3622,
         "t_plus_15m": 0.0018,
-        "t_plus_1h": 2.4966
+        "t_plus_1h": 2.4966,
+        "t_plus_4h": 1.8561
       }
     },
     {
@@ -547,6 +748,18 @@
       "tokens": [],
       "timestamp_utc": "2026-07-02T10:00:42+00:00",
       "raw_text": "Scattered Spider Suspect Extradited to US Over $8M Crypto Ransom Demand\n\nThe teenager allegedly helped to breach a luxury jeweler and demand $8 million in crypto, as part of a crew tied to $100 million in ransoms.",
+      "impact": {}
+    },
+    {
+      "event_id": "aee71153-3812-401e-b80e-84cbc6377bce",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin holds above $61,000 as momentum stocks plunge to start quarter",
+      "url": "https://www.coindesk.com/tech/2026/07/02/live-markets-bitcoin-holds-above-usd60-000-as-yen-jumps-on-intervention-fears",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-02T09:42:41+00:00",
+      "raw_text": "Live updates: Bitcoin holds above $61,000 as momentum stocks plunge to start quarter",
       "impact": {}
     },
     {
@@ -1093,7 +1306,8 @@
         "t_plus_5m": 0.536,
         "t_plus_15m": 0.5633,
         "t_plus_1h": 0.1375,
-        "t_plus_4h": 0.8972
+        "t_plus_4h": 0.8972,
+        "t_plus_24h": 3.1069
       }
     },
     {
@@ -1420,6 +1634,18 @@
         "t_plus_15m": -0.2559,
         "t_plus_1h": -0.1498
       }
+    },
+    {
+      "event_id": "bb633987-c177-4048-8dbf-391440d22f0d",
+      "source": "rss:solana_official",
+      "title": "How External Assets Start Trading on Solana From Day One",
+      "url": "https://solana.com/news/how-external-assets-start-trading-on-solana-from-day-one",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-01T15:08:00+00:00",
+      "raw_text": "How External Assets Start Trading on Solana From Day One\n\nDiscover how Sunrise brings external assets to Solana as canonical mints, enabling faster market formation across tokenized stocks, crypto, and more.",
+      "impact": {}
     },
     {
       "event_id": "224a50d9-8cc1-415c-8d4f-b14d390e60e0",
@@ -6228,251 +6454,20 @@
       "timestamp_utc": "2026-06-26T03:48:03+00:00",
       "raw_text": "StablecoinX bets on Ethena ecosystem with Nasdaq debut\n\nUSDe circulating supply has shrunk by 70% since the October bull market peak, when it topped $14 billion.",
       "impact": {}
-    },
-    {
-      "event_id": "a4154544-b527-4090-be28-74f22d36cd83",
-      "source": "rss:theblock",
-      "title": "BitGo cuts 15% of staff to refocus on AI infrastructure and stablecoins",
-      "url": "https://www.theblock.co/post/406266/bitgo-layoff-ai-infrastructure?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-26T03:43:49+00:00",
-      "raw_text": "BitGo cuts 15% of staff to refocus on AI infrastructure and stablecoins\n\n<p>BitGo CEO says the firm will now focus on key areas, including security, trading, stablecoins, settlement, and AI-powered infrastructure.</p>\n\n<p>BitGo CEO says the firm will now focus on key areas, including security, tradi",
-      "impact": {}
-    },
-    {
-      "event_id": "8eee0435-c001-4d09-863b-fec7474fe529",
-      "source": "rss:theblock",
-      "title": "Ark Invest buys more Coinbase, Circle, Bullish, Robinhood shares amid stock declines",
-      "url": "https://www.theblock.co/post/406258/ark-invest-coinbase-circle-bullish-robinhood?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-26T02:01:17+00:00",
-      "raw_text": "Ark Invest buys more Coinbase, Circle, Bullish, Robinhood shares amid stock declines\n\n<p>The same day, Wood noted that inflation is on its way down, pointing to rising productivity as a key disinflationary force.</p>\n\n<p>The same day, Wood noted that inflation is on its way down, pointing to rising ",
-      "impact": {}
-    },
-    {
-      "event_id": "9352521f-1404-4f37-8d23-dd90df201643",
-      "source": "rss:cointelegraph",
-      "title": "BitGo cuts 15% of staff to sharpen focus on AI, stablecoins",
-      "url": "https://cointelegraph.com/news/crypto-infrastructure-firm-bitgo-lays-off-15-of-staff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-26T00:41:02+00:00",
-      "raw_text": "BitGo cuts 15% of staff to sharpen focus on AI, stablecoins\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitGo cuts 15% of staff to sharpen focus on AI, stablecoins\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/layoffs-fired-human-resou",
-      "impact": {}
-    },
-    {
-      "event_id": "459f9af2-7f44-4c34-a0aa-1a991b76d560",
-      "source": "rss:cointelegraph",
-      "title": "BitGo cuts 15% of staff to sharpen focus on AI, stablecoins",
-      "url": "https://cointelegraph.com/news/crypto-infrastructure-firm-bitgo-lays-off-15-of-staff?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-26T00:41:02+00:00",
-      "raw_text": "BitGo cuts 15% of staff to sharpen focus on AI, stablecoins\n\nBitGo co-founder and CEO Mike Belshe says the layoffs are “a one-time action” and the company doesn’t see the need for further staff reductions.",
-      "impact": {}
-    },
-    {
-      "event_id": "d2506d66-487b-4943-b7f0-aa376806fb1e",
-      "source": "rss:cointelegraph",
-      "title": "Does Botanix’s failure prove Bitcoiners don’t care about DeFi?",
-      "url": "https://cointelegraph.com/features/does-botanixs-failure-prove-bitcoiners-dont-care-about-defi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-25T23:09:10+00:00",
-      "raw_text": "Does Botanix’s failure prove Bitcoiners don’t care about DeFi?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Does Botanix’s failure prove Bitcoiners don’t care about DeFi?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-quantum-computer",
-      "impact": {}
-    },
-    {
-      "event_id": "5010d8ae-0fb3-4ac3-a964-e81a6b94fec0",
-      "source": "rss:cointelegraph",
-      "title": "Does Botanix’s failure prove Bitcoiners don’t care about DeFi?",
-      "url": "https://cointelegraph.com/features/does-botanixs-failure-prove-bitcoiners-dont-care-about-defi?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-25T23:09:10+00:00",
-      "raw_text": "Does Botanix’s failure prove Bitcoiners don’t care about DeFi?\n\nThe failure of Botanix suggests that Bitcoiners still prefer Ethereum DeFi to Bitcoin L2s. How can Bitcoin L2s change to win hodlers over?",
-      "impact": {}
-    },
-    {
-      "event_id": "72d09e3c-ab85-4d47-96c8-ad614b7da90e",
-      "source": "rss:theblock",
-      "title": "Aave founder Stani Kulechov says AAVE isn’t for sale ‘at a 70% discount’ following report of Payward bid",
-      "url": "https://www.theblock.co/post/406252/aave-stani-kulechov-says-aave-isnt-for-sale-at-70-discount-report-payward-bid?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-25T21:34:09+00:00",
-      "raw_text": "Aave founder Stani Kulechov says AAVE isn’t for sale ‘at a 70% discount’ following report of Payward bid\n\n<p>The Aave Will Win proposal redirected 100% of protocol and Aave-branded product revenue to the DAO and AAVE token holders.</p>\n\n<p>The Aave Will Win proposal redirected 100% of protocol and A",
-      "impact": {}
-    },
-    {
-      "event_id": "524240cc-d6b3-4584-adf2-3d31f8de1d83",
-      "source": "rss:decrypt",
-      "title": "Anthropic Urges Congress to Crack Down on AI Distillation By Chinese Rivals",
-      "url": "https://decrypt.co/372130/anthropic-urges-congress-crack-down-ai-distillation-chinese-rivals",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-25T21:13:37+00:00",
-      "raw_text": "Anthropic Urges Congress to Crack Down on AI Distillation By Chinese Rivals\n\nAnthropic alleged that Alibaba-affiliated operators used nearly 25,000 fraudulent accounts to generate 28.8 million Claude exchanges.",
-      "impact": {}
-    },
-    {
-      "event_id": "dc37ed75-e439-43ac-9ec5-fa3ecc02e965",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin bounces off new 2026 price lows: Will US stock weakness push BTC lower?",
-      "url": "https://cointelegraph.com/markets/bitcoin-bounces-off-new-2026-price-lows-will-us-stock-weakness-push-btc-lower?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-25T21:02:50+00:00",
-      "raw_text": "Bitcoin bounces off new 2026 price lows: Will US stock weakness push BTC lower?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin bounces off new 2026 price lows: Will US stock weakness push BTC lower?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/",
-      "impact": {}
-    },
-    {
-      "event_id": "88e70c31-bfa5-4469-b828-3c7d6f1909c3",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin bounces off new 2026 price lows: Will US stock weakness push BTC lower?",
-      "url": "https://cointelegraph.com/markets/bitcoin-bounces-off-new-2026-price-lows-will-us-stock-weakness-push-btc-lower?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-25T21:02:50+00:00",
-      "raw_text": "Bitcoin bounces off new 2026 price lows: Will US stock weakness push BTC lower?\n\nBitcoin’s trek into new 2026 lows continued as spot BTC ETF outflows, a bearish monthly options expiry and Strategy’s unrealized losses widened its gap with AI-connected stock returns.",
-      "impact": {
-        "t_plus_5m": -0.9766,
-        "t_plus_15m": -0.9161,
-        "t_plus_1h": 0.0199,
-        "t_plus_4h": -0.694
-      }
-    },
-    {
-      "event_id": "af2f1bf0-7553-4e51-b3b0-91ba7ffb46bb",
-      "source": "rss:decrypt",
-      "title": "Polymarket to Refund Users After Scammers Swipe Millions in Website Exploit",
-      "url": "https://decrypt.co/372129/polymarket-refund-users-scammers-swipe-millions-website-exploit",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-25T21:02:40+00:00",
-      "raw_text": "Polymarket to Refund Users After Scammers Swipe Millions in Website Exploit\n\nHackers infiltrated Polymarket’s website via a compromised third-party vendor, the company said, swiping millions in crypto from users.",
-      "impact": {}
-    },
-    {
-      "event_id": "fa7520cb-0185-47ef-94c8-081b85422b0d",
-      "source": "rss:coindesk",
-      "title": "Asset management giant Invesco files for tokenized fund targeting stablecoin reserve market",
-      "url": "https://www.coindesk.com/business/2026/06/25/asset-management-giant-invesco-files-for-tokenized-fund-targeting-stablecoin-reserve-market",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-25T20:47:24+00:00",
-      "raw_text": "Asset management giant Invesco files for tokenized fund targeting stablecoin reserve market",
-      "impact": {}
-    },
-    {
-      "event_id": "4fda6bcf-4471-49ed-9668-751978872d51",
-      "source": "rss:theblock",
-      "title": "Senate races to advance crypto legislation in July as housing bill turmoil threatens timeline",
-      "url": "https://www.theblock.co/post/406231/senate-races-advance-crypto-legislation-housing-bill-turmoil-threatens-timeline?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-25T20:37:37+00:00",
-      "raw_text": "Senate races to advance crypto legislation in July as housing bill turmoil threatens timeline\n\n<p>A sweeping cryptocurrency bill faces a narrowing path to passage as pressure grows on the Senate to take up the legislation next month.</p>\n\n<p>A sweeping cryptocurrency bill faces a narrowing path to p",
-      "impact": {}
-    },
-    {
-      "event_id": "99fb4396-c590-4c54-b45c-9cd3891dd8f4",
-      "source": "rss:theblock",
-      "title": "Trillion-dollar asset manager Invesco looks to plant a flag in tokenized stablecoin reserve sector",
-      "url": "https://www.theblock.co/post/406239/trillion-dollar-asset-manager-invesco-plant-flag-tokenized-stablecoin-reserve-sector?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-25T20:11:28+00:00",
-      "raw_text": "Trillion-dollar asset manager Invesco looks to plant a flag in tokenized stablecoin reserve sector\n\n<p>The fund will invest primarily in U.S. Treasuries, repo agreements, and cash equivalents to maintain a stable $1 net asset value.</p>\n\n<p>The fund will invest primarily in U.S. Treasuries, repo agr",
-      "impact": {}
-    },
-    {
-      "event_id": "2eb48580-04ee-452c-b572-aa56d0aa0c80",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin options traders hedge downside as uncertainty lingers, Anchorage says",
-      "url": "https://cointelegraph.com/news/bitcoin-options-traders-hedge-downside-as-uncertainty-lingers-anchorage-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-25T20:10:41+00:00",
-      "raw_text": "Bitcoin options traders hedge downside as uncertainty lingers, Anchorage says\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin options traders hedge downside as uncertainty lingers, Anchorage says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti",
-      "impact": {}
-    },
-    {
-      "event_id": "062430cb-0f2b-40e1-9695-be633d3a9d08",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin options traders hedge downside as uncertainty lingers, Anchorage says",
-      "url": "https://cointelegraph.com/news/bitcoin-options-traders-hedge-downside-as-uncertainty-lingers-anchorage-says?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-25T20:10:41+00:00",
-      "raw_text": "Bitcoin options traders hedge downside as uncertainty lingers, Anchorage says\n\nAnchorage Digital’s latest analysis shows Bitcoin options traders remain defensive as near-term uncertainty persists, though markets are not pricing an extreme downside scenario for Strategy.",
-      "impact": {}
-    },
-    {
-      "event_id": "f975bd5b-0019-4bb7-9eda-2c0b36f76ff1",
-      "source": "rss:bitcoinmagazine",
-      "title": "Strategy Stock (MSTR) Nearly Craters Another 10% as Securities Lawsuit Lands",
-      "url": "https://bitcoinmagazine.com/markets/strategy-stock-mstr-craters-another-10",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-25T19:52:39+00:00",
-      "raw_text": "Strategy Stock (MSTR) Nearly Craters Another 10% as Securities Lawsuit Lands\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/12/Bitcoin-treasury-Strategy-Boosts-Cash-Reserve-to-2.19-Billion-Pauses-BTC-B",
-      "impact": {
-        "t_plus_5m": -0.545,
-        "t_plus_15m": 0.0246,
-        "t_plus_1h": -0.4447,
-        "t_plus_4h": 0.2944,
-        "t_plus_24h": 0.4635
-      }
     }
   ],
   "stats": {
     "by_event_type": {
-      "listing": {
-        "count": 10,
-        "avg_1h": -0.08,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 101,
-        "avg_1h": -0.01,
-        "avg_24h": 2.08,
+        "count": 102,
+        "avg_1h": 0.02,
+        "avg_24h": 2.48,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 170,
-        "avg_1h": 0.06,
-        "avg_24h": 0.27,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 195,
-        "avg_1h": 0.42,
-        "avg_24h": -0.77,
+      "whale_move": {
+        "count": 5,
+        "avg_1h": 0.23,
+        "avg_24h": 0.92,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
@@ -6481,10 +6476,22 @@
         "avg_24h": -2.27,
         "win_rate_1h_gt5pct": 0.0
       },
-      "whale_move": {
-        "count": 4,
-        "avg_1h": 0.23,
-        "avg_24h": 0.92,
+      "narrative": {
+        "count": 167,
+        "avg_1h": 0.06,
+        "avg_24h": 0.27,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 196,
+        "avg_1h": 0.41,
+        "avg_24h": 1.17,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "listing": {
+        "count": 10,
+        "avg_1h": -0.08,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       }
     }
