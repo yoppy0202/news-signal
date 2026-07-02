@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-01T22:38:16.649193+00:00",
+  "generated_at": "2026-07-02T00:18:19.621550+00:00",
   "events": [
+    {
+      "event_id": "51c1a725-6850-487f-8d3e-af41fde75292",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin tops $60K amid Fed inflation talks: Is bull trap or $65K next?",
+      "url": "https://cointelegraph.com/markets/bitcoin-pings-60k-amid-fed-inflation-talks-is-bull-trap-or-65k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-01T22:02:40+00:00",
+      "raw_text": "Bitcoin tops $60K amid Fed inflation talks: Is bull trap or $65K next?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin tops $60K amid Fed inflation talks: Is bull trap or $65K next? \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/ar",
+      "impact": {}
+    },
     {
       "event_id": "b1f39e00-b29f-4ad2-9c50-ebda94efb73a",
       "source": "rss:cointelegraph",
@@ -6411,29 +6423,16 @@
       "timestamp_utc": "2026-06-25T12:19:32+00:00",
       "raw_text": "Binance faces EU service limits next week as MiCA rules take effect\n\nBinance will limit EU onboarding and services from July 1 under MiCA rules after failing to gain authorization from a member state, while withdrawals remain available for users.",
       "impact": {}
-    },
-    {
-      "event_id": "5a88089f-95d1-465c-8b4a-da11daa1a96c",
-      "source": "rss:decrypt",
-      "title": "Morning Minute: Strategy’s MSTR and STRC Crash to 52-Week Lows",
-      "url": "https://decrypt.co/372068/morning-minute-strategys-mstr-and-strc-crash-to-52-week-lows",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-25T12:01:38+00:00",
-      "raw_text": "Morning Minute: Strategy’s MSTR and STRC Crash to 52-Week Lows\n\nA massive Micron earnings beat has lifted global markets, pushing crypto higher after yesterday's nasty sell off took BTC sub-$60k.",
-      "impact": {
-        "t_plus_5m": 0.0349,
-        "t_plus_15m": -0.0307,
-        "t_plus_1h": -0.0316,
-        "t_plus_4h": -2.6504
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 100,
+        "avg_1h": -0.0,
+        "avg_24h": 1.0,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 181,
         "avg_1h": 0.23,
@@ -6441,8 +6440,8 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 190,
-        "avg_1h": 0.3,
+        "count": 189,
+        "avg_1h": 0.32,
         "avg_24h": -0.0,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6450,12 +6449,6 @@
         "count": 18,
         "avg_1h": -0.03,
         "avg_24h": -2.27,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 99,
-        "avg_1h": -0.0,
-        "avg_24h": 1.0,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
