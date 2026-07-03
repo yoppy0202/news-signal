@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-03T18:22:52.042050+00:00",
+  "generated_at": "2026-07-03T20:20:52.015613+00:00",
   "events": [
+    {
+      "event_id": "5721ce36-11b2-41e7-8ff0-3aaf80225e9e",
+      "source": "rss:decrypt",
+      "title": "Zcash Ironwood Upgrade Nears as Developers Work to Restore Confidence After ZEC Crash",
+      "url": "https://decrypt.co/372738/zcash-ironwood-upgrade-developers-restore-confidence-zec-crash",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-03T17:56:03+00:00",
+      "raw_text": "Zcash Ironwood Upgrade Nears as Developers Work to Restore Confidence After ZEC Crash\n\nDevelopers say security testing has uncovered no new serious bugs as Zcash's Ironwood upgrade moves toward testnet activation.",
+      "impact": {}
+    },
+    {
+      "event_id": "0747a0e3-dfc1-48f2-8724-b180dd8578a9",
+      "source": "rss:theblock",
+      "title": "CryptoQuant says bitcoin and altcoin exchange deposits have spiked, indicating higher volatility ahead",
+      "url": "https://www.theblock.co/post/407160/cryptoquant-bitcoin-ether-altcoin-exchange-deposits-volatility?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-03T17:55:56+00:00",
+      "raw_text": "CryptoQuant says bitcoin and altcoin exchange deposits have spiked, indicating higher volatility ahead\n\n<p>Bitcoin deposits to exchanges recently climbed to nearly 49,000 BTC, \"a rare extreme\" seen only four other times this year, CryptoQuant said.</p>\n\n<p>Bitcoin deposits to exchanges recently clim",
+      "impact": {}
+    },
     {
       "event_id": "531f012f-63f2-475a-8a1a-0518e90b5f3e",
       "source": "rss:decrypt",
@@ -6412,50 +6436,26 @@
       "timestamp_utc": "2026-06-26T16:46:18+00:00",
       "raw_text": "Bipartisan senators call for CFTC investigation into Polymarket after fake bets report\n\n<p>Senators are demanding for the CFTC to investigate Polymarket following reports that it paid creators to stage fake winning bets.</p>\n\n<p>Senators are demanding for the CFTC to investigate Polymarket following",
       "impact": {}
-    },
-    {
-      "event_id": "f721e051-3c58-40fc-bfc2-51f9b10ca286",
-      "source": "rss:decrypt",
-      "title": "Trump Administration Asks OpenAI to Limit GPT-5.6 Rollout: Reports",
-      "url": "https://decrypt.co/372195/trump-administration-asks-openai-to-limit-gpt-5-6-rollout-reports",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-26T16:38:33+00:00",
-      "raw_text": "Trump Administration Asks OpenAI to Limit GPT-5.6 Rollout: Reports\n\nThe reported request to OpenAI follows the Trump administration's move to limit access to Anthropic's Fable 5 and Mythos 5 AI models.",
-      "impact": {}
-    },
-    {
-      "event_id": "d93b6fb1-eaee-496e-997c-f4709e303d52",
-      "source": "rss:cointelegraph",
-      "title": "Crypto Biz: The cost of stacking sats",
-      "url": "https://cointelegraph.com/news/cryptoquant-strategy-bitcoin-cboe-perpetual-futures-chainlink-stablecoin-fx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-26T16:23:34+00:00",
-      "raw_text": "Crypto Biz: The cost of stacking sats\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: The cost of stacking sats\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/saylor-in-elevator.png\" /></p><p>CryptoQuant urged Strategy to pause ",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 195,
-        "avg_1h": 0.3,
-        "avg_24h": 1.05,
+      "macro": {
+        "count": 106,
+        "avg_1h": -0.03,
+        "avg_24h": 1.8,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 161,
+        "count": 160,
         "avg_1h": -0.02,
         "avg_24h": 0.5,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 105,
-        "avg_1h": -0.03,
-        "avg_24h": 1.8,
+      "unknown": {
+        "count": 195,
+        "avg_1h": 0.3,
+        "avg_24h": 1.05,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
