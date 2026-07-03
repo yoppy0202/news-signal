@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-03T00:16:35.464447+00:00",
+  "generated_at": "2026-07-03T04:54:01.248305+00:00",
   "events": [
+    {
+      "event_id": "b75a0f4a-70ea-4205-8e3a-f997f1f991d5",
+      "source": "rss:cointelegraph",
+      "title": "US dominates Polymarket political bets despite geoblock: Report",
+      "url": "https://cointelegraph.com/news/us-dominates-polymarket-political-bets-despite-geoblock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-03T03:38:37+00:00",
+      "raw_text": "US dominates Polymarket political bets despite geoblock: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US dominates Polymarket political bets despite geoblock: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/investmentmoneycr",
+      "impact": {}
+    },
+    {
+      "event_id": "6bdfcc6c-675e-43ce-950b-41ddd8dc67ff",
+      "source": "rss:cointelegraph",
+      "title": "Strategy will be ‘less important’ in Bitcoin after STRC incident: Bitwise",
+      "url": "https://cointelegraph.com/news/strategy-will-be-less-important-in-bitcoin-after-strc-incident-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-03T03:12:04+00:00",
+      "raw_text": "Strategy will be ‘less important’ in Bitcoin after STRC incident: Bitwise\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy will be ‘less important’ in Bitcoin after STRC incident: Bitwise\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
+      "impact": {}
+    },
+    {
+      "event_id": "bef72dcb-2b31-4b93-9c2a-f93000186521",
+      "source": "rss:cointelegraph",
+      "title": "Securitize gains on NYSE debut with tokenized stocks live on Solana, Avalanche",
+      "url": "https://cointelegraph.com/news/securitize-gains-on-nyse-debut-with-tokenized-stock-live-on-solana-avalanche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-03T02:35:34+00:00",
+      "raw_text": "Securitize gains on NYSE debut with tokenized stocks live on Solana, Avalanche\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Securitize gains on NYSE debut with tokenized stocks live on Solana, Avalanche\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar",
+      "impact": {}
+    },
     {
       "event_id": "37e8625a-c3fd-41e3-80de-0f3c1611310f",
       "source": "rss:cointelegraph",
@@ -8,10 +44,14 @@
       "url": "https://cointelegraph.com/markets/bitcoin-holds-61k-after-us-jobs-data-report-ai-sector-weakness-did-btc-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-03T00:01:01+00:00",
       "raw_text": "Bitcoin holds $61K after US jobs data report, AI sector weakness: Did BTC bottom?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin holds $61K after US jobs data report, AI sector weakness: Did BTC bottom?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0027
+      }
     },
     {
       "event_id": "3afebd5e-cd31-44fe-8ec9-ad493d9e5f58",
@@ -20,10 +60,15 @@
       "url": "https://cointelegraph.com/features/is-bitcoin-heading-for-65k-sharplink-buys-16m-eth-market-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-07-02T23:17:47+00:00",
       "raw_text": "Is Bitcoin heading for $65K? Sharplink buys $16M ETH: Market Moves\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Is Bitcoin heading for $65K? Sharplink buys $16M ETH: Market Moves\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/market-move",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1559,
+        "t_plus_15m": 0.0076
+      }
     },
     {
       "event_id": "4708af38-4e47-4871-8998-06c9170bea1f",
@@ -101,7 +146,8 @@
       "impact": {
         "t_plus_5m": 0.0154,
         "t_plus_15m": 0.0697,
-        "t_plus_1h": -0.0739
+        "t_plus_1h": -0.0739,
+        "t_plus_4h": 0.1432
       }
     },
     {
@@ -6402,62 +6448,26 @@
       "timestamp_utc": "2026-06-26T05:10:44+00:00",
       "raw_text": "Coinbase's Base resumes block production after 2-hour outage\n\nCoinbase's blockchain Base says a consensus problem knocked its network offline for around two hours on Thursday before it returned online.",
       "impact": {}
-    },
-    {
-      "event_id": "2d3e3b2e-6c45-4a90-9ea4-e2c57aade470",
-      "source": "rss:coindesk",
-      "title": "Live markets: Bitcoin edges higher as U.S. stocks recover from big early losses",
-      "url": "https://www.coindesk.com/tech/2026/06/26/live-markets-bitcoin-rebounds-to-nearly-usd60-000-kospi-nikkei-sink",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-26T05:10:37+00:00",
-      "raw_text": "Live markets: Bitcoin edges higher as U.S. stocks recover from big early losses",
-      "impact": {}
-    },
-    {
-      "event_id": "6b708550-0522-4929-a2df-95e1c60be68c",
-      "source": "rss:coindesk",
-      "title": "Live markets: Bitcoin falls below $60,000. Kospi, Nikkei sink",
-      "url": "https://www.coindesk.com/tech/2026/06/26/live-markets-bitcoin-rebounds-to-nearly-usd60-000-kospi-nikkei-sink",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-26T05:10:37+00:00",
-      "raw_text": "Live markets: Bitcoin falls below $60,000. Kospi, Nikkei sink",
-      "impact": {}
-    },
-    {
-      "event_id": "9658d566-6595-435a-b3ce-16ea15f2ecd7",
-      "source": "rss:coindesk",
-      "title": "Live markets: Bitcoin rebounds to nearly $60,000. Kospi, Nikkei sink",
-      "url": "https://www.coindesk.com/tech/2026/06/26/live-markets-bitcoin-rebounds-to-nearly-usd60-000-kospi-nikkei-sink",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-26T05:10:37+00:00",
-      "raw_text": "Live markets: Bitcoin rebounds to nearly $60,000. Kospi, Nikkei sink",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 103,
-        "avg_1h": 0.02,
-        "avg_24h": 2.17,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 193,
+        "count": 191,
         "avg_1h": 0.45,
         "avg_24h": 1.17,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 169,
+        "count": 170,
         "avg_1h": 0.06,
         "avg_24h": 0.27,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 104,
+        "avg_1h": 0.02,
+        "avg_24h": 2.17,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
