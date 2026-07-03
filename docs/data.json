@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-02T22:16:21.549024+00:00",
+  "generated_at": "2026-07-03T00:16:35.464447+00:00",
   "events": [
+    {
+      "event_id": "37e8625a-c3fd-41e3-80de-0f3c1611310f",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin holds $61K after US jobs data report, AI sector weakness: Did BTC bottom?",
+      "url": "https://cointelegraph.com/markets/bitcoin-holds-61k-after-us-jobs-data-report-ai-sector-weakness-did-btc-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-03T00:01:01+00:00",
+      "raw_text": "Bitcoin holds $61K after US jobs data report, AI sector weakness: Did BTC bottom?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin holds $61K after US jobs data report, AI sector weakness: Did BTC bottom?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me",
+      "impact": {}
+    },
+    {
+      "event_id": "3afebd5e-cd31-44fe-8ec9-ad493d9e5f58",
+      "source": "rss:cointelegraph",
+      "title": "Is Bitcoin heading for $65K? Sharplink buys $16M ETH: Market Moves",
+      "url": "https://cointelegraph.com/features/is-bitcoin-heading-for-65k-sharplink-buys-16m-eth-market-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-02T23:17:47+00:00",
+      "raw_text": "Is Bitcoin heading for $65K? Sharplink buys $16M ETH: Market Moves\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Is Bitcoin heading for $65K? Sharplink buys $16M ETH: Market Moves\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/market-move",
+      "impact": {}
+    },
+    {
+      "event_id": "4708af38-4e47-4871-8998-06c9170bea1f",
+      "source": "rss:cointelegraph",
+      "title": "Ripple co-founder backs venture launched by US senator's son: Report",
+      "url": "https://cointelegraph.com/news/ripple-chris-larsen-senator-gillibrand-son-venture-market-structure-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-02T22:01:25+00:00",
+      "raw_text": "Ripple co-founder backs venture launched by US senator's son: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ripple co-founder backs venture launched by US senator's son: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bribe-m",
+      "impact": {}
+    },
     {
       "event_id": "bd50222d-a1c6-43d3-9d6d-256d83a5a1bb",
       "source": "rss:decrypt",
@@ -64,7 +100,8 @@
       "raw_text": "Bitcoin Exchange Inflows Spike to 49,000 BTC in a Day, Signaling More Volatility is Coming: Report\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-Exchange-Inflows-Spike-to-49000-BTC-in-a-Day",
       "impact": {
         "t_plus_5m": 0.0154,
-        "t_plus_15m": 0.0697
+        "t_plus_15m": 0.0697,
+        "t_plus_1h": -0.0739
       }
     },
     {
@@ -214,7 +251,8 @@
       "impact": {
         "t_plus_5m": 0.0624,
         "t_plus_15m": 0.0123,
-        "t_plus_1h": 0.085
+        "t_plus_1h": 0.085,
+        "t_plus_4h": -0.3836
       }
     },
     {
@@ -232,7 +270,8 @@
       "impact": {
         "t_plus_5m": 0.1704,
         "t_plus_15m": 0.0239,
-        "t_plus_1h": 0.0885
+        "t_plus_1h": 0.0885,
+        "t_plus_4h": -0.6986
       }
     },
     {
@@ -1136,7 +1175,8 @@
         "t_plus_5m": 0.8654,
         "t_plus_15m": 0.8818,
         "t_plus_1h": 0.0675,
-        "t_plus_4h": -0.242
+        "t_plus_4h": -0.242,
+        "t_plus_24h": 2.1026
       }
     },
     {
@@ -1203,7 +1243,8 @@
         "t_plus_5m": -1.1156,
         "t_plus_15m": -0.9112,
         "t_plus_1h": 0.0177,
-        "t_plus_4h": -1.7157
+        "t_plus_4h": -1.7157,
+        "t_plus_24h": 0.9687
       }
     },
     {
@@ -6397,81 +6438,31 @@
       "timestamp_utc": "2026-06-26T05:10:37+00:00",
       "raw_text": "Live markets: Bitcoin rebounds to nearly $60,000. Kospi, Nikkei sink",
       "impact": {}
-    },
-    {
-      "event_id": "ced348f2-cc73-4832-94cc-953d62ff2601",
-      "source": "rss:theblock",
-      "title": "Bitcoin briefly dips below $59,000 as macro pressures drag crypto, Asian equities lower",
-      "url": "https://www.theblock.co/post/406284/bitcoin-slides-below-59000?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-26T05:00:53+00:00",
-      "raw_text": "Bitcoin briefly dips below $59,000 as macro pressures drag crypto, Asian equities lower\n\n<p>Asian equities also fell sharply Friday morning, with South Korea's Kospi losing over 8% and triggering a circuit breaker.</p>\n\n<p>Asian equities also fell sharply Friday morning, with South Korea's Kospi los",
-      "impact": {}
-    },
-    {
-      "event_id": "815f5fed-4db2-4b77-9b19-646ddf32bc4b",
-      "source": "rss:cointelegraph",
-      "title": "Sharplink buys ETH after 8-month pause as token hits 2026 low",
-      "url": "https://cointelegraph.com/news/sharplink-buys-eth-after-8-month-pause-as-token-hits-2026-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-06-26T03:56:08+00:00",
-      "raw_text": "Sharplink buys ETH after 8-month pause as token hits 2026 low\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Sharplink buys ETH after 8-month pause as token hits 2026 low\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/g20-discuss-crypto-in",
-      "impact": {
-        "t_plus_5m": 0.5732,
-        "t_plus_15m": 0.5188,
-        "t_plus_1h": 0.068,
-        "t_plus_4h": 2.1822
-      }
-    },
-    {
-      "event_id": "d211aa24-9ab6-40c0-a0f5-5f04b5366f41",
-      "source": "rss:cointelegraph",
-      "title": "Sharplink buys ETH after 8-month pause as token hits 2026 low",
-      "url": "https://cointelegraph.com/news/sharplink-buys-eth-after-8-month-pause-as-token-hits-2026-low?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-06-26T03:56:08+00:00",
-      "raw_text": "Sharplink buys ETH after 8-month pause as token hits 2026 low\n\nIn May, Sharplink CEO Joseph Chalom named three catalysts that could push up the price of Ether, some of which have begun to materialize.",
-      "impact": {
-        "t_plus_5m": 0.5133,
-        "t_plus_15m": 0.459,
-        "t_plus_1h": 0.0085,
-        "t_plus_4h": 2.1214
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 103,
+        "avg_1h": 0.02,
+        "avg_24h": 2.17,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 193,
+        "avg_1h": 0.45,
+        "avg_24h": 1.17,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 168,
+        "count": 169,
         "avg_1h": 0.06,
         "avg_24h": 0.27,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 195,
-        "avg_1h": 0.41,
-        "avg_24h": 1.17,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 102,
-        "avg_1h": 0.02,
-        "avg_24h": 2.48,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "whale_move": {
         "count": 5,
-        "avg_1h": 0.23,
+        "avg_1h": 0.13,
         "avg_24h": 0.92,
         "win_rate_1h_gt5pct": 0.0
       },
