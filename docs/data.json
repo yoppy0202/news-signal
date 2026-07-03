@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-03T16:43:08.530187+00:00",
+  "generated_at": "2026-07-03T18:22:52.042050+00:00",
   "events": [
+    {
+      "event_id": "531f012f-63f2-475a-8a1a-0518e90b5f3e",
+      "source": "rss:decrypt",
+      "title": "'Every Time I Buy It, It Tanks': Dave Portnoy Says He's Losing Millions as Bitcoin Falls",
+      "url": "https://decrypt.co/372737/dave-portnoy-losing-millions-bitcoin-falls",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-03T17:13:43+00:00",
+      "raw_text": "'Every Time I Buy It, It Tanks': Dave Portnoy Says He's Losing Millions as Bitcoin Falls\n\nBarstool Sports founder Dave Portnoy says he's down millions on Bitcoin, but he's intent on holding this time—even if it falls to zero.",
+      "impact": {}
+    },
+    {
+      "event_id": "91384af3-a2a0-47d0-9544-cd5af510d4c3",
+      "source": "rss:cointelegraph",
+      "title": "Donald Trump says ‘nothing wrong’ with $1.4B crypto windfall while in office",
+      "url": "https://cointelegraph.com/news/donald-trump-crypto-investments-president-profit-office?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-03T16:57:26+00:00",
+      "raw_text": "Donald Trump says ‘nothing wrong’ with $1.4B crypto windfall while in office\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Donald Trump says ‘nothing wrong’ with $1.4B crypto windfall while in office\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl",
+      "impact": {}
+    },
+    {
+      "event_id": "4b4184dd-3080-46c5-a721-331445a9418e",
+      "source": "rss:cointelegraph",
+      "title": "ESMA warns many prediction market event contracts already face EU retail ban",
+      "url": "https://cointelegraph.com/news/esma-warns-many-prediction-market-contracts-may-be-prohibited-eu-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-03T16:54:20+00:00",
+      "raw_text": "ESMA warns many prediction market event contracts already face EU retail ban\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ESMA warns many prediction market event contracts already face EU retail ban\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl",
+      "impact": {}
+    },
     {
       "event_id": "5fea5189-0013-4d3c-adb7-77a75f27bae1",
       "source": "rss:cointelegraph",
@@ -196,7 +232,8 @@
       "impact": {
         "t_plus_5m": -0.0844,
         "t_plus_15m": 0.0673,
-        "t_plus_1h": -0.0703
+        "t_plus_1h": -0.0703,
+        "t_plus_4h": 0.1283
       }
     },
     {
@@ -6399,75 +6436,32 @@
       "timestamp_utc": "2026-06-26T16:23:34+00:00",
       "raw_text": "Crypto Biz: The cost of stacking sats\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: The cost of stacking sats\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/saylor-in-elevator.png\" /></p><p>CryptoQuant urged Strategy to pause ",
       "impact": {}
-    },
-    {
-      "event_id": "385cd851-1f57-4cfe-8ba4-a0ea29cbf940",
-      "source": "rss:cointelegraph",
-      "title": "US senators push to end CFTC ‘assault’ on state oversight of prediction markets",
-      "url": "https://cointelegraph.com/news/us-senators-cftc-assault-state-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-26T16:10:37+00:00",
-      "raw_text": "US senators push to end CFTC ‘assault’ on state oversight of prediction markets\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US senators push to end CFTC ‘assault’ on state oversight of prediction markets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/",
-      "impact": {}
-    },
-    {
-      "event_id": "6046c0f0-864c-4cdb-9d80-74eae27d7355",
-      "source": "rss:theblock",
-      "title": "DraftKings launches its own prediction markets exchange as consumer volume exceeds $3 billion",
-      "url": "https://www.theblock.co/post/406375/draftkings-launches-own-prediction-markets-exchange-consumer-volume-exceeds-3-billion?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-26T16:05:28+00:00",
-      "raw_text": "DraftKings launches its own prediction markets exchange as consumer volume exceeds $3 billion\n\n<p>The company said its prediction markets vertical has generated approximately $3.4 billion in annualized consumer volume.</p>\n\n<p>The company said its prediction markets vertical has generated approximat",
-      "impact": {}
-    },
-    {
-      "event_id": "57d111d7-da9b-4997-ba16-e8b45a260ec0",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter ‘deep bear market’",
-      "url": "https://cointelegraph.com/markets/bitcoin-sees-first-close-below-60k-since-q3-2024-with-tech-stocks-in-deep-bear-market-zone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-26T15:55:56+00:00",
-      "raw_text": "Bitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter ‘deep bear market’\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter ‘deep bear market’\" class=\"type:primaryImage\" src=\"https://s3-images",
-      "impact": {
-        "t_plus_5m": 0.4376,
-        "t_plus_15m": 0.3719,
-        "t_plus_1h": 0.0334,
-        "t_plus_4h": -0.3016
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 195,
+        "avg_1h": 0.3,
+        "avg_24h": 1.05,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 161,
+        "avg_1h": -0.02,
+        "avg_24h": 0.5,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 105,
         "avg_1h": -0.03,
         "avg_24h": 1.8,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 160,
-        "avg_1h": -0.02,
-        "avg_24h": 0.5,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "listing": {
         "count": 11,
         "avg_1h": -0.08,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 196,
-        "avg_1h": 0.29,
-        "avg_24h": 1.05,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
