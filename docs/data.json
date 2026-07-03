@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-07-03T20:20:52.015613+00:00",
+  "generated_at": "2026-07-03T22:13:45.032799+00:00",
   "events": [
+    {
+      "event_id": "51b75240-9e0c-47c2-9dfa-49b04ef4cbd7",
+      "source": "rss:decrypt",
+      "title": "Claude Fable 5 Isn't Nerfed. The Router Is Just Paranoid",
+      "url": "https://decrypt.co/372750/claude-fable-5-not-nerfed-router-paranoid",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-03T21:06:03+00:00",
+      "raw_text": "Claude Fable 5 Isn't Nerfed. The Router Is Just Paranoid\n\nDid Claude Fable 5 get dumber? Two benchmarks, two wildly different conclusions—and one routing layer that explains the whole mess.",
+      "impact": {}
+    },
+    {
+      "event_id": "41e81c09-d984-4fb8-b103-d83df155ad5e",
+      "source": "rss:decrypt",
+      "title": "Senator Gillibrand Seeks to Ban Trump, Elected Officials From Launching Meme Coins",
+      "url": "https://decrypt.co/372749/senator-gillibrand-ban-trump-elected-officials-launching-meme-coins",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-03T21:03:33+00:00",
+      "raw_text": "Senator Gillibrand Seeks to Ban Trump, Elected Officials From Launching Meme Coins\n\nAfter President Trump disclosed over $1 billion in crypto-related earnings, Senator Kirsten Gillibrand is calling for a meme coin ban.",
+      "impact": {}
+    },
+    {
+      "event_id": "ada031fe-50d2-4b87-bd05-a42cb8565b75",
+      "source": "rss:cointelegraph",
+      "title": "US senator calls for ban on elected officials issuing memecoins",
+      "url": "https://cointelegraph.com/news/us-senator-ban-elected-officials-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-03T19:26:21+00:00",
+      "raw_text": "US senator calls for ban on elected officials issuing memecoins\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US senator calls for ban on elected officials issuing memecoins\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/trump-memecoin-1.",
+      "impact": {}
+    },
+    {
+      "event_id": "f3cafa92-189a-42b7-b1e3-33cce5eea134",
+      "source": "rss:coindesk",
+      "title": "This sanctioned Russian stablecoin claims it processes billions, but blockchain analysts disagree",
+      "url": "https://www.coindesk.com/business/2026/07/03/this-sanctioned-russian-stablecoin-claims-it-processes-billions-but-blockchain-analysts-disagree",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-03T19:18:59+00:00",
+      "raw_text": "This sanctioned Russian stablecoin claims it processes billions, but blockchain analysts disagree",
+      "impact": {}
+    },
     {
       "event_id": "5721ce36-11b2-41e7-8ff0-3aaf80225e9e",
       "source": "rss:decrypt",
@@ -20,10 +68,16 @@
       "url": "https://www.theblock.co/post/407160/cryptoquant-bitcoin-ether-altcoin-exchange-deposits-volatility?utm_source=rss&utm_medium=rss",
       "event_type": "narrative",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-03T17:55:56+00:00",
       "raw_text": "CryptoQuant says bitcoin and altcoin exchange deposits have spiked, indicating higher volatility ahead\n\n<p>Bitcoin deposits to exchanges recently climbed to nearly 49,000 BTC, \"a rare extreme\" seen only four other times this year, CryptoQuant said.</p>\n\n<p>Bitcoin deposits to exchanges recently clim",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0304,
+        "t_plus_15m": -0.1124,
+        "t_plus_1h": 0.0096
+      }
     },
     {
       "event_id": "531f012f-63f2-475a-8a1a-0518e90b5f3e",
@@ -6380,62 +6434,6 @@
       "timestamp_utc": "2026-06-26T17:43:33+00:00",
       "raw_text": "SEC, CFTC seek input on unified portfolio margin rules across securities and derivatives\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC, CFTC seek input on unified portfolio margin rules across securities and derivatives\" class=\"type:primaryImage\" src=\"https://s3-images",
       "impact": {}
-    },
-    {
-      "event_id": "f3c31ecb-16ff-46bd-a84c-23990c9ba398",
-      "source": "rss:decrypt",
-      "title": "Kalshi Scores FIFA World Cup Spotlight as Prediction Market Trading Surges to Record",
-      "url": "https://decrypt.co/372204/kalshi-scores-fifa-world-cup-spotlight-prediction-market-trading-record",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-26T17:35:20+00:00",
-      "raw_text": "Kalshi Scores FIFA World Cup Spotlight as Prediction Market Trading Surges to Record\n\nAs prediction markets notch record trading volumes, Kalshi is ramping up its marketing push through a high-profile FIFA World Cup deal.",
-      "impact": {}
-    },
-    {
-      "event_id": "f542bd0c-f49b-4742-a796-b6c9024a305e",
-      "source": "rss:theblock",
-      "title": "Tokenization firm Securitize eyes early July NYSE debut with $400 million SPAC deal",
-      "url": "https://www.theblock.co/post/406396/tokenization-firm-securitize-july-nyse-debut-400-million-spac-deal?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-26T17:23:01+00:00",
-      "raw_text": "Tokenization firm Securitize eyes early July NYSE debut with $400 million SPAC deal\n\n<p>Seeking to debut next week, Securitize will receive roughly $400 million after retaining more than 70% of its SPAC trust.</p>\n\n<p>Seeking to debut next week, Securitize will receive roughly $400 million after ret",
-      "impact": {}
-    },
-    {
-      "event_id": "99ed0e3d-ec73-46ae-aa50-6322ff018ab8",
-      "source": "rss:cointelegraph",
-      "title": "Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position",
-      "url": "https://cointelegraph.com/markets/ethereum-whale-who-shorted-october-2025-crash-returns-with-a-197m-short-eth-bet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "whale_move",
-      "sentiment_label": "negative",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-06-26T17:02:33+00:00",
-      "raw_text": "Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum whale who shorted October 2025 crash opens $19.7M ETH short position\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti",
-      "impact": {
-        "t_plus_5m": 0.5273,
-        "t_plus_15m": 0.6403,
-        "t_plus_1h": 0.5503,
-        "t_plus_4h": -0.2985,
-        "t_plus_24h": 2.0504
-      }
-    },
-    {
-      "event_id": "b1200fe9-6150-4f3d-a4bf-68bbf1130f67",
-      "source": "rss:theblock",
-      "title": "Bipartisan senators call for CFTC investigation into Polymarket after fake bets report",
-      "url": "https://www.theblock.co/post/406400/bipartisan-senators-call-cftc-investigation-polymarket-fake-bets?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-26T16:46:18+00:00",
-      "raw_text": "Bipartisan senators call for CFTC investigation into Polymarket after fake bets report\n\n<p>Senators are demanding for the CFTC to investigate Polymarket following reports that it paid creators to stage fake winning bets.</p>\n\n<p>Senators are demanding for the CFTC to investigate Polymarket following",
-      "impact": {}
     }
   ],
   "stats": {
@@ -6447,13 +6445,13 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 160,
+        "count": 162,
         "avg_1h": -0.02,
         "avg_24h": 0.5,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 195,
+        "count": 194,
         "avg_1h": 0.3,
         "avg_24h": 1.05,
         "win_rate_1h_gt5pct": 0.0
@@ -6471,9 +6469,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
-        "count": 6,
-        "avg_1h": 0.13,
-        "avg_24h": 0.92,
+        "count": 5,
+        "avg_1h": -0.08,
+        "avg_24h": -0.21,
         "win_rate_1h_gt5pct": 0.0
       }
     }
