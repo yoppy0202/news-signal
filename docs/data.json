@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-04T12:14:39.921167+00:00",
+  "generated_at": "2026-07-04T14:43:40.972115+00:00",
   "events": [
+    {
+      "event_id": "61bfbc99-23fa-4691-b645-26a784a2e1ca",
+      "source": "rss:cointelegraph",
+      "title": "Bollinger Bands creator eyes Bitcoin bear-market end, 'W'-shaped reversal",
+      "url": "https://cointelegraph.com/markets/bollinger-bands-creator-eyes-bitcoin-bear-market-end-w-shaped-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-04T13:09:16+00:00",
+      "raw_text": "Bollinger Bands creator eyes Bitcoin bear-market end, 'W'-shaped reversal\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bollinger Bands creator eyes Bitcoin bear-market end, 'W'-shaped reversal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
+      "impact": {}
+    },
     {
       "event_id": "3d269350-ade0-4e7b-b2c0-26021dc08b0c",
       "source": "rss:coindesk",
@@ -58,7 +70,8 @@
       "impact": {
         "t_plus_5m": -0.3954,
         "t_plus_15m": -0.4493,
-        "t_plus_1h": 0.0612
+        "t_plus_1h": 0.0612,
+        "t_plus_4h": 0.1581
       }
     },
     {
@@ -6433,32 +6446,20 @@
       "timestamp_utc": "2026-06-26T19:20:33+00:00",
       "raw_text": "Spain regulator rules out extension for non-MiCA compliant crypto companies\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Spain regulator rules out extension for non-MiCA compliant crypto companies\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-",
       "impact": {}
-    },
-    {
-      "event_id": "e9392f25-1775-46e1-8330-2fe821ee4f95",
-      "source": "rss:decrypt",
-      "title": "Senators Demand Answers From CFTC Over Alleged Polymarket Deceptive Advertising",
-      "url": "https://decrypt.co/372239/senators-demand-answers-cftc-polymarket-deceptive-advertising",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-26T19:18:41+00:00",
-      "raw_text": "Senators Demand Answers From CFTC Over Alleged Polymarket Deceptive Advertising\n\nSenators are seeking answers from the CFTC about recent allegations of deceptive marketing from Polymarket.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 195,
-        "avg_1h": 0.22,
-        "avg_24h": 1.96,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 164,
+        "count": 165,
         "avg_1h": -0.03,
         "avg_24h": 0.5,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 194,
+        "avg_1h": 0.22,
+        "avg_24h": 1.96,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
