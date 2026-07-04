@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-04T00:15:09.104859+00:00",
+  "generated_at": "2026-07-04T04:47:51.833607+00:00",
   "events": [
+    {
+      "event_id": "3d4df44a-f264-4754-93df-7e008dba4ca5",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin P&L ratio falls to 43-month low",
+      "url": "https://cointelegraph.com/news/bitcoin-realized-profit-loss-ratio-falls-to-lowest-level-since-2022-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-04T02:04:03+00:00",
+      "raw_text": "Bitcoin P&L ratio falls to 43-month low\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin P&amp;L ratio falls to 43-month low\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/analytics-red-market-falling-drop-bitcoin-1.jpg\" /></p><p>Bit",
+      "impact": {}
+    },
     {
       "event_id": "2d27e934-3a97-4275-90c2-36aed2ca7061",
       "source": "rss:cointelegraph",
@@ -8,10 +20,16 @@
       "url": "https://cointelegraph.com/markets/sol-rallies-as-solana-memecoins-prediction-market-activity-surge-are-bulls-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "SOL"
+      ],
       "timestamp_utc": "2026-07-03T21:36:02+00:00",
       "raw_text": "SOL rallies as Solana memecoins, prediction market activity surge: Are bulls back?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SOL rallies as Solana memecoins, prediction market activity surge: Are bulls back?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0171,
+        "t_plus_15m": 0.2088,
+        "t_plus_1h": 0.0029
+      }
     },
     {
       "event_id": "51b75240-9e0c-47c2-9dfa-49b04ef4cbd7",
@@ -6423,30 +6441,18 @@
         "t_plus_4h": 0.4903,
         "t_plus_24h": 1.5353
       }
-    },
-    {
-      "event_id": "df1cb926-f79a-40e4-ba1e-a85506908397",
-      "source": "rss:theblock",
-      "title": "Base suffers second mainnet stall in two days",
-      "url": "https://www.theblock.co/post/406409/base-suffers-second-mainnet-stall-in-two-days?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-26T17:50:02+00:00",
-      "raw_text": "Base suffers second mainnet stall in two days\n\n<p>Base block production resumed as of 16:11 UTC, following an alert to another mainnet chain stall at 15:33 UTC.</p>\n\n<p>Base block production resumed as of 16:11 UTC, following an alert to another mainnet chain stall at 15:33 UTC.</p>",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 163,
+        "count": 164,
         "avg_1h": -0.02,
         "avg_24h": 0.5,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 105,
+        "count": 104,
         "avg_1h": -0.03,
         "avg_24h": 1.8,
         "win_rate_1h_gt5pct": 0.0
