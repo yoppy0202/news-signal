@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-04T18:12:20.760636+00:00",
+  "generated_at": "2026-07-04T20:15:18.404745+00:00",
   "events": [
+    {
+      "event_id": "07400618-16b0-494f-8afe-43258085d08d",
+      "source": "rss:cointelegraph",
+      "title": "Kraken lets traders use tokenized stocks as collateral for leveraged trades",
+      "url": "https://cointelegraph.com/news/kraken-lets-traders-use-tokenized-stocks-as-collateral-for-leveraged-trades?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-04T19:37:11+00:00",
+      "raw_text": "Kraken lets traders use tokenized stocks as collateral for leveraged trades\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken lets traders use tokenized stocks as collateral for leveraged trades\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-",
+      "impact": {}
+    },
+    {
+      "event_id": "598d7cb4-af1b-4155-aaa1-64754c44b3ef",
+      "source": "rss:coindesk",
+      "title": "Bitcoin jumps above $63,000, reversing end-June losses",
+      "url": "https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-04T18:07:17+00:00",
+      "raw_text": "Bitcoin jumps above $63,000, reversing end-June losses",
+      "impact": {}
+    },
+    {
+      "event_id": "1657ec4b-509c-48de-a278-053af19e7089",
+      "source": "rss:coindesk",
+      "title": "Bitcoin experts split over plan to freeze Satoshi's 1.1 million bitcoin as quantum threat grows",
+      "url": "https://www.coindesk.com/business/2026/07/04/bitcoin-experts-split-over-plan-to-freeze-satoshi-s-1-1-million-bitcoin-as-quantum-threat-grows",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-04T18:00:00+00:00",
+      "raw_text": "Bitcoin experts split over plan to freeze Satoshi's 1.1 million bitcoin as quantum threat grows",
+      "impact": {}
+    },
     {
       "event_id": "cf8784a5-3019-4e3f-b5f2-a2794a2d0790",
       "source": "rss:decrypt",
@@ -124,7 +160,8 @@
       "impact": {
         "t_plus_5m": 0.0561,
         "t_plus_15m": 0.1673,
-        "t_plus_1h": 0.1002
+        "t_plus_1h": 0.1002,
+        "t_plus_4h": 0.572
       }
     },
     {
@@ -6401,70 +6438,26 @@
       "timestamp_utc": "2026-06-27T07:43:58+00:00",
       "raw_text": "Dogecoin and Hyperliquid's HYPE led weekly crypto losses as AI stocks lure buyers",
       "impact": {}
-    },
-    {
-      "event_id": "3d2eba09-1ac4-40fa-9313-cbb6aa716999",
-      "source": "rss:cointelegraph",
-      "title": "Securitize says it expects to raise $400M ahead of public debut",
-      "url": "https://cointelegraph.com/news/securitize-expects-to-raise-400m-ahead-of-public-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-27T05:35:27+00:00",
-      "raw_text": "Securitize says it expects to raise $400M ahead of public debut\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Securitize says it expects to raise $400M ahead of public debut\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-types-of-conse",
-      "impact": {}
-    },
-    {
-      "event_id": "8ba7d0ee-c214-4036-9d1f-edd1d35d94a0",
-      "source": "rss:cointelegraph",
-      "title": "Securitize expects to raise $400M ahead of public debut",
-      "url": "https://cointelegraph.com/news/securitize-expects-to-raise-400m-ahead-of-public-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-27T05:35:27+00:00",
-      "raw_text": "Securitize expects to raise $400M ahead of public debut\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Securitize expects to raise $400M ahead of public debut\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-types-of-consensus-mechanisms-",
-      "impact": {}
-    },
-    {
-      "event_id": "09f56436-5307-450e-828d-702838f71a4e",
-      "source": "rss:cointelegraph",
-      "title": "SOL reclaims $72, but onchain data flags weakening momentum",
-      "url": "https://cointelegraph.com/markets/sol-reclaims-72-but-onchain-data-flags-weakening-momentum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [
-        "SOL"
-      ],
-      "timestamp_utc": "2026-06-27T02:47:59+00:00",
-      "raw_text": "SOL reclaims $72, but onchain data flags weakening momentum\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SOL reclaims $72, but onchain data flags weakening momentum\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-202708-leg",
-      "impact": {
-        "t_plus_5m": 0.5952,
-        "t_plus_15m": 0.6358,
-        "t_plus_1h": 0.8624,
-        "t_plus_4h": 0.6636,
-        "t_plus_24h": -1.3149
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 102,
+        "avg_1h": -0.01,
+        "avg_24h": 1.84,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 194,
+        "count": 196,
         "avg_1h": 0.22,
         "avg_24h": 1.96,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 168,
-        "avg_1h": -0.03,
-        "avg_24h": 0.5,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 103,
-        "avg_1h": -0.01,
-        "avg_24h": 1.84,
+        "count": 167,
+        "avg_1h": -0.07,
+        "avg_24h": 0.96,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
