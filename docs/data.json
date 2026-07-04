@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-04T08:02:33.071673+00:00",
+  "generated_at": "2026-07-04T10:22:16.427598+00:00",
   "events": [
+    {
+      "event_id": "b04bcc06-f7ef-469a-b4cf-355525c5317a",
+      "source": "rss:cointelegraph",
+      "title": "Tim Draper denies moving Bitcoin, reiterates $250,000 BTC prediction",
+      "url": "https://cointelegraph.com/news/tim-draper-denies-moving-bitcoin-250k-btc-prediction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-04T08:31:02+00:00",
+      "raw_text": "Tim Draper denies moving Bitcoin, reiterates $250,000 BTC prediction\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tim Draper denies moving Bitcoin, reiterates $250,000 BTC prediction\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-inve",
+      "impact": {}
+    },
+    {
+      "event_id": "b951a5e0-abb3-44b7-935d-8371ee58af3e",
+      "source": "rss:coindesk",
+      "title": "XRP climbs 8% as record holder losses signal better risk-reward for buyers",
+      "url": "https://www.coindesk.com/markets/2026/07/04/xrp-climbs-8-as-one-onchain-gauge-signal-shows-favorable-risk-reward-for-buyers",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-04T07:08:00+00:00",
+      "raw_text": "XRP climbs 8% as record holder losses signal better risk-reward for buyers",
+      "impact": {}
+    },
+    {
+      "event_id": "8f472eee-634d-47d1-91bb-5e8e4941c72b",
+      "source": "rss:coindesk",
+      "title": "Bitcoin’s next parabolic run may need $1 trillion in fresh capital",
+      "url": "https://www.coindesk.com/markets/2026/07/04/bitcoin-s-next-parabolic-run-may-need-usd1-trillion-in-fresh-capital",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-04T06:48:42+00:00",
+      "raw_text": "Bitcoin’s next parabolic run may need $1 trillion in fresh capital",
+      "impact": {}
+    },
     {
       "event_id": "d12c63aa-9667-410d-b422-92c344effe3d",
       "source": "rss:cointelegraph",
@@ -32,10 +68,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-ether-extend-relief-rallies-as-extreme-fear-meets-renewed-etf-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "macro",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-04T03:54:18+00:00",
       "raw_text": "Bitcoin, Ether extend relief rallies as extreme fear meets renewed ETF buying\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin, Ether extend relief rallies as extreme fear meets renewed ETF buying\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2862,
+        "t_plus_15m": 0.3109,
+        "t_plus_1h": 0.3598
+      }
     },
     {
       "event_id": "3d4df44a-f264-4754-93df-7e008dba4ca5",
@@ -6390,50 +6432,6 @@
       "timestamp_utc": "2026-06-26T18:37:50+00:00",
       "raw_text": "Former Ethereum Foundation leader warns of funding gap as governance shifts",
       "impact": {}
-    },
-    {
-      "event_id": "4d18e02e-190a-4695-993a-6631376c4c0d",
-      "source": "rss:theblock",
-      "title": "Solana DAT stocks climb double digits as SOL jumps 9%",
-      "url": "https://www.theblock.co/post/406414/solana-dat-stocks-climb-double-digits-sol-jumps-9?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "SOL"
-      ],
-      "timestamp_utc": "2026-06-26T18:34:02+00:00",
-      "raw_text": "Solana DAT stocks climb double digits as SOL jumps 9%\n\n<p>Sol Strategies (STKE) climbed as much as 22% to a high of $1.20 on Friday, outpacing other crypto treasury stocks.</p>\n\n<p>Sol Strategies (STKE) climbed as much as 22% to a high of $1.20 on Friday, outpacing other crypto treasury stocks.</p>",
-      "impact": {
-        "t_plus_5m": 0.0373,
-        "t_plus_15m": 0.0193,
-        "t_plus_1h": 1.5102,
-        "t_plus_4h": -1.2113,
-        "t_plus_24h": -0.7718
-      }
-    },
-    {
-      "event_id": "48e43aec-113c-47fd-9e4e-6399575c6eab",
-      "source": "rss:coindesk",
-      "title": "Anti-trafficking group says Clarity Act's Section 604 could weaken accountability",
-      "url": "https://www.coindesk.com/policy/2026/06/26/anti-trafficking-group-warns-clarity-act-s-section-604-could-weaken-accountability",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-26T18:24:24+00:00",
-      "raw_text": "Anti-trafficking group says Clarity Act's Section 604 could weaken accountability",
-      "impact": {}
-    },
-    {
-      "event_id": "d32d7bb0-8bf4-486c-a39b-99c1e70da64b",
-      "source": "rss:coindesk",
-      "title": "Virtuals' Jansen Teng says AI agents are evolving into autonomous economic actors",
-      "url": "https://www.coindesk.com/coindesk-news/2026/06/26/virtuals-jansen-teng-says-ai-agents-are-evolving-into-autonomous-economic-actors",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-26T18:04:22+00:00",
-      "raw_text": "Virtuals' Jansen Teng says AI agents are evolving into autonomous economic actors",
-      "impact": {}
     }
   ],
   "stats": {
@@ -6444,16 +6442,16 @@
         "avg_24h": 0.5,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 105,
-        "avg_1h": -0.03,
-        "avg_24h": 1.84,
+      "unknown": {
+        "count": 195,
+        "avg_1h": 0.23,
+        "avg_24h": 1.96,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 194,
-        "avg_1h": 0.3,
-        "avg_24h": 1.05,
+      "macro": {
+        "count": 104,
+        "avg_1h": -0.01,
+        "avg_24h": 1.84,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
