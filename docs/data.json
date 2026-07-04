@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-04T20:15:18.404745+00:00",
+  "generated_at": "2026-07-04T22:08:23.843286+00:00",
   "events": [
+    {
+      "event_id": "094337bc-e247-4d60-8951-6cbde87488dd",
+      "source": "rss:theblock",
+      "title": "Nearly 1 million wallets are down $3.81 billion on Trump’s memecoin: report",
+      "url": "https://www.theblock.co/post/407170/nearly-1-million-wallets-are-down-3-81-billion-on-trumps-memecoin-report?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-04T20:44:18+00:00",
+      "raw_text": "Nearly 1 million wallets are down $3.81 billion on Trump’s memecoin: report\n\n<p>Trump's annual financial disclosure showed a $636 million payout tied to the token and more than $1.4 billion in total crypto-related income for 2025.</p>\n\n<p>Trump's annual financial disclosure showed a $636 million pay",
+      "impact": {}
+    },
+    {
+      "event_id": "157cdf14-10ed-4133-b4d2-0938e936b5d8",
+      "source": "rss:coindesk",
+      "title": "Tokenization's next use case is personalized portfolios, NYLIM executive says",
+      "url": "https://www.coindesk.com/business/2026/07/02/tokenization-s-next-use-case-is-personalized-portfolios-nylim-executive-says",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-04T20:00:00+00:00",
+      "raw_text": "Tokenization's next use case is personalized portfolios, NYLIM executive says",
+      "impact": {}
+    },
     {
       "event_id": "07400618-16b0-494f-8afe-43258085d08d",
       "source": "rss:cointelegraph",
@@ -23,6 +47,18 @@
       "tokens": [],
       "timestamp_utc": "2026-07-04T18:07:17+00:00",
       "raw_text": "Bitcoin jumps above $63,000, reversing end-June losses",
+      "impact": {}
+    },
+    {
+      "event_id": "462dab5d-2a0b-4213-b9f7-d6d319b9c60e",
+      "source": "rss:coindesk",
+      "title": "How ethical hackers with just a $3,000 server found a flaw that could've put $70 billion in crypto at risk",
+      "url": "https://www.coindesk.com/tech/2026/07/04/how-ethical-hackers-with-just-a-usd3-000-server-found-a-flaw-that-could-ve-put-usd70-billion-in-crypto-at-risk",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-04T18:00:00+00:00",
+      "raw_text": "How ethical hackers with just a $3,000 server found a flaw that could've put $70 billion in crypto at risk",
       "impact": {}
     },
     {
@@ -6402,50 +6438,14 @@
       "timestamp_utc": "2026-06-27T12:00:56+00:00",
       "raw_text": "SecondFi targets two-week recovery after Cardano wallet exploit\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" SecondFi targets two-week recovery after Cardano wallet exploit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-spotlight-for",
       "impact": {}
-    },
-    {
-      "event_id": "0efda6a6-ea98-4ace-af03-5d6e0beee8e9",
-      "source": "rss:cointelegraph",
-      "title": "EU lawmakers urge assessing DeFi, staking, NFT regulation",
-      "url": "https://cointelegraph.com/news/eu-lawmakers-assessing-defi-staking-nft-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-27T08:21:04+00:00",
-      "raw_text": "EU lawmakers urge assessing DeFi, staking, NFT regulation\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EU lawmakers urge assessing DeFi, staking, NFT regulation\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-european-union-moves-to-re",
-      "impact": {}
-    },
-    {
-      "event_id": "fe4befb5-2224-43c9-bb63-055bee5e427d",
-      "source": "rss:coindesk",
-      "title": "Ripple CEO stays bullish on bitcoin but says Saylor's strategy has hurt crypto",
-      "url": "https://www.coindesk.com/markets/2026/06/27/ripple-ceo-stays-bullish-on-bitcoin-but-says-saylor-s-strategy-has-hurt-crypto",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-27T07:58:35+00:00",
-      "raw_text": "Ripple CEO stays bullish on bitcoin but says Saylor's strategy has hurt crypto",
-      "impact": {}
-    },
-    {
-      "event_id": "19366280-e062-4939-a085-de4c8e59dfc2",
-      "source": "rss:coindesk",
-      "title": "Dogecoin and Hyperliquid's HYPE led weekly crypto losses as AI stocks lure buyers",
-      "url": "https://www.coindesk.com/markets/2026/06/27/dogecoin-and-hyperliquid-s-hype-led-weekly-crypto-losses-as-ai-stocks-lure-buyers",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-27T07:43:58+00:00",
-      "raw_text": "Dogecoin and Hyperliquid's HYPE led weekly crypto losses as AI stocks lure buyers",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 102,
-        "avg_1h": -0.01,
-        "avg_24h": 1.84,
+      "narrative": {
+        "count": 167,
+        "avg_1h": -0.07,
+        "avg_24h": 0.96,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
@@ -6454,22 +6454,22 @@
         "avg_24h": 1.96,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 167,
-        "avg_1h": -0.07,
-        "avg_24h": 0.96,
+      "macro": {
+        "count": 101,
+        "avg_1h": -0.01,
+        "avg_24h": 1.84,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 21,
+        "avg_1h": -0.03,
+        "avg_24h": -2.27,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
         "count": 11,
         "avg_1h": -0.08,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 20,
-        "avg_1h": -0.03,
-        "avg_24h": -2.27,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
