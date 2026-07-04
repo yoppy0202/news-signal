@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-04T10:22:16.427598+00:00",
+  "generated_at": "2026-07-04T12:14:39.921167+00:00",
   "events": [
+    {
+      "event_id": "3d269350-ade0-4e7b-b2c0-26021dc08b0c",
+      "source": "rss:coindesk",
+      "title": "UK's bold new crypto rules promise to unlock global trading, but huge compliance hurdles still threaten the rollout",
+      "url": "https://www.coindesk.com/policy/2026/07/04/uk-s-bold-new-crypto-rules-promise-to-unlock-global-trading-but-huge-compliance-hurdles-still-threaten-the-rollout",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-04T12:00:00+00:00",
+      "raw_text": "UK's bold new crypto rules promise to unlock global trading, but huge compliance hurdles still threaten the rollout",
+      "impact": {}
+    },
+    {
+      "event_id": "5077cdc0-4387-47af-981a-a1a5502ca932",
+      "source": "rss:cointelegraph",
+      "title": "Revolut to delist USDT in August, citing regulatory and risk concerns",
+      "url": "https://cointelegraph.com/news/revolut-usdt-delisting-regulatory-risk-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-04T11:25:34+00:00",
+      "raw_text": "Revolut to delist USDT in August, citing regulatory and risk concerns\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Revolut to delist USDT in August, citing regulatory and risk concerns\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-kr",
+      "impact": {}
+    },
     {
       "event_id": "b04bcc06-f7ef-469a-b4cf-355525c5317a",
       "source": "rss:cointelegraph",
@@ -8,10 +32,16 @@
       "url": "https://cointelegraph.com/news/tim-draper-denies-moving-bitcoin-250k-btc-prediction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-04T08:31:02+00:00",
       "raw_text": "Tim Draper denies moving Bitcoin, reiterates $250,000 BTC prediction\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tim Draper denies moving Bitcoin, reiterates $250,000 BTC prediction\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-inve",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0921,
+        "t_plus_15m": -0.0576,
+        "t_plus_1h": -0.2734
+      }
     },
     {
       "event_id": "b951a5e0-abb3-44b7-935d-8371ee58af3e",
@@ -20,10 +50,16 @@
       "url": "https://www.coindesk.com/markets/2026/07/04/xrp-climbs-8-as-one-onchain-gauge-signal-shows-favorable-risk-reward-for-buyers",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-07-04T07:08:00+00:00",
       "raw_text": "XRP climbs 8% as record holder losses signal better risk-reward for buyers",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.3954,
+        "t_plus_15m": -0.4493,
+        "t_plus_1h": 0.0612
+      }
     },
     {
       "event_id": "8f472eee-634d-47d1-91bb-5e8e4941c72b",
@@ -76,7 +112,8 @@
       "impact": {
         "t_plus_5m": 0.2862,
         "t_plus_15m": 0.3109,
-        "t_plus_1h": 0.3598
+        "t_plus_1h": 0.3598,
+        "t_plus_4h": 0.1952
       }
     },
     {
@@ -6408,44 +6445,20 @@
       "timestamp_utc": "2026-06-26T19:18:41+00:00",
       "raw_text": "Senators Demand Answers From CFTC Over Alleged Polymarket Deceptive Advertising\n\nSenators are seeking answers from the CFTC about recent allegations of deceptive marketing from Polymarket.",
       "impact": {}
-    },
-    {
-      "event_id": "8c2393c2-d972-4c05-869a-5082eee83b41",
-      "source": "rss:decrypt",
-      "title": "OpenAI Rolls Out GPT-5.6—But Only for Some Users Due to Trump Admin",
-      "url": "https://decrypt.co/372238/openai-rolls-out-gpt-5-6-limited-access-trump-admin",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-26T19:06:06+00:00",
-      "raw_text": "OpenAI Rolls Out GPT-5.6—But Only for Some Users Due to Trump Admin\n\nOpenAI introduced the GPT-5.6 family of AI models on Friday, but only limited users can access them for now thanks to the U.S. government.",
-      "impact": {}
-    },
-    {
-      "event_id": "a0bac084-a861-43a7-b61f-b01aeff4522e",
-      "source": "rss:coindesk",
-      "title": "Former Ethereum Foundation leader warns of funding gap as governance shifts",
-      "url": "https://www.coindesk.com/markets/2026/06/26/former-ethereum-foundation-leader-warns-of-funding-gap-as-governance-shifts",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-26T18:37:50+00:00",
-      "raw_text": "Former Ethereum Foundation leader warns of funding gap as governance shifts",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 164,
-        "avg_1h": -0.02,
-        "avg_24h": 0.5,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
         "count": 195,
-        "avg_1h": 0.23,
+        "avg_1h": 0.22,
         "avg_24h": 1.96,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 164,
+        "avg_1h": -0.03,
+        "avg_24h": 0.5,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
