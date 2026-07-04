@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-04T14:43:40.972115+00:00",
+  "generated_at": "2026-07-04T16:13:35.757009+00:00",
   "events": [
+    {
+      "event_id": "c7951b7f-c0fb-405a-9c12-3491b68eb8c8",
+      "source": "rss:decrypt",
+      "title": "Inside the Trading Engine Behind ChangeNOW’s ‘Fast, Seamless Swaps’",
+      "url": "https://decrypt.co/372679/inside-the-trading-engine-behind-changenows-fast-seamless-swaps",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-04T14:01:03+00:00",
+      "raw_text": "Inside the Trading Engine Behind ChangeNOW’s ‘Fast, Seamless Swaps’\n\nChangeNOW CSO Pauline Shangett digs into the infrastructure underpinning the exchange’s simple, streamlined frontend.",
+      "impact": {}
+    },
+    {
+      "event_id": "9c1f2d1f-ab91-4ed1-9542-d40afacc181e",
+      "source": "rss:coindesk",
+      "title": "Europe led on crypto regulation. Now implementation must match ambition",
+      "url": "https://www.coindesk.com/opinion/2026/07/04/europe-led-on-crypto-regulation-now-implementation-must-match-ambition",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-04T14:00:00+00:00",
+      "raw_text": "Europe led on crypto regulation. Now implementation must match ambition",
+      "impact": {}
+    },
+    {
+      "event_id": "348d48cc-4d6a-4ba3-98c6-1e310c858ba7",
+      "source": "rss:coindesk",
+      "title": "EU moves to block retail investors from explosive boom of multibillion-dollar prediction markets",
+      "url": "https://www.coindesk.com/policy/2026/07/04/eu-moves-to-block-retail-investors-from-explosive-boom-of-multibillion-dollar-prediction-markets",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-04T13:56:27+00:00",
+      "raw_text": "EU moves to block retail investors from explosive boom of multibillion-dollar prediction markets",
+      "impact": {}
+    },
     {
       "event_id": "61bfbc99-23fa-4691-b645-26a784a2e1ca",
       "source": "rss:cointelegraph",
@@ -8,10 +44,16 @@
       "url": "https://cointelegraph.com/markets/bollinger-bands-creator-eyes-bitcoin-bear-market-end-w-shaped-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-04T13:09:16+00:00",
       "raw_text": "Bollinger Bands creator eyes Bitcoin bear-market end, 'W'-shaped reversal\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bollinger Bands creator eyes Bitcoin bear-market end, 'W'-shaped reversal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0561,
+        "t_plus_15m": 0.1673,
+        "t_plus_1h": 0.1002
+      }
     },
     {
       "event_id": "3d269350-ade0-4e7b-b2c0-26021dc08b0c",
@@ -52,7 +94,8 @@
       "impact": {
         "t_plus_5m": -0.0921,
         "t_plus_15m": -0.0576,
-        "t_plus_1h": -0.2734
+        "t_plus_1h": -0.2734,
+        "t_plus_4h": -0.0458
       }
     },
     {
@@ -714,6 +757,18 @@
       "tokens": [],
       "timestamp_utc": "2026-07-03T06:07:10+00:00",
       "raw_text": "AI agent development hasn’t accelerated as expected, Zuckerberg says\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"AI agent development hasn’t accelerated as expected, Zuckerberg says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-face",
+      "impact": {}
+    },
+    {
+      "event_id": "8a8015df-5b43-427f-8e56-56e0c4449a41",
+      "source": "rss:coindesk",
+      "title": "Bitcoin ETFs see $221 million inflow, finally ending a painful 10-day selling streak",
+      "url": "https://www.coindesk.com/markets/2026/07/03/finally-usd221-million-flow-into-bitcoin-etfs-ending-a-painful-10-day-outflow-streak",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-03T05:54:51+00:00",
+      "raw_text": "Bitcoin ETFs see $221 million inflow, finally ending a painful 10-day selling streak",
       "impact": {}
     },
     {
@@ -6398,74 +6453,26 @@
       "timestamp_utc": "2026-06-26T20:44:55+00:00",
       "raw_text": "Ripple CEO says Michael Saylor has hurt crypto market as Strategy’s STRC trades 25% below par\n\n<p>\"Financial engineering does not drive long-term value ... long-term value of any digital asset is going to be driven by utility,\" said Garlinghouse.</p>\n\n<p>\"Financial engineering does not drive long-te",
       "impact": {}
-    },
-    {
-      "event_id": "0f569d08-a4ed-402d-bef6-7158d6a540dc",
-      "source": "rss:coindesk",
-      "title": "Aave, Solana ecosystem tokens lead crypto rebound as bitcoin steadies near $60,000",
-      "url": "https://www.coindesk.com/markets/2026/06/26/aave-solana-ecosystem-tokens-lead-crypto-rebound-as-bitcoin-steadies-near-usd60-000",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-26T20:15:03+00:00",
-      "raw_text": "Aave, Solana ecosystem tokens lead crypto rebound as bitcoin steadies near $60,000",
-      "impact": {}
-    },
-    {
-      "event_id": "e372ea90-14d8-4f76-833c-9186d5fc0669",
-      "source": "rss:coindesk",
-      "title": "U.S. House Democrat, who may soon run key committee, condemns crypto in 401(k)s",
-      "url": "https://www.coindesk.com/policy/2026/06/26/u-s-house-democrat-who-may-soon-run-key-committee-condemns-crypto-in-401-k-s",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-26T19:38:12+00:00",
-      "raw_text": "U.S. House Democrat, who may soon run key committee, condemns crypto in 401(k)s",
-      "impact": {}
-    },
-    {
-      "event_id": "79afc2e7-39a5-471e-9908-ebbec5501ef0",
-      "source": "rss:decrypt",
-      "title": "Linux Foundation, Tech Giants Launch Akrites to Defend Open Source Against AI-Powered Attacks",
-      "url": "https://decrypt.co/372244/linux-foundation-tech-giants-akrites-defend-open-source-ai-attacks",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-26T19:23:37+00:00",
-      "raw_text": "Linux Foundation, Tech Giants Launch Akrites to Defend Open Source Against AI-Powered Attacks\n\nA coalition of 19 organizations—including every major AI lab and Wall Street banks—just built the security team that open-source maintainers never had.",
-      "impact": {}
-    },
-    {
-      "event_id": "6fd72f6f-3542-45b0-b29b-bbaad94d9b52",
-      "source": "rss:cointelegraph",
-      "title": "Spain regulator rules out extension for non-MiCA compliant crypto companies",
-      "url": "https://cointelegraph.com/news/spain-no-extension-mica-compliance-crypto-companies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-26T19:20:33+00:00",
-      "raw_text": "Spain regulator rules out extension for non-MiCA compliant crypto companies\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Spain regulator rules out extension for non-MiCA compliant crypto companies\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 165,
-        "avg_1h": -0.03,
-        "avg_24h": 0.5,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 194,
+        "count": 193,
         "avg_1h": 0.22,
         "avg_24h": 1.96,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 104,
+        "count": 105,
         "avg_1h": -0.01,
         "avg_24h": 1.84,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 166,
+        "avg_1h": -0.03,
+        "avg_24h": 0.5,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
@@ -6475,7 +6482,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 21,
+        "count": 20,
         "avg_1h": -0.03,
         "avg_24h": -2.27,
         "win_rate_1h_gt5pct": 0.0
