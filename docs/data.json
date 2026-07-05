@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-05T04:16:34.559688+00:00",
+  "generated_at": "2026-07-05T08:11:41.340616+00:00",
   "events": [
+    {
+      "event_id": "f2e3c4bd-7ad9-40df-bd28-cd91d63e8313",
+      "source": "rss:coindesk",
+      "title": "Barstool's Portnoy plans to hold bitcoin down to zero after timing it wrong every time",
+      "url": "https://www.coindesk.com/markets/2026/07/05/barstool-s-portnoy-plans-to-hold-bitcoin-down-to-zero-after-timing-it-wrong-every-time",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-05T06:00:22+00:00",
+      "raw_text": "Barstool's Portnoy plans to hold bitcoin down to zero after timing it wrong every time",
+      "impact": {}
+    },
+    {
+      "event_id": "b2b5118f-1dc4-4fbd-b964-58c0ae283305",
+      "source": "rss:cointelegraph",
+      "title": "Vitalik Buterin shares top priorities for new 'Lean Ethereum' strawmap",
+      "url": "https://cointelegraph.com/news/vitalik-buterin-shares-top-priorities-for-new-lean-ethereum-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-05T03:50:36+00:00",
+      "raw_text": "Vitalik Buterin shares top priorities for new 'Lean Ethereum' strawmap\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Vitalik Buterin shares top priorities for new 'Lean Ethereum' strawmap \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi",
+      "impact": {}
+    },
+    {
+      "event_id": "74bc6ab1-c276-4ef1-a567-460618b16543",
+      "source": "rss:cointelegraph",
+      "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
+      "url": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-05T00:50:30+00:00",
+      "raw_text": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Moonbeam to pivot from Polkadot to Base, unveils AI agent framework\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/magazine-",
+      "impact": {}
+    },
     {
       "event_id": "0b6181e4-9c60-44e8-94ea-13f26a24217b",
       "source": "rss:theblock",
@@ -237,6 +273,18 @@
       "impact": {}
     },
     {
+      "event_id": "14670a69-5d56-4ad4-9a22-f7968a389557",
+      "source": "rss:cointelegraph",
+      "title": "Tim Draper says Arkham got Bitcoin wallet attribution ‘wrong’",
+      "url": "https://cointelegraph.com/news/tim-draper-denies-moving-bitcoin-250k-btc-prediction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-04T08:31:02+00:00",
+      "raw_text": "Tim Draper says Arkham got Bitcoin wallet attribution ‘wrong’\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tim Draper says Arkham got Bitcoin wallet attribution ‘wrong’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-investors-chase-we",
+      "impact": {}
+    },
+    {
       "event_id": "b04bcc06-f7ef-469a-b4cf-355525c5317a",
       "source": "rss:cointelegraph",
       "title": "Tim Draper denies moving Bitcoin, reiterates $250,000 BTC prediction",
@@ -326,7 +374,8 @@
         "t_plus_5m": 0.2862,
         "t_plus_15m": 0.3109,
         "t_plus_1h": 0.3598,
-        "t_plus_4h": 0.1952
+        "t_plus_4h": 0.1952,
+        "t_plus_24h": 0.4922
       }
     },
     {
@@ -6391,78 +6440,30 @@
       "timestamp_utc": "2026-06-27T14:13:22+00:00",
       "raw_text": "Polymarket hack updated to $3.1 million days after the platform promised users full refunds",
       "impact": {}
-    },
-    {
-      "event_id": "b6d9e72a-84f5-4783-a66c-265a1c1244c5",
-      "source": "rss:coindesk",
-      "title": "Coinbase and OKX try to lure in Binance’s EU users after it failed to secure a MiCA license",
-      "url": "https://www.coindesk.com/business/2026/06/27/coinbase-and-okx-try-to-lure-in-binance-s-450m-eu-users-after-failing-to-secure-a-mica-license",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-27T14:11:45+00:00",
-      "raw_text": "Coinbase and OKX try to lure in Binance’s EU users after it failed to secure a MiCA license",
-      "impact": {}
-    },
-    {
-      "event_id": "327f4cb5-2c6e-47a0-b1c2-093ced800044",
-      "source": "rss:coindesk",
-      "title": "Binance founder CZ blames crypto's sour 2026 on mix of AI, global tension, 4-year cycle",
-      "url": "https://www.coindesk.com/policy/2026/06/27/binance-founder-cz-blames-crypto-s-sour-2026-on-mix-of-ai-global-tension-4-year-cycle",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-27T13:00:00+00:00",
-      "raw_text": "Binance founder CZ blames crypto's sour 2026 on mix of AI, global tension, 4-year cycle",
-      "impact": {}
-    },
-    {
-      "event_id": "bd3145b2-d022-4868-b328-8589c6c4d429",
-      "source": "rss:coindesk",
-      "title": "Strategy's valuation has fallen below the value of its bitcoin holdings",
-      "url": "https://www.coindesk.com/markets/2026/06/27/strategy-s-valuation-has-fallen-below-the-value-of-its-bitcoin-holdings",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-27T12:08:14+00:00",
-      "raw_text": "Strategy's valuation has fallen below the value of its bitcoin holdings",
-      "impact": {}
-    },
-    {
-      "event_id": "afb4ee81-0f33-4d0d-8a43-9b01f5a5b9cf",
-      "source": "rss:cointelegraph",
-      "title": "SecondFi targets 2-week recovery after Cardano wallet exploit",
-      "url": "https://cointelegraph.com/news/secondfi-two-week-recovery-cardano-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-27T12:00:56+00:00",
-      "raw_text": "SecondFi targets 2-week recovery after Cardano wallet exploit\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" SecondFi targets 2-week recovery after Cardano wallet exploit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-spotlight-for-cry",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 102,
-        "avg_1h": -0.01,
-        "avg_24h": 1.84,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 167,
-        "avg_1h": -0.07,
-        "avg_24h": 0.71,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
         "count": 196,
         "avg_1h": 0.22,
         "avg_24h": 1.96,
         "win_rate_1h_gt5pct": 0.0
       },
+      "narrative": {
+        "count": 169,
+        "avg_1h": -0.07,
+        "avg_24h": 0.71,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 101,
+        "avg_1h": -0.01,
+        "avg_24h": 1.67,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
-        "count": 20,
+        "count": 19,
         "avg_1h": -0.03,
         "avg_24h": -2.27,
         "win_rate_1h_gt5pct": 0.0
