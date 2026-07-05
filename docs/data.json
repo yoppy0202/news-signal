@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-05T14:03:37.671200+00:00",
+  "generated_at": "2026-07-05T15:33:18.550335+00:00",
   "events": [
+    {
+      "event_id": "19e7eed9-9533-4f61-8cc0-a3cb38683225",
+      "source": "rss:coindesk",
+      "title": "Banks have stopped asking if stablecoins belong in finance, now they're considering how",
+      "url": "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-05T14:00:00+00:00",
+      "raw_text": "Banks have stopped asking if stablecoins belong in finance, now they're considering how",
+      "impact": {}
+    },
+    {
+      "event_id": "061e4ee2-98c5-4470-9458-c8082450b1e3",
+      "source": "rss:coindesk",
+      "title": "Kalshi and prediction market sector embroiled in mixed bag of legal fights across U.S.",
+      "url": "https://www.coindesk.com/news-analysis/2026/07/02/kalshi-and-prediction-market-sector-embroiled-in-mixed-bag-of-legal-fights-across-u-s",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-05T13:00:00+00:00",
+      "raw_text": "Kalshi and prediction market sector embroiled in mixed bag of legal fights across U.S.",
+      "impact": {}
+    },
+    {
+      "event_id": "d1210278-864f-4cbd-a291-dde92b1fa797",
+      "source": "rss:coindesk",
+      "title": "Collateral, not yield, will decide which stablecoins win",
+      "url": "https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-05T13:00:00+00:00",
+      "raw_text": "Collateral, not yield, will decide which stablecoins win",
+      "impact": {}
+    },
     {
       "event_id": "800a2a94-726c-4604-b546-289cc1d1f731",
       "source": "rss:cointelegraph",
@@ -28,7 +64,8 @@
       "impact": {
         "t_plus_5m": 0.6077,
         "t_plus_15m": 0.7123,
-        "t_plus_1h": 0.2465
+        "t_plus_1h": 0.2465,
+        "t_plus_4h": 0.5027
       }
     },
     {
@@ -275,7 +312,8 @@
         "t_plus_5m": 0.0561,
         "t_plus_15m": 0.1673,
         "t_plus_1h": 0.1002,
-        "t_plus_4h": 0.572
+        "t_plus_4h": 0.572,
+        "t_plus_24h": 0.2259
       }
     },
     {
@@ -6412,62 +6450,26 @@
       "timestamp_utc": "2026-06-27T16:30:00+00:00",
       "raw_text": "What Robinhood’s recent layoffs say about the current state of crypto investments",
       "impact": {}
-    },
-    {
-      "event_id": "e3b90cd4-ee06-42fa-9cac-cc87f9a0d606",
-      "source": "rss:theblock",
-      "title": "Average IBIT investor now down about 40% as spot bitcoin ETFs cap second-worst week on record",
-      "url": "https://www.theblock.co/post/406451/average-ibit-investor-now-down-about-40-as-spot-bitcoin-etfs-cap-second-worst-week-on-record?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-27T16:29:22+00:00",
-      "raw_text": "Average IBIT investor now down about 40% as spot bitcoin ETFs cap second-worst week on record\n\n<p>Friday's $444.51 million net outflow capped a seventh straight negative week, the longest weekly run on record for the category.</p>\n\n<p>Friday's $444.51 million net outflow capped a seventh straight ne",
-      "impact": {}
-    },
-    {
-      "event_id": "0716fdf1-1a8f-4804-a855-d8c014603f6b",
-      "source": "rss:cointelegraph",
-      "title": "Coinbase, Circle underperform Big Tech as crypto stock slump deepens",
-      "url": "https://cointelegraph.com/news/crypto-stocks-underperform-tech-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-27T16:02:38+00:00",
-      "raw_text": "Coinbase, Circle underperform Big Tech as crypto stock slump deepens\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase, Circle underperform Big Tech as crypto stock slump deepens\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/red-rai",
-      "impact": {}
-    },
-    {
-      "event_id": "b63a9e71-9ff8-46b4-8cd3-bb4ad9ed99ab",
-      "source": "rss:coindesk",
-      "title": "Tether putting $23 billion gold stockpile to work with bullion-backed loans",
-      "url": "https://www.coindesk.com/business/2026/06/27/tether-putting-usd23-billion-gold-stockpile-to-work-with-bullion-backed-loans",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-27T15:00:00+00:00",
-      "raw_text": "Tether putting $23 billion gold stockpile to work with bullion-backed loans",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 169,
-        "avg_1h": -0.07,
-        "avg_24h": 0.68,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 197,
+        "count": 198,
         "avg_1h": 0.22,
         "avg_24h": 1.24,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 101,
+        "count": 100,
         "avg_1h": -0.01,
         "avg_24h": 1.67,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 169,
+        "avg_1h": -0.07,
+        "avg_24h": 0.61,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
