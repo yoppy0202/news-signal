@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-05T08:11:41.340616+00:00",
+  "generated_at": "2026-07-05T11:10:32.516462+00:00",
   "events": [
+    {
+      "event_id": "66c8c524-577a-452a-b1e0-6e42fc9a947d",
+      "source": "rss:cointelegraph",
+      "title": "Binance outflows triple to $1.2B as ETH withdrawals hit 3-year high",
+      "url": "https://cointelegraph.com/news/binance-outflows-1-23-billion-eth-withdrawals-3-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-05T08:33:39+00:00",
+      "raw_text": "Binance outflows triple to $1.2B as ETH withdrawals hit 3-year high\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance outflows triple to $1.2B as ETH withdrawals hit 3-year high\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-to",
+      "impact": {}
+    },
     {
       "event_id": "f2e3c4bd-7ad9-40df-bd28-cd91d63e8313",
       "source": "rss:coindesk",
@@ -319,7 +331,8 @@
         "t_plus_5m": -0.3954,
         "t_plus_15m": -0.4493,
         "t_plus_1h": 0.0612,
-        "t_plus_4h": 0.1581
+        "t_plus_4h": 0.1581,
+        "t_plus_24h": -0.2102
       }
     },
     {
@@ -6428,26 +6441,14 @@
       "timestamp_utc": "2026-06-27T14:34:32+00:00",
       "raw_text": "Billionaire Jeremy Grantham Dismisses Bitcoin, Says Crypto Will Fade 'With a Whimper'\n\nThe seasoned investor has little faith in Bitcoin's staying power, expecting crypto to quietly fade away over time.",
       "impact": {}
-    },
-    {
-      "event_id": "a916fd96-603e-480d-a834-bd546e1af16e",
-      "source": "rss:coindesk",
-      "title": "Polymarket hack updated to $3.1 million days after the platform promised users full refunds",
-      "url": "https://www.coindesk.com/markets/2026/06/27/polymarket-hack-updated-to-usd3-1-million-days-after-the-platform-promised-users-full-refunds",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-27T14:13:22+00:00",
-      "raw_text": "Polymarket hack updated to $3.1 million days after the platform promised users full refunds",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 196,
+        "count": 197,
         "avg_1h": 0.22,
-        "avg_24h": 1.96,
+        "avg_24h": 1.24,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
@@ -6463,7 +6464,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 19,
+        "count": 18,
         "avg_1h": -0.03,
         "avg_24h": -2.27,
         "win_rate_1h_gt5pct": 0.0
