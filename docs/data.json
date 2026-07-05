@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T17:23:32.213786+00:00",
+  "generated_at": "2026-07-05T19:39:38.461938+00:00",
   "events": [
     {
       "event_id": "03c26f93-945c-487b-b9bb-f5445ac1ef62",
@@ -8,10 +8,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-nears-635k-into-weekly-close-as-trader-warns-of-terrible-monday?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-05T16:06:20+00:00",
       "raw_text": "Bitcoin nears $63.5K into weekly close as trader warns of 'terrible' Monday\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin nears $63.5K into weekly close as trader warns of 'terrible' Monday\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0282,
+        "t_plus_15m": -0.0006,
+        "t_plus_1h": -0.0083
+      }
     },
     {
       "event_id": "11ce8905-124b-4e00-88f7-1fb866109fb1",
@@ -6456,7 +6462,7 @@
     "by_event_type": {
       "unknown": {
         "count": 199,
-        "avg_1h": 0.22,
+        "avg_1h": 0.21,
         "avg_24h": 1.24,
         "win_rate_1h_gt5pct": 0.0
       },
