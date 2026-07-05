@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-04T23:11:16.733737+00:00",
+  "generated_at": "2026-07-05T04:16:34.559688+00:00",
   "events": [
+    {
+      "event_id": "0b6181e4-9c60-44e8-94ea-13f26a24217b",
+      "source": "rss:theblock",
+      "title": "Bitcoin ETFs log record eighth straight negative week despite large Thursday inflow",
+      "url": "https://www.theblock.co/post/407173/bitcoin-etfs-log-record-eighth-straight-negative-week-despite-large-thursday-inflow?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-04T23:56:20+00:00",
+      "raw_text": "Bitcoin ETFs log record eighth straight negative week despite large Thursday inflow\n\n<p>Hyperliquid ETFs took in $4.3 million, their smallest week since launching in May, down from a record $111 million the week before.</p>\n\n<p>Hyperliquid ETFs took in $4.3 million, their smallest week since launchi",
+      "impact": {}
+    },
     {
       "event_id": "094337bc-e247-4d60-8951-6cbde87488dd",
       "source": "rss:theblock",
@@ -6427,22 +6439,16 @@
       "timestamp_utc": "2026-06-27T12:00:56+00:00",
       "raw_text": "SecondFi targets 2-week recovery after Cardano wallet exploit\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" SecondFi targets 2-week recovery after Cardano wallet exploit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-spotlight-for-cry",
       "impact": {}
-    },
-    {
-      "event_id": "3d7ad5cd-ee5c-4f0c-8267-3d0db129e68f",
-      "source": "rss:cointelegraph",
-      "title": "SecondFi targets two-week recovery after Cardano wallet exploit",
-      "url": "https://cointelegraph.com/news/secondfi-two-week-recovery-cardano-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-27T12:00:56+00:00",
-      "raw_text": "SecondFi targets two-week recovery after Cardano wallet exploit\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\" SecondFi targets two-week recovery after Cardano wallet exploit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-spotlight-for",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 102,
+        "avg_1h": -0.01,
+        "avg_24h": 1.84,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 167,
         "avg_1h": -0.07,
@@ -6455,14 +6461,8 @@
         "avg_24h": 1.96,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 101,
-        "avg_1h": -0.01,
-        "avg_24h": 1.84,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 21,
+        "count": 20,
         "avg_1h": -0.03,
         "avg_24h": -2.27,
         "win_rate_1h_gt5pct": 0.0
