@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-05T19:39:38.461938+00:00",
+  "generated_at": "2026-07-05T21:16:26.145546+00:00",
   "events": [
+    {
+      "event_id": "c5a1c247-fb35-4588-b7cb-0c9a967db68d",
+      "source": "rss:theblock",
+      "title": "Vitalik Buterin says Ethereum’s next rebuild will rival the Merge, and take three to four years",
+      "url": "https://www.theblock.co/post/407176/vitalik-buterin-says-ethereums-next-rebuild-will-rival-the-merge-and-take-three-to-four-years?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-05T19:56:39+00:00",
+      "raw_text": "Vitalik Buterin says Ethereum’s next rebuild will rival the Merge, and take three to four years\n\n<p>He said quantum safety has \"shifted up a LOT in priority\" and that Hegota, slated for later this year, will likely be Ethereum's last \"pre-Lean\" hard fork.</p>\n\n<p>He said quantum safety has \"shifted ",
+      "impact": {}
+    },
+    {
+      "event_id": "522b17f0-8122-4f6e-93da-bd6ecedd24b3",
+      "source": "rss:coindesk",
+      "title": "Clarity and Congress's summer break: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/07/05/clarity-and-congress-s-summer-break-state-of-crypto",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-05T18:30:00+00:00",
+      "raw_text": "Clarity and Congress's summer break: State of Crypto",
+      "impact": {}
+    },
     {
       "event_id": "03c26f93-945c-487b-b9bb-f5445ac1ef62",
       "source": "rss:cointelegraph",
@@ -6424,58 +6448,26 @@
         "t_plus_4h": -0.0794,
         "t_plus_24h": -2.2739
       }
-    },
-    {
-      "event_id": "765ddf4c-bb17-4ac6-8a71-fcc9a305939f",
-      "source": "rss:cointelegraph",
-      "title": "Fidelity rebuts claims Bitcoin becomes less secure after halvings",
-      "url": "https://cointelegraph.com/news/fidelity-bitcoin-long-term-security-halvings-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-27T20:53:02+00:00",
-      "raw_text": "Fidelity rebuts claims Bitcoin becomes less secure after halvings\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fidelity rebuts claims Bitcoin becomes less secure after halvings\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-btc-halvin",
-      "impact": {}
-    },
-    {
-      "event_id": "f8196fcb-a4d0-453d-ba7a-92278a97831e",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin faces fresh capitulation risk as 50K BTC moved at a loss",
-      "url": "https://cointelegraph.com/markets/bitcoin-faces-fresh-capitulation-risk-as-50k-btc-moves-at-a-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-06-27T19:27:44+00:00",
-      "raw_text": "Bitcoin faces fresh capitulation risk as 50K BTC moved at a loss\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin faces fresh capitulation risk as 50K BTC moved at a loss\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-",
-      "impact": {
-        "t_plus_5m": 0.0405,
-        "t_plus_15m": 0.0579,
-        "t_plus_1h": 0.1655,
-        "t_plus_4h": -0.2902,
-        "t_plus_24h": -1.1274
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 168,
+        "avg_1h": -0.09,
+        "avg_24h": 0.9,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 199,
+        "count": 200,
         "avg_1h": 0.21,
         "avg_24h": 1.24,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 100,
+        "count": 99,
         "avg_1h": -0.01,
         "avg_24h": 1.67,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 168,
-        "avg_1h": -0.07,
-        "avg_24h": 0.61,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
