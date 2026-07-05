@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-05T11:10:32.516462+00:00",
+  "generated_at": "2026-07-05T14:03:37.671200+00:00",
   "events": [
+    {
+      "event_id": "800a2a94-726c-4604-b546-289cc1d1f731",
+      "source": "rss:cointelegraph",
+      "title": "South Africa proposes crypto tax guidance under existing framework",
+      "url": "https://cointelegraph.com/news/south-africa-proposes-crypto-tax-draft-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-05T11:52:47+00:00",
+      "raw_text": "South Africa proposes crypto tax guidance under existing framework\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Africa proposes crypto tax guidance under existing framework\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/booksouth-a",
+      "impact": {}
+    },
     {
       "event_id": "66c8c524-577a-452a-b1e0-6e42fc9a947d",
       "source": "rss:cointelegraph",
@@ -8,10 +20,16 @@
       "url": "https://cointelegraph.com/news/binance-outflows-1-23-billion-eth-withdrawals-3-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-07-05T08:33:39+00:00",
       "raw_text": "Binance outflows triple to $1.2B as ETH withdrawals hit 3-year high\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance outflows triple to $1.2B as ETH withdrawals hit 3-year high\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-to",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.6077,
+        "t_plus_15m": 0.7123,
+        "t_plus_1h": 0.2465
+      }
     },
     {
       "event_id": "f2e3c4bd-7ad9-40df-bd28-cd91d63e8313",
@@ -312,7 +330,8 @@
         "t_plus_5m": -0.0921,
         "t_plus_15m": -0.0576,
         "t_plus_1h": -0.2734,
-        "t_plus_4h": -0.0458
+        "t_plus_4h": -0.0458,
+        "t_plus_24h": 0.5268
       }
     },
     {
@@ -6429,32 +6448,20 @@
       "timestamp_utc": "2026-06-27T15:00:00+00:00",
       "raw_text": "Tether putting $23 billion gold stockpile to work with bullion-backed loans",
       "impact": {}
-    },
-    {
-      "event_id": "1e7f842b-a511-484f-8c3a-d52441342ae1",
-      "source": "rss:decrypt",
-      "title": "Billionaire Jeremy Grantham Dismisses Bitcoin, Says Crypto Will Fade 'With a Whimper'",
-      "url": "https://decrypt.co/372205/billionaire-jeremy-grantham-dismisses-bitcoin-crypto",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-27T14:34:32+00:00",
-      "raw_text": "Billionaire Jeremy Grantham Dismisses Bitcoin, Says Crypto Will Fade 'With a Whimper'\n\nThe seasoned investor has little faith in Bitcoin's staying power, expecting crypto to quietly fade away over time.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 169,
+        "avg_1h": -0.07,
+        "avg_24h": 0.68,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 197,
         "avg_1h": 0.22,
         "avg_24h": 1.24,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 169,
-        "avg_1h": -0.07,
-        "avg_24h": 0.71,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
