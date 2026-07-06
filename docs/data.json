@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-07-06T20:58:06.575958+00:00",
+  "generated_at": "2026-07-06T22:23:44.579138+00:00",
   "events": [
+    {
+      "event_id": "cfa600b5-a414-4c5e-b9c4-b91012b8e01f",
+      "source": "rss:coindesk",
+      "title": "Bitcoin's U.S. reserve still a work-in-progress as federal agencies hash it out",
+      "url": "https://www.coindesk.com/policy/2026/07/06/bitcoin-s-u-s-reserve-still-a-work-in-progress-as-federal-agencies-hash-it-out",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-06T21:40:06+00:00",
+      "raw_text": "Bitcoin's U.S. reserve still a work-in-progress as federal agencies hash it out",
+      "impact": {}
+    },
+    {
+      "event_id": "a0a810d8-0105-4920-8e1f-974084525fef",
+      "source": "rss:decrypt",
+      "title": "ByteDance and Alibaba to Pull Agent Features as China Cracks Down on Humanlike AI",
+      "url": "https://decrypt.co/372873/bytedance-alibaba-agent-features-china-cracks-down-humanlike-ai",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-06T21:37:54+00:00",
+      "raw_text": "ByteDance and Alibaba to Pull Agent Features as China Cracks Down on Humanlike AI\n\nBeijing's first rules targeting emotional AI are forcing the country's biggest apps to shut down custom agents.",
+      "impact": {}
+    },
+    {
+      "event_id": "f8ce7e00-6620-431b-b221-0d9ba7009703",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin recovers from Strategy's BTC sale, funding rates hit 9%: Are bulls back?",
+      "url": "https://cointelegraph.com/markets/bitcoin-recovers-from-strategy-btc-sale-funding-rates-hit-9-are-bulls-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-06T21:06:00+00:00",
+      "raw_text": "Bitcoin recovers from Strategy's BTC sale, funding rates hit 9%: Are bulls back?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin recovers from Strategy's BTC sale, funding rates hit 9%: Are bulls back?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
+      "impact": {}
+    },
+    {
+      "event_id": "028888ea-5853-48a0-8e68-38d73a6a5e19",
+      "source": "rss:decrypt",
+      "title": "UK Foreign Secretary Warns of 'AI Hiroshima' if Policymakers Don’t Act",
+      "url": "https://decrypt.co/372855/uk-foreign-secretary-warns-ai-hiroshima",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-06T21:01:03+00:00",
+      "raw_text": "UK Foreign Secretary Warns of 'AI Hiroshima' if Policymakers Don’t Act\n\nYvette Cooper said governments must agree on AI safeguards before frontier systems transform warfare, crime, and society.",
+      "impact": {}
+    },
+    {
+      "event_id": "d6b5696e-d769-475e-a3fd-6cee512f16d5",
+      "source": "rss:decrypt",
+      "title": "Solana Meme Coin Bonk Treasury Drained of $20 Million in 'Malicious' Governance Attack",
+      "url": "https://decrypt.co/372862/solana-meme-coin-bonk-treasury-drained-20-million",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-06T20:56:52+00:00",
+      "raw_text": "Solana Meme Coin Bonk Treasury Drained of $20 Million in 'Malicious' Governance Attack\n\nThe Bonk DAO wallet was exploited for roughly $20 million worth of the prominent dog-themed meme coin on Solana.",
+      "impact": {}
+    },
+    {
+      "event_id": "01a1dcc4-ce0d-4c01-8aca-962110cb45a2",
+      "source": "rss:cointelegraph",
+      "title": "BonkDAO reports $20M theft from ‘malicious governance proposal’",
+      "url": "https://cointelegraph.com/news/bonk-dao-malicious-governance-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-06T20:55:11+00:00",
+      "raw_text": "BonkDAO reports $20M theft from ‘malicious governance proposal’\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BonkDAO reports $20M theft from ‘malicious governance proposal’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/news-crypto-studi",
+      "impact": {}
+    },
     {
       "event_id": "cd92a244-486a-4b13-9d7d-437bf86a740d",
       "source": "rss:decrypt",
@@ -6372,98 +6444,20 @@
       "timestamp_utc": "2026-06-29T16:10:09+00:00",
       "raw_text": "BNY adds USDC minting and redemption to institutional custody platform\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BNY adds USDC minting and redemption to institutional custody platform \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi",
       "impact": {}
-    },
-    {
-      "event_id": "ec329ab8-787a-4ccf-800d-b6849582bd7e",
-      "source": "rss:bitcoinmagazine",
-      "title": "2007–2009—The Global Financial Crisis and the Birth of Bitcoin",
-      "url": "https://bitcoinmagazine.com/bitcoin-books/2007-2009-the-global-financial-crisis-and-the-birth-of-bitcoin",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-29T15:45:53+00:00",
-      "raw_text": "2007–2009—The Global Financial Crisis and the Birth of Bitcoin\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-29-2026-10_32_28-AM.png\" style=\"display: block; margin: 1em auto;\" /><",
-      "impact": {}
-    },
-    {
-      "event_id": "c9378390-b2ca-4d18-a191-f81970c75eb8",
-      "source": "rss:coindesk",
-      "title": "Private keys, not smart contracts, caused 40% of crypto's $16 billion hack losses. Here's whats being done.",
-      "url": "https://www.coindesk.com/tech/2026/06/29/private-keys-not-smart-contracts-caused-40-of-crypto-s-usd16-billion-hack-losses-here-s-whats-being-done",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-29T15:45:18+00:00",
-      "raw_text": "Private keys, not smart contracts, caused 40% of crypto's $16 billion hack losses. Here's whats being done.",
-      "impact": {}
-    },
-    {
-      "event_id": "051697b3-5870-4286-9260-73e510f2210e",
-      "source": "rss:theblock",
-      "title": "Binance founder CZ says MiCA application was ‘fully compliant’ and near approval before political forces intervened",
-      "url": "https://www.theblock.co/post/406554/binance-founder-cz-mica-application-fully-compliant-near-approval-political-forces-intervened?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-29T15:33:27+00:00",
-      "raw_text": "Binance founder CZ says MiCA application was ‘fully compliant’ and near approval before political forces intervened\n\n<p>Binance founder CZ says the exchange's EU MiCA application was close to approval before unnamed political forces weighed in.</p>\n\n<p>Binance founder CZ says the exchange's EU MiCA ",
-      "impact": {}
-    },
-    {
-      "event_id": "25f265e5-e2c9-4ed1-9cb1-d437ca182ea6",
-      "source": "rss:coindesk",
-      "title": "White House to speak with law enforcement groups to push Crypto's Clarity Act",
-      "url": "https://www.coindesk.com/policy/2026/06/29/white-house-to-speak-with-law-enforcement-groups-to-push-crypto-s-clarity-act",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-29T15:23:51+00:00",
-      "raw_text": "White House to speak with law enforcement groups to push Crypto's Clarity Act",
-      "impact": {}
-    },
-    {
-      "event_id": "99748d71-ef78-4d07-a8da-788719606f25",
-      "source": "rss:coindesk",
-      "title": "JPMorgan broadens blockchain settlement network as banks modernize cross-border payments",
-      "url": "https://www.coindesk.com/business/2026/06/29/j-p-morgan-broadens-blockchain-settlement-network-as-banks-modernize-cross-border-payments",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-29T15:23:36+00:00",
-      "raw_text": "JPMorgan broadens blockchain settlement network as banks modernize cross-border payments",
-      "impact": {}
-    },
-    {
-      "event_id": "dd1a1cc7-6978-4b1e-a994-d5cddac231fd",
-      "source": "rss:coindesk",
-      "title": "J.P. Morgan broadens blockchain settlement network as banks modernize cross-border payments",
-      "url": "https://www.coindesk.com/business/2026/06/29/j-p-morgan-broadens-blockchain-settlement-network-as-banks-modernize-cross-border-payments",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-29T15:23:36+00:00",
-      "raw_text": "J.P. Morgan broadens blockchain settlement network as banks modernize cross-border payments",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 103,
+        "avg_1h": 0.02,
+        "avg_24h": 1.67,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 168,
         "avg_1h": 0.03,
         "avg_24h": 1.23,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 198,
-        "avg_1h": -0.01,
-        "avg_24h": 1.12,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 101,
-        "avg_1h": 0.02,
-        "avg_24h": 1.67,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
@@ -6471,6 +6465,12 @@
         "avg_1h": null,
         "avg_24h": null,
         "win_rate_1h_gt5pct": null
+      },
+      "unknown": {
+        "count": 196,
+        "avg_1h": -0.01,
+        "avg_24h": 1.12,
+        "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
         "count": 10,
