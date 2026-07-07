@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-06T22:23:44.579138+00:00",
+  "generated_at": "2026-07-07T00:18:04.492681+00:00",
   "events": [
+    {
+      "event_id": "033de620-f621-49a0-8176-e3345a6bb343",
+      "source": "rss:theblock",
+      "title": "Grayscale says Strategy’s recent bitcoin sales should restore confidence in its financing structure",
+      "url": "https://www.theblock.co/post/407360/grayscale-strategy-bitcoin-sales-comments?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-06T22:10:15+00:00",
+      "raw_text": "Grayscale says Strategy’s recent bitcoin sales should restore confidence in its financing structure\n\n<p>\"Strategy is selling more bitcoin. But this will restore confidence in its financing structure and help bitcoin find a more durable bottom.\"</p>\n\n<p>\"Strategy is selling more bitcoin. But this wil",
+      "impact": {}
+    },
+    {
+      "event_id": "e65ebbd1-e968-4214-a8b7-e8984228fa35",
+      "source": "rss:cointelegraph",
+      "title": "Former Tether CIO seeks to sell stake in stablecoin issuer, Bloomberg reports",
+      "url": "https://cointelegraph.com/news/former-tether-cio-seeks-to-sell-stake-in-stablecoin-issuer-bloomberg-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-06T21:57:20+00:00",
+      "raw_text": "Former Tether CIO seeks to sell stake in stablecoin issuer, Bloomberg reports\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Former Tether CIO seeks to sell stake in stablecoin issuer, Bloomberg reports\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti",
+      "impact": {}
+    },
     {
       "event_id": "cfa600b5-a414-4c5e-b9c4-b91012b8e01f",
       "source": "rss:coindesk",
@@ -32,10 +56,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-recovers-from-strategy-btc-sale-funding-rates-hit-9-are-bulls-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-06T21:06:00+00:00",
       "raw_text": "Bitcoin recovers from Strategy's BTC sale, funding rates hit 9%: Are bulls back?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin recovers from Strategy's BTC sale, funding rates hit 9%: Are bulls back?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.7928,
+        "t_plus_15m": -0.1971,
+        "t_plus_1h": -0.0277
+      }
     },
     {
       "event_id": "028888ea-5853-48a0-8e68-38d73a6a5e19",
@@ -176,10 +206,16 @@
       "url": "https://bitcoinmagazine.com/news/trump-backed-american-bitcoin-abtc",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-06T18:54:29+00:00",
       "raw_text": "Trump-Backed American Bitcoin (ABTC) Pushes Treasury Past 8,000 BTC\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/03/Trump-Linked-American-Bitcoin-ABTC-Surpasses-7000-BTC-as-Treasury-Growth-Accelerate",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1672,
+        "t_plus_15m": -0.2196,
+        "t_plus_1h": 0.0303
+      }
     },
     {
       "event_id": "87c212ba-2850-4f1a-8671-0277a76f60e0",
@@ -232,7 +268,8 @@
       "impact": {
         "t_plus_5m": -0.2436,
         "t_plus_15m": -0.0003,
-        "t_plus_1h": 0.1379
+        "t_plus_1h": 0.1379,
+        "t_plus_4h": 0.2738
       }
     },
     {
@@ -6420,44 +6457,26 @@
       "timestamp_utc": "2026-06-29T16:54:09+00:00",
       "raw_text": "California Strikes Deal With Anthropic to Bring Claude AI to State Agencies\n\nAnthropic’s agreement makes Claude the first AI tool available to all state agencies and local governments, at half price.",
       "impact": {}
-    },
-    {
-      "event_id": "16f64204-6b25-4f63-a9ab-5411458fd75c",
-      "source": "rss:theblock",
-      "title": "Strategy’s MSTR, STRC shares recover after brutal week as Saylor unveils new buyback plans",
-      "url": "https://www.theblock.co/post/406568/strategy-mstr-strc-shares-recover-after-brutal-week-saylor-unveils-new-buyback-plans?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-29T16:40:09+00:00",
-      "raw_text": "Strategy’s MSTR, STRC shares recover after brutal week as Saylor unveils new buyback plans\n\n<p>Strategy outlined a new capital framework as bitcoin steadied after last week's sharp MSTR and STRC selloff.</p>\n\n<p>Strategy outlined a new capital framework as bitcoin steadied after last week's sharp MS",
-      "impact": {}
-    },
-    {
-      "event_id": "ef5351c3-8d2c-40af-aa9f-c98c643e1ef2",
-      "source": "rss:cointelegraph",
-      "title": "BNY adds USDC minting and redemption to institutional custody platform",
-      "url": "https://cointelegraph.com/news/bny-adds-usdc-minting-and-redemption-to-institutional-custody-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-06-29T16:10:09+00:00",
-      "raw_text": "BNY adds USDC minting and redemption to institutional custody platform\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BNY adds USDC minting and redemption to institutional custody platform \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 195,
+        "avg_1h": -0.01,
+        "avg_24h": 1.12,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 169,
+        "avg_1h": 0.02,
+        "avg_24h": 1.23,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 103,
         "avg_1h": 0.02,
         "avg_24h": 1.67,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 168,
-        "avg_1h": 0.03,
-        "avg_24h": 1.23,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
@@ -6465,12 +6484,6 @@
         "avg_1h": null,
         "avg_24h": null,
         "win_rate_1h_gt5pct": null
-      },
-      "unknown": {
-        "count": 196,
-        "avg_1h": -0.01,
-        "avg_24h": 1.12,
-        "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
         "count": 10,
