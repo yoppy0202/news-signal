@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-07T00:18:04.492681+00:00",
+  "generated_at": "2026-07-07T05:04:01.631489+00:00",
   "events": [
+    {
+      "event_id": "1841bc25-67a2-4ed9-b494-74ffbf586e47",
+      "source": "rss:cointelegraph",
+      "title": "Strategy sells $216M Bitcoin, Bollinger bullish on BTC: Hodler's Digest, June 29-July 6, 2026",
+      "url": "https://cointelegraph.com/features/bollinger-is-bullish-on-bitcoin-trumps-ludicrous-crypto-profits-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-07T00:03:30+00:00",
+      "raw_text": "Strategy sells $216M Bitcoin, Bollinger bullish on BTC: Hodler's Digest, June 29-July 6, 2026\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy sells $216M Bitcoin, Bollinger bullish on BTC: Hodler's Digest, June 29-July 6, 2026\" class=\"type:primaryImage\" src=\"https:/",
+      "impact": {}
+    },
     {
       "event_id": "033de620-f621-49a0-8176-e3345a6bb343",
       "source": "rss:theblock",
@@ -214,7 +226,8 @@
       "impact": {
         "t_plus_5m": -0.1672,
         "t_plus_15m": -0.2196,
-        "t_plus_1h": 0.0303
+        "t_plus_1h": 0.0303,
+        "t_plus_4h": 0.5896
       }
     },
     {
@@ -6445,30 +6458,18 @@
       "timestamp_utc": "2026-06-29T16:58:42+00:00",
       "raw_text": "BNY and Circle expand partnership, adding mint and burn capabilities for USDC\n\n<p>BNY, the world's largest custodian bank, said it plans to add support for additional stablecoin via its Digital Asset Custody platform.</p>\n\n<p>BNY, the world's largest custodian bank, said it plans to add support for ",
       "impact": {}
-    },
-    {
-      "event_id": "0fe1d86a-9c3e-4302-b5ce-a7a582bd22bf",
-      "source": "rss:decrypt",
-      "title": "California Strikes Deal With Anthropic to Bring Claude AI to State Agencies",
-      "url": "https://decrypt.co/372301/california-strikes-deal-anthropic-bring-claude-ai-state-agencies",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-06-29T16:54:09+00:00",
-      "raw_text": "California Strikes Deal With Anthropic to Bring Claude AI to State Agencies\n\nAnthropic’s agreement makes Claude the first AI tool available to all state agencies and local governments, at half price.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 195,
+        "count": 196,
         "avg_1h": -0.01,
         "avg_24h": 1.12,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 169,
+        "count": 168,
         "avg_1h": 0.02,
         "avg_24h": 1.23,
         "win_rate_1h_gt5pct": 0.0
