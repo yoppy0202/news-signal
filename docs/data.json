@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-07-08T20:35:27.885461+00:00",
+  "generated_at": "2026-07-08T22:14:56.345952+00:00",
   "events": [
+    {
+      "event_id": "59b238d2-1d08-4a5e-a0ce-7efbb2a85600",
+      "source": "rss:bitcoinmagazine",
+      "title": "Bitcoin Slips to $62,000, Paring Rebound as CryptoQuant Sees Room Higher",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-slips-to-62000-paring-rebound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-08T21:18:33+00:00",
+      "raw_text": "Bitcoin Slips to $62,000, Paring Rebound as CryptoQuant Sees Room Higher\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Price-Falls-to-62000-as-Hawkish-Fed-Shift-Raises-Risk-of-Deeper-Pullba",
+      "impact": {}
+    },
+    {
+      "event_id": "d03aee3f-1266-431f-b5cf-dd2fbc963da9",
+      "source": "rss:theblock",
+      "title": "Binance Wallet adds Plume’s yield vault offering access to Invesco and Bitwise funds",
+      "url": "https://www.theblock.co/post/407632/binance-wallet-plume-yield-vault-invesco-bitwise-funds?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-08T21:00:02+00:00",
+      "raw_text": "Binance Wallet adds Plume’s yield vault offering access to Invesco and Bitwise funds\n\n<p>Binance Wallet has added Plume's yield vault, giving users access to tokenized funds managed by Invesco and Bitwise.</p>\n\n<p>Binance Wallet has added Plume's yield vault, giving users access to tokenized funds m",
+      "impact": {}
+    },
+    {
+      "event_id": "227385d4-4c41-4e64-8870-f190e2aa0290",
+      "source": "rss:theblock",
+      "title": "‘Best course of action:’ DeFi dashboard Zapper to shut down after 7 years",
+      "url": "https://www.theblock.co/post/407634/defi-dashboard-zapper-shut-down-after-7-years?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-08T20:57:05+00:00",
+      "raw_text": "‘Best course of action:’ DeFi dashboard Zapper to shut down after 7 years\n\n<p>Zapper, which started as a portfolio tracker, raised a $15 million Series A led by Framework Ventures in May 2021.</p>\n\n<p>Zapper, which started as a portfolio tracker, raised a $15 million Series A led by Framework Ventur",
+      "impact": {}
+    },
+    {
+      "event_id": "08cfdfe9-419c-4f24-9950-a86bb4f3b2d9",
+      "source": "rss:decrypt",
+      "title": "Paradigm Raises $1.2 Billion Fund as Crypto VC Pushes Further Into AI",
+      "url": "https://decrypt.co/373088/paradigm-billion-fund-crypto-vc-ai",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-08T20:40:38+00:00",
+      "raw_text": "Paradigm Raises $1.2 Billion Fund as Crypto VC Pushes Further Into AI\n\nThe investment firm said its fourth fund will back AI, robotics, and crypto startups as it broadens beyond digital assets.",
+      "impact": {}
+    },
+    {
+      "event_id": "628aa1d4-24dd-4380-b6cd-7e87201b00f6",
+      "source": "rss:cointelegraph",
+      "title": "Tokenized stock transfers surge 105% in a month to $8.4B",
+      "url": "https://cointelegraph.com/news/tokenized-stock-transfers-surge-105-in-a-month-to-84b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-08T20:29:10+00:00",
+      "raw_text": "Tokenized stock transfers surge 105% in a month to $8.4B\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tokenized stock transfers surge 105% in a month to $8.4B\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the-biggest-challenge-for-cr",
+      "impact": {}
+    },
     {
       "event_id": "96d43343-ee9d-47a3-b7d9-3ff6ffe906d7",
       "source": "rss:decrypt",
@@ -8,10 +68,16 @@
       "url": "https://decrypt.co/373060/bitcoin-price-stalls-ethereum-flashes-worst-weekly-signal-years",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-07-08T19:23:13+00:00",
       "raw_text": "Bitcoin Stalls as Ethereum Flashes Worst Weekly Signal in Years: Analysis\n\nBitcoin is looking slightly more optimistic but failed the breakout everyone was watching. Meanwhile, ETH just printed a weekly death cross for the first time in years.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1381,
+        "t_plus_15m": -0.0316,
+        "t_plus_1h": -0.1071
+      }
     },
     {
       "event_id": "bdfc1635-3f37-43f2-b319-f23b22cad691",
@@ -44,10 +110,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-peels-back-to-62k-as-fed-wary-futures-traders-cut-risk-is-the-btc-rally-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-08T18:41:25+00:00",
       "raw_text": "Bitcoin peels back to $62K as Fed-wary futures traders cut risk: Is the BTC rally over?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin peels back to $62K as Fed-wary futures traders cut risk: Is the BTC rally over?\" class=\"type:primaryImage\" src=\"https://s3-images.c",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.3298,
+        "t_plus_15m": -0.0845,
+        "t_plus_1h": -0.0542
+      }
     },
     {
       "event_id": "ee5def6d-ae8d-4c55-8cdb-b8df5f3ea1bc",
@@ -160,7 +232,8 @@
       "impact": {
         "t_plus_5m": -0.5231,
         "t_plus_15m": -0.4051,
-        "t_plus_1h": -0.0214
+        "t_plus_1h": -0.0214,
+        "t_plus_4h": 0.1207
       }
     },
     {
@@ -178,7 +251,8 @@
       "impact": {
         "t_plus_5m": -0.8497,
         "t_plus_15m": -0.6274,
-        "t_plus_1h": -0.0349
+        "t_plus_1h": -0.0349,
+        "t_plus_4h": 0.579
       }
     },
     {
@@ -785,6 +859,18 @@
       "tokens": [],
       "timestamp_utc": "2026-07-08T05:30:03+00:00",
       "raw_text": "Swyftx eyes crypto payments after securing Australian license\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Swyftx eyes crypto payments after securing Australian license\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-time-to-switch-lic",
+      "impact": {}
+    },
+    {
+      "event_id": "b056ee25-0dcd-47fb-b715-4de0c09c5992",
+      "source": "rss:coindesk",
+      "title": "Live markets: Bitcoin drops to $62,000 as oil and bond yields surge on collapse of Iran ceasefire",
+      "url": "https://www.coindesk.com/tech/2026/07/08/live-markets-japan-s-collapsing-yen-is-pushing-companies-into-bitcoin-and-xrp",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-08T05:29:16+00:00",
+      "raw_text": "Live markets: Bitcoin drops to $62,000 as oil and bond yields surge on collapse of Iran ceasefire",
       "impact": {}
     },
     {
@@ -3119,6 +3205,18 @@
       "tokens": [],
       "timestamp_utc": "2026-07-06T06:02:55+00:00",
       "raw_text": "Nigel Farage accepted gifts from crypto-linked fraudster: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Nigel Farage accepted gifts from crypto-linked fraudster: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-uk-tightens-",
+      "impact": {}
+    },
+    {
+      "event_id": "d93136f6-4ded-46f7-af69-4d594296a3ef",
+      "source": "rss:solana_official",
+      "title": "Solana Ecosystem Roundup: June 2026",
+      "url": "https://solana.com/news/solana-ecosystem-roundup-june-2026",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-06T06:00:00+00:00",
+      "raw_text": "Solana Ecosystem Roundup: June 2026",
       "impact": {}
     },
     {
@@ -6454,110 +6552,26 @@
       "timestamp_utc": "2026-07-01T12:31:07+00:00",
       "raw_text": "Morning Minute: Major New Stablecoin Launch Shakes Incumbents\n\nOpen USD takes a shot at USDC and USDT, with backing from heavy hitters including Visa, Mastercard and Google.",
       "impact": {}
-    },
-    {
-      "event_id": "be6406ff-937e-4dbd-8208-2c9a60076f3b",
-      "source": "rss:coindesk",
-      "title": "Bitcoin opens the third quarter in an historical red zone after rare losing first half",
-      "url": "https://www.coindesk.com/markets/2026/07/01/bitcoin-opens-the-third-quarter-in-a-dangerous-historical-red-zone-after-rare-losing-first-half",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-01T12:30:19+00:00",
-      "raw_text": "Bitcoin opens the third quarter in an historical red zone after rare losing first half",
-      "impact": {}
-    },
-    {
-      "event_id": "a70c4480-4430-4479-9eed-e66d47fecd37",
-      "source": "rss:coindesk",
-      "title": "Europe is rewriting its landmark crypto rulebook MiCA as hard July 1 deadline passes",
-      "url": "https://www.coindesk.com/policy/2026/06/30/europe-is-rewriting-its-landmark-crypto-rulebook-mica-as-hard-july-1-deadline-passes",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-01T12:29:17+00:00",
-      "raw_text": "Europe is rewriting its landmark crypto rulebook MiCA as hard July 1 deadline passes",
-      "impact": {}
-    },
-    {
-      "event_id": "2e9bedf6-ef9c-4892-9d82-29ae226ae247",
-      "source": "rss:cointelegraph",
-      "title": "Last-minute MiCA approvals mark end of EU transition period",
-      "url": "https://cointelegraph.com/news/new-licenses-issued-eu-mica-grace-period-ends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-01T12:17:54+00:00",
-      "raw_text": "Last-minute MiCA approvals mark end of EU transition period\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Last-minute MiCA approvals mark end of EU transition period\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-digital-c-man-europe-m",
-      "impact": {}
-    },
-    {
-      "event_id": "6e02d597-422f-4f64-b568-44d140c72307",
-      "source": "rss:decrypt",
-      "title": "Taiwan Passes Sweeping Crypto Law With Licensing, Stablecoin Rules",
-      "url": "https://decrypt.co/372505/taiwan-passes-sweeping-crypto-law-with-licensing-stablecoin-rules",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-01T12:00:33+00:00",
-      "raw_text": "Taiwan Passes Sweeping Crypto Law With Licensing, Stablecoin Rules\n\nThe new law puts virtual asset firms under FSC oversight for the first time and sets reserve-and-trust rules for stablecoins.",
-      "impact": {}
-    },
-    {
-      "event_id": "ec2a0b7e-d6f5-4df7-bc07-e3d465db7206",
-      "source": "rss:theblock",
-      "title": "Symbiotic officially pivots to collateral markets with Core V2 launch",
-      "url": "https://www.theblock.co/post/406862/symbiotic-officially-pivots-to-collateral-markets-with-core-v2-launch?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-01T12:00:03+00:00",
-      "raw_text": "Symbiotic officially pivots to collateral markets with Core V2 launch\n\n<p>Symbiotic now powers shared collateral infrastructure that can support multiple DeFi use cases like insurance, credit, and RWAs.</p>\n\n<p>Symbiotic now powers shared collateral infrastructure that can support multiple DeFi use ",
-      "impact": {}
-    },
-    {
-      "event_id": "7b3f1de2-3873-48d0-b016-f030b7776abe",
-      "source": "rss:cointelegraph",
-      "title": "French banking giant Crédit Agricole launches EURXT euro stablecoin",
-      "url": "https://cointelegraph.com/news/credit-agricole-eurxt-euro-stablecoin-caceis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-01T11:50:01+00:00",
-      "raw_text": "French banking giant Crédit Agricole launches EURXT euro stablecoin\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"French banking giant Crédit Agricole launches EURXT euro stablecoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-euro-p",
-      "impact": {}
-    },
-    {
-      "event_id": "693933b4-4f22-4ca5-ab5b-60d9fa06a889",
-      "source": "rss:coindesk",
-      "title": "Ark Invest bought more than $75 million of crypto shares during June bloodbath",
-      "url": "https://www.coindesk.com/markets/2026/07/01/ark-invest-bought-more-than-usd75-million-of-crypto-shares-during-june-bloodbath",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-01T11:42:22+00:00",
-      "raw_text": "Ark Invest bought more than $75 million of crypto shares during June bloodbath",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 179,
-        "avg_1h": 0.0,
-        "avg_24h": 1.32,
+      "macro": {
+        "count": 98,
+        "avg_1h": 0.06,
+        "avg_24h": 1.31,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 188,
+        "count": 187,
         "avg_1h": -0.01,
         "avg_24h": 0.52,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 97,
-        "avg_1h": 0.06,
-        "avg_24h": 1.31,
+      "narrative": {
+        "count": 179,
+        "avg_1h": -0.0,
+        "avg_24h": 1.32,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
