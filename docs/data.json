@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T14:36:12.360120+00:00",
+  "generated_at": "2026-07-08T16:46:58.140115+00:00",
   "events": [
     {
       "event_id": "a5939f45-4efb-4111-a324-5b8791115b69",
@@ -56,10 +56,16 @@
       "url": "https://cointelegraph.com/news/bitcoin-needs-no-savior-lyn-alden-strategy-216-million-btc-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-08T12:01:00+00:00",
       "raw_text": "Lyn Alden says Bitcoin needs no savior as Strategy sells $216M of BTC\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Lyn Alden says Bitcoin needs no savior as Strategy sells $216M of BTC\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/lyn-a",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.5009,
+        "t_plus_15m": 0.6209,
+        "t_plus_1h": 0.034
+      }
     },
     {
       "event_id": "5481c991-8d85-4ab7-859a-e89935ab5551",
@@ -68,10 +74,16 @@
       "url": "https://www.theblock.co/post/407406/bnb-chain-builds-new-layer-1-for-agentic-trading-targets-2027-mainnet?utm_source=rss&utm_medium=rss",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BNB"
+      ],
       "timestamp_utc": "2026-07-08T11:55:01+00:00",
       "raw_text": "BNB Chain builds new Layer 1 for agentic trading, targets 2027 mainnet\n\n<p>BNB Chain is building a new Layer 1 for agentic trading with sub-50ms preconfirmation and no public mempool, targeting testnet by end-2026.</p>\n\n<p>BNB Chain is building a new Layer 1 for agentic trading with sub-50ms preconf",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.3341,
+        "t_plus_15m": 0.3668,
+        "t_plus_1h": 0.0845
+      }
     },
     {
       "event_id": "9208bb37-7987-4bfc-8acc-4102a39c9406",
@@ -6512,7 +6524,7 @@
     "by_event_type": {
       "narrative": {
         "count": 177,
-        "avg_1h": -0.0,
+        "avg_1h": 0.0,
         "avg_24h": 1.32,
         "win_rate_1h_gt5pct": 0.0
       },
