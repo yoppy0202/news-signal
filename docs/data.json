@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-07T22:20:19.547906+00:00",
+  "generated_at": "2026-07-08T00:09:02.830168+00:00",
   "events": [
+    {
+      "event_id": "14efad6b-6338-4fe5-93d3-43e2ab9baff0",
+      "source": "rss:decrypt",
+      "title": "Anthropic Removes Hidden Claude Code Tracker After Researchers Raise Privacy Concerns",
+      "url": "https://decrypt.co/372977/anthropic-removes-hidden-claude-code-tracker-privacy",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-07T22:31:03+00:00",
+      "raw_text": "Anthropic Removes Hidden Claude Code Tracker After Researchers Raise Privacy Concerns\n\nThe company says the tool was designed to stop abuse and AI model extraction, but critics questioned the use of undisclosed monitoring.",
+      "impact": {}
+    },
     {
       "event_id": "ea8117ea-5d0f-43ca-95e9-56d13a6076ec",
       "source": "rss:decrypt",
@@ -56,10 +68,16 @@
       "url": "https://cointelegraph.com/markets/ether-climbs-toward-2k-as-bitmine-buys-eth-robinhood-l2-boost?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-07-07T21:14:37+00:00",
       "raw_text": "Ether climbs toward $2K as Bitmine buys ETH, Robinhood L2 boost\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ether climbs toward $2K as Bitmine buys ETH, Robinhood L2 boost\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-72",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2373,
+        "t_plus_15m": 0.1096,
+        "t_plus_1h": 0.038
+      }
     },
     {
       "event_id": "bb292641-d790-4b4e-98b3-a7f8d77586a2",
@@ -152,10 +170,16 @@
       "url": "https://bitcoinmagazine.com/news/polymarket-turns-instant-bitcoin-deposits",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-07T19:49:56+00:00",
       "raw_text": "Polymarket Turns On Instant Bitcoin Deposits Via Lightning Network, Powered by Spark\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Polymarket-Turns-On-Instant-Bitcoin-Deposits-Via-Lightning-Network",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.6665,
+        "t_plus_15m": 0.7117,
+        "t_plus_1h": 0.3348
+      }
     },
     {
       "event_id": "79ffa533-2ac5-41d9-b6aa-4c67cab630d1",
@@ -6479,36 +6503,24 @@
       "timestamp_utc": "2026-06-30T14:49:01+00:00",
       "raw_text": "OKX AI unveils marketplace for agents to find work and get paid in stablecoins\n\n<p>“Think Upwork for Agents with our fintech infrastructure and 150M scale in the background,\" an OKX rep said.</p>\n\n<p>“Think Upwork for Agents with our fintech infrastructure and 150M scale in the background,\" an OKX r",
       "impact": {}
-    },
-    {
-      "event_id": "86254f33-5791-45ae-97ae-ce219e318c58",
-      "source": "rss:theblock",
-      "title": "New Zcash nonprofit Sovright unveils ZEC wallet recovery tool",
-      "url": "https://www.theblock.co/post/406731/new-zcash-nonprofit-sovright-unveils-zec-wallet-recovery-tool?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-06-30T14:44:26+00:00",
-      "raw_text": "New Zcash nonprofit Sovright unveils ZEC wallet recovery tool\n\n<p>Argos is a recovery tool for users who had shielded funds stuck on ZEC Wallet Lite, an issue impacting some longtime Zcash supporters.</p>\n\n<p>Argos is a recovery tool for users who had shielded funds stuck on ZEC Wallet Lite, an issu",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 106,
-        "avg_1h": 0.02,
-        "avg_24h": 2.05,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 175,
+        "count": 176,
         "avg_1h": 0.01,
         "avg_24h": 1.32,
         "win_rate_1h_gt5pct": 0.0
       },
+      "macro": {
+        "count": 106,
+        "avg_1h": 0.03,
+        "avg_24h": 2.05,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 183,
+        "count": 182,
         "avg_1h": 0.03,
         "avg_24h": 0.63,
         "win_rate_1h_gt5pct": 0.0
