@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-07-09T21:39:45.448301+00:00",
+  "generated_at": "2026-07-09T23:23:58.130587+00:00",
   "events": [
+    {
+      "event_id": "5c3c0207-7ce1-49a7-bc0f-16cf06f38c36",
+      "source": "rss:coindesk",
+      "title": "New Hampshire snuffs out trailblazing state-government bitcoin bond effort",
+      "url": "https://www.coindesk.com/policy/2026/07/09/new-hampshire-snuffs-out-trailblazing-bitcoin-municipal-bond-effort",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-09T22:19:54+00:00",
+      "raw_text": "New Hampshire snuffs out trailblazing state-government bitcoin bond effort",
+      "impact": {}
+    },
+    {
+      "event_id": "d9c4fbe9-9bf8-4c3b-a772-6dbc08ddd195",
+      "source": "rss:theblock",
+      "title": "Bitwise says bitcoin’s ‘floor is rising’ despite AI boom and regulatory delays",
+      "url": "https://www.theblock.co/post/407790/bitwise-says-bitcoins-floor-rising-despite-ai-boom-regulatory-delays?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-09T21:54:35+00:00",
+      "raw_text": "Bitwise says bitcoin’s ‘floor is rising’ despite AI boom and regulatory delays\n\n<p>Bitwise says institutions are buying the bitcoin bear market dip, while many larger investors are still awaiting regulatory clarity.</p>\n\n<p>Bitwise says institutions are buying the bitcoin bear market dip, while many",
+      "impact": {}
+    },
+    {
+      "event_id": "879d13d9-0e4e-4b86-be7a-ee71aae5992a",
+      "source": "rss:decrypt",
+      "title": "AI Agents Could Be Turned Into Botnets Through Hallucinations, Researchers Warn",
+      "url": "https://decrypt.co/373196/ai-agents-botnets-hallucinations-researchers-warn",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-09T21:45:01+00:00",
+      "raw_text": "AI Agents Could Be Turned Into Botnets Through Hallucinations, Researchers Warn\n\nResearchers warn AI agents could be tricked into downloading malicious code by exploiting the same hallucinations that cause chatbots to make mistakes.",
+      "impact": {}
+    },
+    {
+      "event_id": "567bc41f-55d2-42ee-94ef-daf1d7705c62",
+      "source": "rss:cointelegraph",
+      "title": "Coinbase chief legal officer to transition to advisory role on July 31",
+      "url": "https://cointelegraph.com/news/coinbase-chief-legal-officer-stepping-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-09T21:35:12+00:00",
+      "raw_text": "Coinbase chief legal officer to transition to advisory role on July 31\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase chief legal officer to transition to advisory role on July 31\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-",
+      "impact": {}
+    },
+    {
+      "event_id": "b6109173-a2d7-4750-b895-9ed21323dfab",
+      "source": "rss:theblock",
+      "title": "Coinbase Chief Legal Officer Paul Grewal steps down, remains in advisory role",
+      "url": "https://www.theblock.co/post/407809/coinbase-chief-legal-officer-paul-grewal-steps-down?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-09T21:13:44+00:00",
+      "raw_text": "Coinbase Chief Legal Officer Paul Grewal steps down, remains in advisory role\n\n<p>Coinbase Chief Legal Officer Paul Grewal joined the firm in mid-2020 to lead its legal, compliance and government relations operations. </p>\n\n<p>Coinbase Chief Legal Officer Paul Grewal joined the firm in mid-2020 to l",
+      "impact": {}
+    },
     {
       "event_id": "395cb4eb-a9c9-4440-9d86-bb280bb59a1f",
       "source": "rss:decrypt",
@@ -8,10 +68,15 @@
       "url": "https://decrypt.co/373193/avalanche-treasury-firm-avax-one-reclaims-nasdaq-compliance",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "AVAX"
+      ],
       "timestamp_utc": "2026-07-09T20:57:49+00:00",
       "raw_text": "Avalanche Treasury Firm AVAX One Reclaims Nasdaq Compliance After Reverse Stock Split\n\nAVAX One, which stockpiles the native token of the Avalanche crypto network, is back in Nasdaq's good graces after a reverse stock split.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0655,
+        "t_plus_15m": -0.0398
+      }
     },
     {
       "event_id": "c63570db-a949-4ca9-8a69-0fe6390a67e9",
@@ -6419,106 +6484,39 @@
       "timestamp_utc": "2026-07-02T13:00:00+00:00",
       "raw_text": "Aave brings V3 lending and GHO stablecoin to Monad\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Aave brings V3 lending and GHO stablecoin to Monad \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/blockchain-tangled-cats-cradle-defi.jpg\" /",
       "impact": {}
-    },
-    {
-      "event_id": "ddb6d343-5d26-4730-9de2-f79311cf92f4",
-      "source": "rss:theblock",
-      "title": "‘Accumulation beneath the surface’: Bitcoin rebounds above $61,000 as long-term holders accumulate amid steady ETF outflows",
-      "url": "https://www.theblock.co/post/407020/accumulation-beneath-the-surface-bitcoin-rebounds-above-61000-as-long-term-holders-accumulate-amid-steady-etf-outflows?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-02T12:58:24+00:00",
-      "raw_text": "‘Accumulation beneath the surface’: Bitcoin rebounds above $61,000 as long-term holders accumulate amid steady ETF outflows\n\n<p>Bitcoin reclaims $61,000 as Glassnode and Bitfinex flag long-term holder accumulation beneath persistent ETF selling.</p>\n\n<p>Bitcoin reclaims $61,000 as Glassnode and Bitf",
-      "impact": {}
-    },
-    {
-      "event_id": "6bc0cd49-f322-4961-bef9-5458c154fd12",
-      "source": "rss:coindesk",
-      "title": "U.S. payroll growth slowed sharply in June, with only 57,000 jobs added",
-      "url": "https://www.coindesk.com/markets/2026/07/02/u-s-payroll-growth-slowed-sharply-in-june-adding-only-57-000-jobs",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-02T12:37:50+00:00",
-      "raw_text": "U.S. payroll growth slowed sharply in June, with only 57,000 jobs added",
-      "impact": {}
-    },
-    {
-      "event_id": "be3fdd57-a330-43d5-8ef0-6822dc93168c",
-      "source": "rss:bitcoinmagazine",
-      "title": "Metaplanet Adds 2,823 Bitcoin, Reaches 43,000 BTC and Becomes World’s Third-Largest Corporate Treasury",
-      "url": "https://bitcoinmagazine.com/news/metaplanet-adds-2823-bitcoin-reaches-43000",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-02T12:23:39+00:00",
-      "raw_text": "Metaplanet Adds 2,823 Bitcoin, Reaches 43,000 BTC and Becomes World’s Third-Largest Corporate Treasury\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Metaplanet-Adds-2823-Bitcoin-Reaches-43000-BTC-a",
-      "impact": {
-        "t_plus_5m": -0.6612,
-        "t_plus_15m": -0.4663,
-        "t_plus_1h": 0.2943,
-        "t_plus_4h": -0.3088
-      }
-    },
-    {
-      "event_id": "73cf75e4-32f9-4a1d-90c9-5a98bae8b12f",
-      "source": "rss:coindesk",
-      "title": "A struggling Nasdaq-listed company that tried to copy Saylor's Bitcoin playbook is completely dumping crypto for AI",
-      "url": "https://www.coindesk.com/markets/2026/07/02/a-struggling-nasdaq-listed-company-that-tried-to-copy-saylor-s-bitcoin-playbook-is-completely-dumping-crypto-for-ai",
-      "event_type": "listing",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-02T12:10:15+00:00",
-      "raw_text": "A struggling Nasdaq-listed company that tried to copy Saylor's Bitcoin playbook is completely dumping crypto for AI",
-      "impact": {}
-    },
-    {
-      "event_id": "cb807927-1d2e-4514-84f2-340f56f22647",
-      "source": "rss:decrypt",
-      "title": "Morning Minute: Robinhood Debuts 'Robinhood Chain'",
-      "url": "https://decrypt.co/372667/morning-minute-robinhood-debuts-robinhood-chain",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-02T12:06:26+00:00",
-      "raw_text": "Morning Minute: Robinhood Debuts 'Robinhood Chain'\n\nThe market liked it with HOOD shares jumping 8% and their crypto perp dex partner up even more. Plus crypto's latest unicorn is crowned.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 192,
+        "count": 195,
         "avg_1h": 0.24,
         "avg_24h": 0.74,
         "win_rate_1h_gt5pct": 0.0
       },
+      "hack": {
+        "count": 25,
+        "avg_1h": -0.23,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 173,
+        "count": 172,
         "avg_1h": -0.02,
         "avg_24h": 0.44,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 102,
+        "count": 101,
         "avg_1h": 0.1,
         "avg_24h": 0.99,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
-        "count": 7,
-        "avg_1h": 0.29,
+        "count": 5,
+        "avg_1h": null,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 24,
-        "avg_1h": -0.23,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
+        "win_rate_1h_gt5pct": null
       },
       "whale_move": {
         "count": 2,
