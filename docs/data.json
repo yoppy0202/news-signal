@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-07-09T18:06:46.502323+00:00",
+  "generated_at": "2026-07-09T20:00:56.344647+00:00",
   "events": [
+    {
+      "event_id": "6684d561-fafd-4260-abee-fbabd9e93163",
+      "source": "rss:coindesk",
+      "title": "Newest version of crypto Clarity Act may drop as soon as next week, sources say",
+      "url": "https://www.coindesk.com/policy/2026/07/09/newest-version-of-crypto-clarity-act-may-drop-as-soon-as-next-week-sources-say",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-09T19:34:24+00:00",
+      "raw_text": "Newest version of crypto Clarity Act may drop as soon as next week, sources say",
+      "impact": {}
+    },
+    {
+      "event_id": "9667c64e-6af4-4932-af26-2d02e5f437c7",
+      "source": "rss:decrypt",
+      "title": "Ethereum Foundation Turns AI Loose on ETH Network to Find Bugs Before Hackers Do",
+      "url": "https://decrypt.co/373169/ethereum-foundation-turns-ai-loose-find-bugs-before-hackers",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-09T18:27:47+00:00",
+      "raw_text": "Ethereum Foundation Turns AI Loose on ETH Network to Find Bugs Before Hackers Do\n\nEthereum researchers are using AI agents to hunt for vulnerabilities, shifting security work from finding bugs to proving which ones are real.",
+      "impact": {}
+    },
+    {
+      "event_id": "94b10864-0e96-4e6c-8bd7-dec312ab958d",
+      "source": "rss:coindesk",
+      "title": "Billions flowing out of bitcoin ETFs and private credit funds suggest rising market risks",
+      "url": "https://www.coindesk.com/markets/2026/07/09/billions-flowing-out-of-bitcoin-etfs-and-private-credit-funds-suggest-rising-market-risks",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-09T18:13:04+00:00",
+      "raw_text": "Billions flowing out of bitcoin ETFs and private credit funds suggest rising market risks",
+      "impact": {}
+    },
+    {
+      "event_id": "8c55772b-6071-43b0-a02b-99c5da5ba84f",
+      "source": "rss:theblock",
+      "title": "White House defends Trump’s regulatory appointments as CFTC vacancies complicate crypto bill push",
+      "url": "https://www.theblock.co/post/407785/white-house-defends-trumps-regulatory-appointments-as-cftc-vacancies-complicate-crypto-bill-push?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-09T17:53:16+00:00",
+      "raw_text": "White House defends Trump’s regulatory appointments as CFTC vacancies complicate crypto bill push\n\n<p>The White House pushed back against Democrats’ criticism that the administration has declined to appoint commissioners to regulatory agencies.</p>\n\n<p>The White House pushed back against Democrats’ ",
+      "impact": {}
+    },
     {
       "event_id": "f30d872a-cdf9-484b-aa06-2935a72a8f4a",
       "source": "rss:bitcoinmagazine",
@@ -8,10 +56,15 @@
       "url": "https://bitcoinmagazine.com/markets/bitcoins-new-debt-machine-is-facing",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-09T17:47:23+00:00",
       "raw_text": "Bitcoin’s New Debt Machine is Facing Its First Major Test\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoins-New-Debt-Machine-is-Facing-Its-First-Major-Test.jpg\" style=\"display: block; margin: ",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0414,
+        "t_plus_15m": 0.0853
+      }
     },
     {
       "event_id": "e0b20119-bae1-4335-b007-d7cde7a1471c",
@@ -104,9 +157,27 @@
       "url": "https://cointelegraph.com/markets/bitcoin-traders-reveal-key-levels-as-btc-price-passes-63k-after-trump-iran-deal-comments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-09T15:56:59+00:00",
       "raw_text": "Bitcoin traders reveal key levels as BTC price passes $63K after Trump Iran 'deal' comments\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin traders reveal key levels as BTC price passes $63K after Trump Iran 'deal' comments\" class=\"type:primaryImage\" src=\"https://s3-",
+      "impact": {
+        "t_plus_5m": -0.2405,
+        "t_plus_15m": -0.2965,
+        "t_plus_1h": -0.6208
+      }
+    },
+    {
+      "event_id": "47eabf79-3432-4060-813d-797f04e0cabb",
+      "source": "rss:coindesk",
+      "title": "AI contracts, not bitcoin, now drive miner valuations, and Cipher and TeraWulf look cheap, says analyst",
+      "url": "https://www.coindesk.com/markets/2026/07/09/cipher-terawulf-among-ai-infrastructure-stocks-trading-below-contract-value-compass-point-argues",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-09T15:53:42+00:00",
+      "raw_text": "AI contracts, not bitcoin, now drive miner valuations, and Cipher and TeraWulf look cheap, says analyst",
       "impact": {}
     },
     {
@@ -392,10 +463,18 @@
       "url": "https://decrypt.co/373112/morning-minute-paradigm-raises-1-2b-fund-as-cryptos-top-vc-pushes-into-ai",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BNB",
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-09T12:23:22+00:00",
       "raw_text": "Morning Minute: Paradigm Raises $1.2B Fund as Crypto’s Top VC Pushes Into AI\n\nBNB Chain rebuilds itself for a world run by AI agents. BTC ETFs flows flip negative. And prediction markets face a new hurdle.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.3094,
+        "t_plus_15m": -0.1899,
+        "t_plus_1h": -0.3757,
+        "t_plus_4h": -0.2042
+      }
     },
     {
       "event_id": "0696496b-99c3-4ace-a53a-3fb3db031d51",
@@ -647,6 +726,18 @@
       "tokens": [],
       "timestamp_utc": "2026-07-09T09:39:20+00:00",
       "raw_text": "INTERPOL-led global fraud crackdown arrests over 5,800, uncovers crypto laundering network tied to $122.5 million wallet\n\n<p>The operation uncovered a crypto laundering network using cross-chain swaps to obscure funds, with one wallet processing $122.5M in 10 months.</p>\n\n<p>The operation uncovered ",
+      "impact": {}
+    },
+    {
+      "event_id": "c38d9109-c161-46ff-9bd8-0c34a9af00e3",
+      "source": "rss:coindesk",
+      "title": "Two blockbuster public debut of AI stocks could pull away more capital from crypto",
+      "url": "https://www.coindesk.com/markets/2026/07/09/two-blockbuster-ai-ipo-s-on-the-horizon-could-leave-crypto-further-behind",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-09T09:31:56+00:00",
+      "raw_text": "Two blockbuster public debut of AI stocks could pull away more capital from crypto",
       "impact": {}
     },
     {
@@ -6394,104 +6485,32 @@
       "timestamp_utc": "2026-07-02T10:21:23+00:00",
       "raw_text": "FBI Director Kash Patel disclosed six-figure Strategy stock purchase months after trade: report\n\n<p>FBI Director Kash Patel disclosed a six-figure Strategy stock purchase months after execution in a delayed federal ethics filing. </p>\n\n<p>FBI Director Kash Patel disclosed a six-figure Strategy stock",
       "impact": {}
-    },
-    {
-      "event_id": "12faf323-432e-41ce-ae80-8dd8bf9896c0",
-      "source": "rss:coindesk",
-      "title": "ChatGPT developer OpenAI said to discuss offering U.S. government a 5% stake: FT",
-      "url": "https://www.coindesk.com/policy/2026/07/02/openai-reported-to-discuss-offering-u-s-government-a-5-stake",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-02T10:06:22+00:00",
-      "raw_text": "ChatGPT developer OpenAI said to discuss offering U.S. government a 5% stake: FT",
-      "impact": {}
-    },
-    {
-      "event_id": "1d15fa02-9604-436b-ad64-10481e99129c",
-      "source": "rss:decrypt",
-      "title": "Scattered Spider Suspect Extradited to US Over $8M Crypto Ransom Demand",
-      "url": "https://decrypt.co/372665/scattered-spider-suspect-extradited-to-us-over-8m-crypto-ransom-demand",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-02T10:00:42+00:00",
-      "raw_text": "Scattered Spider Suspect Extradited to US Over $8M Crypto Ransom Demand\n\nThe teenager allegedly helped to breach a luxury jeweler and demand $8 million in crypto, as part of a crew tied to $100 million in ransoms.",
-      "impact": {}
-    },
-    {
-      "event_id": "aee71153-3812-401e-b80e-84cbc6377bce",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin holds above $61,000 as momentum stocks plunge to start quarter",
-      "url": "https://www.coindesk.com/tech/2026/07/02/live-markets-bitcoin-holds-above-usd60-000-as-yen-jumps-on-intervention-fears",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-02T09:42:41+00:00",
-      "raw_text": "Live updates: Bitcoin holds above $61,000 as momentum stocks plunge to start quarter",
-      "impact": {}
-    },
-    {
-      "event_id": "af567eea-e536-4a27-934a-63f86a66977b",
-      "source": "rss:coindesk",
-      "title": "Live markets: bitcoin holds above $61,000 as momentum stocks plunge to start quarter",
-      "url": "https://www.coindesk.com/tech/2026/07/02/live-markets-bitcoin-holds-above-usd60-000-as-yen-jumps-on-intervention-fears",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-02T09:42:41+00:00",
-      "raw_text": "Live markets: bitcoin holds above $61,000 as momentum stocks plunge to start quarter",
-      "impact": {}
-    },
-    {
-      "event_id": "1b6891fb-d80d-42f8-9b76-9d0f48786835",
-      "source": "rss:coindesk",
-      "title": "Live markets: Bitcoin rises above $61,000 as U.S. jobs data for June disappoints",
-      "url": "https://www.coindesk.com/tech/2026/07/02/live-markets-bitcoin-holds-above-usd60-000-as-yen-jumps-on-intervention-fears",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-02T09:42:41+00:00",
-      "raw_text": "Live markets: Bitcoin rises above $61,000 as U.S. jobs data for June disappoints",
-      "impact": {}
-    },
-    {
-      "event_id": "cf5c0832-6864-4ece-987d-96df070c6798",
-      "source": "rss:coindesk",
-      "title": "Live markets: bitcoin rises above $61,000 as U.S. jobs data for June disappoints",
-      "url": "https://www.coindesk.com/tech/2026/07/02/live-markets-bitcoin-holds-above-usd60-000-as-yen-jumps-on-intervention-fears",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-02T09:42:41+00:00",
-      "raw_text": "Live markets: bitcoin rises above $61,000 as U.S. jobs data for June disappoints",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 96,
-        "avg_1h": 0.12,
-        "avg_24h": 0.99,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 190,
-        "avg_1h": 0.29,
-        "avg_24h": 0.74,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 183,
+        "count": 179,
         "avg_1h": -0.02,
         "avg_24h": 0.44,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 23,
+        "count": 24,
         "avg_1h": -0.3,
         "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 97,
+        "avg_1h": 0.09,
+        "avg_24h": 0.99,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 192,
+        "avg_1h": 0.24,
+        "avg_24h": 0.74,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
