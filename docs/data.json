@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-08T22:14:56.345952+00:00",
+  "generated_at": "2026-07-09T00:18:30.007730+00:00",
   "events": [
+    {
+      "event_id": "aa70e38f-673e-41d7-8cfb-49c84ee7f619",
+      "source": "rss:decrypt",
+      "title": "The New Grok 4.5 Is Out. Elon Musk Says It Competes With Last Year's Claude Opus",
+      "url": "https://decrypt.co/373094/grok-4-5-elon-musk-claude-opus",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-08T22:26:31+00:00",
+      "raw_text": "The New Grok 4.5 Is Out. Elon Musk Says It Competes With Last Year's Claude Opus\n\nSpaceXAI's new coding model is cheaper and faster than Anthropic and OpenAI's flagships—and by Musk's own account, at least one generation behind them.",
+      "impact": {}
+    },
+    {
+      "event_id": "48c9bbf4-9dc0-4bc5-82c9-5576c21e524b",
+      "source": "rss:theblock",
+      "title": "Sen. Wyden urges Senate leaders to preserve contested blockchain developer protections in broader crypto bill",
+      "url": "https://www.theblock.co/post/407648/wyden-urges-senate-leaders-preserve-contested-blockchain-developer-protections-in-broader-crypto-bill?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-08T22:01:09+00:00",
+      "raw_text": "Sen. Wyden urges Senate leaders to preserve contested blockchain developer protections in broader crypto bill\n\n<p>Democratic Sen. Ron Wyden is urging Senate leaders to ensure a provision protecting blockchain software developers remains in the crypto bill.</p>\n\n<p>Democratic Sen. Ron Wyden is urging",
+      "impact": {}
+    },
+    {
+      "event_id": "8ddba700-7e7d-42fb-a2b1-a5063ec2dce1",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin tumbles back to key $60K support level: What’s behind the sell pressure?",
+      "url": "https://cointelegraph.com/markets/bitcoin-tumbles-back-to-key-60k-support-level-whats-behind-the-sell-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-08T21:55:17+00:00",
+      "raw_text": "Bitcoin tumbles back to key $60K support level: What’s behind the sell pressure?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin tumbles back to key $60K support level: What’s behind the sell pressure?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
+      "impact": {}
+    },
     {
       "event_id": "59b238d2-1d08-4a5e-a0ce-7efbb2a85600",
       "source": "rss:bitcoinmagazine",
@@ -8,10 +44,16 @@
       "url": "https://bitcoinmagazine.com/markets/bitcoin-slips-to-62000-paring-rebound",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-08T21:18:33+00:00",
       "raw_text": "Bitcoin Slips to $62,000, Paring Rebound as CryptoQuant Sees Room Higher\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Price-Falls-to-62000-as-Hawkish-Fed-Shift-Raises-Risk-of-Deeper-Pullba",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0406,
+        "t_plus_15m": 0.0162,
+        "t_plus_1h": 0.1826
+      }
     },
     {
       "event_id": "d03aee3f-1266-431f-b5cf-dd2fbc963da9",
@@ -118,7 +160,8 @@
       "impact": {
         "t_plus_5m": -0.3298,
         "t_plus_15m": -0.0845,
-        "t_plus_1h": -0.0542
+        "t_plus_1h": -0.0542,
+        "t_plus_4h": -0.0115
       }
     },
     {
@@ -6516,50 +6559,14 @@
       "timestamp_utc": "2026-07-01T13:00:00+00:00",
       "raw_text": "Mysterious Solana project World unveiled as fully onchain prediction market",
       "impact": {}
-    },
-    {
-      "event_id": "9a4a7044-f989-44ac-ae58-2e2649d441cd",
-      "source": "rss:coindesk",
-      "title": "What's next for Bitcoin and stocks? Analysts see a volatile second half",
-      "url": "https://www.coindesk.com/markets/2026/06/30/what-s-next-for-bitcoin-and-stocks-analysts-see-a-volatile-second-half",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-01T13:00:00+00:00",
-      "raw_text": "What's next for Bitcoin and stocks? Analysts see a volatile second half",
-      "impact": {}
-    },
-    {
-      "event_id": "c862720c-710b-4721-853f-a319e1a382b6",
-      "source": "rss:cointelegraph",
-      "title": "Circle CEO touts USDC's network advantage as OUSD emerges",
-      "url": "https://cointelegraph.com/news/circle-ceo-challenges-ousd-revenue-sharing-governance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-01T12:38:05+00:00",
-      "raw_text": "Circle CEO touts USDC's network advantage as OUSD emerges\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Circle CEO touts USDC's network advantage as OUSD emerges\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/coins-red-arpet-stablecoin.jp",
-      "impact": {}
-    },
-    {
-      "event_id": "367d9070-d8da-47c7-bfc4-688da86a8517",
-      "source": "rss:decrypt",
-      "title": "Morning Minute: Major New Stablecoin Launch Shakes Incumbents",
-      "url": "https://decrypt.co/372513/morning-minute-major-new-stablecoin-launch-shakes-incumbents",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-01T12:31:07+00:00",
-      "raw_text": "Morning Minute: Major New Stablecoin Launch Shakes Incumbents\n\nOpen USD takes a shot at USDC and USDT, with backing from heavy hitters including Visa, Mastercard and Google.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 98,
-        "avg_1h": 0.06,
-        "avg_24h": 1.31,
+      "narrative": {
+        "count": 180,
+        "avg_1h": -0.0,
+        "avg_24h": 1.32,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
@@ -6568,10 +6575,10 @@
         "avg_24h": 0.52,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 179,
-        "avg_1h": -0.0,
-        "avg_24h": 1.32,
+      "macro": {
+        "count": 97,
+        "avg_1h": 0.06,
+        "avg_24h": 1.31,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
