@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-09T23:23:58.130587+00:00",
+  "generated_at": "2026-07-10T04:08:57.960684+00:00",
   "events": [
+    {
+      "event_id": "c4aab51d-cfe3-4990-bdd3-4137975f9cb3",
+      "source": "rss:cointelegraph",
+      "title": "DeFi may be ‘quietly re-rating’ given outperformance against Bitcoin: Bitwise",
+      "url": "https://cointelegraph.com/news/defi-quietly-re-rating-holds-up-unusually-well-in-downturn-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-10T02:30:44+00:00",
+      "raw_text": "DeFi may be ‘quietly re-rating’ given outperformance against Bitcoin: Bitwise\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DeFi may be ‘quietly re-rating’ given outperformance against Bitcoin: Bitwise\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti",
+      "impact": {}
+    },
     {
       "event_id": "5c3c0207-7ce1-49a7-bc0f-16cf06f38c36",
       "source": "rss:coindesk",
@@ -75,7 +87,8 @@
       "raw_text": "Avalanche Treasury Firm AVAX One Reclaims Nasdaq Compliance After Reverse Stock Split\n\nAVAX One, which stockpiles the native token of the Avalanche crypto network, is back in Nasdaq's good graces after a reverse stock split.",
       "impact": {
         "t_plus_5m": -0.0655,
-        "t_plus_15m": -0.0398
+        "t_plus_15m": -0.0398,
+        "t_plus_1h": -0.0477
       }
     },
     {
@@ -237,7 +250,8 @@
       "impact": {
         "t_plus_5m": 0.1451,
         "t_plus_15m": 0.1768,
-        "t_plus_1h": -0.0897
+        "t_plus_1h": -0.0897,
+        "t_plus_4h": -0.0691
       }
     },
     {
@@ -279,7 +293,8 @@
       "impact": {
         "t_plus_5m": 0.0414,
         "t_plus_15m": 0.0853,
-        "t_plus_1h": 0.3756
+        "t_plus_1h": 0.3756,
+        "t_plus_4h": 0.2667
       }
     },
     {
@@ -6472,25 +6487,13 @@
         "t_plus_1h": 2.4966,
         "t_plus_4h": 1.8561
       }
-    },
-    {
-      "event_id": "a2329dcc-d563-4dc6-be9e-e212dfaba086",
-      "source": "rss:cointelegraph",
-      "title": "Aave brings V3 lending and GHO stablecoin to Monad",
-      "url": "https://cointelegraph.com/news/aave-v3-lending-gho-stablecoin-monad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-02T13:00:00+00:00",
-      "raw_text": "Aave brings V3 lending and GHO stablecoin to Monad\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Aave brings V3 lending and GHO stablecoin to Monad \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/blockchain-tangled-cats-cradle-defi.jpg\" /",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
         "count": 195,
-        "avg_1h": 0.24,
+        "avg_1h": 0.23,
         "avg_24h": 0.74,
         "win_rate_1h_gt5pct": 0.0
       },
