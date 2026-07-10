@@ -1,6 +1,112 @@
 {
-  "generated_at": "2026-07-10T18:42:05.380488+00:00",
+  "generated_at": "2026-07-10T20:39:59.894863+00:00",
   "events": [
+    {
+      "event_id": "9fc5aff2-abf2-4e38-a5aa-e13f1d8e8708",
+      "source": "rss:bitcoinmagazine",
+      "title": "U.S. Representatives Urge Senate to Vote on CLARITY Act in July, Address Ethics Concerns",
+      "url": "https://bitcoinmagazine.com/news/u-s-house-urge-senate-vote-clarity-act",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-10T20:23:50+00:00",
+      "raw_text": "U.S. Representatives Urge Senate to Vote on CLARITY Act in July, Address Ethics Concerns\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/U.S.-Representatives-Urge-Senate-to-Vote-on-CLARITY-Act-in-Jul",
+      "impact": {}
+    },
+    {
+      "event_id": "ec766bbc-d504-4882-92d0-b499ed986cba",
+      "source": "rss:theblock",
+      "title": "DOJ to drop charges against man accused in $722 million BitClub crypto Ponzi scheme: Bloomberg",
+      "url": "https://www.theblock.co/post/407931/doj-drop-charges-against-man-accused-722-million-bitclub-crypto-ponzi-scheme-bloomberg?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-10T20:12:46+00:00",
+      "raw_text": "DOJ to drop charges against man accused in $722 million BitClub crypto Ponzi scheme: Bloomberg\n\n<p>A former contestant on 'The Apprentice' is one of the persons urging the DOJ to drop the charges, the report said.</p>\n\n<p>A former contestant on 'The Apprentice' is one of the persons urging the DOJ t",
+      "impact": {}
+    },
+    {
+      "event_id": "1a5db723-d59c-4326-96ab-c57a9aad9359",
+      "source": "rss:theblock",
+      "title": "Here’s what’s next for the Clarity Act as Congress returns to Washington",
+      "url": "https://www.theblock.co/post/407930/whats-next-for-clarity-act-congress-returns-to-washington?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-10T19:50:57+00:00",
+      "raw_text": "Here’s what’s next for the Clarity Act as Congress returns to Washington\n\n<p>Congress returns to Washington next week, ready to take up cryptocurrency legislation before the midterm election calendar takes over.</p>\n\n<p>Congress returns to Washington next week, ready to take up cryptocurrency legisl",
+      "impact": {}
+    },
+    {
+      "event_id": "599519b7-49f7-40aa-8d29-b0bd3f47f766",
+      "source": "rss:cointelegraph",
+      "title": "US CBDC ban to go into effect without Trump signoff on housing bill",
+      "url": "https://cointelegraph.com/news/us-cbdc-ban-donald-trump-housing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-10T19:33:03+00:00",
+      "raw_text": "US CBDC ban to go into effect without Trump signoff on housing bill\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US CBDC ban to go into effect without Trump signoff on housing bill\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/top-10-co",
+      "impact": {}
+    },
+    {
+      "event_id": "95280734-b93d-4bc6-b744-c7fc7889bd20",
+      "source": "rss:decrypt",
+      "title": "Bitcoin Treasury Firm Empery Digital Dumps Nearly Half of BTC Holdings for $87 Million",
+      "url": "https://decrypt.co/373278/bitcoin-firm-empery-digital-dumps-half-btc-holdings-87-million",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-07-10T18:54:46+00:00",
+      "raw_text": "Bitcoin Treasury Firm Empery Digital Dumps Nearly Half of BTC Holdings for $87 Million\n\nNasdaq-listed Empery Digital said it sold 1,400 Bitcoin since May to help fuel an AI data center deal, legal bills, and other expenses.",
+      "impact": {
+        "t_plus_5m": 0.0155,
+        "t_plus_15m": 0.1072
+      }
+    },
+    {
+      "event_id": "41103c3c-9e19-4976-8187-8b79e3f19ff3",
+      "source": "rss:theblock",
+      "title": "SK Hynix’s $26.5 billion US listing brought to Telegram users via xStocks",
+      "url": "https://www.theblock.co/post/407923/sk-hynixs-26-5-billion-us-listing-brought-to-telegram-users-via-xstocks?utm_source=rss&utm_medium=rss",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [
+        "SOL"
+      ],
+      "timestamp_utc": "2026-07-10T18:49:02+00:00",
+      "raw_text": "SK Hynix’s $26.5 billion US listing brought to Telegram users via xStocks\n\n<p>Solana said that tokenized SK Hynix shares on SOL can be acquired through Backpack, xStocks and Ondo Finance.</p>\n\n<p>Solana said that tokenized SK Hynix shares on SOL can be acquired through Backpack, xStocks and Ondo Fin",
+      "impact": {
+        "t_plus_5m": -0.021,
+        "t_plus_15m": 0.1457
+      }
+    },
+    {
+      "event_id": "b05affed-2662-4995-a4de-516cc8d1d853",
+      "source": "rss:decrypt",
+      "title": "Xbox CEO Joins Fed AI Jobs Task Force Days After Announcing 3,200 Layoffs",
+      "url": "https://decrypt.co/373277/xbox-ceo-fed-ai-jobs-task-force-days-after-layoffs",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-10T18:02:21+00:00",
+      "raw_text": "Xbox CEO Joins Fed AI Jobs Task Force Days After Announcing 3,200 Layoffs\n\nAsha Sharma will advise the Federal Reserve on AI’s impact on jobs and productivity as Xbox undergoes the biggest restructuring in its history.",
+      "impact": {}
+    },
+    {
+      "event_id": "e4a23f66-0aab-47a2-b073-cc43c6c96ad8",
+      "source": "rss:cointelegraph",
+      "title": "New Hampshire council votes down $100M Bitcoin bonds",
+      "url": "https://cointelegraph.com/news/new-hampshire-votes-against-bitcoin-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-10T17:23:10+00:00",
+      "raw_text": "New Hampshire council votes down $100M Bitcoin bonds\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"New Hampshire council votes down $100M Bitcoin bonds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-can-bitcoin-replace-bonds-in-institu",
+      "impact": {}
+    },
     {
       "event_id": "ce8fa8c7-8a16-4e51-93e0-299491cc446a",
       "source": "rss:bitcoinmagazine",
@@ -112,7 +218,8 @@
       "impact": {
         "t_plus_5m": -0.0442,
         "t_plus_15m": -0.003,
-        "t_plus_1h": -0.1328
+        "t_plus_1h": -0.1328,
+        "t_plus_4h": -0.3944
       }
     },
     {
@@ -142,7 +249,8 @@
       "impact": {
         "t_plus_5m": -0.233,
         "t_plus_15m": -0.2163,
-        "t_plus_1h": -0.1895
+        "t_plus_1h": -0.1895,
+        "t_plus_4h": -0.5089
       }
     },
     {
@@ -6367,130 +6475,33 @@
       "timestamp_utc": "2026-07-03T11:45:33+00:00",
       "raw_text": "Bitcoin whales bought $16.7 billion of bitcoin in 2 weeks even as ETFs bled a record $4 billion",
       "impact": {}
-    },
-    {
-      "event_id": "6204fc7e-d57a-468f-ab19-968b89ab7945",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin supply metric prints first 'buy' signal since late 2022 as bear market continues",
-      "url": "https://cointelegraph.com/markets/bitcoin-supply-metric-prints-first-buy-signal-since-late-2022-as-bear-market-continues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-03T11:34:04+00:00",
-      "raw_text": "Bitcoin supply metric prints first 'buy' signal since late 2022 as bear market continues\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin supply metric prints first 'buy' signal since late 2022 as bear market continues\" class=\"type:primaryImage\" src=\"https://s3-images",
-      "impact": {
-        "t_plus_5m": -0.0844,
-        "t_plus_15m": 0.0673,
-        "t_plus_1h": -0.0703,
-        "t_plus_4h": 0.1283
-      }
-    },
-    {
-      "event_id": "f24a2a6f-32b5-4476-a689-77518a169d6a",
-      "source": "rss:coindesk",
-      "title": "Bitcoin, ether traders aren't fully buying the bounce, options markets show",
-      "url": "https://www.coindesk.com/daybook-us/2026/07/03/bitcoin-ether-traders-aren-t-fully-buying-the-bounce-options-markets-show",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-03T11:27:44+00:00",
-      "raw_text": "Bitcoin, ether traders aren't fully buying the bounce, options markets show",
-      "impact": {}
-    },
-    {
-      "event_id": "502242a3-38eb-4547-849b-90d6f8c8e0f8",
-      "source": "rss:theblock",
-      "title": "‘Markets find their footing’: Bitcoin holds $61,000 rebound ahead of US Independence Day as soft jobs data eases rate fears",
-      "url": "https://www.theblock.co/post/407131/markets-find-their-footing-bitcoin-holds-61000-rebound-ahead-of-us-independence-day-as-soft-jobs-data-eases-rate-fears?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-03T11:21:50+00:00",
-      "raw_text": "‘Markets find their footing’: Bitcoin holds $61,000 rebound ahead of US Independence Day as soft jobs data eases rate fears\n\n<p>Bitcoin holds above $61,000 and ether above $1,700 as soft U.S. jobs data eases Fed hike bets and spot ETFs snap a 10-day outflow streak.</p>\n\n<p>Bitcoin holds above $61,00",
-      "impact": {}
-    },
-    {
-      "event_id": "3887fb04-6ee8-42fd-89a9-4c59fc6f3cc4",
-      "source": "rss:cointelegraph",
-      "title": "Zcash’s Ironwood upgrade faces possible delay over infrastructure readiness",
-      "url": "https://cointelegraph.com/news/zcash-ironwood-upgrade-possible-delay-infrastructure-readiness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-03T11:21:30+00:00",
-      "raw_text": "Zcash’s Ironwood upgrade faces possible delay over infrastructure readiness\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zcash’s Ironwood upgrade faces possible delay over infrastructure readiness \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article",
-      "impact": {}
-    },
-    {
-      "event_id": "2dec3425-e52d-4b97-bad3-92f12f27daf5",
-      "source": "rss:coindesk",
-      "title": "Crypto bulls on firmer footing as U.S. rate-hike risk recedes",
-      "url": "https://www.coindesk.com/markets/2026/07/03/crypto-bulls-on-firmer-footing-as-u-s-rate-hike-risk-recedes",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-03T11:11:39+00:00",
-      "raw_text": "Crypto bulls on firmer footing as U.S. rate-hike risk recedes",
-      "impact": {}
-    },
-    {
-      "event_id": "e5b01133-c2d9-4d66-9db8-e6487975505a",
-      "source": "rss:cointelegraph",
-      "title": "Defendant files to dismiss New York lawsuit seeking ownership of 39,069 Bitcoin wallets",
-      "url": "https://cointelegraph.com/news/defendant-dismiss-new-york-lawsuit-bitcoin-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-03T11:10:24+00:00",
-      "raw_text": "Defendant files to dismiss New York lawsuit seeking ownership of 39,069 Bitcoin wallets\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Defendant files to dismiss New York lawsuit seeking ownership of 39,069 Bitcoin wallets\" class=\"type:primaryImage\" src=\"https://s3-images.c",
-      "impact": {}
-    },
-    {
-      "event_id": "bb4c751f-d26a-4229-b3af-faf708611f4a",
-      "source": "rss:coindesk",
-      "title": "Memory and semiconductor stocks lose momentum, bitcoin rebounds in sign of changing investor focus",
-      "url": "https://www.coindesk.com/markets/2026/07/03/memory-and-semiconductor-stocks-lose-momentum-bitcoin-rebounds-in-sign-of-changing-investor-focus",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-03T10:41:52+00:00",
-      "raw_text": "Memory and semiconductor stocks lose momentum, bitcoin rebounds in sign of changing investor focus",
-      "impact": {}
-    },
-    {
-      "event_id": "7df4fc43-8b6c-46ad-8126-7f0375d8cb13",
-      "source": "rss:cointelegraph",
-      "title": "India's central bank revives push to isolate banks from crypto: Report",
-      "url": "https://cointelegraph.com/news/rbi-crypto-containment-india-policy-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-03T09:26:00+00:00",
-      "raw_text": "India's central bank revives push to isolate banks from crypto: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"India's central bank revives push to isolate banks from crypto: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "macro": {
-        "count": 97,
-        "avg_1h": 0.11,
+        "count": 96,
+        "avg_1h": 0.13,
         "avg_24h": 0.99,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 197,
+        "count": 198,
         "avg_1h": 0.11,
         "avg_24h": 0.74,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 175,
+        "count": 173,
         "avg_1h": -0.04,
         "avg_24h": 0.44,
         "win_rate_1h_gt5pct": 0.0
+      },
+      "listing": {
+        "count": 6,
+        "avg_1h": null,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": null
       },
       "whale_move": {
         "count": 2,
@@ -6503,12 +6514,6 @@
         "avg_1h": -0.23,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
-      },
-      "listing": {
-        "count": 4,
-        "avg_1h": null,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": null
       }
     }
   }
