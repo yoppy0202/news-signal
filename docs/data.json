@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-07-10T20:39:59.894863+00:00",
+  "generated_at": "2026-07-10T22:13:19.259269+00:00",
   "events": [
+    {
+      "event_id": "02fd9159-8d8e-40f2-b177-c35e61432581",
+      "source": "rss:coindesk",
+      "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\"",
+      "url": "https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-10T21:26:55+00:00",
+      "raw_text": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\"",
+      "impact": {}
+    },
+    {
+      "event_id": "cce25e10-b1cc-40e2-a885-9b9997d0de63",
+      "source": "rss:cointelegraph",
+      "title": "Kraken to overhaul app with AI investing assistant",
+      "url": "https://cointelegraph.com/news/kraken-to-rebuild-app-around-ai-powered-trading-agents-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-10T21:07:39+00:00",
+      "raw_text": "Kraken to overhaul app with AI investing assistant\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken to overhaul app with AI investing assistant\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-trading-bots-vs-ai-agents-everything-you",
+      "impact": {}
+    },
+    {
+      "event_id": "ebe022d1-03fb-407f-b99b-c4335699ebdc",
+      "source": "rss:cointelegraph",
+      "title": "Senate Democrats call for hearings into Trump’s ties to crypto amid CLARITY Act discussions",
+      "url": "https://cointelegraph.com/news/senate-democrats-hearings-donald-trump-crypto-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-10T21:03:57+00:00",
+      "raw_text": "Senate Democrats call for hearings into Trump’s ties to crypto amid CLARITY Act discussions\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Senate Democrats call for hearings into Trump’s ties to crypto amid CLARITY Act discussions\" class=\"type:primaryImage\" src=\"https://s3-",
+      "impact": {}
+    },
+    {
+      "event_id": "aab09d9f-88f4-465e-b851-45df5011a149",
+      "source": "rss:decrypt",
+      "title": "Democrats Call for Senate Hearings on Trump's Massive Crypto Profits",
+      "url": "https://decrypt.co/373289/democrats-senate-hearings-trump-massive-crypto-profits",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-10T20:35:44+00:00",
+      "raw_text": "Democrats Call for Senate Hearings on Trump's Massive Crypto Profits\n\nTop Democrats on key Senate committees demanded inquiries into the more than $1.2 billion that President Trump made on crypto last year.",
+      "impact": {}
+    },
     {
       "event_id": "9fc5aff2-abf2-4e38-a5aa-e13f1d8e8708",
       "source": "rss:bitcoinmagazine",
@@ -63,7 +111,8 @@
       "raw_text": "Bitcoin Treasury Firm Empery Digital Dumps Nearly Half of BTC Holdings for $87 Million\n\nNasdaq-listed Empery Digital said it sold 1,400 Bitcoin since May to help fuel an AI data center deal, legal bills, and other expenses.",
       "impact": {
         "t_plus_5m": 0.0155,
-        "t_plus_15m": 0.1072
+        "t_plus_15m": 0.1072,
+        "t_plus_1h": 0.3447
       }
     },
     {
@@ -80,7 +129,8 @@
       "raw_text": "SK Hynix’s $26.5 billion US listing brought to Telegram users via xStocks\n\n<p>Solana said that tokenized SK Hynix shares on SOL can be acquired through Backpack, xStocks and Ondo Finance.</p>\n\n<p>Solana said that tokenized SK Hynix shares on SOL can be acquired through Backpack, xStocks and Ondo Fin",
       "impact": {
         "t_plus_5m": -0.021,
-        "t_plus_15m": 0.1457
+        "t_plus_15m": 0.1457,
+        "t_plus_1h": 0.6971
       }
     },
     {
@@ -6427,90 +6477,42 @@
       "timestamp_utc": "2026-07-03T12:04:15+00:00",
       "raw_text": "Trump says there is ‘nothing wrong’ with family’s crypto windfall",
       "impact": {}
-    },
-    {
-      "event_id": "93d8c77f-b619-4951-8f95-d1f05b536dc9",
-      "source": "rss:cointelegraph",
-      "title": "StanChart joins ESMA's first MiCA register update since deadline",
-      "url": "https://cointelegraph.com/news/esma-mica-register-new-casps-stanchart-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-03T12:02:41+00:00",
-      "raw_text": "StanChart joins ESMA's first MiCA register update since deadline\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"StanChart joins ESMA's first MiCA register update since deadline\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-protecting-y",
-      "impact": {}
-    },
-    {
-      "event_id": "9dc01e74-6330-4637-ad4a-ab834c2b8e6b",
-      "source": "rss:theblock",
-      "title": "Spotify asks Kalshi, Polymarket to remove branding after manipulated streams used to settle music bets: Bloomberg",
-      "url": "https://www.theblock.co/post/407134/spotify-asks-kalshi-polymarket-to-remove-branding-after-manipulated-streams-used-to-settle-music-bets-bloomberg?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-03T11:57:59+00:00",
-      "raw_text": "Spotify asks Kalshi, Polymarket to remove branding after manipulated streams used to settle music bets: Bloomberg\n\n<p>Spotify asked Kalshi and Polymarket to drop its logo after 500,000 fake streams rigged a $3M music market, Bloomberg reported.</p>\n\n<p>Spotify asked Kalshi and Polymarket to drop its",
-      "impact": {}
-    },
-    {
-      "event_id": "61109786-1cf2-4c17-bc65-ba158c235b62",
-      "source": "rss:decrypt",
-      "title": "Bitcoin ETFs Draw In $222M, Snapping 10-Day Losing Streak",
-      "url": "https://decrypt.co/372723/bitcoin-etfs-draw-in-222m-snapping-10-day-losing-streak",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-03T11:46:34+00:00",
-      "raw_text": "Bitcoin ETFs Draw In $222M, Snapping 10-Day Losing Streak\n\nThursday's inflows ended a run that drained $2.7 billion, but analysts warn one green day isn't necessarily a trend reversal.",
-      "impact": {}
-    },
-    {
-      "event_id": "4239742a-c85e-4fd5-9b20-069a0a41a9c1",
-      "source": "rss:coindesk",
-      "title": "Bitcoin whales bought $16.7 billion of bitcoin in 2 weeks even as ETFs bled a record $4 billion",
-      "url": "https://www.coindesk.com/markets/2026/07/03/bitcoin-whales-bought-270-000-btc-in-two-weeks-even-as-etfs-bled-a-record-usd4-billion",
-      "event_type": "whale_move",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-03T11:45:33+00:00",
-      "raw_text": "Bitcoin whales bought $16.7 billion of bitcoin in 2 weeks even as ETFs bled a record $4 billion",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 174,
+        "avg_1h": -0.04,
+        "avg_24h": 0.44,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 199,
+        "avg_1h": 0.11,
+        "avg_24h": 0.74,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 96,
         "avg_1h": 0.13,
         "avg_24h": 0.99,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 198,
-        "avg_1h": 0.11,
-        "avg_24h": 0.74,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 173,
-        "avg_1h": -0.04,
-        "avg_24h": 0.44,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "listing": {
         "count": 6,
-        "avg_1h": null,
+        "avg_1h": 0.52,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": null
+        "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
-        "count": 2,
+        "count": 1,
         "avg_1h": -0.19,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 25,
+        "count": 24,
         "avg_1h": -0.23,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
