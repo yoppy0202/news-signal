@@ -1,6 +1,160 @@
 {
-  "generated_at": "2026-07-10T14:48:27.558625+00:00",
+  "generated_at": "2026-07-10T17:04:37.169882+00:00",
   "events": [
+    {
+      "event_id": "abd3f7cc-cf1e-49eb-96a6-69fa081f2192",
+      "source": "rss:bitcoinmagazine",
+      "title": "Metaplanet Announces Joint Study to Bring Bitcoin-Backed Digital Credit to Japan",
+      "url": "https://bitcoinmagazine.com/news/metaplanet-announces-joint-study-bitcoin",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-07-10T15:14:13+00:00",
+      "raw_text": "Metaplanet Announces Joint Study to Bring Bitcoin-Backed Digital Credit to Japan\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Metaplanet-Acquires-Siiibo-Securities-in-Push-to-Build-Bitcoin-Financi",
+      "impact": {
+        "t_plus_5m": -0.0442,
+        "t_plus_15m": -0.003
+      }
+    },
+    {
+      "event_id": "93887f38-dfe9-486a-bd86-038f6e28d6b7",
+      "source": "rss:decrypt",
+      "title": "Trump Won't Sign Housing Bill With CBDC Ban—Will It Become Law Tonight Anyway?",
+      "url": "https://decrypt.co/373230/trump-wont-sign-housing-bill-cbdc-ban-become-law-anyway",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-10T15:13:12+00:00",
+      "raw_text": "Trump Won't Sign Housing Bill With CBDC Ban—Will It Become Law Tonight Anyway?\n\nUnless President Trump vetoes the bill, it will become law at midnight, banning the Federal Reserve from developing a CBDC until 2031.",
+      "impact": {}
+    },
+    {
+      "event_id": "7c984536-c4a0-4d26-8ccb-58244e6c4b01",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin whales sent BTC price to $64K as Coinbase Premium broke key level: CryptoQuant",
+      "url": "https://cointelegraph.com/markets/bitcoin-whales-sent-btc-price-to-64k-as-coinbase-premium-broke-key-level-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "whale_move",
+      "sentiment_label": "negative",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-07-10T14:59:30+00:00",
+      "raw_text": "Bitcoin whales sent BTC price to $64K as Coinbase Premium broke key level: CryptoQuant\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin whales sent BTC price to $64K as Coinbase Premium broke key level: CryptoQuant\" class=\"type:primaryImage\" src=\"https://s3-images.ctm",
+      "impact": {
+        "t_plus_5m": -0.233,
+        "t_plus_15m": -0.2163
+      }
+    },
+    {
+      "event_id": "579c4525-caaf-4cb7-87c9-711fb82db3c4",
+      "source": "rss:decrypt",
+      "title": "Circle Stock Jumps as Stablecoin Issuer Wins Final Federal Banking Charter Approval",
+      "url": "https://decrypt.co/373227/circle-stock-jumps-stablecoin-issuer-final-federal-banking-charter",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-10T14:54:40+00:00",
+      "raw_text": "Circle Stock Jumps as Stablecoin Issuer Wins Final Federal Banking Charter Approval\n\nCircle secured final OCC approval to establish a national trust bank, shifting its $73.2 billion stablecoin to a unified federal framework.",
+      "impact": {}
+    },
+    {
+      "event_id": "60029240-d0dd-4256-a1ae-97f426bef615",
+      "source": "rss:cointelegraph",
+      "title": "A16z’s Andreessen lands Federal Reserve role as AI reshapes policy debate",
+      "url": "https://cointelegraph.com/news/federal-reserve-a16z-co-founder-monetary-policy-task-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-10T14:12:53+00:00",
+      "raw_text": "A16z’s Andreessen lands Federal Reserve role as AI reshapes policy debate\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"A16z’s Andreessen lands Federal Reserve role as AI reshapes policy debate\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
+      "impact": {}
+    },
+    {
+      "event_id": "740943e1-2e5c-467d-952e-303899906053",
+      "source": "rss:cointelegraph",
+      "title": "MiCA licensing only the beginning as crypto custodians face scrutiny",
+      "url": "https://cointelegraph.com/news/mica-only-beginning-crypto-custodians-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-10T13:54:50+00:00",
+      "raw_text": "MiCA licensing only the beginning as crypto custodians face scrutiny\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MiCA licensing only the beginning as crypto custodians face scrutiny\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/cia2.jp",
+      "impact": {}
+    },
+    {
+      "event_id": "715ce9b0-07af-4746-a070-3568c30ee961",
+      "source": "rss:decrypt",
+      "title": "Strategy Bitcoin Sales 'Mostly Noise,' Standard Chartered Says, Holding $100K BTC Call",
+      "url": "https://decrypt.co/373224/strategy-bitcoin-sales-mostly-noise-standard-chartered-says-holding-100k-btc-call",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-07-10T13:52:30+00:00",
+      "raw_text": "Strategy Bitcoin Sales 'Mostly Noise,' Standard Chartered Says, Holding $100K BTC Call\n\nThe bank argues that the treasury giant's Bitcoin sales are a short-term distraction, reiterating its $100,000 year-end price target.",
+      "impact": {
+        "t_plus_5m": 0.561,
+        "t_plus_15m": 0.2695,
+        "t_plus_1h": -0.2111
+      }
+    },
+    {
+      "event_id": "4314f37f-90fe-4460-b6db-54aac97d32ba",
+      "source": "rss:bitcoinmagazine",
+      "title": "Bitcoin is “A Screaming Buy”: Standard Chartered Backs $100,000 Target, Shrugs Off Strategy (MSTR) Sell-Off",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-screaming-buy-standard-chartered",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-07-10T13:49:38+00:00",
+      "raw_text": "Bitcoin is “A Screaming Buy”: Standard Chartered Backs $100,000 Target, Shrugs Off Strategy (MSTR) Sell-Off\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-is-22A-Screaming-Buy22-Standard-Cha",
+      "impact": {
+        "t_plus_5m": 0.7348,
+        "t_plus_15m": 0.4635,
+        "t_plus_1h": -0.1066
+      }
+    },
+    {
+      "event_id": "355bcf8a-3d7c-497c-b650-f7abca644810",
+      "source": "rss:cointelegraph",
+      "title": "Will the crypto lobby's $189M campaign get CLARITY over the line?",
+      "url": "https://cointelegraph.com/features/how-crypto-built-political-influence-in-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-10T13:30:00+00:00",
+      "raw_text": "Will the crypto lobby's $189M campaign get CLARITY over the line?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Will the crypto lobby's $189M campaign get CLARITY over the line?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/crypto-lobby.",
+      "impact": {}
+    },
+    {
+      "event_id": "5e8d48e2-b8f2-425d-b9e6-23a45b47dc9b",
+      "source": "rss:theblock",
+      "title": "Binance co-CEO says 70% of EU withdrawals went to self-custody after MiCA deadline, with just 30% going to licensed platforms",
+      "url": "https://www.theblock.co/post/407888/binance-co-ceo-says-70-of-eu-withdrawals-went-to-self-custody-after-mica-deadline-with-just-30-going-to-licensed-platforms?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-10T13:17:52+00:00",
+      "raw_text": "Binance co-CEO says 70% of EU withdrawals went to self-custody after MiCA deadline, with just 30% going to licensed platforms\n\n<p>Richard Teng said 70% of EU user withdrawals following its service suspension moved to self-custody rather than MiCA-regulated platforms.</p>\n\n<p>Richard Teng said 70% of",
+      "impact": {}
+    },
+    {
+      "event_id": "e9606826-7ba7-4ff2-a641-4655e3df23f6",
+      "source": "rss:theblock",
+      "title": "‘Communication challenge, nothing more’: Standard Chartered keeps $100,000 bitcoin target, calls Strategy selloff a signaling problem",
+      "url": "https://www.theblock.co/post/407884/communication-challenge-nothing-more-standard-chartered-keeps-100000-bitcoin-target-calls-strategy-selloff-a-signaling-problem?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-10T12:46:18+00:00",
+      "raw_text": "‘Communication challenge, nothing more’: Standard Chartered keeps $100,000 bitcoin target, calls Strategy selloff a signaling problem\n\n<p>Standard Chartered retained its $100,000 end-2026 bitcoin target, calling Strategy's STRC pivot a signaling problem, not a solvency one.</p>\n\n<p>Standard Chartere",
+      "impact": {}
+    },
     {
       "event_id": "fa9ba3dd-8317-4426-88e1-cf04e94544d0",
       "source": "rss:coindesk",
@@ -116,10 +270,17 @@
       "url": "https://cointelegraph.com/news/japan-cryl-bitcoin-backed-loans-6-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-10T11:24:06+00:00",
       "raw_text": "Japanese lender launches Bitcoin-backed loans of up to $6.2M\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Japanese lender launches Bitcoin-backed loans of up to $6.2M\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/loan-cash-bitcoin-yen.j",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0622,
+        "t_plus_15m": -0.1655,
+        "t_plus_1h": -0.0304,
+        "t_plus_4h": -0.5261
+      }
     },
     {
       "event_id": "7288b20f-e665-4347-97c0-1992b0a0dbf4",
@@ -224,10 +385,17 @@
       "url": "https://cointelegraph.com/markets/bitcoin-returns-to-64k-with-three-week-btc-price-highs-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-10T09:32:23+00:00",
       "raw_text": "Bitcoin returns to $64.3K with new 3-week BTC price highs imminent\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin returns to $64.3K with new 3-week BTC price highs imminent\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/behind-bitc",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0273,
+        "t_plus_15m": -0.0651,
+        "t_plus_1h": -0.1266,
+        "t_plus_4h": -0.4592
+      }
     },
     {
       "event_id": "72777796-0825-4067-ad72-2e70e4249681",
@@ -329,6 +497,18 @@
       "tokens": [],
       "timestamp_utc": "2026-07-10T06:49:13+00:00",
       "raw_text": "Bitcoin gets a green light from a reliable momentum gauge. Here are key levels to watch",
+      "impact": {}
+    },
+    {
+      "event_id": "03fd3777-3ddf-4d3e-8680-318c0b2f0825",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin takes aim at $65,000, erasing losses from earlier this week",
+      "url": "https://www.coindesk.com/tech/2026/07/10/live-markets-bitcoin-etfs-bleed-again-while-ether-funds-snap-a-five-day-inflow-streak",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-10T06:21:34+00:00",
+      "raw_text": "Live updates: Bitcoin takes aim at $65,000, erasing losses from earlier this week",
       "impact": {}
     },
     {
@@ -463,6 +643,18 @@
       "tokens": [],
       "timestamp_utc": "2026-07-10T03:57:58+00:00",
       "raw_text": "Bitcoin zips higher to nearly $64,000 as chip rally and yen strength drive gains",
+      "impact": {}
+    },
+    {
+      "event_id": "e848f7f1-9ca3-485f-83a9-ae243eb552f9",
+      "source": "rss:cointelegraph",
+      "title": "Hackers tried to backdoor Injective NPM package to steal wallet keys",
+      "url": "https://cointelegraph.com/news/hackers-compromise-injective-npm-package-with-malware-to-steal-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-10T03:07:47+00:00",
+      "raw_text": "Hackers tried to backdoor Injective NPM package to steal wallet keys\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hackers tried to backdoor Injective NPM package to steal wallet keys \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/crimes",
       "impact": {}
     },
     {
@@ -6288,203 +6480,32 @@
         "t_plus_1h": -0.0478,
         "t_plus_4h": -0.0358
       }
-    },
-    {
-      "event_id": "137d914b-45c3-4910-9857-7a0d9f6695fc",
-      "source": "rss:cointelegraph",
-      "title": "Teen ‘Scattered Spider’ suspect extradited to US over $8M crypto ransom",
-      "url": "https://cointelegraph.com/news/teen-scattered-spider-suspect-extradited-to-us-over-8m-crypto-ransom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-03T06:18:20+00:00",
-      "raw_text": "Teen ‘Scattered Spider’ suspect extradited to US over $8M crypto ransom\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Teen ‘Scattered Spider’ suspect extradited to US over $8M crypto ransom\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/a",
-      "impact": {}
-    },
-    {
-      "event_id": "cf5ee89f-108c-4406-adc4-4b254aa5fb36",
-      "source": "rss:cointelegraph",
-      "title": "AI agent development hasn’t accelerated as expected, Zuckerberg says",
-      "url": "https://cointelegraph.com/news/ai-agent-development-hasnt-accelerated-as-expected-says-zuckerberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-03T06:07:10+00:00",
-      "raw_text": "AI agent development hasn’t accelerated as expected, Zuckerberg says\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"AI agent development hasn’t accelerated as expected, Zuckerberg says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-face",
-      "impact": {}
-    },
-    {
-      "event_id": "8a8015df-5b43-427f-8e56-56e0c4449a41",
-      "source": "rss:coindesk",
-      "title": "Bitcoin ETFs see $221 million inflow, finally ending a painful 10-day selling streak",
-      "url": "https://www.coindesk.com/markets/2026/07/03/finally-usd221-million-flow-into-bitcoin-etfs-ending-a-painful-10-day-outflow-streak",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-03T05:54:51+00:00",
-      "raw_text": "Bitcoin ETFs see $221 million inflow, finally ending a painful 10-day selling streak",
-      "impact": {}
-    },
-    {
-      "event_id": "d91abf30-224f-4a00-b334-2595d543ea37",
-      "source": "rss:coindesk",
-      "title": "Finally. $221 million flow into Bitcoin ETFs, ending a painful 10-day outflow streak",
-      "url": "https://www.coindesk.com/markets/2026/07/03/finally-usd221-million-flow-into-bitcoin-etfs-ending-a-painful-10-day-outflow-streak",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-03T05:54:51+00:00",
-      "raw_text": "Finally. $221 million flow into Bitcoin ETFs, ending a painful 10-day outflow streak",
-      "impact": {}
-    },
-    {
-      "event_id": "43244d2a-5d5c-466e-85f5-230fa4bd6f4d",
-      "source": "rss:coindesk",
-      "title": "XRP bulls test path back toward $1.10 as token zips 4% higher",
-      "url": "https://www.coindesk.com/markets/2026/07/03/xrp-bulls-test-path-back-toward-usd1-10-as-token-zips-4-higher",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-07-03T05:29:00+00:00",
-      "raw_text": "XRP bulls test path back toward $1.10 as token zips 4% higher",
-      "impact": {
-        "t_plus_5m": -0.1594,
-        "t_plus_15m": -0.1021,
-        "t_plus_1h": 0.3893,
-        "t_plus_4h": 0.1875
-      }
-    },
-    {
-      "event_id": "8c2cb57b-51ea-4c0b-bea5-840bcc56b0f8",
-      "source": "rss:coindesk",
-      "title": "Ether and solana extend gains as a short squeeze lifts bitcoin toward $62,000",
-      "url": "https://www.coindesk.com/markets/2026/07/03/ether-and-solana-extend-gains-as-a-short-squeeze-lifts-bitcoin-toward-usd62-000",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-03T05:18:58+00:00",
-      "raw_text": "Ether and solana extend gains as a short squeeze lifts bitcoin toward $62,000",
-      "impact": {}
-    },
-    {
-      "event_id": "b75a0f4a-70ea-4205-8e3a-f997f1f991d5",
-      "source": "rss:cointelegraph",
-      "title": "US dominates Polymarket political bets despite geoblock: Report",
-      "url": "https://cointelegraph.com/news/us-dominates-polymarket-political-bets-despite-geoblock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-03T03:38:37+00:00",
-      "raw_text": "US dominates Polymarket political bets despite geoblock: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US dominates Polymarket political bets despite geoblock: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/investmentmoneycr",
-      "impact": {}
-    },
-    {
-      "event_id": "6bdfcc6c-675e-43ce-950b-41ddd8dc67ff",
-      "source": "rss:cointelegraph",
-      "title": "Strategy will be ‘less important’ in Bitcoin after STRC incident: Bitwise",
-      "url": "https://cointelegraph.com/news/strategy-will-be-less-important-in-bitcoin-after-strc-incident-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-03T03:12:04+00:00",
-      "raw_text": "Strategy will be ‘less important’ in Bitcoin after STRC incident: Bitwise\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy will be ‘less important’ in Bitcoin after STRC incident: Bitwise\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
-      "impact": {}
-    },
-    {
-      "event_id": "bef72dcb-2b31-4b93-9c2a-f93000186521",
-      "source": "rss:cointelegraph",
-      "title": "Securitize gains on NYSE debut with tokenized stocks live on Solana, Avalanche",
-      "url": "https://cointelegraph.com/news/securitize-gains-on-nyse-debut-with-tokenized-stock-live-on-solana-avalanche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-03T02:35:34+00:00",
-      "raw_text": "Securitize gains on NYSE debut with tokenized stocks live on Solana, Avalanche\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Securitize gains on NYSE debut with tokenized stocks live on Solana, Avalanche\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar",
-      "impact": {}
-    },
-    {
-      "event_id": "37e8625a-c3fd-41e3-80de-0f3c1611310f",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin holds $61K after US jobs data report, AI sector weakness: Did BTC bottom?",
-      "url": "https://cointelegraph.com/markets/bitcoin-holds-61k-after-us-jobs-data-report-ai-sector-weakness-did-btc-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-03T00:01:01+00:00",
-      "raw_text": "Bitcoin holds $61K after US jobs data report, AI sector weakness: Did BTC bottom?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin holds $61K after US jobs data report, AI sector weakness: Did BTC bottom?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me",
-      "impact": {
-        "t_plus_5m": -0.0027,
-        "t_plus_15m": -0.0832,
-        "t_plus_1h": -0.2928,
-        "t_plus_4h": -0.104
-      }
-    },
-    {
-      "event_id": "3afebd5e-cd31-44fe-8ec9-ad493d9e5f58",
-      "source": "rss:cointelegraph",
-      "title": "Is Bitcoin heading for $65K? Sharplink buys $16M ETH: Market Moves",
-      "url": "https://cointelegraph.com/features/is-bitcoin-heading-for-65k-sharplink-buys-16m-eth-market-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-07-02T23:17:47+00:00",
-      "raw_text": "Is Bitcoin heading for $65K? Sharplink buys $16M ETH: Market Moves\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Is Bitcoin heading for $65K? Sharplink buys $16M ETH: Market Moves\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/market-move",
-      "impact": {
-        "t_plus_5m": -0.1559,
-        "t_plus_15m": 0.0076,
-        "t_plus_1h": 0.0326,
-        "t_plus_4h": 0.3103
-      }
-    },
-    {
-      "event_id": "4708af38-4e47-4871-8998-06c9170bea1f",
-      "source": "rss:cointelegraph",
-      "title": "Ripple co-founder backs venture launched by US senator's son: Report",
-      "url": "https://cointelegraph.com/news/ripple-chris-larsen-senator-gillibrand-son-venture-market-structure-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-02T22:01:25+00:00",
-      "raw_text": "Ripple co-founder backs venture launched by US senator's son: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ripple co-founder backs venture launched by US senator's son: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bribe-m",
-      "impact": {}
-    },
-    {
-      "event_id": "bd50222d-a1c6-43d3-9d6d-256d83a5a1bb",
-      "source": "rss:decrypt",
-      "title": "OpenAI Offers US Government a $42 Billion Slice of Itself: Report",
-      "url": "https://decrypt.co/372715/openai-offers-us-government-42-billion-slice",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-02T21:39:25+00:00",
-      "raw_text": "OpenAI Offers US Government a $42 Billion Slice of Itself: Report\n\nSam Altman is pitching a 5% equity stake in OpenAI for the U.S. government—and reportedly wants every major AI company to do the same.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 193,
-        "avg_1h": 0.11,
-        "avg_24h": 0.74,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 96,
-        "avg_1h": 0.11,
+        "count": 98,
+        "avg_1h": 0.12,
         "avg_24h": 0.99,
         "win_rate_1h_gt5pct": 0.0
       },
+      "whale_move": {
+        "count": 2,
+        "avg_1h": null,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": null
+      },
       "unknown": {
-        "count": 181,
-        "avg_1h": -0.01,
+        "count": 179,
+        "avg_1h": -0.04,
         "avg_24h": 0.44,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 192,
+        "avg_1h": 0.11,
+        "avg_24h": 0.74,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
@@ -6495,12 +6516,6 @@
       },
       "listing": {
         "count": 4,
-        "avg_1h": null,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": null
-      },
-      "whale_move": {
-        "count": 1,
         "avg_1h": null,
         "avg_24h": null,
         "win_rate_1h_gt5pct": null
