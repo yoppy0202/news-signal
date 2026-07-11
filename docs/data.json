@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-11T19:21:28.397707+00:00",
+  "generated_at": "2026-07-11T21:01:27.979071+00:00",
   "events": [
+    {
+      "event_id": "84576bfc-cfa8-4994-8c72-a12614fd192f",
+      "source": "rss:theblock",
+      "title": "Hedera lending protocol Bonzo Lend hit for $9 million after Supra verifier accepts manipulated price update",
+      "url": "https://www.theblock.co/post/407960/hedera-lending-protocol-bonzo-lend-hit-for-9-million-after-supra-verifier-accepts-manipulated-price-update?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-11T19:19:32+00:00",
+      "raw_text": "Hedera lending protocol Bonzo Lend hit for $9 million after Supra verifier accepts manipulated price update\n\n<p>A second wallet borrowed another roughly $1 million but identified itself as a white hat hacker and said the funds would be returned.</p>\n\n<p>A second wallet borrowed another roughly $1 mi",
+      "impact": {}
+    },
     {
       "event_id": "5992933f-3304-4131-bc25-6bc2a0037eed",
       "source": "rss:coindesk",
@@ -350,7 +362,8 @@
         "t_plus_5m": 0.0155,
         "t_plus_15m": 0.1072,
         "t_plus_1h": 0.3447,
-        "t_plus_4h": 0.4737
+        "t_plus_4h": 0.4737,
+        "t_plus_24h": 0.8355
       }
     },
     {
@@ -369,7 +382,8 @@
         "t_plus_5m": -0.021,
         "t_plus_15m": 0.1457,
         "t_plus_1h": 0.6971,
-        "t_plus_4h": 0.8915
+        "t_plus_4h": 0.8915,
+        "t_plus_24h": 0.9463
       }
     },
     {
@@ -6481,30 +6495,18 @@
       "timestamp_utc": "2026-07-03T21:06:03+00:00",
       "raw_text": "Claude Fable 5 Isn't Nerfed. The Router Is Just Paranoid\n\nDid Claude Fable 5 get dumber? Two benchmarks, two wildly different conclusions—and one routing layer that explains the whole mess.",
       "impact": {}
-    },
-    {
-      "event_id": "41e81c09-d984-4fb8-b103-d83df155ad5e",
-      "source": "rss:decrypt",
-      "title": "Senator Gillibrand Seeks to Ban Trump, Elected Officials From Launching Meme Coins",
-      "url": "https://decrypt.co/372749/senator-gillibrand-ban-trump-elected-officials-launching-meme-coins",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-03T21:03:33+00:00",
-      "raw_text": "Senator Gillibrand Seeks to Ban Trump, Elected Officials From Launching Meme Coins\n\nAfter President Trump disclosed over $1 billion in crypto-related earnings, Senator Kirsten Gillibrand is calling for a meme coin ban.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "hack": {
-        "count": 26,
+        "count": 27,
         "avg_1h": -0.23,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 198,
+        "count": 197,
         "avg_1h": 0.07,
         "avg_24h": 0.74,
         "win_rate_1h_gt5pct": 0.0
@@ -6524,7 +6526,7 @@
       "listing": {
         "count": 5,
         "avg_1h": 0.52,
-        "avg_24h": null,
+        "avg_24h": 0.89,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
