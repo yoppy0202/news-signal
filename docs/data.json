@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-11T15:10:50.107733+00:00",
+  "generated_at": "2026-07-11T17:10:59.838304+00:00",
   "events": [
+    {
+      "event_id": "b47eb71b-c314-4b6c-82c6-9654aa5f60fb",
+      "source": "rss:decrypt",
+      "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks",
+      "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-11T16:21:34+00:00",
+      "raw_text": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks\n\nRobinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.",
+      "impact": {}
+    },
+    {
+      "event_id": "ec2e95d8-df15-4597-877b-cb5e7284eaa9",
+      "source": "rss:theblock",
+      "title": "Bitcoin, ether ETFs snap eight-week outflow streaks with $282 million combined inflow",
+      "url": "https://www.theblock.co/post/407957/bitcoin-ether-etfs-snap-eight-week-outflow-streaks-with-282-million-combined-inflow?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-11T15:19:15+00:00",
+      "raw_text": "Bitcoin, ether ETFs snap eight-week outflow streaks with $282 million combined inflow\n\n<p>The preceding eight weeks drained a combined $9.46 billion from the two groups, meaning this week’s rebound recovered only about 3% of those outflows.</p>\n\n<p>The preceding eight weeks drained a combined $9.46 ",
+      "impact": {}
+    },
+    {
+      "event_id": "336c0585-0607-4538-8c24-abe118cf7415",
+      "source": "rss:coindesk",
+      "title": "The UK has finally shown it’s serious about crypto",
+      "url": "https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-11T15:00:00+00:00",
+      "raw_text": "The UK has finally shown it’s serious about crypto",
+      "impact": {}
+    },
     {
       "event_id": "638c3837-3f4e-42bf-b90c-e30559db81e6",
       "source": "rss:cointelegraph",
@@ -32,10 +68,16 @@
       "url": "https://cointelegraph.com/markets/ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1800?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-07-11T12:55:18+00:00",
       "raw_text": "Ethereum climbs 3% on tokenization boom: Can bulls push ETH price past $1,800?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum climbs 3% on tokenization boom: Can bulls push ETH price past $1,800?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.7263,
+        "t_plus_15m": -0.7562,
+        "t_plus_1h": -0.5596
+      }
     },
     {
       "event_id": "66198c2a-dba8-41f9-a4df-008bc8447775",
@@ -44,10 +86,16 @@
       "url": "https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-11T12:25:05+00:00",
       "raw_text": "Bitcoin treasury company Empery Digital sold about half of its BTC stack",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.3392,
+        "t_plus_15m": -0.3856,
+        "t_plus_1h": -0.298
+      }
     },
     {
       "event_id": "f3a268ea-2612-41e1-a2ee-afc14a27e76f",
@@ -80,10 +128,17 @@
       "url": "https://cointelegraph.com/markets/bitcoin-price-gains-nearly-10-in-july-but-traders-still-see-btc-copying-2022-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-11T11:21:07+00:00",
       "raw_text": "Bitcoin price gains nearly 10% in July, but traders still see BTC copying 2022 bear market\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price gains nearly 10% in July, but traders still see BTC copying 2022 bear market\" class=\"type:primaryImage\" src=\"https://s3-im",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.3544,
+        "t_plus_15m": -0.3636,
+        "t_plus_1h": -0.3258,
+        "t_plus_4h": 0.0444
+      }
     },
     {
       "event_id": "dac03e48-b45e-42e6-aabd-11aa0378535a",
@@ -6436,74 +6491,31 @@
       "timestamp_utc": "2026-07-03T19:18:59+00:00",
       "raw_text": "This sanctioned Russian stablecoin claims it processes billions, but blockchain analysts disagree",
       "impact": {}
-    },
-    {
-      "event_id": "5721ce36-11b2-41e7-8ff0-3aaf80225e9e",
-      "source": "rss:decrypt",
-      "title": "Zcash Ironwood Upgrade Nears as Developers Work to Restore Confidence After ZEC Crash",
-      "url": "https://decrypt.co/372738/zcash-ironwood-upgrade-developers-restore-confidence-zec-crash",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-03T17:56:03+00:00",
-      "raw_text": "Zcash Ironwood Upgrade Nears as Developers Work to Restore Confidence After ZEC Crash\n\nDevelopers say security testing has uncovered no new serious bugs as Zcash's Ironwood upgrade moves toward testnet activation.",
-      "impact": {}
-    },
-    {
-      "event_id": "0747a0e3-dfc1-48f2-8724-b180dd8578a9",
-      "source": "rss:theblock",
-      "title": "CryptoQuant says bitcoin and altcoin exchange deposits have spiked, indicating higher volatility ahead",
-      "url": "https://www.theblock.co/post/407160/cryptoquant-bitcoin-ether-altcoin-exchange-deposits-volatility?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-03T17:55:56+00:00",
-      "raw_text": "CryptoQuant says bitcoin and altcoin exchange deposits have spiked, indicating higher volatility ahead\n\n<p>Bitcoin deposits to exchanges recently climbed to nearly 49,000 BTC, \"a rare extreme\" seen only four other times this year, CryptoQuant said.</p>\n\n<p>Bitcoin deposits to exchanges recently clim",
-      "impact": {
-        "t_plus_5m": -0.0304,
-        "t_plus_15m": -0.1124,
-        "t_plus_1h": 0.0096,
-        "t_plus_4h": 0.8732
-      }
-    },
-    {
-      "event_id": "531f012f-63f2-475a-8a1a-0518e90b5f3e",
-      "source": "rss:decrypt",
-      "title": "'Every Time I Buy It, It Tanks': Dave Portnoy Says He's Losing Millions as Bitcoin Falls",
-      "url": "https://decrypt.co/372737/dave-portnoy-losing-millions-bitcoin-falls",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-03T17:13:43+00:00",
-      "raw_text": "'Every Time I Buy It, It Tanks': Dave Portnoy Says He's Losing Millions as Bitcoin Falls\n\nBarstool Sports founder Dave Portnoy says he's down millions on Bitcoin, but he's intent on holding this time—even if it falls to zero.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
         "count": 199,
-        "avg_1h": 0.11,
+        "avg_1h": 0.07,
         "avg_24h": 0.74,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 176,
-        "avg_1h": -0.04,
-        "avg_24h": 0.44,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 24,
+        "count": 25,
         "avg_1h": -0.23,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
+      "unknown": {
+        "count": 176,
+        "avg_1h": -0.05,
+        "avg_24h": 0.44,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 95,
-        "avg_1h": 0.13,
+        "count": 94,
+        "avg_1h": 0.1,
         "avg_24h": 0.99,
         "win_rate_1h_gt5pct": 0.0
       },
