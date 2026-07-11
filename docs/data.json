@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-11T08:56:33.845191+00:00",
+  "generated_at": "2026-07-11T10:22:59.240799+00:00",
   "events": [
+    {
+      "event_id": "dac03e48-b45e-42e6-aabd-11aa0378535a",
+      "source": "rss:cointelegraph",
+      "title": "Dollar stablecoins could improve FX access but amplify currency runs: IMF paper",
+      "url": "https://cointelegraph.com/news/imf-stablecoins-fx-access-currency-runs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-11T09:14:12+00:00",
+      "raw_text": "Dollar stablecoins could improve FX access but amplify currency runs: IMF paper\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Dollar stablecoins could improve FX access but amplify currency runs: IMF paper\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/",
+      "impact": {}
+    },
     {
       "event_id": "d867f960-0af7-4f93-bcdc-8fc1602c05ae",
       "source": "rss:cointelegraph",
@@ -6467,22 +6479,16 @@
       "timestamp_utc": "2026-07-03T14:32:02+00:00",
       "raw_text": "Grvt and the Rise of Composable Onchain Wealth\n\n<p>Perp DEX Market Overview  Perp DEX sector growth  Perpetual futures have become the dominant instrument in crypto derivatives markets, with the decentralized venues offering them becoming the fastest-growing sector in Web3. Figure 1: Perp DEX share ",
       "impact": {}
-    },
-    {
-      "event_id": "0d57f46a-29de-4d81-a3ed-83357119bc6c",
-      "source": "rss:cointelegraph",
-      "title": "EU crypto rulebook faces enforcement challenge as MiCA transition ends",
-      "url": "https://cointelegraph.com/news/eu-crypto-rulebook-enforcement-challenge-mica-transition-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-03T13:59:16+00:00",
-      "raw_text": "EU crypto rulebook faces enforcement challenge as MiCA transition ends\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EU crypto rulebook faces enforcement challenge as MiCA transition ends\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 174,
+        "avg_1h": -0.04,
+        "avg_24h": 0.44,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 199,
         "avg_1h": 0.11,
@@ -6490,15 +6496,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 98,
+        "count": 97,
         "avg_1h": 0.13,
         "avg_24h": 0.99,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 173,
-        "avg_1h": -0.04,
-        "avg_24h": 0.44,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
