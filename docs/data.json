@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-11T17:10:59.838304+00:00",
+  "generated_at": "2026-07-11T19:21:28.397707+00:00",
   "events": [
+    {
+      "event_id": "5992933f-3304-4131-bc25-6bc2a0037eed",
+      "source": "rss:coindesk",
+      "title": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
+      "url": "https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-11T18:06:58+00:00",
+      "raw_text": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
+      "impact": {}
+    },
+    {
+      "event_id": "32bc8195-e837-4dd5-af2a-e0454c004a3d",
+      "source": "rss:coindesk",
+      "title": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
+      "url": "https://www.coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-11T17:07:24+00:00",
+      "raw_text": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
+      "impact": {}
+    },
     {
       "event_id": "b47eb71b-c314-4b6c-82c6-9654aa5f60fb",
       "source": "rss:decrypt",
@@ -76,7 +100,8 @@
       "impact": {
         "t_plus_5m": -0.7263,
         "t_plus_15m": -0.7562,
-        "t_plus_1h": -0.5596
+        "t_plus_1h": -0.5596,
+        "t_plus_4h": 0.3629
       }
     },
     {
@@ -94,7 +119,8 @@
       "impact": {
         "t_plus_5m": -0.3392,
         "t_plus_15m": -0.3856,
-        "t_plus_1h": -0.298
+        "t_plus_1h": -0.298,
+        "t_plus_4h": -0.2928
       }
     },
     {
@@ -6467,44 +6493,20 @@
       "timestamp_utc": "2026-07-03T21:03:33+00:00",
       "raw_text": "Senator Gillibrand Seeks to Ban Trump, Elected Officials From Launching Meme Coins\n\nAfter President Trump disclosed over $1 billion in crypto-related earnings, Senator Kirsten Gillibrand is calling for a meme coin ban.",
       "impact": {}
-    },
-    {
-      "event_id": "ada031fe-50d2-4b87-bd05-a42cb8565b75",
-      "source": "rss:cointelegraph",
-      "title": "US senator calls for ban on elected officials issuing memecoins",
-      "url": "https://cointelegraph.com/news/us-senator-ban-elected-officials-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-03T19:26:21+00:00",
-      "raw_text": "US senator calls for ban on elected officials issuing memecoins\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US senator calls for ban on elected officials issuing memecoins\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/trump-memecoin-1.",
-      "impact": {}
-    },
-    {
-      "event_id": "f3cafa92-189a-42b7-b1e3-33cce5eea134",
-      "source": "rss:coindesk",
-      "title": "This sanctioned Russian stablecoin claims it processes billions, but blockchain analysts disagree",
-      "url": "https://www.coindesk.com/business/2026/07/03/this-sanctioned-russian-stablecoin-claims-it-processes-billions-but-blockchain-analysts-disagree",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-03T19:18:59+00:00",
-      "raw_text": "This sanctioned Russian stablecoin claims it processes billions, but blockchain analysts disagree",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 199,
-        "avg_1h": 0.07,
-        "avg_24h": 0.74,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 25,
+        "count": 26,
         "avg_1h": -0.23,
         "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 198,
+        "avg_1h": 0.07,
+        "avg_24h": 0.74,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
