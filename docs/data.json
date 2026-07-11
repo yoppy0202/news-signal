@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-10T22:13:19.259269+00:00",
+  "generated_at": "2026-07-11T00:07:07.840251+00:00",
   "events": [
+    {
+      "event_id": "c749ee83-f2ec-4cfd-b622-e3bb563ff858",
+      "source": "rss:decrypt",
+      "title": "Apple Sues OpenAI, Claims Former Employees Stole Trade Secrets",
+      "url": "https://decrypt.co/373339/apple-sues-openai-claims-former-employees-stole-trade-secrets",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-10T21:50:30+00:00",
+      "raw_text": "Apple Sues OpenAI, Claims Former Employees Stole Trade Secrets\n\nApple alleges former employees took confidential designs, supplier information, and engineering files before joining OpenAI.",
+      "impact": {}
+    },
     {
       "event_id": "02fd9159-8d8e-40f2-b177-c35e61432581",
       "source": "rss:coindesk",
@@ -112,7 +124,8 @@
       "impact": {
         "t_plus_5m": 0.0155,
         "t_plus_15m": 0.1072,
-        "t_plus_1h": 0.3447
+        "t_plus_1h": 0.3447,
+        "t_plus_4h": 0.4737
       }
     },
     {
@@ -130,7 +143,8 @@
       "impact": {
         "t_plus_5m": -0.021,
         "t_plus_15m": 0.1457,
-        "t_plus_1h": 0.6971
+        "t_plus_1h": 0.6971,
+        "t_plus_4h": 0.8915
       }
     },
     {
@@ -6465,24 +6479,18 @@
       "timestamp_utc": "2026-07-03T12:23:47+00:00",
       "raw_text": "IMF says policy choices will determine whether tokenization strengthens or fragments the financial system\n\n<p>The IMF's Tobias Adrian said risks could shift from banks toward market infrastructure providers and smart contracts as tokenization expands.</p>\n\n<p>The IMF's Tobias Adrian said risks could",
       "impact": {}
-    },
-    {
-      "event_id": "4cb72bc0-8d30-46b5-a349-7459ace85742",
-      "source": "rss:coindesk",
-      "title": "Trump says there is ‘nothing wrong’ with family’s crypto windfall",
-      "url": "https://www.coindesk.com/policy/2026/07/03/trump-says-there-is-nothing-wrong-with-family-s-crypto-windfall",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-03T12:04:15+00:00",
-      "raw_text": "Trump says there is ‘nothing wrong’ with family’s crypto windfall",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 97,
+        "avg_1h": 0.13,
+        "avg_24h": 0.99,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 174,
+        "count": 173,
         "avg_1h": -0.04,
         "avg_24h": 0.44,
         "win_rate_1h_gt5pct": 0.0
@@ -6491,12 +6499,6 @@
         "count": 199,
         "avg_1h": 0.11,
         "avg_24h": 0.74,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 96,
-        "avg_1h": 0.13,
-        "avg_24h": 0.99,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
