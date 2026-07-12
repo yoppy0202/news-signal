@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-12T09:10:37.658391+00:00",
+  "generated_at": "2026-07-12T11:22:15.460589+00:00",
   "events": [
+    {
+      "event_id": "f2b72920-b3ac-4a8d-bd10-d9a08157c9b2",
+      "source": "rss:cointelegraph",
+      "title": "Cambridge study puts Ethereum near the lower end of PoS energy intensity",
+      "url": "https://cointelegraph.com/news/ethereum-pos-energy-intensity-cambridge-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-12T09:18:17+00:00",
+      "raw_text": "Cambridge study puts Ethereum near the lower end of PoS energy intensity\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cambridge study puts Ethereum near the lower end of PoS energy intensity\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
+      "impact": {}
+    },
     {
       "event_id": "af7aab53-dce9-474c-acd8-4d300138c2c4",
       "source": "rss:coindesk",
@@ -27,7 +39,8 @@
       "raw_text": "Ripple once weighed shutting down and handing XRP to shareholders, CEO says",
       "impact": {
         "t_plus_5m": 0.2164,
-        "t_plus_15m": 0.1804
+        "t_plus_15m": 0.1804,
+        "t_plus_1h": 0.4112
       }
     },
     {
@@ -6472,30 +6485,24 @@
       "timestamp_utc": "2026-07-04T06:48:42+00:00",
       "raw_text": "Bitcoin’s next parabolic run may need $1 trillion in fresh capital",
       "impact": {}
-    },
-    {
-      "event_id": "d12c63aa-9667-410d-b422-92c344effe3d",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin profit and loss ratio falls to 43-month low",
-      "url": "https://cointelegraph.com/news/bitcoin-realized-profit-loss-ratio-falls-to-lowest-level-since-2022-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-04T05:05:19+00:00",
-      "raw_text": "Bitcoin profit and loss ratio falls to 43-month low\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin profit and loss ratio falls to 43-month low\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/analytics-red-market-falling-drop-bitcoin",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 92,
+        "avg_1h": 0.08,
+        "avg_24h": 1.16,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 180,
-        "avg_1h": -0.05,
+        "avg_1h": -0.04,
         "avg_24h": 0.44,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 196,
+        "count": 195,
         "avg_1h": 0.08,
         "avg_24h": 0.94,
         "win_rate_1h_gt5pct": 0.0
@@ -6504,12 +6511,6 @@
         "count": 27,
         "avg_1h": -0.23,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 91,
-        "avg_1h": 0.08,
-        "avg_24h": 1.16,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
