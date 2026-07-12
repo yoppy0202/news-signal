@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-12T17:12:36.190794+00:00",
+  "generated_at": "2026-07-12T19:20:16.194270+00:00",
   "events": [
+    {
+      "event_id": "08ae6d2a-8985-4ad6-bbcd-a5365d2ef99a",
+      "source": "rss:coindesk",
+      "title": "Signs of life?: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/07/12/signs-of-life-state-of-crypto",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-12T18:30:00+00:00",
+      "raw_text": "Signs of life?: State of Crypto",
+      "impact": {}
+    },
+    {
+      "event_id": "ea319307-72b2-4e84-8960-1575203cc9e6",
+      "source": "rss:cointelegraph",
+      "title": "Strategy's Saylor needs clarity in BTC pivot message to convince investors: StanChart",
+      "url": "https://cointelegraph.com/news/strategys-saylor-needs-clarity-in-btc-pivot-message-to-convince-investors-stanchart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-12T18:16:45+00:00",
+      "raw_text": "Strategy's Saylor needs clarity in BTC pivot message to convince investors: StanChart\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy's Saylor needs clarity in BTC pivot message to convince investors: StanChart\" class=\"type:primaryImage\" src=\"https://s3-images.ctmed",
+      "impact": {}
+    },
     {
       "event_id": "e8c16228-5b8d-4e2f-88ec-23bd56efda99",
       "source": "rss:decrypt",
@@ -123,10 +147,17 @@
       "url": "https://cointelegraph.com/news/empery-digital-shares-rise-after-selling-bitcoin-treasury-to-fund-ai-data-center-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-12T01:05:00+00:00",
       "raw_text": "Empery Digital shares rise after selling BTC to fund AI data center project\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Empery Digital shares rise after selling BTC to fund AI data center project\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.3602,
+        "t_plus_15m": -0.2868,
+        "t_plus_1h": -0.1065,
+        "t_plus_4h": -0.2364
+      }
     },
     {
       "event_id": "9d916642-06aa-4420-af4f-d58616a4430e",
@@ -6441,52 +6472,20 @@
       "timestamp_utc": "2026-07-04T14:00:00+00:00",
       "raw_text": "Europe led on crypto regulation. Now implementation must match ambition",
       "impact": {}
-    },
-    {
-      "event_id": "348d48cc-4d6a-4ba3-98c6-1e310c858ba7",
-      "source": "rss:coindesk",
-      "title": "EU moves to block retail investors from explosive boom of multibillion-dollar prediction markets",
-      "url": "https://www.coindesk.com/policy/2026/07/04/eu-moves-to-block-retail-investors-from-explosive-boom-of-multibillion-dollar-prediction-markets",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-04T13:56:27+00:00",
-      "raw_text": "EU moves to block retail investors from explosive boom of multibillion-dollar prediction markets",
-      "impact": {}
-    },
-    {
-      "event_id": "61bfbc99-23fa-4691-b645-26a784a2e1ca",
-      "source": "rss:cointelegraph",
-      "title": "Bollinger Bands creator eyes Bitcoin bear-market end, 'W'-shaped reversal",
-      "url": "https://cointelegraph.com/markets/bollinger-bands-creator-eyes-bitcoin-bear-market-end-w-shaped-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-04T13:09:16+00:00",
-      "raw_text": "Bollinger Bands creator eyes Bitcoin bear-market end, 'W'-shaped reversal\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bollinger Bands creator eyes Bitcoin bear-market end, 'W'-shaped reversal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
-      "impact": {
-        "t_plus_5m": 0.0561,
-        "t_plus_15m": 0.1673,
-        "t_plus_1h": 0.1002,
-        "t_plus_4h": 0.572,
-        "t_plus_24h": 0.2259
-      }
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 195,
-        "avg_1h": 0.1,
-        "avg_24h": 0.78,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 180,
+        "count": 182,
         "avg_1h": -0.04,
         "avg_24h": 0.42,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 193,
+        "avg_1h": 0.09,
+        "avg_24h": 0.92,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
