@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-12T21:02:55.947392+00:00",
+  "generated_at": "2026-07-12T22:03:57.576319+00:00",
   "events": [
+    {
+      "event_id": "e7973701-6b4b-46f5-8d1e-ec6d5d45859c",
+      "source": "rss:theblock",
+      "title": "Crypto fatwa sparks debate over Pakistan’s digital asset framework",
+      "url": "https://www.theblock.co/post/407969/crypto-fatwa-sparks-debate-over-pakistans-digital-asset-framework?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-12T21:23:57+00:00",
+      "raw_text": "Crypto fatwa sparks debate over Pakistan’s digital asset framework\n\n<p>Pakistan’s crypto regulator held talks with prominent Islamic scholar Mufti Taqi Usmani after a fatwa declared crypto purchases impermissible under Islam.</p>\n\n<p>Pakistan’s crypto regulator held talks with prominent Islamic scho",
+      "impact": {}
+    },
     {
       "event_id": "9b62e12e-7a4b-4c8f-b8ab-440aaf8416c8",
       "source": "rss:theblock",
@@ -8,10 +20,16 @@
       "url": "https://www.theblock.co/post/407965/michael-saylor-posts-cryptic-strategy-chart-after-216-million-bitcoin-sale-orange-dots-tell-only-part-of-the-story?utm_source=rss&utm_medium=rss",
       "event_type": "narrative",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-12T18:43:15+00:00",
       "raw_text": "Michael Saylor posts cryptic Strategy chart after $216 million bitcoin sale: ‘Orange dots tell only part of the story’\n\n<p>Strategy holds 843,775 BTC at an average cost of $75,476, leaving the position roughly $9.7 billion underwater with bitcoin trading near $64,000.</p>\n\n<p>Strategy holds 843,775 ",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0566,
+        "t_plus_15m": -0.0324,
+        "t_plus_1h": -0.0171
+      }
     },
     {
       "event_id": "08ae6d2a-8985-4ad6-bbcd-a5365d2ef99a",
@@ -6466,32 +6484,20 @@
       "timestamp_utc": "2026-07-04T15:30:52+00:00",
       "raw_text": "Trump's crypto token buyers are down $3.8 billion, blockchain data shows",
       "impact": {}
-    },
-    {
-      "event_id": "c7951b7f-c0fb-405a-9c12-3491b68eb8c8",
-      "source": "rss:decrypt",
-      "title": "Inside the Trading Engine Behind ChangeNOW’s ‘Fast, Seamless Swaps’",
-      "url": "https://decrypt.co/372679/inside-the-trading-engine-behind-changenows-fast-seamless-swaps",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-04T14:01:03+00:00",
-      "raw_text": "Inside the Trading Engine Behind ChangeNOW’s ‘Fast, Seamless Swaps’\n\nChangeNOW CSO Pauline Shangett digs into the infrastructure underpinning the exchange’s simple, streamlined frontend.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 194,
-        "avg_1h": 0.09,
-        "avg_24h": 0.92,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
         "count": 182,
         "avg_1h": -0.03,
         "avg_24h": 0.42,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 194,
+        "avg_1h": 0.08,
+        "avg_24h": 0.92,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
