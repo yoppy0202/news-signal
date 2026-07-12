@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T15:10:39.474224+00:00",
+  "generated_at": "2026-07-12T17:12:36.190794+00:00",
   "events": [
     {
       "event_id": "e8c16228-5b8d-4e2f-88ec-23bd56efda99",
@@ -114,6 +114,18 @@
       "tokens": [],
       "timestamp_utc": "2026-07-12T04:24:36+00:00",
       "raw_text": "Bitcoin bulls Michael Saylor, Adam Back slam BIP-110 Ordinals proposal\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin bulls Michael Saylor, Adam Back slam BIP-110 Ordinals proposal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-",
+      "impact": {}
+    },
+    {
+      "event_id": "23d1cf97-87b8-41e6-ba27-9cbb61e5e170",
+      "source": "rss:cointelegraph",
+      "title": "Empery Digital shares rise after selling BTC to fund AI data center project",
+      "url": "https://cointelegraph.com/news/empery-digital-shares-rise-after-selling-bitcoin-treasury-to-fund-ai-data-center-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-12T01:05:00+00:00",
+      "raw_text": "Empery Digital shares rise after selling BTC to fund AI data center project\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Empery Digital shares rise after selling BTC to fund AI data center project\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-",
       "impact": {}
     },
     {
@@ -6461,30 +6473,18 @@
         "t_plus_4h": 0.572,
         "t_plus_24h": 0.2259
       }
-    },
-    {
-      "event_id": "3d269350-ade0-4e7b-b2c0-26021dc08b0c",
-      "source": "rss:coindesk",
-      "title": "UK's bold new crypto rules promise to unlock global trading, but huge compliance hurdles still threaten the rollout",
-      "url": "https://www.coindesk.com/policy/2026/07/04/uk-s-bold-new-crypto-rules-promise-to-unlock-global-trading-but-huge-compliance-hurdles-still-threaten-the-rollout",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-04T12:00:00+00:00",
-      "raw_text": "UK's bold new crypto rules promise to unlock global trading, but huge compliance hurdles still threaten the rollout",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 194,
+        "count": 195,
         "avg_1h": 0.1,
         "avg_24h": 0.78,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 181,
+        "count": 180,
         "avg_1h": -0.04,
         "avg_24h": 0.42,
         "win_rate_1h_gt5pct": 0.0
