@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-12T19:20:16.194270+00:00",
+  "generated_at": "2026-07-12T21:02:55.947392+00:00",
   "events": [
+    {
+      "event_id": "9b62e12e-7a4b-4c8f-b8ab-440aaf8416c8",
+      "source": "rss:theblock",
+      "title": "Michael Saylor posts cryptic Strategy chart after $216 million bitcoin sale: ‘Orange dots tell only part of the story’",
+      "url": "https://www.theblock.co/post/407965/michael-saylor-posts-cryptic-strategy-chart-after-216-million-bitcoin-sale-orange-dots-tell-only-part-of-the-story?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-12T18:43:15+00:00",
+      "raw_text": "Michael Saylor posts cryptic Strategy chart after $216 million bitcoin sale: ‘Orange dots tell only part of the story’\n\n<p>Strategy holds 843,775 BTC at an average cost of $75,476, leaving the position roughly $9.7 billion underwater with bitcoin trading near $64,000.</p>\n\n<p>Strategy holds 843,775 ",
+      "impact": {}
+    },
     {
       "event_id": "08ae6d2a-8985-4ad6-bbcd-a5365d2ef99a",
       "source": "rss:coindesk",
@@ -20,10 +32,16 @@
       "url": "https://cointelegraph.com/news/strategys-saylor-needs-clarity-in-btc-pivot-message-to-convince-investors-stanchart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-12T18:16:45+00:00",
       "raw_text": "Strategy's Saylor needs clarity in BTC pivot message to convince investors: StanChart\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy's Saylor needs clarity in BTC pivot message to convince investors: StanChart\" class=\"type:primaryImage\" src=\"https://s3-images.ctmed",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0599,
+        "t_plus_15m": -0.0117,
+        "t_plus_1h": 0.1832
+      }
     },
     {
       "event_id": "e8c16228-5b8d-4e2f-88ec-23bd56efda99",
@@ -6460,36 +6478,24 @@
       "timestamp_utc": "2026-07-04T14:01:03+00:00",
       "raw_text": "Inside the Trading Engine Behind ChangeNOW’s ‘Fast, Seamless Swaps’\n\nChangeNOW CSO Pauline Shangett digs into the infrastructure underpinning the exchange’s simple, streamlined frontend.",
       "impact": {}
-    },
-    {
-      "event_id": "9c1f2d1f-ab91-4ed1-9542-d40afacc181e",
-      "source": "rss:coindesk",
-      "title": "Europe led on crypto regulation. Now implementation must match ambition",
-      "url": "https://www.coindesk.com/opinion/2026/07/04/europe-led-on-crypto-regulation-now-implementation-must-match-ambition",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-04T14:00:00+00:00",
-      "raw_text": "Europe led on crypto regulation. Now implementation must match ambition",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 182,
-        "avg_1h": -0.04,
-        "avg_24h": 0.42,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 193,
+        "count": 194,
         "avg_1h": 0.09,
         "avg_24h": 0.92,
         "win_rate_1h_gt5pct": 0.0
       },
+      "unknown": {
+        "count": 182,
+        "avg_1h": -0.03,
+        "avg_24h": 0.42,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 92,
+        "count": 91,
         "avg_1h": 0.08,
         "avg_24h": 0.66,
         "win_rate_1h_gt5pct": 0.0
