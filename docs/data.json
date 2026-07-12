@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T06:44:06.583461+00:00",
+  "generated_at": "2026-07-12T09:10:37.658391+00:00",
   "events": [
     {
       "event_id": "af7aab53-dce9-474c-acd8-4d300138c2c4",
@@ -20,10 +20,15 @@
       "url": "https://www.coindesk.com/markets/2026/07/12/ripple-once-weighed-shutting-down-and-handing-xrp-to-shareholders-ceo-says",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-07-12T06:09:49+00:00",
       "raw_text": "Ripple once weighed shutting down and handing XRP to shareholders, CEO says",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2164,
+        "t_plus_15m": 0.1804
+      }
     },
     {
       "event_id": "80bf910d-3bf4-4139-a8cd-30d7aa896265",
