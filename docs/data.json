@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-12T11:22:15.460589+00:00",
+  "generated_at": "2026-07-12T13:50:23.902216+00:00",
   "events": [
+    {
+      "event_id": "8c750f6d-6c43-4d51-9bab-c1b0a52bd208",
+      "source": "rss:cointelegraph",
+      "title": "Pakistan crypto chief seeks dialogue after scholar rules against crypto payments",
+      "url": "https://cointelegraph.com/news/pakistan-crypto-chief-dialogue-islamic-ruling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-12T12:26:09+00:00",
+      "raw_text": "Pakistan crypto chief seeks dialogue after scholar rules against crypto payments\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Pakistan crypto chief seeks dialogue after scholar rules against crypto payments\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
+      "impact": {}
+    },
+    {
+      "event_id": "fbc94a79-65a2-4286-92eb-75ed0401bd5d",
+      "source": "rss:coindesk",
+      "title": "Bitcoin is nearing a power law support line Fidelity has tracked since 2015",
+      "url": "https://www.coindesk.com/markets/2026/07/12/bitcoin-is-nearing-a-power-law-support-line-fidelity-has-tracked-since-2015",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-12T11:30:00+00:00",
+      "raw_text": "Bitcoin is nearing a power law support line Fidelity has tracked since 2015",
+      "impact": {}
+    },
     {
       "event_id": "f2b72920-b3ac-4a8d-bd10-d9a08157c9b2",
       "source": "rss:cointelegraph",
@@ -40,7 +64,8 @@
       "impact": {
         "t_plus_5m": 0.2164,
         "t_plus_15m": 0.1804,
-        "t_plus_1h": 0.4112
+        "t_plus_1h": 0.4112,
+        "t_plus_4h": 0.5965
       }
     },
     {
@@ -6453,58 +6478,26 @@
         "t_plus_4h": -0.0458,
         "t_plus_24h": 0.5268
       }
-    },
-    {
-      "event_id": "b951a5e0-abb3-44b7-935d-8371ee58af3e",
-      "source": "rss:coindesk",
-      "title": "XRP climbs 8% as record holder losses signal better risk-reward for buyers",
-      "url": "https://www.coindesk.com/markets/2026/07/04/xrp-climbs-8-as-one-onchain-gauge-signal-shows-favorable-risk-reward-for-buyers",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-07-04T07:08:00+00:00",
-      "raw_text": "XRP climbs 8% as record holder losses signal better risk-reward for buyers",
-      "impact": {
-        "t_plus_5m": -0.3954,
-        "t_plus_15m": -0.4493,
-        "t_plus_1h": 0.0612,
-        "t_plus_4h": 0.1581,
-        "t_plus_24h": -0.2102
-      }
-    },
-    {
-      "event_id": "8f472eee-634d-47d1-91bb-5e8e4941c72b",
-      "source": "rss:coindesk",
-      "title": "Bitcoin’s next parabolic run may need $1 trillion in fresh capital",
-      "url": "https://www.coindesk.com/markets/2026/07/04/bitcoin-s-next-parabolic-run-may-need-usd1-trillion-in-fresh-capital",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-04T06:48:42+00:00",
-      "raw_text": "Bitcoin’s next parabolic run may need $1 trillion in fresh capital",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 196,
+        "avg_1h": 0.08,
+        "avg_24h": 0.94,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 179,
+        "avg_1h": -0.04,
+        "avg_24h": 0.51,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 92,
         "avg_1h": 0.08,
         "avg_24h": 1.16,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 180,
-        "avg_1h": -0.04,
-        "avg_24h": 0.44,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 195,
-        "avg_1h": 0.08,
-        "avg_24h": 0.94,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
