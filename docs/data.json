@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-13T07:33:34.281732+00:00",
+  "generated_at": "2026-07-13T11:26:23.571671+00:00",
   "events": [
+    {
+      "event_id": "3fd63e98-9748-4aaf-85cb-9237afd4fa27",
+      "source": "rss:theblock",
+      "title": "Japan’s SBI Group to launch JPYSC stablecoin lending service this month",
+      "url": "https://www.theblock.co/post/407988/sbi-jpysc-stablecoin-lending?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-13T07:22:28+00:00",
+      "raw_text": "Japan’s SBI Group to launch JPYSC stablecoin lending service this month\n\n<p>The SBI's service would offer users a 3% annual yield for deposited JPYSC stablecoins, according to Nikkei.</p>\n\n<p>The SBI's service would offer users a 3% annual yield for deposited JPYSC stablecoins, according to Nikkei.<",
+      "impact": {}
+    },
+    {
+      "event_id": "0878966d-21e0-4108-960c-35abbd44bb59",
+      "source": "rss:coindesk",
+      "title": "Live markets: Bitcoin slips below $63,000 in an Asian-session leverage flush",
+      "url": "https://www.coindesk.com/markets/2026/07/13/bitcoin-slips-below-usd63-000-in-an-asian-session-leverage-flush",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-13T06:52:28+00:00",
+      "raw_text": "Live markets: Bitcoin slips below $63,000 in an Asian-session leverage flush",
+      "impact": {}
+    },
+    {
+      "event_id": "7d9832a4-4ac1-47a5-8b52-a34b5c0ca527",
+      "source": "rss:cointelegraph",
+      "title": "AI microbusinesses could drive $262B in stablecoin volume by 2033: Swyftx",
+      "url": "https://cointelegraph.com/news/ai-enabled-businesses-freelancers-could-add-262b-in-stablecoin-volumes-swyftx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-13T05:24:22+00:00",
+      "raw_text": "AI microbusinesses could drive $262B in stablecoin volume by 2033: Swyftx\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"AI microbusinesses could drive $262B in stablecoin volume by 2033: Swyftx\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
+      "impact": {}
+    },
     {
       "event_id": "ce004d3e-d92e-4f10-8879-e07c0d70f6db",
       "source": "rss:coindesk",
@@ -11,6 +47,18 @@
       "tokens": [],
       "timestamp_utc": "2026-07-13T04:48:11+00:00",
       "raw_text": "Bitcoin holds near $63,800 as war-driven selloff hits everything but crypto",
+      "impact": {}
+    },
+    {
+      "event_id": "7007e82d-ad59-4f1e-9e7c-03ea93da1e9f",
+      "source": "rss:cointelegraph",
+      "title": "Bank of Thailand targets USDT and cash flows in gray money crackdown",
+      "url": "https://cointelegraph.com/news/thailand-targets-stablecoins-in-latest-laundering-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-13T04:43:50+00:00",
+      "raw_text": "Bank of Thailand targets USDT and cash flows in gray money crackdown\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bank of Thailand targets USDT and cash flows in gray money crackdown\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-u-ba",
       "impact": {}
     },
     {
@@ -44,10 +92,17 @@
       "url": "https://www.theblock.co/post/407973/bitcoin-whale-moves-188-million-worth-btc?utm_source=rss&utm_medium=rss",
       "event_type": "whale_move",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-13T02:12:25+00:00",
       "raw_text": "Bitcoin whale moves $188 million in BTC after seven-year dormancy: onchain data\n\n<p>The whale last moved bitcoin in 2018, when the cryptocurrency traded at roughly $6,475, reflecting nearly a tenfold gain since then.</p>\n\n<p>The whale last moved bitcoin in 2018, when the cryptocurrency traded at rou",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 1.2197,
+        "t_plus_15m": 1.1705,
+        "t_plus_1h": 0.5974,
+        "t_plus_4h": 0.1275
+      }
     },
     {
       "event_id": "9f8d16ce-7432-42dc-9370-883b3aa704f5",
@@ -191,6 +246,18 @@
       "impact": {}
     },
     {
+      "event_id": "1f8bfbdf-d5c1-4d1b-b9e5-be5804d7a1f4",
+      "source": "rss:cointelegraph",
+      "title": "Cambridge study puts Ethereum near lower end of PoS energy intensity",
+      "url": "https://cointelegraph.com/news/ethereum-pos-energy-intensity-cambridge-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-12T09:29:00+00:00",
+      "raw_text": "Cambridge study puts Ethereum near lower end of PoS energy intensity\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cambridge study puts Ethereum near lower end of PoS energy intensity\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-germ",
+      "impact": {}
+    },
+    {
       "event_id": "f2b72920-b3ac-4a8d-bd10-d9a08157c9b2",
       "source": "rss:cointelegraph",
       "title": "Cambridge study puts Ethereum near the lower end of PoS energy intensity",
@@ -230,7 +297,8 @@
         "t_plus_5m": 0.2164,
         "t_plus_15m": 0.1804,
         "t_plus_1h": 0.4112,
-        "t_plus_4h": 0.5965
+        "t_plus_4h": 0.5965,
+        "t_plus_24h": -1.005
       }
     },
     {
@@ -6434,79 +6502,25 @@
       "timestamp_utc": "2026-07-04T20:00:00+00:00",
       "raw_text": "Tokenization's next use case is personalized portfolios, NYLIM executive says",
       "impact": {}
-    },
-    {
-      "event_id": "07400618-16b0-494f-8afe-43258085d08d",
-      "source": "rss:cointelegraph",
-      "title": "Kraken lets traders use tokenized stocks as collateral for leveraged trades",
-      "url": "https://cointelegraph.com/news/kraken-lets-traders-use-tokenized-stocks-as-collateral-for-leveraged-trades?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-04T19:37:11+00:00",
-      "raw_text": "Kraken lets traders use tokenized stocks as collateral for leveraged trades\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken lets traders use tokenized stocks as collateral for leveraged trades\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-",
-      "impact": {}
-    },
-    {
-      "event_id": "598d7cb4-af1b-4155-aaa1-64754c44b3ef",
-      "source": "rss:coindesk",
-      "title": "Bitcoin jumps above $63,000, reversing end-June losses",
-      "url": "https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-04T18:07:17+00:00",
-      "raw_text": "Bitcoin jumps above $63,000, reversing end-June losses",
-      "impact": {}
-    },
-    {
-      "event_id": "462dab5d-2a0b-4213-b9f7-d6d319b9c60e",
-      "source": "rss:coindesk",
-      "title": "How ethical hackers with just a $3,000 server found a flaw that could've put $70 billion in crypto at risk",
-      "url": "https://www.coindesk.com/tech/2026/07/04/how-ethical-hackers-with-just-a-usd3-000-server-found-a-flaw-that-could-ve-put-usd70-billion-in-crypto-at-risk",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-04T18:00:00+00:00",
-      "raw_text": "How ethical hackers with just a $3,000 server found a flaw that could've put $70 billion in crypto at risk",
-      "impact": {}
-    },
-    {
-      "event_id": "1657ec4b-509c-48de-a278-053af19e7089",
-      "source": "rss:coindesk",
-      "title": "Bitcoin experts split over plan to freeze Satoshi's 1.1 million bitcoin as quantum threat grows",
-      "url": "https://www.coindesk.com/business/2026/07/04/bitcoin-experts-split-over-plan-to-freeze-satoshi-s-1-1-million-bitcoin-as-quantum-threat-grows",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-04T18:00:00+00:00",
-      "raw_text": "Bitcoin experts split over plan to freeze Satoshi's 1.1 million bitcoin as quantum threat grows",
-      "impact": {}
-    },
-    {
-      "event_id": "cf8784a5-3019-4e3f-b5f2-a2794a2d0790",
-      "source": "rss:decrypt",
-      "title": "Bitcoin to $53K? Exchange Deposits Jump as Analysts Warn of Increased Volatility",
-      "url": "https://decrypt.co/372744/bitcoin-53k-exchange-deposits-jump-analysts-warn-increased-volatility",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-04T16:57:08+00:00",
-      "raw_text": "Bitcoin to $53K? Exchange Deposits Jump as Analysts Warn of Increased Volatility\n\nBitcoin bounced back above $60,000 this week, but increased volatility might be on the way as crypto deposits to exchanges spike.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 183,
+        "count": 182,
         "avg_1h": -0.03,
-        "avg_24h": 0.42,
+        "avg_24h": 0.3,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 193,
+        "avg_1h": 0.17,
+        "avg_24h": 0.71,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
         "count": 2,
-        "avg_1h": -0.19,
+        "avg_1h": 0.2,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6516,14 +6530,8 @@
         "avg_24h": 0.66,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 191,
-        "avg_1h": 0.17,
-        "avg_24h": 0.71,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 27,
+        "count": 26,
         "avg_1h": -0.23,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
