@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T00:06:42.547672+00:00",
+  "generated_at": "2026-07-13T03:54:37.640674+00:00",
   "events": [
     {
       "event_id": "0ec41135-9531-4f57-b31b-94d07e4d2736",
@@ -8,10 +8,15 @@
       "url": "https://cointelegraph.com/features/ethereum-climbs-as-robinhood-l2-takes-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-07-12T23:24:26+00:00",
       "raw_text": "Robinhood L2 sparks ETH optimism, Saylor 'muddies waters.' Hodler's Digest, July 5-12, 2026\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Robinhood L2 sparks ETH optimism, Saylor 'muddies waters.' Hodler's Digest, July 5-12, 2026\" class=\"type:primaryImage\" src=\"https://s3-",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1411,
+        "t_plus_15m": -0.0558
+      }
     },
     {
       "event_id": "e7973701-6b4b-46f5-8d1e-ec6d5d45859c",
