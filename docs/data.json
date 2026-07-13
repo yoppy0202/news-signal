@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-13T21:10:04.268608+00:00",
+  "generated_at": "2026-07-13T22:08:36.346185+00:00",
   "events": [
+    {
+      "event_id": "58d2765c-3ffb-4ecd-8c4e-913b4463a4e5",
+      "source": "rss:cointelegraph",
+      "title": "Global law firm launches MiCA compliance tool as crypto companies navigate new EU rules",
+      "url": "https://cointelegraph.com/news/global-law-firm-mica-compliance-tool-crypto-companies-navigate-new-eu-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-13T21:40:32+00:00",
+      "raw_text": "Global law firm launches MiCA compliance tool as crypto companies navigate new EU rules\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Global law firm launches MiCA compliance tool as crypto companies navigate new EU rules\" class=\"type:primaryImage\" src=\"https://s3-images.c",
+      "impact": {}
+    },
+    {
+      "event_id": "89fb8385-8ca4-4e4b-957f-1ed79bf14b39",
+      "source": "rss:decrypt",
+      "title": "New Hampshire Follows Bitcoin Reserve With 'Blockchain Basic Laws' Signing",
+      "url": "https://decrypt.co/373424/new-hampshire-bitcoin-reserve-blockchain-basic-laws-signing",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-13T20:57:09+00:00",
+      "raw_text": "New Hampshire Follows Bitcoin Reserve With 'Blockchain Basic Laws' Signing\n\nNew Hampshire's newly-signed crypto law introduces protections for users, miners, and stakers within its boundaries.",
+      "impact": {}
+    },
     {
       "event_id": "7bd3bc06-28ad-484b-b2c6-84772153667d",
       "source": "rss:decrypt",
@@ -92,10 +116,16 @@
       "url": "https://bitcoinmagazine.com/markets/bitwise-sees-a-bottom-in-bitcoin",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-13T19:08:34+00:00",
       "raw_text": "Bitwise Sees a Bottom in Bitcoin’s Worst Vibes Yet: ‘Darkest Before the Dawn’\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Bitcoin-Backed-Loans-Could-Hit-1-Trillion-Ledn-Says-—-But-Most-Crypto-Hol",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2823,
+        "t_plus_15m": -0.3546,
+        "t_plus_1h": 0.0138
+      }
     },
     {
       "event_id": "972206b8-9440-41e4-a7c5-a151be9da82c",
@@ -6462,38 +6492,14 @@
       "timestamp_utc": "2026-07-06T14:12:15+00:00",
       "raw_text": "Bitcoin miner TeraWulf soars on a $19 billion AI data-center lease with Anthropic",
       "impact": {}
-    },
-    {
-      "event_id": "ec6e94f0-fe62-4481-9922-7a1481f9287f",
-      "source": "rss:theblock",
-      "title": "TeraWulf signs 20-year data center lease with Anthropic expected to generate $19 billion in revenue",
-      "url": "https://www.theblock.co/post/407282/terawulf-data-center-lease-anthropic-19-billion-revenue?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-06T14:02:39+00:00",
-      "raw_text": "TeraWulf signs 20-year data center lease with Anthropic expected to generate $19 billion in revenue\n\n<p>Anthropic will lease at TeraWulf's Justified Data site in Hawesville, Kentucky, which is expected to provide 401 MW of IT load.</p>\n\n<p>Anthropic will lease at TeraWulf's Justified Data site in Ha",
-      "impact": {}
-    },
-    {
-      "event_id": "335ca68b-85d0-4058-9a22-69c2e9e4ddfd",
-      "source": "rss:cointelegraph",
-      "title": "FCA warns of major shakeup as AI agents meet tokenized money",
-      "url": "https://cointelegraph.com/news/fca-warns-of-major-shakeup-as-ai-agents-meet-tokenized-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-06T13:50:06+00:00",
-      "raw_text": "FCA warns of major shakeup as AI agents meet tokenized money\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"FCA warns of major shakeup as AI agents meet tokenized money\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/millsreview.png\" /></p>",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 175,
-        "avg_1h": -0.04,
-        "avg_24h": -0.27,
+      "macro": {
+        "count": 100,
+        "avg_1h": 0.23,
+        "avg_24h": -0.65,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
@@ -6502,10 +6508,10 @@
         "avg_24h": 0.08,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 99,
-        "avg_1h": 0.25,
-        "avg_24h": -0.65,
+      "unknown": {
+        "count": 174,
+        "avg_1h": -0.04,
+        "avg_24h": -0.27,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
