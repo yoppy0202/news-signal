@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-13T22:08:36.346185+00:00",
+  "generated_at": "2026-07-13T23:11:00.517689+00:00",
   "events": [
+    {
+      "event_id": "38326bd1-7682-417a-92a2-09d5ccb6f5f0",
+      "source": "rss:decrypt",
+      "title": "Stop Over-Prompting: OpenAI’s New GPT-5.6 Guidelines Change Everything",
+      "url": "https://decrypt.co/373439/openai-new-gpt-5-6-prompt-guide-chatgpt",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-13T22:46:04+00:00",
+      "raw_text": "Stop Over-Prompting: OpenAI’s New GPT-5.6 Guidelines Change Everything\n\nForget the XML blocks and persistence scripts. OpenAI’s new prompting guide says define the destination, set the stopping conditions, and get out of the way.",
+      "impact": {}
+    },
+    {
+      "event_id": "ec2e13a2-556f-42c2-96b1-8459d3266692",
+      "source": "rss:decrypt",
+      "title": "Protesters March on OpenAI, Anthropic, and Google DeepMind Demanding AI Development Pause",
+      "url": "https://decrypt.co/373433/stop-ai-protest-openai-anthropic-google-deepmind",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-13T22:11:05+00:00",
+      "raw_text": "Protesters March on OpenAI, Anthropic, and Google DeepMind Demanding AI Development Pause\n\nAbout 200 protesters marched through San Francisco on Saturday, calling on leading AI companies to halt development of more powerful models over concerns about AI safety, jobs, and the environment.",
+      "impact": {}
+    },
+    {
+      "event_id": "f57b20e4-e489-4a85-8d40-d3288fffd2df",
+      "source": "rss:theblock",
+      "title": "Bitcoin and Ethereum tweet volume falls to 12-month lows despite institutional crypto boom",
+      "url": "https://www.theblock.co/post/408061/bitcoin-ethereum-tweet-volume-falls-12-month-lows-despite-institutional-crypto-boom?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-13T22:06:02+00:00",
+      "raw_text": "Bitcoin and Ethereum tweet volume falls to 12-month lows despite institutional crypto boom\n\n<p>Retail attention via social chatter is back to 2020 levels even as institutional involvement has moved in the opposite direction.</p>\n\n<p>Retail attention via social chatter is back to 2020 levels even as ",
+      "impact": {}
+    },
     {
       "event_id": "58d2765c-3ffb-4ecd-8c4e-913b4463a4e5",
       "source": "rss:cointelegraph",
@@ -6448,70 +6484,26 @@
       "timestamp_utc": "2026-07-06T14:40:59+00:00",
       "raw_text": "Russian-Sberbank Plans Crypto Wallet and Digital Depository by December\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Russian-Sberbank-Plans-Crypto-Wallet-and-Digital-Depository-by-December.jpg\" st",
       "impact": {}
-    },
-    {
-      "event_id": "3656d45c-4895-4638-b330-fdf4106cadc0",
-      "source": "rss:coindesk",
-      "title": "Securitize eyes acquisitions with $400 million war chest after going public, CEO says",
-      "url": "https://www.coindesk.com/business/2026/07/06/securitize-eyes-acquisitions-with-usd400-million-war-chest-after-going-public-ceo-says",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-06T14:25:32+00:00",
-      "raw_text": "Securitize eyes acquisitions with $400 million war chest after going public, CEO says",
-      "impact": {}
-    },
-    {
-      "event_id": "c9272505-b6f8-465e-95ea-3bd94296c6b5",
-      "source": "rss:theblock",
-      "title": "Bitmine’s Tom Lee ties ether strength to Clarity Act odds as treasury nears 5% of Ethereum’s total supply",
-      "url": "https://www.theblock.co/post/407283/bitmines-tom-lee-ties-ether-strength-to-clarity-act-odds-as-treasury-nears-5-of-ethereums-total-supply?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-07-06T14:15:48+00:00",
-      "raw_text": "Bitmine’s Tom Lee ties ether strength to Clarity Act odds as treasury nears 5% of Ethereum’s total supply\n\n<p>Bitmine acquired 42,197 ether worth an estimated $74 million last week, lifting its treasury to over 5.7 million ETH.</p>\n\n<p>Bitmine acquired 42,197 ether worth an estimated $74 million las",
-      "impact": {
-        "t_plus_5m": -2.6567,
-        "t_plus_15m": -2.2331,
-        "t_plus_1h": -1.7324,
-        "t_plus_4h": -0.2107,
-        "t_plus_24h": -1.2068
-      }
-    },
-    {
-      "event_id": "0b11ff10-78ae-4015-bc48-77a144c050f3",
-      "source": "rss:coindesk",
-      "title": "Bitcoin miner TeraWulf soars on a $19 billion AI data-center lease with Anthropic",
-      "url": "https://www.coindesk.com/markets/2026/07/06/bitcoin-miner-terawulf-soars-on-a-usd19-billion-ai-data-center-lease-with-anthropic",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-06T14:12:15+00:00",
-      "raw_text": "Bitcoin miner TeraWulf soars on a $19 billion AI data-center lease with Anthropic",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 100,
-        "avg_1h": 0.23,
-        "avg_24h": -0.65,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 195,
+        "count": 197,
         "avg_1h": 0.05,
         "avg_24h": 0.08,
         "win_rate_1h_gt5pct": 0.0
       },
+      "macro": {
+        "count": 99,
+        "avg_1h": 0.23,
+        "avg_24h": -0.65,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 174,
-        "avg_1h": -0.04,
-        "avg_24h": -0.27,
+        "count": 173,
+        "avg_1h": 0.03,
+        "avg_24h": -0.14,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
