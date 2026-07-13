@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-07-13T03:54:37.640674+00:00",
+  "generated_at": "2026-07-13T07:33:34.281732+00:00",
   "events": [
+    {
+      "event_id": "ce004d3e-d92e-4f10-8879-e07c0d70f6db",
+      "source": "rss:coindesk",
+      "title": "Bitcoin holds near $63,800 as war-driven selloff hits everything but crypto",
+      "url": "https://www.coindesk.com/markets/2026/07/13/bitcoin-holds-near-usd63-800-as-war-driven-selloff-hits-everything-but-crypto",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-13T04:48:11+00:00",
+      "raw_text": "Bitcoin holds near $63,800 as war-driven selloff hits everything but crypto",
+      "impact": {}
+    },
+    {
+      "event_id": "2c9ceccb-44d3-45d4-946c-502ceda9ce3f",
+      "source": "rss:theblock",
+      "title": "Japan’s Lawson convenience store pilots stablecoin payments with JPYC: report",
+      "url": "https://www.theblock.co/post/407982/lawson-pilots-jpyc-stablecoin?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-13T03:59:28+00:00",
+      "raw_text": "Japan’s Lawson convenience store pilots stablecoin payments with JPYC: report\n\n<p>This is part of a proof-of-concept involving telecommunications giant KDDI and crypto wallet firm HashPort.</p>\n\n<p>This is part of a proof-of-concept involving telecommunications giant KDDI and crypto wallet firm Hash",
+      "impact": {}
+    },
+    {
+      "event_id": "54b12812-55ca-44ab-8ab8-6339642e01e3",
+      "source": "rss:theblock",
+      "title": "The Funding: Why Japan’s SBI Holdings is investing big in crypto",
+      "url": "https://www.theblock.co/post/407977/the-funding-why-japan-sbi-holdings-is-investing-big-in-crypto?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-13T02:12:42+00:00",
+      "raw_text": "The Funding: Why Japan’s SBI Holdings is investing big in crypto\n\n<p>The Japanese financial giant's recent crypto deals offer insights into how traditional finance is approaching digital assets.</p>\n\n<p>The Japanese financial giant's recent crypto deals offer insights into how traditional finance is",
+      "impact": {}
+    },
+    {
+      "event_id": "aeaf66f3-0f7b-436f-b5fd-bbf5e94869c6",
+      "source": "rss:theblock",
+      "title": "Bitcoin whale moves $188 million in BTC after seven-year dormancy: onchain data",
+      "url": "https://www.theblock.co/post/407973/bitcoin-whale-moves-188-million-worth-btc?utm_source=rss&utm_medium=rss",
+      "event_type": "whale_move",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-13T02:12:25+00:00",
+      "raw_text": "Bitcoin whale moves $188 million in BTC after seven-year dormancy: onchain data\n\n<p>The whale last moved bitcoin in 2018, when the cryptocurrency traded at roughly $6,475, reflecting nearly a tenfold gain since then.</p>\n\n<p>The whale last moved bitcoin in 2018, when the cryptocurrency traded at rou",
+      "impact": {}
+    },
+    {
+      "event_id": "9f8d16ce-7432-42dc-9370-883b3aa704f5",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin ETFs draw $197M, snap 8-week outflow streak",
+      "url": "https://cointelegraph.com/news/bitcoin-etfs-draw-197m-snap-8-week-outflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-13T01:49:17+00:00",
+      "raw_text": "Bitcoin ETFs draw $197M, snap 8-week outflow streak\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs draw $197M, snap 8-week outflow streak\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-gold-etfs-or-shares-which-inve",
+      "impact": {}
+    },
     {
       "event_id": "0ec41135-9531-4f57-b31b-94d07e4d2736",
       "source": "rss:cointelegraph",
@@ -15,7 +75,9 @@
       "raw_text": "Robinhood L2 sparks ETH optimism, Saylor 'muddies waters.' Hodler's Digest, July 5-12, 2026\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Robinhood L2 sparks ETH optimism, Saylor 'muddies waters.' Hodler's Digest, July 5-12, 2026\" class=\"type:primaryImage\" src=\"https://s3-",
       "impact": {
         "t_plus_5m": -0.1411,
-        "t_plus_15m": -0.0558
+        "t_plus_15m": -0.0558,
+        "t_plus_1h": 1.6057,
+        "t_plus_4h": -0.9553
       }
     },
     {
@@ -211,7 +273,8 @@
         "t_plus_5m": -0.3602,
         "t_plus_15m": -0.2868,
         "t_plus_1h": -0.1065,
-        "t_plus_4h": -0.2364
+        "t_plus_4h": -0.2364,
+        "t_plus_24h": -0.1524
       }
     },
     {
@@ -6431,86 +6494,32 @@
       "timestamp_utc": "2026-07-04T16:57:08+00:00",
       "raw_text": "Bitcoin to $53K? Exchange Deposits Jump as Analysts Warn of Increased Volatility\n\nBitcoin bounced back above $60,000 this week, but increased volatility might be on the way as crypto deposits to exchanges spike.",
       "impact": {}
-    },
-    {
-      "event_id": "5b63d1cf-b165-4b35-8ca2-a268e467806f",
-      "source": "rss:cointelegraph",
-      "title": "Kalshi June trading volume tops $9B as World Cup fuels prediction markets",
-      "url": "https://cointelegraph.com/news/world-cup-drives-prediction-markets-to-record-june-trading-volumes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-04T16:50:00+00:00",
-      "raw_text": "Kalshi June trading volume tops $9B as World Cup fuels prediction markets\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi June trading volume tops $9B as World Cup fuels prediction markets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
-      "impact": {}
-    },
-    {
-      "event_id": "5b22e9db-3c46-4ffb-91a6-4820e3edbb85",
-      "source": "rss:cointelegraph",
-      "title": "Kalshi hits record June trading volume as World Cup fuels prediction markets",
-      "url": "https://cointelegraph.com/news/world-cup-drives-prediction-markets-to-record-june-trading-volumes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-04T16:47:27+00:00",
-      "raw_text": "Kalshi hits record June trading volume as World Cup fuels prediction markets\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi hits record June trading volume as World Cup fuels prediction markets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl",
-      "impact": {}
-    },
-    {
-      "event_id": "804e5ca6-8acc-4cdb-a4b1-cea8089e57c7",
-      "source": "rss:theblock",
-      "title": "Aave’s new Monad market tops $100 million in deposits two days after launch",
-      "url": "https://www.theblock.co/post/407167/aaves-new-monad-market-tops-100-million-in-deposits-two-days-after-launch?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-04T16:32:20+00:00",
-      "raw_text": "Aave’s new Monad market tops $100 million in deposits two days after launch\n\n<p>Aave's V4 deployment also crossed $250 million in deposits on Saturday, a new all-time high for that version of the protocol. </p>\n\n<p>Aave's V4 deployment also crossed $250 million in deposits on Saturday, a new all-tim",
-      "impact": {}
-    },
-    {
-      "event_id": "58e419df-f3af-4682-96c8-56ad4a109808",
-      "source": "rss:decrypt",
-      "title": "Perplexity Co-Founder: AI Safety Is an Excuse to Lock Down Frontier",
-      "url": "https://decrypt.co/372755/perplexity-co-founder-ai-safety-excuse-lock-down-frontier",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-04T16:07:19+00:00",
-      "raw_text": "Perplexity Co-Founder: AI Safety Is an Excuse to Lock Down Frontier\n\nAndy Konwinski used Anthropic's Fable 5 debacle as exhibit A in the case against letting a handful of private labs govern who gets to do AI research.",
-      "impact": {}
-    },
-    {
-      "event_id": "6e4e36b1-f84f-476a-b480-befc00a4eee8",
-      "source": "rss:coindesk",
-      "title": "Why bitcoin's disconnect from record-high stocks won't last",
-      "url": "https://www.coindesk.com/markets/2026/07/03/why-bitcoin-s-disconnect-from-record-high-stocks-won-t-last",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-04T16:00:00+00:00",
-      "raw_text": "Why bitcoin's disconnect from record-high stocks won't last",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 194,
-        "avg_1h": 0.08,
-        "avg_24h": 0.92,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 182,
+        "count": 183,
         "avg_1h": -0.03,
         "avg_24h": 0.42,
         "win_rate_1h_gt5pct": 0.0
       },
+      "whale_move": {
+        "count": 2,
+        "avg_1h": -0.19,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 91,
+        "count": 92,
         "avg_1h": 0.08,
         "avg_24h": 0.66,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 191,
+        "avg_1h": 0.17,
+        "avg_24h": 0.71,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
@@ -6523,12 +6532,6 @@
         "count": 5,
         "avg_1h": 0.52,
         "avg_24h": 0.89,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "whale_move": {
-        "count": 1,
-        "avg_1h": -0.19,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       }
     }
