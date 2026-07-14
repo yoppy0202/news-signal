@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-14T06:21:19.996676+00:00",
+  "generated_at": "2026-07-14T09:14:31.690889+00:00",
   "events": [
+    {
+      "event_id": "ae793859-fce7-47d2-8aa8-3f71f4b67510",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin holds $62,600 as the Iran conflict reignites and CPI looms",
+      "url": "https://www.coindesk.com/business/2026/07/14/live-updates-bitcoin-holds-usd62-600-as-the-iran-conflict-reignites-and-cpi-looms",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-14T06:55:24+00:00",
+      "raw_text": "Live updates: Bitcoin holds $62,600 as the Iran conflict reignites and CPI looms",
+      "impact": {}
+    },
+    {
+      "event_id": "5e7a4e8c-eeb5-47e7-b60e-83915da20206",
+      "source": "rss:theblock",
+      "title": "What Is RLUSD? Ripple’s XRP-Native Stablecoin Explained",
+      "url": "https://www.theblock.co/learn/408170/what-is-rlusd?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-14T06:53:47+00:00",
+      "raw_text": "What Is RLUSD? Ripple’s XRP-Native Stablecoin Explained\n\n<p>RLUSD is a regulated stablecoin issued by Ripple Labs — the firm behind the XRP blockchain — designed to maintain a steady value of one U.S. dollar per token. Each RLUSD is backed one-to-one by a reserve of cash, short-term U.S. Treasury bi",
+      "impact": {}
+    },
+    {
+      "event_id": "8a37e350-d112-44ff-8fc5-a94ba06f60c3",
+      "source": "rss:coindesk",
+      "title": "U.S. government moves $288 million in seized bitcoin, ether to Coinbase Prime",
+      "url": "https://www.coindesk.com/markets/2026/07/14/u-s-government-moves-usd288-million-in-seized-bitcoin-ether-to-coinbase-prime",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-14T06:28:43+00:00",
+      "raw_text": "U.S. government moves $288 million in seized bitcoin, ether to Coinbase Prime",
+      "impact": {}
+    },
     {
       "event_id": "e06b2992-9b29-4ac0-9a73-de3ff1cc070a",
       "source": "rss:theblock",
@@ -381,6 +417,18 @@
       "impact": {}
     },
     {
+      "event_id": "9debeec5-93e5-415d-a54a-468c78605c77",
+      "source": "rss:cointelegraph",
+      "title": "President Trump invokes US senator’s death to push crypto bill",
+      "url": "https://cointelegraph.com/news/us-senate-session-plans-clarity-act-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-13T16:27:43+00:00",
+      "raw_text": "President Trump invokes US senator’s death to push crypto bill\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"President Trump invokes US senator’s death to push crypto bill\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-us-senate-infras",
+      "impact": {}
+    },
+    {
       "event_id": "d2d0136c-0c67-4639-8149-2b543a4a6d02",
       "source": "rss:cointelegraph",
       "title": "Donald Trump invokes US senator’s death to push crypto bill",
@@ -450,6 +498,18 @@
       "tokens": [],
       "timestamp_utc": "2026-07-13T15:17:05+00:00",
       "raw_text": "Robinhood built a blockchain for tokenized stocks. Memecoins took over",
+      "impact": {}
+    },
+    {
+      "event_id": "cb184b3c-9aed-44e9-bb86-3c15abd046b4",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin threatens $62K in risk-asset rout as President Trump says US will 'run' closed Hormuz Strait",
+      "url": "https://cointelegraph.com/markets/bitcoin-threatens-62k-in-risk-asset-out-as-donald-trump-says-us-will-run-closed-hormuz-strait?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-13T15:05:45+00:00",
+      "raw_text": "Bitcoin threatens $62K in risk-asset rout as President Trump says US will 'run' closed Hormuz Strait\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin threatens $62K in risk-asset rout as President Trump says US will 'run' closed Hormuz Strait\" class=\"type:primaryImage",
       "impact": {}
     },
     {
@@ -6409,74 +6469,6 @@
       "timestamp_utc": "2026-07-06T16:34:32+00:00",
       "raw_text": "Vitalik Buterin proposes ‘Extremely Lean’ Ethereum, shrinking the chain to near-zero state with ZK proofs\n\n<p>Buterin outlined a two-step plan to shift Ethereum's state management to validators and replace per-epoch balance updates with ZK proofs.</p>\n\n<p>Buterin outlined a two-step plan to shift Et",
       "impact": {}
-    },
-    {
-      "event_id": "e1ed6b57-c3f5-4151-9959-e168c463a5a7",
-      "source": "rss:theblock",
-      "title": "AVAX One launches CEO search after leader of its Avalanche treasury pivot steps down",
-      "url": "https://www.theblock.co/post/407309/avax-one-ceo-search-leader-avalanche-treasury-pivot-steps-down?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "AVAX"
-      ],
-      "timestamp_utc": "2026-07-06T16:07:20+00:00",
-      "raw_text": "AVAX One launches CEO search after leader of its Avalanche treasury pivot steps down\n\n<p>SkyBridge founder Anthony Scaramucci backed AVAX One's $550 million Avalanche treasury strategy announced last year.</p>\n\n<p>SkyBridge founder Anthony Scaramucci backed AVAX One's $550 million Avalanche treasury",
-      "impact": {
-        "t_plus_5m": -0.3858,
-        "t_plus_15m": 0.1487,
-        "t_plus_1h": -0.1168,
-        "t_plus_4h": -0.2264,
-        "t_plus_24h": -2.5964
-      }
-    },
-    {
-      "event_id": "6f84577d-3164-4a6c-b812-d59f6b1e3ffd",
-      "source": "rss:coindesk",
-      "title": "Circle’s USDC is leaving Tether behind in the stablecoin volume race, new data from Visa shows",
-      "url": "https://www.coindesk.com/business/2026/07/06/circle-s-usdc-is-leaving-tether-behind-in-the-stablecoin-volume-race",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-06T16:00:15+00:00",
-      "raw_text": "Circle’s USDC is leaving Tether behind in the stablecoin volume race, new data from Visa shows",
-      "impact": {}
-    },
-    {
-      "event_id": "1d33cab2-b2e5-4d82-b6e8-b6b927625e35",
-      "source": "rss:bitcoinmagazine",
-      "title": "President Trump Signals Openness to Bitcoin in Trump Accounts, Calls Himself ‘a Big Fan of Crypto’",
-      "url": "https://bitcoinmagazine.com/news/president-trump-signals-openness-bitcoin",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-06T15:54:09+00:00",
-      "raw_text": "President Trump Signals Openness to Bitcoin in Trump Accounts, Calls Himself ‘a Big Fan of Crypto’\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/President-Trump-Signals-Openness-to-Bitcoin-in-Trump",
-      "impact": {}
-    },
-    {
-      "event_id": "a63a3eea-69d3-41cf-8155-1cd8a6ec936b",
-      "source": "rss:theblock",
-      "title": "President Trump says he’s a ‘big crypto guy,’ while distancing himself from family’s crypto ventures",
-      "url": "https://www.theblock.co/post/407312/president-trump-big-crypto-guy-distancing-familys-crypto-ventures?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-06T15:53:22+00:00",
-      "raw_text": "President Trump says he’s a ‘big crypto guy,’ while distancing himself from family’s crypto ventures\n\n<p>President Trump called cryptocurrency \"powerful\" during the launch of Trump investment accounts for children.</p>\n\n<p>President Trump called cryptocurrency \"powerful\" during the launch of Trump i",
-      "impact": {}
-    },
-    {
-      "event_id": "fcbcfa8e-a8dd-48d2-b89a-4b0e9cab2c97",
-      "source": "rss:coindesk",
-      "title": "Strategy selling hundreds of millions worth of bitcoin raises question about its capital-allocation playbook",
-      "url": "https://www.coindesk.com/markets/2026/07/06/one-month-that-shook-the-market-saylor-s-struggles-over-bitcoin-strategy-yields-big-loss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-06T15:47:12+00:00",
-      "raw_text": "Strategy selling hundreds of millions worth of bitcoin raises question about its capital-allocation playbook",
-      "impact": {}
     }
   ],
   "stats": {
@@ -6487,16 +6479,16 @@
         "avg_24h": -0.65,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 170,
-        "avg_1h": 0.03,
-        "avg_24h": -0.14,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 198,
+        "count": 199,
         "avg_1h": 0.05,
         "avg_24h": 0.16,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 169,
+        "avg_1h": 0.03,
+        "avg_24h": 0.27,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
