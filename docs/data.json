@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-07-14T19:39:58.415103+00:00",
+  "generated_at": "2026-07-14T21:11:17.563373+00:00",
   "events": [
+    {
+      "event_id": "d70aef25-91b8-475a-85ab-30156da25c6e",
+      "source": "rss:decrypt",
+      "title": "DeepMind CEO Says AGI Will Be Bigger Than Electricity or Fire",
+      "url": "https://decrypt.co/373511/deepmind-ceo-agi-bigger-than-electricity-fire",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-14T19:57:49+00:00",
+      "raw_text": "DeepMind CEO Says AGI Will Be Bigger Than Electricity or Fire\n\nDemis Hassabis says artificial general intelligence is only a few years away and proposes a new U.S. standards body to test frontier AI models before release.",
+      "impact": {}
+    },
+    {
+      "event_id": "a4301569-f58f-4f79-8c5a-a23f8d77f372",
+      "source": "rss:bitcoinmagazine",
+      "title": "China’s Prosecutors Move to Treat Crypto Mixers as Evidence of Money Laundering",
+      "url": "https://bitcoinmagazine.com/news/chinas-prosecutors-treat-crypto-mixers",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-14T19:47:38+00:00",
+      "raw_text": "China’s Prosecutors Move to Treat Crypto Mixers as Evidence of Money Laundering\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Chinas-Prosecutors-Move-to-Treat-Crypto-Mixers-as-Evidence-of-Money-Lau",
+      "impact": {}
+    },
+    {
+      "event_id": "279eebe3-1714-4631-8e4a-53ea2c215966",
+      "source": "rss:cointelegraph",
+      "title": "US, UK treasuries to align transatlantic rules on tokenization and stablecoins",
+      "url": "https://cointelegraph.com/news/us-uk-treasuries-rules-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-14T19:45:20+00:00",
+      "raw_text": "US, UK treasuries to align transatlantic rules on tokenization and stablecoins\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US, UK treasuries to align transatlantic rules on tokenization and stablecoins\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar",
+      "impact": {}
+    },
+    {
+      "event_id": "4fb6e692-9723-4739-840d-7f844d14f877",
+      "source": "rss:theblock",
+      "title": "CFTC orders Kalshi to honor Michigan trades, escalating clash with state regulators",
+      "url": "https://www.theblock.co/post/408323/cftc-orders-kalshi-honor-michigan-trades-escalating-clash-state-regulators?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-14T19:08:00+00:00",
+      "raw_text": "CFTC orders Kalshi to honor Michigan trades, escalating clash with state regulators\n\n<p>Jurisdiction over prediction market platforms is an ongoing dispute between the CFTC and multiple state regulators.</p>\n\n<p>Jurisdiction over prediction market platforms is an ongoing dispute between the CFTC and",
+      "impact": {}
+    },
+    {
+      "event_id": "bb534e20-cbb5-4fcc-b3d1-b49b66504671",
+      "source": "rss:coindesk",
+      "title": "Some U.S. Senate Democrats come out against Clarity Act, calling it a 'corrupt' bill",
+      "url": "https://www.coindesk.com/policy/2026/07/14/some-u-s-senate-democrats-come-out-against-clarity-act-calling-it-a-corrupt-bill",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-14T18:57:15+00:00",
+      "raw_text": "Some U.S. Senate Democrats come out against Clarity Act, calling it a 'corrupt' bill",
+      "impact": {}
+    },
     {
       "event_id": "9292e7a1-b4ca-4415-bff5-9b78c775e80e",
       "source": "rss:theblock",
@@ -20,10 +80,16 @@
       "url": "https://bitcoinmagazine.com/technical/the-bitcoin-softfork-that-tried-to-police-junk-data-and-why-its-already-failing",
       "event_type": "hack",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-14T17:47:31+00:00",
       "raw_text": "The Bitcoin Softfork That Tried to Police “Junk Data” — And Why It’s Already Failing\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/tn-3.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a h",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.065,
+        "t_plus_15m": 0.0096,
+        "t_plus_1h": 0.0396
+      }
     },
     {
       "event_id": "7c19f28c-79e9-4a2c-a595-0f92d56bd33f",
@@ -196,7 +262,8 @@
       "impact": {
         "t_plus_5m": -0.0476,
         "t_plus_15m": -0.1348,
-        "t_plus_1h": -0.1578
+        "t_plus_1h": -0.1578,
+        "t_plus_4h": -0.3301
       }
     },
     {
@@ -250,7 +317,8 @@
       "impact": {
         "t_plus_5m": 0.0811,
         "t_plus_15m": 0.108,
-        "t_plus_1h": 0.0899
+        "t_plus_1h": 0.0899,
+        "t_plus_4h": 0.0014
       }
     },
     {
@@ -292,7 +360,8 @@
       "impact": {
         "t_plus_5m": -1.2092,
         "t_plus_15m": -0.8733,
-        "t_plus_1h": -0.3915
+        "t_plus_1h": -0.3915,
+        "t_plus_4h": -0.4287
       }
     },
     {
@@ -6371,98 +6440,38 @@
       "timestamp_utc": "2026-07-07T14:17:54+00:00",
       "raw_text": "AI trade loses steam as infrastructure boom faces reality check",
       "impact": {}
-    },
-    {
-      "event_id": "1dce2116-0047-4d17-ba52-5ab2a620e18a",
-      "source": "rss:coindesk",
-      "title": "EDX Markets raises $76 million in funding round led by SBI Holdings",
-      "url": "https://www.coindesk.com/business/2026/07/07/edx-markets-raises-usd76-million-in-funding-round-led-by-sbi-holdings",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-07T14:07:05+00:00",
-      "raw_text": "EDX Markets raises $76 million in funding round led by SBI Holdings",
-      "impact": {}
-    },
-    {
-      "event_id": "e3d36433-e25f-443c-8333-594ec8a50656",
-      "source": "rss:bitcoinmagazine",
-      "title": "U.S. Bitcoin Reserve Stalls as Treasury and Commerce Vie for Control: Report",
-      "url": "https://bitcoinmagazine.com/news/u-s-bitcoin-reserve-stalls-control-report",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-07T14:04:14+00:00",
-      "raw_text": "U.S. Bitcoin Reserve Stalls as Treasury and Commerce Vie for Control: Report\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/U.S.-Bitcoin-Reserve-Stalls-as-Treasury-and-Commerce-Vie-for-Control-Repor",
-      "impact": {}
-    },
-    {
-      "event_id": "c73b0e05-b011-4d26-8cbb-19b3e28677ad",
-      "source": "rss:decrypt",
-      "title": "Coinbase Wins UK License to Offer Stocks and Derivatives Alongside Crypto",
-      "url": "https://decrypt.co/372912/coinbase-wins-uk-license-to-offer-stocks-and-derivatives-alongside-crypto",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-07T13:48:44+00:00",
-      "raw_text": "Coinbase Wins UK License to Offer Stocks and Derivatives Alongside Crypto\n\nThe FCA authorization lets the exchange offer equities and derivatives to UK users, a step toward its \"everything exchange\" ambitions.",
-      "impact": {}
-    },
-    {
-      "event_id": "0734055a-1bf4-4dbc-88b7-2e1304bdeb63",
-      "source": "rss:coindesk",
-      "title": "Former Tether investment chief is looking to sell part of his stake in the stablecoin giant: Bloomberg",
-      "url": "https://www.coindesk.com/business/2026/07/07/former-tether-investment-chief-is-looking-to-sell-part-of-his-stake-in-the-stablecoin-giant-bloomberg",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-07T13:46:25+00:00",
-      "raw_text": "Former Tether investment chief is looking to sell part of his stake in the stablecoin giant: Bloomberg",
-      "impact": {}
-    },
-    {
-      "event_id": "88658385-4fe9-4238-a155-3c7b403bf5dc",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin Suisse Wins Abu Dhabi License, Extends Digital Asset Push into the UAE",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-suisse-wins-abu-dhabi-license",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-07T13:40:25+00:00",
-      "raw_text": "Bitcoin Suisse Wins Abu Dhabi License, Extends Digital Asset Push into the UAE\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-Suisse-Wins-Abu-Dhabi-License-Extends-Digital-Asset-Push-into-th",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 183,
-        "avg_1h": -0.11,
-        "avg_24h": 0.42,
+      "narrative": {
+        "count": 190,
+        "avg_1h": -0.05,
+        "avg_24h": 0.16,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 19,
-        "avg_1h": -0.41,
+        "count": 20,
+        "avg_1h": -0.26,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 189,
-        "avg_1h": -0.05,
-        "avg_24h": 0.16,
+      "macro": {
+        "count": 99,
+        "avg_1h": 0.07,
+        "avg_24h": -0.65,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 182,
+        "avg_1h": -0.11,
+        "avg_24h": 0.42,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
         "count": 6,
         "avg_1h": 0.52,
         "avg_24h": 0.89,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 100,
-        "avg_1h": 0.07,
-        "avg_24h": -0.65,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
