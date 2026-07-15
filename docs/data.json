@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-07-15T21:11:51.651880+00:00",
+  "generated_at": "2026-07-15T23:09:27.716848+00:00",
   "events": [
+    {
+      "event_id": "67c083fd-48d2-4684-8048-0c3593a9a7cf",
+      "source": "rss:theblock",
+      "title": "Stripe-PayPal deal could accelerate shift to blockchain-based money, Polygon exec says",
+      "url": "https://www.theblock.co/post/408525/stripe-paypal-deal-accelerate-stablecoins-blockchain?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-15T21:41:07+00:00",
+      "raw_text": "Stripe-PayPal deal could accelerate shift to blockchain-based money, Polygon exec says\n\n<p>\"Within the next few years the majority of money will live and move on blockchain in one form or another,\" according to Polygon Labs.</p>\n\n<p>\"Within the next few years the majority of money will live and move",
+      "impact": {}
+    },
+    {
+      "event_id": "4f8715d4-9422-4e10-97fd-b084470ad1ab",
+      "source": "rss:decrypt",
+      "title": "Why Analysts Aren’t Worried About Coinbase’s 30% Drop",
+      "url": "https://decrypt.co/373615/analysts-arent-worried-coinbase-drop",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-15T21:38:43+00:00",
+      "raw_text": "Why Analysts Aren’t Worried About Coinbase’s 30% Drop\n\nWilliam Blair slashed earnings estimates by 34% and held its Outperform call. But analysts think Bitcoin's chart may already be answering the bigger question.",
+      "impact": {}
+    },
+    {
+      "event_id": "098b1da5-ee40-44ae-be58-199c0530be81",
+      "source": "rss:theblock",
+      "title": "Public Hyperliquid treasury firm Hyperion enters into new 500k HYPE bond agreement with Skew",
+      "url": "https://www.theblock.co/post/408538/hyperliquid-treasury-firm-hyperion-new-500k-hype-bond-skew?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-15T21:33:12+00:00",
+      "raw_text": "Public Hyperliquid treasury firm Hyperion enters into new 500k HYPE bond agreement with Skew\n\n<p>Hyperion will deploy 500,000 tokens to Skew through a HYPE Asset Use Service (HAUS) agreement in exchange for equity and revenue share.</p>\n\n<p>Hyperion will deploy 500,000 tokens to Skew through a HYPE ",
+      "impact": {}
+    },
+    {
+      "event_id": "60f51bf2-a323-473c-935b-10fde1a1dd03",
+      "source": "rss:theblock",
+      "title": "Strategy CEO says company isn’t going anywhere as bitcoin buyer, sees debt concerns only below $10,000 BTC",
+      "url": "https://www.theblock.co/post/408532/strategy-ceo-bitcoin-debt-concerns-btc-interview?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-15T21:08:05+00:00",
+      "raw_text": "Strategy CEO says company isn’t going anywhere as bitcoin buyer, sees debt concerns only below $10,000 BTC\n\n<p>Strategy would begin considering risks associated with its debt only if bitcoin falls to around $8,000-$10,000, CEO Phong Le said.</p>\n\n<p>Strategy would begin considering risks associated ",
+      "impact": {}
+    },
+    {
+      "event_id": "05342d06-5cc8-408e-8edd-e71d9442c35b",
+      "source": "rss:bitcoinmagazine",
+      "title": "Bitcoin to $40,000? If History’s Anything to Go By, It’s Possible, Says Report",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-to-40000-its-possible-report",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-15T21:04:16+00:00",
+      "raw_text": "Bitcoin to $40,000? If History’s Anything to Go By, It’s Possible, Says Report\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Bitcoin-Price-Falls-5.5-in-5-Days-to-Below-73000-as-Spot-ETF-Outflows-Ac",
+      "impact": {}
+    },
+    {
+      "event_id": "d70200f5-cfee-4365-96e2-a63cafbd4b0e",
+      "source": "rss:decrypt",
+      "title": "OpenAI Uses AI Red Team to Strengthen GPT-5.6 Against Prompt Injection Attacks",
+      "url": "https://decrypt.co/373613/openai-ai-red-team-strengthen-gpt-5-6-prompt-injection-attacks",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-15T20:50:11+00:00",
+      "raw_text": "OpenAI Uses AI Red Team to Strengthen GPT-5.6 Against Prompt Injection Attacks\n\nOpenAI said its new automated red-teaming model, GPT-Red, uncovered vulnerabilities that were used to make GPT-5.6 more resistant to prompt injection attacks.",
+      "impact": {}
+    },
     {
       "event_id": "20cca191-66e7-464c-8943-d41952ce6a8a",
       "source": "rss:coindesk",
@@ -280,7 +352,8 @@
       "impact": {
         "t_plus_5m": 0.2771,
         "t_plus_15m": 0.2524,
-        "t_plus_1h": 0.178
+        "t_plus_1h": 0.178,
+        "t_plus_4h": -0.0478
       }
     },
     {
@@ -298,7 +371,8 @@
       "impact": {
         "t_plus_5m": 0.3477,
         "t_plus_15m": 0.2996,
-        "t_plus_1h": 0.3337
+        "t_plus_1h": 0.3337,
+        "t_plus_4h": 0.4295
       }
     },
     {
@@ -328,7 +402,8 @@
       "impact": {
         "t_plus_5m": 0.4289,
         "t_plus_15m": 0.2771,
-        "t_plus_1h": 0.0816
+        "t_plus_1h": 0.0816,
+        "t_plus_4h": -0.0502
       }
     },
     {
@@ -358,7 +433,8 @@
       "impact": {
         "t_plus_5m": 0.9476,
         "t_plus_15m": 0.5815,
-        "t_plus_1h": 0.0001
+        "t_plus_1h": 0.0001,
+        "t_plus_4h": 0.5909
       }
     },
     {
@@ -6342,117 +6418,31 @@
         "t_plus_1h": -0.2676,
         "t_plus_4h": 0.3063
       }
-    },
-    {
-      "event_id": "d8510319-3720-467e-b11c-c6bb450d7dab",
-      "source": "rss:theblock",
-      "title": "European Commission looks to expand MiCA to cover emergence of tokenization, non-EU stablecoin issuers: report",
-      "url": "https://www.theblock.co/post/407613/european-commission-expand-mica-tokenization-non-eu-stablecoin-report?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-08T15:32:22+00:00",
-      "raw_text": "European Commission looks to expand MiCA to cover emergence of tokenization, non-EU stablecoin issuers: report\n\n<p>The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30.</p>\n\n<p>The European Commission is reportedly seeking comment from stakeh",
-      "impact": {}
-    },
-    {
-      "event_id": "862c7345-da9b-45e8-8992-e2212c226ac7",
-      "source": "rss:bitcoinmagazine",
-      "title": "Schwab Strategist Backs Strategy’s STRC Playbook Amid Bitcoin Weakness",
-      "url": "https://bitcoinmagazine.com/news/schwab-strategist-backs-bitcoin-strategy",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-08T15:21:58+00:00",
-      "raw_text": "Schwab Strategist Backs Strategy’s STRC Playbook Amid Bitcoin Weakness\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Schwab-Strategist-Backs-Strategys-STRC-Playbook-Amid-Bitcoin-Weakness.jpg\" style",
-      "impact": {}
-    },
-    {
-      "event_id": "a4071cc1-a7be-4246-ac54-be21ef48451f",
-      "source": "rss:coindesk",
-      "title": "Crypto Long & Short: With MSTR concerns assuaged, look to traditional signals around BTC",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/07/08/crypto-long-and-short-with-mstr-concerns-assuaged-look-to-traditional-signals-around-btc",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-08T15:18:10+00:00",
-      "raw_text": "Crypto Long & Short: With MSTR concerns assuaged, look to traditional signals around BTC",
-      "impact": {
-        "t_plus_5m": -0.7184,
-        "t_plus_15m": -0.6189,
-        "t_plus_1h": -0.3046,
-        "t_plus_4h": 0.0834
-      }
-    },
-    {
-      "event_id": "2d80b346-c1d3-466e-9f50-840fc7177282",
-      "source": "rss:coindesk",
-      "title": "Crypto VC Paradigm launches $1.2 billion AI fund as it broadens beyond digital assets",
-      "url": "https://www.coindesk.com/markets/2026/07/08/crypto-vc-paradigm-launches-usd1-2-billion-ai-fund-as-it-broadens-beyond-digital-assets-bbg",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-08T15:11:45+00:00",
-      "raw_text": "Crypto VC Paradigm launches $1.2 billion AI fund as it broadens beyond digital assets",
-      "impact": {}
-    },
-    {
-      "event_id": "12b33a8e-cc1c-4ad9-8287-e14b6935de7e",
-      "source": "rss:bitcoinmagazine",
-      "title": "Cantor SPAC and Adam Back’s Bitcoin Treasury Renegotiate Merger Terms, Vow New Structure",
-      "url": "https://bitcoinmagazine.com/news/cantor-spac-adam-backs-bitcoin-treasury",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-08T15:10:56+00:00",
-      "raw_text": "Cantor SPAC and Adam Back’s Bitcoin Treasury Renegotiate Merger Terms, Vow New Structure\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Morgan-Stanleys-Bitcoin-Executive-Says-Education-—-Not-Product",
-      "impact": {}
-    },
-    {
-      "event_id": "d5001c7b-60c1-40e3-ab8e-da290f9d27cf",
-      "source": "rss:theblock",
-      "title": "Cardano founding entity EMURGO steps down from Pentad governance role after wallet exploit",
-      "url": "https://www.theblock.co/post/407593/cardano-founding-entity-emurgo-steps-down-pentad-governance-role-wallet-exploit?utm_source=rss&utm_medium=rss",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [
-        "ADA"
-      ],
-      "timestamp_utc": "2026-07-08T15:08:31+00:00",
-      "raw_text": "Cardano founding entity EMURGO steps down from Pentad governance role after wallet exploit\n\n<p>The exploit, which leveraged a flaw in the wallet's address generation system, drained roughly 16 million ADA worth about $2.4 million.</p>\n\n<p>The exploit, which leveraged a flaw in the wallet's address g",
-      "impact": {
-        "t_plus_5m": -0.4646,
-        "t_plus_15m": -1.0195,
-        "t_plus_1h": -0.738,
-        "t_plus_4h": -0.223
-      }
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 184,
+        "count": 186,
         "avg_1h": -0.05,
         "avg_24h": -0.22,
         "win_rate_1h_gt5pct": 0.0
       },
+      "unknown": {
+        "count": 182,
+        "avg_1h": -0.05,
+        "avg_24h": -0.75,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 99,
+        "count": 98,
         "avg_1h": 0.06,
         "avg_24h": 0.83,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 183,
-        "avg_1h": -0.07,
-        "avg_24h": -0.75,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
         "count": 24,
-        "avg_1h": -0.2,
+        "avg_1h": -0.02,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
