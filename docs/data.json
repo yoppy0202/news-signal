@@ -1,6 +1,126 @@
 {
-  "generated_at": "2026-07-15T17:35:02.059647+00:00",
+  "generated_at": "2026-07-15T19:33:24.455392+00:00",
   "events": [
+    {
+      "event_id": "31e476fd-df1e-4a8b-9ebb-5c9eca5efd45",
+      "source": "rss:decrypt",
+      "title": "BlackRock, Goldman, and JP Morgan Will Give Tokenized Stocks a Try",
+      "url": "https://decrypt.co/373571/blackrock-goldman-sachs-jp-morgan-dtcc-tokenized-stocks",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-15T18:02:06+00:00",
+      "raw_text": "BlackRock, Goldman, and JP Morgan Will Give Tokenized Stocks a Try\n\nThe Depository Trust &#038; Clearing Corporation is working with nearly 40 financial firms in a pilot to test tokenized stocks and U.S. treasuries.",
+      "impact": {}
+    },
+    {
+      "event_id": "4ff1db60-2c5d-4907-8daf-990531cc8957",
+      "source": "rss:theblock",
+      "title": "Coinbase’s Jesse Pollak hands Base app leadership to Cobie after admitting social bets fell short",
+      "url": "https://www.theblock.co/post/408504/coinbases-jesse-pollak-hands-base-app-leadership-cobie-social-bets-fell-short?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-15T17:58:49+00:00",
+      "raw_text": "Coinbase’s Jesse Pollak hands Base app leadership to Cobie after admitting social bets fell short\n\n<p>Coinbase executive Jesse Pollak will focus on Base blockchain's infrastructure, prioritizing trading, stablecoin payments, and AI agents.</p>\n\n<p>Coinbase executive Jesse Pollak will focus on Base b",
+      "impact": {}
+    },
+    {
+      "event_id": "8266bef9-3342-4fd8-975e-cc9853305977",
+      "source": "rss:bitcoinmagazine",
+      "title": "President Trump To Meet Senators On Clarity Act’s Ethics Fight: Report",
+      "url": "https://bitcoinmagazine.com/news/president-trump-to-meet-senators",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-15T17:47:38+00:00",
+      "raw_text": "President Trump To Meet Senators On Clarity Act’s Ethics Fight: Report\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/President-Donald-Trump-Discloses-More-Than-50-Million-in-Bitcoin-Held-in-Cold-St",
+      "impact": {}
+    },
+    {
+      "event_id": "101ce88d-99b6-4837-b3db-b12382b46d6d",
+      "source": "rss:bitcoinmagazine",
+      "title": "Traders Took $8.2 Million From Polymarket’s Five-Minute Bitcoin Bets, Study Found",
+      "url": "https://bitcoinmagazine.com/news/traders-took-8-2-million-from-polymarkets",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-15T17:33:41+00:00",
+      "raw_text": "Traders Took $8.2 Million From Polymarket’s Five-Minute Bitcoin Bets, Study Found\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Traders-Took-8.2-Million-From-Polymarkets-Five-Minute-Bitcoin-Bets-St",
+      "impact": {}
+    },
+    {
+      "event_id": "21f3a556-18a4-4502-a4c2-94b252ab9fce",
+      "source": "rss:cointelegraph",
+      "title": "Ostium pauses trading as security firms report multimillion-dollar oracle exploit",
+      "url": "https://cointelegraph.com/news/ostium-pauses-trading-as-security-firms-report-multimillion-dollar-oracle-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-15T17:14:21+00:00",
+      "raw_text": "Ostium pauses trading as security firms report multimillion-dollar oracle exploit\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ostium pauses trading as security firms report multimillion-dollar oracle exploit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me",
+      "impact": {}
+    },
+    {
+      "event_id": "de9be5ff-0955-4fe3-80e9-24cdab9b66fd",
+      "source": "rss:coindesk",
+      "title": "DTCC moves tokenized securities into live trading, marking a milestone for Wall Street's blockchain push",
+      "url": "https://www.coindesk.com/business/2026/07/15/dtcc-moves-tokenized-securities-into-live-trading-marking-a-milestone-for-wall-street-s-blockchain-push",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-15T17:02:22+00:00",
+      "raw_text": "DTCC moves tokenized securities into live trading, marking a milestone for Wall Street's blockchain push",
+      "impact": {}
+    },
+    {
+      "event_id": "1501e77d-5175-4d3e-bcc3-9c1f0f7bbbb5",
+      "source": "rss:decrypt",
+      "title": "Another DeFi Exploit: Perp DEX Ostium Loses $18 Million in Oracle Attack",
+      "url": "https://decrypt.co/373566/defi-exploit-ostium-oracle-hack",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-15T17:01:25+00:00",
+      "raw_text": "Another DeFi Exploit: Perp DEX Ostium Loses $18 Million in Oracle Attack\n\nHackers manipulated Ostium's price feed by compromising an oracle signer key, allowing them to drain roughly $18 million from the Arbitrum-based perpetuals exchange.",
+      "impact": {}
+    },
+    {
+      "event_id": "345c9bb3-8c77-488c-b083-9beb0b957d02",
+      "source": "rss:theblock",
+      "title": "BlackRock outlines vision for crypto-TradFi convergence as product pipeline grows",
+      "url": "https://www.theblock.co/post/408436/blackrock-outlines-vision-crypto-tradfi-convergence-product-pipeline-grows?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-15T16:56:06+00:00",
+      "raw_text": "BlackRock outlines vision for crypto-TradFi convergence as product pipeline grows\n\n<p>The firm seeks to offer tokenized long-term investments like \"Treasury funds, iShares ETFs, and even private markets.\"</p>\n\n<p>The firm seeks to offer tokenized long-term investments like \"Treasury funds, iShares E",
+      "impact": {}
+    },
+    {
+      "event_id": "514c93b8-df63-4af0-8f7e-b492d233bd01",
+      "source": "rss:decrypt",
+      "title": "US Treasury Freezes $131 Million in Iran-Linked Crypto Wallets",
+      "url": "https://decrypt.co/373565/us-treasury-freezes-131-million-iran-crypto",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-15T16:54:14+00:00",
+      "raw_text": "US Treasury Freezes $131 Million in Iran-Linked Crypto Wallets\n\nOFAC sanctioned addresses tied to Iran's central bank and armed forces, with Tether locking four Tron wallets as Washington's financial campaign against Tehran accelerates.",
+      "impact": {}
+    },
+    {
+      "event_id": "2b1b7c4b-3a3e-4efb-b508-8320030ee149",
+      "source": "rss:coindesk",
+      "title": "Cantor and Securitize collaborate on blockchain-based IPOs",
+      "url": "https://www.coindesk.com/business/2026/07/15/cantor-and-securitize-collaborate-on-blockchain-based-ipos",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-15T16:52:28+00:00",
+      "raw_text": "Cantor and Securitize collaborate on blockchain-based IPOs",
+      "impact": {}
+    },
     {
       "event_id": "8af03de8-36f6-4f18-b5d9-b428addffe2a",
       "source": "rss:theblock",
@@ -197,7 +317,8 @@
       "impact": {
         "t_plus_5m": 0.0979,
         "t_plus_15m": 0.1739,
-        "t_plus_1h": 0.1906
+        "t_plus_1h": 0.1906,
+        "t_plus_4h": -0.1988
       }
     },
     {
@@ -6307,164 +6428,32 @@
       "timestamp_utc": "2026-07-08T13:19:28+00:00",
       "raw_text": "Kazakhstan president signs decree to accelerate crypto adoption\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kazakhstan president signs decree to accelerate crypto adoption\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/kazachstan-almaty",
       "impact": {}
-    },
-    {
-      "event_id": "33f5cf0f-38c6-4979-98a2-6cbc73cd2886",
-      "source": "rss:theblock",
-      "title": "Strategy’s 3,588 BTC sale puts future bitcoin selling in focus: analysts",
-      "url": "https://www.theblock.co/post/407555/strategys-3588-btc-sale-puts-future-bitcoin-selling-in-focus-analysts?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-08T13:08:34+00:00",
-      "raw_text": "Strategy’s 3,588 BTC sale puts future bitcoin selling in focus: analysts\n\n<p>Strategy sold 3,588 BTC last week, with CF Benchmarks suggesting continued sales would become a concern if they stop being a choice.</p>\n\n<p>Strategy sold 3,588 BTC last week, with CF Benchmarks suggesting continued sales w",
-      "impact": {}
-    },
-    {
-      "event_id": "840b76fe-729c-4e38-8fdc-1be0c28449c7",
-      "source": "rss:cointelegraph",
-      "title": "BTC speculators in focus as analysis says 'textbook Bitcoin bottom' is underway",
-      "url": "https://cointelegraph.com/markets/btc-speculators-in-focus-as-analysis-says-textbook-bitcoin-bottom-is-underway?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-08T12:59:06+00:00",
-      "raw_text": "BTC speculators in focus as analysis says 'textbook Bitcoin bottom' is underway\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BTC speculators in focus as analysis says 'textbook Bitcoin bottom' is underway\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/",
-      "impact": {}
-    },
-    {
-      "event_id": "a5939f45-4efb-4111-a324-5b8791115b69",
-      "source": "rss:decrypt",
-      "title": "Morning Minute: Vanguard Hires 'Head of Digital Assets' in Crypto Capitulation",
-      "url": "https://decrypt.co/372993/morning-minute-vanguard-hires-head-of-digital-assets-in-crypto-capitulation",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-08T12:47:37+00:00",
-      "raw_text": "Morning Minute: Vanguard Hires 'Head of Digital Assets' in Crypto Capitulation\n\nCrypto majors fall as the U.S. strikes Iran, ending the ceasefire. Vanguard opens its doors. And a meme coin frenzy erupts on Robinhood chain.",
-      "impact": {}
-    },
-    {
-      "event_id": "d6673633-015f-427b-9f49-46cfcb9b0aae",
-      "source": "rss:coindesk",
-      "title": "Citadel abandons multi-year crypto lawsuit to focus on bankruptcy order against an ex-employee",
-      "url": "https://www.coindesk.com/policy/2026/07/08/citadel-drops-u-s-portofino-suit-seeks-bankruptcy-order-against-firm-s-founder-in-uk",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-08T12:45:30+00:00",
-      "raw_text": "Citadel abandons multi-year crypto lawsuit to focus on bankruptcy order against an ex-employee",
-      "impact": {}
-    },
-    {
-      "event_id": "cf514691-d850-4729-9da4-79291e843da9",
-      "source": "rss:coindesk",
-      "title": "Citadel drops U.S. Portofino suit, seeks bankruptcy order against firm's founder in UK",
-      "url": "https://www.coindesk.com/policy/2026/07/08/citadel-drops-u-s-portofino-suit-seeks-bankruptcy-order-against-firm-s-founder-in-uk",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-08T12:45:30+00:00",
-      "raw_text": "Citadel drops U.S. Portofino suit, seeks bankruptcy order against firm's founder in UK",
-      "impact": {}
-    },
-    {
-      "event_id": "423e24a0-9f0e-4ebb-ba4c-f0bff6fe2e40",
-      "source": "rss:coindesk",
-      "title": "SpaceX's first bitcoin wallet movements in six months likely don't signal sales",
-      "url": "https://www.coindesk.com/markets/2026/07/08/spacex-s-first-bitcoin-wallet-movements-in-six-months-likely-don-t-signal-sales",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-08T12:44:27+00:00",
-      "raw_text": "SpaceX's first bitcoin wallet movements in six months likely don't signal sales",
-      "impact": {}
-    },
-    {
-      "event_id": "2198837b-c901-448f-b5bd-408bb9d5e491",
-      "source": "rss:decrypt",
-      "title": "Bankers Filed Suspicious Activity Report Over Farage's £5M Gift From Tether Billionaire",
-      "url": "https://decrypt.co/372994/bankers-filed-suspicious-activity-report-over-farages-5m-gift-from-tether-billionaire",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-08T12:06:35+00:00",
-      "raw_text": "Bankers Filed Suspicious Activity Report Over Farage's £5M Gift From Tether Billionaire\n\nThe report, filed in May 2024, invited the National Crime Agency to determine whether there were grounds for further investigation.",
-      "impact": {}
-    },
-    {
-      "event_id": "eb4869aa-24b7-4413-a189-dca09aee3c71",
-      "source": "rss:cointelegraph",
-      "title": "Lyn Alden says Bitcoin needs no savior as Strategy sells $216M of BTC",
-      "url": "https://cointelegraph.com/news/bitcoin-needs-no-savior-lyn-alden-strategy-216-million-btc-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-08T12:01:00+00:00",
-      "raw_text": "Lyn Alden says Bitcoin needs no savior as Strategy sells $216M of BTC\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Lyn Alden says Bitcoin needs no savior as Strategy sells $216M of BTC\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/lyn-a",
-      "impact": {
-        "t_plus_5m": 0.5009,
-        "t_plus_15m": 0.6209,
-        "t_plus_1h": 0.034
-      }
-    },
-    {
-      "event_id": "5481c991-8d85-4ab7-859a-e89935ab5551",
-      "source": "rss:theblock",
-      "title": "BNB Chain builds new Layer 1 for agentic trading, targets 2027 mainnet",
-      "url": "https://www.theblock.co/post/407406/bnb-chain-builds-new-layer-1-for-agentic-trading-targets-2027-mainnet?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BNB"
-      ],
-      "timestamp_utc": "2026-07-08T11:55:01+00:00",
-      "raw_text": "BNB Chain builds new Layer 1 for agentic trading, targets 2027 mainnet\n\n<p>BNB Chain is building a new Layer 1 for agentic trading with sub-50ms preconfirmation and no public mempool, targeting testnet by end-2026.</p>\n\n<p>BNB Chain is building a new Layer 1 for agentic trading with sub-50ms preconf",
-      "impact": {
-        "t_plus_5m": 0.3341,
-        "t_plus_15m": 0.3668,
-        "t_plus_1h": 0.0845
-      }
-    },
-    {
-      "event_id": "413c6d61-d006-48e2-a3e7-63aacafe2525",
-      "source": "rss:cointelegraph",
-      "title": "Mobile app Toss and blockchain Optimism to conduct Korean won stablecoin POC: report",
-      "url": "https://cointelegraph.com/news/south-korea-toss-partners-optimism-won-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-08T11:33:11+00:00",
-      "raw_text": "Mobile app Toss and blockchain Optimism to conduct Korean won stablecoin POC: report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Mobile app Toss and blockchain Optimism to conduct Korean won stablecoin POC: report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 94,
-        "avg_1h": 0.06,
-        "avg_24h": 0.83,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 22,
-        "avg_1h": -0.2,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 189,
+        "count": 188,
         "avg_1h": -0.07,
         "avg_24h": -0.75,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 185,
-        "avg_1h": -0.03,
+        "count": 179,
+        "avg_1h": -0.05,
         "avg_24h": -0.22,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 99,
+        "avg_1h": 0.06,
+        "avg_24h": 0.83,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 24,
+        "avg_1h": -0.2,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
