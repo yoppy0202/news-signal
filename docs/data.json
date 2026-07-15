@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-15T06:24:59.126325+00:00",
+  "generated_at": "2026-07-15T09:18:55.991533+00:00",
   "events": [
+    {
+      "event_id": "138f0614-b9fc-422d-b496-7911e8751751",
+      "source": "rss:coindesk",
+      "title": "UK plans first G7 digital sovereign bond by early 2027",
+      "url": "https://www.coindesk.com/business/2026/07/15/uk-plans-first-g7-digital-sovereign-bond-by-early-2027",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-15T08:16:34+00:00",
+      "raw_text": "UK plans first G7 digital sovereign bond by early 2027",
+      "impact": {}
+    },
+    {
+      "event_id": "009d2065-e9ca-4735-a991-523bea255961",
+      "source": "rss:theblock",
+      "title": "South Korea to bring crypto under new state asset management law",
+      "url": "https://www.theblock.co/post/408350/south-korea-crypto-asset-management-law?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-15T07:19:45+00:00",
+      "raw_text": "South Korea to bring crypto under new state asset management law\n\n<p>The Ministry of Finance and Economy said it will establish the 'National Asset Basic Act' to update the government's asset management system.</p>\n\n<p>The Ministry of Finance and Economy said it will establish the 'National Asset Ba",
+      "impact": {}
+    },
+    {
+      "event_id": "1f507304-0761-44b5-b17a-1488953acf86",
+      "source": "rss:coindesk",
+      "title": "Visa, Mastercard and Ripple back x402 as agent payments average 32 cents",
+      "url": "https://www.coindesk.com/tech/2026/07/15/visa-mastercard-and-ripple-join-the-standard-letting-ai-agents-pay-in-stablecoins",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-15T06:05:24+00:00",
+      "raw_text": "Visa, Mastercard and Ripple back x402 as agent payments average 32 cents",
+      "impact": {}
+    },
     {
       "event_id": "79133690-357b-4392-8f6e-bd434f31288b",
       "source": "rss:cointelegraph",
@@ -6398,62 +6434,26 @@
       "timestamp_utc": "2026-07-07T16:43:07+00:00",
       "raw_text": "Tether invests in Mercado Bitcoin as blockchain finance expands in Latin America\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether invests in Mercado Bitcoin as blockchain finance expands in Latin America\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
       "impact": {}
-    },
-    {
-      "event_id": "2c592082-4058-4018-9299-2c3b98a95cd3",
-      "source": "rss:theblock",
-      "title": "Ondo Finance says tokenized stocks can now be used as collateral for perp trading",
-      "url": "https://www.theblock.co/post/407452/ondo-finance-says-tokenized-stocks-now-used-as-collateral-perp-trading?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-07T16:29:46+00:00",
-      "raw_text": "Ondo Finance says tokenized stocks can now be used as collateral for perp trading\n\n<p>Last year, the tokenized real-world asset issuer launched 24/7 onchain access to more than 100 U.S. stocks and ETFs.</p>\n\n<p>Last year, the tokenized real-world asset issuer launched 24/7 onchain access to more tha",
-      "impact": {}
-    },
-    {
-      "event_id": "0d959d87-ba07-47e7-b467-9e86cb22093f",
-      "source": "rss:cointelegraph",
-      "title": "Nigel Farage to resign from UK Parliament amid crypto “gift” scandal, will stand in by-election",
-      "url": "https://cointelegraph.com/news/nigel-farage-resigns-crypto-donation-scandal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-07T16:27:19+00:00",
-      "raw_text": "Nigel Farage to resign from UK Parliament amid crypto “gift” scandal, will stand in by-election\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Nigel Farage to resign from UK Parliament amid crypto “gift” scandal, will stand in by-election\" class=\"type:primaryImage\" src=\"htt",
-      "impact": {}
-    },
-    {
-      "event_id": "6cd18cb1-aa11-4021-9ee0-abb2b5f1b5e3",
-      "source": "rss:coindesk",
-      "title": "SpaceX IPO powers record $3.86 billion in tokenized equities trading in June",
-      "url": "https://www.coindesk.com/markets/2026/07/07/spacex-ipo-powers-record-usd3-86-billion-in-tokenized-equities-trading-in-june",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-07T16:18:18+00:00",
-      "raw_text": "SpaceX IPO powers record $3.86 billion in tokenized equities trading in June",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 180,
+        "avg_1h": -0.09,
+        "avg_24h": 0.42,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 194,
+        "count": 195,
         "avg_1h": -0.05,
         "avg_24h": 0.16,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 98,
+        "count": 96,
         "avg_1h": 0.07,
         "avg_24h": -0.65,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 179,
-        "avg_1h": -0.09,
-        "avg_24h": 0.42,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
