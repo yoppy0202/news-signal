@@ -1,6 +1,186 @@
 {
-  "generated_at": "2026-07-16T06:28:30.810457+00:00",
+  "generated_at": "2026-07-16T09:23:42.020416+00:00",
   "events": [
+    {
+      "event_id": "d6910c4b-9be3-4710-a074-f955879388ba",
+      "source": "rss:decrypt",
+      "title": "US Senate Unanimously Opposes Sam Bankman-Fried Pardon",
+      "url": "https://decrypt.co/373629/us-senate-unanimously-opposes-sam-bankman-fried-pardon",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-16T08:34:03+00:00",
+      "raw_text": "US Senate Unanimously Opposes Sam Bankman-Fried Pardon\n\nThe nonbinding resolution said the disgraced FTX founder should 'under no circumstances' receive clemency.",
+      "impact": {}
+    },
+    {
+      "event_id": "fc7e9276-f344-4fd0-b898-7d60802fdb72",
+      "source": "rss:theblock",
+      "title": "Visa says stablecoins will power micro-commerce in AI agentic economy",
+      "url": "https://www.theblock.co/post/408574/visa-stablecoins-agentic-ai-commerce?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-16T08:29:18+00:00",
+      "raw_text": "Visa says stablecoins will power micro-commerce in AI agentic economy\n\n<p>Visa said it expects agentic commerce to integrate a hybrid flow that combines both card and stablecoin rails at different stages of a task.</p>\n\n<p>Visa said it expects agentic commerce to integrate a hybrid flow that combine",
+      "impact": {}
+    },
+    {
+      "event_id": "87b71766-ed17-4f8a-b15e-73b3596326e3",
+      "source": "rss:cointelegraph",
+      "title": "Tether invests $20M into Argentine neobank Ualá",
+      "url": "https://cointelegraph.com/news/tether-invests-20m-argentine-neobank-uala?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-16T08:27:31+00:00",
+      "raw_text": "Tether invests $20M into Argentine neobank Ualá\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether invests $20M into Argentine neobank Ualá\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-tether-development.jpg\" /></p><p>Tether report",
+      "impact": {}
+    },
+    {
+      "event_id": "ea574cd9-c675-4cff-9e35-aa93d3e1d287",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin $107K buyers providing ‘early signals’ of 2026 bear-market bottom: Glassnode",
+      "url": "https://cointelegraph.com/markets/bitcoin-107-buyers-providing-early-signals-of-2026-bear-market-bottom-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-16T08:11:25+00:00",
+      "raw_text": "Bitcoin $107K buyers providing ‘early signals’ of 2026 bear-market bottom: Glassnode\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin $107K buyers providing ‘early signals’ of 2026 bear-market bottom: Glassnode\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia",
+      "impact": {}
+    },
+    {
+      "event_id": "01fa7fdc-f4d8-46da-82d4-ef7473770fdc",
+      "source": "rss:cointelegraph",
+      "title": "Robinhood Chain memecoin launchpad Vlad.fun halts after ‘internal integrity’ issue",
+      "url": "https://cointelegraph.com/news/robinhood-chain-memecoin-vladfun-halts-integrity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-16T07:43:45+00:00",
+      "raw_text": "Robinhood Chain memecoin launchpad Vlad.fun halts after ‘internal integrity’ issue\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Robinhood Chain memecoin launchpad Vlad.fun halts after ‘internal integrity’ issue\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/",
+      "impact": {}
+    },
+    {
+      "event_id": "6d528da0-f34d-4c69-9fa5-4e4df353b34f",
+      "source": "rss:theblock",
+      "title": "Bitcoin whale moves $383 million in BTC after 8 years of dormancy: onchain data",
+      "url": "https://www.theblock.co/post/408570/bitcoin-whale-moves-8-years?utm_source=rss&utm_medium=rss",
+      "event_type": "whale_move",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-16T06:54:08+00:00",
+      "raw_text": "Bitcoin whale moves $383 million in BTC after 8 years of dormancy: onchain data\n\n<p>A bitcoin OG wallet transferred 5,908 BTC to a new address on Wednesday, according to Lookonchain, citing Arkham data.</p>\n\n<p>A bitcoin OG wallet transferred 5,908 BTC to a new address on Wednesday, according to Loo",
+      "impact": {}
+    },
+    {
+      "event_id": "da3fe0fb-67e6-4def-b08f-3e97b351d653",
+      "source": "rss:cointelegraph",
+      "title": "Hyperion DeFi to deploy 500K HYPE for Hyperliquid HIP-3 markets",
+      "url": "https://cointelegraph.com/news/hyperion-defi-to-deploy-500k-hype-for-hyperliquid-hip-3-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-16T06:41:14+00:00",
+      "raw_text": "Hyperion DeFi to deploy 500K HYPE for Hyperliquid HIP-3 markets\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hyperion DeFi to deploy 500K HYPE for Hyperliquid HIP-3 markets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/analitycs2021-hyp",
+      "impact": {}
+    },
+    {
+      "event_id": "7f92b56f-09e3-4901-95bc-5cb013f41937",
+      "source": "rss:coindesk",
+      "title": "Live updates: ZachXBT calls hardware wallets complete garbage; BTC steady after Korea rate hike",
+      "url": "https://www.coindesk.com/markets/2026/07/16/live-updates-zachxbt-calls-hardware-wallets-complete-garbage-btc-steady-near-usd65-000",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-16T06:20:00+00:00",
+      "raw_text": "Live updates: ZachXBT calls hardware wallets complete garbage; BTC steady after Korea rate hike",
+      "impact": {}
+    },
+    {
+      "event_id": "0d34ac58-6034-4957-a37b-26c107eb67d3",
+      "source": "rss:coindesk",
+      "title": "Live updates: ZachXBT calls hardware wallets complete garbage; BTC steady near $65,000",
+      "url": "https://www.coindesk.com/markets/2026/07/16/live-updates-zachxbt-calls-hardware-wallets-complete-garbage-btc-steady-near-usd65-000",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-16T06:20:00+00:00",
+      "raw_text": "Live updates: ZachXBT calls hardware wallets complete garbage; BTC steady near $65,000",
+      "impact": {}
+    },
+    {
+      "event_id": "c7356ba5-e443-46e9-b6ca-9c7a166b449f",
+      "source": "rss:coindesk",
+      "title": "U.S. Senate unanimously opposes clemency for FTX founder Sam Bankman-Fried",
+      "url": "https://www.coindesk.com/policy/2026/07/16/u-s-senate-unanimously-opposes-clemency-for-ftx-founder-sam-bankman-fried",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-16T06:00:43+00:00",
+      "raw_text": "U.S. Senate unanimously opposes clemency for FTX founder Sam Bankman-Fried",
+      "impact": {}
+    },
+    {
+      "event_id": "ad2f7a59-0056-477c-a883-7d28913a5caa",
+      "source": "rss:coindesk",
+      "title": "A bitcoin wallet dormant since the 2017 peak just moved $383 million",
+      "url": "https://www.coindesk.com/markets/2026/07/16/a-bitcoin-wallet-dormant-since-the-2017-peak-just-moved-usd383-million",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-16T05:12:26+00:00",
+      "raw_text": "A bitcoin wallet dormant since the 2017 peak just moved $383 million",
+      "impact": {}
+    },
+    {
+      "event_id": "e7c57c45-8187-4a24-97e6-f48c5f2239a7",
+      "source": "rss:coindesk",
+      "title": "Ether outruns bitcoin as ETF money returns, almost all of from BlackRock's fund",
+      "url": "https://www.coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-16T04:56:15+00:00",
+      "raw_text": "Ether outruns bitcoin as ETF money returns, almost all of from BlackRock's fund",
+      "impact": {}
+    },
+    {
+      "event_id": "67917c8a-afff-464e-9273-66cf9b066827",
+      "source": "rss:cointelegraph",
+      "title": "Trump to meet with senators over CLARITY Act on Thursday: Politico",
+      "url": "https://cointelegraph.com/news/trump-to-meet-with-senators-over-clarity-act-on-thursday-politico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-16T04:18:29+00:00",
+      "raw_text": "Trump to meet with senators over CLARITY Act on Thursday: Politico\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump to meet with senators over CLARITY Act on Thursday: Politico\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/trump-signi",
+      "impact": {}
+    },
+    {
+      "event_id": "91abd03e-548f-4694-a8f0-2fb388ab5757",
+      "source": "rss:coindesk",
+      "title": "Two groups of bitcoin investors sell on the rise as U.S. inflation lifts prices to nearly $65,000",
+      "url": "https://www.coindesk.com/markets/2026/07/16/two-groups-of-bitcoin-investors-sell-on-the-rise-as-inflation-lifts-prices-to-nearly-usd65-000",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-16T04:09:10+00:00",
+      "raw_text": "Two groups of bitcoin investors sell on the rise as U.S. inflation lifts prices to nearly $65,000",
+      "impact": {}
+    },
+    {
+      "event_id": "aec63ffe-421e-4075-9625-a19f9a249403",
+      "source": "rss:coindesk",
+      "title": "Two groups of bitcoin Investors sell on the rise as U.S. inflation lifts prices to nearly $65,000",
+      "url": "https://www.coindesk.com/markets/2026/07/16/two-groups-of-bitcoin-investors-sell-on-the-rise-as-inflation-lifts-prices-to-nearly-usd65-000",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-16T04:09:10+00:00",
+      "raw_text": "Two groups of bitcoin Investors sell on the rise as U.S. inflation lifts prices to nearly $65,000",
+      "impact": {}
+    },
     {
       "event_id": "76ca35cc-be52-4423-9a0e-5c5c87251728",
       "source": "rss:coindesk",
@@ -246,6 +426,18 @@
       "tokens": [],
       "timestamp_utc": "2026-07-15T17:58:49+00:00",
       "raw_text": "Coinbase’s Jesse Pollak hands Base app leadership to Cobie after admitting social bets fell short\n\n<p>Coinbase executive Jesse Pollak will focus on Base blockchain's infrastructure, prioritizing trading, stablecoin payments, and AI agents.</p>\n\n<p>Coinbase executive Jesse Pollak will focus on Base b",
+      "impact": {}
+    },
+    {
+      "event_id": "010f6b91-d8b5-4341-8f32-99f5bf670447",
+      "source": "rss:cointelegraph",
+      "title": "US senator blasts AG pick for ‘dismantling’ crypto unit, Trump’s CZ pardon",
+      "url": "https://cointelegraph.com/news/todd-blanche-hearing-dismantling-justice-crypto-unit-donald-trumps-pardon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-15T17:56:00+00:00",
+      "raw_text": "US senator blasts AG pick for ‘dismantling’ crypto unit, Trump’s CZ pardon\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US senator blasts AG pick for ‘dismantling’ crypto unit, Trump’s CZ pardon\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-co",
       "impact": {}
     },
     {
@@ -6198,256 +6390,43 @@
       "timestamp_utc": "2026-07-08T21:00:02+00:00",
       "raw_text": "Binance Wallet adds Plume’s yield vault offering access to Invesco and Bitwise funds\n\n<p>Binance Wallet has added Plume's yield vault, giving users access to tokenized funds managed by Invesco and Bitwise.</p>\n\n<p>Binance Wallet has added Plume's yield vault, giving users access to tokenized funds m",
       "impact": {}
-    },
-    {
-      "event_id": "227385d4-4c41-4e64-8870-f190e2aa0290",
-      "source": "rss:theblock",
-      "title": "‘Best course of action:’ DeFi dashboard Zapper to shut down after 7 years",
-      "url": "https://www.theblock.co/post/407634/defi-dashboard-zapper-shut-down-after-7-years?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-08T20:57:05+00:00",
-      "raw_text": "‘Best course of action:’ DeFi dashboard Zapper to shut down after 7 years\n\n<p>Zapper, which started as a portfolio tracker, raised a $15 million Series A led by Framework Ventures in May 2021.</p>\n\n<p>Zapper, which started as a portfolio tracker, raised a $15 million Series A led by Framework Ventur",
-      "impact": {}
-    },
-    {
-      "event_id": "08cfdfe9-419c-4f24-9950-a86bb4f3b2d9",
-      "source": "rss:decrypt",
-      "title": "Paradigm Raises $1.2 Billion Fund as Crypto VC Pushes Further Into AI",
-      "url": "https://decrypt.co/373088/paradigm-billion-fund-crypto-vc-ai",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-08T20:40:38+00:00",
-      "raw_text": "Paradigm Raises $1.2 Billion Fund as Crypto VC Pushes Further Into AI\n\nThe investment firm said its fourth fund will back AI, robotics, and crypto startups as it broadens beyond digital assets.",
-      "impact": {}
-    },
-    {
-      "event_id": "628aa1d4-24dd-4380-b6cd-7e87201b00f6",
-      "source": "rss:cointelegraph",
-      "title": "Tokenized stock transfers surge 105% in a month to $8.4B",
-      "url": "https://cointelegraph.com/news/tokenized-stock-transfers-surge-105-in-a-month-to-84b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-08T20:29:10+00:00",
-      "raw_text": "Tokenized stock transfers surge 105% in a month to $8.4B\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tokenized stock transfers surge 105% in a month to $8.4B\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the-biggest-challenge-for-cr",
-      "impact": {}
-    },
-    {
-      "event_id": "96d43343-ee9d-47a3-b7d9-3ff6ffe906d7",
-      "source": "rss:decrypt",
-      "title": "Bitcoin Stalls as Ethereum Flashes Worst Weekly Signal in Years: Analysis",
-      "url": "https://decrypt.co/373060/bitcoin-price-stalls-ethereum-flashes-worst-weekly-signal-years",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-07-08T19:23:13+00:00",
-      "raw_text": "Bitcoin Stalls as Ethereum Flashes Worst Weekly Signal in Years: Analysis\n\nBitcoin is looking slightly more optimistic but failed the breakout everyone was watching. Meanwhile, ETH just printed a weekly death cross for the first time in years.",
-      "impact": {
-        "t_plus_5m": -0.1381,
-        "t_plus_15m": -0.0316,
-        "t_plus_1h": -0.1071,
-        "t_plus_4h": 0.068
-      }
-    },
-    {
-      "event_id": "bdfc1635-3f37-43f2-b319-f23b22cad691",
-      "source": "rss:cointelegraph",
-      "title": "Officials set to revise MiCA to cover non-EU stablecoin issuers: Report",
-      "url": "https://cointelegraph.com/news/officials-revise-mica-non-eu-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-08T19:14:15+00:00",
-      "raw_text": "Officials set to revise MiCA to cover non-EU stablecoin issuers: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Officials set to revise MiCA to cover non-EU stablecoin issuers: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/h",
-      "impact": {}
-    },
-    {
-      "event_id": "434ee26f-c3d6-4662-8cd4-bb9e1e3b051f",
-      "source": "rss:theblock",
-      "title": "Cash App owner Block to pay $45 million after states say it made false security promises",
-      "url": "https://www.theblock.co/post/407623/cash-app-owner-block-pay-45-million-states-say-it-made-false-security-promises?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-08T19:00:29+00:00",
-      "raw_text": "Cash App owner Block to pay $45 million after states say it made false security promises\n\n<p>Block Inc. has agreed to pay $45 million to settle allegations brought by regulators in nearly every U.S. state. </p>\n\n<p>Block Inc. has agreed to pay $45 million to settle allegations brought by regulators ",
-      "impact": {}
-    },
-    {
-      "event_id": "c4aa13dd-cad8-4ce0-8beb-23aa257a13ab",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin peels back to $62K as Fed-wary futures traders cut risk: Is the BTC rally over?",
-      "url": "https://cointelegraph.com/markets/bitcoin-peels-back-to-62k-as-fed-wary-futures-traders-cut-risk-is-the-btc-rally-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-08T18:41:25+00:00",
-      "raw_text": "Bitcoin peels back to $62K as Fed-wary futures traders cut risk: Is the BTC rally over?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin peels back to $62K as Fed-wary futures traders cut risk: Is the BTC rally over?\" class=\"type:primaryImage\" src=\"https://s3-images.c",
-      "impact": {
-        "t_plus_5m": -0.3298,
-        "t_plus_15m": -0.0845,
-        "t_plus_1h": -0.0542,
-        "t_plus_4h": -0.0115
-      }
-    },
-    {
-      "event_id": "ee5def6d-ae8d-4c55-8cdb-b8df5f3ea1bc",
-      "source": "rss:decrypt",
-      "title": "Bitcoin ETFs 'Turning a Corner' After Record Bleed Hits $8 Billion",
-      "url": "https://decrypt.co/373029/bitcoin-etfs-turning-corner-after-record-bleed",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-08T18:24:56+00:00",
-      "raw_text": "Bitcoin ETFs 'Turning a Corner' After Record Bleed Hits $8 Billion\n\nInvestors had backed away from Bitcoin since mid-May.",
-      "impact": {}
-    },
-    {
-      "event_id": "c524460b-61b6-4675-b511-cf5d5dccb62c",
-      "source": "rss:bitcoinmagazine",
-      "title": "CFTC Chair Says Clarity Act Is ‘So Close’ As August Deadline Nears",
-      "url": "https://bitcoinmagazine.com/news/cftc-chair-says-clarity-act-is-so-close",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-08T17:55:34+00:00",
-      "raw_text": "CFTC Chair Says Clarity Act Is ‘So Close’ As August Deadline Nears\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Scott-Bessent-Backs-Strategic-Bitcoin-Reserve-Urges-Senate-to-Pass-Clarity-Act.jpg\" ",
-      "impact": {}
-    },
-    {
-      "event_id": "9c078229-060e-4f82-b457-d46d4db99e94",
-      "source": "rss:cointelegraph",
-      "title": "Adam Back’s Bitcoin treasury company seeks new terms with Cantor for SPAC merger",
-      "url": "https://cointelegraph.com/news/adam-back-bitcoin-treasury-company-terms-spac?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-08T17:31:36+00:00",
-      "raw_text": "Adam Back’s Bitcoin treasury company seeks new terms with Cantor for SPAC merger\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Adam Back’s Bitcoin treasury company seeks new terms with Cantor for SPAC merger\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
-      "impact": {}
-    },
-    {
-      "event_id": "33c6a0f2-c172-4c2d-bc14-0a20e77fed61",
-      "source": "rss:cointelegraph",
-      "title": "Stablecoin-settled TradFi perpetual trading tops $1.1T: Binance Research",
-      "url": "https://cointelegraph.com/news/tradfi-perpetual-trading-surpasses-11t-in-2026-binance-research-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-08T17:23:19+00:00",
-      "raw_text": "Stablecoin-settled TradFi perpetual trading tops $1.1T: Binance Research\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stablecoin-settled TradFi perpetual trading tops $1.1T: Binance Research\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
-      "impact": {}
-    },
-    {
-      "event_id": "20f25433-49f6-49c8-91a9-f21b1ff3fcea",
-      "source": "rss:cointelegraph",
-      "title": "Bank of England governor denies Farage lobbying swayed CBDC policy: Report",
-      "url": "https://cointelegraph.com/news/bank-of-england-governor-denies-farage-lobbying-swayed-cbdc-policy-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-08T17:11:05+00:00",
-      "raw_text": "Bank of England governor denies Farage lobbying swayed CBDC policy: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bank of England governor denies Farage lobbying swayed CBDC policy: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-co",
-      "impact": {}
-    },
-    {
-      "event_id": "22554bdd-5283-46a3-988c-cfb2a0064c8d",
-      "source": "rss:theblock",
-      "title": "Paradigm raises $1.2 billion fourth fund, expanding beyond crypto into AI and robotics",
-      "url": "https://www.theblock.co/post/407617/paradigm-raises-1-2-billion-fourth-fund-crypto-ai-robotics?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-08T17:02:55+00:00",
-      "raw_text": "Paradigm raises $1.2 billion fourth fund, expanding beyond crypto into AI and robotics\n\n<p>Crypto venture firm Paradigm has raised its fourth fund, a $1.2 billion vehicle that will invest in crypto, AI, robotics, and other startups.</p>\n\n<p>Crypto venture firm Paradigm has raised its fourth fund, a ",
-      "impact": {}
-    },
-    {
-      "event_id": "23dc8356-7f72-4a2c-affa-c00903e9e42c",
-      "source": "rss:decrypt",
-      "title": "Lucky Trader Turns $85 Into $2 Million on Robinhood Chain Meme Coin",
-      "url": "https://decrypt.co/373052/lucky-trader-robinhood-chain-meme-coin-cashcat",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-08T16:59:23+00:00",
-      "raw_text": "Lucky Trader Turns $85 Into $2 Million on Robinhood Chain Meme Coin\n\nThe meme coin CashCat on Robinhood Chain is the latest flavor of the hour, and one trader has turned a mini-investment into a small fortune in less than three weeks.",
-      "impact": {}
-    },
-    {
-      "event_id": "0811775d-2c1a-4ea3-90ae-c1756ab24623",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bull Bitcoin Files Landmark Legal Challenge to Annul France’s DAC8 Crypto Data Surveillance Rules",
-      "url": "https://bitcoinmagazine.com/legal/bull-bitcoin-files-landmark-legal-challenge-to-annul-frances-dac8-crypto-data-surveillance-rules",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-08T16:40:26+00:00",
-      "raw_text": "Bull Bitcoin Files Landmark Legal Challenge to Annul France’s DAC8 Crypto Data Surveillance Rules\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/dac8-en.webp\" style=\"display: block; margin: 1em auto",
-      "impact": {}
-    },
-    {
-      "event_id": "b9972f49-088e-4908-906c-b90a3c408883",
-      "source": "rss:decrypt",
-      "title": "BNB Chain Plans New Layer-1 for AI Agents and Quantum Future",
-      "url": "https://decrypt.co/373042/bnb-chain-new-layer-1-ai-agents-high-speed-trading-quantum",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "BNB"
-      ],
-      "timestamp_utc": "2026-07-08T16:14:20+00:00",
-      "raw_text": "BNB Chain Plans New Layer-1 for AI Agents and Quantum Future\n\nThe network’s 2026 roadmap targets faster transactions, AI-powered apps, and infrastructure aimed at competing with traditional financial systems, while preparing for a quantum future.",
-      "impact": {
-        "t_plus_5m": -0.5231,
-        "t_plus_15m": -0.4051,
-        "t_plus_1h": -0.0214,
-        "t_plus_4h": 0.1207
-      }
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 180,
-        "avg_1h": -0.04,
-        "avg_24h": -0.75,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 188,
+        "count": 184,
         "avg_1h": -0.04,
         "avg_24h": -0.22,
         "win_rate_1h_gt5pct": 0.0
       },
+      "unknown": {
+        "count": 186,
+        "avg_1h": -0.04,
+        "avg_24h": -0.75,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "whale_move": {
+        "count": 4,
+        "avg_1h": 0.2,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "listing": {
+        "count": 8,
+        "avg_1h": 0.52,
+        "avg_24h": 0.89,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 98,
+        "count": 95,
         "avg_1h": 0.06,
         "avg_24h": 0.83,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 24,
+        "count": 23,
         "avg_1h": -0.02,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "listing": {
-        "count": 7,
-        "avg_1h": 0.52,
-        "avg_24h": 0.89,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "whale_move": {
-        "count": 3,
-        "avg_1h": 0.2,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       }
