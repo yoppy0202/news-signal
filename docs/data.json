@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T20:09:00.490145+00:00",
+  "generated_at": "2026-07-16T21:14:09.499173+00:00",
   "events": [
     {
       "event_id": "86d1b76a-d678-432e-b69d-ac39b850e32b",
@@ -44,10 +44,17 @@
       "url": "https://bitcoinmagazine.com/news/t-rowe-price-debuts-new-bitcoin-etf",
       "event_type": "listing",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "XRP",
+        "BNB"
+      ],
       "timestamp_utc": "2026-07-16T19:00:45+00:00",
       "raw_text": "T. Rowe Price Debuts New ETF With Bitcoin and Crypto Exposure\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/T-Rowe-Price-debuts.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"http",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.3588,
+        "t_plus_15m": -0.3058,
+        "t_plus_1h": 0.0073
+      }
     },
     {
       "event_id": "7492a86f-04eb-4815-b4dc-d0ffeffd9a44",
@@ -316,7 +323,8 @@
       "impact": {
         "t_plus_5m": 0.272,
         "t_plus_15m": 0.3168,
-        "t_plus_1h": -0.1726
+        "t_plus_1h": -0.1726,
+        "t_plus_4h": -0.48
       }
     },
     {
@@ -6439,7 +6447,7 @@
       },
       "listing": {
         "count": 9,
-        "avg_1h": 0.32,
+        "avg_1h": 0.24,
         "avg_24h": 0.89,
         "win_rate_1h_gt5pct": 0.0
       },
