@@ -1,6 +1,84 @@
 {
-  "generated_at": "2026-07-16T21:14:09.499173+00:00",
+  "generated_at": "2026-07-16T23:08:27.076579+00:00",
   "events": [
+    {
+      "event_id": "c0a98c4f-9378-4333-8d48-6b9baac507d2",
+      "source": "rss:bitcoinmagazine",
+      "title": "Crypto.com Secures $400M Investment From Citadel Securities at $20B Valuation",
+      "url": "https://bitcoinmagazine.com/news/crypto-com-400m-investment-citadel",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-16T21:09:28+00:00",
+      "raw_text": "Crypto.com Secures $400M Investment From Citadel Securities at $20B Valuation\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Pics.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"htt",
+      "impact": {}
+    },
+    {
+      "event_id": "c114ea16-c39c-433c-ac36-7cdddb4a203b",
+      "source": "rss:decrypt",
+      "title": "Leaks Reveal Suno Fed Thousands of Hours of Deezer, YouTube and Pond5 Data Into Its AI",
+      "url": "https://decrypt.co/373682/leaks-reveal-suno-fed-thousands-hours-deezer-youtube-pond5-data-ai",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-16T21:01:03+00:00",
+      "raw_text": "Leaks Reveal Suno Fed Thousands of Hours of Deezer, YouTube and Pond5 Data Into Its AI\n\nSource code leaked reveals how substantial portions of Suno’s training library were assembled.",
+      "impact": {}
+    },
+    {
+      "event_id": "198a70e8-9e9f-4d17-bd16-868d93493a3a",
+      "source": "rss:cointelegraph",
+      "title": "Trump teleprompter operator made $100K betting on Kalshi markets tied to speeches: ABC",
+      "url": "https://cointelegraph.com/news/trump-teleprompter-operator-made-100k-betting-kalshi-markets-tied-to-speeches-abc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-16T20:49:23+00:00",
+      "raw_text": "Trump teleprompter operator made $100K betting on Kalshi markets tied to speeches: ABC\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump teleprompter operator made $100K betting on Kalshi markets tied to speeches: ABC\" class=\"type:primaryImage\" src=\"https://s3-images.ctm",
+      "impact": {}
+    },
+    {
+      "event_id": "f5624b95-ddfd-4b0a-b9d9-f5625c8a221a",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin outlook improves amid 6% weekly gain: Can BTC bulls push higher?",
+      "url": "https://cointelegraph.com/markets/bitcoin-outlook-improves-amid-6-weekly-gain-can-btc-bulls-push-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-07-16T20:29:20+00:00",
+      "raw_text": "Bitcoin outlook improves amid 6% weekly gain: Can BTC bulls push higher?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin outlook improves amid 6% weekly gain: Can BTC bulls push higher?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
+      "impact": {
+        "t_plus_5m": 0.0221,
+        "t_plus_15m": -0.0582,
+        "t_plus_1h": 0.0053
+      }
+    },
+    {
+      "event_id": "df3bbfdd-0d43-429e-9cbf-d145e3fc35fa",
+      "source": "rss:cointelegraph",
+      "title": "1inch co-founder says he was fired, announces new venture",
+      "url": "https://cointelegraph.com/news/1inch-co-founder-not-involved-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-16T20:05:45+00:00",
+      "raw_text": "1inch co-founder says he was fired, announces new venture\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"1inch co-founder says he was fired, announces new venture \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/layoffs-fired-human-resource",
+      "impact": {}
+    },
+    {
+      "event_id": "dc07ef57-a31c-422f-8020-33fff1d00dd5",
+      "source": "rss:decrypt",
+      "title": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade",
+      "url": "https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-16T20:01:03+00:00",
+      "raw_text": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade\n\nEligible customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.",
+      "impact": {}
+    },
     {
       "event_id": "86d1b76a-d678-432e-b69d-ac39b850e32b",
       "source": "rss:theblock",
@@ -203,7 +281,8 @@
       "impact": {
         "t_plus_5m": 0.7687,
         "t_plus_15m": 0.5302,
-        "t_plus_1h": 0.0276
+        "t_plus_1h": 0.0276,
+        "t_plus_4h": -0.2854
       }
     },
     {
@@ -221,7 +300,8 @@
       "impact": {
         "t_plus_5m": 0.532,
         "t_plus_15m": 0.2971,
-        "t_plus_1h": -0.0774
+        "t_plus_1h": -0.0774,
+        "t_plus_4h": -0.0678
       }
     },
     {
@@ -6351,104 +6431,32 @@
       "timestamp_utc": "2026-07-09T14:50:41+00:00",
       "raw_text": "BitGo Adds Quantum-Risk Controls to Bitcoin Custody\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/BitGo-Adds-Quantum-Risk-Controls-to-Bitcoin-Custody.jpg\" style=\"display: block; margin: 1em auto;\" ",
       "impact": {}
-    },
-    {
-      "event_id": "cd600eb2-0c0e-47d7-8e2d-e6238afdf2bc",
-      "source": "rss:theblock",
-      "title": "MARA gains 14% after unveiling 2 GW Texas AI and bitcoin mining campus plan",
-      "url": "https://www.theblock.co/post/407730/mara-stock-gains-unveiling-2-gw-texas-ai-bitcoin-mining-campus-plan?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-09T14:38:29+00:00",
-      "raw_text": "MARA gains 14% after unveiling 2 GW Texas AI and bitcoin mining campus plan\n\n<p>The deal isn't an upfront purchase, but is structured instead as up to $600 million in milestone-based payments</p>\n\n<p>The deal isn't an upfront purchase, but is structured instead as up to $600 million in milestone-bas",
-      "impact": {}
-    },
-    {
-      "event_id": "fb279fd9-7cf0-4e04-8d5f-816f398f0187",
-      "source": "rss:theblock",
-      "title": "Hong Kong SFC orders crypto platforms, online brokers to phase out OTP logins",
-      "url": "https://www.theblock.co/post/407732/hong-kong-sfc-orders-crypto-platforms-online-brokers-to-phase-out-otp-logins?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-09T14:01:43+00:00",
-      "raw_text": "Hong Kong SFC orders crypto platforms, online brokers to phase out OTP logins\n\n<p>Hong Kong SFC orders internet brokers, crypto platforms to replace OTP logins with passkeys within 12 months following 57% spoofing surge.</p>\n\n<p>Hong Kong SFC orders internet brokers, crypto platforms to replace OTP ",
-      "impact": {}
-    },
-    {
-      "event_id": "7624b526-d855-49cc-8c69-16b7cac2a141",
-      "source": "rss:theblock",
-      "title": "PayPal seeks to increase use of PYUSD stablecoin with native issuance on Polygon",
-      "url": "https://www.theblock.co/post/407719/paypal-seeks-increase-pyusd-stablecoin-native-issuance-on-polygon?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-09T13:54:53+00:00",
-      "raw_text": "PayPal seeks to increase use of PYUSD stablecoin with native issuance on Polygon\n\n<p>The company said its stablecoin will now be issued natively on Polygon, in addition to becoming available through Polygon's Open Money Stack.</p>\n\n<p>The company said its stablecoin will now be issued natively on Po",
-      "impact": {}
-    },
-    {
-      "event_id": "dc1f9425-6ce9-465d-9d54-bd5f24bd25f0",
-      "source": "rss:theblock",
-      "title": "Tarun Chitra’s Gauntlet raises $125 million Series C from sole investor SBI Holdings",
-      "url": "https://www.theblock.co/post/407723/tarun-chitra-gauntlet-125-million-series-c-funding-sbi-holdings?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-09T13:42:54+00:00",
-      "raw_text": "Tarun Chitra’s Gauntlet raises $125 million Series C from sole investor SBI Holdings\n\n<p>Chitra said he expects tokenization and vaults to grow the DeFi market faster than overall stablecoin growth over the next few years.</p>\n\n<p>Chitra said he expects tokenization and vaults to grow the DeFi marke",
-      "impact": {}
-    },
-    {
-      "event_id": "b76c8184-f90f-47e6-8184-3f2f5d3c3167",
-      "source": "rss:bitcoinmagazine",
-      "title": "Russia’s Largest Private Bank Alfa-Bank To Test Bitcoin and Crypto Trading",
-      "url": "https://bitcoinmagazine.com/news/russias-largest-private-bank-alfa-bank",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-09T13:40:50+00:00",
-      "raw_text": "Russia’s Largest Private Bank Alfa-Bank To Test Bitcoin and Crypto Trading\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Russias-Largest-Private-Bank-Alfa-Bank-To-Test-Bitcoin-and-Crypto-Trading.jp",
-      "impact": {}
-    },
-    {
-      "event_id": "5494e179-89fc-46f9-9620-ea2483eeaf82",
-      "source": "rss:theblock",
-      "title": "‘Bottom building in progress’: Analysts say bitcoin holder capitulation signals late-stage bear market",
-      "url": "https://www.theblock.co/post/407713/bottom-building-in-progress-analysts-say-bitcoin-holder-capitulation-signals-late-stage-bear-market?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-09T13:33:53+00:00",
-      "raw_text": "‘Bottom building in progress’: Analysts say bitcoin holder capitulation signals late-stage bear market\n\n<p>Bitcoin long-term holder capitulation hit $280M/day, the highest since Dec 2022, a sign Glassnode says may flag a bottom forming.</p>\n\n<p>Bitcoin long-term holder capitulation hit $280M/day, th",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 180,
-        "avg_1h": 0.0,
-        "avg_24h": -0.8,
+      "listing": {
+        "count": 10,
+        "avg_1h": 0.24,
+        "avg_24h": 0.89,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 100,
-        "avg_1h": 0.09,
+        "count": 102,
+        "avg_1h": 0.08,
         "avg_24h": 0.83,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 183,
+        "count": 181,
         "avg_1h": -0.04,
         "avg_24h": -0.22,
         "win_rate_1h_gt5pct": 0.0
       },
-      "listing": {
-        "count": 9,
-        "avg_1h": 0.24,
-        "avg_24h": 0.89,
+      "unknown": {
+        "count": 179,
+        "avg_1h": 0.0,
+        "avg_24h": -0.8,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
