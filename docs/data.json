@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-16T03:33:54.852709+00:00",
+  "generated_at": "2026-07-16T06:28:30.810457+00:00",
   "events": [
+    {
+      "event_id": "76ca35cc-be52-4423-9a0e-5c5c87251728",
+      "source": "rss:coindesk",
+      "title": "Two Groups of bitcoin Investors sell on the rise as U.S. inflation lifts prices to nearly $65,000",
+      "url": "https://www.coindesk.com/markets/2026/07/16/two-groups-of-bitcoin-investors-sell-on-the-rise-as-inflation-lifts-prices-to-nearly-usd65-000",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-16T04:09:10+00:00",
+      "raw_text": "Two Groups of bitcoin Investors sell on the rise as U.S. inflation lifts prices to nearly $65,000",
+      "impact": {}
+    },
+    {
+      "event_id": "1f968cff-fc6c-43cf-b460-f158881a6b61",
+      "source": "rss:theblock",
+      "title": "California pair charged with laundering crypto proceeds from darknet fentanyl sales",
+      "url": "https://www.theblock.co/post/408560/california-duo-darknet-drug-crypto-money-laundering?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-16T02:23:34+00:00",
+      "raw_text": "California pair charged with laundering crypto proceeds from darknet fentanyl sales\n\n<p>The pair allegedly shipped over 500 drug parcels over a seven-month period and laundered hundreds of thousands of dollars through crypto.</p>\n\n<p>The pair allegedly shipped over 500 drug parcels over a seven-mont",
+      "impact": {}
+    },
+    {
+      "event_id": "1d51a5ef-5797-486a-9ba9-95f7feb06d07",
+      "source": "rss:cointelegraph",
+      "title": "Base’s social bet left it trailing in prediction markets and perps: Pollak",
+      "url": "https://cointelegraph.com/news/bases-social-bet-left-it-trailing-in-prediction-markets-and-perps-pollak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-16T01:14:58+00:00",
+      "raw_text": "Base’s social bet left it trailing in prediction markets and perps: Pollak\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Base’s social bet left it trailing in prediction markets and perps: Pollak\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-co",
+      "impact": {}
+    },
     {
       "event_id": "3a430a32-d1da-4bb8-b409-752072af1308",
       "source": "rss:theblock",
@@ -64,7 +100,8 @@
       "impact": {
         "t_plus_5m": 0.1071,
         "t_plus_15m": 0.1466,
-        "t_plus_1h": -0.0044
+        "t_plus_1h": -0.0044,
+        "t_plus_4h": -0.2906
       }
     },
     {
@@ -6374,63 +6411,20 @@
         "t_plus_1h": -0.0214,
         "t_plus_4h": 0.1207
       }
-    },
-    {
-      "event_id": "0e25643d-0b16-4384-a1f2-74653093f291",
-      "source": "rss:decrypt",
-      "title": "XRP Logo Lands on Kansas Jayhawks Jerseys as Ripple Inks Multi-Year Deal",
-      "url": "https://decrypt.co/373039/xrp-logo-kansas-jayhawks-jerseys-ripple-multi-year-deal",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-07-08T16:07:28+00:00",
-      "raw_text": "XRP Logo Lands on Kansas Jayhawks Jerseys as Ripple Inks Multi-Year Deal\n\nRipple and XRP become the latest crypto brands to enter the sports marketing space.",
-      "impact": {
-        "t_plus_5m": -0.8497,
-        "t_plus_15m": -0.6274,
-        "t_plus_1h": -0.0349,
-        "t_plus_4h": 0.579
-      }
-    },
-    {
-      "event_id": "fa304f07-9e53-4b55-b549-5ef1a289cd19",
-      "source": "rss:coindesk",
-      "title": "Polymarket bets on U.S. marketing blitz to win back trust after 4-year ban: Report",
-      "url": "https://www.coindesk.com/markets/2026/07/08/polymarket-bets-on-u-s-marketing-blitz-to-win-back-trust-after-4-year-ban-report",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-08T15:58:40+00:00",
-      "raw_text": "Polymarket bets on U.S. marketing blitz to win back trust after 4-year ban: Report",
-      "impact": {}
-    },
-    {
-      "event_id": "edd3c867-d94b-488c-a343-baa0d7d884b6",
-      "source": "rss:decrypt",
-      "title": "Malaysia Seizes Over 75,000 Crypto Mining Rigs in Power-Theft Crackdown",
-      "url": "https://decrypt.co/373030/malaysia-seizes-over-75000-crypto-mining-rigs-in-power-theft-crackdown",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-08T15:40:15+00:00",
-      "raw_text": "Malaysia Seizes Over 75,000 Crypto Mining Rigs in Power-Theft Crackdown\n\nMore than 3,000 raids since 2022 have led to 629 arrests, as authorities target miners siphoning electricity from the national grid.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 187,
-        "avg_1h": -0.04,
-        "avg_24h": -0.22,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 181,
+        "count": 180,
         "avg_1h": -0.04,
         "avg_24h": -0.75,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 188,
+        "avg_1h": -0.04,
+        "avg_24h": -0.22,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
