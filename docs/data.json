@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-15T23:09:27.716848+00:00",
+  "generated_at": "2026-07-16T00:08:25.652730+00:00",
   "events": [
+    {
+      "event_id": "3a430a32-d1da-4bb8-b409-752072af1308",
+      "source": "rss:theblock",
+      "title": "From Perpetual Swaps to Perpetual CFDs: The Regulated Evolution",
+      "url": "https://www.theblock.co/post/408553/from-perpetual-swaps-to-perpetual-cfds-the-regulated-evolution?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-15T23:19:00+00:00",
+      "raw_text": "From Perpetual Swaps to Perpetual CFDs: The Regulated Evolution\n\n<p>The 24/7 Trading Imperative Fixed exchange sessions are a structural mismatch with the global retail base. The NYSE opens at 9:30 a.m. Eastern and closes at 4:00 p.m., a window designed for an era when the participant base was conce",
+      "impact": {}
+    },
     {
       "event_id": "67c083fd-48d2-4684-8048-0c3593a9a7cf",
       "source": "rss:theblock",
@@ -44,10 +56,16 @@
       "url": "https://www.theblock.co/post/408532/strategy-ceo-bitcoin-debt-concerns-btc-interview?utm_source=rss&utm_medium=rss",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-15T21:08:05+00:00",
       "raw_text": "Strategy CEO says company isn’t going anywhere as bitcoin buyer, sees debt concerns only below $10,000 BTC\n\n<p>Strategy would begin considering risks associated with its debt only if bitcoin falls to around $8,000-$10,000, CEO Phong Le said.</p>\n\n<p>Strategy would begin considering risks associated ",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1071,
+        "t_plus_15m": 0.1466,
+        "t_plus_1h": -0.0044
+      }
     },
     {
       "event_id": "05342d06-5cc8-408e-8edd-e71d9442c35b",
@@ -6399,38 +6417,19 @@
       "timestamp_utc": "2026-07-08T15:40:15+00:00",
       "raw_text": "Malaysia Seizes Over 75,000 Crypto Mining Rigs in Power-Theft Crackdown\n\nMore than 3,000 raids since 2022 have led to 629 arrests, as authorities target miners siphoning electricity from the national grid.",
       "impact": {}
-    },
-    {
-      "event_id": "59c7757c-9136-48b7-b969-622df0567aeb",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin slides as Iran ceasefire collapse sees $75 oil on Hormuz blockade threats",
-      "url": "https://cointelegraph.com/markets/bitcoin-slides-as-iran-ceasefire-collapse-brings-back-hormuz-blockade-threat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-08T15:35:31+00:00",
-      "raw_text": "Bitcoin slides as Iran ceasefire collapse sees $75 oil on Hormuz blockade threats\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin slides as Iran ceasefire collapse sees $75 oil on Hormuz blockade threats\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me",
-      "impact": {
-        "t_plus_5m": -0.5428,
-        "t_plus_15m": -0.6361,
-        "t_plus_1h": -0.2676,
-        "t_plus_4h": 0.3063
-      }
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 186,
-        "avg_1h": -0.05,
+        "count": 187,
+        "avg_1h": -0.04,
         "avg_24h": -0.22,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 182,
-        "avg_1h": -0.05,
+        "count": 181,
+        "avg_1h": -0.04,
         "avg_24h": -0.75,
         "win_rate_1h_gt5pct": 0.0
       },
