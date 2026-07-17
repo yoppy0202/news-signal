@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-07-17T04:19:23.719394+00:00",
+  "generated_at": "2026-07-17T07:27:40.992972+00:00",
   "events": [
+    {
+      "event_id": "fd174e03-d49c-48d5-b9a5-a9fd859e2ebf",
+      "source": "rss:cointelegraph",
+      "title": "Ordinals advocate Leonidas proposes new Bitcoin client: ‘$DOG Mode’",
+      "url": "https://cointelegraph.com/news/ordinals-dev-leonidas-proposes-new-bitcoin-client-dog-mode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-17T05:54:04+00:00",
+      "raw_text": "Ordinals advocate Leonidas proposes new Bitcoin client: ‘$DOG Mode’\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ordinals advocate Leonidas proposes new Bitcoin client: ‘$DOG Mode’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/teaching-",
+      "impact": {}
+    },
+    {
+      "event_id": "fca8be0c-03bf-4c7a-ab7d-0a44d00e9be3",
+      "source": "rss:coindesk",
+      "title": "Bitcoin’s anti-spam fight gets a 'DOG Mode' reply",
+      "url": "https://www.coindesk.com/tech/2026/07/17/bitcoin-s-anti-spam-fight-gets-a-dog-mode-reply",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-17T05:32:00+00:00",
+      "raw_text": "Bitcoin’s anti-spam fight gets a 'DOG Mode' reply",
+      "impact": {}
+    },
+    {
+      "event_id": "297e70b6-601e-4eb6-a89e-6c20b0bcb157",
+      "source": "rss:theblock",
+      "title": "USDT vs USDC: Comparing the Two Largest Stablecoins",
+      "url": "https://www.theblock.co/learn/408738/usdt-vs-usdc-comparing-the-two-largest-stablecoins?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-17T04:22:22+00:00",
+      "raw_text": "USDT vs USDC: Comparing the Two Largest Stablecoins\n\n<p>USDT and USDC are stablecoins pegged one-to-one to the U.S. dollar, each backed by reserves covering every token in circulation. Tether&#8217;s USDT is the largest stablecoin, with the deepest liquidity across global exchanges. Circle&#8217;s U",
+      "impact": {}
+    },
+    {
+      "event_id": "2ac79d6d-5774-46f0-9110-02d7884aa2eb",
+      "source": "rss:cointelegraph",
+      "title": "Crypto exchange Bybit launches in Indonesia after NOBI acquisition",
+      "url": "https://cointelegraph.com/news/crypto-exchange-bybit-launches-in-indonesia-after-nobi-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-17T04:16:32+00:00",
+      "raw_text": "Crypto exchange Bybit launches in Indonesia after NOBI acquisition\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto exchange Bybit launches in Indonesia after NOBI acquisition\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bybit-gi",
+      "impact": {}
+    },
+    {
+      "event_id": "6f230d89-c401-4948-9c31-75d6cddcbe74",
+      "source": "rss:coindesk",
+      "title": "Bitcoin under $63,000 after new U.S. strike on Iran. Trump's China comment adds to uncertainty",
+      "url": "https://www.coindesk.com/markets/2026/07/17/bitcoin-under-usd64-000-after-u-s-strike-on-iran-trump-s-china-comment-adds-to-uncertainty",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-17T04:10:09+00:00",
+      "raw_text": "Bitcoin under $63,000 after new U.S. strike on Iran. Trump's China comment adds to uncertainty",
+      "impact": {}
+    },
     {
       "event_id": "1a101894-1ffe-463a-ac18-3dc13ad7901f",
       "source": "rss:coindesk",
@@ -56,10 +116,17 @@
       "url": "https://cointelegraph.com/markets/bitcoin-liquidity-clusters-determine-btcs-price-direction-as-futures-flow-fuels-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-17T00:12:40+00:00",
       "raw_text": "Bitcoin liquidity clusters determine BTC’s price direction as futures flow fuels price\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin liquidity clusters determine BTC’s price direction as futures flow fuels price\" class=\"type:primaryImage\" src=\"https://s3-images.ctm",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0261,
+        "t_plus_15m": -0.0714,
+        "t_plus_1h": 0.2506,
+        "t_plus_4h": -0.5158
+      }
     },
     {
       "event_id": "ff28a0b1-287a-47c4-aa1d-e783fb53b04e",
@@ -136,7 +203,8 @@
       "impact": {
         "t_plus_5m": 0.0221,
         "t_plus_15m": -0.0582,
-        "t_plus_1h": 0.0053
+        "t_plus_1h": 0.0053,
+        "t_plus_4h": -0.6106
       }
     },
     {
@@ -6365,93 +6433,26 @@
       "timestamp_utc": "2026-07-09T16:23:00+00:00",
       "raw_text": "Swift Readies Ledger for 24/7 Token Transfers—Though True Settlement Is Stuck on Old Rails\n\nSwift’s pilot allows 17 global banks to transfer tokenized deposits on weekends, but ultimate settlement still relies on legacy systems.",
       "impact": {}
-    },
-    {
-      "event_id": "3056d873-e9cf-490b-909e-f6ab8dc04dfc",
-      "source": "rss:theblock",
-      "title": "Hyperliquid Policy Center, Phantom urge CFTC to stop treating onchain protocols like traditional brokers and exchanges",
-      "url": "https://www.theblock.co/post/407780/hyperliquid-policy-center-phantom-urge-cftc-to-stop-treating-onchain-protocols-like-traditional-brokers-and-exchanges?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-09T16:00:23+00:00",
-      "raw_text": "Hyperliquid Policy Center, Phantom urge CFTC to stop treating onchain protocols like traditional brokers and exchanges\n\n<p>The CFTC and Securities and Exchange Commission issued a Request for Information in mid-June on financial innovation.</p>\n\n<p>The CFTC and Securities and Exchange Commission iss",
-      "impact": {}
-    },
-    {
-      "event_id": "3b7984e5-e3ac-484a-8fbd-5c5f62e48ec0",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin traders reveal key levels as BTC price passes $63K after Trump Iran 'deal' comments",
-      "url": "https://cointelegraph.com/markets/bitcoin-traders-reveal-key-levels-as-btc-price-passes-63k-after-trump-iran-deal-comments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-09T15:56:59+00:00",
-      "raw_text": "Bitcoin traders reveal key levels as BTC price passes $63K after Trump Iran 'deal' comments\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin traders reveal key levels as BTC price passes $63K after Trump Iran 'deal' comments\" class=\"type:primaryImage\" src=\"https://s3-",
-      "impact": {
-        "t_plus_5m": -0.2405,
-        "t_plus_15m": -0.2965,
-        "t_plus_1h": -0.6208,
-        "t_plus_4h": 0.2777
-      }
-    },
-    {
-      "event_id": "47eabf79-3432-4060-813d-797f04e0cabb",
-      "source": "rss:coindesk",
-      "title": "AI contracts, not bitcoin, now drive miner valuations, and Cipher and TeraWulf look cheap, says analyst",
-      "url": "https://www.coindesk.com/markets/2026/07/09/cipher-terawulf-among-ai-infrastructure-stocks-trading-below-contract-value-compass-point-argues",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-09T15:53:42+00:00",
-      "raw_text": "AI contracts, not bitcoin, now drive miner valuations, and Cipher and TeraWulf look cheap, says analyst",
-      "impact": {}
-    },
-    {
-      "event_id": "c322748c-0415-4c81-babb-6ce9c48ca97d",
-      "source": "rss:coindesk",
-      "title": "AI contracts, not bitcoin, now drive miner valuations, and Cipher and TeraWulf look cheap",
-      "url": "https://www.coindesk.com/markets/2026/07/09/cipher-terawulf-among-ai-infrastructure-stocks-trading-below-contract-value-compass-point-argues",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-09T15:53:42+00:00",
-      "raw_text": "AI contracts, not bitcoin, now drive miner valuations, and Cipher and TeraWulf look cheap",
-      "impact": {}
-    },
-    {
-      "event_id": "ebdcdf90-6b83-41e0-ad8e-cf81c2ccfafb",
-      "source": "rss:decrypt",
-      "title": "MARA Stock Pops as Bitcoin Miner Agrees to Acquire Massive Powered Texas Land Plot",
-      "url": "https://decrypt.co/373144/mara-stock-pops-bitcoin-miner-agrees-acquire-texas-land-plot",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-09T15:44:31+00:00",
-      "raw_text": "MARA Stock Pops as Bitcoin Miner Agrees to Acquire Massive Powered Texas Land Plot\n\nMARA Holdings has agreed to purchase a sizable plot of land in Texas to power its Bitcoin mining and growing AI compute ambitions.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 183,
-        "avg_1h": -0.04,
+        "count": 181,
+        "avg_1h": -0.01,
         "avg_24h": -0.22,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 180,
+        "avg_1h": 0.02,
+        "avg_24h": -0.8,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
         "count": 102,
         "avg_1h": 0.08,
         "avg_24h": 0.83,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 178,
-        "avg_1h": 0.0,
-        "avg_24h": -0.8,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
