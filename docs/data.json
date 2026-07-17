@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-07-17T00:10:21.484058+00:00",
+  "generated_at": "2026-07-17T04:19:23.719394+00:00",
   "events": [
+    {
+      "event_id": "1a101894-1ffe-463a-ac18-3dc13ad7901f",
+      "source": "rss:coindesk",
+      "title": "Bitcoin under $64,000 after new U.S. strike on Iran. Trump's China comment adds to uncertainty",
+      "url": "https://www.coindesk.com/markets/2026/07/17/bitcoin-under-usd64-000-after-u-s-strike-on-iran-trump-s-china-comment-adds-to-uncertainty",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-17T04:10:09+00:00",
+      "raw_text": "Bitcoin under $64,000 after new U.S. strike on Iran. Trump's China comment adds to uncertainty",
+      "impact": {}
+    },
+    {
+      "event_id": "6196c5a7-8c26-446c-a133-6d2ab4e6d6d8",
+      "source": "rss:theblock",
+      "title": "SEC vs CFTC: Who Regulates Crypto?",
+      "url": "https://www.theblock.co/learn/408729/sec-vs-cftc-who-regulates-crypto?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-17T03:49:02+00:00",
+      "raw_text": "SEC vs CFTC: Who Regulates Crypto?\n\n<p>Crypto oversight is split mainly between two agencies: the Securities and Exchange Commission (SEC) and the Commodity Futures Trading Commission (CFTC).  In broad terms, the SEC handles crypto assets that behave like investments in a company. Meanwhile, the CFT",
+      "impact": {}
+    },
+    {
+      "event_id": "b48559eb-7e24-42a5-83a8-e29556722cb4",
+      "source": "rss:cointelegraph",
+      "title": "Trump Media sells Wall Street low-latency access to Trump posts",
+      "url": "https://cointelegraph.com/news/trump-media-sells-wall-street-low-latency-access-to-trump-posts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-17T02:23:40+00:00",
+      "raw_text": "Trump Media sells Wall Street low-latency access to Trump posts\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump Media sells Wall Street low-latency access to Trump posts\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/token-scrolling-t",
+      "impact": {}
+    },
+    {
+      "event_id": "d66a931b-1b0b-4825-bd41-1e4fa80ed66e",
+      "source": "rss:cointelegraph",
+      "title": "Balaji seeks Malaysia deal, threatens exit after Network School probe",
+      "url": "https://cointelegraph.com/news/balaji-seeks-malaysia-deal-threatens-exit-after-network-school-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-17T01:54:00+00:00",
+      "raw_text": "Balaji seeks Malaysia deal, threatens exit after Network School probe\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Balaji seeks Malaysia deal, threatens exit after Network School probe\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-ho",
+      "impact": {}
+    },
+    {
+      "event_id": "057653eb-733f-41b3-928d-a537312e2802",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin liquidity clusters determine BTC’s price direction as futures flow fuels price",
+      "url": "https://cointelegraph.com/markets/bitcoin-liquidity-clusters-determine-btcs-price-direction-as-futures-flow-fuels-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-17T00:12:40+00:00",
+      "raw_text": "Bitcoin liquidity clusters determine BTC’s price direction as futures flow fuels price\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin liquidity clusters determine BTC’s price direction as futures flow fuels price\" class=\"type:primaryImage\" src=\"https://s3-images.ctm",
+      "impact": {}
+    },
+    {
+      "event_id": "ff28a0b1-287a-47c4-aa1d-e783fb53b04e",
+      "source": "rss:cointelegraph",
+      "title": "Citadel Securities invests $400M in Crypto.com at $20B valuation",
+      "url": "https://cointelegraph.com/news/citadel-securities-invests-400m-in-cryptocom-at-20b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-16T23:47:12+00:00",
+      "raw_text": "Citadel Securities invests $400M in Crypto.com at $20B valuation\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Citadel Securities invests $400M in Crypto.com at $20B valuation\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-cryptocom-is",
+      "impact": {}
+    },
     {
       "event_id": "eb434733-95de-491e-bd3f-b0fd5b10263e",
       "source": "rss:cointelegraph",
@@ -143,7 +215,8 @@
       "impact": {
         "t_plus_5m": -0.3588,
         "t_plus_15m": -0.3058,
-        "t_plus_1h": 0.0073
+        "t_plus_1h": 0.0073,
+        "t_plus_4h": -0.6869
       }
     },
     {
@@ -6359,92 +6432,14 @@
       "timestamp_utc": "2026-07-09T15:44:31+00:00",
       "raw_text": "MARA Stock Pops as Bitcoin Miner Agrees to Acquire Massive Powered Texas Land Plot\n\nMARA Holdings has agreed to purchase a sizable plot of land in Texas to power its Bitcoin mining and growing AI compute ambitions.",
       "impact": {}
-    },
-    {
-      "event_id": "3728c54a-bae4-48af-8c15-a7c36e656e05",
-      "source": "rss:theblock",
-      "title": "JPMorgan says bitcoin’s main risk isn’t Strategy, but blockchain adoption that doesn’t benefit public chains and tokens",
-      "url": "https://www.theblock.co/post/407776/jpmorgan-bitcoin-risk-strategy-blockchain-tokens-crypto?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-09T15:44:13+00:00",
-      "raw_text": "JPMorgan says bitcoin’s main risk isn’t Strategy, but blockchain adoption that doesn’t benefit public chains and tokens\n\n<p>JPMorgan says Strategy isn't bitcoin's main structural risk, but blockchain adoption that fails to benefit public blockchains and tokens.</p>\n\n<p>JPMorgan says Strategy isn't b",
-      "impact": {}
-    },
-    {
-      "event_id": "9cb13e85-a70e-4238-9833-f5bc85f49332",
-      "source": "rss:bitcoinmagazine",
-      "title": "New Hampshire Council Rejects $100 Million Bitcoin-Backed Bond",
-      "url": "https://bitcoinmagazine.com/news/new-hampshire-council-rejects-100-million",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-09T15:28:30+00:00",
-      "raw_text": "New Hampshire Council Rejects $100 Million Bitcoin-Backed Bond\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/New-Hampshire-Council-Rejects-100-Million-Bitcoin-Backed-Bond.jpg\" style=\"display: block",
-      "impact": {}
-    },
-    {
-      "event_id": "31fb10a1-f6eb-4630-9f8b-209443db9ff1",
-      "source": "rss:decrypt",
-      "title": "Labour MPs Push to Make UK Crypto Donation Ban Permanent",
-      "url": "https://decrypt.co/373130/labour-mps-push-to-make-uk-crypto-donation-ban-permanent",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-09T15:26:59+00:00",
-      "raw_text": "Labour MPs Push to Make UK Crypto Donation Ban Permanent\n\nThe lawmakers have tabled amendments to make the current moratorium permanent, as the fallout over Reform UK's funding widens.",
-      "impact": {}
-    },
-    {
-      "event_id": "3f498f11-d985-4f16-92e1-aa9a2785c12b",
-      "source": "rss:theblock",
-      "title": "Why this Wall Street veteran is betting on Avalanche",
-      "url": "https://www.theblock.co/post/407752/why-this-wall-street-veteran-is-betting-on-avalanche?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-09T15:03:40+00:00",
-      "raw_text": "Why this Wall Street veteran is betting on Avalanche\n\n<p>Avalanche Treasury Company CEO Bart Smith explains his beliefs on the functions of treasury companies and his bull thesis for Avalanche.</p>\n\n<p>Avalanche Treasury Company CEO Bart Smith explains his beliefs on the functions of treasury compan",
-      "impact": {}
-    },
-    {
-      "event_id": "a04bbad5-68e5-41ff-9e05-b021ee3e07f5",
-      "source": "rss:coindesk",
-      "title": "Ethereum's newest nonprofit wants to become Wall Street's guide to crypto",
-      "url": "https://www.coindesk.com/tech/2026/07/09/ethereum-s-newest-nonprofit-wants-to-become-wall-street-s-guide-to-crypto",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-09T14:58:55+00:00",
-      "raw_text": "Ethereum's newest nonprofit wants to become Wall Street's guide to crypto",
-      "impact": {}
-    },
-    {
-      "event_id": "963838a7-c61d-4132-becf-c2fd89c7f11c",
-      "source": "rss:theblock",
-      "title": "Supreme Court ruling expanding Trump’s authority over federal agencies raises questions for SEC, CFTC as crypto rulemaking advances",
-      "url": "https://www.theblock.co/post/407750/supreme-court-ruling-expanding-trumps-authority-over-federal-agencies-raises-questions-for-sec-cftc-as-crypto-rulemaking-advances?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-09T14:56:38+00:00",
-      "raw_text": "Supreme Court ruling expanding Trump’s authority over federal agencies raises questions for SEC, CFTC as crypto rulemaking advances\n\n<p>A recent Supreme Court ruling expanding President Trump's authority to remove leaders of many agencies could have broader implications.</p>\n\n<p>A recent Supreme Cou",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 182,
+        "count": 183,
         "avg_1h": -0.04,
         "avg_24h": -0.22,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "listing": {
-        "count": 10,
-        "avg_1h": 0.24,
-        "avg_24h": 0.89,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
@@ -6454,9 +6449,15 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 179,
+        "count": 178,
         "avg_1h": 0.0,
         "avg_24h": -0.8,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "listing": {
+        "count": 10,
+        "avg_1h": 0.24,
+        "avg_24h": 0.89,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
