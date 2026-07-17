@@ -1,6 +1,101 @@
 {
-  "generated_at": "2026-07-17T19:23:27.229941+00:00",
+  "generated_at": "2026-07-17T21:05:09.008797+00:00",
   "events": [
+    {
+      "event_id": "69e08001-fdd0-4f18-8652-fc804ec5438c",
+      "source": "rss:decrypt",
+      "title": "ECB Warns Stablecoins May Drain Bank Deposits—Here's What That Means",
+      "url": "https://decrypt.co/373767/ecb-warns-stablecoins-drain-bank-deposits",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-17T20:17:44+00:00",
+      "raw_text": "ECB Warns Stablecoins May Drain Bank Deposits—Here's What That Means\n\nECB board member Piero Cipollone laid out the three-layer threat banks face from digital payments, and pitched the digital euro as the only structural answer.",
+      "impact": {}
+    },
+    {
+      "event_id": "6f632f8f-33cb-4ad2-bb81-5bbdd35e7db0",
+      "source": "rss:cointelegraph",
+      "title": "Galaxy lands 15-year Texas Tech stadium naming rights deal",
+      "url": "https://cointelegraph.com/news/galaxy-lands-15-year-texas-tech-stadium-naming-rights-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-17T20:03:32+00:00",
+      "raw_text": "Galaxy lands 15-year Texas Tech stadium naming rights deal\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Galaxy lands 15-year Texas Tech stadium naming rights deal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-nfl-players-choosing-cry",
+      "impact": {}
+    },
+    {
+      "event_id": "9a5835eb-a71b-4893-bba6-f117a5001b67",
+      "source": "rss:theblock",
+      "title": "CryptoQuant says Strategy still needs disciplined bitcoin buying and selling framework",
+      "url": "https://www.theblock.co/post/408825/cryptoquant-strategy-bitcoin-buying-selling-framework-mstr?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-17T20:01:43+00:00",
+      "raw_text": "CryptoQuant says Strategy still needs disciplined bitcoin buying and selling framework\n\n<p>CryptoQuant said Michael Saylor's Strategy still needs still needs clearer rules for when to buy and sell bitcoin.</p>\n\n<p>CryptoQuant said Michael Saylor's Strategy still needs still needs clearer rules for w",
+      "impact": {}
+    },
+    {
+      "event_id": "578d0e44-c775-4991-b0c4-4fb658002e76",
+      "source": "rss:cointelegraph",
+      "title": "Consensys unknowingly outsourced developer work to North Korean",
+      "url": "https://cointelegraph.com/news/consensys-north-korean-hacker-software-developer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-17T19:33:58+00:00",
+      "raw_text": "Consensys unknowingly outsourced developer work to North Korean\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Consensys unknowingly outsourced developer work to North Korean\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-hacker-intervi",
+      "impact": {}
+    },
+    {
+      "event_id": "e587a160-d5ad-4f95-a6a0-30c16b9463a5",
+      "source": "rss:cointelegraph",
+      "title": "Crypto Biz: When dollars disappear, stablecoins step in",
+      "url": "https://cointelegraph.com/news/crypto-biz-when-dollars-disappear-stablecoins-step-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-17T19:23:53+00:00",
+      "raw_text": "Crypto Biz: When dollars disappear, stablecoins step in\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: When dollars disappear, stablecoins step in\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/cross-border-transaction-stableco",
+      "impact": {}
+    },
+    {
+      "event_id": "e30dc6e0-9ced-4c78-a766-077c267d0e55",
+      "source": "rss:decrypt",
+      "title": "Cardano Pumps as Network Moves to Further Decentralize Development",
+      "url": "https://decrypt.co/373749/caradno-ada-price-spikes-iohk-decentralizing-development",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [
+        "ADA"
+      ],
+      "timestamp_utc": "2026-07-17T19:12:41+00:00",
+      "raw_text": "Cardano Pumps as Network Moves to Further Decentralize Development\n\nInput Output is handing its core infrastructure to outside teams as ADA gets a lift from an imminent protocol upgrade.",
+      "impact": {
+        "t_plus_5m": -0.1618,
+        "t_plus_15m": -0.399
+      }
+    },
+    {
+      "event_id": "d5e6a942-4362-4685-8930-870414623666",
+      "source": "rss:bitcoinmagazine",
+      "title": "Bitcoin Sentiment Is Turning Bullish — But It’s Too Early to Celebrate: Report",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-sentiment-is-bullish-coinshares",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-07-17T19:07:30+00:00",
+      "raw_text": "Bitcoin Sentiment Is Turning Bullish — But It’s Too Early to Celebrate: Report\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-Sentiment-Is-Turning-Bullish-But-Its-Too-Early-to-Celebrate-Repo",
+      "impact": {
+        "t_plus_5m": -0.1806,
+        "t_plus_15m": -0.2364,
+        "t_plus_1h": -0.2398
+      }
+    },
     {
       "event_id": "5d393657-5d8d-477a-bd3f-37436089bd10",
       "source": "rss:theblock",
@@ -56,10 +151,16 @@
       "url": "https://bitcoinmagazine.com/bitcoin-mining/ocean-mining-vp-jason-hughes-bip-110-on-track-to-fail-as-miner-signaling-stays-below-1",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-17T17:45:13+00:00",
       "raw_text": "Ocean Mining VP Jason Hughes: BIP-110 on Track to Fail as Miner Signaling Stays Below 1%\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/tn-5.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1887,
+        "t_plus_15m": 0.0182,
+        "t_plus_1h": 0.0648
+      }
     },
     {
       "event_id": "ab2752ab-14a2-40fd-9fa8-bc575da067f5",
@@ -179,6 +280,18 @@
       "tokens": [],
       "timestamp_utc": "2026-07-17T15:40:50+00:00",
       "raw_text": "Bitcoin ETFs could mirror gold’s history of ‘spectacular gains’ and ‘painful drawdowns,’ analyst says\n\n<p>Bloomberg ETF analyst Eric Balchunas compared IBIT’s short time above $100 billion with GLD’s precipitous rise in 2011.</p>\n\n<p>Bloomberg ETF analyst Eric Balchunas compared IBIT’s short time ab",
+      "impact": {}
+    },
+    {
+      "event_id": "280bd92a-2752-4c87-b9eb-2ed50080a417",
+      "source": "rss:coindesk",
+      "title": "Inside Robinhood’s high-stakes bet to onboard millions of casual users onto decentralized finance",
+      "url": "https://www.coindesk.com/business/2026/07/17/inside-robinhood-s-high-stakes-bet-to-onboard-10-million-casual-investors-onto-decentralized-finance",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-17T15:36:39+00:00",
+      "raw_text": "Inside Robinhood’s high-stakes bet to onboard millions of casual users onto decentralized finance",
       "impact": {}
     },
     {
@@ -6303,127 +6416,30 @@
       "timestamp_utc": "2026-07-10T11:08:31+00:00",
       "raw_text": "Ledger researchers disclose Tangem card flaw; Tangem says risk to everyday users is ‘virtually non-existent’\n\n<p>Ledger researchers disclosed a laser attack that resets Tangem card passwords by bypassing a recovery-state check in the firmware.</p>\n\n<p>Ledger researchers disclosed a laser attack that",
       "impact": {}
-    },
-    {
-      "event_id": "252a8a03-82cf-4353-b0d1-ea30996ea0f8",
-      "source": "rss:coindesk",
-      "title": "Crypto defies equity weakness as altcoin optimism builds into the weekend",
-      "url": "https://www.coindesk.com/markets/2026/07/10/crypto-defies-equity-weakness-as-altcoin-optimism-builds-into-the-weekend",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-10T10:37:44+00:00",
-      "raw_text": "Crypto defies equity weakness as altcoin optimism builds into the weekend",
-      "impact": {}
-    },
-    {
-      "event_id": "fdf64805-2fdd-475a-8704-940b54f59fd6",
-      "source": "rss:theblock",
-      "title": "New Hampshire’s $100 million bitcoin bond proposal fails to pass final vote",
-      "url": "https://www.theblock.co/post/407867/new-hampshire-bitcoin-backed-bond-fails?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-10T10:29:07+00:00",
-      "raw_text": "New Hampshire’s $100 million bitcoin bond proposal fails to pass final vote\n\n<p>Governor Ayotte had expressed support for the proposal, touting it as an innovative way to bring more investment opportunities to the state.</p>\n\n<p>Governor Ayotte had expressed support for the proposal, touting it as a",
-      "impact": {}
-    },
-    {
-      "event_id": "79685f88-90e3-4591-a248-497493748693",
-      "source": "rss:cointelegraph",
-      "title": "TeraWulf eyes $3.5B debt raise for Anthropic-linked data center: Report",
-      "url": "https://cointelegraph.com/news/terawulf-3-5-billion-debt-raise-anthropic-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-10T10:14:51+00:00",
-      "raw_text": "TeraWulf eyes $3.5B debt raise for Anthropic-linked data center: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"TeraWulf eyes $3.5B debt raise for Anthropic-linked data center: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/h",
-      "impact": {}
-    },
-    {
-      "event_id": "034cd6e7-888e-4f21-93b4-203dd58a9606",
-      "source": "rss:theblock",
-      "title": "Revolut integrates its crypto exchange with AI assistants as agentic trading spreads",
-      "url": "https://www.theblock.co/post/407865/revolut-integrates-its-crypto-exchange-with-ai-assistants-as-agentic-trading-spreads?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-10T10:04:08+00:00",
-      "raw_text": "Revolut integrates its crypto exchange with AI assistants as agentic trading spreads\n\n<p>Revolut X now connects to Claude, Gemini, OpenClaw, and Cursor, letting crypto users analyze, backtest, and execute trades via AI prompts.</p>\n\n<p>Revolut X now connects to Claude, Gemini, OpenClaw, and Cursor, ",
-      "impact": {}
-    },
-    {
-      "event_id": "28f24ac5-aaa5-476e-a3a3-247c70d86ee5",
-      "source": "rss:decrypt",
-      "title": "North Carolina Bill Recognizes CFTC's ‘Federal Regulatory Authority’ Over Prediction Markets",
-      "url": "https://decrypt.co/373209/north-carolina-bill-recognizes-cftcs-federal-regulatory-authority-over-prediction-markets",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-10T10:01:08+00:00",
-      "raw_text": "North Carolina Bill Recognizes CFTC's ‘Federal Regulatory Authority’ Over Prediction Markets\n\nThe state's budget law leaves oversight of Kalshi and Polymarket to the CFTC and taxes them at 6%, far below what other states are pursuing.",
-      "impact": {}
-    },
-    {
-      "event_id": "35d11907-f90c-4e48-992a-462f44bc7d25",
-      "source": "rss:cointelegraph",
-      "title": "Metaplanet explores Bitcoin-backed digital credit with JPYC in Japan",
-      "url": "https://cointelegraph.com/news/metaplanet-studies-bitcoin-digital-bonds-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-10T09:58:10+00:00",
-      "raw_text": "Metaplanet explores Bitcoin-backed digital credit with JPYC in Japan\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Metaplanet explores Bitcoin-backed digital credit with JPYC in Japan\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-",
-      "impact": {}
-    },
-    {
-      "event_id": "82a15ac8-8347-4068-b739-712d339e0e92",
-      "source": "rss:coindesk",
-      "title": "Polymarket seeks approval to bring margin trading to U.S. customers",
-      "url": "https://www.coindesk.com/markets/2026/07/10/polymarket-seeks-approval-to-bring-margin-trading-to-u-s-customers",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-10T09:35:21+00:00",
-      "raw_text": "Polymarket seeks approval to bring margin trading to U.S. customers",
-      "impact": {}
-    },
-    {
-      "event_id": "72f591d0-fbfc-4ab5-a980-f15deb2c93e8",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin returns to $64.3K with new 3-week BTC price highs imminent",
-      "url": "https://cointelegraph.com/markets/bitcoin-returns-to-64k-with-three-week-btc-price-highs-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-10T09:32:23+00:00",
-      "raw_text": "Bitcoin returns to $64.3K with new 3-week BTC price highs imminent\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin returns to $64.3K with new 3-week BTC price highs imminent\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/behind-bitc",
-      "impact": {
-        "t_plus_5m": -0.0273,
-        "t_plus_15m": -0.0651,
-        "t_plus_1h": -0.1266,
-        "t_plus_4h": -0.4592
-      }
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 178,
-        "avg_1h": -0.0,
+        "count": 177,
+        "avg_1h": -0.02,
         "avg_24h": -0.22,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 182,
+        "count": 183,
         "avg_1h": -0.03,
         "avg_24h": -0.8,
         "win_rate_1h_gt5pct": 0.0
       },
+      "hack": {
+        "count": 23,
+        "avg_1h": 0.02,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 103,
+        "count": 102,
         "avg_1h": 0.02,
         "avg_24h": 0.83,
         "win_rate_1h_gt5pct": 0.0
@@ -6432,12 +6448,6 @@
         "count": 10,
         "avg_1h": 0.24,
         "avg_24h": 0.89,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 22,
-        "avg_1h": 0.02,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
