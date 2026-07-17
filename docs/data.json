@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-16T23:08:27.076579+00:00",
+  "generated_at": "2026-07-17T00:10:21.484058+00:00",
   "events": [
+    {
+      "event_id": "eb434733-95de-491e-bd3f-b0fd5b10263e",
+      "source": "rss:cointelegraph",
+      "title": "Polygon CEO announces job cuts amid Coinme acquisition",
+      "url": "https://cointelegraph.com/news/polygon-ceo-job-cuts-coinme-transition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-16T22:05:06+00:00",
+      "raw_text": "Polygon CEO announces job cuts amid Coinme acquisition\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Polygon CEO announces job cuts amid Coinme acquisition\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-defi-project-polygon-explained.p",
+      "impact": {}
+    },
     {
       "event_id": "c0a98c4f-9378-4333-8d48-6b9baac507d2",
       "source": "rss:bitcoinmagazine",
@@ -6419,22 +6431,16 @@
       "timestamp_utc": "2026-07-09T14:56:38+00:00",
       "raw_text": "Supreme Court ruling expanding Trump’s authority over federal agencies raises questions for SEC, CFTC as crypto rulemaking advances\n\n<p>A recent Supreme Court ruling expanding President Trump's authority to remove leaders of many agencies could have broader implications.</p>\n\n<p>A recent Supreme Cou",
       "impact": {}
-    },
-    {
-      "event_id": "78ad610b-acdb-40ef-b34a-7b0274ec2691",
-      "source": "rss:bitcoinmagazine",
-      "title": "BitGo Adds Quantum-Risk Controls to Bitcoin Custody",
-      "url": "https://bitcoinmagazine.com/news/bitgo-adds-quantum-risk-controls-bitcoin",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-09T14:50:41+00:00",
-      "raw_text": "BitGo Adds Quantum-Risk Controls to Bitcoin Custody\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/BitGo-Adds-Quantum-Risk-Controls-to-Bitcoin-Custody.jpg\" style=\"display: block; margin: 1em auto;\" ",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 182,
+        "avg_1h": -0.04,
+        "avg_24h": -0.22,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "listing": {
         "count": 10,
         "avg_1h": 0.24,
@@ -6447,12 +6453,6 @@
         "avg_24h": 0.83,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 181,
-        "avg_1h": -0.04,
-        "avg_24h": -0.22,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
         "count": 179,
         "avg_1h": 0.0,
@@ -6460,7 +6460,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 23,
+        "count": 22,
         "avg_1h": -0.02,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
