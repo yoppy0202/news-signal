@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-18T22:02:25.009928+00:00",
+  "generated_at": "2026-07-18T23:05:21.237705+00:00",
   "events": [
+    {
+      "event_id": "b191daad-705d-4e0f-9f3d-03392743dc97",
+      "source": "rss:theblock",
+      "title": "US regulators miss GENIUS Act’s one-year deadline for final stablecoin rules",
+      "url": "https://www.theblock.co/post/408843/us-regulators-miss-genius-acts-one-year-deadline-for-final-stablecoin-rules?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-18T22:04:40+00:00",
+      "raw_text": "US regulators miss GENIUS Act’s one-year deadline for final stablecoin rules\n\n<p>The delay does not postpone the law’s Jan. 18, 2027 effective date, leaving regulators and stablecoin issuers with a compressed implementation window.</p>\n\n<p>The delay does not postpone the law’s Jan. 18, 2027 effectiv",
+      "impact": {}
+    },
+    {
+      "event_id": "de2685f9-8dec-4a2b-ab1a-89f565b4613b",
+      "source": "rss:coindesk",
+      "title": "France orders country's internet service providers to block Polymarket",
+      "url": "https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-18T21:52:18+00:00",
+      "raw_text": "France orders country's internet service providers to block Polymarket",
+      "impact": {}
+    },
     {
       "event_id": "b12995bd-7711-46b0-a535-17a4eca1c93f",
       "source": "rss:theblock",
@@ -6387,56 +6411,25 @@
         "t_plus_1h": -0.2111,
         "t_plus_4h": -0.3643
       }
-    },
-    {
-      "event_id": "4314f37f-90fe-4460-b6db-54aac97d32ba",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin is “A Screaming Buy”: Standard Chartered Backs $100,000 Target, Shrugs Off Strategy (MSTR) Sell-Off",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-screaming-buy-standard-chartered",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-10T13:49:38+00:00",
-      "raw_text": "Bitcoin is “A Screaming Buy”: Standard Chartered Backs $100,000 Target, Shrugs Off Strategy (MSTR) Sell-Off\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-is-22A-Screaming-Buy22-Standard-Cha",
-      "impact": {
-        "t_plus_5m": 0.7348,
-        "t_plus_15m": 0.4635,
-        "t_plus_1h": -0.1066,
-        "t_plus_4h": -0.3643
-      }
-    },
-    {
-      "event_id": "355bcf8a-3d7c-497c-b650-f7abca644810",
-      "source": "rss:cointelegraph",
-      "title": "Will the crypto lobby's $189M campaign get CLARITY over the line?",
-      "url": "https://cointelegraph.com/features/how-crypto-built-political-influence-in-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-10T13:30:00+00:00",
-      "raw_text": "Will the crypto lobby's $189M campaign get CLARITY over the line?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Will the crypto lobby's $189M campaign get CLARITY over the line?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/crypto-lobby.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 177,
-        "avg_1h": -0.02,
-        "avg_24h": 0.34,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 184,
+        "count": 186,
         "avg_1h": -0.03,
         "avg_24h": -0.52,
         "win_rate_1h_gt5pct": 0.0
       },
+      "narrative": {
+        "count": 176,
+        "avg_1h": -0.02,
+        "avg_24h": 0.34,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 102,
-        "avg_1h": 0.02,
+        "count": 101,
+        "avg_1h": 0.03,
         "avg_24h": 0.77,
         "win_rate_1h_gt5pct": 0.0
       },
