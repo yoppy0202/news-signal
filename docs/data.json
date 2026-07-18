@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-18T08:56:17.856975+00:00",
+  "generated_at": "2026-07-18T10:36:15.390103+00:00",
   "events": [
+    {
+      "event_id": "157606ae-d571-40ac-847f-952ae362294d",
+      "source": "rss:cointelegraph",
+      "title": "French gambling regulator orders ISPs to block Polymarket",
+      "url": "https://cointelegraph.com/news/french-gambling-authority-blocks-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-18T09:58:55+00:00",
+      "raw_text": "French gambling regulator orders ISPs to block Polymarket\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"French gambling regulator orders ISPs to block Polymarket\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/news-city-town-billboard-1-po",
+      "impact": {}
+    },
     {
       "event_id": "d531829d-589a-452c-b146-4abe669f92d9",
       "source": "rss:cointelegraph",
@@ -633,7 +645,8 @@
         "t_plus_5m": -0.112,
         "t_plus_15m": -0.0057,
         "t_plus_1h": 0.1931,
-        "t_plus_4h": -0.5783
+        "t_plus_4h": -0.5783,
+        "t_plus_24h": 1.4514
       }
     },
     {
@@ -6402,32 +6415,20 @@
       "timestamp_utc": "2026-07-10T11:37:25+00:00",
       "raw_text": "USDC issuer Circle wins final approval for US national trust bank charter\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"USDC issuer Circle wins final approval for US national trust bank charter\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
       "impact": {}
-    },
-    {
-      "event_id": "006dcf92-6703-4dbc-9270-dc19558690f4",
-      "source": "rss:decrypt",
-      "title": "Jailed Fraudster Charged With Moving $290K in Forfeited Crypto From Prison",
-      "url": "https://decrypt.co/373212/jailed-fraudster-charged-with-moving-290k-in-forfeited-crypto-from-prison",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-10T11:30:57+00:00",
-      "raw_text": "Jailed Fraudster Charged With Moving $290K in Forfeited Crypto From Prison\n\nA convicted launderer serving time for a $5 million scheme allegedly moved crypto that a court had ordered him to forfeit.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 183,
+        "count": 184,
         "avg_1h": -0.03,
         "avg_24h": -0.55,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 178,
+        "count": 177,
         "avg_1h": -0.02,
-        "avg_24h": -0.22,
+        "avg_24h": 0.34,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
