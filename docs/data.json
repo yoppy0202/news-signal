@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-18T13:43:26.718619+00:00",
+  "generated_at": "2026-07-18T15:09:33.000968+00:00",
   "events": [
+    {
+      "event_id": "3fd304cb-99b0-4eb0-ad67-f1370303126e",
+      "source": "rss:coindesk",
+      "title": "Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets",
+      "url": "https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-18T14:15:15+00:00",
+      "raw_text": "Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets",
+      "impact": {}
+    },
+    {
+      "event_id": "f9ed638f-c181-4fad-bc75-b6fbf7c318f9",
+      "source": "rss:theblock",
+      "title": "UNI burn poised to grow as Uniswap governance votes on v4 fees and Robinhood Chain expansion",
+      "url": "https://www.theblock.co/post/408836/uni-burn-poised-to-grow-as-uniswap-governance-votes-on-v4-fees-and-robinhood-chain-expansion?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-18T14:04:54+00:00",
+      "raw_text": "UNI burn poised to grow as Uniswap governance votes on v4 fees and Robinhood Chain expansion\n\n<p>Both proposals route new fees into the UNI burn system created under December's \"UNIfication\" overhaul, with voting open from July 19 through July 26.</p>\n\n<p>Both proposals route new fees into the UNI b",
+      "impact": {}
+    },
+    {
+      "event_id": "e513fa85-e150-4a3e-822e-e344657c9166",
+      "source": "rss:coindesk",
+      "title": "Tokenization has become a strategic priority for 84% of financial firms",
+      "url": "https://www.coindesk.com/business/2026/07/16/tokenization-has-become-a-strategic-priority-for-84-of-financial-firms",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-18T14:00:00+00:00",
+      "raw_text": "Tokenization has become a strategic priority for 84% of financial firms",
+      "impact": {}
+    },
     {
       "event_id": "29aeecba-f080-4ddd-84f0-89c1739cd15d",
       "source": "rss:cointelegraph",
@@ -434,7 +470,8 @@
         "t_plus_5m": -1.3713,
         "t_plus_15m": -1.2382,
         "t_plus_1h": -0.5412,
-        "t_plus_4h": 0.9685
+        "t_plus_4h": 0.9685,
+        "t_plus_24h": 0.9056
       }
     },
     {
@@ -6379,42 +6416,6 @@
       "timestamp_utc": "2026-07-10T12:00:00+00:00",
       "raw_text": "The Sun Rises in Seoul and Trades on Solana: $SKHY is Now Live\n\nSK Hynix ($SKHY), South Korea’s dominant memory-chip maker, is now live on Solana.",
       "impact": {}
-    },
-    {
-      "event_id": "e223efc2-52f7-4654-8ad0-46484bb79de0",
-      "source": "rss:cointelegraph",
-      "title": "Wall Street banks tighten prediction market rules for staff as insider fears spread",
-      "url": "https://cointelegraph.com/news/wall-street-prediction-market-trading-insider-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-10T11:51:02+00:00",
-      "raw_text": "Wall Street banks tighten prediction market rules for staff as insider fears spread\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Wall Street banks tighten prediction market rules for staff as insider fears spread\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i",
-      "impact": {}
-    },
-    {
-      "event_id": "8aaead1d-85b2-42d2-b102-7ba2b3f705d2",
-      "source": "rss:coindesk",
-      "title": "Circle soars after securing U.S. trust bank approval in crypto expansion",
-      "url": "https://www.coindesk.com/business/2026/07/10/circle-secures-u-s-trust-bank-approval-in-crypto-expansion",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-10T11:41:47+00:00",
-      "raw_text": "Circle soars after securing U.S. trust bank approval in crypto expansion",
-      "impact": {}
-    },
-    {
-      "event_id": "357e0460-97bb-4bbc-a6b3-210c791061c8",
-      "source": "rss:coindesk",
-      "title": "Japan's 'invest locally' plan likely to spur demand for assets like bitcoin, gold",
-      "url": "https://www.coindesk.com/daybook-us/2026/07/10/japan-s-invest-locally-plan-likely-to-spur-demand-for-assets-like-bitcoin-gold",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-10T11:37:31+00:00",
-      "raw_text": "Japan's 'invest locally' plan likely to spur demand for assets like bitcoin, gold",
-      "impact": {}
     }
   ],
   "stats": {
@@ -6422,19 +6423,19 @@
       "macro": {
         "count": 103,
         "avg_1h": 0.02,
-        "avg_24h": 0.83,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 183,
-        "avg_1h": -0.03,
-        "avg_24h": -0.55,
+        "avg_24h": 0.86,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 177,
+        "count": 178,
         "avg_1h": -0.02,
         "avg_24h": 0.34,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 182,
+        "avg_1h": -0.03,
+        "avg_24h": -0.55,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
