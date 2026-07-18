@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-18T12:01:37.196914+00:00",
+  "generated_at": "2026-07-18T13:43:26.718619+00:00",
   "events": [
+    {
+      "event_id": "29aeecba-f080-4ddd-84f0-89c1739cd15d",
+      "source": "rss:cointelegraph",
+      "title": "Kaspersky identifies malware framework targeting crypto investors",
+      "url": "https://cointelegraph.com/news/kaspersky-malware-framework-crypto-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-18T11:40:48+00:00",
+      "raw_text": "Kaspersky identifies malware framework targeting crypto investors\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kaspersky identifies malware framework targeting crypto investors\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-bl",
+      "impact": {}
+    },
     {
       "event_id": "157606ae-d571-40ac-847f-952ae362294d",
       "source": "rss:cointelegraph",
@@ -6403,24 +6415,18 @@
       "timestamp_utc": "2026-07-10T11:37:31+00:00",
       "raw_text": "Japan's 'invest locally' plan likely to spur demand for assets like bitcoin, gold",
       "impact": {}
-    },
-    {
-      "event_id": "248963a9-0010-459a-9ad7-8c6a7a0757ae",
-      "source": "rss:cointelegraph",
-      "title": "USDC issuer Circle wins final approval for US national trust bank charter",
-      "url": "https://cointelegraph.com/news/circle-final-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-10T11:37:25+00:00",
-      "raw_text": "USDC issuer Circle wins final approval for US national trust bank charter\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"USDC issuer Circle wins final approval for US national trust bank charter\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 103,
+        "avg_1h": 0.02,
+        "avg_24h": 0.83,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 184,
+        "count": 183,
         "avg_1h": -0.03,
         "avg_24h": -0.55,
         "win_rate_1h_gt5pct": 0.0
@@ -6435,12 +6441,6 @@
         "count": 22,
         "avg_1h": 0.02,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 102,
-        "avg_1h": 0.02,
-        "avg_24h": 0.83,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
