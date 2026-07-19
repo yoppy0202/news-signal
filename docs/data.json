@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-19T19:21:12.457262+00:00",
+  "generated_at": "2026-07-19T21:03:41.401053+00:00",
   "events": [
+    {
+      "event_id": "5cb25861-6062-488d-8282-567018ee74b5",
+      "source": "rss:coindesk",
+      "title": "The GENIUS Act turns 1: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/07/19/the-genius-act-turns-1-state-of-crypto",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-19T18:30:00+00:00",
+      "raw_text": "The GENIUS Act turns 1: State of Crypto",
+      "impact": {}
+    },
     {
       "event_id": "f07c0745-13cd-4dca-a5ec-d8eb1a76eb9a",
       "source": "rss:theblock",
@@ -6378,30 +6390,18 @@
       "timestamp_utc": "2026-07-10T16:39:45+00:00",
       "raw_text": "Empery Digital offloads 1,400 bitcoins to help fund AI pivot, pay debt\n\n<p>Empery Digital used part of the proceeds for a 25% stake in an AI data center campus project.</p>\n\n<p>Empery Digital used part of the proceeds for a 25% stake in an AI data center campus project.</p>",
       "impact": {}
-    },
-    {
-      "event_id": "c4148df1-7c65-4e78-a75d-a2d62b7ab230",
-      "source": "rss:cointelegraph",
-      "title": "Backpack joins race for 24/7 stock markets with tokenized equities",
-      "url": "https://cointelegraph.com/news/backpack-launches-247-trading-for-tokenized-us-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-10T16:36:36+00:00",
-      "raw_text": "Backpack joins race for 24/7 stock markets with tokenized equities\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Backpack joins race for 24/7 stock markets with tokenized equities\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/sponsor-scr",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 189,
+        "count": 190,
         "avg_1h": -0.02,
         "avg_24h": -0.52,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 176,
+        "count": 175,
         "avg_1h": -0.02,
         "avg_24h": 0.34,
         "win_rate_1h_gt5pct": 0.0
