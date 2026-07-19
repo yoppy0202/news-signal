@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-19T21:03:41.401053+00:00",
+  "generated_at": "2026-07-19T22:05:04.119971+00:00",
   "events": [
+    {
+      "event_id": "239e735a-4f52-432d-8b49-56cacf20ed23",
+      "source": "rss:theblock",
+      "title": "Upbit parent Dunamu faces sanction process nearly eight months after $30 million hack: report",
+      "url": "https://www.theblock.co/post/408848/upbit-parent-dunamu-faces-sanction-process-nearly-eight-months-after-30-million-hack-report?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-19T20:31:29+00:00",
+      "raw_text": "Upbit parent Dunamu faces sanction process nearly eight months after $30 million hack: report\n\n<p>The severity of any sanctions remains unclear because South Korea's current crypto law contains no direct sanction provisions for hacking or IT failures.</p>\n\n<p>The severity of any sanctions remains un",
+      "impact": {}
+    },
     {
       "event_id": "5cb25861-6062-488d-8282-567018ee74b5",
       "source": "rss:coindesk",
@@ -6378,22 +6390,16 @@
       "timestamp_utc": "2026-07-10T16:43:52+00:00",
       "raw_text": "Circle (CRCL) Wins Final OCC Approval for National Trust Bank\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Circle-CRCL-Wins-Final-OCC-Approval-for-National-Trust-Bank.jpg\" style=\"display: block; m",
       "impact": {}
-    },
-    {
-      "event_id": "8bfcd0b4-294e-4691-b01d-95086ec5e7d1",
-      "source": "rss:theblock",
-      "title": "Empery Digital offloads 1,400 bitcoins to help fund AI pivot, pay debt",
-      "url": "https://www.theblock.co/post/407900/empery-digital-offloads-1400-bitcoins-help-fund-ai-pivot-pay-debt?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-10T16:39:45+00:00",
-      "raw_text": "Empery Digital offloads 1,400 bitcoins to help fund AI pivot, pay debt\n\n<p>Empery Digital used part of the proceeds for a 25% stake in an AI data center campus project.</p>\n\n<p>Empery Digital used part of the proceeds for a 25% stake in an AI data center campus project.</p>",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 25,
+        "avg_1h": 0.02,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 190,
         "avg_1h": -0.02,
@@ -6401,7 +6407,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 175,
+        "count": 174,
         "avg_1h": -0.02,
         "avg_24h": 0.34,
         "win_rate_1h_gt5pct": 0.0
@@ -6410,12 +6416,6 @@
         "count": 97,
         "avg_1h": 0.04,
         "avg_24h": 0.77,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 24,
-        "avg_1h": 0.02,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
