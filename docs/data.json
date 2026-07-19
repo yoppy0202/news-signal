@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-19T22:05:04.119971+00:00",
+  "generated_at": "2026-07-19T23:05:42.855582+00:00",
   "events": [
+    {
+      "event_id": "cc2b1bd3-937b-4d7e-9c96-3816635a9cc8",
+      "source": "rss:theblock",
+      "title": "Saylor urges Bitcoin to reject BIP-110 in 110-point essay as soft fork’s August showdown approaches",
+      "url": "https://www.theblock.co/post/408850/saylor-urges-bitcoin-to-reject-bip-110-in-110-point-essay-as-soft-forks-august-showdown-approaches?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-19T21:51:32+00:00",
+      "raw_text": "Saylor urges Bitcoin to reject BIP-110 in 110-point essay as soft fork’s August showdown approaches\n\n<p>Saylor followed up Sunday with a cryptic tracker-chart post captioned \"What's next?\" ahead of Strategy's expected Monday disclosure.</p>\n\n<p>Saylor followed up Sunday with a cryptic tracker-chart ",
+      "impact": {}
+    },
     {
       "event_id": "239e735a-4f52-432d-8b49-56cacf20ed23",
       "source": "rss:theblock",
@@ -6378,32 +6390,20 @@
       "timestamp_utc": "2026-07-10T17:23:10+00:00",
       "raw_text": "New Hampshire council votes down $100M Bitcoin bonds\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"New Hampshire council votes down $100M Bitcoin bonds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-can-bitcoin-replace-bonds-in-institu",
       "impact": {}
-    },
-    {
-      "event_id": "ce8fa8c7-8a16-4e51-93e0-299491cc446a",
-      "source": "rss:bitcoinmagazine",
-      "title": "Circle (CRCL) Wins Final OCC Approval for National Trust Bank",
-      "url": "https://bitcoinmagazine.com/news/circle-crcl-wins-final-occ-approval",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-10T16:43:52+00:00",
-      "raw_text": "Circle (CRCL) Wins Final OCC Approval for National Trust Bank\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Circle-CRCL-Wins-Final-OCC-Approval-for-National-Trust-Bank.jpg\" style=\"display: block; m",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 191,
+        "avg_1h": -0.02,
+        "avg_24h": -0.52,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
         "count": 25,
         "avg_1h": 0.02,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 190,
-        "avg_1h": -0.02,
-        "avg_24h": -0.52,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
@@ -6413,7 +6413,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 97,
+        "count": 96,
         "avg_1h": 0.04,
         "avg_24h": 0.77,
         "win_rate_1h_gt5pct": 0.0
