@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-19T03:46:38.236759+00:00",
+  "generated_at": "2026-07-19T06:40:24.502643+00:00",
   "events": [
+    {
+      "event_id": "db83e5ea-23cd-434b-b3a1-7d923fb545a1",
+      "source": "rss:coindesk",
+      "title": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
+      "url": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-19T05:37:34+00:00",
+      "raw_text": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
+      "impact": {}
+    },
     {
       "event_id": "b191daad-705d-4e0f-9f3d-03392743dc97",
       "source": "rss:theblock",
@@ -6392,32 +6404,19 @@
       "timestamp_utc": "2026-07-10T13:54:50+00:00",
       "raw_text": "MiCA licensing only the beginning as crypto custodians face scrutiny\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MiCA licensing only the beginning as crypto custodians face scrutiny\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/cia2.jp",
       "impact": {}
-    },
-    {
-      "event_id": "715ce9b0-07af-4746-a070-3568c30ee961",
-      "source": "rss:decrypt",
-      "title": "Strategy Bitcoin Sales 'Mostly Noise,' Standard Chartered Says, Holding $100K BTC Call",
-      "url": "https://decrypt.co/373224/strategy-bitcoin-sales-mostly-noise-standard-chartered-says-holding-100k-btc-call",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-10T13:52:30+00:00",
-      "raw_text": "Strategy Bitcoin Sales 'Mostly Noise,' Standard Chartered Says, Holding $100K BTC Call\n\nThe bank argues that the treasury giant's Bitcoin sales are a short-term distraction, reiterating its $100,000 year-end price target.",
-      "impact": {
-        "t_plus_5m": 0.561,
-        "t_plus_15m": 0.2695,
-        "t_plus_1h": -0.2111,
-        "t_plus_4h": -0.3643
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 102,
+        "avg_1h": 0.03,
+        "avg_24h": 0.77,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 186,
-        "avg_1h": -0.03,
+        "count": 185,
+        "avg_1h": -0.02,
         "avg_24h": -0.52,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6425,12 +6424,6 @@
         "count": 176,
         "avg_1h": -0.02,
         "avg_24h": 0.34,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 101,
-        "avg_1h": 0.03,
-        "avg_24h": 0.77,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
