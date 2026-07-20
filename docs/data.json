@@ -1,6 +1,215 @@
 {
-  "generated_at": "2026-07-20T11:10:43.925103+00:00",
+  "generated_at": "2026-07-20T14:30:14.528302+00:00",
   "events": [
+    {
+      "event_id": "1b9fc73a-cfef-4317-aa36-5d8dc670c4c8",
+      "source": "rss:coindesk",
+      "title": "Tom Lee's Bitmine slowed ether purchases as it bought back $86 million in stock.",
+      "url": "https://www.coindesk.com/business/2026/07/20/tom-lee-s-bitmine-slowed-ether-purchases-as-it-bought-back-usd86-million-in-stock",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T12:55:36+00:00",
+      "raw_text": "Tom Lee's Bitmine slowed ether purchases as it bought back $86 million in stock.",
+      "impact": {}
+    },
+    {
+      "event_id": "034dd515-ddad-452e-82b5-ef97edb98fd8",
+      "source": "rss:theblock",
+      "title": "Bernstein lifts Robinhood target to $160, sees prediction markets revenue overtaking crypto",
+      "url": "https://www.theblock.co/post/408903/bernstein-lifts-robinhood-target-to-160-sees-prediction-markets-revenue-overtaking-crypto?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T12:44:13+00:00",
+      "raw_text": "Bernstein lifts Robinhood target to $160, sees prediction markets revenue overtaking crypto\n\n<p>Bernstein raised its Robinhood price target to $160, citing prediction markets, Rothera, and Robinhood Chain as key revenue drivers.</p>\n\n<p>Bernstein raised its Robinhood price target to $160, citing pre",
+      "impact": {}
+    },
+    {
+      "event_id": "1e6f98b3-3e06-4e73-9975-4cb49ad70225",
+      "source": "rss:cointelegraph",
+      "title": "Strategy raises $263.5M through MSTR sales, holds 843,775 Bitcoin",
+      "url": "https://cointelegraph.com/news/strategy-263-5-million-mstr-raise-holds-843775-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T12:39:49+00:00",
+      "raw_text": "Strategy raises $263.5M through MSTR sales, holds 843,775 Bitcoin\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy raises $263.5M through MSTR sales, holds 843,775 Bitcoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-strate",
+      "impact": {}
+    },
+    {
+      "event_id": "5f28b2c9-4e8b-4551-95db-01bc3c8da722",
+      "source": "rss:coindesk",
+      "title": "Saylor's Strategy raises cash reserves to $3.225 billion, leaving bitcoin holdings unchanged",
+      "url": "https://www.coindesk.com/business/2026/07/20/saylor-s-strategy-raises-cash-reserves-to-usd3-225-billion-leaving-bitcoin-holdings-unchanged",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T12:35:02+00:00",
+      "raw_text": "Saylor's Strategy raises cash reserves to $3.225 billion, leaving bitcoin holdings unchanged",
+      "impact": {}
+    },
+    {
+      "event_id": "6160d39e-07e5-4f25-bf7b-e1b46fcd1065",
+      "source": "rss:bitcoinmagazine",
+      "title": "Strategy (MSTR) Sells $263.5 Million in MSTR Shares, Skips Bitcoin Purchase as USD Reserve Tops $3.2 Billion",
+      "url": "https://bitcoinmagazine.com/news/strategy-sells-263-5-million-in-mstr",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-07-20T12:29:51+00:00",
+      "raw_text": "Strategy (MSTR) Sells $263.5 Million in MSTR Shares, Skips Bitcoin Purchase as USD Reserve Tops $3.2 Billion\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time",
+      "impact": {
+        "t_plus_5m": -0.0163,
+        "t_plus_15m": -0.0074
+      }
+    },
+    {
+      "event_id": "8ae1230a-93d1-4339-98ba-6ea2ff996b14",
+      "source": "rss:cointelegraph",
+      "title": "Hyperliquid sets 500,000 HYPE stake for permissionless prediction market deployers",
+      "url": "https://cointelegraph.com/news/hyperliquid-hype-stake-permissionless-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T12:20:23+00:00",
+      "raw_text": "Hyperliquid sets 500,000 HYPE stake for permissionless prediction market deployers\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hyperliquid sets 500,000 HYPE stake for permissionless prediction market deployers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/",
+      "impact": {}
+    },
+    {
+      "event_id": "94c7508d-cf7d-47e9-88a6-43be0440bdfa",
+      "source": "rss:theblock",
+      "title": "Strategy sells $263.5 million in MSTR shares, buys no bitcoin as USD reserve tops $3.2 billion",
+      "url": "https://www.theblock.co/post/408892/strategy-sells-263-5-million-in-mstr-shares-buys-no-bitcoin-as-usd-reserve-tops-3-2-billion?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T12:09:00+00:00",
+      "raw_text": "Strategy sells $263.5 million in MSTR shares, buys no bitcoin as USD reserve tops $3.2 billion\n\n<p>Strategy's total holdings account for around 4% of the 21 million bitcoin supply cap — worth roughly $54.7 billion.</p>\n\n<p>Strategy's total holdings account for around 4% of the 21 million bitcoin sup",
+      "impact": {}
+    },
+    {
+      "event_id": "a3546b00-9c20-41b6-8706-47539e24a0f5",
+      "source": "rss:cointelegraph",
+      "title": "Vietnam sets fines for unlicensed crypto trading ahead of regulation rollout",
+      "url": "https://cointelegraph.com/news/vietnam-crypto-traders-unlicensed-platforms-fines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T12:04:06+00:00",
+      "raw_text": "Vietnam sets fines for unlicensed crypto trading ahead of regulation rollout\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Vietnam sets fines for unlicensed crypto trading ahead of regulation rollout\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl",
+      "impact": {}
+    },
+    {
+      "event_id": "43553166-992e-4db0-bf54-6410d9dbe870",
+      "source": "rss:cointelegraph",
+      "title": "Zilliqa asks exchanges to pause ZIL transfers after suspected cold wallet theft",
+      "url": "https://cointelegraph.com/news/zilliqa-zil-deposit-halt-exchange-partner-wallet-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T12:03:35+00:00",
+      "raw_text": "Zilliqa asks exchanges to pause ZIL transfers after suspected cold wallet theft\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zilliqa asks exchanges to pause ZIL transfers after suspected cold wallet theft\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/",
+      "impact": {}
+    },
+    {
+      "event_id": "dd2b0f40-c741-4984-afad-52bdb6975a53",
+      "source": "rss:coindesk",
+      "title": "Brazil’s securities regulator sets up task force with 60-day deadline for tokenization proposal",
+      "url": "https://www.coindesk.com/policy/2026/07/20/brazil-s-securities-regulator-sets-up-task-force-with-60-day-deadline-for-tokenization-proposal",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T12:02:28+00:00",
+      "raw_text": "Brazil’s securities regulator sets up task force with 60-day deadline for tokenization proposal",
+      "impact": {}
+    },
+    {
+      "event_id": "48ba8bb3-ed86-49f4-9bdd-ac51958e372e",
+      "source": "rss:decrypt",
+      "title": "Morning Minute: Hyperliquid Opens Prediction Markets to Anyone in HIP-4 Upgrade",
+      "url": "https://decrypt.co/373828/morning-minute-hyperliquid-opens-prediction-markets-to-anyone-in-hip-4-upgrade",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T12:00:02+00:00",
+      "raw_text": "Morning Minute: Hyperliquid Opens Prediction Markets to Anyone in HIP-4 Upgrade\n\nPlus, a selloff in Oil has markets looking green into the Monday open. And PUMP is leading all alt movers on the week at a surprising time.",
+      "impact": {}
+    },
+    {
+      "event_id": "e20ac9d4-33e4-4d83-bf8f-01503456da23",
+      "source": "rss:theblock",
+      "title": "Ethereum co-founder Vitalik Buterin ‘vibe-codes’ anonymous billboard demo with onchain moderation on Aztec",
+      "url": "https://www.theblock.co/post/408888/ethereum-co-founder-vitalik-buterin-vibe-codes-anonymous-billboard-demo-with-onchain-moderation-on-aztec?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T11:24:22+00:00",
+      "raw_text": "Ethereum co-founder Vitalik Buterin ‘vibe-codes’ anonymous billboard demo with onchain moderation on Aztec\n\n<p>Vitalik Buterin \"vibe-coded\" an anonymous billboard demo on Aztec with onchain moderation, a censor role, and a local LLM flagging daemon.\n</p>\n\n<p>Vitalik Buterin \"vibe-coded\" an anonymous",
+      "impact": {}
+    },
+    {
+      "event_id": "6b9907eb-dd0c-483b-adea-2bd41e250505",
+      "source": "rss:coindesk",
+      "title": "A bitcoin 'volmageddon' may be brewing, key indicator suggests",
+      "url": "https://www.coindesk.com/daybook-us/2026/07/20/a-bitcoin-volmageddon-may-be-brewing-key-indicator-suggests",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T11:15:57+00:00",
+      "raw_text": "A bitcoin 'volmageddon' may be brewing, key indicator suggests",
+      "impact": {}
+    },
+    {
+      "event_id": "7db0233d-1ac6-4c59-9d59-b2dc8db8ec4c",
+      "source": "rss:decrypt",
+      "title": "Strategy's Michael Saylor Makes 110-Point Case Against Bitcoin's BIP-110",
+      "url": "https://decrypt.co/373819/strategys-michael-saylor-makes-110-point-case-against-bitcoins-bip-110",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T11:12:57+00:00",
+      "raw_text": "Strategy's Michael Saylor Makes 110-Point Case Against Bitcoin's BIP-110\n\nThe Strategy chairman argued that the soft fork is a 'bad idea,' warning that it would cause more harm than the problem it aims to solve.",
+      "impact": {}
+    },
+    {
+      "event_id": "ba9c8444-d920-4652-8a46-628b7578f074",
+      "source": "rss:coindesk",
+      "title": "Bank of Korea prepares for live CBDC transactions with 9 banks in September",
+      "url": "https://www.coindesk.com/business/2026/07/20/bank-of-korea-prepares-for-live-cbdc-transactions-with-nine-banks-in-september",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T11:10:07+00:00",
+      "raw_text": "Bank of Korea prepares for live CBDC transactions with 9 banks in September",
+      "impact": {}
+    },
+    {
+      "event_id": "d45bd846-860c-491d-87ce-3a9c11d8a72b",
+      "source": "rss:cointelegraph",
+      "title": "Crypto institutions look beyond audits as trust signals falter: Hacken",
+      "url": "https://cointelegraph.com/news/institutions-crypto-security-beyond-audits-hacken-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T11:00:00+00:00",
+      "raw_text": "Crypto institutions look beyond audits as trust signals falter: Hacken\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto institutions look beyond audits as trust signals falter: Hacken\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-",
+      "impact": {}
+    },
+    {
+      "event_id": "dd43608b-a5b9-453e-a99f-465f28e90fc3",
+      "source": "rss:cointelegraph",
+      "title": "Capital B approves 10-for-1 reverse stock split to broaden investor base",
+      "url": "https://cointelegraph.com/news/capital-b-reverse-stock-split-investor-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T10:54:00+00:00",
+      "raw_text": "Capital B approves 10-for-1 reverse stock split to broaden investor base\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Capital B approves 10-for-1 reverse stock split to broaden investor base\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
+      "impact": {}
+    },
     {
       "event_id": "9b391ed6-f28e-4835-8639-1ee67afa4b24",
       "source": "rss:cointelegraph",
@@ -12,6 +221,25 @@
       "timestamp_utc": "2026-07-20T10:37:23+00:00",
       "raw_text": "Russia’s parliament to hold final readings on crypto bill Tuesday\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Russia’s parliament to hold final readings on crypto bill Tuesday\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-russia-lif",
       "impact": {}
+    },
+    {
+      "event_id": "8fd93b22-8a4a-413d-b92d-02f0d67fb409",
+      "source": "rss:cointelegraph",
+      "title": "Grayscale plans regular cash payouts from ETH, SOL staking rewards",
+      "url": "https://cointelegraph.com/news/grayscale-eth-sol-staking-cash-payouts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [
+        "ETH",
+        "SOL"
+      ],
+      "timestamp_utc": "2026-07-20T10:36:30+00:00",
+      "raw_text": "Grayscale plans regular cash payouts from ETH, SOL staking rewards\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Grayscale plans regular cash payouts from ETH, SOL staking rewards \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bilding-co",
+      "impact": {
+        "t_plus_5m": -0.2746,
+        "t_plus_15m": -0.2006,
+        "t_plus_1h": 0.5807
+      }
     },
     {
       "event_id": "6c7a5f03-10ba-485b-91f8-fa0e496fda20",
@@ -32,10 +260,16 @@
       "url": "https://cointelegraph.com/markets/trader-preserves-67k-btc-price-target-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-20T10:26:36+00:00",
       "raw_text": "Trader maintains $67K BTC price target: Five things to know in Bitcoin this week\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trader maintains $67K BTC price target: Five things to know in Bitcoin this week\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0344,
+        "t_plus_15m": -0.0898,
+        "t_plus_1h": -0.0
+      }
     },
     {
       "event_id": "cad8b6d9-5bb6-42dd-a69e-9a74fec0ae6f",
@@ -119,6 +353,18 @@
       "tokens": [],
       "timestamp_utc": "2026-07-20T07:18:28+00:00",
       "raw_text": "South Korea eyes September launch for second phase of CBDC pilot: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea eyes September launch for second phase of CBDC pilot: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
+      "impact": {}
+    },
+    {
+      "event_id": "b07a1fbf-a3c4-45fb-abd7-fdc657facade",
+      "source": "rss:coindesk",
+      "title": "Live markets: Report of Iran proposal sends oil lower, crypto and stocks higher",
+      "url": "https://www.coindesk.com/tech/2026/07/20/live-markets-oil-bounce-and-lingering-ai-selloff-pushes-bitcoin-under-usd64-000",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T07:15:47+00:00",
+      "raw_text": "Live markets: Report of Iran proposal sends oil lower, crypto and stocks higher",
       "impact": {}
     },
     {
@@ -6099,282 +6345,30 @@
       "timestamp_utc": "2026-07-12T13:00:00+00:00",
       "raw_text": "Stablecoin market cap has shrunk by $10 billion since May, but analyst sees no reason to panic",
       "impact": {}
-    },
-    {
-      "event_id": "8c750f6d-6c43-4d51-9bab-c1b0a52bd208",
-      "source": "rss:cointelegraph",
-      "title": "Pakistan crypto chief seeks dialogue after scholar rules against crypto payments",
-      "url": "https://cointelegraph.com/news/pakistan-crypto-chief-dialogue-islamic-ruling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-12T12:26:09+00:00",
-      "raw_text": "Pakistan crypto chief seeks dialogue after scholar rules against crypto payments\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Pakistan crypto chief seeks dialogue after scholar rules against crypto payments\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
-      "impact": {}
-    },
-    {
-      "event_id": "fbc94a79-65a2-4286-92eb-75ed0401bd5d",
-      "source": "rss:coindesk",
-      "title": "Bitcoin is nearing a power law support line Fidelity has tracked since 2015",
-      "url": "https://www.coindesk.com/markets/2026/07/12/bitcoin-is-nearing-a-power-law-support-line-fidelity-has-tracked-since-2015",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-12T11:30:00+00:00",
-      "raw_text": "Bitcoin is nearing a power law support line Fidelity has tracked since 2015",
-      "impact": {}
-    },
-    {
-      "event_id": "1f8bfbdf-d5c1-4d1b-b9e5-be5804d7a1f4",
-      "source": "rss:cointelegraph",
-      "title": "Cambridge study puts Ethereum near lower end of PoS energy intensity",
-      "url": "https://cointelegraph.com/news/ethereum-pos-energy-intensity-cambridge-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-12T09:29:00+00:00",
-      "raw_text": "Cambridge study puts Ethereum near lower end of PoS energy intensity\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cambridge study puts Ethereum near lower end of PoS energy intensity\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-germ",
-      "impact": {}
-    },
-    {
-      "event_id": "f2b72920-b3ac-4a8d-bd10-d9a08157c9b2",
-      "source": "rss:cointelegraph",
-      "title": "Cambridge study puts Ethereum near the lower end of PoS energy intensity",
-      "url": "https://cointelegraph.com/news/ethereum-pos-energy-intensity-cambridge-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-12T09:18:17+00:00",
-      "raw_text": "Cambridge study puts Ethereum near the lower end of PoS energy intensity\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cambridge study puts Ethereum near the lower end of PoS energy intensity\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
-      "impact": {}
-    },
-    {
-      "event_id": "af7aab53-dce9-474c-acd8-4d300138c2c4",
-      "source": "rss:coindesk",
-      "title": "Bitcoin, ether little changed as U.S. launches fresh Iran strikes",
-      "url": "https://www.coindesk.com/markets/2026/07/12/bitcoin-ether-little-changed-as-u-s-launches-fresh-iran-strikes",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-12T06:18:15+00:00",
-      "raw_text": "Bitcoin, ether little changed as U.S. launches fresh Iran strikes",
-      "impact": {}
-    },
-    {
-      "event_id": "99772fab-97c1-4d82-9e0c-b19ae3cc6610",
-      "source": "rss:coindesk",
-      "title": "Ripple once weighed shutting down and handing XRP to shareholders, CEO says",
-      "url": "https://www.coindesk.com/markets/2026/07/12/ripple-once-weighed-shutting-down-and-handing-xrp-to-shareholders-ceo-says",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-07-12T06:09:49+00:00",
-      "raw_text": "Ripple once weighed shutting down and handing XRP to shareholders, CEO says",
-      "impact": {
-        "t_plus_5m": 0.2164,
-        "t_plus_15m": 0.1804,
-        "t_plus_1h": 0.4112,
-        "t_plus_4h": 0.5965,
-        "t_plus_24h": -1.005
-      }
-    },
-    {
-      "event_id": "80bf910d-3bf4-4139-a8cd-30d7aa896265",
-      "source": "rss:coindesk",
-      "title": "Bitcoin’s BIP 110 fork deadline nears with miner support at zero",
-      "url": "https://www.coindesk.com/tech/2026/07/12/bitcoin-s-bip-110-fork-deadline-nears-with-miner-support-at-zero",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-12T05:49:52+00:00",
-      "raw_text": "Bitcoin’s BIP 110 fork deadline nears with miner support at zero",
-      "impact": {}
-    },
-    {
-      "event_id": "0d9d5bd5-6ac2-4acd-9688-0902a4561bf7",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin bulls Michael Saylor, Adam Back slam BIP-110 Ordinals proposal",
-      "url": "https://cointelegraph.com/news/bitcoin-leaders-michael-saylor-and-adam-back-rebuff-bip-110-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-12T04:24:36+00:00",
-      "raw_text": "Bitcoin bulls Michael Saylor, Adam Back slam BIP-110 Ordinals proposal\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin bulls Michael Saylor, Adam Back slam BIP-110 Ordinals proposal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-",
-      "impact": {}
-    },
-    {
-      "event_id": "23d1cf97-87b8-41e6-ba27-9cbb61e5e170",
-      "source": "rss:cointelegraph",
-      "title": "Empery Digital shares rise after selling BTC to fund AI data center project",
-      "url": "https://cointelegraph.com/news/empery-digital-shares-rise-after-selling-bitcoin-treasury-to-fund-ai-data-center-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-12T01:05:00+00:00",
-      "raw_text": "Empery Digital shares rise after selling BTC to fund AI data center project\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Empery Digital shares rise after selling BTC to fund AI data center project\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-",
-      "impact": {
-        "t_plus_5m": -0.3602,
-        "t_plus_15m": -0.2868,
-        "t_plus_1h": -0.1065,
-        "t_plus_4h": -0.2364,
-        "t_plus_24h": -0.1524
-      }
-    },
-    {
-      "event_id": "9d916642-06aa-4420-af4f-d58616a4430e",
-      "source": "rss:cointelegraph",
-      "title": "Empery Digital shares rise after selling Bitcoin to fund AI data center project",
-      "url": "https://cointelegraph.com/news/empery-digital-shares-rise-after-selling-bitcoin-treasury-to-fund-ai-data-center-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-12T01:00:54+00:00",
-      "raw_text": "Empery Digital shares rise after selling Bitcoin to fund AI data center project\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Empery Digital shares rise after selling Bitcoin to fund AI data center project\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/",
-      "impact": {}
-    },
-    {
-      "event_id": "84576bfc-cfa8-4994-8c72-a12614fd192f",
-      "source": "rss:theblock",
-      "title": "Hedera lending protocol Bonzo Lend hit for $9 million after Supra verifier accepts manipulated price update",
-      "url": "https://www.theblock.co/post/407960/hedera-lending-protocol-bonzo-lend-hit-for-9-million-after-supra-verifier-accepts-manipulated-price-update?utm_source=rss&utm_medium=rss",
-      "event_type": "hack",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-11T19:19:32+00:00",
-      "raw_text": "Hedera lending protocol Bonzo Lend hit for $9 million after Supra verifier accepts manipulated price update\n\n<p>A second wallet borrowed another roughly $1 million but identified itself as a white hat hacker and said the funds would be returned.</p>\n\n<p>A second wallet borrowed another roughly $1 mi",
-      "impact": {}
-    },
-    {
-      "event_id": "5992933f-3304-4131-bc25-6bc2a0037eed",
-      "source": "rss:coindesk",
-      "title": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
-      "url": "https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-11T18:06:58+00:00",
-      "raw_text": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
-      "impact": {}
-    },
-    {
-      "event_id": "32bc8195-e837-4dd5-af2a-e0454c004a3d",
-      "source": "rss:coindesk",
-      "title": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
-      "url": "https://www.coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-11T17:07:24+00:00",
-      "raw_text": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
-      "impact": {}
-    },
-    {
-      "event_id": "b47eb71b-c314-4b6c-82c6-9654aa5f60fb",
-      "source": "rss:decrypt",
-      "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks",
-      "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-11T16:21:34+00:00",
-      "raw_text": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks\n\nRobinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.",
-      "impact": {}
-    },
-    {
-      "event_id": "ec2e95d8-df15-4597-877b-cb5e7284eaa9",
-      "source": "rss:theblock",
-      "title": "Bitcoin, ether ETFs snap eight-week outflow streaks with $282 million combined inflow",
-      "url": "https://www.theblock.co/post/407957/bitcoin-ether-etfs-snap-eight-week-outflow-streaks-with-282-million-combined-inflow?utm_source=rss&utm_medium=rss",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-11T15:19:15+00:00",
-      "raw_text": "Bitcoin, ether ETFs snap eight-week outflow streaks with $282 million combined inflow\n\n<p>The preceding eight weeks drained a combined $9.46 billion from the two groups, meaning this week’s rebound recovered only about 3% of those outflows.</p>\n\n<p>The preceding eight weeks drained a combined $9.46 ",
-      "impact": {}
-    },
-    {
-      "event_id": "336c0585-0607-4538-8c24-abe118cf7415",
-      "source": "rss:coindesk",
-      "title": "The UK has finally shown it’s serious about crypto",
-      "url": "https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-11T15:00:00+00:00",
-      "raw_text": "The UK has finally shown it’s serious about crypto",
-      "impact": {}
-    },
-    {
-      "event_id": "638c3837-3f4e-42bf-b90c-e30559db81e6",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin nearing late stages of bear market: Jamie Coutts, Real Vision",
-      "url": "https://cointelegraph.com/features/bitcoin-is-approaching-the-second-half-of-the-bear-market-jamie-coutts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-11T13:30:00+00:00",
-      "raw_text": "Bitcoin nearing late stages of bear market: Jamie Coutts, Real Vision\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin nearing late stages of bear market: Jamie Coutts, Real Vision\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/inter",
-      "impact": {}
-    },
-    {
-      "event_id": "6a85a5b3-b86c-4d7e-9844-54b0b6dea376",
-      "source": "rss:decrypt",
-      "title": "Nano Banana 2 Lite vs. Nano Banana 2: When to Save Your Money and When to Upgrade",
-      "url": "https://decrypt.co/373002/google-nano-banana-2-lite-vs-nano-banana-2-comparison-review",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-11T13:01:02+00:00",
-      "raw_text": "Nano Banana 2 Lite vs. Nano Banana 2: When to Save Your Money and When to Upgrade\n\nGoogle's cheapest, fastest image model is a genuinely capable tool—until you need it to be great.",
-      "impact": {}
-    },
-    {
-      "event_id": "033df925-38cc-4067-bdce-b3eb625f6750",
-      "source": "rss:cointelegraph",
-      "title": "Ethereum climbs 3% on tokenization boom: Can bulls push ETH price past $1,800?",
-      "url": "https://cointelegraph.com/markets/ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1800?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-07-11T12:55:18+00:00",
-      "raw_text": "Ethereum climbs 3% on tokenization boom: Can bulls push ETH price past $1,800?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum climbs 3% on tokenization boom: Can bulls push ETH price past $1,800?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar",
-      "impact": {
-        "t_plus_5m": -0.7263,
-        "t_plus_15m": -0.7562,
-        "t_plus_1h": -0.5596,
-        "t_plus_4h": 0.3629,
-        "t_plus_24h": -0.288
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 192,
+        "avg_1h": 0.02,
+        "avg_24h": -0.37,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 174,
+        "avg_1h": 0.03,
+        "avg_24h": 1.45,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 93,
+        "count": 95,
         "avg_1h": -0.17,
         "avg_24h": 0.71,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 191,
-        "avg_1h": 0.0,
-        "avg_24h": -0.53,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 176,
-        "avg_1h": -0.02,
-        "avg_24h": 0.34,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 28,
+        "count": 27,
         "avg_1h": 0.02,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
