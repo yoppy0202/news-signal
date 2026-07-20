@@ -1,6 +1,137 @@
 {
-  "generated_at": "2026-07-20T14:30:14.528302+00:00",
+  "generated_at": "2026-07-20T16:41:42.484824+00:00",
   "events": [
+    {
+      "event_id": "cc3c2647-009f-4291-9935-52cb06b6ef23",
+      "source": "rss:theblock",
+      "title": "Benchmark backs Exodus after 25% workforce cut, says stablecoin pivot is being overlooked",
+      "url": "https://www.theblock.co/post/408924/benchmark-backs-exodus-workforce-cut-stablecoin-pivot-overlooked?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T15:07:52+00:00",
+      "raw_text": "Benchmark backs Exodus after 25% workforce cut, says stablecoin pivot is being overlooked\n\n<p>Late Friday afternoon, Exodus said it expects the restructuring to generate $10 million to $13 million in annualized cost savings.</p>\n\n<p>Late Friday afternoon, Exodus said it expects the restructuring to ",
+      "impact": {}
+    },
+    {
+      "event_id": "e4afe6e1-4340-4a2d-ae0f-730b828690d2",
+      "source": "rss:bitcoinmagazine",
+      "title": "Strive (ASST) Adds 21 Bitcoin as Treasury Reaches 19,921 BTC and Cash Climbs to $157 Million",
+      "url": "https://bitcoinmagazine.com/news/strive-asst-adds-21-bitcoin",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-07-20T15:06:48+00:00",
+      "raw_text": "Strive (ASST) Adds 21 Bitcoin as Treasury Reaches 19,921 BTC and Cash Climbs to $157 Million\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strive-ASST-Adds-185-Million-in-Bitcoin-as-Holdings-Reach-",
+      "impact": {
+        "t_plus_5m": -0.4235,
+        "t_plus_15m": -0.0144
+      }
+    },
+    {
+      "event_id": "37799a88-b36b-4b80-8084-d887af60fc63",
+      "source": "rss:coindesk",
+      "title": "Inside Cardano's 'Van Rossum' hard fork, and what it means for users",
+      "url": "https://www.coindesk.com/markets/2026/07/20/inside-cardano-s-van-rossum-hard-fork-and-what-it-means-for-users",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T14:31:23+00:00",
+      "raw_text": "Inside Cardano's 'Van Rossum' hard fork, and what it means for users",
+      "impact": {}
+    },
+    {
+      "event_id": "1e672951-f842-4e5a-aded-a78cc9a47909",
+      "source": "rss:theblock",
+      "title": "Hut 8 fully commercializes 1 GW Texas AI campus with second $9.8B lease as IREN signs $2.8B in contracts; shares climb double digits",
+      "url": "https://www.theblock.co/post/408920/hut-8-fully-commercializes-1-gw-texas-ai-campus-with-second-9-8b-lease-as-iren-signs-2-8b-in-contracts-shares-climb-double-digits?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T14:12:46+00:00",
+      "raw_text": "Hut 8 fully commercializes 1 GW Texas AI campus with second $9.8B lease as IREN signs $2.8B in contracts; shares climb double digits\n\n<p>Hut 8 and IREN shares climb on fresh AI data center deals worth billions as the bitcoin-to-AI pivot continues to accelerate.</p>\n\n<p>Hut 8 and IREN shares climb on",
+      "impact": {}
+    },
+    {
+      "event_id": "7825f0e2-ba77-45bc-b9f5-28af5fd937d3",
+      "source": "rss:coindesk",
+      "title": "Exodus to cut 25% of global workforce in payments shift",
+      "url": "https://www.coindesk.com/business/2026/07/20/exodus-to-cut-25-of-global-workforce-in-payments-shift",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T13:53:08+00:00",
+      "raw_text": "Exodus to cut 25% of global workforce in payments shift",
+      "impact": {}
+    },
+    {
+      "event_id": "528750cc-4bb8-4e2b-8046-9c0e51a2732a",
+      "source": "rss:coindesk",
+      "title": "AI compute stocks bounce as Hut 8, IREN land billions in new contracts",
+      "url": "https://www.coindesk.com/business/2026/07/20/hut-8-surges-on-usd9-8-billion-ai-data-center-lease-lifting-compute-sector",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T13:49:24+00:00",
+      "raw_text": "AI compute stocks bounce as Hut 8, IREN land billions in new contracts",
+      "impact": {}
+    },
+    {
+      "event_id": "1e9b1284-ecdd-4604-8931-092a11c2211a",
+      "source": "rss:decrypt",
+      "title": "Allbridge Pauses Cross-Chain Protocol After $1.65M Flash Loan Attack",
+      "url": "https://decrypt.co/373831/allbridge-pauses-cross-chain-protocol-after-1-65m-flash-loan-attack",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T13:47:06+00:00",
+      "raw_text": "Allbridge Pauses Cross-Chain Protocol After $1.65M Flash Loan Attack\n\nAn attacker used a flash loan to distort the bridge's Solana stablecoin pools before moving the proceeds to Ethereum, security firms said.",
+      "impact": {}
+    },
+    {
+      "event_id": "78ee94d4-4be4-49df-b1ad-86896cfa06a4",
+      "source": "rss:theblock",
+      "title": "Bitmine expands Ethereum treasury to 5.78 million ETH, repurchases 5.5 million shares",
+      "url": "https://www.theblock.co/post/408913/bitmine-expands-ethereum-treasury-5-78-million-eth-repurchases-5-5-million-shares?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [
+        "ETH"
+      ],
+      "timestamp_utc": "2026-07-20T13:43:15+00:00",
+      "raw_text": "Bitmine expands Ethereum treasury to 5.78 million ETH, repurchases 5.5 million shares\n\n<p>Bitmine expanded its ether treasury to 5.78 million ETH and repurchased 5.5 million shares under its $4 billion buyback program.</p>\n\n<p>Bitmine expanded its ether treasury to 5.78 million ETH and repurchased 5",
+      "impact": {
+        "t_plus_5m": -0.6568,
+        "t_plus_15m": -1.2061,
+        "t_plus_1h": -0.9516
+      }
+    },
+    {
+      "event_id": "0d1e03cf-a0d5-4ee3-906a-57b5a46127a5",
+      "source": "rss:cointelegraph",
+      "title": "Peter Brandt predicts the exact day Bitcoin’s bear market will be over",
+      "url": "https://cointelegraph.com/magazine/peter-brandt-says-bitcoins-bear-market-isnt-over-predicts-final-bottom-in-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T13:30:00+00:00",
+      "raw_text": "Peter Brandt predicts the exact day Bitcoin’s bear market will be over\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Peter Brandt predicts the exact day Bitcoin’s bear market will be over\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bra",
+      "impact": {}
+    },
+    {
+      "event_id": "0f74d079-48ed-4de3-99cb-9c9540ba9462",
+      "source": "rss:coindesk",
+      "title": "Tom Lee's Bitmine slowed ether purchases as it bought back $86 million in stock",
+      "url": "https://www.coindesk.com/business/2026/07/20/tom-lee-s-bitmine-slowed-ether-purchases-as-it-bought-back-usd86-million-in-stock",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T12:55:36+00:00",
+      "raw_text": "Tom Lee's Bitmine slowed ether purchases as it bought back $86 million in stock",
+      "impact": {}
+    },
     {
       "event_id": "1b9fc73a-cfef-4317-aa36-5d8dc670c4c8",
       "source": "rss:coindesk",
@@ -38,6 +169,18 @@
       "impact": {}
     },
     {
+      "event_id": "038be57e-45f2-4977-b056-28ca27ab37e4",
+      "source": "rss:coindesk",
+      "title": "Saylor's Strategy raises cash reserves to $3.2 billion, leaving bitcoin holdings unchanged",
+      "url": "https://www.coindesk.com/business/2026/07/20/saylor-s-strategy-raises-cash-reserves-to-usd3-225-billion-leaving-bitcoin-holdings-unchanged",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T12:35:02+00:00",
+      "raw_text": "Saylor's Strategy raises cash reserves to $3.2 billion, leaving bitcoin holdings unchanged",
+      "impact": {}
+    },
+    {
       "event_id": "5f28b2c9-4e8b-4551-95db-01bc3c8da722",
       "source": "rss:coindesk",
       "title": "Saylor's Strategy raises cash reserves to $3.225 billion, leaving bitcoin holdings unchanged",
@@ -63,7 +206,8 @@
       "raw_text": "Strategy (MSTR) Sells $263.5 Million in MSTR Shares, Skips Bitcoin Purchase as USD Reserve Tops $3.2 Billion\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time",
       "impact": {
         "t_plus_5m": -0.0163,
-        "t_plus_15m": -0.0074
+        "t_plus_15m": -0.0074,
+        "t_plus_1h": -0.1716
       }
     },
     {
@@ -238,7 +382,8 @@
       "impact": {
         "t_plus_5m": -0.2746,
         "t_plus_15m": -0.2006,
-        "t_plus_1h": 0.5807
+        "t_plus_1h": 0.5807,
+        "t_plus_4h": -0.3462
       }
     },
     {
@@ -268,7 +413,8 @@
       "impact": {
         "t_plus_5m": 0.0344,
         "t_plus_15m": -0.0898,
-        "t_plus_1h": -0.0
+        "t_plus_1h": -0.0,
+        "t_plus_4h": -0.1293
       }
     },
     {
@@ -353,6 +499,18 @@
       "tokens": [],
       "timestamp_utc": "2026-07-20T07:18:28+00:00",
       "raw_text": "South Korea eyes September launch for second phase of CBDC pilot: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea eyes September launch for second phase of CBDC pilot: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
+      "impact": {}
+    },
+    {
+      "event_id": "1824ea7a-8c72-49b9-83c1-e73f83794cc8",
+      "source": "rss:coindesk",
+      "title": "Live updates: Crypto cuts losses as report of Iran proposal sends oil lower, stocks higher",
+      "url": "https://www.coindesk.com/tech/2026/07/20/live-markets-oil-bounce-and-lingering-ai-selloff-pushes-bitcoin-under-usd64-000",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T07:15:47+00:00",
+      "raw_text": "Live updates: Crypto cuts losses as report of Iran proposal sends oil lower, stocks higher",
       "impact": {}
     },
     {
@@ -6173,192 +6331,26 @@
       "timestamp_utc": "2026-07-13T04:48:11+00:00",
       "raw_text": "Bitcoin holds near $63,800 as war-driven selloff hits everything but crypto",
       "impact": {}
-    },
-    {
-      "event_id": "7007e82d-ad59-4f1e-9e7c-03ea93da1e9f",
-      "source": "rss:cointelegraph",
-      "title": "Bank of Thailand targets USDT and cash flows in gray money crackdown",
-      "url": "https://cointelegraph.com/news/thailand-targets-stablecoins-in-latest-laundering-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-13T04:43:50+00:00",
-      "raw_text": "Bank of Thailand targets USDT and cash flows in gray money crackdown\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bank of Thailand targets USDT and cash flows in gray money crackdown\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-u-ba",
-      "impact": {}
-    },
-    {
-      "event_id": "2c9ceccb-44d3-45d4-946c-502ceda9ce3f",
-      "source": "rss:theblock",
-      "title": "Japan’s Lawson convenience store pilots stablecoin payments with JPYC: report",
-      "url": "https://www.theblock.co/post/407982/lawson-pilots-jpyc-stablecoin?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-13T03:59:28+00:00",
-      "raw_text": "Japan’s Lawson convenience store pilots stablecoin payments with JPYC: report\n\n<p>This is part of a proof-of-concept involving telecommunications giant KDDI and crypto wallet firm HashPort.</p>\n\n<p>This is part of a proof-of-concept involving telecommunications giant KDDI and crypto wallet firm Hash",
-      "impact": {}
-    },
-    {
-      "event_id": "54b12812-55ca-44ab-8ab8-6339642e01e3",
-      "source": "rss:theblock",
-      "title": "The Funding: Why Japan’s SBI Holdings is investing big in crypto",
-      "url": "https://www.theblock.co/post/407977/the-funding-why-japan-sbi-holdings-is-investing-big-in-crypto?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-13T02:12:42+00:00",
-      "raw_text": "The Funding: Why Japan’s SBI Holdings is investing big in crypto\n\n<p>The Japanese financial giant's recent crypto deals offer insights into how traditional finance is approaching digital assets.</p>\n\n<p>The Japanese financial giant's recent crypto deals offer insights into how traditional finance is",
-      "impact": {}
-    },
-    {
-      "event_id": "aeaf66f3-0f7b-436f-b5fd-bbf5e94869c6",
-      "source": "rss:theblock",
-      "title": "Bitcoin whale moves $188 million in BTC after seven-year dormancy: onchain data",
-      "url": "https://www.theblock.co/post/407973/bitcoin-whale-moves-188-million-worth-btc?utm_source=rss&utm_medium=rss",
-      "event_type": "whale_move",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-13T02:12:25+00:00",
-      "raw_text": "Bitcoin whale moves $188 million in BTC after seven-year dormancy: onchain data\n\n<p>The whale last moved bitcoin in 2018, when the cryptocurrency traded at roughly $6,475, reflecting nearly a tenfold gain since then.</p>\n\n<p>The whale last moved bitcoin in 2018, when the cryptocurrency traded at rou",
-      "impact": {
-        "t_plus_5m": 1.2197,
-        "t_plus_15m": 1.1705,
-        "t_plus_1h": 0.5974,
-        "t_plus_4h": 0.1275
-      }
-    },
-    {
-      "event_id": "9f8d16ce-7432-42dc-9370-883b3aa704f5",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin ETFs draw $197M, snap 8-week outflow streak",
-      "url": "https://cointelegraph.com/news/bitcoin-etfs-draw-197m-snap-8-week-outflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-13T01:49:17+00:00",
-      "raw_text": "Bitcoin ETFs draw $197M, snap 8-week outflow streak\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs draw $197M, snap 8-week outflow streak\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-gold-etfs-or-shares-which-inve",
-      "impact": {}
-    },
-    {
-      "event_id": "0ec41135-9531-4f57-b31b-94d07e4d2736",
-      "source": "rss:cointelegraph",
-      "title": "Robinhood L2 sparks ETH optimism, Saylor 'muddies waters.' Hodler's Digest, July 5-12, 2026",
-      "url": "https://cointelegraph.com/features/ethereum-climbs-as-robinhood-l2-takes-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-07-12T23:24:26+00:00",
-      "raw_text": "Robinhood L2 sparks ETH optimism, Saylor 'muddies waters.' Hodler's Digest, July 5-12, 2026\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Robinhood L2 sparks ETH optimism, Saylor 'muddies waters.' Hodler's Digest, July 5-12, 2026\" class=\"type:primaryImage\" src=\"https://s3-",
-      "impact": {
-        "t_plus_5m": -0.1411,
-        "t_plus_15m": -0.0558,
-        "t_plus_1h": 1.6057,
-        "t_plus_4h": -0.9553
-      }
-    },
-    {
-      "event_id": "e7973701-6b4b-46f5-8d1e-ec6d5d45859c",
-      "source": "rss:theblock",
-      "title": "Crypto fatwa sparks debate over Pakistan’s digital asset framework",
-      "url": "https://www.theblock.co/post/407969/crypto-fatwa-sparks-debate-over-pakistans-digital-asset-framework?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-12T21:23:57+00:00",
-      "raw_text": "Crypto fatwa sparks debate over Pakistan’s digital asset framework\n\n<p>Pakistan’s crypto regulator held talks with prominent Islamic scholar Mufti Taqi Usmani after a fatwa declared crypto purchases impermissible under Islam.</p>\n\n<p>Pakistan’s crypto regulator held talks with prominent Islamic scho",
-      "impact": {}
-    },
-    {
-      "event_id": "9b62e12e-7a4b-4c8f-b8ab-440aaf8416c8",
-      "source": "rss:theblock",
-      "title": "Michael Saylor posts cryptic Strategy chart after $216 million bitcoin sale: ‘Orange dots tell only part of the story’",
-      "url": "https://www.theblock.co/post/407965/michael-saylor-posts-cryptic-strategy-chart-after-216-million-bitcoin-sale-orange-dots-tell-only-part-of-the-story?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-12T18:43:15+00:00",
-      "raw_text": "Michael Saylor posts cryptic Strategy chart after $216 million bitcoin sale: ‘Orange dots tell only part of the story’\n\n<p>Strategy holds 843,775 BTC at an average cost of $75,476, leaving the position roughly $9.7 billion underwater with bitcoin trading near $64,000.</p>\n\n<p>Strategy holds 843,775 ",
-      "impact": {
-        "t_plus_5m": -0.0566,
-        "t_plus_15m": -0.0324,
-        "t_plus_1h": -0.0171,
-        "t_plus_4h": -0.598
-      }
-    },
-    {
-      "event_id": "08ae6d2a-8985-4ad6-bbcd-a5365d2ef99a",
-      "source": "rss:coindesk",
-      "title": "Signs of life?: State of Crypto",
-      "url": "https://www.coindesk.com/policy/2026/07/12/signs-of-life-state-of-crypto",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-12T18:30:00+00:00",
-      "raw_text": "Signs of life?: State of Crypto",
-      "impact": {}
-    },
-    {
-      "event_id": "ea319307-72b2-4e84-8960-1575203cc9e6",
-      "source": "rss:cointelegraph",
-      "title": "Strategy's Saylor needs clarity in BTC pivot message to convince investors: StanChart",
-      "url": "https://cointelegraph.com/news/strategys-saylor-needs-clarity-in-btc-pivot-message-to-convince-investors-stanchart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-12T18:16:45+00:00",
-      "raw_text": "Strategy's Saylor needs clarity in BTC pivot message to convince investors: StanChart\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy's Saylor needs clarity in BTC pivot message to convince investors: StanChart\" class=\"type:primaryImage\" src=\"https://s3-images.ctmed",
-      "impact": {
-        "t_plus_5m": -0.0599,
-        "t_plus_15m": -0.0117,
-        "t_plus_1h": 0.1832,
-        "t_plus_4h": -0.4103
-      }
-    },
-    {
-      "event_id": "e8c16228-5b8d-4e2f-88ec-23bd56efda99",
-      "source": "rss:decrypt",
-      "title": "How to Make Product Ads With AI for TikTok and YouTube—For (Almost) Free",
-      "url": "https://decrypt.co/373290/how-to-make-ai-ads-tiktok-youtube-free",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-12T14:01:03+00:00",
-      "raw_text": "How to Make Product Ads With AI for TikTok and YouTube—For (Almost) Free\n\nOne product photo, three AI tools, and about 20 minutes: Here's the full workflow for generating a sales video without a camera, a model, or a studio.",
-      "impact": {}
-    },
-    {
-      "event_id": "b8fda6aa-4168-4f4f-9875-e408e8d41703",
-      "source": "rss:coindesk",
-      "title": "Stablecoin market cap has shrunk by $10 billion since May, but analyst sees no reason to panic",
-      "url": "https://www.coindesk.com/markets/2026/07/12/stablecoin-market-cap-has-shrunk-by-usd10-billion-since-may-but-analyst-sees-no-reason-to-panic",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-12T13:00:00+00:00",
-      "raw_text": "Stablecoin market cap has shrunk by $10 billion since May, but analyst sees no reason to panic",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 192,
-        "avg_1h": 0.02,
-        "avg_24h": -0.37,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
         "count": 174,
-        "avg_1h": 0.03,
+        "avg_1h": -0.09,
         "avg_24h": 1.45,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "listing": {
+        "count": 9,
+        "avg_1h": -0.04,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 191,
+        "avg_1h": -0.08,
+        "avg_24h": -0.37,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
@@ -6368,20 +6360,14 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 27,
+        "count": 28,
         "avg_1h": 0.02,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "listing": {
-        "count": 8,
-        "avg_1h": -0.04,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "whale_move": {
-        "count": 4,
-        "avg_1h": 0.13,
+        "count": 3,
+        "avg_1h": -0.1,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       }
