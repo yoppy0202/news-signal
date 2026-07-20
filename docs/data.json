@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-20T00:07:35.813157+00:00",
+  "generated_at": "2026-07-20T03:59:41.729215+00:00",
   "events": [
+    {
+      "event_id": "7ed9105d-d19d-46fe-9ee5-fd5efa523240",
+      "source": "rss:cointelegraph",
+      "title": "South Korea probed 40 cases of crypto manipulation over 2 years",
+      "url": "https://cointelegraph.com/news/south-korea-probed-40-cases-of-crypto-manipulation-over-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T00:33:12+00:00",
+      "raw_text": "South Korea probed 40 cases of crypto manipulation over 2 years\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea probed 40 cases of crypto manipulation over 2 years\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/lost-bitcoins-cry",
+      "impact": {}
+    },
+    {
+      "event_id": "4423b742-09c1-427d-9186-2857e2bcefeb",
+      "source": "rss:cointelegraph",
+      "title": "Will the US get CLARITY this week? Bitcoin’s new $80K target: Hodler’s Digest, July 19",
+      "url": "https://cointelegraph.com/magazine/will-the-us-get-finally-clarity-this-week-bitcoin-80k-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T00:12:06+00:00",
+      "raw_text": "Will the US get CLARITY this week? Bitcoin’s new $80K target: Hodler’s Digest, July 19\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Will the US get CLARITY this week? Bitcoin’s new $80K target: Hodler’s Digest, July 19\" class=\"type:primaryImage\" src=\"https://s3-images.ctm",
+      "impact": {}
+    },
     {
       "event_id": "cc2b1bd3-937b-4d7e-9c96-3816635a9cc8",
       "source": "rss:theblock",
@@ -6366,54 +6390,30 @@
         "t_plus_4h": 0.8915,
         "t_plus_24h": 0.9463
       }
-    },
-    {
-      "event_id": "b05affed-2662-4995-a4de-516cc8d1d853",
-      "source": "rss:decrypt",
-      "title": "Xbox CEO Joins Fed AI Jobs Task Force Days After Announcing 3,200 Layoffs",
-      "url": "https://decrypt.co/373277/xbox-ceo-fed-ai-jobs-task-force-days-after-layoffs",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-10T18:02:21+00:00",
-      "raw_text": "Xbox CEO Joins Fed AI Jobs Task Force Days After Announcing 3,200 Layoffs\n\nAsha Sharma will advise the Federal Reserve on AI’s impact on jobs and productivity as Xbox undergoes the biggest restructuring in its history.",
-      "impact": {}
-    },
-    {
-      "event_id": "e4a23f66-0aab-47a2-b073-cc43c6c96ad8",
-      "source": "rss:cointelegraph",
-      "title": "New Hampshire council votes down $100M Bitcoin bonds",
-      "url": "https://cointelegraph.com/news/new-hampshire-votes-against-bitcoin-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-10T17:23:10+00:00",
-      "raw_text": "New Hampshire council votes down $100M Bitcoin bonds\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"New Hampshire council votes down $100M Bitcoin bonds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-can-bitcoin-replace-bonds-in-institu",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 191,
-        "avg_1h": -0.02,
-        "avg_24h": -0.52,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 25,
+        "count": 26,
         "avg_1h": 0.02,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
+      "unknown": {
+        "count": 192,
+        "avg_1h": -0.02,
+        "avg_24h": -0.52,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 174,
+        "count": 173,
         "avg_1h": -0.02,
         "avg_24h": 0.34,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 96,
+        "count": 95,
         "avg_1h": 0.04,
         "avg_24h": 0.77,
         "win_rate_1h_gt5pct": 0.0
