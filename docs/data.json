@@ -1,6 +1,88 @@
 {
-  "generated_at": "2026-07-20T19:04:54.688952+00:00",
+  "generated_at": "2026-07-20T20:38:02.184644+00:00",
   "events": [
+    {
+      "event_id": "0d5bf3f3-f11e-4956-b50e-cf7650dfb1eb",
+      "source": "rss:bitcoinmagazine",
+      "title": "Metaplanet’s Bitcoin Japan Announces Plan to Scoop Up Coins Despite Market Downturn",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-japan-to-buy-bitcoin",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-07-20T20:05:56+00:00",
+      "raw_text": "Metaplanet’s Bitcoin Japan Announces Plan to Scoop Up Coins Despite Market Downturn\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Metaplanet-Bitcoin-Japan-to-start-treasury.jpg\" style=\"display: blo",
+      "impact": {
+        "t_plus_5m": -0.1191,
+        "t_plus_15m": 0.0004
+      }
+    },
+    {
+      "event_id": "2a58aa7a-565a-4178-ad52-78aa12c608e3",
+      "source": "rss:decrypt",
+      "title": "Russia's First Comprehensive Crypto Law Is Two Votes Away From Passing",
+      "url": "https://decrypt.co/373880/russia-first-comprehensive-crypto-law",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T20:02:33+00:00",
+      "raw_text": "Russia's First Comprehensive Crypto Law Is Two Votes Away From Passing\n\nThe bill licenses exchanges, caps retail investors at about $3,800 a year, and creates a legal pathway for Russian companies to pay foreign partners in crypto—bypassing Western sanctions.",
+      "impact": {}
+    },
+    {
+      "event_id": "838f845f-bf16-4c39-af61-5769e6d0c642",
+      "source": "rss:bitcoinmagazine",
+      "title": "Bitcoin-Treasury Capital B Plans 10-for-1 Reverse Stock Split for September",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-treasury-capital-b-plans-10-for-1",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-07-20T19:52:47+00:00",
+      "raw_text": "Bitcoin-Treasury Capital B Plans 10-for-1 Reverse Stock Split for September\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Capital-B-Acquires-192-Bitcoin-for-E13-Million-Pushes-Total-Holdings-to-313",
+      "impact": {
+        "t_plus_5m": -0.1249,
+        "t_plus_15m": -0.1191
+      }
+    },
+    {
+      "event_id": "fee8b888-76b2-45dd-9fce-7eb8d2645483",
+      "source": "rss:theblock",
+      "title": "Vietnam sets new crypto trading fines on par with drunk-driving penalties",
+      "url": "https://www.theblock.co/post/408980/vietnam-new-unlicensed-crypto-trading-fines-on-par-drunk-driving-penalties?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T19:47:47+00:00",
+      "raw_text": "Vietnam sets new crypto trading fines on par with drunk-driving penalties\n\n<p>Domestic investors who trade crypto without going through a licensed service provider face fines of roughly $1,140 to $1,900.</p>\n\n<p>Domestic investors who trade crypto without going through a licensed service provider fa",
+      "impact": {}
+    },
+    {
+      "event_id": "5574c11d-cdf4-47c3-b6b3-f7249645f3f5",
+      "source": "rss:cointelegraph",
+      "title": "Exodus to cut 25% of staff in company reorganization",
+      "url": "https://cointelegraph.com/news/crypto-wallet-exodus-cut-staff-company-reorganization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T19:29:11+00:00",
+      "raw_text": "Exodus to cut 25% of staff in company reorganization\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Exodus to cut 25% of staff in company reorganization\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/layoffs-fired-human-resource-hr-leaving",
+      "impact": {}
+    },
+    {
+      "event_id": "7db9f97a-81ee-4668-927a-a68c98a6eb2f",
+      "source": "rss:decrypt",
+      "title": "Cardano Triggers Hard Fork With First Community-Voted Upgrade",
+      "url": "https://decrypt.co/373858/cardano-van-rossem-hard-fork-live-community-upgrade",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T18:50:48+00:00",
+      "raw_text": "Cardano Triggers Hard Fork With First Community-Voted Upgrade\n\nFor the first time in Cardano's history, no company flipped the switch on a major protocol update.",
+      "impact": {}
+    },
     {
       "event_id": "40a5e32b-96df-41ae-b084-13d729b56f2f",
       "source": "rss:bitcoinmagazine",
@@ -124,7 +206,8 @@
       "impact": {
         "t_plus_5m": 0.1133,
         "t_plus_15m": 0.0342,
-        "t_plus_1h": 0.0574
+        "t_plus_1h": 0.0574,
+        "t_plus_4h": 0.1127
       }
     },
     {
@@ -142,7 +225,8 @@
       "impact": {
         "t_plus_5m": 0.1935,
         "t_plus_15m": 0.1568,
-        "t_plus_1h": 0.0212
+        "t_plus_1h": 0.0212,
+        "t_plus_4h": -0.4624
       }
     },
     {
@@ -160,7 +244,8 @@
       "impact": {
         "t_plus_5m": -0.193,
         "t_plus_15m": 0.1626,
-        "t_plus_1h": -0.0491
+        "t_plus_1h": -0.0491,
+        "t_plus_4h": -0.505
       }
     },
     {
@@ -675,6 +760,18 @@
       "tokens": [],
       "timestamp_utc": "2026-07-20T07:18:28+00:00",
       "raw_text": "South Korea eyes September launch for second phase of CBDC pilot: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea eyes September launch for second phase of CBDC pilot: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
+      "impact": {}
+    },
+    {
+      "event_id": "13bfa97c-86db-41b0-a76e-d17f5c94fa69",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin rises to one-month high of $65,700 before pulling back with stocks",
+      "url": "https://www.coindesk.com/tech/2026/07/20/live-markets-oil-bounce-and-lingering-ai-selloff-pushes-bitcoin-under-usd64-000",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T07:15:47+00:00",
+      "raw_text": "Live updates: Bitcoin rises to one-month high of $65,700 before pulling back with stocks",
       "impact": {}
     },
     {
@@ -6267,103 +6364,13 @@
       "impact": {
         "t_plus_4h": 0.4533
       }
-    },
-    {
-      "event_id": "1238cc82-07a8-49f7-a065-0af318a699d9",
-      "source": "rss:cointelegraph",
-      "title": "UK tokenization push could add as much as $44B to annual output by 2035: Report",
-      "url": "https://cointelegraph.com/news/uk-tokenization-44-billion-annual-output-2035?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-13T11:50:04+00:00",
-      "raw_text": "UK tokenization push could add as much as $44B to annual output by 2035: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK tokenization push could add as much as $44B to annual output by 2035: Report \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media",
-      "impact": {}
-    },
-    {
-      "event_id": "0295b741-0328-4bc4-ac5f-091beadab3c4",
-      "source": "rss:coindesk",
-      "title": "SBI Holdings' blockchain initiative pivots to Solana for tokenization, stablecoin issuance",
-      "url": "https://www.coindesk.com/business/2026/07/13/sbi-holdings-blockchain-initiative-pivots-to-solana-for-tokenization-stablecoin-issuance",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-13T11:40:51+00:00",
-      "raw_text": "SBI Holdings' blockchain initiative pivots to Solana for tokenization, stablecoin issuance",
-      "impact": {}
-    },
-    {
-      "event_id": "3087d1f5-0fd3-4c0d-b898-ae55ba190ac8",
-      "source": "rss:coindesk",
-      "title": "BlackRock, Goldman Sachs, JPMorgan, Morgan Stanley join UK government's tokenization taskforce",
-      "url": "https://www.coindesk.com/business/2026/07/13/uk-government-unveils-tokenization-taskforce-with-blackrock-goldman-jpmorgan-morgan-stanley",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-13T11:40:21+00:00",
-      "raw_text": "BlackRock, Goldman Sachs, JPMorgan, Morgan Stanley join UK government's tokenization taskforce",
-      "impact": {}
-    },
-    {
-      "event_id": "619333d6-1405-4fe6-8dbe-c47bee11bea1",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin whale moves $188M for first time in 7 years",
-      "url": "https://cointelegraph.com/news/bitcoin-whale-moves-188m-first-7-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "whale_move",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-13T11:36:00+00:00",
-      "raw_text": "Bitcoin whale moves $188M for first time in 7 years\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin whale moves $188M for first time in 7 years\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/whalestormship.jpg\" /></p><p>A dormant wh",
-      "impact": {}
-    },
-    {
-      "event_id": "a487c13f-4082-454c-bad1-89ecc0d60d1e",
-      "source": "rss:coindesk",
-      "title": "Resurgent U.S.-Iran hostilities send bitcoin lower even as ETF flows show demand",
-      "url": "https://www.coindesk.com/daybook-us/2026/07/13/resurgent-u-s-iran-hostilities-send-bitcoin-lower-even-as-etf-flows-show-demand",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-13T11:20:49+00:00",
-      "raw_text": "Resurgent U.S.-Iran hostilities send bitcoin lower even as ETF flows show demand",
-      "impact": {}
-    },
-    {
-      "event_id": "de186b26-a5a4-4494-af8c-9e3667fafe00",
-      "source": "rss:cointelegraph",
-      "title": "Binance June futures volume at $1.6T defies crypto spot trading slump",
-      "url": "https://cointelegraph.com/news/binance-futures-volume-2026-high-crypto-spot-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-13T11:20:00+00:00",
-      "raw_text": "Binance June futures volume at $1.6T defies crypto spot trading slump\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance June futures volume at $1.6T defies crypto spot trading slump\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bi",
-      "impact": {}
-    },
-    {
-      "event_id": "1fe5b984-e3ff-45a2-ade2-3b3a125ac5fd",
-      "source": "rss:cointelegraph",
-      "title": "BTC price bull market to begin in September? Five things to know in Bitcoin this week",
-      "url": "https://cointelegraph.com/markets/btc-price-bull-market-to-begin-in-september-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-13T10:45:22+00:00",
-      "raw_text": "BTC price bull market to begin in September? Five things to know in Bitcoin this week\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BTC price bull market to begin in September? Five things to know in Bitcoin this week\" class=\"type:primaryImage\" src=\"https://s3-images.ctmed",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 98,
-        "avg_1h": -0.16,
-        "avg_24h": 0.71,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 29,
-        "avg_1h": 0.02,
+      "listing": {
+        "count": 11,
+        "avg_1h": 0.29,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6379,14 +6386,20 @@
         "avg_24h": -0.37,
         "win_rate_1h_gt5pct": 0.0
       },
-      "listing": {
-        "count": 9,
-        "avg_1h": 0.29,
+      "macro": {
+        "count": 97,
+        "avg_1h": -0.16,
+        "avg_24h": 0.71,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 29,
+        "avg_1h": 0.02,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
-        "count": 3,
+        "count": 2,
         "avg_1h": -0.1,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
