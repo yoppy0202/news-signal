@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-21T00:06:28.286789+00:00",
+  "generated_at": "2026-07-21T03:39:18.971747+00:00",
   "events": [
+    {
+      "event_id": "25382eb7-50cb-4ee0-8940-a172e9e99a95",
+      "source": "rss:theblock",
+      "title": "Trump agrees to ethics provision as crypto bill inches closer to Senate vote",
+      "url": "https://www.theblock.co/post/409000/trump-agrees-to-ethics-provision-crypto-bill?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-21T00:58:26+00:00",
+      "raw_text": "Trump agrees to ethics provision as crypto bill inches closer to Senate vote\n\n<p>President Trump has agreed to ethics language — potentially moving the ball forward to getting crypto legislation passed into law. </p>\n\n<p>President Trump has agreed to ethics language — potentially moving the ball for",
+      "impact": {}
+    },
+    {
+      "event_id": "2376e4c0-5536-4849-9114-b0d9eeeb3776",
+      "source": "rss:cointelegraph",
+      "title": "Patrick Witt defers military training as CLARITY heads to Senate",
+      "url": "https://cointelegraph.com/news/patrick-witt-defers-military-training-as-clarity-heads-to-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-21T00:02:04+00:00",
+      "raw_text": "Patrick Witt defers military training as CLARITY heads to Senate\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Patrick Witt defers military training as CLARITY heads to Senate \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/white-house-cr",
+      "impact": {}
+    },
     {
       "event_id": "f3ec3729-d940-486b-bc9f-1a4956910360",
       "source": "rss:bitcoinmagazine",
@@ -154,7 +178,8 @@
       "impact": {
         "t_plus_5m": -0.1249,
         "t_plus_15m": -0.1191,
-        "t_plus_1h": 0.1797
+        "t_plus_1h": 0.1797,
+        "t_plus_4h": -0.0758
       }
     },
     {
@@ -6303,56 +6328,25 @@
       "timestamp_utc": "2026-07-13T13:56:36+00:00",
       "raw_text": "Bank of Thailand Flags Abnormal Stablecoin Trades in 'Grey Economy' Crackdown\n\nData analytics flagged stablecoin transfers meant to evade scrutiny, the central bank says, handing the findings to the securities regulator.",
       "impact": {}
-    },
-    {
-      "event_id": "f9ed9180-912c-4b96-a0d6-495952b32ea5",
-      "source": "rss:coindesk",
-      "title": "Wall Street transfer agents lobby SEC, warning that third-party tokens pose risks to market integrity",
-      "url": "https://www.coindesk.com/policy/2026/07/13/wall-street-transfer-agents-lobby-sec-warning-that-third-party-tokens-pose-risks-to-market-integrity",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-13T13:45:00+00:00",
-      "raw_text": "Wall Street transfer agents lobby SEC, warning that third-party tokens pose risks to market integrity",
-      "impact": {}
-    },
-    {
-      "event_id": "748d159e-710d-4ffc-8724-2c09a143b2fa",
-      "source": "rss:bitcoinmagazine",
-      "title": "Strive (ASST) Adds 18 Bitcoin, Pushing Treasury to 19,900 BTC",
-      "url": "https://bitcoinmagazine.com/news/strive-asst-adds-18-treasury-to-19900-btc",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-13T13:32:07+00:00",
-      "raw_text": "Strive (ASST) Adds 18 Bitcoin, Pushing Treasury to 19,900 BTC\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strive-ASST-Holds-19864-BTC-With-No-New-Purchases-Last-Week-Balance-Sheet-Hits-141.7M-Cas",
-      "impact": {
-        "t_plus_5m": 0.484,
-        "t_plus_15m": -0.068,
-        "t_plus_1h": 0.3783,
-        "t_plus_4h": -0.2312
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 174,
+        "avg_1h": -0.13,
+        "avg_24h": 1.45,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "listing": {
         "count": 12,
         "avg_1h": 0.24,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 172,
-        "avg_1h": -0.13,
-        "avg_24h": 1.45,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 97,
-        "avg_1h": -0.18,
+        "count": 95,
+        "avg_1h": -0.22,
         "avg_24h": 0.71,
         "win_rate_1h_gt5pct": 0.0
       },
