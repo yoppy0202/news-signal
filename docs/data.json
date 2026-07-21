@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-20T22:10:25.547700+00:00",
+  "generated_at": "2026-07-21T00:06:28.286789+00:00",
   "events": [
+    {
+      "event_id": "f3ec3729-d940-486b-bc9f-1a4956910360",
+      "source": "rss:bitcoinmagazine",
+      "title": "Bitcoin Miner Hut 8 Shares Jump on $9.8 Billion AI Data Center Deal",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-miner-hut-8-shares-jump-on-ai-deal",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T22:16:30+00:00",
+      "raw_text": "Bitcoin Miner Hut 8 Shares Jump on $9.8 Billion AI Data Center Deal\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Hut-8-shares.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https",
+      "impact": {}
+    },
+    {
+      "event_id": "314d460a-ff30-44c1-8ec7-45d5b933f348",
+      "source": "rss:cointelegraph",
+      "title": "Democrats added certain consumer protection rules to CLARITY: Coinbase exec",
+      "url": "https://cointelegraph.com/news/democrats-consumer-protections-clarity-act-ethics-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-20T21:41:23+00:00",
+      "raw_text": "Democrats added certain consumer protection rules to CLARITY: Coinbase exec\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Democrats added certain consumer protection rules to CLARITY: Coinbase exec\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-",
+      "impact": {}
+    },
     {
       "event_id": "7a1e2c37-01cb-40e7-a513-fdcfe0c5269d",
       "source": "rss:theblock",
@@ -99,7 +123,8 @@
       "raw_text": "Metaplanet’s Bitcoin Japan Announces Plan to Scoop Up Coins Despite Market Downturn\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Metaplanet-Bitcoin-Japan-to-start-treasury.jpg\" style=\"display: blo",
       "impact": {
         "t_plus_5m": -0.1191,
-        "t_plus_15m": 0.0004
+        "t_plus_15m": 0.0004,
+        "t_plus_1h": 0.1669
       }
     },
     {
@@ -128,7 +153,8 @@
       "raw_text": "Bitcoin-Treasury Capital B Plans 10-for-1 Reverse Stock Split for September\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Capital-B-Acquires-192-Bitcoin-for-E13-Million-Pushes-Total-Holdings-to-313",
       "impact": {
         "t_plus_5m": -0.1249,
-        "t_plus_15m": -0.1191
+        "t_plus_15m": -0.1191,
+        "t_plus_1h": 0.1797
       }
     },
     {
@@ -6308,63 +6334,32 @@
         "t_plus_1h": 0.3783,
         "t_plus_4h": -0.2312
       }
-    },
-    {
-      "event_id": "b1fc9462-4baf-436d-94ab-ce1abd569dd6",
-      "source": "rss:cointelegraph",
-      "title": "Coinbase Ventures tops crypto VC list for H1 2026",
-      "url": "https://cointelegraph.com/news/coinbase-ventures-leading-crypto-vc-h1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-13T13:26:50+00:00",
-      "raw_text": "Coinbase Ventures tops crypto VC list for H1 2026\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase Ventures tops crypto VC list for H1 2026\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-blockchain-vc-funding-surpasses-2021-totl-",
-      "impact": {}
-    },
-    {
-      "event_id": "df77dd6d-6041-4b5e-8a9b-1fcaf001e98a",
-      "source": "rss:theblock",
-      "title": "Tom Lee says users ‘starting to see Ethereum as money’ as Bitmine adds 27,801 ETH",
-      "url": "https://www.theblock.co/post/408029/tom-lee-says-users-starting-see-ethereum-money-bitmine-adds-27801-eth?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-07-13T13:25:58+00:00",
-      "raw_text": "Tom Lee says users ‘starting to see Ethereum as money’ as Bitmine adds 27,801 ETH\n\n<p>Bitmine accumulates 5.77M ETH tokens, 4.8% of supply, as Tom Lee cites Robinhood Chain driving everyday user adoption.</p>\n\n<p>Bitmine accumulates 5.77M ETH tokens, 4.8% of supply, as Tom Lee cites Robinhood Chain ",
-      "impact": {
-        "t_plus_5m": 0.1453,
-        "t_plus_15m": 0.3202,
-        "t_plus_1h": 0.0825,
-        "t_plus_4h": 0.3241
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "listing": {
+        "count": 12,
+        "avg_1h": 0.24,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 172,
+        "avg_1h": -0.13,
+        "avg_24h": 1.45,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 97,
         "avg_1h": -0.18,
         "avg_24h": 0.71,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 173,
-        "avg_1h": -0.11,
-        "avg_24h": 1.45,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
         "count": 188,
         "avg_1h": -0.08,
         "avg_24h": -0.37,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "listing": {
-        "count": 11,
-        "avg_1h": 0.29,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
