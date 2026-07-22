@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-07-22T06:39:48.799188+00:00",
+  "generated_at": "2026-07-22T09:35:23.890399+00:00",
   "events": [
+    {
+      "event_id": "a92a3200-cd4c-4943-b6cc-d915987e03ff",
+      "source": "rss:coindesk",
+      "title": "Balance stablecoin collapses 99% after $1 million exploit drains its bitcoin vaults",
+      "url": "https://www.coindesk.com/tech/2026/07/22/balance-stablecoin-collapses-99-after-usd1-million-exploit-drains-its-bitcoin-vaults",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-22T09:01:54+00:00",
+      "raw_text": "Balance stablecoin collapses 99% after $1 million exploit drains its bitcoin vaults",
+      "impact": {}
+    },
+    {
+      "event_id": "81f3b78d-e668-428c-b4d9-5b4bc74ef1c9",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin under $66,000 as traders await Alphabet earnings to gauge AI trade",
+      "url": "https://www.coindesk.com/tech/2026/07/22/live-updates-bitcoin-under-usd66-000-as-traders-await-alphabet-earnings-to-gauge-ai-trade",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-22T08:13:28+00:00",
+      "raw_text": "Live updates: Bitcoin under $66,000 as traders await Alphabet earnings to gauge AI trade",
+      "impact": {}
+    },
+    {
+      "event_id": "4201defe-ecf8-4225-bc4a-9d8ea2e06e1e",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin ETFs extend inflow streak to six days with $203M added",
+      "url": "https://cointelegraph.com/news/bitcoin-etfs-203-million-inflow-streak-six-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-22T07:57:03+00:00",
+      "raw_text": "Bitcoin ETFs extend inflow streak to six days with $203M added\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs extend inflow streak to six days with $203M added\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-etf-infr",
+      "impact": {}
+    },
+    {
+      "event_id": "4d90abd5-0148-4677-956b-a22d906accba",
+      "source": "rss:theblock",
+      "title": "BIS warns USD stablecoins can evade capital controls, challenging traditional market regulations",
+      "url": "https://www.theblock.co/post/409193/bis-warns-stablecoins-capital-controls?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-22T07:47:26+00:00",
+      "raw_text": "BIS warns USD stablecoins can evade capital controls, challenging traditional market regulations\n\n<p>BIS says that FX restrictions and capital controls are less effective against stablecoins than against foreign currency bank deposits.</p>\n\n<p>BIS says that FX restrictions and capital controls are l",
+      "impact": {}
+    },
+    {
+      "event_id": "2f6bc23f-1b4f-4f09-97cc-ff7d275dfad4",
+      "source": "rss:theblock",
+      "title": "US seeks forfeiture of $25 million in crypto tied to global fraud investigations",
+      "url": "https://www.theblock.co/post/409194/us-seeks-forfeiture-25-million-crypto?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-22T07:41:49+00:00",
+      "raw_text": "US seeks forfeiture of $25 million in crypto tied to global fraud investigations\n\n<p>US prosecutors seek forfeiture of $25 million in crypto recovered from five investigations into international fraud and laundering networks.</p>\n\n<p>US prosecutors seek forfeiture of $25 million in crypto recovered ",
+      "impact": {}
+    },
     {
       "event_id": "3662ee3d-4621-492f-bb17-505da894e5ec",
       "source": "rss:coindesk",
@@ -92,10 +152,17 @@
       "url": "https://decrypt.co/374018/dat-satsuma-unwind-bitcoin-treasury-sell-off-btc",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-22T00:32:58+00:00",
       "raw_text": "DAT Went Wrong: Satsuma to Unwind Bitcoin Treasury, Sell Off $43 Million in BTC\n\nThe UK Bitcoin treasury company raised $218 million less than a year ago. Now it's returning whatever is left.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.657,
+        "t_plus_15m": 0.593,
+        "t_plus_1h": 0.2258,
+        "t_plus_4h": 0.1367
+      }
     },
     {
       "event_id": "a9791529-7cac-49c9-9f3f-5da7db7633d6",
@@ -243,10 +310,17 @@
       "url": "https://cointelegraph.com/markets/ether-breaks-the-1900-resistance-is-2100-the-next-target-for-eth-bulls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-07-21T20:26:13+00:00",
       "raw_text": "Ether breaks the $1.9K resistance: Is $2.1K the next target for ETH bulls?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ether breaks the $1.9K resistance: Is $2.1K the next target for ETH bulls?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-co",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1869,
+        "t_plus_15m": 0.35,
+        "t_plus_1h": 0.2482,
+        "t_plus_4h": 1.0959
+      }
     },
     {
       "event_id": "e1352f71-cb24-4a84-b599-561fd93157ae",
@@ -6283,92 +6357,32 @@
         "t_plus_1h": 0.0396,
         "t_plus_4h": 0.2082
       }
-    },
-    {
-      "event_id": "7c19f28c-79e9-4a2c-a595-0f92d56bd33f",
-      "source": "rss:coindesk",
-      "title": "Binance bets on becoming a crypto 'super app' as stablecoins reshape growth",
-      "url": "https://www.coindesk.com/business/2026/07/14/binance-bets-on-becoming-a-crypto-super-app-as-stablecoins-reshape-growth",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-14T17:33:19+00:00",
-      "raw_text": "Binance bets on becoming a crypto 'super app' as stablecoins reshape growth",
-      "impact": {}
-    },
-    {
-      "event_id": "c2177b0d-264c-463e-a7cf-d61fce21955d",
-      "source": "rss:theblock",
-      "title": "CoinFund’s David Pakman says crypto hasn’t solved tokenomics",
-      "url": "https://www.theblock.co/post/408285/coinfunds-david-pakman-says-crypto-hasnt-solved-tokenomics?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-14T17:32:08+00:00",
-      "raw_text": "CoinFund’s David Pakman says crypto hasn’t solved tokenomics\n\n<p>During an interview on The Starting Block David Pakman suggested projects could pay contributors in stablecoins.</p>\n\n<p>During an interview on The Starting Block David Pakman suggested projects could pay contributors in stablecoins.</",
-      "impact": {}
-    },
-    {
-      "event_id": "104a5a5a-4d1c-4c06-a75a-4f5286b65a06",
-      "source": "rss:coindesk",
-      "title": "The Clarity Act isn't a ticket to sanctions evasion, actually",
-      "url": "https://www.coindesk.com/opinion/2026/07/14/the-clarity-act-isn-t-a-ticket-to-sanctions-evasion-actually",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-14T17:27:48+00:00",
-      "raw_text": "The Clarity Act isn't a ticket to sanctions evasion, actually",
-      "impact": {}
-    },
-    {
-      "event_id": "ce6067fa-e4fa-429b-8b09-f10b3da3eafc",
-      "source": "rss:cointelegraph",
-      "title": "UK government defers capital gains on certain crypto with ‘no gain, no loss’ approach",
-      "url": "https://cointelegraph.com/news/uk-government-capital-gains-lending-liquidity-no-gain-no-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-14T17:22:40+00:00",
-      "raw_text": "UK government defers capital gains on certain crypto with ‘no gain, no loss’ approach\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK government defers capital gains on certain crypto with ‘no gain, no loss’ approach\" class=\"type:primaryImage\" src=\"https://s3-images.ctmed",
-      "impact": {}
-    },
-    {
-      "event_id": "c7c29b4e-0115-46ac-b638-faa7011127b4",
-      "source": "rss:theblock",
-      "title": "Wall Street turns cautious on Circle as analysts warn USDC economics face mounting pressure",
-      "url": "https://www.theblock.co/post/408280/wall-street-cautious-circle-warn-usdc-economics?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-14T17:14:47+00:00",
-      "raw_text": "Wall Street turns cautious on Circle as analysts warn USDC economics face mounting pressure\n\n<p>Mizuho downgraded the stock and JPMorgan lowered earnings estimates, citing concerns that USDC is coming under pressure.</p>\n\n<p>Mizuho downgraded the stock and JPMorgan lowered earnings estimates, citing",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 169,
-        "avg_1h": -0.03,
-        "avg_24h": 1.45,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 183,
-        "avg_1h": 0.07,
-        "avg_24h": -0.37,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 30,
+        "count": 31,
         "avg_1h": 0.02,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
+      "narrative": {
+        "count": 169,
+        "avg_1h": 0.01,
+        "avg_24h": 1.45,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 95,
+        "count": 98,
         "avg_1h": -0.05,
         "avg_24h": 0.71,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 179,
+        "avg_1h": 0.07,
+        "avg_24h": -0.37,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
