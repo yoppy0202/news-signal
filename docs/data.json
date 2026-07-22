@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-07-22T18:19:07.920591+00:00",
+  "generated_at": "2026-07-22T20:18:39.865971+00:00",
   "events": [
+    {
+      "event_id": "c8e24a51-9059-484e-9e7e-68471eeb236e",
+      "source": "rss:decrypt",
+      "title": "Franklin Templeton Says Agentic AI Is Crypto's 'Killer Use Case'",
+      "url": "https://decrypt.co/374055/franklin-templeton-agentic-ai-crypto-killer-use-case",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-22T19:04:05+00:00",
+      "raw_text": "Franklin Templeton Says Agentic AI Is Crypto's 'Killer Use Case'\n\nThe asset manager argues that AI software capable of paying for things autonomously will need blockchain rails to work—and that most investors aren't positioned for it.",
+      "impact": {}
+    },
+    {
+      "event_id": "41ce5933-1d9e-439a-8a2a-9d00e2e49c4d",
+      "source": "rss:decrypt",
+      "title": "Bitcoin Is Bouncing: Here’s the Bull and Bear Case for Its Next Move",
+      "url": "https://decrypt.co/374059/bitcoin-price-bounce-bull-bear-case",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-22T18:48:45+00:00",
+      "raw_text": "Bitcoin Is Bouncing: Here’s the Bull and Bear Case for Its Next Move\n\nThe good news: Bitcoin is holding onto key support, and rising. The bad news: a \"death cross\" is still active, and prediction markets are still overwhelmingly bearish.",
+      "impact": {}
+    },
+    {
+      "event_id": "7e05b361-e740-441e-a8fe-015511b809e0",
+      "source": "rss:cointelegraph",
+      "title": "US officials barred until 2029 from issuing or sponsoring tokens under CLARITY’s proposed ethics rules",
+      "url": "https://cointelegraph.com/news/clarity-act-ethics-public-officials-president-barred-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-22T18:41:30+00:00",
+      "raw_text": "US officials barred until 2029 from issuing or sponsoring tokens under CLARITY’s proposed ethics rules\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US officials barred until 2029 from issuing or sponsoring tokens under CLARITY’s proposed ethics rules\" class=\"type:primaryI",
+      "impact": {}
+    },
+    {
+      "event_id": "d8b5c33d-d7af-48c4-95b0-a907b5d1c44b",
+      "source": "rss:theblock",
+      "title": "Clarity Act’s impact on Circle could be negative over the long term, Mizuho says",
+      "url": "https://www.theblock.co/post/409453/clarity-act-impact-on-circle-could-be-negative-over-long-term-mizuho?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-22T18:02:44+00:00",
+      "raw_text": "Clarity Act’s impact on Circle could be negative over the long term, Mizuho says\n\n<p>On Wednesday, the Clarity Act took one step closer to becoming law as Republicans released the latest text for the legislation.</p>\n\n<p>On Wednesday, the Clarity Act took one step closer to becoming law as Republica",
+      "impact": {}
+    },
+    {
+      "event_id": "f32e9ad9-c72b-40a5-92e0-2360a9783c35",
+      "source": "rss:cointelegraph",
+      "title": "Anthropic joins UK FCA’s AI regulatory sandbox as second cohort launches",
+      "url": "https://cointelegraph.com/news/anthropic-joins-uk-fcas-ai-regulatory-sandbox-as-second-cohort-launches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-22T17:57:11+00:00",
+      "raw_text": "Anthropic joins UK FCA’s AI regulatory sandbox as second cohort launches\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Anthropic joins UK FCA’s AI regulatory sandbox as second cohort launches\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
+      "impact": {}
+    },
     {
       "event_id": "585cc79e-f703-43f9-8b9b-8acfa36eb5da",
       "source": "rss:decrypt",
@@ -122,6 +182,18 @@
       "impact": {}
     },
     {
+      "event_id": "623f1abd-ab9d-4ad8-8185-9a42b670f57f",
+      "source": "rss:coindesk",
+      "title": "New draft of Clarity Act is out, and it would impose limits on Trump's crypto empire",
+      "url": "https://www.coindesk.com/policy/2026/07/22/new-clarity-act-emerges-that-s-a-start-on-the-final-draft-makes-ethics-rule-temporary",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-22T16:15:55+00:00",
+      "raw_text": "New draft of Clarity Act is out, and it would impose limits on Trump's crypto empire",
+      "impact": {}
+    },
+    {
       "event_id": "e7d4347d-2a2f-426f-a007-31a0a48642f0",
       "source": "rss:coindesk",
       "title": "New Clarity Act emerges that's a start on the final draft, makes ethics rule temporary",
@@ -164,10 +236,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-price-avoids-major-iran-jitters-as-sp-500-short-squeeze-on-horizon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-22T15:55:20+00:00",
       "raw_text": "Bitcoin price avoids major Iran jitters as S&P 500 ‘short squeeze’ on horizon\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price avoids major Iran jitters as S&amp;P 500 ‘short squeeze’ on horizon\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1072,
+        "t_plus_15m": 0.0781,
+        "t_plus_1h": 0.1861
+      }
     },
     {
       "event_id": "c678b58b-40a1-4586-b6fd-05237393d5f7",
@@ -430,7 +508,8 @@
       "impact": {
         "t_plus_5m": 0.12,
         "t_plus_15m": 0.0126,
-        "t_plus_1h": 0.101
+        "t_plus_1h": 0.101,
+        "t_plus_4h": 0.9378
       }
     },
     {
@@ -6294,84 +6373,6 @@
       "timestamp_utc": "2026-07-15T14:37:36+00:00",
       "raw_text": "President Trump expected to meet with senators to work on ethics concerns in crypto bill",
       "impact": {}
-    },
-    {
-      "event_id": "2dbde945-32ed-416e-afe4-455728cf592d",
-      "source": "rss:coindesk",
-      "title": "White House expected to meet with senators to work on ethics concerns in crypto bill",
-      "url": "https://www.coindesk.com/policy/2026/07/15/high-level-white-house-meeting-said-to-be-planned-to-hash-out-clarity-act-ethics-section",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-15T14:37:36+00:00",
-      "raw_text": "White House expected to meet with senators to work on ethics concerns in crypto bill",
-      "impact": {}
-    },
-    {
-      "event_id": "3b9278a9-5024-45ba-b21e-52b441eec222",
-      "source": "rss:coindesk",
-      "title": "South Korea to modify 76-year-old law to classify cryptocurrencies as national assets",
-      "url": "https://www.coindesk.com/policy/2026/07/15/south-korea-to-modify-76-year-old-law-to-classify-cryptocurrencies-as-national-assets",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-15T14:35:26+00:00",
-      "raw_text": "South Korea to modify 76-year-old law to classify cryptocurrencies as national assets",
-      "impact": {}
-    },
-    {
-      "event_id": "981bc365-a7ed-4395-9492-1e7eeb71b511",
-      "source": "rss:bitcoinmagazine",
-      "title": "VerifiedX and BitGo Sign MOU to Deliver Qualified Custody for vBTC, Expanding Institutional Access to Native Bitcoin Utility, and with Immediate Support for Non-Synthetic Canonical on Base",
-      "url": "https://bitcoinmagazine.com/press-releases/verifiedx-and-bitgo-sign-mou",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-15T14:30:00+00:00",
-      "raw_text": "VerifiedX and BitGo Sign MOU to Deliver Qualified Custody for vBTC, Expanding Institutional Access to Native Bitcoin Utility, and with Immediate Support for Non-Synthetic Canonical on Base\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinma",
-      "impact": {
-        "t_plus_5m": 0.1636,
-        "t_plus_15m": 0.1082,
-        "t_plus_1h": 0.1305
-      }
-    },
-    {
-      "event_id": "9746e0af-a90d-4b7d-92ed-b8b7aa77edb5",
-      "source": "rss:coindesk",
-      "title": "Open USD poses biggest threat yet to Circle's USDC, CoinShares says",
-      "url": "https://www.coindesk.com/business/2026/07/15/open-usd-poses-biggest-threat-yet-to-circle-s-usdc-coinshares-says",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-15T14:03:54+00:00",
-      "raw_text": "Open USD poses biggest threat yet to Circle's USDC, CoinShares says",
-      "impact": {}
-    },
-    {
-      "event_id": "827655b4-b358-454c-8d2e-304aff449d21",
-      "source": "rss:theblock",
-      "title": "DTCC begins first tokenized stock and Treasury production trades involving JPMorgan, BlackRock and Goldman",
-      "url": "https://www.theblock.co/post/408419/dtcc-begins-first-tokenized-stock-and-treasury-production-trades-involving-jpmorgan-blackrock-and-goldman-wsj?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-15T13:54:22+00:00",
-      "raw_text": "DTCC begins first tokenized stock and Treasury production trades involving JPMorgan, BlackRock and Goldman\n\n<p>JPMorgan will tokenize part of its Invesco QQQ Trust holdings held at DTCC, while Microsoft, Circle, and SPY shares will also be tokenized.</p>\n\n<p>JPMorgan will tokenize part of its Invesc",
-      "impact": {}
-    },
-    {
-      "event_id": "05f9bd6a-f673-4c15-aef0-486b3a436ab4",
-      "source": "rss:theblock",
-      "title": "Core Scientific’s 75% return on AI deal isn’t the template for bitcoin miners, Bernstein says",
-      "url": "https://www.theblock.co/post/408412/core-scientific-return-on-ai-deal-isnt-template-for-bitcoin-miners-bernstein-says?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-15T13:38:56+00:00",
-      "raw_text": "Core Scientific’s 75% return on AI deal isn’t the template for bitcoin miners, Bernstein says\n\n<p>Bernstein pegs TeraWulf at 5% and Cipher at 4% stabilized ROA, calling Core Scientific's 75% figure a capex-advantaged outlier.</p>\n\n<p>Bernstein pegs TeraWulf at 5% and Cipher at 4% stabilized ROA, cal",
-      "impact": {}
     }
   ],
   "stats": {
@@ -6382,16 +6383,16 @@
         "avg_24h": 1.45,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 105,
-        "avg_1h": -0.07,
-        "avg_24h": 0.71,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
         "count": 172,
-        "avg_1h": 0.08,
+        "avg_1h": 0.09,
         "avg_24h": -0.11,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 105,
+        "avg_1h": -0.09,
+        "avg_24h": 0.71,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
