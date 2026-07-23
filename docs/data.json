@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-07-23T17:42:22.410398+00:00",
+  "generated_at": "2026-07-23T19:41:10.688701+00:00",
   "events": [
+    {
+      "event_id": "0696f058-046d-424a-b0d2-1204a93fc6be",
+      "source": "rss:coindesk",
+      "title": "Robinhood CEO Vlad Tenev's X account hacked to promote token amid memecoin frenzy",
+      "url": "https://www.coindesk.com/business/2026/07/23/robinhood-ceo-vlad-tenev-s-x-account-hacked-to-promote-token-amid-memecoin-frenzy",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-23T18:29:31+00:00",
+      "raw_text": "Robinhood CEO Vlad Tenev's X account hacked to promote token amid memecoin frenzy",
+      "impact": {}
+    },
+    {
+      "event_id": "29e3fa05-fb65-4931-9417-5fdb3a4a988a",
+      "source": "rss:coindesk",
+      "title": "Tassat wants to help smaller banks tap the trillion-dollar stablecoin boom before Wall Street lock them out",
+      "url": "https://www.coindesk.com/business/2026/07/23/tassat-wants-to-help-smaller-banks-tap-the-trillion-dollar-stablecoin-boom-before-wall-street-lock-them-out",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-23T18:10:02+00:00",
+      "raw_text": "Tassat wants to help smaller banks tap the trillion-dollar stablecoin boom before Wall Street lock them out",
+      "impact": {}
+    },
+    {
+      "event_id": "280783f5-e50a-4d42-8126-a657bdf11a6c",
+      "source": "rss:cointelegraph",
+      "title": "Robinhood CEO’s X account hacked in apparent memecoin scam",
+      "url": "https://cointelegraph.com/news/robinhood-ceo-x-account-hacked-in-apparent-memecoin-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-23T18:09:26+00:00",
+      "raw_text": "Robinhood CEO’s X account hacked in apparent memecoin scam\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Robinhood CEO’s X account hacked in apparent memecoin scam\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-robinhood-down-several-t",
+      "impact": {}
+    },
+    {
+      "event_id": "a727c29a-a231-4254-8db3-986cdb4637e3",
+      "source": "rss:theblock",
+      "title": "Robinhood CEO’s X account apparently hacked to promote Vladhood memecoin flagged as ‘scam’",
+      "url": "https://www.theblock.co/post/409560/robinhood-ceo-x-account-apparently-hacked-promote-vladhood-memecoin-flagged-scam?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-23T17:55:02+00:00",
+      "raw_text": "Robinhood CEO’s X account apparently hacked to promote Vladhood memecoin flagged as ‘scam’\n\n<p>Robinhood Chain has seen cumulative DEX volume of about $9 billion, primarily driven by higher-risk memecoins, per Entropy Advisors.</p>\n\n<p>Robinhood Chain has seen cumulative DEX volume of about $9 billi",
+      "impact": {}
+    },
+    {
+      "event_id": "17b2820a-0694-4fdf-aad7-63c20a87ab12",
+      "source": "rss:decrypt",
+      "title": "Brazilian Farmers Are Tokenizing Cows to Get Farm Loans—And It's Working",
+      "url": "https://decrypt.co/374148/brazilian-farmers-cows-blockchain-loans",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-23T17:31:17+00:00",
+      "raw_text": "Brazilian Farmers Are Tokenizing Cows to Get Farm Loans—And It's Working\n\nThe first tokenized livestock deal on Brazil's stock exchange offers dairy farmers a lifeline as the sector's credit crisis deepens.",
+      "impact": {}
+    },
     {
       "event_id": "d5131096-8a4a-4d7b-91f5-632a6a321c60",
       "source": "rss:theblock",
@@ -68,10 +128,15 @@
       "url": "https://cointelegraph.com/news/bitcoin-treasury-firm-empery-digital-invests-20m-in-ai-data-center-developer-cardinal-data-power?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-23T16:42:52+00:00",
       "raw_text": "BTC treasury firm Empery Digital invests $20M in AI data center developer Cardinal Data Power\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BTC treasury firm Empery Digital invests $20M in AI data center developer Cardinal Data Power\" class=\"type:primaryImage\" src=\"https:/",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0381,
+        "t_plus_15m": 0.022
+      }
     },
     {
       "event_id": "98672f58-f207-4a36-9127-75536f0507a9",
@@ -256,7 +321,8 @@
       "impact": {
         "t_plus_5m": 0.113,
         "t_plus_15m": 0.0573,
-        "t_plus_1h": 0.2076
+        "t_plus_1h": 0.2076,
+        "t_plus_4h": -0.0859
       }
     },
     {
@@ -6280,92 +6346,32 @@
       "timestamp_utc": "2026-07-16T14:42:00+00:00",
       "raw_text": "Cloudflare x402 Integration Opens Door for Bitcoin in AI Agent Micropayments\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/tn-4.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"htt",
       "impact": {}
-    },
-    {
-      "event_id": "81f7c958-0978-4ac5-a919-c33b79e109f3",
-      "source": "rss:solana_official",
-      "title": "Solana Changelog: July 16, 2026",
-      "url": "https://solana.com/news/solana-changelog-july-16-2026",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-16T14:33:00+00:00",
-      "raw_text": "Solana Changelog: July 16, 2026\n\nAgave, Firedancer, Frankendancer, Solana Program JS SDKs, LiteSVM, Mollusk, and Surfpool shipped new releases.",
-      "impact": {}
-    },
-    {
-      "event_id": "ed428dc4-ad70-4813-b36e-2b206b78ebbc",
-      "source": "rss:coindesk",
-      "title": "Crypto brokerage firm Alpaca raises $135 million for tokenized stock infrastructure",
-      "url": "https://www.coindesk.com/business/2026/07/16/crypto-brokerage-firm-alpaca-raises-usd135-million-for-tokenized-stock-infrastructure",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-16T14:19:32+00:00",
-      "raw_text": "Crypto brokerage firm Alpaca raises $135 million for tokenized stock infrastructure",
-      "impact": {}
-    },
-    {
-      "event_id": "74a90346-237d-452a-8ff1-4f62d5e5fd1f",
-      "source": "rss:bitcoinmagazine",
-      "title": "Senate Unanimously Votes That Sam Bankman-Fried Should Never Get a Pardon",
-      "url": "https://bitcoinmagazine.com/news/senate-unanumously-bankman-fried",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-16T13:48:11+00:00",
-      "raw_text": "Senate Unanimously Votes That Sam Bankman-Fried Should Never Get a Pardon\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Sam-Bankman-Fried-Loses-Appeal-to-Overturn-FTX-Fraud-Conviction.jpg\" style=\"d",
-      "impact": {}
-    },
-    {
-      "event_id": "b80ecc6d-4748-4d6a-b417-4f5cf28401a3",
-      "source": "rss:theblock",
-      "title": "Polygon Labs announces second round of layoffs in 2026 as firm looks to finalize Coinme acquisition",
-      "url": "https://www.theblock.co/post/408625/polygon-labs-second-round-of-layoffs-2026-finalize-coinme-acquisition?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-16T13:47:51+00:00",
-      "raw_text": "Polygon Labs announces second round of layoffs in 2026 as firm looks to finalize Coinme acquisition\n\n<p>\"Two rounds of changes in one year is a lot to ask of a team, and I understand it is hard to manage,\" Polygon Labs CEO Marc Boiron said.</p>\n\n<p>\"Two rounds of changes in one year is a lot to ask ",
-      "impact": {}
-    },
-    {
-      "event_id": "0e4dd200-31d2-45a7-842f-4220ee05fc9a",
-      "source": "rss:cointelegraph",
-      "title": "Alpaca raises $135M to fund tokenized agent-first infrastructure",
-      "url": "https://cointelegraph.com/news/alpaca-raises-135m-to-fund-tokenized-agent-first-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-16T13:34:19+00:00",
-      "raw_text": "Alpaca raises $135M to fund tokenized agent-first infrastructure\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Alpaca raises $135M to fund tokenized agent-first infrastructure\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-experienced-",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 43,
+        "avg_1h": 0.12,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 179,
         "avg_1h": 0.02,
         "avg_24h": -0.11,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 146,
-        "avg_1h": 0.01,
-        "avg_24h": 1.45,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 40,
-        "avg_1h": 0.12,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 106,
+        "count": 105,
         "avg_1h": -0.04,
         "avg_24h": 0.71,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 144,
+        "avg_1h": 0.01,
+        "avg_24h": 1.45,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
