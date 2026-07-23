@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-22T22:13:47.395729+00:00",
+  "generated_at": "2026-07-23T00:11:01.752842+00:00",
   "events": [
+    {
+      "event_id": "33b75281-2df6-4921-929b-29bb089419d1",
+      "source": "rss:coindesk",
+      "title": "Senator Lummis: Ethics, other provisions in crypto Clarity Act to be further discussed",
+      "url": "https://www.coindesk.com/policy/2026/07/22/senator-lummis-ethics-other-provisions-in-crypto-clarity-act-to-be-further-discussed",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-22T23:19:41+00:00",
+      "raw_text": "Senator Lummis: Ethics, other provisions in crypto Clarity Act to be further discussed",
+      "impact": {}
+    },
+    {
+      "event_id": "bc209c23-7b32-48bb-bd2a-f1ff4a034fd0",
+      "source": "rss:coindesk",
+      "title": "Key Democratic lawmakers say crypto Clarity Act 'falls short' on ethics, other issues",
+      "url": "https://www.coindesk.com/policy/2026/07/22/key-democratic-lawmakers-say-crypto-clarity-act-falls-short-on-ethics-other-issues",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-22T22:22:25+00:00",
+      "raw_text": "Key Democratic lawmakers say crypto Clarity Act 'falls short' on ethics, other issues",
+      "impact": {}
+    },
+    {
+      "event_id": "9dc58183-bb07-41d2-b50d-0544ed00ccd9",
+      "source": "rss:theblock",
+      "title": "Bipartisan support ‘critical’ as Democrats push back on GOP crypto bill on ethics grounds",
+      "url": "https://www.theblock.co/post/409470/bipartisan-support-critical-as-democrats-push-back-on-gop-crypto-bill-on-ethics-grounds?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-22T21:57:28+00:00",
+      "raw_text": "Bipartisan support ‘critical’ as Democrats push back on GOP crypto bill on ethics grounds\n\n<p>Latest Clarity Act draft is drawing praise from the crypto industry and criticism from Democrats and bankers, highlighting deep divisions.</p>\n\n<p>Latest Clarity Act draft is drawing praise from the crypto ",
+      "impact": {}
+    },
     {
       "event_id": "4f4f39c5-b723-4573-9101-503e1f93d512",
       "source": "rss:bitcoinmagazine",
@@ -8,10 +44,15 @@
       "url": "https://bitcoinmagazine.com/news/zhibao-technology-to-take-3500-bitcoin",
       "event_type": "listing",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-22T21:15:49+00:00",
       "raw_text": "Nasdaq-listed Zhibao Technology to Take 3,500 Bitcoin in Proposed PIPE Financing\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Network-Activity-Hits-Highest-Level-Since-2024-CryptoQuant-.jp",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2489,
+        "t_plus_15m": -0.2664
+      }
     },
     {
       "event_id": "f8887a5a-b860-42fc-ae85-a88c22d15889",
@@ -6298,82 +6339,32 @@
       "timestamp_utc": "2026-07-15T16:29:39+00:00",
       "raw_text": "Aave launches V4 on Avalanche, laying groundwork for tokenized credit markets\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Aave launches V4 on Avalanche, laying groundwork for tokenized credit markets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti",
       "impact": {}
-    },
-    {
-      "event_id": "56d64eec-9d47-4027-93e1-b7f2ad951874",
-      "source": "rss:decrypt",
-      "title": "Bitcoin Breaks Heavy Resistance—But Death Cross Looms: Analysis",
-      "url": "https://decrypt.co/373545/bitcoin-price-heavy-resistance-death-cross-looms",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-15T16:05:19+00:00",
-      "raw_text": "Bitcoin Breaks Heavy Resistance—But Death Cross Looms: Analysis\n\nBTC cleared a key resistance level Tuesday, giving bulls hope. Prediction market traders aren't convinced.",
-      "impact": {
-        "t_plus_5m": 0.2771,
-        "t_plus_15m": 0.2524,
-        "t_plus_1h": 0.178,
-        "t_plus_4h": -0.0478
-      }
-    },
-    {
-      "event_id": "f71229af-71dc-424e-bc19-920912a92734",
-      "source": "rss:theblock",
-      "title": "Kraken Institutional taps Upshift to build vaults that earn yield on idle bitcoin, ETH and stablecoins",
-      "url": "https://www.theblock.co/post/408448/kraken-institutional-taps-upshift-to-build-vaults-that-earn-yield-on-idle-bitcoin-eth-and-stablecoins?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-07-15T16:05:02+00:00",
-      "raw_text": "Kraken Institutional taps Upshift to build vaults that earn yield on idle bitcoin, ETH and stablecoins\n\n<p>Upshift will build dedicated vaults tailored to each client’s specific investment strategy and risk considerations.</p>\n\n<p>Upshift will build dedicated vaults tailored to each client’s specifi",
-      "impact": {
-        "t_plus_5m": 0.3477,
-        "t_plus_15m": 0.2996,
-        "t_plus_1h": 0.3337,
-        "t_plus_4h": 0.4295
-      }
-    },
-    {
-      "event_id": "2f392b4a-2db8-40af-b81e-371140ae6ea0",
-      "source": "rss:cointelegraph",
-      "title": "Securitize, Cantor target tokenized IPOs for public markets",
-      "url": "https://cointelegraph.com/news/securitize-cantor-target-tokenized-ipos-for-public-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-15T15:59:36+00:00",
-      "raw_text": "Securitize, Cantor target tokenized IPOs for public markets\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Securitize, Cantor target tokenized IPOs for public markets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-ipo-models-that-exist.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 171,
+        "avg_1h": 0.07,
+        "avg_24h": -0.11,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 166,
+        "avg_1h": 0.01,
+        "avg_24h": 1.45,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "listing": {
         "count": 22,
         "avg_1h": 0.18,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 170,
-        "avg_1h": 0.08,
-        "avg_24h": -0.11,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 105,
+        "count": 104,
         "avg_1h": -0.09,
         "avg_24h": 0.71,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 166,
-        "avg_1h": 0.03,
-        "avg_24h": 1.45,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
