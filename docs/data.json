@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-24T21:17:32.904093+00:00",
+  "generated_at": "2026-07-24T23:13:32.859214+00:00",
   "events": [
+    {
+      "event_id": "f2ae317b-ff4d-42a3-a4c6-ee261ced6468",
+      "source": "rss:decrypt",
+      "title": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
+      "url": "https://decrypt.co/374334/stocks-crypto-hyperliquid-ark-invest",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-24T22:03:16+00:00",
+      "raw_text": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything\n\nFor the first time, real-world assets—stocks, commodities, and market indices—outpaced crypto on the world's biggest decentralized derivatives exchange.",
+      "impact": {}
+    },
+    {
+      "event_id": "10cfa01b-a2cb-4c03-8390-f76222fcb601",
+      "source": "rss:cointelegraph",
+      "title": "EU authorities include HTX exchange in Russian sanctions",
+      "url": "https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "listing",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-24T21:53:05+00:00",
+      "raw_text": "EU authorities include HTX exchange in Russian sanctions\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EU authorities include HTX exchange in Russian sanctions\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-do-eus-new-sanctions-me",
+      "impact": {}
+    },
+    {
+      "event_id": "ec357f7a-57bc-483f-8eef-a313d769d016",
+      "source": "rss:cointelegraph",
+      "title": "Strive’s SATA recovers most of June decline, trades within 3% of par",
+      "url": "https://cointelegraph.com/news/strives-sata-recovers-most-of-june-decline-trades-within-3-of-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-24T21:02:22+00:00",
+      "raw_text": "Strive’s SATA recovers most of June decline, trades within 3% of par\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strive’s SATA recovers most of June decline, trades within 3% of par \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the",
+      "impact": {}
+    },
     {
       "event_id": "7c21553f-fc06-438e-88be-7e888398a1fa",
       "source": "rss:bitcoinmagazine",
@@ -8,10 +44,15 @@
       "url": "https://bitcoinmagazine.com/news/fidelity-backs-crypto-clarity-act",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-24T20:36:04+00:00",
       "raw_text": "$7 Trillion Investment Giant Fidelity Backs New Crypto Clarity Act\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Fidelity-Clarity-Act.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0357,
+        "t_plus_15m": -0.0405
+      }
     },
     {
       "event_id": "978db833-4bbf-4ce1-b605-a6a4513ba700",
@@ -172,7 +213,8 @@
       "impact": {
         "t_plus_5m": 0.0592,
         "t_plus_15m": -0.1189,
-        "t_plus_1h": -0.0967
+        "t_plus_1h": -0.0967,
+        "t_plus_4h": 0.1485
       }
     },
     {
@@ -6293,60 +6335,30 @@
       "timestamp_utc": "2026-07-17T16:23:26+00:00",
       "raw_text": "Cardano hands core development to outside teams in decentralization push",
       "impact": {}
-    },
-    {
-      "event_id": "b26b50be-6dd8-4e41-9271-dc234312df7e",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin Mining Giant Foundry Asks Miners To Vote on BIP-110 Soft Fork",
-      "url": "https://bitcoinmagazine.com/news/foundry-asks-bitcoin-miners-vote-bip-110",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-17T15:58:36+00:00",
-      "raw_text": "Bitcoin Mining Giant Foundry Asks Miners To Vote on BIP-110 Soft Fork\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-Mining-Giant-Foundry-Asks-Miners-To-Vote-on-BIP-110-Soft-Fork.jpg\" style=",
-      "impact": {}
-    },
-    {
-      "event_id": "1d701641-0754-4e30-8761-1b35b5659c97",
-      "source": "rss:theblock",
-      "title": "Bitcoin ETFs could mirror gold’s history of ‘spectacular gains’ and ‘painful drawdowns,’ analyst says",
-      "url": "https://www.theblock.co/post/408782/bitcoin-etfs-ibit-mirror-golds-history-spectacular-gains-painful-drawdowns-analyst?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-17T15:40:50+00:00",
-      "raw_text": "Bitcoin ETFs could mirror gold’s history of ‘spectacular gains’ and ‘painful drawdowns,’ analyst says\n\n<p>Bloomberg ETF analyst Eric Balchunas compared IBIT’s short time above $100 billion with GLD’s precipitous rise in 2011.</p>\n\n<p>Bloomberg ETF analyst Eric Balchunas compared IBIT’s short time ab",
-      "impact": {}
-    },
-    {
-      "event_id": "280bd92a-2752-4c87-b9eb-2ed50080a417",
-      "source": "rss:coindesk",
-      "title": "Inside Robinhood’s high-stakes bet to onboard millions of casual users onto decentralized finance",
-      "url": "https://www.coindesk.com/business/2026/07/17/inside-robinhood-s-high-stakes-bet-to-onboard-10-million-casual-investors-onto-decentralized-finance",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-17T15:36:39+00:00",
-      "raw_text": "Inside Robinhood’s high-stakes bet to onboard millions of casual users onto decentralized finance",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 99,
-        "avg_1h": 0.04,
-        "avg_24h": 0.52,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 190,
+        "count": 191,
         "avg_1h": -0.06,
         "avg_24h": -0.41,
         "win_rate_1h_gt5pct": 0.0
       },
+      "listing": {
+        "count": 26,
+        "avg_1h": 0.19,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 98,
+        "avg_1h": 0.04,
+        "avg_24h": 0.52,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 140,
+        "count": 139,
         "avg_1h": -0.01,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
@@ -6354,12 +6366,6 @@
       "hack": {
         "count": 42,
         "avg_1h": 0.12,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "listing": {
-        "count": 25,
-        "avg_1h": 0.19,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
