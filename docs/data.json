@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-07-24T17:47:17.098906+00:00",
+  "generated_at": "2026-07-24T19:42:56.840206+00:00",
   "events": [
+    {
+      "event_id": "39cd7f94-fdb1-4b3b-8ec4-4e626600b3e1",
+      "source": "rss:decrypt",
+      "title": "Clarity Act on the Ropes as Ethics Fight and Shrinking Calendar Threaten Passage",
+      "url": "https://decrypt.co/374300/clarity-act-ethics-fight-shrinking-calendar-threaten-passage",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-24T17:50:26+00:00",
+      "raw_text": "Clarity Act on the Ropes as Ethics Fight and Shrinking Calendar Threaten Passage\n\nSenate Majority Leader John Thune signals the crypto market-structure bill likely won't clear the chamber before the August recess, as Democrats reject the GOP's ethics language and analysts slash the odds of passage.",
+      "impact": {}
+    },
+    {
+      "event_id": "4859cbd8-36cf-4fd0-a824-b99842222979",
+      "source": "rss:decrypt",
+      "title": "Poolin, Once One of Bitcoin's Biggest Mining Pools, Files for Bankruptcy",
+      "url": "https://decrypt.co/374289/poolin-bitcoin-biggest-mining-pools-files-bankruptcy",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-24T17:44:48+00:00",
+      "raw_text": "Poolin, Once One of Bitcoin's Biggest Mining Pools, Files for Bankruptcy\n\nThe Singapore-based pool never recovered from freezing withdrawals in 2022. Now it's auctioning off its last Texas mining sites to pay back 11,700 users still holding IOUs.",
+      "impact": {}
+    },
+    {
+      "event_id": "64a7abd9-84e3-4026-a5f0-3641610aa200",
+      "source": "rss:theblock",
+      "title": "Wise plans to resubmit national trust bank application under GENIUS Act framework",
+      "url": "https://www.theblock.co/post/409631/wise-plans-resubmit-national-trust-bank-application-under-genius-act-framework?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-24T17:37:34+00:00",
+      "raw_text": "Wise plans to resubmit national trust bank application under GENIUS Act framework\n\n<p>The OCC has granted conditional approval to several stablecoin-focused entities since December.</p>\n\n<p>The OCC has granted conditional approval to several stablecoin-focused entities since December.</p>",
+      "impact": {}
+    },
+    {
+      "event_id": "bfad4f1e-8bdd-4f42-80b1-709e6e5c9c45",
+      "source": "rss:bitcoinmagazine",
+      "title": "National Fraternal Order of Police Gives Green Light to Clarity Act in Latest Support for Crypto Bill",
+      "url": "https://bitcoinmagazine.com/news/fraternal-order-police-support-clarity-act",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-24T17:07:18+00:00",
+      "raw_text": "National Fraternal Order of Police Gives Green Light to Clarity Act in Latest Support for Crypto Bill\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Pics-3.jpg\" style=\"display: block; margin: 1em au",
+      "impact": {}
+    },
+    {
+      "event_id": "ff618134-19a4-4cef-8135-59a61da74571",
+      "source": "rss:cointelegraph",
+      "title": "Crypto advocacy groups support CLARITY passage as ethics rules face pushback",
+      "url": "https://cointelegraph.com/news/crypto-advocacy-groups-support-clarity-act-pushback-ethics-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-24T16:55:14+00:00",
+      "raw_text": "Crypto advocacy groups support CLARITY passage as ethics rules face pushback\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto advocacy groups support CLARITY passage as ethics rules face pushback\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl",
+      "impact": {}
+    },
+    {
+      "event_id": "ca3be75e-eea2-454f-9ed3-18db15c098a5",
+      "source": "rss:decrypt",
+      "title": "Nvidia, Meta, and Microsoft Tell Washington: Don't Kill Open-Source AI",
+      "url": "https://decrypt.co/374282/nvidia-meta-microsoft-washington-dont-kill-open-source-ai",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-24T16:34:25+00:00",
+      "raw_text": "Nvidia, Meta, and Microsoft Tell Washington: Don't Kill Open-Source AI\n\nTwenty-five companies signed a letter defending open-weight models days after a Chinese AI helped Hugging Face survive a hack triggered by OpenAI's own systems.",
+      "impact": {}
+    },
     {
       "event_id": "829d34d3-6d09-48e5-b2aa-ed7eb950dc8f",
       "source": "rss:decrypt",
@@ -20,10 +92,16 @@
       "url": "https://bitcoinmagazine.com/culture/sealed-in-foil-bmags-new-focus-on-trading-cards",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-24T16:20:25+00:00",
       "raw_text": "Sealed in Foil: BMAG’s New Focus on Trading Cards\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/BMAGs-New-Focus-on-Trading-Cards.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"htt",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0592,
+        "t_plus_15m": -0.1189,
+        "t_plus_1h": -0.0967
+      }
     },
     {
       "event_id": "de9a1c45-8df9-421a-8b76-8b6a3c9f9e6f",
@@ -727,6 +805,18 @@
       "tokens": [],
       "timestamp_utc": "2026-07-23T22:02:41+00:00",
       "raw_text": "Black Forest Labs Unveils FLUX 3 AI: Ditches Stills for Video—And Robot Hands\n\nFLUX 3 is the German AI lab’s first video model, and the same system is already teaching robots to work an Audi assembly line.",
+      "impact": {}
+    },
+    {
+      "event_id": "1093ea39-cf5e-4213-a48b-daf4c1650f02",
+      "source": "rss:cointelegraph",
+      "title": "Gemini co-founders sent $10M in Bitcoin to Trump PAC after joint motion with CFTC",
+      "url": "https://cointelegraph.com/news/gemini-winklevoss-bitcoin-donald-trump-pac-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-23T21:47:39+00:00",
+      "raw_text": "Gemini co-founders sent $10M in Bitcoin to Trump PAC after joint motion with CFTC\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Gemini co-founders sent $10M in Bitcoin to Trump PAC after joint motion with CFTC\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me",
       "impact": {}
     },
     {
@@ -6238,123 +6328,31 @@
       "timestamp_utc": "2026-07-17T13:46:46+00:00",
       "raw_text": "Japan's SBI Group is building Asia's first cross-border digital asset empire",
       "impact": {}
-    },
-    {
-      "event_id": "36d48063-903a-400f-b77e-badad43b49a4",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin Price Falls Under $63,000 on U.S.-Iran Strikes and Trump’s China Charge, but Onchain Data Points to Buyers",
-      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-falls-under-63000",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-17T13:34:44+00:00",
-      "raw_text": "Bitcoin Price Falls Under $63,000 on U.S.-Iran Strikes and Trump’s China Charge, but Onchain Data Points to Buyers\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-Price-Falls-Under-63000-on-U",
-      "impact": {
-        "t_plus_5m": -1.3713,
-        "t_plus_15m": -1.2382,
-        "t_plus_1h": -0.5412,
-        "t_plus_4h": 0.9685,
-        "t_plus_24h": 0.9056
-      }
-    },
-    {
-      "event_id": "aef0a26b-9cf0-47f6-82bf-0e46956bccfd",
-      "source": "rss:cointelegraph",
-      "title": "SBI acquires Singaporean crypto platform Coinhako after MAS approval",
-      "url": "https://cointelegraph.com/news/sbi-receives-mas-approval-to-acquire-singaporean-coinhako?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-17T13:30:20+00:00",
-      "raw_text": "SBI acquires Singaporean crypto platform Coinhako after MAS approval\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SBI acquires Singaporean crypto platform Coinhako after MAS approval\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-sbi-",
-      "impact": {}
-    },
-    {
-      "event_id": "a72cf174-35b4-48c6-811a-6a5aceac51f9",
-      "source": "rss:cointelegraph",
-      "title": "The British Virgin Islands are a top crypto hub no one ever talks about: Here’s why",
-      "url": "https://cointelegraph.com/magazine/why-is-the-british-virgin-islands-becoming-a-legal-home-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-17T13:30:00+00:00",
-      "raw_text": "The British Virgin Islands are a top crypto hub no one ever talks about: Here’s why\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"The British Virgin Islands are a top crypto hub no one ever talks about: Here’s why\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i",
-      "impact": {}
-    },
-    {
-      "event_id": "1065ea4a-8994-481b-962e-4a90a959c839",
-      "source": "rss:theblock",
-      "title": "SBI Holdings completes majority acquisition of Singapore crypto platform Coinhako following MAS approval",
-      "url": "https://www.theblock.co/post/408761/sbi-holdings-completes-majority-acquisition-of-singapore-crypto-platform-coinhako-following-mas-approval?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-17T13:15:13+00:00",
-      "raw_text": "SBI Holdings completes majority acquisition of Singapore crypto platform Coinhako following MAS approval\n\n<p>SBI Holdings acquired Singapore's Coinhako after MAS approval, folding the licensed exchange into its expanding digital asset network.</p>\n\n<p>SBI Holdings acquired Singapore's Coinhako after",
-      "impact": {}
-    },
-    {
-      "event_id": "fa82d1cd-e29c-467a-b0e5-6888cadb803c",
-      "source": "rss:theblock",
-      "title": "Crypto-style derivatives reach AI compute ahead of planned CME and ICE futures: Bernstein",
-      "url": "https://www.theblock.co/post/408758/crypto-style-derivatives-reach-ai-compute-ahead-of-planned-cme-and-ice-futures-bernstein?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-17T12:48:20+00:00",
-      "raw_text": "Crypto-style derivatives reach AI compute ahead of planned CME and ICE futures: Bernstein\n\n<p>Crypto-style perps and prediction markets hit AI compute ahead of CME and ICE, with regulated GPU futures targeted for late 2026.</p>\n\n<p>Crypto-style perps and prediction markets hit AI compute ahead of CM",
-      "impact": {}
-    },
-    {
-      "event_id": "72d3d9c1-f126-4449-9693-9713a0448c8f",
-      "source": "rss:coindesk",
-      "title": "Bitcoin faces fresh headwinds as China’s Kimi beats Claude, GPT in coding benchmark",
-      "url": "https://www.coindesk.com/markets/2026/07/17/bitcoin-faces-fresh-headwinds-as-china-s-kimi-beats-claude-gpt-in-coding-benchmark",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-17T12:45:11+00:00",
-      "raw_text": "Bitcoin faces fresh headwinds as China’s Kimi beats Claude, GPT in coding benchmark",
-      "impact": {}
-    },
-    {
-      "event_id": "57ba402f-daba-49fd-ace3-9a87c76688c0",
-      "source": "rss:cointelegraph",
-      "title": "Dutch court declares crypto platform Knaken bankrupt over missing funds",
-      "url": "https://cointelegraph.com/news/dutch-court-knaken-crypto-platform-bankruptcy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-17T12:21:55+00:00",
-      "raw_text": "Dutch court declares crypto platform Knaken bankrupt over missing funds\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Dutch court declares crypto platform Knaken bankrupt over missing funds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/m",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 141,
-        "avg_1h": -0.0,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 98,
-        "avg_1h": -0.02,
-        "avg_24h": 0.71,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 190,
+        "count": 191,
         "avg_1h": -0.06,
         "avg_24h": -0.41,
         "win_rate_1h_gt5pct": 0.0
       },
+      "macro": {
+        "count": 99,
+        "avg_1h": 0.04,
+        "avg_24h": 0.52,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
-        "count": 42,
+        "count": 43,
         "avg_1h": 0.12,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 138,
+        "avg_1h": -0.01,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
