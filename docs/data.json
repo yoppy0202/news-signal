@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-07-24T19:42:56.840206+00:00",
+  "generated_at": "2026-07-24T21:17:32.904093+00:00",
   "events": [
+    {
+      "event_id": "7c21553f-fc06-438e-88be-7e888398a1fa",
+      "source": "rss:bitcoinmagazine",
+      "title": "$7 Trillion Investment Giant Fidelity Backs New Crypto Clarity Act",
+      "url": "https://bitcoinmagazine.com/news/fidelity-backs-crypto-clarity-act",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-24T20:36:04+00:00",
+      "raw_text": "$7 Trillion Investment Giant Fidelity Backs New Crypto Clarity Act\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Fidelity-Clarity-Act.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href",
+      "impact": {}
+    },
+    {
+      "event_id": "978db833-4bbf-4ce1-b605-a6a4513ba700",
+      "source": "rss:bitcoinmagazine",
+      "title": "State Department to Debut Freedom Tech Program with Bitcoin Policy Institute, Palantir as Founding Partners",
+      "url": "https://bitcoinmagazine.com/news/state-department-tech-program-with-bitcoin",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-24T20:20:05+00:00",
+      "raw_text": "State Department to Debut Freedom Tech Program with Bitcoin Policy Institute, Palantir as Founding Partners\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Pics-4.jpg\" style=\"display: block; margin: ",
+      "impact": {}
+    },
+    {
+      "event_id": "f9b85c1b-9d0b-4079-bffd-c33636e1d9af",
+      "source": "rss:cointelegraph",
+      "title": "House passes bill on lawmakers using insider information for stock trading",
+      "url": "https://cointelegraph.com/news/house-bill-lawmakers-insider-information-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-24T20:05:50+00:00",
+      "raw_text": "House passes bill on lawmakers using insider information for stock trading\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"House passes bill on lawmakers using insider information for stock trading \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-c",
+      "impact": {}
+    },
+    {
+      "event_id": "46651104-96da-4d1b-9874-6d8154e35ddf",
+      "source": "rss:decrypt",
+      "title": "Samsung Wallet Will Add Stablecoin Support, Including USDC",
+      "url": "https://decrypt.co/374324/samsung-wallet-stablecoin-support-usdc",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-24T19:30:01+00:00",
+      "raw_text": "Samsung Wallet Will Add Stablecoin Support, Including USDC\n\nSamsung showed a wallet mockup holding Circle's USDC at Galaxy Unpacked. But details are scarce.",
+      "impact": {}
+    },
+    {
+      "event_id": "5228b315-d5da-4d7a-b431-1c8202690c5d",
+      "source": "rss:theblock",
+      "title": "Cardano co-founder Hoskinson says Bitcoin could lose top spot if governance fails quantum test",
+      "url": "https://www.theblock.co/post/409627/cardano-co-founder-hoskinson-bitcoin-lose-top-spot-governance-fails-quantum-test?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-24T19:01:53+00:00",
+      "raw_text": "Cardano co-founder Hoskinson says Bitcoin could lose top spot if governance fails quantum test\n\n<p>Cardano’s governance and ability to enact upgrades make it better equipped to respond to existential technical threats, said Hoskinson.</p>\n\n<p>Cardano’s governance and ability to enact upgrades make i",
+      "impact": {}
+    },
+    {
+      "event_id": "a342efbd-c7ac-418f-8af1-061a4b58d5f5",
+      "source": "rss:decrypt",
+      "title": "Claude Opus 5 Outscores Fable 5 on Most Benchmarks—At Half the Price",
+      "url": "https://decrypt.co/374305/claude-opus-5-outscores-fable-5-most-benchmarks-half-price",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-24T18:28:43+00:00",
+      "raw_text": "Claude Opus 5 Outscores Fable 5 on Most Benchmarks—At Half the Price\n\nAnthropic's new everyday model undercuts its own frontier product on cost and beats it almost everywhere that counts.",
+      "impact": {}
+    },
     {
       "event_id": "39cd7f94-fdb1-4b3b-8ec4-4e626600b3e1",
       "source": "rss:decrypt",
@@ -250,7 +322,8 @@
       "impact": {
         "t_plus_5m": -0.1434,
         "t_plus_15m": -0.1501,
-        "t_plus_1h": 0.2922
+        "t_plus_1h": 0.2922,
+        "t_plus_4h": 0.335
       }
     },
     {
@@ -6256,103 +6329,31 @@
       "timestamp_utc": "2026-07-17T15:36:39+00:00",
       "raw_text": "Inside Robinhood’s high-stakes bet to onboard millions of casual users onto decentralized finance",
       "impact": {}
-    },
-    {
-      "event_id": "ffa63302-afed-407f-9222-a944df420990",
-      "source": "rss:coindesk",
-      "title": "Inside Robinhood’s high-stakes bet to onboard 10 million casual users onto decentralized finance",
-      "url": "https://www.coindesk.com/business/2026/07/17/inside-robinhood-s-high-stakes-bet-to-onboard-10-million-casual-investors-onto-decentralized-finance",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-17T15:36:39+00:00",
-      "raw_text": "Inside Robinhood’s high-stakes bet to onboard 10 million casual users onto decentralized finance",
-      "impact": {}
-    },
-    {
-      "event_id": "35865c85-9354-4162-a228-e0871f4ad316",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin price sags under $62.5K as Iran strikes add to US stocks pressure",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-sags-under-625k-as-iran-strikes-add-to-us-stocks-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-17T14:37:39+00:00",
-      "raw_text": "Bitcoin price sags under $62.5K as Iran strikes add to US stocks pressure\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price sags under $62.5K as Iran strikes add to US stocks pressure\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
-      "impact": {}
-    },
-    {
-      "event_id": "cbac4c85-c6a7-4910-904a-1148c250762d",
-      "source": "rss:theblock",
-      "title": "Galaxy Digital puts its name on Texas Tech football stadium in 15-year partnership",
-      "url": "https://www.theblock.co/post/408772/galaxy-digital-puts-name-texas-tech-football-stadium-15-year-partnership?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-17T14:33:42+00:00",
-      "raw_text": "Galaxy Digital puts its name on Texas Tech football stadium in 15-year partnership\n\n<p>The deal's financial terms were not disclosed, but Yahoo Sports reported the agreement is worth more than $70 million.</p>\n\n<p>The deal's financial terms were not disclosed, but Yahoo Sports reported the agreement",
-      "impact": {}
-    },
-    {
-      "event_id": "25e8a087-400b-4f8c-bdaa-763af278babe",
-      "source": "rss:cointelegraph",
-      "title": "HSBC wins Bank of England approval to enter Digital Securities Sandbox",
-      "url": "https://cointelegraph.com/news/hsbc-bank-of-england-approval-digital-securities-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-17T13:54:27+00:00",
-      "raw_text": "HSBC wins Bank of England approval to enter Digital Securities Sandbox\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"HSBC wins Bank of England approval to enter Digital Securities Sandbox\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-",
-      "impact": {}
-    },
-    {
-      "event_id": "934bf0c3-70c6-4ad3-a0e1-ad5ffdfe7fed",
-      "source": "rss:decrypt",
-      "title": "Three Men Jailed for Posing as Police in $5.3M UK Crypto Fraud",
-      "url": "https://decrypt.co/373702/three-men-jailed-for-posing-as-police-in-5-3m-uk-crypto-fraud",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-17T13:46:58+00:00",
-      "raw_text": "Three Men Jailed for Posing as Police in $5.3M UK Crypto Fraud\n\nThe gang built fake police websites to fool victims, then spent the stolen crypto on Rolexes and luxury holidays, the Met said.",
-      "impact": {}
-    },
-    {
-      "event_id": "23c02235-80cd-4518-a39e-ab4c9b741f81",
-      "source": "rss:coindesk",
-      "title": "Japan's SBI Group is building Asia's first cross-border digital asset empire",
-      "url": "https://www.coindesk.com/business/2026/07/17/japan-s-sbi-group-is-building-asia-s-first-cross-border-digital-asset-empire",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-17T13:46:46+00:00",
-      "raw_text": "Japan's SBI Group is building Asia's first cross-border digital asset empire",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 191,
-        "avg_1h": -0.06,
-        "avg_24h": -0.41,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
         "count": 99,
         "avg_1h": 0.04,
         "avg_24h": 0.52,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 43,
-        "avg_1h": 0.12,
-        "avg_24h": null,
+      "unknown": {
+        "count": 190,
+        "avg_1h": -0.06,
+        "avg_24h": -0.41,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 138,
+        "count": 140,
         "avg_1h": -0.01,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 42,
+        "avg_1h": 0.12,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
