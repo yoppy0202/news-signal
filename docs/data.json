@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-24T03:41:00.248722+00:00",
+  "generated_at": "2026-07-24T06:36:28.555239+00:00",
   "events": [
+    {
+      "event_id": "e13eb119-fc85-4c2a-9a85-cbd3ef2429a4",
+      "source": "rss:cointelegraph",
+      "title": "Dem senator calls GOP’s CLARITY ethics proposal a ‘piece of shit’: Politico",
+      "url": "https://cointelegraph.com/news/senator-gallego-says-gop-clarity-counterproposal-not-a-serious-effort?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-24T03:10:24+00:00",
+      "raw_text": "Dem senator calls GOP’s CLARITY ethics proposal a ‘piece of shit’: Politico\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Dem senator calls GOP’s CLARITY ethics proposal a ‘piece of shit’: Politico\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-",
+      "impact": {}
+    },
+    {
+      "event_id": "ac5bc365-b3cc-44bb-952c-7a3afd00c69c",
+      "source": "rss:cointelegraph",
+      "title": "BitMEX delists 65 trading pairs, derivatives in July amid exchange shutdown",
+      "url": "https://cointelegraph.com/news/bitmex-delists-65-crypto-markets-in-july-amid-exchange-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-24T02:50:23+00:00",
+      "raw_text": "BitMEX delists 65 trading pairs, derivatives in July amid exchange shutdown\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitMEX delists 65 trading pairs, derivatives in July amid exchange shutdown\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-",
+      "impact": {}
+    },
+    {
+      "event_id": "50c45086-1c2f-4ea2-b17c-9478e421f926",
+      "source": "rss:cointelegraph",
+      "title": "SEC sets September talks on move toward 24-hour stock trading",
+      "url": "https://cointelegraph.com/news/sec-to-host-roundtable-on-24-hour-trading-in-us-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-24T01:18:16+00:00",
+      "raw_text": "SEC sets September talks on move toward 24-hour stock trading\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC sets September talks on move toward 24-hour stock trading\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-timeframes3.jpg\" /",
+      "impact": {}
+    },
     {
       "event_id": "91d054d7-9bd3-462d-b1a5-c3cd7e494080",
       "source": "rss:decrypt",
@@ -112,7 +148,8 @@
       "impact": {
         "t_plus_5m": -0.075,
         "t_plus_15m": -0.0496,
-        "t_plus_1h": -0.1178
+        "t_plus_1h": -0.1178,
+        "t_plus_4h": -0.3145
       }
     },
     {
@@ -130,7 +167,8 @@
       "impact": {
         "t_plus_5m": -0.1589,
         "t_plus_15m": 0.1529,
-        "t_plus_1h": 0.4554
+        "t_plus_1h": 0.4554,
+        "t_plus_4h": 0.4825
       }
     },
     {
@@ -6310,74 +6348,31 @@
         "t_plus_1h": 0.0276,
         "t_plus_4h": -0.2854
       }
-    },
-    {
-      "event_id": "6870f1da-63d0-479f-a44e-f7df56bfcf63",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin VC Veterans Launch $40 Million Holding Company Targeting Small Business Acquisitions",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-vcs-launch-holding-company",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-16T16:56:07+00:00",
-      "raw_text": "Bitcoin VC Veterans Launch $40 Million Holding Company Targeting Small Business Acquisitions\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-VC-Veterans-Launch-40-Million-Holding-Company-Targ",
-      "impact": {
-        "t_plus_5m": 0.532,
-        "t_plus_15m": 0.2971,
-        "t_plus_1h": -0.0774,
-        "t_plus_4h": -0.0678
-      }
-    },
-    {
-      "event_id": "49b3165e-0a03-4788-936f-3727e8eac09c",
-      "source": "rss:cointelegraph",
-      "title": "Ethics debate shouldn’t derail crypto market structure, says Blockchain Association CEO",
-      "url": "https://cointelegraph.com/news/ethics-crypto-market-structure-concerns-blockchain-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-16T16:47:09+00:00",
-      "raw_text": "Ethics debate shouldn’t derail crypto market structure, says Blockchain Association CEO\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethics debate shouldn’t derail crypto market structure, says Blockchain Association CEO\" class=\"type:primaryImage\" src=\"https://s3-images.c",
-      "impact": {}
-    },
-    {
-      "event_id": "084c024c-58be-4d9d-a21c-e77ad59efcef",
-      "source": "rss:cointelegraph",
-      "title": "Ethics in crypto market structure ‘really not our concern,’ says Blockchain Association CEO",
-      "url": "https://cointelegraph.com/news/ethics-crypto-market-structure-concerns-blockchain-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-16T16:47:09+00:00",
-      "raw_text": "Ethics in crypto market structure ‘really not our concern,’ says Blockchain Association CEO\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethics in crypto market structure ‘really not our concern,’ says Blockchain Association CEO\" class=\"type:primaryImage\" src=\"https://s3-",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 143,
-        "avg_1h": 0.02,
-        "avg_24h": 1.45,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 176,
+        "count": 177,
         "avg_1h": 0.02,
         "avg_24h": -0.11,
         "win_rate_1h_gt5pct": 0.0
       },
+      "narrative": {
+        "count": 142,
+        "avg_1h": 0.02,
+        "avg_24h": 1.45,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 107,
+        "count": 108,
         "avg_1h": -0.04,
         "avg_24h": 0.71,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
-        "count": 26,
-        "avg_1h": 0.16,
+        "count": 25,
+        "avg_1h": 0.17,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
