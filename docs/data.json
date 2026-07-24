@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T23:08:36.335437+00:00",
+  "generated_at": "2026-07-24T00:09:02.955521+00:00",
   "events": [
     {
       "event_id": "91d054d7-9bd3-462d-b1a5-c3cd7e494080",
@@ -104,10 +104,16 @@
       "url": "https://decrypt.co/374178/nasdaq-listed-zhibao-bitcoin-treasury-220-million-stock-sale",
       "event_type": "listing",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-23T20:12:19+00:00",
       "raw_text": "Nasdaq-Listed Zhibao Wants a Bitcoin Treasury, Plans to Sell $220M in Stock for BTC\n\nA Shanghai-based insurance-tech company trading below $1 wants to build a bitcoin treasury by taking BTC directly as payment for new shares.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.075,
+        "t_plus_15m": -0.0496,
+        "t_plus_1h": -0.1178
+      }
     },
     {
       "event_id": "e5fea419-8fc3-44ed-94ff-592f460fb50a",
@@ -6371,7 +6377,7 @@
       },
       "listing": {
         "count": 26,
-        "avg_1h": 0.18,
+        "avg_1h": 0.16,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
