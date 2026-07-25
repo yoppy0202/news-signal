@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-25T06:26:27.295273+00:00",
+  "generated_at": "2026-07-25T09:08:11.939770+00:00",
   "events": [
+    {
+      "event_id": "8f9934fd-0ef1-4878-9f31-41c862e9fb94",
+      "source": "rss:cointelegraph",
+      "title": "Ethereum ETFs close week in red, end 5-day inflow streak",
+      "url": "https://cointelegraph.com/markets/ethereum-etfs-week-red-end-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-25T07:40:35+00:00",
+      "raw_text": "Ethereum ETFs close week in red, end 5-day inflow streak\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum ETFs close week in red, end 5-day inflow streak\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-ethereum-and-etf.jpg\" /></p>",
+      "impact": {}
+    },
     {
       "event_id": "41907f43-806d-4de7-875e-55b63ee5d471",
       "source": "rss:theblock",
@@ -873,7 +885,8 @@
         "t_plus_5m": -0.6101,
         "t_plus_15m": -0.6697,
         "t_plus_1h": -0.4912,
-        "t_plus_4h": -1.0825
+        "t_plus_4h": -1.0825,
+        "t_plus_24h": -2.4215
       }
     },
     {
@@ -6325,38 +6338,26 @@
       "timestamp_utc": "2026-07-17T16:54:37+00:00",
       "raw_text": "OKX Europe lets users convert USDT to MiCA-compliant USDC\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OKX Europe lets users convert USDT to MiCA-compliant USDC\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-decentralized-exchanges-10",
       "impact": {}
-    },
-    {
-      "event_id": "ffbd4b09-defc-4dd9-80ab-5fc7a2a9e1ba",
-      "source": "rss:cointelegraph",
-      "title": "Senator Warren requests 2026 reporting for Trump’s crypto earnings after $1.4B disclosure",
-      "url": "https://cointelegraph.com/news/senator-warren-2026-reporting-donald-trump-crypto-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-17T16:48:22+00:00",
-      "raw_text": "Senator Warren requests 2026 reporting for Trump’s crypto earnings after $1.4B disclosure\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Senator Warren requests 2026 reporting for Trump’s crypto earnings after $1.4B disclosure\" class=\"type:primaryImage\" src=\"https://s3-imag",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 98,
+        "avg_1h": 0.04,
+        "avg_24h": 0.52,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 191,
+        "count": 190,
         "avg_1h": -0.06,
-        "avg_24h": -0.41,
+        "avg_24h": -1.41,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
         "count": 27,
         "avg_1h": 0.19,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 97,
-        "avg_1h": 0.04,
-        "avg_24h": 0.52,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
