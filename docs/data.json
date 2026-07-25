@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-24T23:13:32.859214+00:00",
+  "generated_at": "2026-07-25T03:33:05.260214+00:00",
   "events": [
+    {
+      "event_id": "41907f43-806d-4de7-875e-55b63ee5d471",
+      "source": "rss:theblock",
+      "title": "Bitcoin Policy Institute, Palantir and Anduril join US State Department’s Freedom Tech Excellence Program",
+      "url": "https://www.theblock.co/post/409652/bitcoin-policy-institute-palantir-anduril-us-state-departments-freedom-tech-excellence-program?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-24T22:21:01+00:00",
+      "raw_text": "Bitcoin Policy Institute, Palantir and Anduril join US State Department’s Freedom Tech Excellence Program\n\n<p>The Bitcoin Policy Institute, Palantir and Anduril are partners in the U.S. State Department's Freedom Tech Excellence Program.</p>\n\n<p>The Bitcoin Policy Institute, Palantir and Anduril are",
+      "impact": {}
+    },
+    {
+      "event_id": "d1bb8847-b1cb-4ff4-a728-6543e8eb5556",
+      "source": "rss:bitcoinmagazine",
+      "title": "Morgan Stanley Bitcoin ETF Nearly Notches $400M in Assets",
+      "url": "https://bitcoinmagazine.com/news/morgan-stanley-bitcoin-etf-400-million",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-24T22:16:22+00:00",
+      "raw_text": "Morgan Stanley Bitcoin ETF Nearly Notches $400M in Assets\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Morgan-Stanley-Becomes-Official-First-US-Bank-To-Launch-A-Spot-Bitcoin-ETF.jpg\" style=\"displa",
+      "impact": {}
+    },
     {
       "event_id": "f2ae317b-ff4d-42a3-a4c6-ee261ced6468",
       "source": "rss:decrypt",
@@ -51,7 +75,8 @@
       "raw_text": "$7 Trillion Investment Giant Fidelity Backs New Crypto Clarity Act\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Fidelity-Clarity-Act.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href",
       "impact": {
         "t_plus_5m": -0.0357,
-        "t_plus_15m": -0.0405
+        "t_plus_15m": -0.0405,
+        "t_plus_1h": 0.0034
       }
     },
     {
@@ -6311,30 +6336,6 @@
       "timestamp_utc": "2026-07-17T16:48:22+00:00",
       "raw_text": "Senator Warren requests 2026 reporting for Trump’s crypto earnings after $1.4B disclosure\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Senator Warren requests 2026 reporting for Trump’s crypto earnings after $1.4B disclosure\" class=\"type:primaryImage\" src=\"https://s3-imag",
       "impact": {}
-    },
-    {
-      "event_id": "a2a5d0bb-7efc-41c0-b19b-1ac8f09e154a",
-      "source": "rss:theblock",
-      "title": "Bitcoin slides toward $63,000 as Coinbase premium stays negative for a record 60 days",
-      "url": "https://www.theblock.co/post/408793/bitcoin-slides-63000-coinbase-premium-stays-negative-record-60-days?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-17T16:38:50+00:00",
-      "raw_text": "Bitcoin slides toward $63,000 as Coinbase premium stays negative for a record 60 days\n\n<p>Bitcoin fell near $63,000 as chip stocks sold off, the Coinbase premium stayed negative a record 60 days, and ETF flows remain thin.</p>\n\n<p>Bitcoin fell near $63,000 as chip stocks sold off, the Coinbase premi",
-      "impact": {}
-    },
-    {
-      "event_id": "33a4a96a-263c-40c8-805b-694d8e5621ca",
-      "source": "rss:coindesk",
-      "title": "Cardano hands core development to outside teams in decentralization push",
-      "url": "https://www.coindesk.com/tech/2026/07/17/cardano-hands-core-development-to-outside-teams-in-decentralization-push",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-17T16:23:26+00:00",
-      "raw_text": "Cardano hands core development to outside teams in decentralization push",
-      "impact": {}
     }
   ],
   "stats": {
@@ -6346,13 +6347,13 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
-        "count": 26,
+        "count": 27,
         "avg_1h": 0.19,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 98,
+        "count": 97,
         "avg_1h": 0.04,
         "avg_24h": 0.52,
         "win_rate_1h_gt5pct": 0.0
