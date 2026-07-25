@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-25T09:08:11.939770+00:00",
+  "generated_at": "2026-07-25T10:42:08.525712+00:00",
   "events": [
+    {
+      "event_id": "8f0fcf55-ad5c-46cf-8826-67326d30fae9",
+      "source": "rss:cointelegraph",
+      "title": "Dango’s perp DEX taps out nearly 4 months after launch",
+      "url": "https://cointelegraph.com/news/dangos-perp-dex-taps-nearly-months-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-25T10:01:26+00:00",
+      "raw_text": "Dango’s perp DEX taps out nearly 4 months after launch\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Dango’s perp DEX taps out nearly 4 months after launch\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-defi-perpetual-dex-closure.jpg\" ",
+      "impact": {}
+    },
+    {
+      "event_id": "df863093-94a6-4b67-a613-236f5563731b",
+      "source": "rss:coindesk",
+      "title": "Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size",
+      "url": "https://www.coindesk.com/business/2026/07/25/robinhood-chain-s-real-world-assets-jump-fivefold-as-tokenized-stocks-start-trading-in-bigger-size",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-25T10:00:00+00:00",
+      "raw_text": "Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size",
+      "impact": {}
+    },
     {
       "event_id": "8f9934fd-0ef1-4878-9f31-41c862e9fb94",
       "source": "rss:cointelegraph",
@@ -6314,34 +6338,16 @@
       "timestamp_utc": "2026-07-17T17:23:01+00:00",
       "raw_text": "Stripe and Swift race to control the next generation of global payments infrastructure",
       "impact": {}
-    },
-    {
-      "event_id": "ebbffb9c-e574-42aa-8eaf-02380c4d6111",
-      "source": "rss:decrypt",
-      "title": "Galaxy Puts Its Name on Texas Tech's Stadium in a 15-Year, Crypto-Native Deal",
-      "url": "https://decrypt.co/373710/galaxy-texas-tech-stadium-15-year-crypto-native-deal",
-      "event_type": "listing",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-17T17:09:33+00:00",
-      "raw_text": "Galaxy Puts Its Name on Texas Tech's Stadium in a 15-Year, Crypto-Native Deal\n\nThe Nasdaq-listed digital-asset firm will rebrand the Red Raiders' home as \"Galaxy Stadium.\" The bigger bet is on the cheap power and open land of West Texas.",
-      "impact": {}
-    },
-    {
-      "event_id": "71340c34-aa19-43d6-8557-3e93ecf11642",
-      "source": "rss:cointelegraph",
-      "title": "OKX Europe lets users convert USDT to MiCA-compliant USDC",
-      "url": "https://cointelegraph.com/news/okx-europe-lets-users-convert-usdt-to-mica-compliant-usdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-17T16:54:37+00:00",
-      "raw_text": "OKX Europe lets users convert USDT to MiCA-compliant USDC\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OKX Europe lets users convert USDT to MiCA-compliant USDC\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-decentralized-exchanges-10",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 141,
+        "avg_1h": -0.01,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 98,
         "avg_1h": 0.04,
@@ -6349,20 +6355,14 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 190,
+        "count": 189,
         "avg_1h": -0.06,
         "avg_24h": -1.41,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
-        "count": 27,
+        "count": 26,
         "avg_1h": 0.19,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 139,
-        "avg_1h": -0.01,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
