@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-25T12:07:40.029252+00:00",
+  "generated_at": "2026-07-25T13:58:49.207418+00:00",
   "events": [
+    {
+      "event_id": "0748c363-958e-4536-bd28-2be57bca5705",
+      "source": "rss:cointelegraph",
+      "title": "Fidelity joins push for Senate passage of CLARITY Act",
+      "url": "https://cointelegraph.com/news/fidelity-push-senate-passage-of-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-25T11:30:15+00:00",
+      "raw_text": "Fidelity joins push for Senate passage of CLARITY Act\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fidelity joins push for Senate passage of CLARITY Act\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/regulation-lot-of-papers-clarity-act.",
+      "impact": {}
+    },
     {
       "event_id": "8f0fcf55-ad5c-46cf-8826-67326d30fae9",
       "source": "rss:cointelegraph",
@@ -6326,36 +6338,24 @@
       "timestamp_utc": "2026-07-17T17:36:42+00:00",
       "raw_text": "China’s Kimi K3 Is Out—And Beats Claude Fable and GPT 5.6 Sol on Key Benchmarks\n\nMoonshot AI's 2.8-trillion-parameter model tops Fable 5 on a creative writing benchmark and leads Arena AI's frontend code leaderboard—at Claude Sonnet pricing.",
       "impact": {}
-    },
-    {
-      "event_id": "a2b8d775-a99e-4953-b1c7-2c087d66f2a0",
-      "source": "rss:coindesk",
-      "title": "Stripe and Swift race to control the next generation of global payments infrastructure",
-      "url": "https://www.coindesk.com/business/2026/07/17/stripe-and-swift-race-to-control-the-next-generation-of-global-payments-infrastructure",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-17T17:23:01+00:00",
-      "raw_text": "Stripe and Swift race to control the next generation of global payments infrastructure",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 99,
+        "avg_1h": 0.04,
+        "avg_24h": 0.52,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 141,
         "avg_1h": -0.01,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 98,
-        "avg_1h": 0.04,
-        "avg_24h": 0.52,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 189,
+        "count": 188,
         "avg_1h": -0.06,
         "avg_24h": -1.41,
         "win_rate_1h_gt5pct": 0.0
