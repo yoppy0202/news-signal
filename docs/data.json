@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-25T21:05:52.362595+00:00",
+  "generated_at": "2026-07-25T22:05:59.387818+00:00",
   "events": [
+    {
+      "event_id": "2fb22b82-ffcf-4470-97af-7efccead4157",
+      "source": "rss:theblock",
+      "title": "EU adds HTX to Russia sanctions list, barring transactions starting Aug. 23",
+      "url": "https://www.theblock.co/post/409668/eu-adds-htx-to-russia-sanctions-list-barring-transactions-starting-aug-23?utm_source=rss&utm_medium=rss",
+      "event_type": "listing",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-25T21:23:27+00:00",
+      "raw_text": "EU adds HTX to Russia sanctions list, barring transactions starting Aug. 23\n\n<p>Other crypto platforms listed alongside HTX include EXMO, Rapira, BitPapa, Aifory Pro, WhiteBird, NoOnecrypto and Exnode.</p>\n\n<p>Other crypto platforms listed alongside HTX include EXMO, Rapira, BitPapa, Aifory Pro, Whi",
+      "impact": {}
+    },
+    {
+      "event_id": "683bcf88-d661-4184-964f-1db4ecb11470",
+      "source": "rss:cointelegraph",
+      "title": "Robinhood in talks with Crypto.com over prediction markets: WSJ",
+      "url": "https://cointelegraph.com/news/robinhood-cryptocom-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-25T21:01:44+00:00",
+      "raw_text": "Robinhood in talks with Crypto.com over prediction markets: WSJ\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Robinhood in talks with Crypto.com over prediction markets: WSJ\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-when-predictio",
+      "impact": {}
+    },
     {
       "event_id": "a2383670-304f-491f-8adf-9bd27f0b907e",
       "source": "rss:cointelegraph",
@@ -6293,34 +6317,22 @@
       "timestamp_utc": "2026-07-17T20:03:32+00:00",
       "raw_text": "Galaxy lands 15-year Texas Tech stadium naming rights deal\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Galaxy lands 15-year Texas Tech stadium naming rights deal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-nfl-players-choosing-cry",
       "impact": {}
-    },
-    {
-      "event_id": "9a5835eb-a71b-4893-bba6-f117a5001b67",
-      "source": "rss:theblock",
-      "title": "CryptoQuant says Strategy still needs disciplined bitcoin buying and selling framework",
-      "url": "https://www.theblock.co/post/408825/cryptoquant-strategy-bitcoin-buying-selling-framework-mstr?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-17T20:01:43+00:00",
-      "raw_text": "CryptoQuant says Strategy still needs disciplined bitcoin buying and selling framework\n\n<p>CryptoQuant said Michael Saylor's Strategy still needs still needs clearer rules for when to buy and sell bitcoin.</p>\n\n<p>CryptoQuant said Michael Saylor's Strategy still needs still needs clearer rules for w",
-      "impact": {}
-    },
-    {
-      "event_id": "578d0e44-c775-4991-b0c4-4fb658002e76",
-      "source": "rss:cointelegraph",
-      "title": "Consensys unknowingly outsourced developer work to North Korean",
-      "url": "https://cointelegraph.com/news/consensys-north-korean-hacker-software-developer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-17T19:33:58+00:00",
-      "raw_text": "Consensys unknowingly outsourced developer work to North Korean\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Consensys unknowingly outsourced developer work to North Korean\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-hacker-intervi",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "listing": {
+        "count": 27,
+        "avg_1h": 0.19,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 100,
+        "avg_1h": 0.04,
+        "avg_24h": 0.38,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 192,
         "avg_1h": -0.05,
@@ -6328,27 +6340,15 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 44,
+        "count": 43,
         "avg_1h": 0.12,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 99,
-        "avg_1h": 0.04,
-        "avg_24h": 0.38,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 135,
+        "count": 134,
         "avg_1h": 0.01,
         "avg_24h": 0.13,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "listing": {
-        "count": 26,
-        "avg_1h": 0.19,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
