@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-07-25T13:58:49.207418+00:00",
+  "generated_at": "2026-07-25T15:16:29.510433+00:00",
   "events": [
+    {
+      "event_id": "e4e40cb0-d2d7-468f-b416-d8a6ac01575f",
+      "source": "rss:decrypt",
+      "title": "What Is an AI Kill Switch and Why Do US Lawmakers Want One?",
+      "url": "https://decrypt.co/374332/what-is-ai-kill-switch-openai-hack-hugging-face",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-25T14:01:03+00:00",
+      "raw_text": "What Is an AI Kill Switch and Why Do US Lawmakers Want One?\n\nThe AI Kill Switch Act would let Homeland Security order frontier AI throttled or shut down, with fines up to $20 million a day for defying it.",
+      "impact": {}
+    },
+    {
+      "event_id": "c6d119d0-96eb-43a1-b944-9135f85a250b",
+      "source": "rss:theblock",
+      "title": "Bitcoin ETF weekly trading volume falls to lowest since October 2024 as ether funds lead inflows again",
+      "url": "https://www.theblock.co/post/409660/bitcoin-etf-weekly-trading-volume-falls-to-lowest-since-october-2024-as-ether-funds-lead-inflows-again?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-25T13:59:06+00:00",
+      "raw_text": "Bitcoin ETF weekly trading volume falls to lowest since October 2024 as ether funds lead inflows again\n\n<p>Ether funds have drawn nearly as much capital as bitcoin ETFs over the past three weeks despite holding about one-eighth as much in net assets.</p>\n\n<p>Ether funds have drawn nearly as much cap",
+      "impact": {}
+    },
+    {
+      "event_id": "7c45c23a-e113-40fa-9a9b-a9540d7cc46c",
+      "source": "rss:cointelegraph",
+      "title": "North Korea arrests bank hacking ring tied to crypto laundering: Report",
+      "url": "https://cointelegraph.com/news/north-korea-bank-hacking-ring-crypto-laundering-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-25T13:14:18+00:00",
+      "raw_text": "North Korea arrests bank hacking ring tied to crypto laundering: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"North Korea arrests bank hacking ring tied to crypto laundering: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/h",
+      "impact": {}
+    },
+    {
+      "event_id": "36899136-c1df-43cf-856d-c5d575aa0bbe",
+      "source": "rss:coindesk",
+      "title": "Democratizing weather derivatives through tokenization could be crypto's most important real-world use case",
+      "url": "https://www.coindesk.com/opinion/2026/07/25/democratizing-weather-derivatives-through-tokenization-could-be-crypto-s-most-important-real-world-use-case",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-25T13:00:00+00:00",
+      "raw_text": "Democratizing weather derivatives through tokenization could be crypto's most important real-world use case",
+      "impact": {}
+    },
     {
       "event_id": "0748c363-958e-4536-bd28-2be57bca5705",
       "source": "rss:cointelegraph",
@@ -6282,62 +6330,6 @@
       "timestamp_utc": "2026-07-17T18:00:11+00:00",
       "raw_text": "Polymarket traders cut Clarity Act passage odds to record low as Senate delay drags on",
       "impact": {}
-    },
-    {
-      "event_id": "3f65afc7-21e7-4a78-a00e-04efe796d1aa",
-      "source": "rss:decrypt",
-      "title": "Kimi K3 Just Triggered DeepSeek Flashbacks for the Stock Market",
-      "url": "https://decrypt.co/373736/kimi-k3-triggered-deepseek-flashbacks-stock-market",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-17T17:55:32+00:00",
-      "raw_text": "Kimi K3 Just Triggered DeepSeek Flashbacks for the Stock Market\n\nMoonshot AI's 2.8-trillion-parameter open-weight model sent chip stocks tumbling and gave Wall Street a Friday it would rather forget.",
-      "impact": {}
-    },
-    {
-      "event_id": "9a0e2789-96d2-47e4-a9cf-743f4dd02340",
-      "source": "rss:bitcoinmagazine",
-      "title": "Ocean Mining VP Jason Hughes: BIP-110 on Track to Fail as Miner Signaling Stays Below 1%",
-      "url": "https://bitcoinmagazine.com/bitcoin-mining/ocean-mining-vp-jason-hughes-bip-110-on-track-to-fail-as-miner-signaling-stays-below-1",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-17T17:45:13+00:00",
-      "raw_text": "Ocean Mining VP Jason Hughes: BIP-110 on Track to Fail as Miner Signaling Stays Below 1%\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/tn-5.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n",
-      "impact": {
-        "t_plus_5m": 0.1887,
-        "t_plus_15m": 0.0182,
-        "t_plus_1h": 0.0648,
-        "t_plus_4h": 0.0529,
-        "t_plus_24h": 0.5183
-      }
-    },
-    {
-      "event_id": "ab2752ab-14a2-40fd-9fa8-bc575da067f5",
-      "source": "rss:bitcoinmagazine",
-      "title": "SBI Holdings Takes Majority Stake in Singapore’s Coinhako After MAS Approval",
-      "url": "https://bitcoinmagazine.com/news/sbi-holdings-takes-majority-stake-coinhako",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-17T17:38:02+00:00",
-      "raw_text": "SBI Holdings Takes Majority Stake in Singapore’s Coinhako After MAS Approval\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/SBI-Holdings-Takes-Majority-Stake-in-Singapores-Coinhako-After-MAS-Approva",
-      "impact": {}
-    },
-    {
-      "event_id": "0983f721-3c31-46b7-bba0-ef6e7c3a88b6",
-      "source": "rss:decrypt",
-      "title": "China’s Kimi K3 Is Out—And Beats Claude Fable and GPT 5.6 Sol on Key Benchmarks",
-      "url": "https://decrypt.co/373716/china-kimi-k3-largest-open-source-ai-model-ever-beats-claude-fable-gpt-5-6-sol",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-17T17:36:42+00:00",
-      "raw_text": "China’s Kimi K3 Is Out—And Beats Claude Fable and GPT 5.6 Sol on Key Benchmarks\n\nMoonshot AI's 2.8-trillion-parameter model tops Fable 5 on a creative writing benchmark and leads Arena AI's frontend code leaderboard—at Claude Sonnet pricing.",
-      "impact": {}
     }
   ],
   "stats": {
@@ -6345,30 +6337,30 @@
       "macro": {
         "count": 99,
         "avg_1h": 0.04,
-        "avg_24h": 0.52,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 141,
-        "avg_1h": -0.01,
+      "hack": {
+        "count": 43,
+        "avg_1h": 0.12,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 188,
+        "count": 189,
         "avg_1h": -0.06,
         "avg_24h": -1.41,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 139,
+        "avg_1h": -0.01,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
         "count": 26,
         "avg_1h": 0.19,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 42,
-        "avg_1h": 0.12,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
