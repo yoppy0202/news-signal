@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T13:50:31.392873+00:00",
+  "generated_at": "2026-07-26T15:16:14.657536+00:00",
   "events": [
     {
       "event_id": "4f84d0e5-8296-4696-9c09-8f6a0b7caa84",
@@ -8,10 +8,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-og-dormant-btc-movement-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "whale_move",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-26T13:04:35+00:00",
       "raw_text": "Bitcoin OG selling eases as dormant BTC movement hits 4-year low: Thorn\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin OG selling eases as dormant BTC movement hits 4-year low: Thorn\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/h",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0178,
+        "t_plus_15m": 0.037,
+        "t_plus_1h": 0.1874
+      }
     },
     {
       "event_id": "d4cc4e89-b5b8-46df-9623-e23a020cc8af",
@@ -6323,7 +6329,7 @@
     "by_event_type": {
       "whale_move": {
         "count": 5,
-        "avg_1h": -0.07,
+        "avg_1h": 0.02,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
