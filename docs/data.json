@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-07-26T07:44:54.115783+00:00",
+  "generated_at": "2026-07-26T10:09:39.850005+00:00",
   "events": [
+    {
+      "event_id": "5f06dad4-9ab3-42e2-a937-9fdd0b73552c",
+      "source": "rss:coindesk",
+      "title": "Shiba Inu surges 36% as South Korean traders fuel mystery rally",
+      "url": "https://www.coindesk.com/markets/2026/07/26/shiba-inu-surges-36-as-south-korean-traders-fuel-mystery-rally",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-26T07:29:45+00:00",
+      "raw_text": "Shiba Inu surges 36% as South Korean traders fuel mystery rally",
+      "impact": {}
+    },
+    {
+      "event_id": "f97f881b-6608-4a83-8324-42f4989bde12",
+      "source": "rss:cointelegraph",
+      "title": "BitMart to wind down exchange, end trading by Aug. 26",
+      "url": "https://cointelegraph.com/news/bitmart-wind-down-exchange-end-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-26T07:11:27+00:00",
+      "raw_text": "BitMart to wind down exchange, end trading by Aug. 26\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitMart to wind down exchange, end trading by Aug. 26\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/closed-exchange.jpg\" /></p><p>Crypto ",
+      "impact": {}
+    },
+    {
+      "event_id": "fa703fa8-79fb-41ec-943e-3f0ff63c5422",
+      "source": "rss:coindesk",
+      "title": "Crypto exchange BitMart to shut down after nine years, BMX token crashes 58%",
+      "url": "https://www.coindesk.com/markets/2026/07/26/crypto-exchange-bitmart-to-shut-down-after-nine-years-bmx-token-crashes-58",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-26T06:59:51+00:00",
+      "raw_text": "Crypto exchange BitMart to shut down after nine years, BMX token crashes 58%",
+      "impact": {}
+    },
     {
       "event_id": "eece0328-5dc5-4324-a2f2-f412dea538b5",
       "source": "rss:cointelegraph",
@@ -6281,46 +6317,22 @@
       "timestamp_utc": "2026-07-18T09:58:55+00:00",
       "raw_text": "French gambling regulator orders ISPs to block Polymarket\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"French gambling regulator orders ISPs to block Polymarket\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/news-city-town-billboard-1-po",
       "impact": {}
-    },
-    {
-      "event_id": "d531829d-589a-452c-b146-4abe669f92d9",
-      "source": "rss:cointelegraph",
-      "title": "FTX to distribute $900M to creditors in fifth payment round",
-      "url": "https://cointelegraph.com/news/ftx-distribute-millions-creditors-fifth-payment-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-17T21:40:18+00:00",
-      "raw_text": "FTX to distribute $900M to creditors in fifth payment round\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"FTX to distribute $900M to creditors in fifth payment round\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-ftx-distribution.png\" ",
-      "impact": {}
-    },
-    {
-      "event_id": "dc4c7c5a-cd1c-4f83-b5b1-449f8bf2f279",
-      "source": "rss:theblock",
-      "title": "Bank of America taps new leaders to bridge crypto, AI and traditional finance",
-      "url": "https://www.theblock.co/post/408830/bank-america-taps-new-leaders-bridge-crypto-ai-traditional-finance?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-17T21:08:02+00:00",
-      "raw_text": "Bank of America taps new leaders to bridge crypto, AI and traditional finance\n\n<p>Sonali Theisen was named head of BofA's global digital assets platform, while Kevin Milsom was tapped to serve as head of AI transformation</p>\n\n<p>Sonali Theisen was named head of BofA's global digital assets platform",
-      "impact": {}
-    },
-    {
-      "event_id": "69e08001-fdd0-4f18-8652-fc804ec5438c",
-      "source": "rss:decrypt",
-      "title": "ECB Warns Stablecoins May Drain Bank Deposits—Here's What That Means",
-      "url": "https://decrypt.co/373767/ecb-warns-stablecoins-drain-bank-deposits",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-17T20:17:44+00:00",
-      "raw_text": "ECB Warns Stablecoins May Drain Bank Deposits—Here's What That Means\n\nECB board member Piero Cipollone laid out the three-layer threat banks face from digital payments, and pitched the digital euro as the only structural answer.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 192,
+        "avg_1h": -0.05,
+        "avg_24h": -2.42,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 133,
+        "avg_1h": 0.01,
+        "avg_24h": 0.13,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
         "count": 44,
         "avg_1h": 0.12,
@@ -6337,18 +6349,6 @@
         "count": 100,
         "avg_1h": 0.04,
         "avg_24h": 0.38,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 191,
-        "avg_1h": -0.05,
-        "avg_24h": -2.42,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 134,
-        "avg_1h": 0.01,
-        "avg_24h": 0.13,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
