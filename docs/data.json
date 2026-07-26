@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-26T10:09:39.850005+00:00",
+  "generated_at": "2026-07-26T11:35:50.561579+00:00",
   "events": [
+    {
+      "event_id": "045fcbb2-88ba-41fe-9043-0581048e852f",
+      "source": "rss:cointelegraph",
+      "title": "South Korea’s largest bank to launch payment service on JPMorgan’s Kinexys",
+      "url": "https://cointelegraph.com/news/south-korea-bank-payment-jpmorgans-kinexys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-26T10:21:25+00:00",
+      "raw_text": "South Korea’s largest bank to launch payment service on JPMorgan’s Kinexys\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea’s largest bank to launch payment service on JPMorgan’s Kinexys\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-co",
+      "impact": {}
+    },
+    {
+      "event_id": "d3fb5847-b969-4bf1-806c-024b316f7fab",
+      "source": "rss:coindesk",
+      "title": "Europe's high regulatory bar could spark new crypto industry M&A wave",
+      "url": "https://www.coindesk.com/policy/2026/07/26/europe-s-high-regulatory-bar-could-spark-new-crypto-industry-m-and-a-wave",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-26T10:00:00+00:00",
+      "raw_text": "Europe's high regulatory bar could spark new crypto industry M&A wave",
+      "impact": {}
+    },
     {
       "event_id": "5f06dad4-9ab3-42e2-a937-9fdd0b73552c",
       "source": "rss:coindesk",
@@ -6293,44 +6317,20 @@
       "timestamp_utc": "2026-07-18T14:00:00+00:00",
       "raw_text": "Tokenization has become a strategic priority for 84% of financial firms",
       "impact": {}
-    },
-    {
-      "event_id": "29aeecba-f080-4ddd-84f0-89c1739cd15d",
-      "source": "rss:cointelegraph",
-      "title": "Kaspersky identifies malware framework targeting crypto investors",
-      "url": "https://cointelegraph.com/news/kaspersky-malware-framework-crypto-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-18T11:40:48+00:00",
-      "raw_text": "Kaspersky identifies malware framework targeting crypto investors\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kaspersky identifies malware framework targeting crypto investors\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-bl",
-      "impact": {}
-    },
-    {
-      "event_id": "157606ae-d571-40ac-847f-952ae362294d",
-      "source": "rss:cointelegraph",
-      "title": "French gambling regulator orders ISPs to block Polymarket",
-      "url": "https://cointelegraph.com/news/french-gambling-authority-blocks-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-18T09:58:55+00:00",
-      "raw_text": "French gambling regulator orders ISPs to block Polymarket\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"French gambling regulator orders ISPs to block Polymarket\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/news-city-town-billboard-1-po",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 134,
+        "avg_1h": 0.01,
+        "avg_24h": 0.13,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 192,
         "avg_1h": -0.05,
         "avg_24h": -2.42,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 133,
-        "avg_1h": 0.01,
-        "avg_24h": 0.13,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
@@ -6346,7 +6346,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 100,
+        "count": 99,
         "avg_1h": 0.04,
         "avg_24h": 0.38,
         "win_rate_1h_gt5pct": 0.0
