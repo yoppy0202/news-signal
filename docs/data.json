@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-26T11:35:50.561579+00:00",
+  "generated_at": "2026-07-26T13:50:31.392873+00:00",
   "events": [
+    {
+      "event_id": "4f84d0e5-8296-4696-9c09-8f6a0b7caa84",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin OG selling eases as dormant BTC movement hits 4-year low: Thorn",
+      "url": "https://cointelegraph.com/markets/bitcoin-og-dormant-btc-movement-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "whale_move",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-26T13:04:35+00:00",
+      "raw_text": "Bitcoin OG selling eases as dormant BTC movement hits 4-year low: Thorn\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin OG selling eases as dormant BTC movement hits 4-year low: Thorn\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/h",
+      "impact": {}
+    },
+    {
+      "event_id": "d4cc4e89-b5b8-46df-9623-e23a020cc8af",
+      "source": "rss:coindesk",
+      "title": "U.S. regulator warns prediction markets against cutting corners in event contracts",
+      "url": "https://www.coindesk.com/policy/2026/07/24/u-s-regulator-warns-prediction-markets-against-cutting-corners-in-event-contracts",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-26T13:00:00+00:00",
+      "raw_text": "U.S. regulator warns prediction markets against cutting corners in event contracts",
+      "impact": {}
+    },
     {
       "event_id": "045fcbb2-88ba-41fe-9043-0581048e852f",
       "source": "rss:cointelegraph",
@@ -6293,34 +6317,16 @@
       "timestamp_utc": "2026-07-18T14:15:15+00:00",
       "raw_text": "Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets",
       "impact": {}
-    },
-    {
-      "event_id": "f9ed638f-c181-4fad-bc75-b6fbf7c318f9",
-      "source": "rss:theblock",
-      "title": "UNI burn poised to grow as Uniswap governance votes on v4 fees and Robinhood Chain expansion",
-      "url": "https://www.theblock.co/post/408836/uni-burn-poised-to-grow-as-uniswap-governance-votes-on-v4-fees-and-robinhood-chain-expansion?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-18T14:04:54+00:00",
-      "raw_text": "UNI burn poised to grow as Uniswap governance votes on v4 fees and Robinhood Chain expansion\n\n<p>Both proposals route new fees into the UNI burn system created under December's \"UNIfication\" overhaul, with voting open from July 19 through July 26.</p>\n\n<p>Both proposals route new fees into the UNI b",
-      "impact": {}
-    },
-    {
-      "event_id": "e513fa85-e150-4a3e-822e-e344657c9166",
-      "source": "rss:coindesk",
-      "title": "Tokenization has become a strategic priority for 84% of financial firms",
-      "url": "https://www.coindesk.com/business/2026/07/16/tokenization-has-become-a-strategic-priority-for-84-of-financial-firms",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-18T14:00:00+00:00",
-      "raw_text": "Tokenization has become a strategic priority for 84% of financial firms",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "whale_move": {
+        "count": 5,
+        "avg_1h": -0.07,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 134,
         "avg_1h": 0.01,
@@ -6328,7 +6334,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 192,
+        "count": 191,
         "avg_1h": -0.05,
         "avg_24h": -2.42,
         "win_rate_1h_gt5pct": 0.0
@@ -6349,12 +6355,6 @@
         "count": 99,
         "avg_1h": 0.04,
         "avg_24h": 0.38,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "whale_move": {
-        "count": 4,
-        "avg_1h": -0.07,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       }
     }
