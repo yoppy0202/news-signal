@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-26T00:11:07.860201+00:00",
+  "generated_at": "2026-07-26T04:36:21.284143+00:00",
   "events": [
+    {
+      "event_id": "eece0328-5dc5-4324-a2f2-f412dea538b5",
+      "source": "rss:cointelegraph",
+      "title": "Binance ‘red teams’ its own staff every month to keep hackers out",
+      "url": "https://cointelegraph.com/news/binance-red-teams-own-staff-every-month-to-keep-hackers-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-26T02:00:00+00:00",
+      "raw_text": "Binance ‘red teams’ its own staff every month to keep hackers out\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance ‘red teams’ its own staff every month to keep hackers out\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/phishing.jpg\"",
+      "impact": {}
+    },
     {
       "event_id": "2fb22b82-ffcf-4470-97af-7efccead4157",
       "source": "rss:theblock",
@@ -6305,22 +6317,16 @@
       "timestamp_utc": "2026-07-17T20:17:44+00:00",
       "raw_text": "ECB Warns Stablecoins May Drain Bank Deposits—Here's What That Means\n\nECB board member Piero Cipollone laid out the three-layer threat banks face from digital payments, and pitched the digital euro as the only structural answer.",
       "impact": {}
-    },
-    {
-      "event_id": "6f632f8f-33cb-4ad2-bb81-5bbdd35e7db0",
-      "source": "rss:cointelegraph",
-      "title": "Galaxy lands 15-year Texas Tech stadium naming rights deal",
-      "url": "https://cointelegraph.com/news/galaxy-lands-15-year-texas-tech-stadium-naming-rights-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-17T20:03:32+00:00",
-      "raw_text": "Galaxy lands 15-year Texas Tech stadium naming rights deal\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Galaxy lands 15-year Texas Tech stadium naming rights deal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-nfl-players-choosing-cry",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 44,
+        "avg_1h": 0.12,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "listing": {
         "count": 27,
         "avg_1h": 0.19,
@@ -6334,15 +6340,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 192,
+        "count": 191,
         "avg_1h": -0.05,
         "avg_24h": -2.42,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 43,
-        "avg_1h": 0.12,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
