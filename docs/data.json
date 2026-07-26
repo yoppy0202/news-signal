@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-26T21:08:44.195914+00:00",
+  "generated_at": "2026-07-26T22:10:48.089906+00:00",
   "events": [
+    {
+      "event_id": "1cdd711b-04dc-4388-8c32-c6529b6b339a",
+      "source": "rss:theblock",
+      "title": "Michael Saylor teases ‘another color’ after four straight weeks without a Strategy bitcoin buy",
+      "url": "https://www.theblock.co/post/409675/michael-saylor-teases-another-color-after-four-straight-weeks-without-a-strategy-bitcoin-buy?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-26T20:49:10+00:00",
+      "raw_text": "Michael Saylor teases ‘another color’ after four straight weeks without a Strategy bitcoin buy\n\n<p>Strategy holds 843,775 BTC at an average cost of $75,476, leaving the position roughly $9.3 billion underwater with bitcoin near $64,600.</p>\n\n<p>Strategy holds 843,775 BTC at an average cost of $75,47",
+      "impact": {}
+    },
     {
       "event_id": "a3d7aea9-9a22-4d21-8a8d-125d2de27c40",
       "source": "rss:coindesk",
@@ -6319,24 +6331,18 @@
       "timestamp_utc": "2026-07-18T22:04:40+00:00",
       "raw_text": "US regulators miss GENIUS Act’s one-year deadline for final stablecoin rules\n\n<p>The delay does not postpone the law’s Jan. 18, 2027 effective date, leaving regulators and stablecoin issuers with a compressed implementation window.</p>\n\n<p>The delay does not postpone the law’s Jan. 18, 2027 effectiv",
       "impact": {}
-    },
-    {
-      "event_id": "de2685f9-8dec-4a2b-ab1a-89f565b4613b",
-      "source": "rss:coindesk",
-      "title": "France orders country's internet service providers to block Polymarket",
-      "url": "https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-18T21:52:18+00:00",
-      "raw_text": "France orders country's internet service providers to block Polymarket",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 134,
+        "avg_1h": 0.01,
+        "avg_24h": 0.13,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 191,
+        "count": 190,
         "avg_1h": -0.05,
         "avg_24h": -2.42,
         "win_rate_1h_gt5pct": 0.0
@@ -6345,12 +6351,6 @@
         "count": 99,
         "avg_1h": 0.04,
         "avg_24h": 0.38,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 133,
-        "avg_1h": 0.01,
-        "avg_24h": 0.13,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
