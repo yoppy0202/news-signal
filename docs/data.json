@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-26T19:31:27.378537+00:00",
+  "generated_at": "2026-07-26T21:08:44.195914+00:00",
   "events": [
+    {
+      "event_id": "a3d7aea9-9a22-4d21-8a8d-125d2de27c40",
+      "source": "rss:coindesk",
+      "title": "2 weeks left for Clarity: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/07/26/2-weeks-left-for-clarity-state-of-crypto",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-26T18:30:00+00:00",
+      "raw_text": "2 weeks left for Clarity: State of Crypto",
+      "impact": {}
+    },
     {
       "event_id": "f12028fe-7d62-4b19-8462-13ae34ad4798",
       "source": "rss:cointelegraph",
@@ -6319,36 +6331,24 @@
       "timestamp_utc": "2026-07-18T21:52:18+00:00",
       "raw_text": "France orders country's internet service providers to block Polymarket",
       "impact": {}
-    },
-    {
-      "event_id": "b12995bd-7711-46b0-a535-17a4eca1c93f",
-      "source": "rss:theblock",
-      "title": "Bitcoin Japan, which holds no bitcoin, taps EVO Fund in planned $60 million raise to finally buy some",
-      "url": "https://www.theblock.co/post/408838/bitcoin-japan-which-holds-no-bitcoin-taps-evo-fund-in-planned-60-million-raise-to-finally-buy-some?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-18T18:47:49+00:00",
-      "raw_text": "Bitcoin Japan, which holds no bitcoin, taps EVO Fund in planned $60 million raise to finally buy some\n\n<p>A prior December raise instead funded stakes tied to SpaceX and Figure AI, which the company says are its two AI infrastructure investments to date.</p>\n\n<p>A prior December raise instead funded",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 191,
+        "avg_1h": -0.05,
+        "avg_24h": -2.42,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 99,
         "avg_1h": 0.04,
         "avg_24h": 0.38,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 190,
-        "avg_1h": -0.05,
-        "avg_24h": -2.42,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 134,
+        "count": 133,
         "avg_1h": 0.01,
         "avg_24h": 0.13,
         "win_rate_1h_gt5pct": 0.0
