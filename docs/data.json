@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-07-27T03:59:52.960723+00:00",
+  "generated_at": "2026-07-27T07:45:48.011998+00:00",
   "events": [
+    {
+      "event_id": "16e81ad8-1e1c-4e5f-8b49-b2743b52cfcb",
+      "source": "rss:theblock",
+      "title": "The Funding: Are crypto vaults funds and curators fund managers?",
+      "url": "https://www.theblock.co/post/409690/are-crypto-vaults-funds-curators-fund-managers?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T04:39:17+00:00",
+      "raw_text": "The Funding: Are crypto vaults funds and curators fund managers?\n\n<p>The SEC's Hester Peirce says some of them may be — which could mean registration. Here's what that means, and what comes next.</p>\n\n<p>The SEC's Hester Peirce says some of them may be — which could mean registration. Here's what th",
+      "impact": {}
+    },
+    {
+      "event_id": "52101a2b-a711-4ac0-8a22-5d5fe68d18e5",
+      "source": "rss:cointelegraph",
+      "title": "BitMart withdrawals appear to slow following wind-down announcement",
+      "url": "https://cointelegraph.com/news/bitmart-withdrawals-slow-exchange-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T04:34:44+00:00",
+      "raw_text": "BitMart withdrawals appear to slow following wind-down announcement\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitMart withdrawals appear to slow following wind-down announcement\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bancor",
+      "impact": {}
+    },
+    {
+      "event_id": "7a4e2a9f-344c-4e4c-b208-fa58f3086463",
+      "source": "rss:coindesk",
+      "title": "Bitcoin is back above $65,000 as U.S. and Iran hold fire. Oil drops 5%",
+      "url": "https://www.coindesk.com/markets/2026/07/27/bitcoin-is-back-above-usd65-000-as-u-s-iran-hold-fire-oil-drops-5",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T04:21:26+00:00",
+      "raw_text": "Bitcoin is back above $65,000 as U.S. and Iran hold fire. Oil drops 5%",
+      "impact": {}
+    },
+    {
+      "event_id": "08e8b52b-b853-4606-92f9-d88ee7528e5f",
+      "source": "rss:cointelegraph",
+      "title": "Garden Finance disables app as Blockaid reports $450,000 exploit",
+      "url": "https://cointelegraph.com/news/garden-finance-app-offline-450k-htlc-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T01:58:54+00:00",
+      "raw_text": "Garden Finance disables app as Blockaid reports $450,000 exploit\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Garden Finance disables app as Blockaid reports $450,000 exploit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bithumb-hack",
+      "impact": {}
+    },
     {
       "event_id": "d85c3b86-ff80-4f14-98af-e482d0678602",
       "source": "rss:cointelegraph",
@@ -76,7 +124,8 @@
       "impact": {
         "t_plus_5m": -0.2574,
         "t_plus_15m": -0.2103,
-        "t_plus_1h": 0.0905
+        "t_plus_1h": 0.0905,
+        "t_plus_4h": 0.5443
       }
     },
     {
@@ -6289,68 +6338,20 @@
       "timestamp_utc": "2026-07-19T14:00:00+00:00",
       "raw_text": "AI is destroying the internet. Math is our only hope.",
       "impact": {}
-    },
-    {
-      "event_id": "5528369d-586f-467e-85b5-a80537c5727f",
-      "source": "rss:coindesk",
-      "title": "Kraken says simpler options can unlock crypto's next derivatives market",
-      "url": "https://www.coindesk.com/business/2026/07/19/kraken-says-simpler-options-can-unlock-crypto-s-next-derivatives-market",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-19T13:00:00+00:00",
-      "raw_text": "Kraken says simpler options can unlock crypto's next derivatives market",
-      "impact": {}
-    },
-    {
-      "event_id": "25ea669c-fb6b-480c-adee-6c3278a249af",
-      "source": "rss:coindesk",
-      "title": "Tether's USDT hits 2-year countdown threatening its position on U.S. crypto platforms",
-      "url": "https://www.coindesk.com/news-analysis/2026/07/17/tether-s-usdt-hits-2-year-countdown-threatening-its-position-on-u-s-crypto-platforms",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-19T13:00:00+00:00",
-      "raw_text": "Tether's USDT hits 2-year countdown threatening its position on U.S. crypto platforms",
-      "impact": {}
-    },
-    {
-      "event_id": "fea8d25c-dcca-44a4-913f-b015fa472387",
-      "source": "rss:cointelegraph",
-      "title": "US agencies miss GENIUS Act deadline for final stablecoin rules",
-      "url": "https://cointelegraph.com/news/federal-agencies-miss-genius-act-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-19T12:53:12+00:00",
-      "raw_text": "US agencies miss GENIUS Act deadline for final stablecoin rules\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US agencies miss GENIUS Act deadline for final stablecoin rules\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/crowd-angry-on-ge",
-      "impact": {}
-    },
-    {
-      "event_id": "40926a6e-f774-4dd2-a4b7-3feb06645a5c",
-      "source": "rss:cointelegraph",
-      "title": "Upbit parent Dunamu faces South Korean regulator sanctions process: Report",
-      "url": "https://cointelegraph.com/news/south-korean-regulator-inspection-letter-upbit-36m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-19T10:23:00+00:00",
-      "raw_text": "Upbit parent Dunamu faces South Korean regulator sanctions process: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Upbit parent Dunamu faces South Korean regulator sanctions process: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-co",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 98,
+        "avg_1h": 0.04,
+        "avg_24h": 0.38,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 189,
         "avg_1h": -0.05,
         "avg_24h": -2.42,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 136,
-        "avg_1h": 0.02,
-        "avg_24h": 0.13,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
@@ -6359,10 +6360,10 @@
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 98,
-        "avg_1h": 0.04,
-        "avg_24h": 0.38,
+      "narrative": {
+        "count": 136,
+        "avg_1h": 0.02,
+        "avg_24h": 0.13,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
