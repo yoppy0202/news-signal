@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-07-27T20:40:42.535248+00:00",
+  "generated_at": "2026-07-27T22:15:05.521873+00:00",
   "events": [
+    {
+      "event_id": "7d1e681c-5bb4-4caf-a11a-c0787d882400",
+      "source": "rss:decrypt",
+      "title": "Searchable NYC Property Database Puts Wealthy Residents at Risk, Critics Warn",
+      "url": "https://decrypt.co/374484/searchable-nyc-property-database-could-put-wealthy-residents-at-risk-crypto-execs-warn",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T21:05:05+00:00",
+      "raw_text": "Searchable NYC Property Database Puts Wealthy Residents at Risk, Critics Warn\n\nA searchable database built from New York City's public property assessment records has drawn backlash from critics who say it creates privacy and security risks.",
+      "impact": {}
+    },
+    {
+      "event_id": "cc355b5f-9de6-4063-a8fe-fd120828cebb",
+      "source": "rss:cointelegraph",
+      "title": "Cross River to enable P2P payments, banking services for X Money",
+      "url": "https://cointelegraph.com/news/x-money-cross-river-embedded-banking-p2p-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T21:05:05+00:00",
+      "raw_text": "Cross River to enable P2P payments, banking services for X Money\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cross River to enable P2P payments, banking services for X Money\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-is-th",
+      "impact": {}
+    },
+    {
+      "event_id": "74a55d9b-94ce-48e8-8177-fa91adf85bdf",
+      "source": "rss:decrypt",
+      "title": "Prediction Market Traders Brace for Surprise Fed Rate Hike",
+      "url": "https://decrypt.co/374453/prediction-market-traders-brace-for-surprise-fed-rate-hike",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T20:43:16+00:00",
+      "raw_text": "Prediction Market Traders Brace for Surprise Fed Rate Hike\n\nPrediction market traders have pushed the odds of a July Fed rate hike to 27% on both Polymarket and Myriad, rising double digits in the last 24 hours.",
+      "impact": {}
+    },
+    {
+      "event_id": "bb5e4958-5c2c-44f5-84a5-cbc2a5e7ca45",
+      "source": "rss:bitcoinmagazine",
+      "title": "Coinbase Chief Policy Officer Praises Crypto Clarity Act as “Extraordinarily Bipartisan”",
+      "url": "https://bitcoinmagazine.com/news/coinbase-policy-officer-praises-clarity",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T20:43:13+00:00",
+      "raw_text": "Coinbase Chief Policy Officer Praises Crypto Clarity Act as “Extraordinarily Bipartisan”\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Coinbase-Receives-Conditional-OCC-Approval-to-Form-National-Tr",
+      "impact": {}
+    },
+    {
+      "event_id": "a502378b-d5e8-4ce1-b111-2efc24ff5847",
+      "source": "rss:theblock",
+      "title": "NY Attorney General Letitia James warns Clarity Act would ‘dilute’ states’ ability to go after fraud as pressure mounts",
+      "url": "https://www.theblock.co/post/409831/ny-attorney-general-letitia-james-warns-clarity-act-dilute-states-ability-fraud-pressure-mounts?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T20:31:57+00:00",
+      "raw_text": "NY Attorney General Letitia James warns Clarity Act would ‘dilute’ states’ ability to go after fraud as pressure mounts\n\n<p>NYAG Letitia James urged Congress to tighten a crypto bill, warning that it would weaken states' ability to police the industry.</p>\n\n<p>NYAG Letitia James urged Congress to ti",
+      "impact": {}
+    },
     {
       "event_id": "4f0857f5-9596-47c6-bb69-ff878c7c5dfb",
       "source": "rss:decrypt",
@@ -44,10 +104,16 @@
       "url": "https://cointelegraph.com/news/bitmine-keeps-buying-ether-as-eth-outperforms-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-07-27T19:22:59+00:00",
       "raw_text": "Bitmine keeps buying Ether as ETH outperforms Bitcoin\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitmine keeps buying Ether as ETH outperforms Bitcoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the-7-largest-ethereum-treasury-co",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2308,
+        "t_plus_15m": 0.3224,
+        "t_plus_1h": 0.0127
+      }
     },
     {
       "event_id": "03a12e61-2433-4c92-9c86-b4975a4d7a74",
@@ -80,10 +146,18 @@
       "url": "https://www.theblock.co/post/409799/ethereum-solana-avalanche-get-busier-cheaper-even-as-token-prices-fall-bitwise?utm_source=rss&utm_medium=rss",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "ETH",
+        "SOL",
+        "AVAX"
+      ],
       "timestamp_utc": "2026-07-27T19:00:16+00:00",
       "raw_text": "Ethereum, Solana and Avalanche get busier and cheaper even as token prices fall: Bitwise\n\n<p>Although activity rose, revenues declined and ETH, SOL and AVAX are all down over 50% when compared to a year ago.</p>\n\n<p>Although activity rose, revenues declined and ETH, SOL and AVAX are all down over 50",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.3379,
+        "t_plus_15m": 0.1968,
+        "t_plus_1h": 0.2224
+      }
     },
     {
       "event_id": "0297b2a9-796b-4131-8ef3-779c7f057438",
@@ -172,7 +246,8 @@
       "impact": {
         "t_plus_5m": -0.0003,
         "t_plus_15m": 0.2265,
-        "t_plus_1h": 0.1471
+        "t_plus_1h": 0.1471,
+        "t_plus_4h": 0.0663
       }
     },
     {
@@ -6275,76 +6350,10 @@
       "timestamp_utc": "2026-07-20T18:20:55+00:00",
       "raw_text": "Coinbase Executive Says Clarity Act Has ‘Tremendous Momentum’ in the Senate\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a></p>\n<p><a href=\"https://bitcoinmagazine.com/news/coinbase-executive-clarity-act-support\" rel=\"nofollow\">Coinbase Executive Says Clarity Act Has &#",
       "impact": {}
-    },
-    {
-      "event_id": "7b68e0c9-4c93-416c-976d-6a1b91753a45",
-      "source": "rss:theblock",
-      "title": "AI-assisted hacking is outpacing traditional code reviews, NEAR co-founder says",
-      "url": "https://www.theblock.co/post/408943/ai-assisted-hacking-outpacing-traditional-code-reviews-near-co-founder-says?utm_source=rss&utm_medium=rss",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T18:20:02+00:00",
-      "raw_text": "AI-assisted hacking is outpacing traditional code reviews, NEAR co-founder says\n\n<p>NEAR co-founder Polosukhin called formal verification a necessary shift for securing blockchain code from AI hacking.</p>\n\n<p>NEAR co-founder Polosukhin called formal verification a necessary shift for securing block",
-      "impact": {}
-    },
-    {
-      "event_id": "cc89ce87-be17-4061-932f-9ddcf62cf3b6",
-      "source": "rss:decrypt",
-      "title": "Bitcoin ETFs Are Green Again—Here’s Why Investors Should Zoom Out",
-      "url": "https://decrypt.co/373850/bitcoin-etfs-green-inflows-why-investors-should-zoom-out",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T17:59:51+00:00",
-      "raw_text": "Bitcoin ETFs Are Green Again—Here’s Why Investors Should Zoom Out\n\nTwo consecutive weeks of inflows ended the worst sustained outflow streak in Bitcoin ETF history. Here's why patience may be required from investors.",
-      "impact": {}
-    },
-    {
-      "event_id": "38488880-219c-4cab-8b94-d0c590926142",
-      "source": "rss:bitcoinmagazine",
-      "title": "Russia Moves to Rein In Crypto Fraud With New Legislation",
-      "url": "https://bitcoinmagazine.com/news/russia-to-regulate-crypto-with-legislation",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T17:43:51+00:00",
-      "raw_text": "Russia Moves to Rein In Crypto Fraud With New Legislation\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Russia-to-Rein-in-Crypto-Fraud.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a hre",
-      "impact": {}
-    },
-    {
-      "event_id": "500abd0f-79ea-443f-81ce-0408e37914aa",
-      "source": "rss:cointelegraph",
-      "title": "Hut 8, IREN deals lift AI-focused Bitcoin mining stocks",
-      "url": "https://cointelegraph.com/news/hut-8-iren-deals-lift-ai-focused-bitcoin-mining-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T17:27:31+00:00",
-      "raw_text": "Hut 8, IREN deals lift AI-focused Bitcoin mining stocks\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hut 8, IREN deals lift AI-focused Bitcoin mining stocks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-miners-unaffected-by-h",
-      "impact": {}
-    },
-    {
-      "event_id": "6620151f-aee0-4e74-9a99-e3bbc57e293c",
-      "source": "rss:theblock",
-      "title": "Former NY Governor Cuomo joins OKX board, touts 24/7 tokenized trading",
-      "url": "https://www.theblock.co/post/408938/former-ny-governor-cuomo-joins-okx-board-touts-24-7-tokenized-trading?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T17:25:58+00:00",
-      "raw_text": "Former NY Governor Cuomo joins OKX board, touts 24/7 tokenized trading\n\n<p>Andrew Cuomo said OKX could help bring round-the-clock trading and more international capital into U.S. markets.</p>\n\n<p>Andrew Cuomo said OKX could help bring round-the-clock trading and more international capital into U.S. ",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 136,
-        "avg_1h": 0.03,
-        "avg_24h": 0.13,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
         "count": 103,
         "avg_1h": 0.07,
@@ -6352,9 +6361,15 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 188,
-        "avg_1h": 0.08,
+        "count": 190,
+        "avg_1h": 0.09,
         "avg_24h": -2.42,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 135,
+        "avg_1h": 0.03,
+        "avg_24h": 0.13,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
@@ -6364,7 +6379,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 38,
+        "count": 37,
         "avg_1h": 0.12,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
