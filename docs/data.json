@@ -1,6 +1,335 @@
 {
-  "generated_at": "2026-07-27T15:08:42.587246+00:00",
+  "generated_at": "2026-07-27T17:05:56.389452+00:00",
   "events": [
+    {
+      "event_id": "f92a5897-fd91-4cf6-8119-3684bfffa046",
+      "source": "rss:theblock",
+      "title": "Metaplanet’s brokerage deal ‘badly undersells’ plans for bitcoin-backed ‘Bitbonds,’ Benchmark says",
+      "url": "https://www.theblock.co/post/409752/benchmark-metaplanet-brokerage-deal-badly-undersells-plans-bitcoin-backed-bitbonds?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T15:06:52+00:00",
+      "raw_text": "Metaplanet’s brokerage deal ‘badly undersells’ plans for bitcoin-backed ‘Bitbonds,’ Benchmark says\n\n<p>Metaplanet envisions launching 4% to 6% bitcoin-backed bonds before eventually moving them on-chain with stablecoin settlement.</p>\n\n<p>Metaplanet envisions launching 4% to 6% bitcoin-backed bonds ",
+      "impact": {}
+    },
+    {
+      "event_id": "3e3b7e88-0102-4279-9ec5-396515ac5507",
+      "source": "rss:theblock",
+      "title": "Lido begins consolidating $16 billion worth of staked ETH as Curated Module v2 rolls out",
+      "url": "https://www.theblock.co/post/409780/lido-begins-consolidating-16-billion-worth-of-staked-eth-as-curated-module-v2-rolls-out?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [
+        "ETH"
+      ],
+      "timestamp_utc": "2026-07-27T15:03:20+00:00",
+      "raw_text": "Lido begins consolidating $16 billion worth of staked ETH as Curated Module v2 rolls out\n\n<p>Ethereum staking protocol Lido has begun consolidating more than 8 million ETH onto Ethereum’s larger post-Pectra 0x02 validators.</p>\n\n<p>Ethereum staking protocol Lido has begun consolidating more than 8 m",
+      "impact": {
+        "t_plus_5m": -0.399,
+        "t_plus_15m": -0.2892
+      }
+    },
+    {
+      "event_id": "4ea624e5-bf34-4a6a-9b3b-1300f55d461a",
+      "source": "rss:coindesk",
+      "title": "What are perps, anyway? Everything you need to know about crypto’s hottest trading instrument",
+      "url": "https://www.coindesk.com/business/2026/07/27/what-are-perps-anyway-everything-you-need-to-know-about-crypto-s-hottest-trading-instrument",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T15:00:00+00:00",
+      "raw_text": "What are perps, anyway? Everything you need to know about crypto’s hottest trading instrument",
+      "impact": {}
+    },
+    {
+      "event_id": "1325bb49-f367-4b8b-81d6-0dafd3bf88bc",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin price eyes $66K as US stocks rise on Iran-strike pause",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-eyes-66k-as-us-stocks-rise-on-iran-strike-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T14:51:26+00:00",
+      "raw_text": "Bitcoin price eyes $66K as US stocks rise on Iran-strike pause\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price eyes $66K as US stocks rise on Iran-strike pause\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/gym-up-bitcoin.jpg\"",
+      "impact": {}
+    },
+    {
+      "event_id": "d4e3d0ad-9e16-4a3e-93ad-3fce0d4a17a3",
+      "source": "rss:coindesk",
+      "title": "Fanatics buys regulated exchange in bid to grow prediction markets business",
+      "url": "https://www.coindesk.com/markets/2026/07/27/fanatics-buys-regulated-exchange-in-bid-to-grow-prediction-markets-business",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T14:46:10+00:00",
+      "raw_text": "Fanatics buys regulated exchange in bid to grow prediction markets business",
+      "impact": {}
+    },
+    {
+      "event_id": "994f7006-ac76-4ad9-9b62-cfd49a6fdcf8",
+      "source": "rss:coindesk",
+      "title": "Cantor is advising crypto bank AMINA on path to potential public listing",
+      "url": "https://www.coindesk.com/business/2026/07/27/cantor-is-advising-crypto-bank-amina-on-path-to-potential-public-listing",
+      "event_type": "listing",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T14:36:30+00:00",
+      "raw_text": "Cantor is advising crypto bank AMINA on path to potential public listing",
+      "impact": {}
+    },
+    {
+      "event_id": "957f0873-77fe-4317-9fe3-26ec8ae1f45f",
+      "source": "rss:bitcoinmagazine",
+      "title": "Strategy Skips Bitcoin Again, Buys Back $25M of STRC Stock",
+      "url": "https://bitcoinmagazine.com/news/strategy-skips-bitcoin-buy-again",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-07-27T14:36:24+00:00",
+      "raw_text": "Strategy Skips Bitcoin Again, Buys Back $25M of STRC Stock\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/03/Strategy-MSTR-Breaks-13-Week-Bitcoin-Buying-Streak-Holdings-Hold-at-762099-BTC.jpg\" style=\"d",
+      "impact": {
+        "t_plus_5m": -0.2224,
+        "t_plus_15m": -0.2447,
+        "t_plus_1h": -0.2828
+      }
+    },
+    {
+      "event_id": "26d6612d-870c-4ea4-9aa5-d193d1bd2e83",
+      "source": "rss:theblock",
+      "title": "Bitmine adds nearly 10,000 ETH while repurchasing 6.1 million common shares",
+      "url": "https://www.theblock.co/post/409749/bitmine-adds-nearly-10000-eth-repurchasing-6-1-million-common-shares?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [
+        "ETH"
+      ],
+      "timestamp_utc": "2026-07-27T14:22:36+00:00",
+      "raw_text": "Bitmine adds nearly 10,000 ETH while repurchasing 6.1 million common shares\n\n<p>The company has repurchased 11.6 million shares of common stock as part of its $4 billion share repurchase program.</p>\n\n<p>The company has repurchased 11.6 million shares of common stock as part of its $4 billion share ",
+      "impact": {
+        "t_plus_5m": 0.2031,
+        "t_plus_15m": -0.3649,
+        "t_plus_1h": -0.2724
+      }
+    },
+    {
+      "event_id": "dc6fc7bc-b200-4662-9032-d78fafd8a025",
+      "source": "rss:theblock",
+      "title": "IBM portfolio acquisition makes Circle the largest US blockchain patent holder",
+      "url": "https://www.theblock.co/post/409750/circle-acquires-ibm-blockchain-patent-portfolio-becomes-largest-us-patent-holder?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T14:19:44+00:00",
+      "raw_text": "IBM portfolio acquisition makes Circle the largest US blockchain patent holder\n\n<p>Circle acquired IBM's blockchain patent portfolio of 680+ patent families and nearly 1,000 issued patents.</p>\n\n<p>Circle acquired IBM's blockchain patent portfolio of 680+ patent families and nearly 1,000 issued pate",
+      "impact": {}
+    },
+    {
+      "event_id": "c6ea75be-0c52-4c8b-86bf-4bd177730c34",
+      "source": "rss:coindesk",
+      "title": "Lido begins moving $16.5 billion in staked ether to cut validator count by a third",
+      "url": "https://www.coindesk.com/tech/2026/07/27/lido-begins-moving-usd16-5-billion-in-staked-ether-to-cut-validator-count-by-a-third",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T14:00:00+00:00",
+      "raw_text": "Lido begins moving $16.5 billion in staked ether to cut validator count by a third",
+      "impact": {}
+    },
+    {
+      "event_id": "bbd1644b-ba54-4b2d-83d4-d073c07566dc",
+      "source": "rss:cointelegraph",
+      "title": "Hong Kong crypto giant HashKey merges regional exchange into one",
+      "url": "https://cointelegraph.com/news/hong-kong-crypto-giant-hashkey-merges-its-exchanges-into-one?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T13:41:44+00:00",
+      "raw_text": "Hong Kong crypto giant HashKey merges regional exchange into one\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hong Kong crypto giant HashKey merges regional exchange into one\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-stablecoin-h",
+      "impact": {}
+    },
+    {
+      "event_id": "931a2adc-dc91-4353-aeb4-fa43560c2e99",
+      "source": "rss:theblock",
+      "title": "Benchmark reiterates $570 Strategy target, says cash reserve strengthens bitcoin acquisition plan",
+      "url": "https://www.theblock.co/post/409743/benchmark-reiterates-570-strategy-target-says-cash-reserve-strengthens-bitcoin-acquisition-plan?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-07-27T13:37:59+00:00",
+      "raw_text": "Benchmark reiterates $570 Strategy target, says cash reserve strengthens bitcoin acquisition plan\n\n<p>Benchmark reiterated its $570 Strategy target, citing disciplined capital allocation, growing cash reserves and continued long-term BTC plan.</p>\n\n<p>Benchmark reiterated its $570 Strategy target, c",
+      "impact": {
+        "t_plus_5m": 1.3862,
+        "t_plus_15m": 1.0356,
+        "t_plus_1h": -0.1647
+      }
+    },
+    {
+      "event_id": "0dcab489-e292-4dc2-91f5-c4503bfb86f2",
+      "source": "rss:coindesk",
+      "title": "Thailand's SEC alleges Bitkub concealed cyberattack that led to $50 million hack",
+      "url": "https://www.coindesk.com/policy/2026/07/27/thailand-s-sec-alleges-bitkub-concealed-cyberattack-that-led-to-usd50-million-hack",
+      "event_type": "hack",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T13:32:16+00:00",
+      "raw_text": "Thailand's SEC alleges Bitkub concealed cyberattack that led to $50 million hack",
+      "impact": {}
+    },
+    {
+      "event_id": "202dd3d8-8241-49f2-bfa1-f53c85d62507",
+      "source": "rss:cointelegraph",
+      "title": "Rate path still divides investors: Five things to know in Bitcoin this week",
+      "url": "https://cointelegraph.com/markets/rate-path-still-divides-investors-five-things-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T13:31:07+00:00",
+      "raw_text": "Rate path still divides investors: Five things to know in Bitcoin this week\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Rate path still divides investors: Five things to know in Bitcoin this week\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-",
+      "impact": {}
+    },
+    {
+      "event_id": "54e838d9-6e75-4fe7-b917-f723e7d58469",
+      "source": "rss:coindesk",
+      "title": "Nvidia forms 37-member AI security alliance without OpenAI, Anthropic or Google",
+      "url": "https://www.coindesk.com/tech/2026/07/27/nvidia-forms-37-member-ai-security-alliance-without-openai-anthropic-or-google",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T13:25:58+00:00",
+      "raw_text": "Nvidia forms 37-member AI security alliance without OpenAI, Anthropic or Google",
+      "impact": {}
+    },
+    {
+      "event_id": "a1488fab-0a54-4d54-9385-efae0c0d921e",
+      "source": "rss:cointelegraph",
+      "title": "Binance disappears from Google Play in certain EU countries",
+      "url": "https://cointelegraph.com/news/binance-disappears-android-google-play-certain-eu-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T13:24:17+00:00",
+      "raw_text": "Binance disappears from Google Play in certain EU countries\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance disappears from Google Play in certain EU countries\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-digitized-europe-the-s",
+      "impact": {}
+    },
+    {
+      "event_id": "b0e3e920-715f-4d4c-88eb-689554e631b3",
+      "source": "rss:cointelegraph",
+      "title": "USDC issuer Circle to acquire nearly 1,000 IBM blockchain patents",
+      "url": "https://cointelegraph.com/news/circle-to-acquire-nearly-1000-ibm-blockchain-patents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T13:08:55+00:00",
+      "raw_text": "USDC issuer Circle to acquire nearly 1,000 IBM blockchain patents\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"USDC issuer Circle to acquire nearly 1,000 IBM blockchain patents\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-usdt-vs-us",
+      "impact": {}
+    },
+    {
+      "event_id": "5fcca02a-3313-4383-8b1f-5277b4159664",
+      "source": "rss:decrypt",
+      "title": "Strategy Adds $525M to Cash Reserve, Skips Bitcoin Buy for Fifth Week",
+      "url": "https://decrypt.co/374369/strategy-adds-525m-to-cash-reserve-skips-bitcoin-buy-for-fifth-week",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T13:00:29+00:00",
+      "raw_text": "Strategy Adds $525M to Cash Reserve, Skips Bitcoin Buy for Fifth Week\n\nThe Bitcoin treasury firm also tapped its $1 billion preferred buyback for the first time, spending $25 million on STRC.",
+      "impact": {}
+    },
+    {
+      "event_id": "9846f3cb-511d-481a-8c19-2d874b0d03ac",
+      "source": "rss:coindesk",
+      "title": "Crypto is rewriting how Wall Street traders spend their weekends",
+      "url": "https://www.coindesk.com/markets/2026/07/27/crypto-is-rewriting-how-wall-street-traders-spend-their-weekends",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T13:00:00+00:00",
+      "raw_text": "Crypto is rewriting how Wall Street traders spend their weekends",
+      "impact": {}
+    },
+    {
+      "event_id": "279c243d-6c35-4575-b56f-5d6fea03e0f0",
+      "source": "rss:coindesk",
+      "title": "Securitize builds Wall Street credentials with SEC adviser license as tokenization expands",
+      "url": "https://www.coindesk.com/business/2026/07/27/securitize-builds-wall-street-credentials-with-sec-adviser-license-as-tokenization-expands",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T13:00:00+00:00",
+      "raw_text": "Securitize builds Wall Street credentials with SEC adviser license as tokenization expands",
+      "impact": {}
+    },
+    {
+      "event_id": "ca7213fd-9eb1-4226-95ec-28bfdb7ef10e",
+      "source": "rss:coindesk",
+      "title": "Bitmine buys more ether as Tom Lee says rising ETH/BTC ratio points to stronger crypto prices",
+      "url": "https://www.coindesk.com/business/2026/07/27/bitmine-buys-more-ether-as-tom-lee-says-rising-eth-btc-ratio-points-to-stronger-crypto-prices",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [
+        "ETH"
+      ],
+      "timestamp_utc": "2026-07-27T12:55:57+00:00",
+      "raw_text": "Bitmine buys more ether as Tom Lee says rising ETH/BTC ratio points to stronger crypto prices",
+      "impact": {
+        "t_plus_5m": 1.117,
+        "t_plus_15m": 1.0998,
+        "t_plus_1h": 1.529
+      }
+    },
+    {
+      "event_id": "29074f42-4f2e-4e9f-bedd-a1c5a8e3ed8d",
+      "source": "rss:coindesk",
+      "title": "Circle buys nearly 1,000 blockchain patents from IBM",
+      "url": "https://www.coindesk.com/business/2026/07/27/circle-buys-nearly-1-000-blockchain-patents-from-ibm",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T12:47:04+00:00",
+      "raw_text": "Circle buys nearly 1,000 blockchain patents from IBM",
+      "impact": {}
+    },
+    {
+      "event_id": "6dc002c3-8c65-4d93-b760-7b2c806397ef",
+      "source": "rss:cointelegraph",
+      "title": "Strategy sells MSTR shares, buys back $25M in STRC preferred stock",
+      "url": "https://cointelegraph.com/news/strategy-sells-mstr-buys-back-25-milllion-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T12:34:36+00:00",
+      "raw_text": "Strategy sells MSTR shares, buys back $25M in STRC preferred stock\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy sells MSTR shares, buys back $25M in STRC preferred stock\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/michael-say",
+      "impact": {}
+    },
+    {
+      "event_id": "0a00ce60-5d39-4904-ab04-51eab6b5f91f",
+      "source": "rss:decrypt",
+      "title": "Crypto Firms Pivoting to AI Is 'Zero-Sum' Thinking: Coinbase CEO",
+      "url": "https://decrypt.co/374366/crypto-firms-pivoting-to-ai-is-zero-sum-thinking-coinbase-ceo",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T12:27:47+00:00",
+      "raw_text": "Crypto Firms Pivoting to AI Is 'Zero-Sum' Thinking: Coinbase CEO\n\nBrian Armstrong says crypto is infrastructure that underpins AI, and that AI agents will need it to transact on their own.",
+      "impact": {}
+    },
+    {
+      "event_id": "201c76f1-d97c-45d0-b577-01280cd3f8e8",
+      "source": "rss:theblock",
+      "title": "Strategy extends bitcoin pause to five weeks, sells $544.5 million in MSTR as USD reserve hits $3.75 billion",
+      "url": "https://www.theblock.co/post/409721/strategy-extends-bitcoin-pause-to-five-weeks-sells-544-5-million-in-mstr-as-usd-reserve-hits-3-75-billion?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T12:23:19+00:00",
+      "raw_text": "Strategy extends bitcoin pause to five weeks, sells $544.5 million in MSTR as USD reserve hits $3.75 billion\n\n<p>Strategy bought no bitcoin for a fifth straight week, while raising its USD reserve to $3.75 billion and selling $544.5M in MSTR.</p>\n\n<p>Strategy bought no bitcoin for a fifth straight w",
+      "impact": {}
+    },
     {
       "event_id": "994f93f0-e175-44c8-ad74-b4691cf18169",
       "source": "rss:theblock",
@@ -221,6 +550,18 @@
       "tokens": [],
       "timestamp_utc": "2026-07-27T09:01:05+00:00",
       "raw_text": "Coinbase CEO touts agentic finance as Base tops 100M AI payments\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase CEO touts agentic finance as Base tops 100M AI payments\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/portraitbrian-a",
+      "impact": {}
+    },
+    {
+      "event_id": "8cbf7d9c-943a-4abe-8a99-be796faddf18",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin gives up early gains as stocks reverse lower",
+      "url": "https://www.coindesk.com/markets/2026/07/27/live-updates-ether-leads-crypto-higher-as-bitcoin-trades-around-usd65-500",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T06:43:34+00:00",
+      "raw_text": "Live updates: Bitcoin gives up early gains as stocks reverse lower",
       "impact": {}
     },
     {
@@ -6017,370 +6358,43 @@
       "timestamp_utc": "2026-07-20T12:20:23+00:00",
       "raw_text": "Hyperliquid sets 500,000 HYPE stake for permissionless prediction market deployers\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hyperliquid sets 500,000 HYPE stake for permissionless prediction market deployers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/",
       "impact": {}
-    },
-    {
-      "event_id": "94c7508d-cf7d-47e9-88a6-43be0440bdfa",
-      "source": "rss:theblock",
-      "title": "Strategy sells $263.5 million in MSTR shares, buys no bitcoin as USD reserve tops $3.2 billion",
-      "url": "https://www.theblock.co/post/408892/strategy-sells-263-5-million-in-mstr-shares-buys-no-bitcoin-as-usd-reserve-tops-3-2-billion?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T12:09:00+00:00",
-      "raw_text": "Strategy sells $263.5 million in MSTR shares, buys no bitcoin as USD reserve tops $3.2 billion\n\n<p>Strategy's total holdings account for around 4% of the 21 million bitcoin supply cap — worth roughly $54.7 billion.</p>\n\n<p>Strategy's total holdings account for around 4% of the 21 million bitcoin sup",
-      "impact": {}
-    },
-    {
-      "event_id": "a3546b00-9c20-41b6-8706-47539e24a0f5",
-      "source": "rss:cointelegraph",
-      "title": "Vietnam sets fines for unlicensed crypto trading ahead of regulation rollout",
-      "url": "https://cointelegraph.com/news/vietnam-crypto-traders-unlicensed-platforms-fines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T12:04:06+00:00",
-      "raw_text": "Vietnam sets fines for unlicensed crypto trading ahead of regulation rollout\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Vietnam sets fines for unlicensed crypto trading ahead of regulation rollout\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl",
-      "impact": {}
-    },
-    {
-      "event_id": "43553166-992e-4db0-bf54-6410d9dbe870",
-      "source": "rss:cointelegraph",
-      "title": "Zilliqa asks exchanges to pause ZIL transfers after suspected cold wallet theft",
-      "url": "https://cointelegraph.com/news/zilliqa-zil-deposit-halt-exchange-partner-wallet-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T12:03:35+00:00",
-      "raw_text": "Zilliqa asks exchanges to pause ZIL transfers after suspected cold wallet theft\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zilliqa asks exchanges to pause ZIL transfers after suspected cold wallet theft\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/",
-      "impact": {}
-    },
-    {
-      "event_id": "dd2b0f40-c741-4984-afad-52bdb6975a53",
-      "source": "rss:coindesk",
-      "title": "Brazil’s securities regulator sets up task force with 60-day deadline for tokenization proposal",
-      "url": "https://www.coindesk.com/policy/2026/07/20/brazil-s-securities-regulator-sets-up-task-force-with-60-day-deadline-for-tokenization-proposal",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T12:02:28+00:00",
-      "raw_text": "Brazil’s securities regulator sets up task force with 60-day deadline for tokenization proposal",
-      "impact": {}
-    },
-    {
-      "event_id": "48ba8bb3-ed86-49f4-9bdd-ac51958e372e",
-      "source": "rss:decrypt",
-      "title": "Morning Minute: Hyperliquid Opens Prediction Markets to Anyone in HIP-4 Upgrade",
-      "url": "https://decrypt.co/373828/morning-minute-hyperliquid-opens-prediction-markets-to-anyone-in-hip-4-upgrade",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T12:00:02+00:00",
-      "raw_text": "Morning Minute: Hyperliquid Opens Prediction Markets to Anyone in HIP-4 Upgrade\n\nPlus, a selloff in Oil has markets looking green into the Monday open. And PUMP is leading all alt movers on the week at a surprising time.",
-      "impact": {}
-    },
-    {
-      "event_id": "e20ac9d4-33e4-4d83-bf8f-01503456da23",
-      "source": "rss:theblock",
-      "title": "Ethereum co-founder Vitalik Buterin ‘vibe-codes’ anonymous billboard demo with onchain moderation on Aztec",
-      "url": "https://www.theblock.co/post/408888/ethereum-co-founder-vitalik-buterin-vibe-codes-anonymous-billboard-demo-with-onchain-moderation-on-aztec?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T11:24:22+00:00",
-      "raw_text": "Ethereum co-founder Vitalik Buterin ‘vibe-codes’ anonymous billboard demo with onchain moderation on Aztec\n\n<p>Vitalik Buterin \"vibe-coded\" an anonymous billboard demo on Aztec with onchain moderation, a censor role, and a local LLM flagging daemon.\n</p>\n\n<p>Vitalik Buterin \"vibe-coded\" an anonymous",
-      "impact": {}
-    },
-    {
-      "event_id": "6b9907eb-dd0c-483b-adea-2bd41e250505",
-      "source": "rss:coindesk",
-      "title": "A bitcoin 'volmageddon' may be brewing, key indicator suggests",
-      "url": "https://www.coindesk.com/daybook-us/2026/07/20/a-bitcoin-volmageddon-may-be-brewing-key-indicator-suggests",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T11:15:57+00:00",
-      "raw_text": "A bitcoin 'volmageddon' may be brewing, key indicator suggests",
-      "impact": {}
-    },
-    {
-      "event_id": "7db0233d-1ac6-4c59-9d59-b2dc8db8ec4c",
-      "source": "rss:decrypt",
-      "title": "Strategy's Michael Saylor Makes 110-Point Case Against Bitcoin's BIP-110",
-      "url": "https://decrypt.co/373819/strategys-michael-saylor-makes-110-point-case-against-bitcoins-bip-110",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T11:12:57+00:00",
-      "raw_text": "Strategy's Michael Saylor Makes 110-Point Case Against Bitcoin's BIP-110\n\nThe Strategy chairman argued that the soft fork is a 'bad idea,' warning that it would cause more harm than the problem it aims to solve.",
-      "impact": {}
-    },
-    {
-      "event_id": "ba9c8444-d920-4652-8a46-628b7578f074",
-      "source": "rss:coindesk",
-      "title": "Bank of Korea prepares for live CBDC transactions with 9 banks in September",
-      "url": "https://www.coindesk.com/business/2026/07/20/bank-of-korea-prepares-for-live-cbdc-transactions-with-nine-banks-in-september",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T11:10:07+00:00",
-      "raw_text": "Bank of Korea prepares for live CBDC transactions with 9 banks in September",
-      "impact": {}
-    },
-    {
-      "event_id": "d45bd846-860c-491d-87ce-3a9c11d8a72b",
-      "source": "rss:cointelegraph",
-      "title": "Crypto institutions look beyond audits as trust signals falter: Hacken",
-      "url": "https://cointelegraph.com/news/institutions-crypto-security-beyond-audits-hacken-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T11:00:00+00:00",
-      "raw_text": "Crypto institutions look beyond audits as trust signals falter: Hacken\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto institutions look beyond audits as trust signals falter: Hacken\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-",
-      "impact": {}
-    },
-    {
-      "event_id": "dd43608b-a5b9-453e-a99f-465f28e90fc3",
-      "source": "rss:cointelegraph",
-      "title": "Capital B approves 10-for-1 reverse stock split to broaden investor base",
-      "url": "https://cointelegraph.com/news/capital-b-reverse-stock-split-investor-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T10:54:00+00:00",
-      "raw_text": "Capital B approves 10-for-1 reverse stock split to broaden investor base\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Capital B approves 10-for-1 reverse stock split to broaden investor base\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
-      "impact": {}
-    },
-    {
-      "event_id": "9b391ed6-f28e-4835-8639-1ee67afa4b24",
-      "source": "rss:cointelegraph",
-      "title": "Russia’s parliament to hold final readings on crypto bill Tuesday",
-      "url": "https://cointelegraph.com/news/russia-crypto-bill-final-readings-july-21?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T10:37:23+00:00",
-      "raw_text": "Russia’s parliament to hold final readings on crypto bill Tuesday\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Russia’s parliament to hold final readings on crypto bill Tuesday\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-russia-lif",
-      "impact": {}
-    },
-    {
-      "event_id": "8fd93b22-8a4a-413d-b92d-02f0d67fb409",
-      "source": "rss:cointelegraph",
-      "title": "Grayscale plans regular cash payouts from ETH, SOL staking rewards",
-      "url": "https://cointelegraph.com/news/grayscale-eth-sol-staking-cash-payouts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "ETH",
-        "SOL"
-      ],
-      "timestamp_utc": "2026-07-20T10:36:30+00:00",
-      "raw_text": "Grayscale plans regular cash payouts from ETH, SOL staking rewards\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Grayscale plans regular cash payouts from ETH, SOL staking rewards \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bilding-co",
-      "impact": {
-        "t_plus_5m": -0.2746,
-        "t_plus_15m": -0.2006,
-        "t_plus_1h": 0.5807,
-        "t_plus_4h": -0.3462
-      }
-    },
-    {
-      "event_id": "6c7a5f03-10ba-485b-91f8-fa0e496fda20",
-      "source": "rss:coindesk",
-      "title": "Crypto market slips even as equities advance. Pump surges on social-media chatter",
-      "url": "https://www.coindesk.com/markets/2026/07/20/crypto-market-slips-even-as-equities-advance-pump-surges-on-social-media-chatter",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T10:33:14+00:00",
-      "raw_text": "Crypto market slips even as equities advance. Pump surges on social-media chatter",
-      "impact": {}
-    },
-    {
-      "event_id": "a8cdf048-ce36-40d2-aa3a-2a56e215f5ba",
-      "source": "rss:cointelegraph",
-      "title": "Trader maintains $67K BTC price target: Five things to know in Bitcoin this week",
-      "url": "https://cointelegraph.com/markets/trader-preserves-67k-btc-price-target-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-20T10:26:36+00:00",
-      "raw_text": "Trader maintains $67K BTC price target: Five things to know in Bitcoin this week\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trader maintains $67K BTC price target: Five things to know in Bitcoin this week\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
-      "impact": {
-        "t_plus_5m": 0.0344,
-        "t_plus_15m": -0.0898,
-        "t_plus_1h": -0.0,
-        "t_plus_4h": -0.1293
-      }
-    },
-    {
-      "event_id": "cad8b6d9-5bb6-42dd-a69e-9a74fec0ae6f",
-      "source": "rss:coindesk",
-      "title": "Hyperliquid plans to add decentralized prediction markets in upgrade to HIP-4",
-      "url": "https://www.coindesk.com/business/2026/07/20/hyperliquid-plans-to-add-decentralized-prediction-markets-in-upgrade-to-hip-4",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T10:04:25+00:00",
-      "raw_text": "Hyperliquid plans to add decentralized prediction markets in upgrade to HIP-4",
-      "impact": {}
-    },
-    {
-      "event_id": "fd25b5de-bbde-4b61-9f01-165273df142c",
-      "source": "rss:theblock",
-      "title": "TD Cowen cuts Smarter Web Company price target 36% on revised bitcoin outlook",
-      "url": "https://www.theblock.co/post/408883/td-cowen-cuts-smarter-web-company-price-target-36-on-revised-bitcoin-outlook?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T09:58:50+00:00",
-      "raw_text": "TD Cowen cuts Smarter Web Company price target 36% on revised bitcoin outlook\n\n<p>TD Cowen cut Smarter Web's price target to £0.64 while maintaining a Buy rating, citing revised bitcoin forecasts and treasury assumptions.</p>\n\n<p>TD Cowen cut Smarter Web's price target to £0.64 while maintaining a B",
-      "impact": {}
-    },
-    {
-      "event_id": "59ccb3bc-83f3-42c9-a033-607829092eab",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin ETF inflows extend to second week, but recovery lacks momentum",
-      "url": "https://cointelegraph.com/news/bitcoin-etf-inflows-second-but-recovery-lacks-momentum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T09:33:19+00:00",
-      "raw_text": "Bitcoin ETF inflows extend to second week, but recovery lacks momentum\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETF inflows extend to second week, but recovery lacks momentum\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-",
-      "impact": {}
-    },
-    {
-      "event_id": "f5656c34-b37f-4c67-b65c-2852bab86b7d",
-      "source": "rss:coindesk",
-      "title": "Cross-chain protocol Allbridge halts after $1.65 million flash loan exploit",
-      "url": "https://www.coindesk.com/business/2026/07/20/cross-chain-protocol-allbridge-halts-after-usd1-65-million-flash-loan-exploit",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T09:31:22+00:00",
-      "raw_text": "Cross-chain protocol Allbridge halts after $1.65 million flash loan exploit",
-      "impact": {}
-    },
-    {
-      "event_id": "906eedca-fdef-4fad-9689-0aad88964326",
-      "source": "rss:coindesk",
-      "title": "U.S. regulatory developments and earnings, ECB rate decision: Crypto Week Ahead",
-      "url": "https://www.coindesk.com/markets/2026/07/20/u-s-regulatory-developments-and-earnings-ecb-rate-decision-crypto-week-ahead",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T08:57:53+00:00",
-      "raw_text": "U.S. regulatory developments and earnings, ECB rate decision: Crypto Week Ahead",
-      "impact": {}
-    },
-    {
-      "event_id": "ea92b012-f127-424c-8f32-8a6430bee49a",
-      "source": "rss:coindesk",
-      "title": "Amazon Japan supplier AZ-Com Maruwa to adopt yen stablecoin JPYC for payments",
-      "url": "https://www.coindesk.com/business/2026/07/20/amazon-japan-supplier-az-com-maruwa-to-adopt-yen-stablecoin-jpyc-for-payments",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T08:10:34+00:00",
-      "raw_text": "Amazon Japan supplier AZ-Com Maruwa to adopt yen stablecoin JPYC for payments",
-      "impact": {}
-    },
-    {
-      "event_id": "84336a44-5220-42af-bf1d-7b1534cd4606",
-      "source": "rss:cointelegraph",
-      "title": "South Korea eyes September launch for second phase of CBDC pilot: Report",
-      "url": "https://cointelegraph.com/news/south-korea-september-second-phase-cbdc-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T07:18:28+00:00",
-      "raw_text": "South Korea eyes September launch for second phase of CBDC pilot: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea eyes September launch for second phase of CBDC pilot: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
-      "impact": {}
-    },
-    {
-      "event_id": "13bfa97c-86db-41b0-a76e-d17f5c94fa69",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin rises to one-month high of $65,700 before pulling back with stocks",
-      "url": "https://www.coindesk.com/tech/2026/07/20/live-markets-oil-bounce-and-lingering-ai-selloff-pushes-bitcoin-under-usd64-000",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T07:15:47+00:00",
-      "raw_text": "Live updates: Bitcoin rises to one-month high of $65,700 before pulling back with stocks",
-      "impact": {}
-    },
-    {
-      "event_id": "1e33e7d4-9839-4c20-80b4-e6f39a092960",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin rises to one-month high of $65,400",
-      "url": "https://www.coindesk.com/tech/2026/07/20/live-markets-oil-bounce-and-lingering-ai-selloff-pushes-bitcoin-under-usd64-000",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T07:15:47+00:00",
-      "raw_text": "Live updates: Bitcoin rises to one-month high of $65,400",
-      "impact": {}
-    },
-    {
-      "event_id": "1824ea7a-8c72-49b9-83c1-e73f83794cc8",
-      "source": "rss:coindesk",
-      "title": "Live updates: Crypto cuts losses as report of Iran proposal sends oil lower, stocks higher",
-      "url": "https://www.coindesk.com/tech/2026/07/20/live-markets-oil-bounce-and-lingering-ai-selloff-pushes-bitcoin-under-usd64-000",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T07:15:47+00:00",
-      "raw_text": "Live updates: Crypto cuts losses as report of Iran proposal sends oil lower, stocks higher",
-      "impact": {}
-    },
-    {
-      "event_id": "b07a1fbf-a3c4-45fb-abd7-fdc657facade",
-      "source": "rss:coindesk",
-      "title": "Live markets: Report of Iran proposal sends oil lower, crypto and stocks higher",
-      "url": "https://www.coindesk.com/tech/2026/07/20/live-markets-oil-bounce-and-lingering-ai-selloff-pushes-bitcoin-under-usd64-000",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T07:15:47+00:00",
-      "raw_text": "Live markets: Report of Iran proposal sends oil lower, crypto and stocks higher",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 135,
+        "count": 139,
         "avg_1h": 0.02,
         "avg_24h": 0.13,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 189,
-        "avg_1h": -0.05,
+        "count": 188,
+        "avg_1h": 0.01,
         "avg_24h": -2.42,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 102,
-        "avg_1h": 0.04,
-        "avg_24h": 0.38,
+      "listing": {
+        "count": 30,
+        "avg_1h": 0.15,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 41,
+        "count": 39,
         "avg_1h": 0.12,
         "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 98,
+        "avg_1h": 0.04,
+        "avg_24h": 0.38,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
         "count": 6,
         "avg_1h": -0.06,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "listing": {
-        "count": 27,
-        "avg_1h": 0.19,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       }
