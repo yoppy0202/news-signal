@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-07-27T22:15:05.521873+00:00",
+  "generated_at": "2026-07-28T00:09:22.028235+00:00",
   "events": [
+    {
+      "event_id": "653b322f-7dc6-489e-94a9-99c3e63d8b0d",
+      "source": "rss:coindesk",
+      "title": "Kalshi, Polymarket win pause against Minnesota's prediction market ban",
+      "url": "https://www.coindesk.com/policy/2026/07/27/kalshi-polymarket-win-pause-against-minnesota-s-prediction-market-ban",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T23:29:38+00:00",
+      "raw_text": "Kalshi, Polymarket win pause against Minnesota's prediction market ban",
+      "impact": {}
+    },
+    {
+      "event_id": "164cd2ba-4d1a-4e73-9c1f-a880b93197f4",
+      "source": "rss:decrypt",
+      "title": "Elon Musk: Humans Will Lose Control of AI Within a Decade",
+      "url": "https://decrypt.co/374488/elon-musk-humans-lose-control-ai-decade",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T23:00:04+00:00",
+      "raw_text": "Elon Musk: Humans Will Lose Control of AI Within a Decade\n\nThe SpaceX founder says artificial intelligence is advancing too quickly to stop and is urging leading AI companies to coordinate on safety before releasing their most powerful models.",
+      "impact": {}
+    },
+    {
+      "event_id": "d6b26d3d-5004-4f8e-84cf-af040ed1ff7f",
+      "source": "rss:cointelegraph",
+      "title": "New York AG warns CLARITY Act could weaken state crypto enforcement",
+      "url": "https://cointelegraph.com/news/new-york-ag-clarity-act-state-crypto-enforcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T22:55:44+00:00",
+      "raw_text": "New York AG warns CLARITY Act could weaken state crypto enforcement\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"New York AG warns CLARITY Act could weaken state crypto enforcement\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-why-us",
+      "impact": {}
+    },
+    {
+      "event_id": "a5d69525-aadb-4b7c-b10e-b4bde2bae74c",
+      "source": "rss:decrypt",
+      "title": "OpenAI’s GPT-6 Will Arrive by September, Markets Predict",
+      "url": "https://decrypt.co/374472/openai-gpt-6-will-arrive-september-prediction-market",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T22:31:03+00:00",
+      "raw_text": "OpenAI’s GPT-6 Will Arrive by September, Markets Predict\n\nMoney is moving on a September bet for OpenAI’s next major model on both Polymarket and Myriad prediction markets.",
+      "impact": {}
+    },
+    {
+      "event_id": "17497705-caff-4ea3-b7a3-135deadd79eb",
+      "source": "rss:theblock",
+      "title": "NFL urges CFTC to strengthen rules on sports prediction markets: report",
+      "url": "https://www.theblock.co/post/409846/nfl-urges-cftc-to-strengthen-rules-on-sports-prediction-markets-report?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-27T21:57:24+00:00",
+      "raw_text": "NFL urges CFTC to strengthen rules on sports prediction markets: report\n\n<p>The NFL responded to the CFTC’s recent draft rulemaking calling for stricter prediction markets oversight, including age restrictions.</p>\n\n<p>The NFL responded to the CFTC’s recent draft rulemaking calling for stricter pred",
+      "impact": {}
+    },
     {
       "event_id": "7d1e681c-5bb4-4caf-a11a-c0787d882400",
       "source": "rss:decrypt",
@@ -156,7 +216,8 @@
       "impact": {
         "t_plus_5m": -0.3379,
         "t_plus_15m": 0.1968,
-        "t_plus_1h": 0.2224
+        "t_plus_1h": 0.2224,
+        "t_plus_4h": -2.5911
       }
     },
     {
@@ -6283,77 +6344,16 @@
       "timestamp_utc": "2026-07-20T20:02:33+00:00",
       "raw_text": "Russia's First Comprehensive Crypto Law Is Two Votes Away From Passing\n\nThe bill licenses exchanges, caps retail investors at about $3,800 a year, and creates a legal pathway for Russian companies to pay foreign partners in crypto—bypassing Western sanctions.",
       "impact": {}
-    },
-    {
-      "event_id": "838f845f-bf16-4c39-af61-5769e6d0c642",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin-Treasury Capital B Plans 10-for-1 Reverse Stock Split for September",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-treasury-capital-b-plans-10-for-1",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-20T19:52:47+00:00",
-      "raw_text": "Bitcoin-Treasury Capital B Plans 10-for-1 Reverse Stock Split for September\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Capital-B-Acquires-192-Bitcoin-for-E13-Million-Pushes-Total-Holdings-to-313",
-      "impact": {
-        "t_plus_5m": -0.1249,
-        "t_plus_15m": -0.1191,
-        "t_plus_1h": 0.1797,
-        "t_plus_4h": -0.0758
-      }
-    },
-    {
-      "event_id": "fee8b888-76b2-45dd-9fce-7eb8d2645483",
-      "source": "rss:theblock",
-      "title": "Vietnam sets new crypto trading fines on par with drunk-driving penalties",
-      "url": "https://www.theblock.co/post/408980/vietnam-new-unlicensed-crypto-trading-fines-on-par-drunk-driving-penalties?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T19:47:47+00:00",
-      "raw_text": "Vietnam sets new crypto trading fines on par with drunk-driving penalties\n\n<p>Domestic investors who trade crypto without going through a licensed service provider face fines of roughly $1,140 to $1,900.</p>\n\n<p>Domestic investors who trade crypto without going through a licensed service provider fa",
-      "impact": {}
-    },
-    {
-      "event_id": "5574c11d-cdf4-47c3-b6b3-f7249645f3f5",
-      "source": "rss:cointelegraph",
-      "title": "Exodus to cut 25% of staff in company reorganization",
-      "url": "https://cointelegraph.com/news/crypto-wallet-exodus-cut-staff-company-reorganization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T19:29:11+00:00",
-      "raw_text": "Exodus to cut 25% of staff in company reorganization\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Exodus to cut 25% of staff in company reorganization\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/layoffs-fired-human-resource-hr-leaving",
-      "impact": {}
-    },
-    {
-      "event_id": "7db9f97a-81ee-4668-927a-a68c98a6eb2f",
-      "source": "rss:decrypt",
-      "title": "Cardano Triggers Hard Fork With First Community-Voted Upgrade",
-      "url": "https://decrypt.co/373858/cardano-van-rossem-hard-fork-live-community-upgrade",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T18:50:48+00:00",
-      "raw_text": "Cardano Triggers Hard Fork With First Community-Voted Upgrade\n\nFor the first time in Cardano's history, no company flipped the switch on a major protocol update.",
-      "impact": {}
-    },
-    {
-      "event_id": "40a5e32b-96df-41ae-b084-13d729b56f2f",
-      "source": "rss:bitcoinmagazine",
-      "title": "Coinbase Executive Says Clarity Act Has ‘Tremendous Momentum’ in the Senate",
-      "url": "https://bitcoinmagazine.com/news/coinbase-executive-clarity-act-support",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-20T18:20:55+00:00",
-      "raw_text": "Coinbase Executive Says Clarity Act Has ‘Tremendous Momentum’ in the Senate\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a></p>\n<p><a href=\"https://bitcoinmagazine.com/news/coinbase-executive-clarity-act-support\" rel=\"nofollow\">Coinbase Executive Says Clarity Act Has &#",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 137,
+        "avg_1h": 0.03,
+        "avg_24h": 0.13,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 103,
         "avg_1h": 0.07,
@@ -6361,20 +6361,14 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 190,
+        "count": 189,
         "avg_1h": 0.09,
         "avg_24h": -2.42,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 135,
-        "avg_1h": 0.03,
-        "avg_24h": 0.13,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "listing": {
-        "count": 29,
-        "avg_1h": 0.09,
+        "count": 28,
+        "avg_1h": 0.08,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
