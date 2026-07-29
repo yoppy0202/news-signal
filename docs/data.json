@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-07-29T15:16:57.877961+00:00",
+  "generated_at": "2026-07-29T17:32:37.869621+00:00",
   "events": [
+    {
+      "event_id": "4597213f-6519-449e-b339-34a3c222d250",
+      "source": "rss:coindesk",
+      "title": "The traditional 9-to-5 banking day is officially dying, says Morgan Stanley execs",
+      "url": "https://www.coindesk.com/markets/2026/07/29/morgan-stanley-execs-admit-the-traditional-9-to-5-banking-day-is-officially-dying",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-29T16:09:32+00:00",
+      "raw_text": "The traditional 9-to-5 banking day is officially dying, says Morgan Stanley execs",
+      "impact": {}
+    },
+    {
+      "event_id": "d2c59fb9-361d-4471-abd0-9cde9a4c1924",
+      "source": "rss:bitcoinmagazine",
+      "title": "Banking Lobby CEO Talks Crypto Clarity Act as Senators Race To Pass Bill",
+      "url": "https://bitcoinmagazine.com/news/banking-lobby-ceo-talks-crypto-clarity-act",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-29T15:41:58+00:00",
+      "raw_text": "Banking Lobby CEO Talks Crypto Clarity Act as Senators Race To Pass Bill\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Banking-Lobby-CEO-Talks-Crypto-Clarity-Act-as-Senators-Race-To-Pass-Bill.jpg\" ",
+      "impact": {}
+    },
+    {
+      "event_id": "8a3aaceb-2b8e-448e-aa5d-21167d195a85",
+      "source": "rss:coindesk",
+      "title": "Stablecoin firm Brale says new protocol can remove a major hurdle to scaling custom tokens",
+      "url": "https://www.coindesk.com/business/2026/07/29/stablecoin-firm-brale-says-new-protocol-can-remove-a-major-hurdle-to-scaling-custom-tokens",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-29T15:27:30+00:00",
+      "raw_text": "Stablecoin firm Brale says new protocol can remove a major hurdle to scaling custom tokens",
+      "impact": {}
+    },
+    {
+      "event_id": "1a87d984-f200-4615-8e16-4127d6775a0a",
+      "source": "rss:theblock",
+      "title": "SoFi crypto transaction revenue grows 10% to $134 million in Q2",
+      "url": "https://www.theblock.co/post/410053/sofi-crypto-transaction-revenue-grows-to-134-million-second-quarter?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-29T15:19:04+00:00",
+      "raw_text": "SoFi crypto transaction revenue grows 10% to $134 million in Q2\n\n<p>Crypto remains a small part of SoFi's $1.2 billion quarterly adjusted net revenue but shows sustained growth.</p>\n\n<p>Crypto remains a small part of SoFi's $1.2 billion quarterly adjusted net revenue but shows sustained growth.</p>",
+      "impact": {}
+    },
+    {
+      "event_id": "dba17356-b1d7-4fa8-bba5-d34a2df7e622",
+      "source": "rss:coindesk",
+      "title": "Coinbase hit by spot trading slump: Wall Street trims expectations ahead of earnings",
+      "url": "https://www.coindesk.com/markets/2026/07/29/investors-look-past-expected-weak-q2-earnings-to-focus-on-coinbase-s-political-future",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-29T15:15:08+00:00",
+      "raw_text": "Coinbase hit by spot trading slump: Wall Street trims expectations ahead of earnings",
+      "impact": {}
+    },
+    {
+      "event_id": "7f91f61c-7851-4896-af20-4c8f2e2ab01e",
+      "source": "rss:coindesk",
+      "title": "Crypto Long & Short: What this year's $972 million crypto hacks actually tell us about security",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/07/29/crypto-long-and-short-what-this-year-s-usd972-million-crypto-hacks-actually-tell-us-about-security",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-29T15:13:07+00:00",
+      "raw_text": "Crypto Long & Short: What this year's $972 million crypto hacks actually tell us about security",
+      "impact": {}
+    },
     {
       "event_id": "f48673f3-ff23-4be1-bf4f-85e8dfe1b7d8",
       "source": "rss:theblock",
@@ -200,10 +272,17 @@
       "url": "https://www.coindesk.com/daybook-us/2026/07/29/3-reasons-wednesday-s-fed-meeting-is-pivotal-for-btc",
       "event_type": "macro",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-29T11:15:00+00:00",
       "raw_text": "3 reasons Wednesday's Fed meeting is pivotal for BTC",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2837,
+        "t_plus_15m": 0.3229,
+        "t_plus_1h": 0.2503,
+        "t_plus_4h": -0.2765
+      }
     },
     {
       "event_id": "f95ae3e0-db54-4c26-a2e5-ae8b6e402ca4",
@@ -414,6 +493,18 @@
       "tokens": [],
       "timestamp_utc": "2026-07-29T06:32:25+00:00",
       "raw_text": "Telegram founder Pavel Durov internationally wanted, Russia’s FSB says\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Telegram founder Pavel Durov internationally wanted, Russia’s FSB says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/dur",
+      "impact": {}
+    },
+    {
+      "event_id": "5d04af1c-d34c-438e-a219-48bd0714eef4",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin attempts to hold $64,000 ahead of Fed as AI favorites fall again",
+      "url": "https://www.coindesk.com/tech/2026/07/29/live-updates-bitcoin-clears-usd64-000-in-asia-hours-ahead-of-fed-decision",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-29T06:25:21+00:00",
+      "raw_text": "Live updates: Bitcoin attempts to hold $64,000 ahead of Fed as AI favorites fall again",
       "impact": {}
     },
     {
@@ -1215,7 +1306,8 @@
         "t_plus_5m": -2.0641,
         "t_plus_15m": -1.6668,
         "t_plus_1h": -0.3148,
-        "t_plus_4h": -0.4594
+        "t_plus_4h": -0.4594,
+        "t_plus_24h": -0.9644
       }
     },
     {
@@ -6157,142 +6249,37 @@
       "timestamp_utc": "2026-07-22T13:30:00+00:00",
       "raw_text": "The digital euro: Surveillance money, or a better alternative to cash?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"The digital euro: Surveillance money, or a better alternative to cash?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-",
       "impact": {}
-    },
-    {
-      "event_id": "8269d541-0b80-4cca-8750-6b6b9db58bf7",
-      "source": "rss:cointelegraph",
-      "title": "Franklin Templeton calls agentic AI next ‘killer’ use case for blockchain",
-      "url": "https://cointelegraph.com/news/agentic-ai-killer-use-case-blockchain-franklin-templeton?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-22T13:18:50+00:00",
-      "raw_text": "Franklin Templeton calls agentic AI next ‘killer’ use case for blockchain\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Franklin Templeton calls agentic AI next ‘killer’ use case for blockchain\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
-      "impact": {}
-    },
-    {
-      "event_id": "fb103562-5453-451e-8e67-9c6bd771e417",
-      "source": "rss:decrypt",
-      "title": "Justin Sun's HTX 'Rotating' On-Chain Wallets Amid UK Sanctions: TRM Labs",
-      "url": "https://decrypt.co/374030/justin-suns-htx-rotating-on-chain-wallets-amid-uk-sanctions-trm-labs",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-22T12:44:48+00:00",
-      "raw_text": "Justin Sun's HTX 'Rotating' On-Chain Wallets Amid UK Sanctions: TRM Labs\n\nTRM Labs says the UK-sanctioned exchange has rotated hot wallets across blockchains, leaving address-list screening struggling to keep pace.",
-      "impact": {}
-    },
-    {
-      "event_id": "85ba384d-9d4e-4793-93dc-46bed3e78894",
-      "source": "rss:bitcoinmagazine",
-      "title": "Satsuma Shareholders Approve Bitcoin Liquidation, London Delisting",
-      "url": "https://bitcoinmagazine.com/news/satsuma-shareholders-bitcoin-liquidation",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-22T12:40:55+00:00",
-      "raw_text": "Satsuma Shareholders Approve Bitcoin Liquidation, London Delisting\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Satsuma-Shareholders-Approve-Bitcoin-Liquidation-London-Delisting.jpg\" style=\"displa",
-      "impact": {
-        "t_plus_5m": 0.12,
-        "t_plus_15m": 0.0126,
-        "t_plus_1h": 0.101,
-        "t_plus_4h": 0.9378
-      }
-    },
-    {
-      "event_id": "d1ac13c3-a43d-4f14-ae41-111f9fe95c37",
-      "source": "rss:theblock",
-      "title": "Zilliqa halts native transactions over bug in its Ledger app dating to 2019",
-      "url": "https://www.theblock.co/post/409383/zilliqa-halts-native-transactions-over-bug-in-its-ledger-app-dating-to-2019?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-22T12:39:11+00:00",
-      "raw_text": "Zilliqa halts native transactions over bug in its Ledger app dating to 2019\n\n<p>Zilliqa halted native transactions after revealing a bug in its Ledger app dating to 2019 that exposed private keys via onchain signatures.</p>\n\n<p>Zilliqa halted native transactions after revealing a bug in its Ledger a",
-      "impact": {}
-    },
-    {
-      "event_id": "5df55181-2c21-4b0d-b672-cb50a54374f3",
-      "source": "rss:coindesk",
-      "title": "Kalshi rolls out Midterm Hubs ahead of the November elections in the U.S.",
-      "url": "https://www.coindesk.com/markets/2026/07/22/kalshi-rolls-out-midterm-hubs-ahead-of-the-november-elections-in-the-u-s",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-22T12:12:10+00:00",
-      "raw_text": "Kalshi rolls out Midterm Hubs ahead of the November elections in the U.S.",
-      "impact": {}
-    },
-    {
-      "event_id": "db50940f-ee0a-48de-8b15-b01883a06bcd",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin analysis eyes ‘serious volume’ after Binance sees 9K BTC daily outflow",
-      "url": "https://cointelegraph.com/markets/bitcoin-analysis-eyes-serious-volume-after-binance-sees-9k-btc-daily-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-22T11:55:21+00:00",
-      "raw_text": "Bitcoin analysis eyes ‘serious volume’ after Binance sees 9K BTC daily outflow\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin analysis eyes ‘serious volume’ after Binance sees 9K BTC daily outflow\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar",
-      "impact": {
-        "t_plus_5m": 0.4466,
-        "t_plus_15m": 0.2458,
-        "t_plus_1h": 0.0126,
-        "t_plus_4h": 0.4367
-      }
-    },
-    {
-      "event_id": "9ab8d18d-d400-4ba5-9162-92996b106716",
-      "source": "rss:decrypt",
-      "title": "Morning Minute: OpenAI Model Escapes Containment, Hacks Hugging Face",
-      "url": "https://decrypt.co/374029/morning-minute-openai-model-escapes-containment-hacks-hugging-face",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-22T11:50:29+00:00",
-      "raw_text": "Morning Minute: OpenAI Model Escapes Containment, Hacks Hugging Face\n\nPlus, the BTC ETFs stay green. The Clarity Act hits a wall over who enforces the ethics rules. And Jack Mallers walks away from XXI Capital.",
-      "impact": {
-        "t_plus_5m": 0.469,
-        "t_plus_15m": 0.3689,
-        "t_plus_1h": 0.1263,
-        "t_plus_4h": 0.4407
-      }
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 188,
+        "count": 190,
         "avg_1h": 0.08,
         "avg_24h": -2.42,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 102,
-        "avg_1h": 0.11,
-        "avg_24h": 0.38,
+        "count": 103,
+        "avg_1h": 0.14,
+        "avg_24h": -0.29,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 144,
+        "count": 142,
         "avg_1h": 0.19,
         "avg_24h": 0.13,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
         "count": 40,
-        "avg_1h": 0.1,
+        "avg_1h": 0.08,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
-        "count": 22,
-        "avg_1h": 0.04,
+        "count": 21,
+        "avg_1h": 0.03,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
