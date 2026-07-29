@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-29T00:06:43.289687+00:00",
+  "generated_at": "2026-07-29T03:33:18.654068+00:00",
   "events": [
+    {
+      "event_id": "3660763a-9635-4a01-8098-93a42cb75edc",
+      "source": "rss:cointelegraph",
+      "title": "European financial institutions launch RL1 cooperative blockchain network",
+      "url": "https://cointelegraph.com/news/european-financial-institutions-launch-rl1-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-29T00:09:29+00:00",
+      "raw_text": "European financial institutions launch RL1 cooperative blockchain network\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"European financial institutions launch RL1 cooperative blockchain network\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
+      "impact": {}
+    },
+    {
+      "event_id": "6d0ace38-c4ed-4ef5-815f-803663313121",
+      "source": "rss:coindesk",
+      "title": "Coinbase wants to be Canada’s ‘everything exchange,’ but says clearer rules are needed first",
+      "url": "https://www.coindesk.com/policy/2026/07/28/coinbase-wants-to-be-canada-s-everything-exchange-but-says-clearer-rules-are-needed-first",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-28T23:50:38+00:00",
+      "raw_text": "Coinbase wants to be Canada’s ‘everything exchange,’ but says clearer rules are needed first",
+      "impact": {}
+    },
     {
       "event_id": "8a8b786d-985b-45c6-abdd-06831445afc1",
       "source": "rss:cointelegraph",
@@ -220,7 +244,8 @@
       "impact": {
         "t_plus_5m": 0.0169,
         "t_plus_15m": 0.064,
-        "t_plus_1h": 0.3262
+        "t_plus_1h": 0.3262,
+        "t_plus_4h": 0.7901
       }
     },
     {
@@ -6279,56 +6304,32 @@
         "t_plus_1h": -0.1107,
         "t_plus_4h": -1.5415
       }
-    },
-    {
-      "event_id": "83bb3fac-f5e0-4bd4-8359-743a9e2b3cc9",
-      "source": "rss:theblock",
-      "title": "Galaxy launches Bitcoin quantum computing initiative, commits up to $5 million in developer grants",
-      "url": "https://www.theblock.co/post/409129/galaxy-bitcoin-quantum-computing-threat-initiative?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-21T18:21:12+00:00",
-      "raw_text": "Galaxy launches Bitcoin quantum computing initiative, commits up to $5 million in developer grants\n\n<p>Galaxy has launched the Bitcoin Quantum Readiness Initiative, including committing up to $5 million in developer grants.</p>\n\n<p>Galaxy has launched the Bitcoin Quantum Readiness Initiative, includ",
-      "impact": {}
-    },
-    {
-      "event_id": "1daaa313-3584-4a3d-903d-f618bc40e73b",
-      "source": "rss:cointelegraph",
-      "title": "Pavel Durov says Telegram to roll out native Gram crypto wallet",
-      "url": "https://cointelegraph.com/news/telegram-launch-native-self-custody-gram-wallet-for-over-1-billion-users-durov?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-21T18:20:58+00:00",
-      "raw_text": "Pavel Durov says Telegram to roll out native Gram crypto wallet\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Pavel Durov says Telegram to roll out native Gram crypto wallet\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/wallet3.png\" /></",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 104,
-        "avg_1h": 0.09,
-        "avg_24h": 0.38,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
         "count": 135,
         "avg_1h": 0.2,
         "avg_24h": 0.13,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 45,
-        "avg_1h": 0.12,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
         "count": 188,
         "avg_1h": 0.07,
         "avg_24h": -2.42,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 104,
+        "avg_1h": 0.09,
+        "avg_24h": 0.38,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 45,
+        "avg_1h": 0.12,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
