@@ -1,6 +1,90 @@
 {
-  "generated_at": "2026-07-30T09:37:10.631022+00:00",
+  "generated_at": "2026-07-30T12:01:39.450761+00:00",
   "events": [
+    {
+      "event_id": "25c1e044-dbb3-4b4e-8e64-797af846930b",
+      "source": "rss:coindesk",
+      "title": "Crypto's resilience tested as oil rises after Iran strikes, Fed signals rates could still rise",
+      "url": "https://www.coindesk.com/markets/2026/07/30/crypto-s-resilience-tested-as-oil-rises-after-iran-strikes-fed-signals-rates-could-still-rise",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-30T10:56:24+00:00",
+      "raw_text": "Crypto's resilience tested as oil rises after Iran strikes, Fed signals rates could still rise",
+      "impact": {}
+    },
+    {
+      "event_id": "43a08843-c6ae-40b3-be43-ad148d2a55eb",
+      "source": "rss:coindesk",
+      "title": "BitRiver founder charged in Russia with $12.5 million fraud",
+      "url": "https://www.coindesk.com/policy/2026/07/30/bitriver-founder-charged-in-russia-with-usd12-5-million-fraud",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-30T10:02:33+00:00",
+      "raw_text": "BitRiver founder charged in Russia with $12.5 million fraud",
+      "impact": {}
+    },
+    {
+      "event_id": "77e65cc4-5c52-4fa4-bf01-82c6d900fc04",
+      "source": "rss:coindesk",
+      "title": "Crypto exchange Luno cuts 20% of staff amid automation push and retail trading slumps",
+      "url": "https://www.coindesk.com/business/2026/07/30/crypto-exchange-luno-cuts-20-of-staff-amid-automation-push-and-retail-trading-slumps",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-30T09:54:18+00:00",
+      "raw_text": "Crypto exchange Luno cuts 20% of staff amid automation push and retail trading slumps",
+      "impact": {}
+    },
+    {
+      "event_id": "f2036d86-360a-4bdb-8b01-5fe23eab760e",
+      "source": "rss:decrypt",
+      "title": "Fake Flare Network Staking Site Drained $8.5M in XRP: Seoul Police",
+      "url": "https://decrypt.co/374696/fake-flare-network-staking-site-drained-8-5m-in-xrp-seoul-police",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-30T09:50:02+00:00",
+      "raw_text": "Fake Flare Network Staking Site Drained $8.5M in XRP: Seoul Police\n\nThe ring copied Flare Network and its FXRP token, and planted Wikipedia entries, blog posts and YouTube videos to look legitimate.",
+      "impact": {}
+    },
+    {
+      "event_id": "5e6c5c4a-71f0-483c-bce1-69cec67f5867",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin holds near $64,000 as Microsoft's AI payoff lifts stocks",
+      "url": "https://www.coindesk.com/tech/2026/07/30/live-updates-bitcoin-holds-near-usd64-000-as-microsoft-s-ai-payoff-lifts-stocks",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-30T09:01:13+00:00",
+      "raw_text": "Live updates: Bitcoin holds near $64,000 as Microsoft's AI payoff lifts stocks",
+      "impact": {}
+    },
+    {
+      "event_id": "762949a2-387a-41c7-9160-8615d5825a6c",
+      "source": "rss:coindesk",
+      "title": "Bitcoin and ether markets are ruled by perps. SpaceX showed how far their influence can go",
+      "url": "https://www.coindesk.com/markets/2026/07/30/bitcoin-and-ether-markets-are-ruled-by-perps-spacex-showed-how-far-their-influence-can-go",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-30T09:00:00+00:00",
+      "raw_text": "Bitcoin and ether markets are ruled by perps. SpaceX showed how far their influence can go",
+      "impact": {}
+    },
+    {
+      "event_id": "ae9976f3-4e53-4811-a9d3-3c4918b89be1",
+      "source": "rss:cointelegraph",
+      "title": "Australia sues Telegram over alleged failures to remove terror content",
+      "url": "https://cointelegraph.com/news/australia-telegram-alleged-failures-terror-content?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-30T08:49:40+00:00",
+      "raw_text": "Australia sues Telegram over alleged failures to remove terror content\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Australia sues Telegram over alleged failures to remove terror content\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-",
+      "impact": {}
+    },
     {
       "event_id": "c27ac518-8c7a-43c1-a38d-d04336c0adcf",
       "source": "rss:theblock",
@@ -124,7 +208,8 @@
       "impact": {
         "t_plus_5m": -0.2845,
         "t_plus_15m": -0.0022,
-        "t_plus_1h": -0.2137
+        "t_plus_1h": -0.2137,
+        "t_plus_4h": 0.4327
       }
     },
     {
@@ -178,7 +263,8 @@
       "impact": {
         "t_plus_5m": -0.0143,
         "t_plus_15m": -0.063,
-        "t_plus_1h": -0.3673
+        "t_plus_1h": -0.3673,
+        "t_plus_4h": -0.0029
       }
     },
     {
@@ -263,6 +349,18 @@
       "tokens": [],
       "timestamp_utc": "2026-07-29T22:01:24+00:00",
       "raw_text": "Robinhood Posts Best Quarter Ever as Prediction Market and Robinhood Chain Take Off\n\nRobinhood posted a record $1.31 billion in revenue in Q2. Prediction markets are now doing the work crypto used to for the company.",
+      "impact": {}
+    },
+    {
+      "event_id": "31dd4f92-6bc4-4a2f-89f8-a79180c43434",
+      "source": "rss:cointelegraph",
+      "title": "Robinhood posts record quarter as crypto revenue slides 38%",
+      "url": "https://cointelegraph.com/markets/robinhood-record-quarter-crypto-revenue-slides?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-29T21:53:35+00:00",
+      "raw_text": "Robinhood posts record quarter as crypto revenue slides 38%\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Robinhood posts record quarter as crypto revenue slides 38%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/robinhood.jpg\" /></p><p>T",
       "impact": {}
     },
     {
@@ -1099,7 +1197,8 @@
         "t_plus_5m": -0.0461,
         "t_plus_15m": 0.008,
         "t_plus_1h": -0.1756,
-        "t_plus_4h": 0.0368
+        "t_plus_4h": 0.0368,
+        "t_plus_24h": -0.8146
       }
     },
     {
@@ -6138,136 +6237,33 @@
         "t_plus_1h": 0.5182,
         "t_plus_4h": 0.3127
       }
-    },
-    {
-      "event_id": "255b8be2-373b-4b8d-9471-d6b596a57eaa",
-      "source": "rss:cointelegraph",
-      "title": "Swiss bank BancaStato launches regulated crypto trading with Sygnum",
-      "url": "https://cointelegraph.com/news/bancastato-regulated-crypto-trading-sygnum-avaloq?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-23T06:00:00+00:00",
-      "raw_text": "Swiss bank BancaStato launches regulated crypto trading with Sygnum\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Swiss bank BancaStato launches regulated crypto trading with Sygnum\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-u-bank",
-      "impact": {}
-    },
-    {
-      "event_id": "f3dfc86f-b4ac-44a6-bdda-06487112b8ef",
-      "source": "rss:theblock",
-      "title": "South Korea’s Mirae Asset completes acquisition of Korbit crypto exchange",
-      "url": "https://www.theblock.co/post/409485/mirae-asset-completes-acquisition-korbit?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-23T05:01:21+00:00",
-      "raw_text": "South Korea’s Mirae Asset completes acquisition of Korbit crypto exchange\n\n<p>Mirae Asset also plans to increase its stake from 92.06% to 97.15% through an additional deal later this week, local media reported.</p>\n\n<p>Mirae Asset also plans to increase its stake from 92.06% to 97.15% through an add",
-      "impact": {}
-    },
-    {
-      "event_id": "379b3027-8a0f-4783-ba6d-ab46f04ec591",
-      "source": "rss:coindesk",
-      "title": "Arbitrum-based AFX Trade drained of $24 million after bridge keys compromised",
-      "url": "https://www.coindesk.com/tech/2026/07/23/arbitrum-based-afx-trade-drained-of-usd24-million-after-bridge-keys-compromised",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-23T05:01:06+00:00",
-      "raw_text": "Arbitrum-based AFX Trade drained of $24 million after bridge keys compromised",
-      "impact": {}
-    },
-    {
-      "event_id": "4abaef24-2a9f-4fb7-9205-f64420b32c96",
-      "source": "rss:cointelegraph",
-      "title": "White House accuses Moonshot AI of distilling Anthropic tech for K3",
-      "url": "https://cointelegraph.com/news/chinas-moonshot-ai-distilled-anthropics-fable-to-develop-k3-white-house-official?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-23T04:15:30+00:00",
-      "raw_text": "White House accuses Moonshot AI of distilling Anthropic tech for K3\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"White House accuses Moonshot AI of distilling Anthropic tech for K3\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-trezor",
-      "impact": {}
-    },
-    {
-      "event_id": "9945979b-4082-4b2a-8b6a-ff785f582c38",
-      "source": "rss:coindesk",
-      "title": "XRP whales accumulate as small holders capitulate",
-      "url": "https://www.coindesk.com/markets/2026/07/23/xrp-whales-accumulate-as-small-holders-capitulate",
-      "event_type": "whale_move",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-07-23T04:11:13+00:00",
-      "raw_text": "XRP whales accumulate as small holders capitulate",
-      "impact": {
-        "t_plus_5m": -0.5792,
-        "t_plus_15m": -0.3404,
-        "t_plus_1h": -0.3318,
-        "t_plus_4h": -0.5702
-      }
-    },
-    {
-      "event_id": "9e51a126-a5ac-4e71-8d81-339135bcd595",
-      "source": "rss:coindesk",
-      "title": "Bitcoin wilts as oil and rates rise. Clarity Act odds tumble to 38%",
-      "url": "https://www.coindesk.com/markets/2026/07/23/bitcoin-wilts-as-oil-and-rates-rise-clarity-act-odds-tumble-to-38",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-23T03:50:20+00:00",
-      "raw_text": "Bitcoin wilts as oil and rates rise. Clarity Act odds tumble to 38%",
-      "impact": {}
-    },
-    {
-      "event_id": "3d27b6ba-10d1-48b0-9c11-d8a2148eae78",
-      "source": "rss:cointelegraph",
-      "title": "SEC settles Coinbase suit over ‘text messages that disappeared’",
-      "url": "https://cointelegraph.com/news/sec-settles-coinbase-suit-over-text-messages-that-disappeared?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-23T02:57:10+00:00",
-      "raw_text": "SEC settles Coinbase suit over ‘text messages that disappeared’\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC settles Coinbase suit over ‘text messages that disappeared’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/judge-law-court-r",
-      "impact": {}
-    },
-    {
-      "event_id": "48e2f9c4-4890-46f0-a3d3-fca7369b3ec5",
-      "source": "rss:cointelegraph",
-      "title": "Hackers steal $31.6M in 2 crypto bridge attacks within 7 hours",
-      "url": "https://cointelegraph.com/news/afx-protocol-reportedly-loses-24m-in-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-23T01:47:20+00:00",
-      "raw_text": "Hackers steal $31.6M in 2 crypto bridge attacks within 7 hours\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hackers steal $31.6M in 2 crypto bridge attacks within 7 hours\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hack.jpg\" /></p><p>",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 107,
+        "avg_1h": 0.19,
+        "avg_24h": 0.26,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 187,
+        "count": 186,
         "avg_1h": 0.05,
         "avg_24h": -2.42,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 107,
-        "avg_1h": 0.19,
-        "avg_24h": 0.62,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 39,
-        "avg_1h": null,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": null
-      },
       "narrative": {
-        "count": 146,
+        "count": 149,
         "avg_1h": 0.1,
         "avg_24h": 0.13,
         "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 38,
+        "avg_1h": null,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": null
       },
       "listing": {
         "count": 18,
@@ -6276,8 +6272,8 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
-        "count": 3,
-        "avg_1h": -0.14,
+        "count": 2,
+        "avg_1h": -0.04,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       }
