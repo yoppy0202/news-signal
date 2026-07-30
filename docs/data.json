@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-07-30T20:22:32.158339+00:00",
+  "generated_at": "2026-07-30T22:16:14.343161+00:00",
   "events": [
+    {
+      "event_id": "be283ed0-1d5b-4b60-ba16-8fdccd19111e",
+      "source": "rss:bitcoinmagazine",
+      "title": "Bitcoin Treasury Strategy Posts $8.2B Loss As BTC Price Suffered",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-treasury-strategy-posts-loss",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-30T21:00:08+00:00",
+      "raw_text": "Bitcoin Treasury Strategy Posts $8.2B Loss As BTC Price Suffered\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time-in-Years-as-Bitcoin-Price-Tumbles.jpg\" styl",
+      "impact": {}
+    },
+    {
+      "event_id": "d4357924-8260-475b-aa0a-895f645bfc5a",
+      "source": "rss:cointelegraph",
+      "title": "Coinbase Q2 profit misses estimates despite record crypto market share",
+      "url": "https://cointelegraph.com/markets/coinbase-q2-earnings-record-crypto-market-share?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-30T20:47:27+00:00",
+      "raw_text": "Coinbase Q2 profit misses estimates despite record crypto market share\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase Q2 profit misses estimates despite record crypto market share\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/new",
+      "impact": {}
+    },
+    {
+      "event_id": "6ac867d0-2518-45fa-895b-6b9936541e3c",
+      "source": "rss:coindesk",
+      "title": "Strategy books $8.2 billion Q2 loss on bitcoin price decline",
+      "url": "https://www.coindesk.com/markets/2026/07/30/strategy-books-usd8-2-billion-second-quarter-loss-on-bitcoin-price-decline",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-30T20:32:13+00:00",
+      "raw_text": "Strategy books $8.2 billion Q2 loss on bitcoin price decline",
+      "impact": {}
+    },
+    {
+      "event_id": "bb2e1fdc-aaf5-4d19-876d-5876e7bc9784",
+      "source": "rss:coindesk",
+      "title": "Coinbase sinks 5% after missing second quarter revenue estimates",
+      "url": "https://www.coindesk.com/markets/2026/07/30/coinbase-sinks-5-after-missing-q2-revenue-estimates",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-30T20:18:33+00:00",
+      "raw_text": "Coinbase sinks 5% after missing second quarter revenue estimates",
+      "impact": {}
+    },
+    {
+      "event_id": "fb279b08-fe33-47e1-ba21-0e35ca291ea1",
+      "source": "rss:bitcoinmagazine",
+      "title": "Legendary Investor Ray Dalio Still Holds Bitcoin — But Only 1% of His Portfolio",
+      "url": "https://bitcoinmagazine.com/news/ray-dalio-prefers-gold-over-bitcoin",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-30T19:57:05+00:00",
+      "raw_text": "Legendary Investor Ray Dalio Still Holds Bitcoin — But Only 1% of His Portfolio\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/11/Ray-Dalio-Reaffirms-Bitcoin-Skepticism-Says-He-Still-Holds-Just-1-Alloc",
+      "impact": {}
+    },
+    {
+      "event_id": "a92507fb-5674-4666-8866-c097a5877a47",
+      "source": "rss:cointelegraph",
+      "title": "Telegram’s Pavel Durov responds to Russia’s terrorism designation",
+      "url": "https://cointelegraph.com/news/pavel-durov-responds-russia-terrorism-designation-cites-mass-surveillance-censorship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-30T19:54:06+00:00",
+      "raw_text": "Telegram’s Pavel Durov responds to Russia’s terrorism designation\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Telegram’s Pavel Durov responds to Russia’s terrorism designation\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/durov.png\" />",
+      "impact": {}
+    },
     {
       "event_id": "be7764b1-b6c0-4ee8-a29c-0bd50dc9d771",
       "source": "rss:cointelegraph",
@@ -68,10 +140,16 @@
       "url": "https://www.theblock.co/post/410175/quantum-solutions-loses-top-japan-eth-treasury-spot-1-9-million-sale?utm_source=rss&utm_medium=rss",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-07-30T18:16:45+00:00",
       "raw_text": "Quantum Solutions loses top Japan ETH treasury spot after another $1.9 million sale\n\n<p>The two sales have reduced Quantum’s ETH treasury holdings by 28.6% since mid-June and the firm has ceded the top Japanese ETH treasury spot.</p>\n\n<p>The two sales have reduced Quantum’s ETH treasury holdings by ",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2584,
+        "t_plus_15m": -0.1998,
+        "t_plus_1h": -0.1123
+      }
     },
     {
       "event_id": "9cc28edf-9978-4d96-ba5b-f9c9631cd87a",
@@ -244,7 +322,8 @@
       "impact": {
         "t_plus_5m": -0.2069,
         "t_plus_15m": -0.0119,
-        "t_plus_1h": -0.0419
+        "t_plus_1h": -0.0419,
+        "t_plus_4h": -0.0162
       }
     },
     {
@@ -651,6 +730,18 @@
         "t_plus_1h": -0.0383,
         "t_plus_4h": 0.6281
       }
+    },
+    {
+      "event_id": "808d6a15-5e31-4c13-8c2f-d7c565e49b2d",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin holds above $64,000 as Nasdaq surges on AI trade comeback",
+      "url": "https://www.coindesk.com/tech/2026/07/30/live-updates-bitcoin-holds-near-usd64-000-as-microsoft-s-ai-payoff-lifts-stocks",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-30T09:01:13+00:00",
+      "raw_text": "Live updates: Bitcoin holds above $64,000 as Nasdaq surges on AI trade comeback",
+      "impact": {}
     },
     {
       "event_id": "5c6ab85e-71fb-4e97-89c3-6a5c006a750f",
@@ -6160,116 +6251,32 @@
       "timestamp_utc": "2026-07-23T16:00:00+00:00",
       "raw_text": "Coinbase calls AI payments its ‘most high-conviction bet’ as businesses begin accepting agent payments\n\n<p>Coinbase will enable businesses to accept payments from AI bots, powered by Coinbase Payments and the x402 standard.</p>\n\n<p>Coinbase will enable businesses to accept payments from AI bots, pow",
       "impact": {}
-    },
-    {
-      "event_id": "720492a3-fb9c-41f1-869b-0e58f193f272",
-      "source": "rss:coindesk",
-      "title": "The SEC settles with Coinbase over its missing Gary Gensler texts",
-      "url": "https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-23T15:36:39+00:00",
-      "raw_text": "The SEC settles with Coinbase over its missing Gary Gensler texts",
-      "impact": {}
-    },
-    {
-      "event_id": "b4885f40-c83c-4fbb-b827-be401804d14b",
-      "source": "rss:bitcoinmagazine",
-      "title": "Goldman Sachs Backs the Clarity Act, Splitting Wall Street Over Crypto Rules",
-      "url": "https://bitcoinmagazine.com/news/goldman-sachs-backs-the-clarity-act",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-23T15:34:05+00:00",
-      "raw_text": "Goldman Sachs Backs the Clarity Act, Splitting Wall Street Over Crypto Rules\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Goldman-Sachs-Backs-the-Clarity-Act-Splitting-Wall-Street-Over-Crypto-Rule",
-      "impact": {}
-    },
-    {
-      "event_id": "119ad2fc-bbf1-40ce-b814-2bcb8c825421",
-      "source": "rss:decrypt",
-      "title": "BlackRock, Coinbase and Strategy Pledge $15M to Quantum-Proof Bitcoin",
-      "url": "https://decrypt.co/374145/blackrock-coinbase-strategy-15m-quantum-proof-bitcoin",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-23T15:17:38+00:00",
-      "raw_text": "BlackRock, Coinbase and Strategy Pledge $15M to Quantum-Proof Bitcoin\n\nNine of the biggest institutional names in Bitcoin formed a consortium to fund the developers working to keep the network secure—including from future quantum computers.",
-      "impact": {}
-    },
-    {
-      "event_id": "80b0455c-62f5-43d4-9503-7069475340ad",
-      "source": "rss:coindesk",
-      "title": "Crypto for Advisors: It’s time for tokenization to get to work",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/07/23/crypto-for-advisors-it-s-time-for-tokenization-to-get-to-work",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-23T14:53:34+00:00",
-      "raw_text": "Crypto for Advisors: It’s time for tokenization to get to work",
-      "impact": {}
-    },
-    {
-      "event_id": "ed3d64c3-696e-4bc7-8c95-15867e0e9951",
-      "source": "rss:bitcoinmagazine",
-      "title": "Coinbase Builds Post-Quantum Custody System, Funds Bitcoin’s Crypto Upgrade",
-      "url": "https://bitcoinmagazine.com/news/coinbase-building-post-quantum-solutions",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-23T14:47:10+00:00",
-      "raw_text": "Coinbase Builds Post-Quantum Custody System, Funds Bitcoin’s Crypto Upgrade\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/12/Coinbase-is-About-to-Launch-Prediction-Markets-and-Tokenized-Stocks-Report.",
-      "impact": {}
-    },
-    {
-      "event_id": "75f1d45e-d2de-4854-9e1e-2ccdd31eb454",
-      "source": "rss:bitcoinmagazine",
-      "title": "Kazakhstan Moves to Build a National Crypto Reserve Funded by Bitcoin Miners",
-      "url": "https://bitcoinmagazine.com/news/kazakhstan-to-build-a-national-crypto",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-23T14:04:31+00:00",
-      "raw_text": "Kazakhstan Moves to Build a National Crypto Reserve Funded by Bitcoin Miners\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Kazakhstan-Moves-to-Build-a-National-Crypto-Reserve-Funded-by-Bitcoin-Mine",
-      "impact": {}
-    },
-    {
-      "event_id": "62af0a62-fc26-47f1-b8f5-dc95a6103682",
-      "source": "rss:coindesk",
-      "title": "Uniswap pushes deeper into tokenized assets with permissioned trading pools",
-      "url": "https://www.coindesk.com/business/2026/07/22/uniswap-pushes-deeper-into-tokenized-assets-with-permissioned-trading-pools",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-23T14:00:00+00:00",
-      "raw_text": "Uniswap pushes deeper into tokenized assets with permissioned trading pools",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "listing": {
+        "count": 19,
+        "avg_1h": 0.02,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 178,
-        "avg_1h": 0.04,
+        "avg_1h": 0.03,
         "avg_24h": -2.42,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 109,
+        "count": 107,
         "avg_1h": 0.14,
         "avg_24h": 0.29,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 158,
+        "count": 161,
         "avg_1h": 0.06,
         "avg_24h": 0.13,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "listing": {
-        "count": 20,
-        "avg_1h": 0.02,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
