@@ -1,6 +1,90 @@
 {
-  "generated_at": "2026-07-31T21:17:15.055420+00:00",
+  "generated_at": "2026-07-31T23:13:57.626669+00:00",
   "events": [
+    {
+      "event_id": "f453a770-71f9-4f6a-a25e-e2a7c7d8de5a",
+      "source": "rss:bitcoinmagazine",
+      "title": "Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report",
+      "url": "https://bitcoinmagazine.com/news/coldcard-thief-used-blockchain-service",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-31T21:01:14+00:00",
+      "raw_text": "Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Coldcard-Bitcoin-Thief-Likely-Used-Top-Blockchain-Services-Provider.jpg\" st",
+      "impact": {}
+    },
+    {
+      "event_id": "5a1cfa99-2137-4a09-bfb3-21876e6bc53e",
+      "source": "rss:coindesk",
+      "title": "Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say",
+      "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-31T20:50:58+00:00",
+      "raw_text": "Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say",
+      "impact": {}
+    },
+    {
+      "event_id": "a2982f75-6c69-484f-a9b3-da27a90a635d",
+      "source": "rss:decrypt",
+      "title": "Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears",
+      "url": "https://decrypt.co/374805/google-yanks-google-earth-ai-image-tool-deepfake-fears",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-31T20:32:50+00:00",
+      "raw_text": "Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears\n\nThe Nano Banana tool let users generate fake satellite scenes from a text prompt, alarming investigators who rely on Google Earth to verify breaking news and atrocities.",
+      "impact": {}
+    },
+    {
+      "event_id": "15859e70-dce2-445f-8655-86b4f3767f86",
+      "source": "rss:theblock",
+      "title": "Former Rep. George Santos agrees to pay $35,000 in CFTC settlement over Kalshi SOTU bet",
+      "url": "https://www.theblock.co/post/410338/george-santos-to-pay-35000-cftc-settlement-kalshi-sotu-bet?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-31T20:25:30+00:00",
+      "raw_text": "Former Rep. George Santos agrees to pay $35,000 in CFTC settlement over Kalshi SOTU bet\n\n<p>Former expelled U.S. Rep. George Santos settled with CFTC over trades made on Kalshi about the State of the Union.</p>\n\n<p>Former expelled U.S. Rep. George Santos settled with CFTC over trades made on Kalshi ",
+      "impact": {}
+    },
+    {
+      "event_id": "81525b72-bf87-414a-ac51-218c7ba9b9cd",
+      "source": "rss:theblock",
+      "title": "Bitcoin losses linked to Coldcard vulnerability grow to $70 million, Galaxy Research says",
+      "url": "https://www.theblock.co/post/410332/bitcoin-losses-linked-coldcard-vulnerability-70-million-galaxy-research?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-31T20:20:52+00:00",
+      "raw_text": "Bitcoin losses linked to Coldcard vulnerability grow to $70 million, Galaxy Research says\n\n<p>Galaxy said nearly 1,200 addresses were drained of more than 1,000 BTC worth roughly $70 million tied to a Coldcard vulnerability.</p>\n\n<p>Galaxy said nearly 1,200 addresses were drained of more than 1,000 ",
+      "impact": {}
+    },
+    {
+      "event_id": "8d2aa9f4-781e-4502-93c9-7c53e63b1dc4",
+      "source": "rss:cointelegraph",
+      "title": "Bank of Italy finds no consistent cost advantage for stablecoin remittances",
+      "url": "https://cointelegraph.com/news/bank-of-italy-study-no-stablecoin-remittance-cost-advantages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-31T20:10:21+00:00",
+      "raw_text": "Bank of Italy finds no consistent cost advantage for stablecoin remittances\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bank of Italy finds no consistent cost advantage for stablecoin remittances\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-",
+      "impact": {}
+    },
+    {
+      "event_id": "b0dcb0c0-ec11-45e6-a87c-6d50b66ae19b",
+      "source": "rss:decrypt",
+      "title": "AI Music Company Suno Loses Copyright Case in Germany",
+      "url": "https://decrypt.co/374802/suno-ai-music-copyright-case-germany",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-31T20:03:22+00:00",
+      "raw_text": "AI Music Company Suno Loses Copyright Case in Germany\n\nThe decision requires AI companies to license copyrighted music used to train models and generate songs, marking another legal win for music rights holders in Europe.",
+      "impact": {}
+    },
     {
       "event_id": "09dfef47-f7f4-4cd5-aaff-85d0a922f81a",
       "source": "rss:decrypt",
@@ -6172,124 +6256,32 @@
       "timestamp_utc": "2026-07-24T17:37:34+00:00",
       "raw_text": "Wise plans to resubmit national trust bank application under GENIUS Act framework\n\n<p>The OCC has granted conditional approval to several stablecoin-focused entities since December.</p>\n\n<p>The OCC has granted conditional approval to several stablecoin-focused entities since December.</p>",
       "impact": {}
-    },
-    {
-      "event_id": "bfad4f1e-8bdd-4f42-80b1-709e6e5c9c45",
-      "source": "rss:bitcoinmagazine",
-      "title": "National Fraternal Order of Police Gives Green Light to Clarity Act in Latest Support for Crypto Bill",
-      "url": "https://bitcoinmagazine.com/news/fraternal-order-police-support-clarity-act",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-24T17:07:18+00:00",
-      "raw_text": "National Fraternal Order of Police Gives Green Light to Clarity Act in Latest Support for Crypto Bill\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Pics-3.jpg\" style=\"display: block; margin: 1em au",
-      "impact": {}
-    },
-    {
-      "event_id": "ff618134-19a4-4cef-8135-59a61da74571",
-      "source": "rss:cointelegraph",
-      "title": "Crypto advocacy groups support CLARITY passage as ethics rules face pushback",
-      "url": "https://cointelegraph.com/news/crypto-advocacy-groups-support-clarity-act-pushback-ethics-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-24T16:55:14+00:00",
-      "raw_text": "Crypto advocacy groups support CLARITY passage as ethics rules face pushback\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto advocacy groups support CLARITY passage as ethics rules face pushback\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl",
-      "impact": {}
-    },
-    {
-      "event_id": "ca3be75e-eea2-454f-9ed3-18db15c098a5",
-      "source": "rss:decrypt",
-      "title": "Nvidia, Meta, and Microsoft Tell Washington: Don't Kill Open-Source AI",
-      "url": "https://decrypt.co/374282/nvidia-meta-microsoft-washington-dont-kill-open-source-ai",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-24T16:34:25+00:00",
-      "raw_text": "Nvidia, Meta, and Microsoft Tell Washington: Don't Kill Open-Source AI\n\nTwenty-five companies signed a letter defending open-weight models days after a Chinese AI helped Hugging Face survive a hack triggered by OpenAI's own systems.",
-      "impact": {}
-    },
-    {
-      "event_id": "829d34d3-6d09-48e5-b2aa-ed7eb950dc8f",
-      "source": "rss:decrypt",
-      "title": "Strategy Overhauls Bitcoin Metrics, Debuting 'Net Bitcoin Per Share'",
-      "url": "https://decrypt.co/374281/strategy-overhauls-bitcoin-metrics-debuting-net-bitcoin-per-share",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-24T16:21:52+00:00",
-      "raw_text": "Strategy Overhauls Bitcoin Metrics, Debuting 'Net Bitcoin Per Share'\n\nThe firm says its \"digital credit\" shift needs new yardsticks that strip out debt and preferred claims to show what common shareholders own.",
-      "impact": {}
-    },
-    {
-      "event_id": "6683b495-3414-4bf2-82b8-bf87ad089e47",
-      "source": "rss:bitcoinmagazine",
-      "title": "Sealed in Foil: BMAG’s New Focus on Trading Cards",
-      "url": "https://bitcoinmagazine.com/culture/sealed-in-foil-bmags-new-focus-on-trading-cards",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-24T16:20:25+00:00",
-      "raw_text": "Sealed in Foil: BMAG’s New Focus on Trading Cards\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/BMAGs-New-Focus-on-Trading-Cards.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"htt",
-      "impact": {
-        "t_plus_5m": 0.0592,
-        "t_plus_15m": -0.1189,
-        "t_plus_1h": -0.0967,
-        "t_plus_4h": 0.1485,
-        "t_plus_24h": 0.1322
-      }
-    },
-    {
-      "event_id": "de9a1c45-8df9-421a-8b76-8b6a3c9f9e6f",
-      "source": "rss:decrypt",
-      "title": "Bitcoin ETFs Shed $225M, Snapping Seven-Day Inflow Streak as Iran Tensions Spook Markets",
-      "url": "https://decrypt.co/374260/bitcoin-etfs-shed-225m-snapping-inflow-streak-iran-tensions",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-24T16:17:37+00:00",
-      "raw_text": "Bitcoin ETFs Shed $225M, Snapping Seven-Day Inflow Streak as Iran Tensions Spook Markets\n\nBlackRock's IBIT led the exit as Bitcoin briefly dipped under $65,000 and stocks fell on renewed US-Iran hostilities—though the week still closed in the green.",
-      "impact": {}
-    },
-    {
-      "event_id": "e6f4199a-1606-4509-a341-a4d92bf34cc9",
-      "source": "rss:bitcoinmagazine",
-      "title": "Top Crypto Industry Groups Pen Letter to Senate Leaders Urging Them To Support the Clarity Act",
-      "url": "https://bitcoinmagazine.com/news/crypto-industry-groups-support-the-clarity",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-24T16:05:35+00:00",
-      "raw_text": "Top Crypto Industry Groups Pen Letter to Senate Leaders Urging Them To Support the Clarity Act\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Top-Crypto-Industry-Groups-Pen-Letter-to-Senate-Leaders-",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 112,
-        "avg_1h": 0.1,
-        "avg_24h": 0.26,
+      "hack": {
+        "count": 34,
+        "avg_1h": 0.02,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 161,
-        "avg_1h": 0.22,
-        "avg_24h": 0.13,
+        "count": 163,
+        "avg_1h": 0.26,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 176,
+        "count": 177,
         "avg_1h": 0.11,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 33,
-        "avg_1h": 0.02,
-        "avg_24h": null,
+      "macro": {
+        "count": 108,
+        "avg_1h": 0.1,
+        "avg_24h": 0.26,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
