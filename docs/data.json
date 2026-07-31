@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-31T00:12:45.194126+00:00",
+  "generated_at": "2026-07-31T04:33:58.900289+00:00",
   "events": [
+    {
+      "event_id": "022744c7-5833-4bde-a14b-d0c5f3718236",
+      "source": "rss:cointelegraph",
+      "title": "Bhutan’s Gelephu taps 3iQ to manage part of Bitcoin treasury",
+      "url": "https://cointelegraph.com/news/bhutan-gelephu-3iq-bitcoin-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-31T00:31:21+00:00",
+      "raw_text": "Bhutan’s Gelephu taps 3iQ to manage part of Bitcoin treasury\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bhutan’s Gelephu taps 3iQ to manage part of Bitcoin treasury \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-bhutan-is-build",
+      "impact": {}
+    },
     {
       "event_id": "445730db-83cb-4627-a750-5e1d15c7cbb6",
       "source": "rss:cointelegraph",
@@ -44,10 +56,16 @@
       "url": "https://cointelegraph.com/news/strategy-reports-q2-2026-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-30T21:36:39+00:00",
       "raw_text": "Strategy posts $8.2B Q2 loss as Bitcoin slump drives unrealized losses\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy posts $8.2B Q2 loss as Bitcoin slump drives unrealized losses\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/reg",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2407,
+        "t_plus_15m": -0.2796,
+        "t_plus_1h": 0.0268
+      }
     },
     {
       "event_id": "75da159e-7595-48dc-9a11-905fb44d9e06",
@@ -238,7 +256,8 @@
       "impact": {
         "t_plus_5m": -0.2584,
         "t_plus_15m": -0.1998,
-        "t_plus_1h": -0.1123
+        "t_plus_1h": -0.1123,
+        "t_plus_4h": 0.0746
       }
     },
     {
@@ -6238,18 +6257,6 @@
       "timestamp_utc": "2026-07-23T17:31:17+00:00",
       "raw_text": "Brazilian Farmers Are Tokenizing Cows to Get Farm Loans—And It's Working\n\nThe first tokenized livestock deal on Brazil's stock exchange offers dairy farmers a lifeline as the sector's credit crisis deepens.",
       "impact": {}
-    },
-    {
-      "event_id": "d5131096-8a4a-4d7b-91f5-632a6a321c60",
-      "source": "rss:theblock",
-      "title": "MoonPay now accepts Discover Network cards for crypto purchases and sales in US",
-      "url": "https://www.theblock.co/post/409536/moonpay-discover-network-card-payments-crypto?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-23T17:05:36+00:00",
-      "raw_text": "MoonPay now accepts Discover Network cards for crypto purchases and sales in US\n\n<p>The addition makes Discover the third major U.S. card network supported by MoonPay, alongside Visa and Mastercard.</p>\n\n<p>The addition makes Discover the third major U.S. card network supported by MoonPay, alongside",
-      "impact": {}
     }
   ],
   "stats": {
@@ -6262,7 +6269,7 @@
       },
       "macro": {
         "count": 109,
-        "avg_1h": 0.14,
+        "avg_1h": 0.13,
         "avg_24h": 0.29,
         "win_rate_1h_gt5pct": 0.0
       },
