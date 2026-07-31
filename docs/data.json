@@ -1,6 +1,114 @@
 {
-  "generated_at": "2026-07-31T08:08:00.163373+00:00",
+  "generated_at": "2026-07-31T10:49:34.985973+00:00",
   "events": [
+    {
+      "event_id": "579a95a4-6476-4bd6-9136-ea85bbc769e6",
+      "source": "rss:decrypt",
+      "title": "New York AG Seeks $36B From Kalshi Over 'Illegal Gambling'",
+      "url": "https://decrypt.co/374775/new-york-ag-seeks-36b-from-kalshi-over-illegal-gambling",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-31T10:12:16+00:00",
+      "raw_text": "New York AG Seeks $36B From Kalshi Over 'Illegal Gambling'\n\nThe CFTC asked a court to stop New York enforcing against the prediction market the day before the state filed.",
+      "impact": {}
+    },
+    {
+      "event_id": "22b865a3-0c73-466e-b41c-c0d625af945c",
+      "source": "rss:coindesk",
+      "title": "New York sues Kalshi, alleges it offers a gambling platform 'plain and simple'",
+      "url": "https://www.coindesk.com/policy/2026/07/31/new-york-sues-kalshi-alleges-it-offers-a-gambling-platform-plain-and-simple",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-31T09:55:47+00:00",
+      "raw_text": "New York sues Kalshi, alleges it offers a gambling platform 'plain and simple'",
+      "impact": {}
+    },
+    {
+      "event_id": "c5cc7e19-c6e6-4258-8c00-c0ace46c1b0b",
+      "source": "rss:theblock",
+      "title": "Senate Democrats propose anti-corruption bureau as Trump’s crypto portfolio draws more scrutiny",
+      "url": "https://www.theblock.co/post/410260/senate-democrat-anti-corruption-bureau?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-31T09:34:29+00:00",
+      "raw_text": "Senate Democrats propose anti-corruption bureau as Trump’s crypto portfolio draws more scrutiny\n\n<p>Recent financial disclosures showed that Trump made hundreds of millions of dollars in crypto-related income.</p>\n\n<p>Recent financial disclosures showed that Trump made hundreds of millions of dollar",
+      "impact": {}
+    },
+    {
+      "event_id": "c455f75e-fac6-4cf4-9560-eca2067e5ebc",
+      "source": "rss:decrypt",
+      "title": "$38M in Bitcoin Drained by Coldcard Key Flaw Its Maker Thinks AI Found",
+      "url": "https://decrypt.co/374766/38m-in-bitcoin-drained-by-coldcard-key-flaw-its-maker-thinks-ai-found",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-31T09:02:01+00:00",
+      "raw_text": "$38M in Bitcoin Drained by Coldcard Key Flaw Its Maker Thinks AI Found\n\nCoinkite said it’s likely that an attacker used AI to review previous versions of its open source firmware to uncover a vulnerability.",
+      "impact": {}
+    },
+    {
+      "event_id": "db2094a1-bdf9-423b-8465-cd8e2210c99d",
+      "source": "rss:cointelegraph",
+      "title": "Aave weighs closing 6 V3 blockchain markets, offboarding 50 low-use reserves",
+      "url": "https://cointelegraph.com/news/aave-weighs-closing-6-v3-blockchain-markets-offboarding-50-low-use-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-07-31T08:57:53+00:00",
+      "raw_text": "Aave weighs closing 6 V3 blockchain markets, offboarding 50 low-use reserves\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Aave weighs closing 6 V3 blockchain markets, offboarding 50 low-use reserves\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl",
+      "impact": {}
+    },
+    {
+      "event_id": "6717e0b9-2113-452b-a2a2-3224d374ee21",
+      "source": "rss:coindesk",
+      "title": "Quantum Solutions, Hyperscale Data tap crypto treasuries to fund AI data centers",
+      "url": "https://www.coindesk.com/business/2026/07/31/quantum-solutions-hyperscale-data-tap-crypto-treasuries-to-fund-ai-data-centers",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-31T08:57:02+00:00",
+      "raw_text": "Quantum Solutions, Hyperscale Data tap crypto treasuries to fund AI data centers",
+      "impact": {}
+    },
+    {
+      "event_id": "cb7e446a-d468-4747-b3c2-572350334b95",
+      "source": "rss:coindesk",
+      "title": "Bitcoin’s calm is back and so is the setup for a volatility explosion",
+      "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-s-calm-is-back-and-so-is-the-setup-for-a-volatility-explosion",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-31T08:30:31+00:00",
+      "raw_text": "Bitcoin’s calm is back and so is the setup for a volatility explosion",
+      "impact": {}
+    },
+    {
+      "event_id": "a308f4d6-39a6-47ea-9fe5-22af529eabc8",
+      "source": "rss:cointelegraph",
+      "title": "RWA perpetual futures volume nears Bitcoin on Hyperliquid, Binance",
+      "url": "https://cointelegraph.com/markets/rwa-perpetual-futures-bitcoin-hyperliquid-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-31T08:29:51+00:00",
+      "raw_text": "RWA perpetual futures volume nears Bitcoin on Hyperliquid, Binance\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"RWA perpetual futures volume nears Bitcoin on Hyperliquid, Binance\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-to-t",
+      "impact": {}
+    },
+    {
+      "event_id": "672dc2d1-96ec-4e6f-a178-0c4693333e0b",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin steady as Japan holds rates at 1%, keeping the yen carry trade alive",
+      "url": "https://www.coindesk.com/markets/2026/07/31/live-updates-bitcoin-steady-as-japan-holds-rates-at-1-keeping-the-yen-carry-trade-alive",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-31T07:46:10+00:00",
+      "raw_text": "Live updates: Bitcoin steady as Japan holds rates at 1%, keeping the yen carry trade alive",
+      "impact": {}
+    },
     {
       "event_id": "18b38f8d-3589-455d-8dd5-a6293087e86d",
       "source": "rss:theblock",
@@ -44,10 +152,16 @@
       "url": "https://www.coindesk.com/tech/2026/07/31/major-bitcoin-wallet-flaw-drains-594-btc-in-25-minute-sweep",
       "event_type": "narrative",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-31T05:12:55+00:00",
       "raw_text": "Major bitcoin wallet flaw drains 594 BTC in 25-minute sweep",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.5942,
+        "t_plus_15m": 0.506,
+        "t_plus_1h": 0.579
+      }
     },
     {
       "event_id": "33e31228-ab9c-439e-ae4f-01dae57602c2",
@@ -68,10 +182,17 @@
       "url": "https://www.theblock.co/post/410235/coinkite-coldcard-mk3-warning?utm_source=rss&utm_medium=rss",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-31T02:56:53+00:00",
       "raw_text": "‘Funds may be at risk’: Coinkite issues warning for Coldcard Mk3 users amid 594 BTC theft reports\n\n<p>Coinkite recommends that Mk3 users create a strong, unique BIP-39 passphrase on the device and move funds to the resulting wallet.</p>\n\n<p>Coinkite recommends that Mk3 users create a strong, unique ",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0058,
+        "t_plus_15m": -0.0698,
+        "t_plus_1h": 0.2095,
+        "t_plus_4h": -0.0706
+      }
     },
     {
       "event_id": "ebc6e75b-18c9-4ff9-bac1-ddf22a8183c0",
@@ -265,6 +386,18 @@
       "tokens": [],
       "timestamp_utc": "2026-07-30T20:32:13+00:00",
       "raw_text": "Strategy books $8.2 billion Q2 loss on bitcoin price decline",
+      "impact": {}
+    },
+    {
+      "event_id": "a38af666-e611-42d3-a4c8-fbd566ce61f4",
+      "source": "rss:coindesk",
+      "title": "Coinbase sinks 5% after missing second-quarter revenue estimates",
+      "url": "https://www.coindesk.com/markets/2026/07/30/coinbase-sinks-5-after-missing-q2-revenue-estimates",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-07-30T20:18:33+00:00",
+      "raw_text": "Coinbase sinks 5% after missing second-quarter revenue estimates",
       "impact": {}
     },
     {
@@ -500,6 +633,18 @@
       "tokens": [],
       "timestamp_utc": "2026-07-30T16:35:26+00:00",
       "raw_text": "Cathie Wood's Ark Invest Sells Bitmine While Adding to Coinbase and Circle Holdings\n\nArk Invest sold shares of Bitmine, Robinhood, Bullish, and Block during Wednesday's pullback in crypto equities, while continuing to add to Coinbase and Circle.",
+      "impact": {}
+    },
+    {
+      "event_id": "336f37f7-37f7-48d6-b69b-29d433a47537",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin stable as Fed favorite PCE inflation sees first monthly drop in 6 years",
+      "url": "https://cointelegraph.com/markets/bitcoin-crypto-stable-as-us-pce-inflation-sees-first-monthly-drop-in-six-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-30T16:17:29+00:00",
+      "raw_text": "Bitcoin stable as Fed favorite PCE inflation sees first monthly drop in 6 years\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin stable as Fed favorite PCE inflation sees first monthly drop in 6 years\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/",
       "impact": {}
     },
     {
@@ -6113,160 +6258,26 @@
       "timestamp_utc": "2026-07-23T21:47:39+00:00",
       "raw_text": "Gemini co-founders sent $10M in Bitcoin to Trump PAC after joint motion with CFTC\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Gemini co-founders sent $10M in Bitcoin to Trump PAC after joint motion with CFTC\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me",
       "impact": {}
-    },
-    {
-      "event_id": "3b3a2d8e-8b37-43ae-823f-8865e04a643f",
-      "source": "rss:cointelegraph",
-      "title": "Gemini sent $10M in Bitcoin to Trump PAC after joint motion with CFTC",
-      "url": "https://cointelegraph.com/news/gemini-winklevoss-bitcoin-donald-trump-pac-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-23T21:47:39+00:00",
-      "raw_text": "Gemini sent $10M in Bitcoin to Trump PAC after joint motion with CFTC\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Gemini sent $10M in Bitcoin to Trump PAC after joint motion with CFTC\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/winkl",
-      "impact": {}
-    },
-    {
-      "event_id": "233da8fe-5440-4b5a-b11c-aa04ce653040",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoinist.App Brings Private Mining Pools to iOS",
-      "url": "https://bitcoinmagazine.com/press-releases/bitcoinist-app-brings-private-mining-pools-to-ios",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-23T21:28:11+00:00",
-      "raw_text": "Bitcoinist.App Brings Private Mining Pools to iOS\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/bitcoinist-app-press-release.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https:/",
-      "impact": {}
-    },
-    {
-      "event_id": "59bcc439-41c5-493e-ac24-92e106450a52",
-      "source": "rss:cointelegraph",
-      "title": "Coinbase lets businesses accept USDC payments from AI agents",
-      "url": "https://cointelegraph.com/news/coinbase-lets-businesses-accept-usdc-payments-from-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-23T20:51:27+00:00",
-      "raw_text": "Coinbase lets businesses accept USDC payments from AI agents\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase lets businesses accept USDC payments from AI agents\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-trading-bots-vs-ai-a",
-      "impact": {}
-    },
-    {
-      "event_id": "9541decc-6691-456e-8dd9-bca3b76a001b",
-      "source": "rss:bitcoinmagazine",
-      "title": "Elizabeth Warren Claims Clarity Act Would Help Trump — And ‘Criminals and Cartels’",
-      "url": "https://bitcoinmagazine.com/news/elizabeth-warren-slams-clarity-act",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-23T20:44:09+00:00",
-      "raw_text": "Elizabeth Warren Claims Clarity Act Would Help Trump — And ‘Criminals and Cartels’\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Elizabeth-Warren-Claims-Clarity-Act-Would-Help-Trump.jpg\" style=\"dis",
-      "impact": {}
-    },
-    {
-      "event_id": "f940e0b8-6df8-496f-96d6-c47adebcd099",
-      "source": "rss:decrypt",
-      "title": "Goldman Sachs CEO Breaks With Wall Street to Back Crypto Clarity Act",
-      "url": "https://decrypt.co/374186/goldman-sachs-ceo-breaks-wall-street-crypto-clarity-act",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-23T20:44:09+00:00",
-      "raw_text": "Goldman Sachs CEO Breaks With Wall Street to Back Crypto Clarity Act\n\nSolomon's endorsement splits with JP Morgan's Jamie Dimon and banking trade groups, who warn the bill's stablecoin-yield provisions could pull deposits away from traditional lenders.",
-      "impact": {}
-    },
-    {
-      "event_id": "84a9f70c-7bc1-49e0-b574-ffe92f0ef3b0",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin slides below $65K as Iran conflict fuels $100 oil and bond-yield surge",
-      "url": "https://cointelegraph.com/markets/bitcoin-dips-below-65k-iran-war-sparks-100-oil-us-bond-spike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-23T20:32:22+00:00",
-      "raw_text": "Bitcoin slides below $65K as Iran conflict fuels $100 oil and bond-yield surge\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin slides below $65K as Iran conflict fuels $100 oil and bond-yield surge\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar",
-      "impact": {}
-    },
-    {
-      "event_id": "b6d3ecba-8322-4294-8d50-97f6dfc22a96",
-      "source": "rss:coindesk",
-      "title": "Clarity Act expected to miss its window before Congress' summer break, leadership says",
-      "url": "https://www.coindesk.com/policy/2026/07/23/clarity-act-expected-to-miss-its-window-before-congress-summer-break-leadership-says",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-23T20:16:37+00:00",
-      "raw_text": "Clarity Act expected to miss its window before Congress' summer break, leadership says",
-      "impact": {}
-    },
-    {
-      "event_id": "4855782a-c2e3-45c6-96b8-08982987e423",
-      "source": "rss:decrypt",
-      "title": "Nasdaq-Listed Zhibao Wants a Bitcoin Treasury, Plans to Sell $220M in Stock for BTC",
-      "url": "https://decrypt.co/374178/nasdaq-listed-zhibao-bitcoin-treasury-220-million-stock-sale",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-23T20:12:19+00:00",
-      "raw_text": "Nasdaq-Listed Zhibao Wants a Bitcoin Treasury, Plans to Sell $220M in Stock for BTC\n\nA Shanghai-based insurance-tech company trading below $1 wants to build a bitcoin treasury by taking BTC directly as payment for new shares.",
-      "impact": {
-        "t_plus_5m": -0.075,
-        "t_plus_15m": -0.0496,
-        "t_plus_1h": -0.1178,
-        "t_plus_4h": -0.3145
-      }
-    },
-    {
-      "event_id": "e5fea419-8fc3-44ed-94ff-592f460fb50a",
-      "source": "rss:bitcoinmagazine",
-      "title": "Smarter Web Company Sells Bitcoin to Clear $11.7 Million Debt Facility",
-      "url": "https://bitcoinmagazine.com/news/smarter-web-company-sells-bitcoin",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-23T19:50:36+00:00",
-      "raw_text": "Smarter Web Company Sells Bitcoin to Clear $11.7 Million Debt Facility\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/02/Bitcoin-Treasury-The-Smarter-Web-Company-Listed-on-London-Stock-Exchange.jpg\" st",
-      "impact": {
-        "t_plus_5m": -0.1589,
-        "t_plus_15m": 0.1529,
-        "t_plus_1h": 0.4554,
-        "t_plus_4h": 0.4825
-      }
-    },
-    {
-      "event_id": "f16aaad4-ff11-4ac9-84e5-e7468bc0a3de",
-      "source": "rss:cointelegraph",
-      "title": "Crypto industry to contribute $55B to US economy in 2026: NCA study",
-      "url": "https://cointelegraph.com/news/crypto-industry-contributed-us-economy-2026-nca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-23T19:41:10+00:00",
-      "raw_text": "Crypto industry to contribute $55B to US economy in 2026: NCA study\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto industry to contribute $55B to US economy in 2026: NCA study\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/us-coin.j",
-      "impact": {}
-    },
-    {
-      "event_id": "29847270-5541-4f71-a091-2d5e1a9f8e71",
-      "source": "rss:cointelegraph",
-      "title": "As BitMEX exits, analysts warn crypto consolidation is accelerating",
-      "url": "https://cointelegraph.com/news/as-bitmex-exits-analysts-warn-crypto-consolidation-is-accelerating?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-23T19:30:17+00:00",
-      "raw_text": "As BitMEX exits, analysts warn crypto consolidation is accelerating\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"As BitMEX exits, analysts warn crypto consolidation is accelerating\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/arthur-ha",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 162,
-        "avg_1h": 0.06,
+        "count": 164,
+        "avg_1h": 0.12,
         "avg_24h": 0.13,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 180,
+        "avg_1h": 0.05,
+        "avg_24h": -2.42,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 29,
+        "avg_1h": -0.04,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
@@ -6275,21 +6286,9 @@
         "avg_24h": 0.29,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 181,
-        "avg_1h": 0.03,
-        "avg_24h": -2.42,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 28,
-        "avg_1h": -0.04,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "listing": {
-        "count": 19,
-        "avg_1h": -0.01,
+        "count": 17,
+        "avg_1h": -0.19,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
