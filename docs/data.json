@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-01T17:10:59.194513+00:00",
+  "generated_at": "2026-08-01T19:23:11.060801+00:00",
   "events": [
+    {
+      "event_id": "1603d07f-2730-4ac5-8edf-58edc0137a18",
+      "source": "rss:coindesk",
+      "title": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
+      "url": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-01T16:51:35+00:00",
+      "raw_text": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
+      "impact": {}
+    },
+    {
+      "event_id": "1d5550f1-4877-43cb-98d8-83a5658968f5",
+      "source": "rss:theblock",
+      "title": "Russian decree bans crypto mining across Moscow region through 2032",
+      "url": "https://www.theblock.co/post/410345/russian-decree-bans-crypto-mining-across-moscow-region-through-2032?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-01T16:09:15+00:00",
+      "raw_text": "Russian decree bans crypto mining across Moscow region through 2032\n\n<p>Regional energy officials had estimated that mining consumes 1 GW of power and could contribute to future electricity shortages. </p>\n\n<p>Regional energy officials had estimated that mining consumes 1 GW of power and could contr",
+      "impact": {}
+    },
     {
       "event_id": "286dfe9b-4a8e-4797-9e97-5b4e74ea21ec",
       "source": "rss:decrypt",
@@ -6241,54 +6265,30 @@
       "timestamp_utc": "2026-07-25T10:01:26+00:00",
       "raw_text": "Dango’s perp DEX taps out nearly 4 months after launch\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Dango’s perp DEX taps out nearly 4 months after launch\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-defi-perpetual-dex-closure.jpg\" ",
       "impact": {}
-    },
-    {
-      "event_id": "df863093-94a6-4b67-a613-236f5563731b",
-      "source": "rss:coindesk",
-      "title": "Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size",
-      "url": "https://www.coindesk.com/business/2026/07/25/robinhood-chain-s-real-world-assets-jump-fivefold-as-tokenized-stocks-start-trading-in-bigger-size",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-25T10:00:00+00:00",
-      "raw_text": "Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size",
-      "impact": {}
-    },
-    {
-      "event_id": "8f9934fd-0ef1-4878-9f31-41c862e9fb94",
-      "source": "rss:cointelegraph",
-      "title": "Ethereum ETFs close week in red, end 5-day inflow streak",
-      "url": "https://cointelegraph.com/markets/ethereum-etfs-week-red-end-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-25T07:40:35+00:00",
-      "raw_text": "Ethereum ETFs close week in red, end 5-day inflow streak\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum ETFs close week in red, end 5-day inflow streak\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-ethereum-and-etf.jpg\" /></p>",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 176,
+        "avg_1h": 0.09,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
         "count": 38,
         "avg_1h": 0.03,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 174,
-        "avg_1h": 0.09,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 108,
+        "count": 107,
         "avg_1h": 0.11,
         "avg_24h": 0.01,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 164,
+        "count": 163,
         "avg_1h": 0.26,
         "avg_24h": -1.0,
         "win_rate_1h_gt5pct": 0.0
