@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-01T13:48:42.959106+00:00",
+  "generated_at": "2026-08-01T15:13:25.436350+00:00",
   "events": [
+    {
+      "event_id": "7de6e3ce-ff49-4169-b45d-5850bcdc54e7",
+      "source": "rss:coindesk",
+      "title": "Everyone has the perps convergence backwards",
+      "url": "https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-01T13:00:00+00:00",
+      "raw_text": "Everyone has the perps convergence backwards",
+      "impact": {}
+    },
+    {
+      "event_id": "0cf13d35-6e48-436d-a701-d41fe0e7aac4",
+      "source": "rss:coindesk",
+      "title": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
+      "url": "https://www.coindesk.com/tech/2026/07/31/solana-foundation-s-new-ciso-warns-ai-is-making-crypto-scams-more-convincing",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-01T13:00:00+00:00",
+      "raw_text": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
+      "impact": {}
+    },
     {
       "event_id": "d5b2eb19-c973-42d8-aef8-bfa050d6758d",
       "source": "rss:cointelegraph",
@@ -669,7 +693,8 @@
         "t_plus_5m": -0.0128,
         "t_plus_15m": -0.0177,
         "t_plus_1h": 0.0012,
-        "t_plus_4h": -1.3704
+        "t_plus_4h": -1.3704,
+        "t_plus_24h": -1.0309
       }
     },
     {
@@ -6247,30 +6272,6 @@
         "t_plus_1h": 0.0034,
         "t_plus_4h": -0.0169
       }
-    },
-    {
-      "event_id": "978db833-4bbf-4ce1-b605-a6a4513ba700",
-      "source": "rss:bitcoinmagazine",
-      "title": "State Department to Debut Freedom Tech Program with Bitcoin Policy Institute, Palantir as Founding Partners",
-      "url": "https://bitcoinmagazine.com/news/state-department-tech-program-with-bitcoin",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-24T20:20:05+00:00",
-      "raw_text": "State Department to Debut Freedom Tech Program with Bitcoin Policy Institute, Palantir as Founding Partners\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Pics-4.jpg\" style=\"display: block; margin: ",
-      "impact": {}
-    },
-    {
-      "event_id": "f9b85c1b-9d0b-4079-bffd-c33636e1d9af",
-      "source": "rss:cointelegraph",
-      "title": "House passes bill on lawmakers using insider information for stock trading",
-      "url": "https://cointelegraph.com/news/house-bill-lawmakers-insider-information-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-24T20:05:50+00:00",
-      "raw_text": "House passes bill on lawmakers using insider information for stock trading\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"House passes bill on lawmakers using insider information for stock trading \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-c",
-      "impact": {}
     }
   ],
   "stats": {
@@ -6281,6 +6282,12 @@
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
+      "narrative": {
+        "count": 162,
+        "avg_1h": 0.26,
+        "avg_24h": -1.0,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
         "count": 37,
         "avg_1h": 0.03,
@@ -6288,15 +6295,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 109,
+        "count": 108,
         "avg_1h": 0.1,
-        "avg_24h": 0.26,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 161,
-        "avg_1h": 0.26,
-        "avg_24h": -1.0,
+        "avg_24h": 0.01,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
