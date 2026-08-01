@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-01T22:07:56.489704+00:00",
+  "generated_at": "2026-08-01T23:08:53.636332+00:00",
   "events": [
+    {
+      "event_id": "a05d7c1f-8bc6-4359-994c-9b845b255417",
+      "source": "rss:coindesk",
+      "title": "Strategy holds STRC dividend at 12%",
+      "url": "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-01T22:01:57+00:00",
+      "raw_text": "Strategy holds STRC dividend at 12%",
+      "impact": {}
+    },
     {
       "event_id": "3b5fa508-1bc4-4a2f-a8c0-79db2664a55b",
       "source": "rss:theblock",
@@ -6260,22 +6272,16 @@
       "timestamp_utc": "2026-07-25T15:46:05+00:00",
       "raw_text": "North Korea arrests hackers accused of laundering stolen funds from country's bank via crypto",
       "impact": {}
-    },
-    {
-      "event_id": "e4e40cb0-d2d7-468f-b416-d8a6ac01575f",
-      "source": "rss:decrypt",
-      "title": "What Is an AI Kill Switch and Why Do US Lawmakers Want One?",
-      "url": "https://decrypt.co/374332/what-is-ai-kill-switch-openai-hack-hugging-face",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-25T14:01:03+00:00",
-      "raw_text": "What Is an AI Kill Switch and Why Do US Lawmakers Want One?\n\nThe AI Kill Switch Act would let Homeland Security order frontier AI throttled or shut down, with fines up to $20 million a day for defying it.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 177,
+        "avg_1h": 0.09,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 164,
         "avg_1h": 0.21,
@@ -6283,7 +6289,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 106,
+        "count": 105,
         "avg_1h": 0.11,
         "avg_24h": 0.01,
         "win_rate_1h_gt5pct": 0.0
@@ -6292,12 +6298,6 @@
         "count": 38,
         "avg_1h": 0.03,
         "avg_24h": -0.73,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 176,
-        "avg_1h": 0.09,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
