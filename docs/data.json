@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-01T09:16:29.593989+00:00",
+  "generated_at": "2026-08-01T11:32:39.114728+00:00",
   "events": [
+    {
+      "event_id": "d5b2eb19-c973-42d8-aef8-bfa050d6758d",
+      "source": "rss:cointelegraph",
+      "title": "Russia expands crypto mining ban to Moscow through 2032",
+      "url": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-01T10:23:41+00:00",
+      "raw_text": "Russia expands crypto mining ban to Moscow through 2032\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Russia expands crypto mining ban to Moscow through 2032\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-china-mining-ban.jpg\" /></p><p",
+      "impact": {}
+    },
+    {
+      "event_id": "76e112eb-9b7a-41b5-9ca4-eb50bbb260ae",
+      "source": "rss:cointelegraph",
+      "title": "Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis",
+      "url": "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-01T09:23:56+00:00",
+      "raw_text": "Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hand-coin-l",
+      "impact": {}
+    },
+    {
+      "event_id": "089d7145-5520-455b-bace-c8d05297164f",
+      "source": "rss:coindesk",
+      "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
+      "url": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-01T09:01:08+00:00",
+      "raw_text": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
+      "impact": {}
+    },
+    {
+      "event_id": "4ac78b62-e8c3-4d8a-98b6-b19ace31db34",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin ETFs end July in the green despite late-month selling",
+      "url": "https://cointelegraph.com/markets/bitcoin-etfs-july-green-despite-late-month-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-01T07:23:07+00:00",
+      "raw_text": "Bitcoin ETFs end July in the green despite late-month selling\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs end July in the green despite late-month selling\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-cmc-verified-info-",
+      "impact": {}
+    },
     {
       "event_id": "45d3daae-111d-4137-b1a4-157cadff7084",
       "source": "rss:coindesk",
@@ -8,10 +56,17 @@
       "url": "https://www.coindesk.com/tech/2026/08/01/xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-08-01T06:09:51+00:00",
       "raw_text": "XRP Ledger upgrade brings back features once pulled over critical bugs",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0259,
+        "t_plus_15m": 0.045,
+        "t_plus_1h": -0.0367,
+        "t_plus_4h": -0.279
+      }
     },
     {
       "event_id": "b1874589-332a-44ea-8c4a-c0eecb8c321a",
@@ -6216,80 +6271,32 @@
       "timestamp_utc": "2026-07-24T20:05:50+00:00",
       "raw_text": "House passes bill on lawmakers using insider information for stock trading\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"House passes bill on lawmakers using insider information for stock trading \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-c",
       "impact": {}
-    },
-    {
-      "event_id": "46651104-96da-4d1b-9874-6d8154e35ddf",
-      "source": "rss:decrypt",
-      "title": "Samsung Wallet Will Add Stablecoin Support, Including USDC",
-      "url": "https://decrypt.co/374324/samsung-wallet-stablecoin-support-usdc",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-24T19:30:01+00:00",
-      "raw_text": "Samsung Wallet Will Add Stablecoin Support, Including USDC\n\nSamsung showed a wallet mockup holding Circle's USDC at Galaxy Unpacked. But details are scarce.",
-      "impact": {}
-    },
-    {
-      "event_id": "5228b315-d5da-4d7a-b431-1c8202690c5d",
-      "source": "rss:theblock",
-      "title": "Cardano co-founder Hoskinson says Bitcoin could lose top spot if governance fails quantum test",
-      "url": "https://www.theblock.co/post/409627/cardano-co-founder-hoskinson-bitcoin-lose-top-spot-governance-fails-quantum-test?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-24T19:01:53+00:00",
-      "raw_text": "Cardano co-founder Hoskinson says Bitcoin could lose top spot if governance fails quantum test\n\n<p>Cardano’s governance and ability to enact upgrades make it better equipped to respond to existential technical threats, said Hoskinson.</p>\n\n<p>Cardano’s governance and ability to enact upgrades make i",
-      "impact": {}
-    },
-    {
-      "event_id": "a342efbd-c7ac-418f-8af1-061a4b58d5f5",
-      "source": "rss:decrypt",
-      "title": "Claude Opus 5 Outscores Fable 5 on Most Benchmarks—At Half the Price",
-      "url": "https://decrypt.co/374305/claude-opus-5-outscores-fable-5-most-benchmarks-half-price",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-24T18:28:43+00:00",
-      "raw_text": "Claude Opus 5 Outscores Fable 5 on Most Benchmarks—At Half the Price\n\nAnthropic's new everyday model undercuts its own frontier product on cost and beats it almost everywhere that counts.",
-      "impact": {}
-    },
-    {
-      "event_id": "39cd7f94-fdb1-4b3b-8ec4-4e626600b3e1",
-      "source": "rss:decrypt",
-      "title": "Clarity Act on the Ropes as Ethics Fight and Shrinking Calendar Threaten Passage",
-      "url": "https://decrypt.co/374300/clarity-act-ethics-fight-shrinking-calendar-threaten-passage",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-24T17:50:26+00:00",
-      "raw_text": "Clarity Act on the Ropes as Ethics Fight and Shrinking Calendar Threaten Passage\n\nSenate Majority Leader John Thune signals the crypto market-structure bill likely won't clear the chamber before the August recess, as Democrats reject the GOP's ethics language and analysts slash the odds of passage.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 176,
-        "avg_1h": 0.11,
+        "count": 175,
+        "avg_1h": 0.09,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 35,
+        "count": 37,
         "avg_1h": 0.03,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 163,
-        "avg_1h": 0.26,
-        "avg_24h": -1.0,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 108,
+        "count": 109,
         "avg_1h": 0.1,
         "avg_24h": 0.26,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 161,
+        "avg_1h": 0.26,
+        "avg_24h": -1.0,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
