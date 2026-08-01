@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-01T06:38:16.844043+00:00",
+  "generated_at": "2026-08-01T09:16:29.593989+00:00",
   "events": [
+    {
+      "event_id": "45d3daae-111d-4137-b1a4-157cadff7084",
+      "source": "rss:coindesk",
+      "title": "XRP Ledger upgrade brings back features once pulled over critical bugs",
+      "url": "https://www.coindesk.com/tech/2026/08/01/xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-01T06:09:51+00:00",
+      "raw_text": "XRP Ledger upgrade brings back features once pulled over critical bugs",
+      "impact": {}
+    },
+    {
+      "event_id": "b1874589-332a-44ea-8c4a-c0eecb8c321a",
+      "source": "rss:coindesk",
+      "title": "How bitcoin cold wallets lost $70 million in an attack that never touched the devices",
+      "url": "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-01T05:55:46+00:00",
+      "raw_text": "How bitcoin cold wallets lost $70 million in an attack that never touched the devices",
+      "impact": {}
+    },
     {
       "event_id": "f453a770-71f9-4f6a-a25e-e2a7c7d8de5a",
       "source": "rss:bitcoinmagazine",
@@ -909,7 +933,8 @@
         "t_plus_5m": 1.0397,
         "t_plus_15m": 0.9511,
         "t_plus_1h": 1.0244,
-        "t_plus_4h": 0.1152
+        "t_plus_4h": 0.1152,
+        "t_plus_24h": -0.996
       }
     },
     {
@@ -6239,36 +6264,18 @@
       "timestamp_utc": "2026-07-24T17:50:26+00:00",
       "raw_text": "Clarity Act on the Ropes as Ethics Fight and Shrinking Calendar Threaten Passage\n\nSenate Majority Leader John Thune signals the crypto market-structure bill likely won't clear the chamber before the August recess, as Democrats reject the GOP's ethics language and analysts slash the odds of passage.",
       "impact": {}
-    },
-    {
-      "event_id": "4859cbd8-36cf-4fd0-a824-b99842222979",
-      "source": "rss:decrypt",
-      "title": "Poolin, Once One of Bitcoin's Biggest Mining Pools, Files for Bankruptcy",
-      "url": "https://decrypt.co/374289/poolin-bitcoin-biggest-mining-pools-files-bankruptcy",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-24T17:44:48+00:00",
-      "raw_text": "Poolin, Once One of Bitcoin's Biggest Mining Pools, Files for Bankruptcy\n\nThe Singapore-based pool never recovered from freezing withdrawals in 2022. Now it's auctioning off its last Texas mining sites to pay back 11,700 users still holding IOUs.",
-      "impact": {}
-    },
-    {
-      "event_id": "64a7abd9-84e3-4026-a5f0-3641610aa200",
-      "source": "rss:theblock",
-      "title": "Wise plans to resubmit national trust bank application under GENIUS Act framework",
-      "url": "https://www.theblock.co/post/409631/wise-plans-resubmit-national-trust-bank-application-under-genius-act-framework?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-24T17:37:34+00:00",
-      "raw_text": "Wise plans to resubmit national trust bank application under GENIUS Act framework\n\n<p>The OCC has granted conditional approval to several stablecoin-focused entities since December.</p>\n\n<p>The OCC has granted conditional approval to several stablecoin-focused entities since December.</p>",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 176,
+        "avg_1h": 0.11,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
-        "count": 34,
+        "count": 35,
         "avg_1h": 0.03,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
@@ -6276,13 +6283,7 @@
       "narrative": {
         "count": 163,
         "avg_1h": 0.26,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 177,
-        "avg_1h": 0.11,
-        "avg_24h": null,
+        "avg_24h": -1.0,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
