@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T23:13:57.626669+00:00",
+  "generated_at": "2026-08-01T03:45:21.896694+00:00",
   "events": [
     {
       "event_id": "f453a770-71f9-4f6a-a25e-e2a7c7d8de5a",
@@ -56,10 +56,16 @@
       "url": "https://www.theblock.co/post/410332/bitcoin-losses-linked-coldcard-vulnerability-70-million-galaxy-research?utm_source=rss&utm_medium=rss",
       "event_type": "hack",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-07-31T20:20:52+00:00",
       "raw_text": "Bitcoin losses linked to Coldcard vulnerability grow to $70 million, Galaxy Research says\n\n<p>Galaxy said nearly 1,200 addresses were drained of more than 1,000 BTC worth roughly $70 million tied to a Coldcard vulnerability.</p>\n\n<p>Galaxy said nearly 1,200 addresses were drained of more than 1,000 ",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0073,
+        "t_plus_15m": 0.0135,
+        "t_plus_1h": 0.051
+      }
     },
     {
       "event_id": "8d2aa9f4-781e-4502-93c9-7c53e63b1dc4",
@@ -6262,7 +6268,7 @@
     "by_event_type": {
       "hack": {
         "count": 34,
-        "avg_1h": 0.02,
+        "avg_1h": 0.03,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
