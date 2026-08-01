@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-01T21:06:24.053273+00:00",
+  "generated_at": "2026-08-01T22:07:56.489704+00:00",
   "events": [
+    {
+      "event_id": "3b5fa508-1bc4-4a2f-a8c0-79db2664a55b",
+      "source": "rss:theblock",
+      "title": "Iran-linked exchange sent $676 million to Binance in alleged sanctions-evasion operation: Reuters",
+      "url": "https://www.theblock.co/post/410355/iran-linked-exchange-sent-676-million-to-binance-in-alleged-sanctions-evasion-operation-reuters?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-01T21:18:45+00:00",
+      "raw_text": "Iran-linked exchange sent $676 million to Binance in alleged sanctions-evasion operation: Reuters\n\n<p>Dubai-based Shelbit processed over $4 billion since May 2024 through a network tied to Iranian gambling sites, the central bank, and the IRGC, per Reuters.</p>\n\n<p>Dubai-based Shelbit processed over",
+      "impact": {}
+    },
+    {
+      "event_id": "59d652fc-011c-4d4e-9c71-2661aa0573ea",
+      "source": "rss:cointelegraph",
+      "title": "Onchain, in court: What happened in crypto legal news this week",
+      "url": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-01T21:14:39+00:00",
+      "raw_text": "Onchain, in court: What happened in crypto legal news this week\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Onchain, in court: What happened in crypto legal news this week\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-5-key-highligh",
+      "impact": {}
+    },
     {
       "event_id": "7e1f1833-32a5-4485-aee9-27dd134a28bf",
       "source": "rss:coindesk",
@@ -20,10 +44,16 @@
       "url": "https://www.theblock.co/post/410351/bnb-chain-pursuing-legal-action-against-former-employee-over-memecoin-launched-from-tutorial-wallet?utm_source=rss&utm_medium=rss",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BNB"
+      ],
       "timestamp_utc": "2026-08-01T19:09:57+00:00",
       "raw_text": "BNB Chain ‘pursuing legal action’ against former employee over memecoin launched from tutorial wallet\n\n<p>Lookonchain said the former employee bought nearly 80% of ASTEROID's supply for $10,000 before selling most of the tokens for about $638,000.</p>\n\n<p>Lookonchain said the former employee bought ",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0744,
+        "t_plus_15m": 0.0271,
+        "t_plus_1h": -0.1954
+      }
     },
     {
       "event_id": "c4dc9abb-a9d8-44e2-9af6-c6c56813be1d",
@@ -300,7 +330,8 @@
         "t_plus_5m": 0.0073,
         "t_plus_15m": 0.0135,
         "t_plus_1h": 0.051,
-        "t_plus_4h": -0.0416
+        "t_plus_4h": -0.0416,
+        "t_plus_24h": -0.7297
       }
     },
     {
@@ -6241,56 +6272,32 @@
       "timestamp_utc": "2026-07-25T14:01:03+00:00",
       "raw_text": "What Is an AI Kill Switch and Why Do US Lawmakers Want One?\n\nThe AI Kill Switch Act would let Homeland Security order frontier AI throttled or shut down, with fines up to $20 million a day for defying it.",
       "impact": {}
-    },
-    {
-      "event_id": "c6d119d0-96eb-43a1-b944-9135f85a250b",
-      "source": "rss:theblock",
-      "title": "Bitcoin ETF weekly trading volume falls to lowest since October 2024 as ether funds lead inflows again",
-      "url": "https://www.theblock.co/post/409660/bitcoin-etf-weekly-trading-volume-falls-to-lowest-since-october-2024-as-ether-funds-lead-inflows-again?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-25T13:59:06+00:00",
-      "raw_text": "Bitcoin ETF weekly trading volume falls to lowest since October 2024 as ether funds lead inflows again\n\n<p>Ether funds have drawn nearly as much capital as bitcoin ETFs over the past three weeks despite holding about one-eighth as much in net assets.</p>\n\n<p>Ether funds have drawn nearly as much cap",
-      "impact": {}
-    },
-    {
-      "event_id": "7c45c23a-e113-40fa-9a9b-a9540d7cc46c",
-      "source": "rss:cointelegraph",
-      "title": "North Korea arrests bank hacking ring tied to crypto laundering: Report",
-      "url": "https://cointelegraph.com/news/north-korea-bank-hacking-ring-crypto-laundering-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-25T13:14:18+00:00",
-      "raw_text": "North Korea arrests bank hacking ring tied to crypto laundering: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"North Korea arrests bank hacking ring tied to crypto laundering: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/h",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "hack": {
-        "count": 39,
-        "avg_1h": 0.03,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 163,
-        "avg_1h": 0.26,
+        "count": 164,
+        "avg_1h": 0.21,
         "avg_24h": -1.0,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 176,
-        "avg_1h": 0.09,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
         "count": 106,
         "avg_1h": 0.11,
         "avg_24h": 0.01,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 38,
+        "avg_1h": 0.03,
+        "avg_24h": -0.73,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 176,
+        "avg_1h": 0.09,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
