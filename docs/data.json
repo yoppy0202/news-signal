@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-01T19:23:11.060801+00:00",
+  "generated_at": "2026-08-01T21:06:24.053273+00:00",
   "events": [
+    {
+      "event_id": "7e1f1833-32a5-4485-aee9-27dd134a28bf",
+      "source": "rss:coindesk",
+      "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
+      "url": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-01T20:10:54+00:00",
+      "raw_text": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
+      "impact": {}
+    },
+    {
+      "event_id": "b9cc94e5-5b6d-4b56-8c06-58c7081c6743",
+      "source": "rss:theblock",
+      "title": "BNB Chain ‘pursuing legal action’ against former employee over memecoin launched from tutorial wallet",
+      "url": "https://www.theblock.co/post/410351/bnb-chain-pursuing-legal-action-against-former-employee-over-memecoin-launched-from-tutorial-wallet?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-01T19:09:57+00:00",
+      "raw_text": "BNB Chain ‘pursuing legal action’ against former employee over memecoin launched from tutorial wallet\n\n<p>Lookonchain said the former employee bought nearly 80% of ASTEROID's supply for $10,000 before selling most of the tokens for about $638,000.</p>\n\n<p>Lookonchain said the former employee bought ",
+      "impact": {}
+    },
+    {
+      "event_id": "c4dc9abb-a9d8-44e2-9af6-c6c56813be1d",
+      "source": "rss:cointelegraph",
+      "title": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
+      "url": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-01T18:07:17+00:00",
+      "raw_text": "Minnesota crypto ATM ban goes into effect after reported $1M losses\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Minnesota crypto ATM ban goes into effect after reported $1M losses\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto",
+      "impact": {}
+    },
     {
       "event_id": "1603d07f-2730-4ac5-8edf-58edc0137a18",
       "source": "rss:coindesk",
@@ -6229,68 +6265,32 @@
       "timestamp_utc": "2026-07-25T13:14:18+00:00",
       "raw_text": "North Korea arrests bank hacking ring tied to crypto laundering: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"North Korea arrests bank hacking ring tied to crypto laundering: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/h",
       "impact": {}
-    },
-    {
-      "event_id": "36899136-c1df-43cf-856d-c5d575aa0bbe",
-      "source": "rss:coindesk",
-      "title": "Democratizing weather derivatives through tokenization could be crypto's most important real-world use case",
-      "url": "https://www.coindesk.com/opinion/2026/07/25/democratizing-weather-derivatives-through-tokenization-could-be-crypto-s-most-important-real-world-use-case",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-25T13:00:00+00:00",
-      "raw_text": "Democratizing weather derivatives through tokenization could be crypto's most important real-world use case",
-      "impact": {}
-    },
-    {
-      "event_id": "0748c363-958e-4536-bd28-2be57bca5705",
-      "source": "rss:cointelegraph",
-      "title": "Fidelity joins push for Senate passage of CLARITY Act",
-      "url": "https://cointelegraph.com/news/fidelity-push-senate-passage-of-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-25T11:30:15+00:00",
-      "raw_text": "Fidelity joins push for Senate passage of CLARITY Act\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fidelity joins push for Senate passage of CLARITY Act\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/regulation-lot-of-papers-clarity-act.",
-      "impact": {}
-    },
-    {
-      "event_id": "8f0fcf55-ad5c-46cf-8826-67326d30fae9",
-      "source": "rss:cointelegraph",
-      "title": "Dango’s perp DEX taps out nearly 4 months after launch",
-      "url": "https://cointelegraph.com/news/dangos-perp-dex-taps-nearly-months-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-25T10:01:26+00:00",
-      "raw_text": "Dango’s perp DEX taps out nearly 4 months after launch\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Dango’s perp DEX taps out nearly 4 months after launch\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-defi-perpetual-dex-closure.jpg\" ",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 176,
-        "avg_1h": 0.09,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 38,
+        "count": 39,
         "avg_1h": 0.03,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 107,
-        "avg_1h": 0.11,
-        "avg_24h": 0.01,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
         "count": 163,
         "avg_1h": 0.26,
         "avg_24h": -1.0,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 176,
+        "avg_1h": 0.09,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 106,
+        "avg_1h": 0.11,
+        "avg_24h": 0.01,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
