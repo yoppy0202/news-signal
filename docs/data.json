@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-08-01T15:13:25.436350+00:00",
+  "generated_at": "2026-08-01T17:10:59.194513+00:00",
   "events": [
+    {
+      "event_id": "286dfe9b-4a8e-4797-9e97-5b4e74ea21ec",
+      "source": "rss:decrypt",
+      "title": "CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: 'Nothing Is 100%'",
+      "url": "https://decrypt.co/374810/cz-warns-bitcoin-holders-70-million-coldcard-wallet-exploit",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-01T16:01:17+00:00",
+      "raw_text": "CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: 'Nothing Is 100%'\n\nThe Binance founder urged holders to spread funds across multiple wallets as Galaxy Research put the toll from the Coldcard exploit at roughly $70 million—nearly double the initial estimate.",
+      "impact": {}
+    },
+    {
+      "event_id": "29012980-f71a-482f-89be-35ae06d348b1",
+      "source": "rss:coindesk",
+      "title": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances",
+      "url": "https://www.coindesk.com/business/2026/08/01/bank-of-italy-research-suggests-stablecoins-aren-t-necessarily-cheaper-for-remittances",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-01T16:00:00+00:00",
+      "raw_text": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances",
+      "impact": {}
+    },
+    {
+      "event_id": "3ef628e6-ebac-4ff2-8954-1b0a18d56cb5",
+      "source": "rss:coindesk",
+      "title": "Bitcoin mining difficulty shrinks 14% from this year's high as plunging revenues force operators to pivot",
+      "url": "https://www.coindesk.com/business/2026/08/01/bitcoin-mining-difficulty-shrinks-14-from-this-year-s-high-as-plunging-revenues-force-operators-to-pivot",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-01T15:51:10+00:00",
+      "raw_text": "Bitcoin mining difficulty shrinks 14% from this year's high as plunging revenues force operators to pivot",
+      "impact": {}
+    },
+    {
+      "event_id": "a9674a94-c1d1-4041-a652-30e0ff87ad0d",
+      "source": "rss:coindesk",
+      "title": "SEC to review Nasdaq bitcoin options approval after CME challenge",
+      "url": "https://www.coindesk.com/policy/2026/08/01/sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-01T15:48:27+00:00",
+      "raw_text": "SEC to review Nasdaq bitcoin options approval after CME challenge",
+      "impact": {}
+    },
+    {
+      "event_id": "581100a0-e65a-4261-9396-aa145cedfe6e",
+      "source": "rss:cointelegraph",
+      "title": "Crypto PAC pours another $1M into Michigan House race",
+      "url": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-01T15:44:02+00:00",
+      "raw_text": "Crypto PAC pours another $1M into Michigan House race\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto PAC pours another $1M into Michigan House race\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-industry-votes-us.png\" /></",
+      "impact": {}
+    },
+    {
+      "event_id": "d66aa481-3d7d-4536-bd13-ec8f75570330",
+      "source": "rss:decrypt",
+      "title": "The More Americans Know About AI, the Less They Like It: Gallup",
+      "url": "https://decrypt.co/374794/more-americans-know-about-ai-less-they-like-gallup",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-01T15:01:09+00:00",
+      "raw_text": "The More Americans Know About AI, the Less They Like It: Gallup\n\nGallup says Americans are growing more skeptical of artificial intelligence, with rising concerns about job losses, businesses' use of the technology, and the technology’s growing impact.",
+      "impact": {}
+    },
     {
       "event_id": "7de6e3ce-ff49-4169-b45d-5850bcdc54e7",
       "source": "rss:coindesk",
@@ -6193,115 +6265,36 @@
       "timestamp_utc": "2026-07-25T07:40:35+00:00",
       "raw_text": "Ethereum ETFs close week in red, end 5-day inflow streak\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum ETFs close week in red, end 5-day inflow streak\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-ethereum-and-etf.jpg\" /></p>",
       "impact": {}
-    },
-    {
-      "event_id": "41907f43-806d-4de7-875e-55b63ee5d471",
-      "source": "rss:theblock",
-      "title": "Bitcoin Policy Institute, Palantir and Anduril join US State Department’s Freedom Tech Excellence Program",
-      "url": "https://www.theblock.co/post/409652/bitcoin-policy-institute-palantir-anduril-us-state-departments-freedom-tech-excellence-program?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-24T22:21:01+00:00",
-      "raw_text": "Bitcoin Policy Institute, Palantir and Anduril join US State Department’s Freedom Tech Excellence Program\n\n<p>The Bitcoin Policy Institute, Palantir and Anduril are partners in the U.S. State Department's Freedom Tech Excellence Program.</p>\n\n<p>The Bitcoin Policy Institute, Palantir and Anduril are",
-      "impact": {}
-    },
-    {
-      "event_id": "d1bb8847-b1cb-4ff4-a728-6543e8eb5556",
-      "source": "rss:bitcoinmagazine",
-      "title": "Morgan Stanley Bitcoin ETF Nearly Notches $400M in Assets",
-      "url": "https://bitcoinmagazine.com/news/morgan-stanley-bitcoin-etf-400-million",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-24T22:16:22+00:00",
-      "raw_text": "Morgan Stanley Bitcoin ETF Nearly Notches $400M in Assets\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Morgan-Stanley-Becomes-Official-First-US-Bank-To-Launch-A-Spot-Bitcoin-ETF.jpg\" style=\"displa",
-      "impact": {}
-    },
-    {
-      "event_id": "f2ae317b-ff4d-42a3-a4c6-ee261ced6468",
-      "source": "rss:decrypt",
-      "title": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
-      "url": "https://decrypt.co/374334/stocks-crypto-hyperliquid-ark-invest",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-24T22:03:16+00:00",
-      "raw_text": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything\n\nFor the first time, real-world assets—stocks, commodities, and market indices—outpaced crypto on the world's biggest decentralized derivatives exchange.",
-      "impact": {}
-    },
-    {
-      "event_id": "10cfa01b-a2cb-4c03-8390-f76222fcb601",
-      "source": "rss:cointelegraph",
-      "title": "EU authorities include HTX exchange in Russian sanctions",
-      "url": "https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "listing",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-24T21:53:05+00:00",
-      "raw_text": "EU authorities include HTX exchange in Russian sanctions\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EU authorities include HTX exchange in Russian sanctions\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-do-eus-new-sanctions-me",
-      "impact": {}
-    },
-    {
-      "event_id": "ec357f7a-57bc-483f-8eef-a313d769d016",
-      "source": "rss:cointelegraph",
-      "title": "Strive’s SATA recovers most of June decline, trades within 3% of par",
-      "url": "https://cointelegraph.com/news/strives-sata-recovers-most-of-june-decline-trades-within-3-of-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-24T21:02:22+00:00",
-      "raw_text": "Strive’s SATA recovers most of June decline, trades within 3% of par\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strive’s SATA recovers most of June decline, trades within 3% of par \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the",
-      "impact": {}
-    },
-    {
-      "event_id": "7c21553f-fc06-438e-88be-7e888398a1fa",
-      "source": "rss:bitcoinmagazine",
-      "title": "$7 Trillion Investment Giant Fidelity Backs New Crypto Clarity Act",
-      "url": "https://bitcoinmagazine.com/news/fidelity-backs-crypto-clarity-act",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-24T20:36:04+00:00",
-      "raw_text": "$7 Trillion Investment Giant Fidelity Backs New Crypto Clarity Act\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Fidelity-Clarity-Act.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href",
-      "impact": {
-        "t_plus_5m": -0.0357,
-        "t_plus_15m": -0.0405,
-        "t_plus_1h": 0.0034,
-        "t_plus_4h": -0.0169
-      }
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 175,
-        "avg_1h": 0.09,
+      "hack": {
+        "count": 38,
+        "avg_1h": 0.03,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 162,
-        "avg_1h": 0.26,
-        "avg_24h": -1.0,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 37,
-        "avg_1h": 0.03,
+      "unknown": {
+        "count": 174,
+        "avg_1h": 0.09,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
         "count": 108,
-        "avg_1h": 0.1,
+        "avg_1h": 0.11,
         "avg_24h": 0.01,
         "win_rate_1h_gt5pct": 0.0
       },
+      "narrative": {
+        "count": 164,
+        "avg_1h": 0.26,
+        "avg_24h": -1.0,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "listing": {
-        "count": 16,
+        "count": 14,
         "avg_1h": -0.1,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
