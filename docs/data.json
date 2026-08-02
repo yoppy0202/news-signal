@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-02T21:07:27.893074+00:00",
+  "generated_at": "2026-08-02T22:07:16.891789+00:00",
   "events": [
+    {
+      "event_id": "39c61ad5-3afe-4fc5-8ab6-dfe2263bce0b",
+      "source": "rss:theblock",
+      "title": "SEC keeps Nasdaq bitcoin options on hold after granting CME review",
+      "url": "https://www.theblock.co/post/410373/sec-keeps-nasdaq-bitcoin-options-on-hold-after-granting-cme-review?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-02T21:25:36+00:00",
+      "raw_text": "SEC keeps Nasdaq bitcoin options on hold after granting CME review\n\n<p>CME is arguing that the contracts are commodity option swaps subject exclusively to the CFTC's oversight rather than the SEC's. </p>\n\n<p>CME is arguing that the contracts are commodity option swaps subject exclusively to the CFTC",
+      "impact": {}
+    },
     {
       "event_id": "5963a4db-fd07-4bc4-8eb8-060e47782b41",
       "source": "rss:coindesk",
@@ -6295,32 +6307,20 @@
       "timestamp_utc": "2026-07-26T13:00:00+00:00",
       "raw_text": "U.S. regulator warns prediction markets against cutting corners in event contracts",
       "impact": {}
-    },
-    {
-      "event_id": "045fcbb2-88ba-41fe-9043-0581048e852f",
-      "source": "rss:cointelegraph",
-      "title": "South Korea’s largest bank to launch payment service on JPMorgan’s Kinexys",
-      "url": "https://cointelegraph.com/news/south-korea-bank-payment-jpmorgans-kinexys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-26T10:21:25+00:00",
-      "raw_text": "South Korea’s largest bank to launch payment service on JPMorgan’s Kinexys\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea’s largest bank to launch payment service on JPMorgan’s Kinexys\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-co",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 108,
+        "avg_1h": 0.11,
+        "avg_24h": 0.01,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 173,
         "avg_1h": 0.08,
         "avg_24h": 1.8,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 107,
-        "avg_1h": 0.11,
-        "avg_24h": 0.01,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
@@ -6330,7 +6330,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 165,
+        "count": 164,
         "avg_1h": 0.21,
         "avg_24h": -1.0,
         "win_rate_1h_gt5pct": 0.0
