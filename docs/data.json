@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-02T19:24:25.775420+00:00",
+  "generated_at": "2026-08-02T21:07:27.893074+00:00",
   "events": [
+    {
+      "event_id": "5963a4db-fd07-4bc4-8eb8-060e47782b41",
+      "source": "rss:coindesk",
+      "title": "Counting down the days: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/08/02/counting-down-the-days-state-of-crypto",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-02T18:30:00+00:00",
+      "raw_text": "Counting down the days: State of Crypto",
+      "impact": {}
+    },
     {
       "event_id": "63d87708-4e19-4e21-ae2c-0a1621d1b440",
       "source": "rss:theblock",
@@ -8,10 +20,16 @@
       "url": "https://www.theblock.co/post/410370/saylor-hints-at-strategy-bitcoin-buy-after-five-week-pause-as-strc-rate-stays-at-12-bitcoin-drive-engaged?utm_source=rss&utm_medium=rss",
       "event_type": "macro",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-02T18:10:43+00:00",
       "raw_text": "Saylor hints at Strategy bitcoin buy after five-week pause as STRC rate stays at 12%: ‘Bitcoin Drive engaged’\n\n<p>Strategy has gone five consecutive weeks without a disclosed bitcoin purchase; the firm last reported holding 843,775 BTC acquired for $63.69 billion.</p>\n\n<p>Strategy has gone five cons",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0147,
+        "t_plus_15m": 0.0217,
+        "t_plus_1h": 0.0791
+      }
     },
     {
       "event_id": "19b4146a-1580-4af9-b5dc-f9e98a6271d6",
@@ -20,10 +38,16 @@
       "url": "https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets",
       "event_type": "hack",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-02T17:18:51+00:00",
       "raw_text": "Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets\n\nGalaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pushed observed losses to roughly 1,367 BTC across 4,585 addresses.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0593,
+        "t_plus_15m": -0.018,
+        "t_plus_1h": 0.0165
+      }
     },
     {
       "event_id": "b5cb46b1-ae63-4d95-83b9-f866d7ae2a53",
@@ -6283,22 +6307,16 @@
       "timestamp_utc": "2026-07-26T10:21:25+00:00",
       "raw_text": "South Korea’s largest bank to launch payment service on JPMorgan’s Kinexys\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea’s largest bank to launch payment service on JPMorgan’s Kinexys\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-co",
       "impact": {}
-    },
-    {
-      "event_id": "d3fb5847-b969-4bf1-806c-024b316f7fab",
-      "source": "rss:coindesk",
-      "title": "Europe's high regulatory bar could spark new crypto industry M&A wave",
-      "url": "https://www.coindesk.com/policy/2026/07/26/europe-s-high-regulatory-bar-could-spark-new-crypto-industry-m-and-a-wave",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-26T10:00:00+00:00",
-      "raw_text": "Europe's high regulatory bar could spark new crypto industry M&A wave",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 173,
+        "avg_1h": 0.08,
+        "avg_24h": 1.8,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 107,
         "avg_1h": 0.11,
@@ -6309,12 +6327,6 @@
         "count": 40,
         "avg_1h": -0.01,
         "avg_24h": -0.73,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 173,
-        "avg_1h": 0.08,
-        "avg_24h": 1.8,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
