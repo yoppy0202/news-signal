@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-02T13:49:08.679441+00:00",
+  "generated_at": "2026-08-02T15:14:48.422021+00:00",
   "events": [
+    {
+      "event_id": "1a5330b1-67c7-46f5-8db4-a8d49ee7937f",
+      "source": "rss:decrypt",
+      "title": "What’s the Deal With Meta’s ‘Pervert Glasses’?",
+      "url": "https://decrypt.co/374808/whats-the-deal-with-meta-pervert-glasses",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-02T15:01:03+00:00",
+      "raw_text": "What’s the Deal With Meta’s ‘Pervert Glasses’?\n\nLawsuits, privacy complaints, secret recordings, and government investigations have put Meta’s AI glasses under scrutiny.",
+      "impact": {}
+    },
+    {
+      "event_id": "d7179b4a-9fe5-4a3a-bfb6-cf3a5a8bcddf",
+      "source": "rss:coindesk",
+      "title": "The reverse bridge: Crypto meets Wall Street using perps",
+      "url": "https://www.coindesk.com/business/2026/08/02/the-reverse-bridge-crypto-meets-wall-street-using-perps",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-02T13:00:00+00:00",
+      "raw_text": "The reverse bridge: Crypto meets Wall Street using perps",
+      "impact": {}
+    },
     {
       "event_id": "44c3092e-bc00-4bf5-97f8-330a80040de0",
       "source": "rss:coindesk",
@@ -20,10 +44,16 @@
       "url": "https://cointelegraph.com/news/bnb-chain-legal-action-ex-employee-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "hack",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BNB"
+      ],
       "timestamp_utc": "2026-08-02T11:20:06+00:00",
       "raw_text": "BNB Chain pursues legal action after ex-employee’s memecoin launch\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BNB Chain pursues legal action after ex-employee’s memecoin launch\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2318,
+        "t_plus_15m": 0.2117,
+        "t_plus_1h": 0.068
+      }
     },
     {
       "event_id": "f7454da7-656a-4866-bed7-5eaf1e4cdd30",
@@ -40,7 +70,8 @@
       "impact": {
         "t_plus_5m": 0.2153,
         "t_plus_15m": 0.1502,
-        "t_plus_1h": -0.0618
+        "t_plus_1h": -0.0618,
+        "t_plus_4h": -0.131
       }
     },
     {
@@ -58,7 +89,8 @@
       "impact": {
         "t_plus_5m": 0.4267,
         "t_plus_15m": 0.3986,
-        "t_plus_1h": -0.198
+        "t_plus_1h": -0.198,
+        "t_plus_4h": -0.2153
       }
     },
     {
@@ -71,6 +103,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-01T22:01:57+00:00",
       "raw_text": "Strategy holds STRC dividend at 12%",
+      "impact": {}
+    },
+    {
+      "event_id": "b5a5adad-4c88-4a3a-aa3d-162b899ef384",
+      "source": "rss:theblock",
+      "title": "Iran-linked exchange sent $676 million to Binance wallets in alleged sanctions-evasion operation: Reuters",
+      "url": "https://www.theblock.co/post/410355/iran-linked-exchange-sent-676-million-to-binance-in-alleged-sanctions-evasion-operation-reuters?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-01T21:18:45+00:00",
+      "raw_text": "Iran-linked exchange sent $676 million to Binance wallets in alleged sanctions-evasion operation: Reuters\n\n<p>Dubai-based Shelbit processed over $4 billion since May 2024 through a network tied to Iranian gambling sites, the central bank, and the IRGC, per Reuters.</p>\n\n<p>Dubai-based Shelbit proces",
       "impact": {}
     },
     {
@@ -6250,68 +6294,32 @@
       "timestamp_utc": "2026-07-25T21:01:44+00:00",
       "raw_text": "Robinhood in talks with Crypto.com over prediction markets: WSJ\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Robinhood in talks with Crypto.com over prediction markets: WSJ\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-when-predictio",
       "impact": {}
-    },
-    {
-      "event_id": "a2383670-304f-491f-8adf-9bd27f0b907e",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program",
-      "url": "https://cointelegraph.com/news/bitcoin-policy-institute-state-department-program?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-25T18:15:44+00:00",
-      "raw_text": "Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar",
-      "impact": {}
-    },
-    {
-      "event_id": "c1e8aba0-cce5-432c-a1c7-ee7496b631b8",
-      "source": "rss:theblock",
-      "title": "Robinhood in talks to add Crypto.com prediction markets as Kalshi rivalry grows: WSJ",
-      "url": "https://www.theblock.co/post/409665/robinhood-in-talks-to-add-crypto-com-prediction-markets-as-kalshi-rivalry-grows-wsj?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-25T17:27:20+00:00",
-      "raw_text": "Robinhood in talks to add Crypto.com prediction markets as Kalshi rivalry grows: WSJ\n\n<p>A deal would let Robinhood customers trade yes-or-no contracts offered through Crypto.com’s derivatives business, though no deal has yet been reached.</p>\n\n<p>A deal would let Robinhood customers trade yes-or-no",
-      "impact": {}
-    },
-    {
-      "event_id": "5ff08c6f-a001-400a-9d40-9d2da505852b",
-      "source": "rss:coindesk",
-      "title": "Russia’s largest bank Sberbank plans crypto trading infrastructure by December",
-      "url": "https://www.coindesk.com/business/2026/07/25/russia-s-largest-bank-sberbank-plans-crypto-trading-infrastructure-by-december",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-25T16:59:36+00:00",
-      "raw_text": "Russia’s largest bank Sberbank plans crypto trading infrastructure by December",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "hack": {
-        "count": 40,
-        "avg_1h": -0.03,
-        "avg_24h": -0.73,
+      "macro": {
+        "count": 106,
+        "avg_1h": 0.11,
+        "avg_24h": 0.01,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 175,
+        "count": 173,
         "avg_1h": 0.08,
         "avg_24h": 1.8,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 164,
-        "avg_1h": 0.21,
-        "avg_24h": -1.0,
+      "hack": {
+        "count": 40,
+        "avg_1h": -0.01,
+        "avg_24h": -0.73,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 105,
-        "avg_1h": 0.11,
-        "avg_24h": 0.01,
+      "narrative": {
+        "count": 165,
+        "avg_1h": 0.21,
+        "avg_24h": -1.0,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
