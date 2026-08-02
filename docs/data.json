@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-02T17:11:31.452654+00:00",
+  "generated_at": "2026-08-02T19:24:25.775420+00:00",
   "events": [
+    {
+      "event_id": "63d87708-4e19-4e21-ae2c-0a1621d1b440",
+      "source": "rss:theblock",
+      "title": "Saylor hints at Strategy bitcoin buy after five-week pause as STRC rate stays at 12%: ‘Bitcoin Drive engaged’",
+      "url": "https://www.theblock.co/post/410370/saylor-hints-at-strategy-bitcoin-buy-after-five-week-pause-as-strc-rate-stays-at-12-bitcoin-drive-engaged?utm_source=rss&utm_medium=rss",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-02T18:10:43+00:00",
+      "raw_text": "Saylor hints at Strategy bitcoin buy after five-week pause as STRC rate stays at 12%: ‘Bitcoin Drive engaged’\n\n<p>Strategy has gone five consecutive weeks without a disclosed bitcoin purchase; the firm last reported holding 843,775 BTC acquired for $63.69 billion.</p>\n\n<p>Strategy has gone five cons",
+      "impact": {}
+    },
+    {
+      "event_id": "19b4146a-1580-4af9-b5dc-f9e98a6271d6",
+      "source": "rss:decrypt",
+      "title": "Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets",
+      "url": "https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-02T17:18:51+00:00",
+      "raw_text": "Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets\n\nGalaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pushed observed losses to roughly 1,367 BTC across 4,585 addresses.",
+      "impact": {}
+    },
+    {
+      "event_id": "b5cb46b1-ae63-4d95-83b9-f866d7ae2a53",
+      "source": "rss:coindesk",
+      "title": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
+      "url": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-02T17:00:00+00:00",
+      "raw_text": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
+      "impact": {}
+    },
     {
       "event_id": "a40cc6d2-6a7a-46c8-bd85-a9763570d178",
       "source": "rss:coindesk",
@@ -88,7 +124,8 @@
       "impact": {
         "t_plus_5m": 0.2318,
         "t_plus_15m": 0.2117,
-        "t_plus_1h": 0.068
+        "t_plus_1h": 0.068,
+        "t_plus_4h": 0.5819
       }
     },
     {
@@ -6258,68 +6295,32 @@
       "timestamp_utc": "2026-07-26T10:00:00+00:00",
       "raw_text": "Europe's high regulatory bar could spark new crypto industry M&A wave",
       "impact": {}
-    },
-    {
-      "event_id": "5f06dad4-9ab3-42e2-a937-9fdd0b73552c",
-      "source": "rss:coindesk",
-      "title": "Shiba Inu surges 36% as South Korean traders fuel mystery rally",
-      "url": "https://www.coindesk.com/markets/2026/07/26/shiba-inu-surges-36-as-south-korean-traders-fuel-mystery-rally",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-26T07:29:45+00:00",
-      "raw_text": "Shiba Inu surges 36% as South Korean traders fuel mystery rally",
-      "impact": {}
-    },
-    {
-      "event_id": "f97f881b-6608-4a83-8324-42f4989bde12",
-      "source": "rss:cointelegraph",
-      "title": "BitMart to wind down exchange, end trading by Aug. 26",
-      "url": "https://cointelegraph.com/news/bitmart-wind-down-exchange-end-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-26T07:11:27+00:00",
-      "raw_text": "BitMart to wind down exchange, end trading by Aug. 26\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitMart to wind down exchange, end trading by Aug. 26\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/closed-exchange.jpg\" /></p><p>Crypto ",
-      "impact": {}
-    },
-    {
-      "event_id": "fa703fa8-79fb-41ec-943e-3f0ff63c5422",
-      "source": "rss:coindesk",
-      "title": "Crypto exchange BitMart to shut down after nine years, BMX token crashes 58%",
-      "url": "https://www.coindesk.com/markets/2026/07/26/crypto-exchange-bitmart-to-shut-down-after-nine-years-bmx-token-crashes-58",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-26T06:59:51+00:00",
-      "raw_text": "Crypto exchange BitMart to shut down after nine years, BMX token crashes 58%",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 175,
-        "avg_1h": 0.08,
-        "avg_24h": 1.8,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 166,
-        "avg_1h": 0.21,
-        "avg_24h": -1.0,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 105,
+        "count": 107,
         "avg_1h": 0.11,
         "avg_24h": 0.01,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 39,
+        "count": 40,
         "avg_1h": -0.01,
         "avg_24h": -0.73,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 173,
+        "avg_1h": 0.08,
+        "avg_24h": 1.8,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 165,
+        "avg_1h": 0.21,
+        "avg_24h": -1.0,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
