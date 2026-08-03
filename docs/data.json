@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-03T00:08:58.165027+00:00",
+  "generated_at": "2026-08-03T03:52:02.047887+00:00",
   "events": [
+    {
+      "event_id": "feb8da5e-be21-4470-93b8-c44a940a0158",
+      "source": "rss:cointelegraph",
+      "title": "Coldcard exploit sparks Bitcoin flight, ‘bullish’ crypto consolidation: Hodler’s Digest, August 2",
+      "url": "https://cointelegraph.com/magazine/coldcard-exploit-sparks-bitcoin-flight-clarity-act-no-vote-or-no-vote-hodlers-digest-august-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-02T23:44:04+00:00",
+      "raw_text": "Coldcard exploit sparks Bitcoin flight, ‘bullish’ crypto consolidation: Hodler’s Digest, August 2\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard exploit sparks Bitcoin flight, ‘bullish’ crypto consolidation: Hodler’s Digest, August 2\" class=\"type:primaryImage\" src=",
+      "impact": {}
+    },
     {
       "event_id": "39c61ad5-3afe-4fc5-8ab6-dfe2263bce0b",
       "source": "rss:theblock",
@@ -6297,22 +6309,16 @@
         "t_plus_1h": 0.1874,
         "t_plus_4h": 0.4431
       }
-    },
-    {
-      "event_id": "d4cc4e89-b5b8-46df-9623-e23a020cc8af",
-      "source": "rss:coindesk",
-      "title": "U.S. regulator warns prediction markets against cutting corners in event contracts",
-      "url": "https://www.coindesk.com/policy/2026/07/24/u-s-regulator-warns-prediction-markets-against-cutting-corners-in-event-contracts",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-26T13:00:00+00:00",
-      "raw_text": "U.S. regulator warns prediction markets against cutting corners in event contracts",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 41,
+        "avg_1h": -0.01,
+        "avg_24h": -0.73,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 108,
         "avg_1h": 0.11,
@@ -6325,14 +6331,8 @@
         "avg_24h": 1.8,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 40,
-        "avg_1h": -0.01,
-        "avg_24h": -0.73,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 164,
+        "count": 163,
         "avg_1h": 0.21,
         "avg_24h": -1.0,
         "win_rate_1h_gt5pct": 0.0
