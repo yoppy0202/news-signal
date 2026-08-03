@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-03T19:52:18.806781+00:00",
+  "generated_at": "2026-08-03T21:17:02.666468+00:00",
   "events": [
+    {
+      "event_id": "727f6125-4ddd-41e2-8aba-d1241ab958a1",
+      "source": "rss:cointelegraph",
+      "title": "Bessent’s top crypto adviser Tyler Williams exits US Treasury: Report",
+      "url": "https://cointelegraph.com/news/bessent-top-crypto-adviser-tyler-williams-leaves-us-treasury-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T20:29:47+00:00",
+      "raw_text": "Bessent’s top crypto adviser Tyler Williams exits US Treasury: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bessent’s top crypto adviser Tyler Williams exits US Treasury: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/polit",
+      "impact": {}
+    },
+    {
+      "event_id": "4335f106-ab04-44a6-9cb5-99cb7db74f86",
+      "source": "rss:cointelegraph",
+      "title": "FalconX cuts 10% of workforce amid prolonged crypto market slump: Report",
+      "url": "https://cointelegraph.com/news/falconx-workforce-reduction-amid-crypto-market-slump-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T19:44:48+00:00",
+      "raw_text": "FalconX cuts 10% of workforce amid prolonged crypto market slump: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"FalconX cuts 10% of workforce amid prolonged crypto market slump: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
+      "impact": {}
+    },
+    {
+      "event_id": "1be25654-12eb-4760-959d-6390823a6f3e",
+      "source": "rss:decrypt",
+      "title": "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum",
+      "url": "https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T19:17:37+00:00",
+      "raw_text": "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum\n\nBlackRock launched a tokenized money market fund for stablecoin reserves that uses Solana alongside Ethereum.",
+      "impact": {}
+    },
     {
       "event_id": "04eef877-5ff9-4ed1-bf81-7b1e9b07bd3c",
       "source": "rss:bitcoinmagazine",
@@ -8,10 +44,15 @@
       "url": "https://bitcoinmagazine.com/news/american-bitcoin-reports-loss-boosts-stash",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-03T19:03:26+00:00",
       "raw_text": "American Bitcoin Reports Quarterly Loss But Boosts Bitcoin Stash\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/03/American-Bitcoin-Expands-Treasury-to-6500-BTC-as-Eric-Trump-Accuses-Big-Banks-of-Lobby",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0244,
+        "t_plus_15m": 0.0953
+      }
     },
     {
       "event_id": "3ebe1aa2-9fe7-449e-b2eb-12dc15b84f0e",
@@ -56,10 +97,16 @@
       "url": "https://decrypt.co/374862/xrp-holders-borrow-ripple-rlusd-ethereum-without-selling",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-08-03T17:51:03+00:00",
       "raw_text": "XRP Holders Can Now Borrow Ripple's RLUSD on Ethereum Without Selling Their Crypto\n\nFlare's FXRP has been approved as collateral in a $280 million RLUSD lending vault, allowing XRP holders to tap Ethereum's lending markets.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1621,
+        "t_plus_15m": -0.0342,
+        "t_plus_1h": -0.0432
+      }
     },
     {
       "event_id": "24583434-f2b3-4390-bdd4-101fb2db74d1",
@@ -111,7 +158,8 @@
       "raw_text": "Solo Bitcoin Miner Hits Jackpot, Scoring $200K BTC Reward\n\nCKPool's developer put the winner's hashrate at a “wildly variable” peak of 100 PH, noting that it was probably rented.",
       "impact": {
         "t_plus_5m": -0.009,
-        "t_plus_15m": 0.233
+        "t_plus_15m": 0.233,
+        "t_plus_1h": 0.109
       }
     },
     {
@@ -550,6 +598,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-03T10:41:08+00:00",
       "raw_text": "Bithumb now targets 2028 IPO after major internal restructuring",
+      "impact": {}
+    },
+    {
+      "event_id": "6b2c9d2b-ef4a-4233-b5b2-be78fef05aa8",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin flirts with $64,000 as stocks start strong in August",
+      "url": "https://www.coindesk.com/business/2026/08/03/live-updates-traders-say-bitcoin-sell-off-from-usd65-000-points-to-thin-volume-not-panic-selling",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T10:29:23+00:00",
+      "raw_text": "Live updates: Bitcoin flirts with $64,000 as stocks start strong in August",
       "impact": {}
     },
     {
@@ -6253,61 +6313,6 @@
       "timestamp_utc": "2026-07-27T16:24:09+00:00",
       "raw_text": "Bitcoin ETFs Bled Nearly Half a Billion Dollars End of Last Week, Reversing Sentiment\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-ETFs-See-Outflows.jpg\" style=\"display: block; margin: 1em",
       "impact": {}
-    },
-    {
-      "event_id": "1aebb3b8-4188-402e-8b23-3f60eb2bb0e9",
-      "source": "rss:theblock",
-      "title": "Ondo launches new execution network, calling it ‘evolution’ of Ondo Chain",
-      "url": "https://www.theblock.co/post/409792/ondo-launches-new-execution-network-calling-it-evolution-of-ondo-chain?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-27T16:00:03+00:00",
-      "raw_text": "Ondo launches new execution network, calling it ‘evolution’ of Ondo Chain\n\n<p>CEO Ian De Bode said the Ondo Network is the \"evolution\" of the company's earlier Ondo Chain initiative and now underpins Ondo Perps.</p>\n\n<p>CEO Ian De Bode said the Ondo Network is the \"evolution\" of the company's earlie",
-      "impact": {}
-    },
-    {
-      "event_id": "a4195076-f67a-4ea6-b7d7-ac54a5652bad",
-      "source": "rss:decrypt",
-      "title": "Bitmine Nears Goal of Controlling 5% of Ethereum Supply With $11.8 Billion Treasury",
-      "url": "https://decrypt.co/374389/bitmine-nears-5-percent-ethereum-supply-with-11-8-billion-treasury",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-07-27T15:42:54+00:00",
-      "raw_text": "Bitmine Nears Goal of Controlling 5% of Ethereum Supply With $11.8 Billion Treasury\n\nThe company says it now holds 5.79 million ETH, equal to 4.8% of the cryptocurrency's circulating supply, while expanding its staking operations and share buyback program.",
-      "impact": {
-        "t_plus_5m": -0.4848,
-        "t_plus_15m": -0.5517,
-        "t_plus_1h": 0.1381,
-        "t_plus_4h": 0.6032
-      }
-    },
-    {
-      "event_id": "91931b8f-c17e-4ca1-a910-4c313610b1b6",
-      "source": "rss:bitcoinmagazine",
-      "title": "Russia’s Sberbank Sets December Deadline for Crypto Buildout: Report",
-      "url": "https://bitcoinmagazine.com/news/russia-to-build-out-crypto-infrastructure",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-27T15:39:39+00:00",
-      "raw_text": "Russia’s Sberbank Sets December Deadline for Crypto Buildout: Report\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Russian-Sberbank-Plans-Crypto-Wallet-and-Digital-Depository-by-December.jpg\" style",
-      "impact": {}
-    },
-    {
-      "event_id": "da2f0c28-9b62-446d-8eab-3980c688be58",
-      "source": "rss:decrypt",
-      "title": "Circle Buys IBM Blockchain Patent Estate—And Becomes America's Biggest Holder",
-      "url": "https://decrypt.co/374388/circle-ibm-blockchain-patent-estate",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-27T15:35:25+00:00",
-      "raw_text": "Circle Buys IBM Blockchain Patent Estate—And Becomes America's Biggest Holder\n\nThe USDC issuer acquired nearly 1,000 patents from IBM in a single deal, but IBM is still backing USDC's most dangerous rival.",
-      "impact": {}
     }
   ],
   "stats": {
@@ -6318,16 +6323,16 @@
         "avg_24h": 0.01,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 175,
-        "avg_1h": 0.07,
-        "avg_24h": 0.39,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 157,
+        "count": 156,
         "avg_1h": 0.25,
         "avg_24h": -1.0,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 176,
+        "avg_1h": 0.06,
+        "avg_24h": 0.39,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
