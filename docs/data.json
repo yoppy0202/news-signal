@@ -1,6 +1,342 @@
 {
-  "generated_at": "2026-08-03T15:11:18.012997+00:00",
+  "generated_at": "2026-08-03T18:01:26.078350+00:00",
   "events": [
+    {
+      "event_id": "9489e0e1-35ee-4937-9b81-242d5c184f6c",
+      "source": "rss:decrypt",
+      "title": "Solo Bitcoin Miner Hits Jackpot, Scoring $200K BTC Reward",
+      "url": "https://decrypt.co/374859/solo-bitcoin-miner-hits-jackpot-scoring-200k-btc-reward",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T17:12:08+00:00",
+      "raw_text": "Solo Bitcoin Miner Hits Jackpot, Scoring $200K BTC Reward\n\nCKPool's developer put the winner's hashrate at a “wildly variable” peak of 100 PH, noting that it was probably rented.",
+      "impact": {}
+    },
+    {
+      "event_id": "e209fb32-4182-491d-abeb-08368bc0c827",
+      "source": "rss:theblock",
+      "title": "Jameson Lopp says Coldcard exploit exposes limits of Bitcoin’s ‘don’t trust, verify’ mantra",
+      "url": "https://www.theblock.co/post/410446/jameson-lopp-coldcard-exploit-exposes-limits-bitcoins-dont-trust-verify-mantra?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T16:59:42+00:00",
+      "raw_text": "Jameson Lopp says Coldcard exploit exposes limits of Bitcoin’s ‘don’t trust, verify’ mantra\n\n<p>Lopp said AI is reshaping wallet security by helping attackers uncover bugs and developers audit code faster.</p>\n\n<p>Lopp said AI is reshaping wallet security by helping attackers uncover bugs and develo",
+      "impact": {}
+    },
+    {
+      "event_id": "8823a984-2cb5-4429-b90e-10d49f9b6a6e",
+      "source": "rss:theblock",
+      "title": "Michael Saylor says he’s never sold his personal bitcoin after Strategy dumps more BTC",
+      "url": "https://www.theblock.co/post/410451/michael-saylor-says-never-sold-his-personal-bitcoin-strategy-dumps-more-btc?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T16:57:22+00:00",
+      "raw_text": "Michael Saylor says he’s never sold his personal bitcoin after Strategy dumps more BTC\n\n<p>Strategy Inc disclosed that it sold 1,638 bitcoin last week for $104.7 million, reducing its total holdings to 842,138 BTC.</p>\n\n<p>Strategy Inc disclosed that it sold 1,638 bitcoin last week for $104.7 millio",
+      "impact": {}
+    },
+    {
+      "event_id": "d257b758-8b96-4d67-9d0f-11aab9620f2d",
+      "source": "rss:cointelegraph",
+      "title": "Kenya moves 30 million academic credentials onto Avalanche blockchain",
+      "url": "https://cointelegraph.com/news/kenya-avalanche-blockchain-academic-credentials-verification?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T16:46:22+00:00",
+      "raw_text": "Kenya moves 30 million academic credentials onto Avalanche blockchain\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kenya moves 30 million academic credentials onto Avalanche blockchain\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bookk",
+      "impact": {}
+    },
+    {
+      "event_id": "95f94319-9262-4eb0-8db7-49666b229b76",
+      "source": "rss:decrypt",
+      "title": "Trump Family’s American Bitcoin Tops 8,000 BTC After Record Mining Quarter",
+      "url": "https://decrypt.co/374850/trump-american-bitcoin-8000-btc-record-mining-quarter",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T16:29:15+00:00",
+      "raw_text": "Trump Family’s American Bitcoin Tops 8,000 BTC After Record Mining Quarter\n\nThe Hut 8 subsidiary increased its Bitcoin holdings by 14% in the second quarter even as Bitcoin’s price fell.",
+      "impact": {}
+    },
+    {
+      "event_id": "7cdd263b-7ad1-4ce7-9aac-64d680ed1a70",
+      "source": "rss:cointelegraph",
+      "title": "BlackRock launches tokenized money market funds for stablecoin reserves",
+      "url": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-funds-stablecoin-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T16:13:12+00:00",
+      "raw_text": "BlackRock launches tokenized money market funds for stablecoin reserves\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BlackRock launches tokenized money market funds for stablecoin reserves\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/h",
+      "impact": {}
+    },
+    {
+      "event_id": "d75bb1e9-403a-48aa-bd79-601d95e38f25",
+      "source": "rss:decrypt",
+      "title": "Tom Lee’s Bitmine Buys More Ethereum, Adds to Stock Buyback",
+      "url": "https://decrypt.co/374836/tom-lee-bitmine-buys-more-ethereum-adds-stock-buyback",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T15:31:43+00:00",
+      "raw_text": "Tom Lee’s Bitmine Buys More Ethereum, Adds to Stock Buyback\n\nThe crypto treasury company says it added another 10,399 ETH last week, bringing its holdings to nearly 5.8 million ETH as it pushes toward its goal of owning 5% of Ethereum's circulating supply.",
+      "impact": {}
+    },
+    {
+      "event_id": "438ff22f-42c7-4742-9875-1aaae3805bb4",
+      "source": "rss:coindesk",
+      "title": "Trump-linked American Bitcoin president Matt Prusak departs for Giga Energy",
+      "url": "https://www.coindesk.com/business/2026/08/03/trump-linked-american-bitcoin-president-matt-prusak-departs-for-giga-energy",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T15:24:45+00:00",
+      "raw_text": "Trump-linked American Bitcoin president Matt Prusak departs for Giga Energy",
+      "impact": {}
+    },
+    {
+      "event_id": "16a6efdd-8c99-496e-a22b-4e15b3046945",
+      "source": "rss:cointelegraph",
+      "title": "Hashdex to shut smallest Bitcoin ETF after more than two years",
+      "url": "https://cointelegraph.com/news/hashdex-to-shut-smallest-bitcoin-etf-after-more-than-two-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T15:24:43+00:00",
+      "raw_text": "Hashdex to shut smallest Bitcoin ETF after more than two years\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hashdex to shut smallest Bitcoin ETF after more than two years\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/closed-exchange.jpg",
+      "impact": {}
+    },
+    {
+      "event_id": "29af237f-44cd-425c-83e9-d5c5fa9dd1d8",
+      "source": "rss:bitcoinmagazine",
+      "title": "Strategy Sells Bitcoin After Five Weeks Without Buying",
+      "url": "https://bitcoinmagazine.com/news/strategy-sells-bitcoin-after-buying-pause",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T15:17:39+00:00",
+      "raw_text": "Strategy Sells Bitcoin After Five Weeks Without Buying\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Strategys-MSTR-Michael-Saylor-Says-STRC-is-Going-Viral-After-8.5-Billion-Run‑Up-scaled.jpg\" styl",
+      "impact": {}
+    },
+    {
+      "event_id": "12306804-887b-4c7a-bbb7-490ca8e51944",
+      "source": "rss:coindesk",
+      "title": "U.S.-Japan intervention revives yen carry trade fears for bitcoin",
+      "url": "https://www.coindesk.com/markets/2026/08/03/u-s-japan-intervention-revives-yen-carry-trade-fears-for-bitcoin",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T14:46:08+00:00",
+      "raw_text": "U.S.-Japan intervention revives yen carry trade fears for bitcoin",
+      "impact": {}
+    },
+    {
+      "event_id": "cb76333a-c997-465c-9f5e-05d41bf0485b",
+      "source": "rss:cointelegraph",
+      "title": "US hints at more yen intervention: Five things to know in Bitcoin this week",
+      "url": "https://cointelegraph.com/markets/us-hints-at-more-yen-intervention-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T14:11:26+00:00",
+      "raw_text": "US hints at more yen intervention: Five things to know in Bitcoin this week\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US hints at more yen intervention: Five things to know in Bitcoin this week\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-",
+      "impact": {}
+    },
+    {
+      "event_id": "5065102e-b8b4-4dc2-a154-5f7fe7ef1ca1",
+      "source": "rss:bitcoinmagazine",
+      "title": "Coldcard Bitcoin Theft Continues, Now Estimated Over $114 Million In Total Stolen",
+      "url": "https://bitcoinmagazine.com/news/coldcard-bitcoin-theft-continues",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T14:05:38+00:00",
+      "raw_text": "Coldcard Bitcoin Theft Continues, Now Estimated Over $114 Million In Total Stolen\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Coldcard-Bitcoin-Theft-Continues.jpg\" style=\"display: block; margin: ",
+      "impact": {}
+    },
+    {
+      "event_id": "6c3acadc-71a2-4214-9cb8-0ea68742534b",
+      "source": "rss:coindesk",
+      "title": "Circle slides after Morgan Stanley downgrade, cut in price target",
+      "url": "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T13:59:50+00:00",
+      "raw_text": "Circle slides after Morgan Stanley downgrade, cut in price target",
+      "impact": {}
+    },
+    {
+      "event_id": "90df2ef0-e7c6-4248-b6b1-2c7c9c3f9eec",
+      "source": "rss:coindesk",
+      "title": "Bernstein sees another leg lower for crypto markets if Clarity Act stalls",
+      "url": "https://www.coindesk.com/policy/2026/08/03/bernstein-sees-another-leg-lower-for-crypto-markets-if-clarity-act-stalls",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T13:49:40+00:00",
+      "raw_text": "Bernstein sees another leg lower for crypto markets if Clarity Act stalls",
+      "impact": {}
+    },
+    {
+      "event_id": "b4ea3d64-a0af-4cc1-8d3a-9ad842520998",
+      "source": "rss:theblock",
+      "title": "Tom Lee says ether outperformed Nasdaq 100 in July as Bitmine adds 10,399 ETH",
+      "url": "https://www.theblock.co/post/410441/tom-lee-says-ether-outperformed-nasdaq-100-july-bitmine-adds-10399-eth?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T13:48:47+00:00",
+      "raw_text": "Tom Lee says ether outperformed Nasdaq 100 in July as Bitmine adds 10,399 ETH\n\n<p>Bitmine expanded its ether treasury to 5.8 million ETH tokens as Tom Lee highlighted July's outperformance against the Nasdaq 100.</p>\n\n<p>Bitmine expanded its ether treasury to 5.8 million ETH tokens as Tom Lee highli",
+      "impact": {}
+    },
+    {
+      "event_id": "45b70e4a-e4dc-48a9-8d83-5affd722e741",
+      "source": "rss:cointelegraph",
+      "title": "How Fake World Assets and onchain gacha became crypto’s latest craze",
+      "url": "https://cointelegraph.com/magazine/how-fake-world-assets-and-online-gacha-became-cryptos-latest-craze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T13:30:00+00:00",
+      "raw_text": "How Fake World Assets and onchain gacha became crypto’s latest craze\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"How Fake World Assets and onchain gacha became crypto’s latest craze\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/how-fak",
+      "impact": {}
+    },
+    {
+      "event_id": "9aedbb7f-82d5-48ce-8621-357b8f7dcecb",
+      "source": "rss:coindesk",
+      "title": "BlackRock expands tokenized cash with new blockchain-based money market offerings",
+      "url": "https://www.coindesk.com/business/2026/08/03/blackrock-expands-tokenized-cash-with-new-blockchain-based-money-market-offerings",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T13:15:46+00:00",
+      "raw_text": "BlackRock expands tokenized cash with new blockchain-based money market offerings",
+      "impact": {}
+    },
+    {
+      "event_id": "42f80226-72cf-4c19-9ce8-f63489abf089",
+      "source": "rss:decrypt",
+      "title": "Morning Minute: The Coldcard Bitcoin Hack Nears $114 Million in Potential Losses",
+      "url": "https://decrypt.co/374830/morning-minute-the-coldcard-bitcoin-hack-nears-114-million-in-potential-losses",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T13:11:19+00:00",
+      "raw_text": "Morning Minute: The Coldcard Bitcoin Hack Nears $114 Million in Potential Losses\n\nSelf-custody is under attack, and it's becoming increasingly clear that AI is one of crypto's leading threats.",
+      "impact": {}
+    },
+    {
+      "event_id": "ad5dddf7-145e-47dc-9545-8d978555903e",
+      "source": "rss:theblock",
+      "title": "Eric Trump’s American Bitcoin treasury tops 8,000 BTC as Q2 mining production hits record",
+      "url": "https://www.theblock.co/post/410426/eric-trumps-american-bitcoin-treasury-tops-8000-btc-as-q2-mining-production-hits-record?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T13:03:00+00:00",
+      "raw_text": "Eric Trump’s American Bitcoin treasury tops 8,000 BTC as Q2 mining production hits record\n\n<p>American Bitcoin expanded its reserve to 8,002 BTC after a record 932 BTC mined in Q2, with revenue rising 8% to $67 million.</p>\n\n<p>American Bitcoin expanded its reserve to 8,002 BTC after a record 932 BT",
+      "impact": {}
+    },
+    {
+      "event_id": "d8925a73-1e55-4255-a6c3-227e83005593",
+      "source": "rss:coindesk",
+      "title": "Tom Lee's Bitmine bought more ether, added to stock buyback last week",
+      "url": "https://www.coindesk.com/business/2026/08/03/bitmine-bought-more-ether-added-to-stock-buyback-last-week",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T12:53:21+00:00",
+      "raw_text": "Tom Lee's Bitmine bought more ether, added to stock buyback last week",
+      "impact": {}
+    },
+    {
+      "event_id": "857feaeb-b43e-4144-9d2b-6167382d14b8",
+      "source": "rss:decrypt",
+      "title": "Strategy Sells $105M in Bitcoin as Dollar Reserve Hits $4B",
+      "url": "https://decrypt.co/374831/strategy-sells-105m-in-bitcoin-as-dollar-reserve-hits-4b",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T12:44:29+00:00",
+      "raw_text": "Strategy Sells $105M in Bitcoin as Dollar Reserve Hits $4B\n\nHalf the proceeds funded preferred dividends and half went into an $81 million STRC buyback, its second in as many weeks.",
+      "impact": {}
+    },
+    {
+      "event_id": "246438c1-3696-4cff-9c9c-3e23b37fb7dd",
+      "source": "rss:cointelegraph",
+      "title": "Strategy sells 1,638 Bitcoin to fund dividends and STRC repurchases",
+      "url": "https://cointelegraph.com/news/strategy-sells-bitcoin-dividend-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T12:27:07+00:00",
+      "raw_text": "Strategy sells 1,638 Bitcoin to fund dividends and STRC repurchases\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy sells 1,638 Bitcoin to fund dividends and STRC repurchases\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/michael-s",
+      "impact": {}
+    },
+    {
+      "event_id": "1d0bde81-ba77-4c2d-8999-e1fbe531d991",
+      "source": "rss:cointelegraph",
+      "title": "Bithumb sets 2028 IPO timetable as it overhauls internal controls",
+      "url": "https://cointelegraph.com/news/bithumb-ipo-timetable-internal-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T12:21:19+00:00",
+      "raw_text": "Bithumb sets 2028 IPO timetable as it overhauls internal controls\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bithumb sets 2028 IPO timetable as it overhauls internal controls\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bithumbnig",
+      "impact": {}
+    },
+    {
+      "event_id": "14830117-1c7d-4408-94cf-e05c2403591e",
+      "source": "rss:coindesk",
+      "title": "Strategy sold another $105 million of bitcoin last week, repurchased $81.2 million of STRC",
+      "url": "https://www.coindesk.com/markets/2026/08/03/strategy-sold-another-usd105-million-of-bitcoin-last-week-repurchased-usd81-2-million-of-strc",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T12:17:10+00:00",
+      "raw_text": "Strategy sold another $105 million of bitcoin last week, repurchased $81.2 million of STRC",
+      "impact": {}
+    },
+    {
+      "event_id": "0f1003ea-b1eb-4dfd-8705-b194a27ac4b5",
+      "source": "rss:theblock",
+      "title": "Michael Saylor’s Strategy sells another 1,638 BTC for $105 million, reducing total holdings to 842,138 BTC",
+      "url": "https://www.theblock.co/post/410414/michael-saylors-strategy-sells-another-1638-btc-for-105-million-reducing-total-holdings-to-842138-btc?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T12:13:30+00:00",
+      "raw_text": "Michael Saylor’s Strategy sells another 1,638 BTC for $105 million, reducing total holdings to 842,138 BTC\n\n<p>Strategy's total holdings account for around 4% of the 21 million bitcoin supply cap — worth roughly $53 billion.</p>\n\n<p>Strategy's total holdings account for around 4% of the 21 million b",
+      "impact": {}
+    },
+    {
+      "event_id": "83a6ae2e-b222-4af6-9a72-5d510a83ff8e",
+      "source": "rss:cointelegraph",
+      "title": "CLARITY Act failure could send crypto valuations lower: Bernstein",
+      "url": "https://cointelegraph.com/news/clarity-act-failure-crypto-valuations-lower-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T12:07:42+00:00",
+      "raw_text": "CLARITY Act failure could send crypto valuations lower: Bernstein\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CLARITY Act failure could send crypto valuations lower: Bernstein\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/transparency-",
+      "impact": {}
+    },
+    {
+      "event_id": "9062afc4-437e-4f07-bf2f-9bb5f8069475",
+      "source": "rss:coindesk",
+      "title": "Bitget set to exit Japan, close all remaining positions by year-end",
+      "url": "https://www.coindesk.com/policy/2026/08/03/bitget-set-to-exit-japan-close-all-remaining-positions-by-year-end",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T12:03:41+00:00",
+      "raw_text": "Bitget set to exit Japan, close all remaining positions by year-end",
+      "impact": {}
+    },
     {
       "event_id": "c887ffb2-24c1-4cc3-92b4-9bfef5e5bbed",
       "source": "rss:theblock",
@@ -20,10 +356,16 @@
       "url": "https://cointelegraph.com/news/trumps-american-bitcoin-output-narrower-q2-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-03T11:40:09+00:00",
       "raw_text": "Trumps’ American Bitcoin reports record BTC output, narrower Q2 loss\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trumps’ American Bitcoin reports record BTC output, narrower Q2 loss\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/crypto-",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2129,
+        "t_plus_15m": 0.1439,
+        "t_plus_1h": 0.1061
+      }
     },
     {
       "event_id": "816aa616-8e5e-457b-af5d-1e02e8b13dc3",
@@ -86,6 +428,18 @@
       "impact": {}
     },
     {
+      "event_id": "52988163-60bf-4815-be67-f9f2d37f17a1",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin rises above $63,000 as stocks surge to start August",
+      "url": "https://www.coindesk.com/business/2026/08/03/live-updates-traders-say-bitcoin-sell-off-from-usd65-000-points-to-thin-volume-not-panic-selling",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-03T10:29:23+00:00",
+      "raw_text": "Live updates: Bitcoin rises above $63,000 as stocks surge to start August",
+      "impact": {}
+    },
+    {
       "event_id": "83305f77-09f7-451b-ba4a-6001522e2a7e",
       "source": "rss:coindesk",
       "title": "Live updates: Traders say bitcoin sell-off from $65,000 points to thin volume, not panic selling",
@@ -116,10 +470,17 @@
       "url": "https://decrypt.co/374820/coldcard-losses-near-114m-as-small-bitcoin-transfers-spike",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-03T10:15:37+00:00",
       "raw_text": "Coldcard Losses Near $114M as Small Bitcoin Transfers Spike\n\nTransfers of less than 1 BTC hit levels last seen days after the FTX collapse, while Galaxy Research flagged a likely fourth wave of thefts.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.3372,
+        "t_plus_15m": 0.3103,
+        "t_plus_1h": 0.123,
+        "t_plus_4h": 1.1991
+      }
     },
     {
       "event_id": "85295c83-0994-4305-90f1-d5d1730d421a",
@@ -164,10 +525,17 @@
       "url": "https://www.theblock.co/post/410397/ripple-invests-zilo-licuido?utm_source=rss&utm_medium=rss",
       "event_type": "narrative",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-08-03T09:38:48+00:00",
       "raw_text": "Ripple invests in ZILO and Licuido to deepen tokenized capital markets push\n\n<p>Ripple said the deals are set to bring regulated transfer agency, issuance, and collateral mobility to its infrastructure on the XRP Ledger.</p>\n\n<p>Ripple said the deals are set to bring regulated transfer agency, issua",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.4566,
+        "t_plus_15m": 0.5455,
+        "t_plus_1h": 0.4796,
+        "t_plus_4h": 0.6382
+      }
     },
     {
       "event_id": "3fbfd45d-27ab-4bd6-a10c-d3431c51f8ba",
@@ -1588,6 +1956,18 @@
       "tokens": [],
       "timestamp_utc": "2026-07-31T10:05:01+00:00",
       "raw_text": "New York sues Kalshi over alleged illegal gambling operation\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"New York sues Kalshi over alleged illegal gambling operation\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/court-crypto-lawsuit.jp",
+      "impact": {}
+    },
+    {
+      "event_id": "1fe13f6a-7dc6-424d-a73c-3ea39d1778a5",
+      "source": "rss:solana_official",
+      "title": "Inside Solana’s Growing Market for Tokenized Cards and Physical Collectibles",
+      "url": "https://solana.com/news/tokenized-cards-and-physical-collectibles",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-07-31T10:00:00+00:00",
+      "raw_text": "Inside Solana’s Growing Market for Tokenized Cards and Physical Collectibles\n\nCollector Crypt has crossed $1.6B in volume as Solana apps bring vaulted cards, packs, buybacks, and physical redemption onchain.",
       "impact": {}
     },
     {
@@ -5919,416 +6299,38 @@
         "t_plus_1h": -0.2724,
         "t_plus_4h": 0.1155
       }
-    },
-    {
-      "event_id": "dc6fc7bc-b200-4662-9032-d78fafd8a025",
-      "source": "rss:theblock",
-      "title": "IBM portfolio acquisition makes Circle the largest US blockchain patent holder",
-      "url": "https://www.theblock.co/post/409750/circle-acquires-ibm-blockchain-patent-portfolio-becomes-largest-us-patent-holder?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-27T14:19:44+00:00",
-      "raw_text": "IBM portfolio acquisition makes Circle the largest US blockchain patent holder\n\n<p>Circle acquired IBM's blockchain patent portfolio of 680+ patent families and nearly 1,000 issued patents.</p>\n\n<p>Circle acquired IBM's blockchain patent portfolio of 680+ patent families and nearly 1,000 issued pate",
-      "impact": {}
-    },
-    {
-      "event_id": "c6ea75be-0c52-4c8b-86bf-4bd177730c34",
-      "source": "rss:coindesk",
-      "title": "Lido begins moving $16.5 billion in staked ether to cut validator count by a third",
-      "url": "https://www.coindesk.com/tech/2026/07/27/lido-begins-moving-usd16-5-billion-in-staked-ether-to-cut-validator-count-by-a-third",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-27T14:00:00+00:00",
-      "raw_text": "Lido begins moving $16.5 billion in staked ether to cut validator count by a third",
-      "impact": {}
-    },
-    {
-      "event_id": "bbd1644b-ba54-4b2d-83d4-d073c07566dc",
-      "source": "rss:cointelegraph",
-      "title": "Hong Kong crypto giant HashKey merges regional exchange into one",
-      "url": "https://cointelegraph.com/news/hong-kong-crypto-giant-hashkey-merges-its-exchanges-into-one?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-27T13:41:44+00:00",
-      "raw_text": "Hong Kong crypto giant HashKey merges regional exchange into one\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hong Kong crypto giant HashKey merges regional exchange into one\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-stablecoin-h",
-      "impact": {}
-    },
-    {
-      "event_id": "931a2adc-dc91-4353-aeb4-fa43560c2e99",
-      "source": "rss:theblock",
-      "title": "Benchmark reiterates $570 Strategy target, says cash reserve strengthens bitcoin acquisition plan",
-      "url": "https://www.theblock.co/post/409743/benchmark-reiterates-570-strategy-target-says-cash-reserve-strengthens-bitcoin-acquisition-plan?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-27T13:37:59+00:00",
-      "raw_text": "Benchmark reiterates $570 Strategy target, says cash reserve strengthens bitcoin acquisition plan\n\n<p>Benchmark reiterated its $570 Strategy target, citing disciplined capital allocation, growing cash reserves and continued long-term BTC plan.</p>\n\n<p>Benchmark reiterated its $570 Strategy target, c",
-      "impact": {
-        "t_plus_5m": 1.3862,
-        "t_plus_15m": 1.0356,
-        "t_plus_1h": -0.1647
-      }
-    },
-    {
-      "event_id": "0dcab489-e292-4dc2-91f5-c4503bfb86f2",
-      "source": "rss:coindesk",
-      "title": "Thailand's SEC alleges Bitkub concealed cyberattack that led to $50 million hack",
-      "url": "https://www.coindesk.com/policy/2026/07/27/thailand-s-sec-alleges-bitkub-concealed-cyberattack-that-led-to-usd50-million-hack",
-      "event_type": "hack",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-27T13:32:16+00:00",
-      "raw_text": "Thailand's SEC alleges Bitkub concealed cyberattack that led to $50 million hack",
-      "impact": {}
-    },
-    {
-      "event_id": "202dd3d8-8241-49f2-bfa1-f53c85d62507",
-      "source": "rss:cointelegraph",
-      "title": "Rate path still divides investors: Five things to know in Bitcoin this week",
-      "url": "https://cointelegraph.com/markets/rate-path-still-divides-investors-five-things-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-27T13:31:07+00:00",
-      "raw_text": "Rate path still divides investors: Five things to know in Bitcoin this week\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Rate path still divides investors: Five things to know in Bitcoin this week\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-",
-      "impact": {}
-    },
-    {
-      "event_id": "54e838d9-6e75-4fe7-b917-f723e7d58469",
-      "source": "rss:coindesk",
-      "title": "Nvidia forms 37-member AI security alliance without OpenAI, Anthropic or Google",
-      "url": "https://www.coindesk.com/tech/2026/07/27/nvidia-forms-37-member-ai-security-alliance-without-openai-anthropic-or-google",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-27T13:25:58+00:00",
-      "raw_text": "Nvidia forms 37-member AI security alliance without OpenAI, Anthropic or Google",
-      "impact": {}
-    },
-    {
-      "event_id": "a1488fab-0a54-4d54-9385-efae0c0d921e",
-      "source": "rss:cointelegraph",
-      "title": "Binance disappears from Google Play in certain EU countries",
-      "url": "https://cointelegraph.com/news/binance-disappears-android-google-play-certain-eu-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-27T13:24:17+00:00",
-      "raw_text": "Binance disappears from Google Play in certain EU countries\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance disappears from Google Play in certain EU countries\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-digitized-europe-the-s",
-      "impact": {}
-    },
-    {
-      "event_id": "b0e3e920-715f-4d4c-88eb-689554e631b3",
-      "source": "rss:cointelegraph",
-      "title": "USDC issuer Circle to acquire nearly 1,000 IBM blockchain patents",
-      "url": "https://cointelegraph.com/news/circle-to-acquire-nearly-1000-ibm-blockchain-patents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-27T13:08:55+00:00",
-      "raw_text": "USDC issuer Circle to acquire nearly 1,000 IBM blockchain patents\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"USDC issuer Circle to acquire nearly 1,000 IBM blockchain patents\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-usdt-vs-us",
-      "impact": {}
-    },
-    {
-      "event_id": "5fcca02a-3313-4383-8b1f-5277b4159664",
-      "source": "rss:decrypt",
-      "title": "Strategy Adds $525M to Cash Reserve, Skips Bitcoin Buy for Fifth Week",
-      "url": "https://decrypt.co/374369/strategy-adds-525m-to-cash-reserve-skips-bitcoin-buy-for-fifth-week",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-27T13:00:29+00:00",
-      "raw_text": "Strategy Adds $525M to Cash Reserve, Skips Bitcoin Buy for Fifth Week\n\nThe Bitcoin treasury firm also tapped its $1 billion preferred buyback for the first time, spending $25 million on STRC.",
-      "impact": {}
-    },
-    {
-      "event_id": "9846f3cb-511d-481a-8c19-2d874b0d03ac",
-      "source": "rss:coindesk",
-      "title": "Crypto is rewriting how Wall Street traders spend their weekends",
-      "url": "https://www.coindesk.com/markets/2026/07/27/crypto-is-rewriting-how-wall-street-traders-spend-their-weekends",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-27T13:00:00+00:00",
-      "raw_text": "Crypto is rewriting how Wall Street traders spend their weekends",
-      "impact": {}
-    },
-    {
-      "event_id": "279c243d-6c35-4575-b56f-5d6fea03e0f0",
-      "source": "rss:coindesk",
-      "title": "Securitize builds Wall Street credentials with SEC adviser license as tokenization expands",
-      "url": "https://www.coindesk.com/business/2026/07/27/securitize-builds-wall-street-credentials-with-sec-adviser-license-as-tokenization-expands",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-27T13:00:00+00:00",
-      "raw_text": "Securitize builds Wall Street credentials with SEC adviser license as tokenization expands",
-      "impact": {}
-    },
-    {
-      "event_id": "ca7213fd-9eb1-4226-95ec-28bfdb7ef10e",
-      "source": "rss:coindesk",
-      "title": "Bitmine buys more ether as Tom Lee says rising ETH/BTC ratio points to stronger crypto prices",
-      "url": "https://www.coindesk.com/business/2026/07/27/bitmine-buys-more-ether-as-tom-lee-says-rising-eth-btc-ratio-points-to-stronger-crypto-prices",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-07-27T12:55:57+00:00",
-      "raw_text": "Bitmine buys more ether as Tom Lee says rising ETH/BTC ratio points to stronger crypto prices",
-      "impact": {
-        "t_plus_5m": 1.117,
-        "t_plus_15m": 1.0998,
-        "t_plus_1h": 1.529
-      }
-    },
-    {
-      "event_id": "29074f42-4f2e-4e9f-bedd-a1c5a8e3ed8d",
-      "source": "rss:coindesk",
-      "title": "Circle buys nearly 1,000 blockchain patents from IBM",
-      "url": "https://www.coindesk.com/business/2026/07/27/circle-buys-nearly-1-000-blockchain-patents-from-ibm",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-27T12:47:04+00:00",
-      "raw_text": "Circle buys nearly 1,000 blockchain patents from IBM",
-      "impact": {}
-    },
-    {
-      "event_id": "6dc002c3-8c65-4d93-b760-7b2c806397ef",
-      "source": "rss:cointelegraph",
-      "title": "Strategy sells MSTR shares, buys back $25M in STRC preferred stock",
-      "url": "https://cointelegraph.com/news/strategy-sells-mstr-buys-back-25-milllion-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-27T12:34:36+00:00",
-      "raw_text": "Strategy sells MSTR shares, buys back $25M in STRC preferred stock\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy sells MSTR shares, buys back $25M in STRC preferred stock\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/michael-say",
-      "impact": {}
-    },
-    {
-      "event_id": "0a00ce60-5d39-4904-ab04-51eab6b5f91f",
-      "source": "rss:decrypt",
-      "title": "Crypto Firms Pivoting to AI Is 'Zero-Sum' Thinking: Coinbase CEO",
-      "url": "https://decrypt.co/374366/crypto-firms-pivoting-to-ai-is-zero-sum-thinking-coinbase-ceo",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-27T12:27:47+00:00",
-      "raw_text": "Crypto Firms Pivoting to AI Is 'Zero-Sum' Thinking: Coinbase CEO\n\nBrian Armstrong says crypto is infrastructure that underpins AI, and that AI agents will need it to transact on their own.",
-      "impact": {}
-    },
-    {
-      "event_id": "201c76f1-d97c-45d0-b577-01280cd3f8e8",
-      "source": "rss:theblock",
-      "title": "Strategy extends bitcoin pause to five weeks, sells $544.5 million in MSTR as USD reserve hits $3.75 billion",
-      "url": "https://www.theblock.co/post/409721/strategy-extends-bitcoin-pause-to-five-weeks-sells-544-5-million-in-mstr-as-usd-reserve-hits-3-75-billion?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-27T12:23:19+00:00",
-      "raw_text": "Strategy extends bitcoin pause to five weeks, sells $544.5 million in MSTR as USD reserve hits $3.75 billion\n\n<p>Strategy bought no bitcoin for a fifth straight week, while raising its USD reserve to $3.75 billion and selling $544.5M in MSTR.</p>\n\n<p>Strategy bought no bitcoin for a fifth straight w",
-      "impact": {}
-    },
-    {
-      "event_id": "994f93f0-e175-44c8-ad74-b4691cf18169",
-      "source": "rss:theblock",
-      "title": "Kraken parent Payward acquires Magic Labs’ embedded wallet business",
-      "url": "https://www.theblock.co/post/409705/kraken-parent-payward-acquires-magic-labs-embedded-wallet-business?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-27T12:15:00+00:00",
-      "raw_text": "Kraken parent Payward acquires Magic Labs’ embedded wallet business\n\n<p>Magic Labs is selling its wallet business to Payward and rebranding as Newton Labs to focus on onchain finance infrastructure.</p>\n\n<p>Magic Labs is selling its wallet business to Payward and rebranding as Newton Labs to focus o",
-      "impact": {}
-    },
-    {
-      "event_id": "3d2cf6c7-ae55-4d13-9bd8-55351b72c2fc",
-      "source": "rss:coindesk",
-      "title": "Michael Saylor's Strategy boosted cash reserve to $3.75 billion, repurchased $25 million of STRC",
-      "url": "https://www.coindesk.com/markets/2026/07/27/michael-saylor-s-strategy-boosted-cash-reserve-to-usd3-75-billion",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-27T12:12:54+00:00",
-      "raw_text": "Michael Saylor's Strategy boosted cash reserve to $3.75 billion, repurchased $25 million of STRC",
-      "impact": {}
-    },
-    {
-      "event_id": "201a1cc4-9eb0-4e87-8d6f-191d0df7a016",
-      "source": "rss:decrypt",
-      "title": "Morning Minute: Tokenized Stocks Jump 5x on Robinhood Chain",
-      "url": "https://decrypt.co/374357/morning-minute-tokenized-stocks-jump-5x-on-robinhood-chain",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "ETH",
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-27T12:00:49+00:00",
-      "raw_text": "Morning Minute: Tokenized Stocks Jump 5x on Robinhood Chain\n\nPlus markets are green after oil fell 8%; ETH is greatly outpacing BTC in ETF inflows; and another major crypto exchange has shut down",
-      "impact": {
-        "t_plus_5m": 0.3917,
-        "t_plus_15m": 0.1423
-      }
-    },
-    {
-      "event_id": "c3dd7bed-0902-498a-82e8-93fe1fb023ca",
-      "source": "rss:coindesk",
-      "title": "Bitcoin options traders are dropping their hedges going into the Fed meeting",
-      "url": "https://www.coindesk.com/markets/2026/07/27/bitcoin-options-traders-are-dropping-their-hedges-going-into-the-fed-meeting",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-27T11:53:18+00:00",
-      "raw_text": "Bitcoin options traders are dropping their hedges going into the Fed meeting",
-      "impact": {}
-    },
-    {
-      "event_id": "a246071d-2938-4f84-9086-6762109d513b",
-      "source": "rss:theblock",
-      "title": "STORJ token falls 20% as decentralized storage firm files for Chapter 11 bankruptcy amid crypto shutdown wave",
-      "url": "https://www.theblock.co/post/409712/storj-token-falls-20-as-decentralized-storage-firm-files-for-chapter-11-bankruptcy-amid-crypto-shutdown-wave?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-27T11:31:27+00:00",
-      "raw_text": "STORJ token falls 20% as decentralized storage firm files for Chapter 11 bankruptcy amid crypto shutdown wave\n\n<p>STORJ dropped 19% to $0.06 after Storj Labs filed voluntary Chapter 11 on July 26 to resolve legacy liabilities.</p>\n\n<p>STORJ dropped 19% to $0.06 after Storj Labs filed voluntary Chapt",
-      "impact": {}
-    },
-    {
-      "event_id": "33371f0e-ad77-4911-b850-10a3370b98e1",
-      "source": "rss:theblock",
-      "title": "SparkKitty malware hidden in mobile apps scans photos for crypto wallet seed phrases",
-      "url": "https://www.theblock.co/post/409716/sparkkitty-malware-hidden-in-mobile-apps-scans-photos-for-crypto-wallet-seed-phrases?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-27T11:30:05+00:00",
-      "raw_text": "SparkKitty malware hidden in mobile apps scans photos for crypto wallet seed phrases\n\n<p>Check Point detailed SparkKitty, malware hidden in mobile apps that scans photos to steal cryptocurrency wallet recovery phrases.</p>\n\n<p>Check Point detailed SparkKitty, malware hidden in mobile apps that scans",
-      "impact": {}
-    },
-    {
-      "event_id": "f30dc197-0a62-4496-b649-ff2a741f0849",
-      "source": "rss:decrypt",
-      "title": "Bitcoin ETFs Shed $465M Over Two Days, Led by BlackRock's IBIT",
-      "url": "https://decrypt.co/374354/bitcoin-etfs-shed-465m-over-two-days-led-by-blackrocks-ibit",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-27T11:23:01+00:00",
-      "raw_text": "Bitcoin ETFs Shed $465M Over Two Days, Led by BlackRock's IBIT\n\nThe selling reversed a seven-day, $1 billion inflow streak, with analysts blaming renewed U.S.-Iran tensions and Fed rate-hike fears.",
-      "impact": {}
-    },
-    {
-      "event_id": "5589e287-00c9-47b7-957a-2defbf4d338e",
-      "source": "rss:coindesk",
-      "title": "Ballooning U.S. debt sends investors to bitcoin, gold to shelter from dollar devaluation",
-      "url": "https://www.coindesk.com/daybook-us/2026/07/27/ballooning-u-s-debt-sends-investors-to-bitcoin-gold-to-shelter-from-dollar-devaluation",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-27T11:15:00+00:00",
-      "raw_text": "Ballooning U.S. debt sends investors to bitcoin, gold to shelter from dollar devaluation",
-      "impact": {}
-    },
-    {
-      "event_id": "1e4608d4-036f-40af-9e11-4c82a2bd05ae",
-      "source": "rss:coindesk",
-      "title": "Bitcoin ETFs post third straight weekly inflows despite $465 million in late-week losses",
-      "url": "https://www.coindesk.com/markets/2026/07/27/bitcoin-etfs-record-third-consecutive-weekly-inflows-despite-losses-of-usd465-million-to-end-week",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-27T11:04:39+00:00",
-      "raw_text": "Bitcoin ETFs post third straight weekly inflows despite $465 million in late-week losses",
-      "impact": {}
-    },
-    {
-      "event_id": "860efbc0-c61a-412b-a913-22a276c71ace",
-      "source": "rss:coindesk",
-      "title": "Coinbase CEO Brian Armstrong criticizes crypto startups that rebrand to AI",
-      "url": "https://www.coindesk.com/business/2026/07/27/coinbase-ceo-brian-armstrong-criticizes-crypto-startups-that-rebrand-to-ai",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-27T10:39:22+00:00",
-      "raw_text": "Coinbase CEO Brian Armstrong criticizes crypto startups that rebrand to AI",
-      "impact": {}
-    },
-    {
-      "event_id": "ee05d6fe-94ac-4adf-b8d7-243de7676d8e",
-      "source": "rss:cointelegraph",
-      "title": "BNY Mellon unit joins MiCA register as ESMA adds 15 providers",
-      "url": "https://cointelegraph.com/news/mica-register-expands-third-post-deadline-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-27T10:38:09+00:00",
-      "raw_text": "BNY Mellon unit joins MiCA register as ESMA adds 15 providers\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BNY Mellon unit joins MiCA register as ESMA adds 15 providers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/crypto-regulation-pap",
-      "impact": {}
-    },
-    {
-      "event_id": "14850056-0fc0-42dc-992a-799e696e69f7",
-      "source": "rss:coindesk",
-      "title": "Crypto steadies as Iran-U.S. pause sends oil tumbling, lifts risk assets",
-      "url": "https://www.coindesk.com/markets/2026/07/27/crypto-steadies-as-iran-u-s-pause-sends-oil-tumbling-lifts-risk-assets",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-27T10:35:04+00:00",
-      "raw_text": "Crypto steadies as Iran-U.S. pause sends oil tumbling, lifts risk assets",
-      "impact": {}
-    },
-    {
-      "event_id": "975efac1-9f90-4539-baf4-75a1b5d3666c",
-      "source": "rss:decrypt",
-      "title": "BitMart Becomes Latest Crypto Exchange to Shut Down",
-      "url": "https://decrypt.co/374346/bitmart-becomes-latest-crypto-exchange-to-shut-down",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-27T09:57:20+00:00",
-      "raw_text": "BitMart Becomes Latest Crypto Exchange to Shut Down\n\nBitMart’s closure, citing the market environment and “future strategic direction,” comes days after crypto perps exchange BitMEX shut down.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
         "count": 177,
-        "avg_1h": 0.11,
+        "avg_1h": 0.01,
         "avg_24h": 0.39,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 111,
-        "avg_1h": 0.11,
-        "avg_24h": 0.01,
+      "hack": {
+        "count": 42,
+        "avg_1h": -0.01,
+        "avg_24h": 0.05,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
         "count": 156,
-        "avg_1h": 0.23,
+        "avg_1h": 0.25,
         "avg_24h": -1.0,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 109,
+        "avg_1h": 0.11,
+        "avg_24h": 0.01,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
         "count": 16,
         "avg_1h": -0.1,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 40,
-        "avg_1h": -0.01,
-        "avg_24h": 0.05,
         "win_rate_1h_gt5pct": 0.0
       }
     }
