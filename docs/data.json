@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-04T18:00:38.289116+00:00",
+  "generated_at": "2026-08-04T19:51:48.305452+00:00",
   "events": [
+    {
+      "event_id": "d210c41b-1f93-4ecd-a064-b5365d4185fc",
+      "source": "rss:bitcoinmagazine",
+      "title": "FBI Agent Accused of $1 Million Crypto Theft From ‘Adversarial Nation’",
+      "url": "https://bitcoinmagazine.com/news/fbi-agent-accused-of-1million-crypto-theft",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-04T18:51:56+00:00",
+      "raw_text": "FBI Agent Accused of $1 Million Crypto Theft From ‘Adversarial Nation’\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Accused-of-1-Million-Crypto-Theft-From-Adversarial-Nation.jpg\" style=\"display: b",
+      "impact": {}
+    },
+    {
+      "event_id": "9d728b4f-2006-4159-bb5f-52419bf5a4fb",
+      "source": "rss:decrypt",
+      "title": "Solana Proposal Would Increase Daily SOL Burns More Than 10-Fold",
+      "url": "https://decrypt.co/374915/solana-proposal-increase-daily-sol-burns-10-fold",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-04T18:46:11+00:00",
+      "raw_text": "Solana Proposal Would Increase Daily SOL Burns More Than 10-Fold\n\nValidators are considering changes that would increase the amount of SOL permanently removed from circulation while reducing the rate of new token issuance.",
+      "impact": {}
+    },
+    {
+      "event_id": "85f5638a-0fe6-4124-8d60-131f18e3a5ba",
+      "source": "rss:coindesk",
+      "title": "Open USD rattled Circle's stock, but its key backers still support USDC",
+      "url": "https://www.coindesk.com/business/2026/08/03/open-usd-rattled-circle-s-stock-but-its-key-backers-still-support-usdc",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-04T17:55:23+00:00",
+      "raw_text": "Open USD rattled Circle's stock, but its key backers still support USDC",
+      "impact": {}
+    },
     {
       "event_id": "dfdaa112-000e-488e-a94c-fc5ddb958057",
       "source": "rss:decrypt",
@@ -260,10 +296,16 @@
       "url": "https://bitcoinmagazine.com/news/hyperscale-sells-some-bitcoin",
       "event_type": "listing",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-04T13:58:28+00:00",
       "raw_text": "Hyperscale Trims Bitcoin Holdings, Still Sits on $61M Stack\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Hyperscale-Trims-Bitcoin-Holdings.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.7233,
+        "t_plus_15m": -0.6259,
+        "t_plus_1h": -0.0676
+      }
     },
     {
       "event_id": "c9a691ee-1ba1-40a5-817c-ca30d254ec74",
@@ -287,6 +329,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-04T13:30:00+00:00",
       "raw_text": "Sorry everyone, Bitcoin is headed down to $43,500: Michael Terpin\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Sorry everyone, Bitcoin is headed down to $43,500: Michael Terpin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/interview-29-",
+      "impact": {}
+    },
+    {
+      "event_id": "1250e143-a4f5-45c1-be48-c3be2dc95fc7",
+      "source": "rss:solana_official",
+      "title": "Breakpoint 2026: The Token Supercycle",
+      "url": "https://solana.com/news/the-token-supercycle",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-04T13:05:00+00:00",
+      "raw_text": "Breakpoint 2026: The Token Supercycle\n\nThe last cycle was built on software and cheap money. This one is built from steel, silicon, and energy; and the tokens moving the capital behind it. Speaker applications are now live for Breakpoint 2026:",
       "impact": {}
     },
     {
@@ -328,7 +382,8 @@
       "impact": {
         "t_plus_5m": 0.0245,
         "t_plus_15m": 0.0028,
-        "t_plus_1h": 0.1278
+        "t_plus_1h": 0.1278,
+        "t_plus_4h": 0.0493
       }
     },
     {
@@ -619,6 +674,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-04T08:57:13+00:00",
       "raw_text": "Bernstein says Texas data center audit could boost value of existing bitcoin mining and AI sites\n\n<p>Bernstein said a state-ordered audit of Texas data centers will heighten power scarcity across the regional grid.</p>\n\n<p>Bernstein said a state-ordered audit of Texas data centers will heighten powe",
+      "impact": {}
+    },
+    {
+      "event_id": "cd11bcf0-c2b8-4270-9461-df507f6a5c84",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin stuck in tight range as risk assets soar on Iran deal hopes",
+      "url": "https://www.coindesk.com/business/2026/08/04/live-updates-bitcoin-at-usd63-600-as-rare-us-japan-yen-action-tests-carry-trade-fears",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-04T08:41:00+00:00",
+      "raw_text": "Live updates: Bitcoin stuck in tight range as risk assets soar on Iran deal hopes",
       "impact": {}
     },
     {
@@ -6284,97 +6351,37 @@
       "timestamp_utc": "2026-07-28T15:46:33+00:00",
       "raw_text": "Ethereum startup EthSystems bets privacy is key to getting banks on public blockchains",
       "impact": {}
-    },
-    {
-      "event_id": "a92d07bf-9004-4f0a-8be4-1ed182de859d",
-      "source": "rss:theblock",
-      "title": "Galaxy Digital buys 500 acres in McGregor for second Texas AI data center campus",
-      "url": "https://www.theblock.co/post/409911/galaxy-digital-buys-500-acres-in-mcgregor-for-second-texas-ai-data-center-campus?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-28T15:31:00+00:00",
-      "raw_text": "Galaxy Digital buys 500 acres in McGregor for second Texas AI data center campus\n\n<p>The “privately funded\" Texas campus is expected to generate a minimum of $130 million for McGregor's local tax base, Galaxy said.</p>\n\n<p>The “privately funded\" Texas campus is expected to generate a minimum of $130",
-      "impact": {}
-    },
-    {
-      "event_id": "a21200e8-9dea-4225-9369-cddd1181b047",
-      "source": "rss:theblock",
-      "title": "Nansen CEO bets on AI agents to overtake human traders within 2 years",
-      "url": "https://www.theblock.co/post/409914/nansen-ceo-bets-on-ai-agents-to-overtake-human-traders-within-two-years?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-28T15:22:12+00:00",
-      "raw_text": "Nansen CEO bets on AI agents to overtake human traders within 2 years\n\n<p>Nansen CEO Alex Svanevik says AI agents will overtake human traders in two years as the platform pivots from analytics to agentic trading.</p>\n\n<p>Nansen CEO Alex Svanevik says AI agents will overtake human traders in two year",
-      "impact": {}
-    },
-    {
-      "event_id": "26c5eb19-ed2c-4f62-bfbe-5835bdca82d1",
-      "source": "rss:theblock",
-      "title": "Nansen CEO bets on AI agents to overtake human traders within two years",
-      "url": "https://www.theblock.co/post/409914/nansen-ceo-bets-on-ai-agents-to-overtake-human-traders-within-two-years?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-28T15:22:12+00:00",
-      "raw_text": "Nansen CEO bets on AI agents to overtake human traders within two years\n\n<p>Nansen CEO Alex Svanevik says AI agents will overtake human traders in two years as the platform pivots from analytics to agentic trading.</p>\n\n<p>Nansen CEO Alex Svanevik says AI agents will overtake human traders in two ye",
-      "impact": {}
-    },
-    {
-      "event_id": "caecd7fd-cd1b-4c7b-a28c-343f93bef47f",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bank of Russia Creates New Rules For Crypto Trading",
-      "url": "https://bitcoinmagazine.com/news/bank-of-russia-drops-crypto-trading-rules",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-28T15:17:55+00:00",
-      "raw_text": "Bank of Russia Creates New Rules For Crypto Trading\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Russia-Central-Bank-Crypto.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https:/",
-      "impact": {}
-    },
-    {
-      "event_id": "df8d7ae5-5336-4661-a02f-e0a1925dfd58",
-      "source": "rss:theblock",
-      "title": "Barry Silbert-backed Zcash miner Fortitude brings Nebraska facility online to cut its ZEC production costs",
-      "url": "https://www.theblock.co/post/409899/barry-silbert-zcash-miner-fortitude-nebraska-facility-online-cut-zec-mining-costs?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-28T15:13:41+00:00",
-      "raw_text": "Barry Silbert-backed Zcash miner Fortitude brings Nebraska facility online to cut its ZEC production costs\n\n<p>Fortitude expects its new 12-megawatt mining facility to cut its direct cash mining cost from about $70 to roughly $40 per ZEC.</p>\n\n<p>Fortitude expects its new 12-megawatt mining facility",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 52,
+        "avg_1h": 0.01,
+        "avg_24h": 0.15,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 156,
+        "count": 155,
         "avg_1h": 0.17,
         "avg_24h": -1.0,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 176,
+        "count": 178,
         "avg_1h": 0.04,
         "avg_24h": 0.39,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 104,
+        "count": 102,
         "avg_1h": 0.12,
         "avg_24h": 0.33,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 51,
-        "avg_1h": 0.01,
-        "avg_24h": 0.15,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "listing": {
         "count": 13,
-        "avg_1h": -0.01,
+        "avg_1h": -0.03,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       }
