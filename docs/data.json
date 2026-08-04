@@ -1,6 +1,90 @@
 {
-  "generated_at": "2026-08-04T19:51:48.305452+00:00",
+  "generated_at": "2026-08-04T21:23:26.423686+00:00",
   "events": [
+    {
+      "event_id": "96dbf770-f0a8-480c-baee-771505a95a80",
+      "source": "rss:bitcoinmagazine",
+      "title": "Corporation’s Approach to the BIP-110 Soft Fork",
+      "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/corp-bip-110-soft-fork",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-04T20:41:18+00:00",
+      "raw_text": "Corporation’s Approach to the BIP-110 Soft Fork\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/83f5a708-906f-4a5f-925a-53b89c1e9055.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"h",
+      "impact": {}
+    },
+    {
+      "event_id": "5d595aad-3836-476c-9b79-21f9f0019132",
+      "source": "rss:decrypt",
+      "title": "Police Have Arrested 37 Americans Over AI Data Center Protests This Year",
+      "url": "https://decrypt.co/374921/ai-data-center-protest-arrests",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-04T20:30:52+00:00",
+      "raw_text": "Police Have Arrested 37 Americans Over AI Data Center Protests This Year\n\nDozens of arrests tied to opposition against AI data centers underscore how local disputes over massive computing projects are growing into a national political movement.",
+      "impact": {}
+    },
+    {
+      "event_id": "43f31df6-dc7f-4645-aeec-bc5ced746c8b",
+      "source": "rss:coindesk",
+      "title": "SpaceX tops Wall Street revenue forecast, posts $540 million loss on bitcoin holdings",
+      "url": "https://www.coindesk.com/business/2026/08/04/spacex-tops-wall-street-revenue-forecast-posts-usd540-million-decline-on-bitcoin-holding-value",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-04T20:26:21+00:00",
+      "raw_text": "SpaceX tops Wall Street revenue forecast, posts $540 million loss on bitcoin holdings",
+      "impact": {}
+    },
+    {
+      "event_id": "38c32981-21b6-49b4-bac9-683d25db10bb",
+      "source": "rss:cointelegraph",
+      "title": "US, UK reaffirm support for stablecoins, tokenization in joint financial regulation talks",
+      "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-04T19:58:48+00:00",
+      "raw_text": "US, UK reaffirm support for stablecoins, tokenization in joint financial regulation talks\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US, UK reaffirm support for stablecoins, tokenization in joint financial regulation talks\" class=\"type:primaryImage\" src=\"https://s3-imag",
+      "impact": {}
+    },
+    {
+      "event_id": "2350b9c8-f86b-401d-af2f-865e12892b8f",
+      "source": "rss:theblock",
+      "title": "Ethereum researchers propose burning validator rewards to cap staking at 50%",
+      "url": "https://www.theblock.co/post/410643/ethereum-researchers-propose-burning-validator-rewards-cap-staking-50?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-04T19:49:58+00:00",
+      "raw_text": "Ethereum researchers propose burning validator rewards to cap staking at 50%\n\n<p>EIP-8361 would gradually burn a rising share of validator rewards as the staking ratio climbs.</p>\n\n<p>EIP-8361 would gradually burn a rising share of validator rewards as the staking ratio climbs.</p>",
+      "impact": {}
+    },
+    {
+      "event_id": "b672f6c3-c860-45d1-9776-9cece996d3ef",
+      "source": "rss:theblock",
+      "title": "Cloudflare kicks off stablecoin wallet rollout for AI agents to pay for APIs and online content",
+      "url": "https://www.theblock.co/post/410629/cloudflare-kicks-off-stablecoin-wallet-rollout-ai-agents-pay-apis-online-content?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-04T19:33:11+00:00",
+      "raw_text": "Cloudflare kicks off stablecoin wallet rollout for AI agents to pay for APIs and online content\n\n<p>Users can claim Cloudflare wallet handles now, while funding and payment features will arrive later.</p>\n\n<p>Users can claim Cloudflare wallet handles now, while funding and payment features will arri",
+      "impact": {}
+    },
+    {
+      "event_id": "dd2d8f70-74a8-4921-a8a9-be0fc1ca5abd",
+      "source": "rss:decrypt",
+      "title": "Coldcard Bitcoin Exploit Explained: Entropy, How Keys Are Generated, and Why Bits Matter",
+      "url": "https://decrypt.co/374916/coldcard-bitcoin-exploit-explained-entropy-keys-bits",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-04T19:11:36+00:00",
+      "raw_text": "Coldcard Bitcoin Exploit Explained: Entropy, How Keys Are Generated, and Why Bits Matter\n\nA flaw in Coldcard wallets cost Bitcoin holders more than $100 million—and reopened an old fight about whether you can trust dice.",
+      "impact": {}
+    },
     {
       "event_id": "d210c41b-1f93-4ecd-a064-b5365d4185fc",
       "source": "rss:bitcoinmagazine",
@@ -20,10 +104,16 @@
       "url": "https://decrypt.co/374915/solana-proposal-increase-daily-sol-burns-10-fold",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "SOL"
+      ],
       "timestamp_utc": "2026-08-04T18:46:11+00:00",
       "raw_text": "Solana Proposal Would Increase Daily SOL Burns More Than 10-Fold\n\nValidators are considering changes that would increase the amount of SOL permanently removed from circulation while reducing the rate of new token issuance.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1412,
+        "t_plus_15m": -0.1353,
+        "t_plus_1h": -0.0148
+      }
     },
     {
       "event_id": "85f5638a-0fe6-4124-8d60-131f18e3a5ba",
@@ -304,7 +394,8 @@
       "impact": {
         "t_plus_5m": -0.7233,
         "t_plus_15m": -0.6259,
-        "t_plus_1h": -0.0676
+        "t_plus_1h": -0.0676,
+        "t_plus_4h": -0.3162
       }
     },
     {
@@ -6267,103 +6358,19 @@
       "timestamp_utc": "2026-07-28T16:27:46+00:00",
       "raw_text": "Bitcoin lows pierce $63K as Asia chip-stock crash spreads to Wall Street\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin lows pierce $63K as Asia chip-stock crash spreads to Wall Street\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
       "impact": {}
-    },
-    {
-      "event_id": "d58bddca-103b-4c1d-9667-21c52d85fc54",
-      "source": "rss:decrypt",
-      "title": "Why the Bitcoin Rally Seems More Like a Bull Trap",
-      "url": "https://decrypt.co/374539/bitcoin-price-rally-bull-trap",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-28T16:22:18+00:00",
-      "raw_text": "Why the Bitcoin Rally Seems More Like a Bull Trap\n\nThe Bitcoin bounce looked promising. The charts now say it wasn't.",
-      "impact": {}
-    },
-    {
-      "event_id": "8215e4f4-3a63-4c4f-a174-acb970b00c20",
-      "source": "rss:cointelegraph",
-      "title": "Kraken opens Jersey Mike’s IPO to retail investors through tokenized shares and direct allocations",
-      "url": "https://cointelegraph.com/markets/kraken-opens-jersey-mikes-ipo-to-retail-investors-through-tokenized-shares-and-direct-allocations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-28T16:20:57+00:00",
-      "raw_text": "Kraken opens Jersey Mike’s IPO to retail investors through tokenized shares and direct allocations\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken opens Jersey Mike’s IPO to retail investors through tokenized shares and direct allocations\" class=\"type:primaryImage\" sr",
-      "impact": {}
-    },
-    {
-      "event_id": "bb0d52d4-0d79-46fe-9ef2-ccaa34b3dcad",
-      "source": "rss:cointelegraph",
-      "title": "Kraken opens Jersey Mike’s IPO to retail investors through tokenized shares and direct allocations",
-      "url": "https://cointelegraph.com/news/kraken-opens-jersey-mikes-ipo-to-retail-investors-through-tokenized-shares-and-direct-allocations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-28T16:20:57+00:00",
-      "raw_text": "Kraken opens Jersey Mike’s IPO to retail investors through tokenized shares and direct allocations\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken opens Jersey Mike’s IPO to retail investors through tokenized shares and direct allocations\" class=\"type:primaryImage\" sr",
-      "impact": {}
-    },
-    {
-      "event_id": "c73bb956-7a8b-498a-9fac-d875bbed8a1d",
-      "source": "rss:coindesk",
-      "title": "BlackRock, Fidelity, other Wall Street giants back the Clarity Act",
-      "url": "https://www.coindesk.com/policy/2026/07/28/blackrock-fidelity-other-wall-street-giants-back-the-clarity-act",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-28T16:08:19+00:00",
-      "raw_text": "BlackRock, Fidelity, other Wall Street giants back the Clarity Act",
-      "impact": {}
-    },
-    {
-      "event_id": "af516c30-454c-465f-8fe7-9f5db2aa2262",
-      "source": "rss:theblock",
-      "title": "Robinhood Chain deposits climb but volume and users fade after memecoin-fueled launch",
-      "url": "https://www.theblock.co/post/409813/robinhood-chain-deposits-climb-volume-users-fade-memecoin-fueled-launch?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-28T16:02:48+00:00",
-      "raw_text": "Robinhood Chain deposits climb but volume and users fade after memecoin-fueled launch\n\n<p>The number of active accounts on Roinbhood Chain averaged around 275,000 per day, down by 7% week-over-week.</p>\n\n<p>The number of active accounts on Roinbhood Chain averaged around 275,000 per day, down by 7% ",
-      "impact": {}
-    },
-    {
-      "event_id": "9db85820-03ee-45c6-b0a1-9f133d33100f",
-      "source": "rss:cointelegraph",
-      "title": "Core Scientific revenue doubles in Q2 as AI colocation expansion accelerates",
-      "url": "https://cointelegraph.com/markets/core-scientific-revenue-doubles-q2-ai-colocation-expansion-accelerate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-28T15:47:00+00:00",
-      "raw_text": "Core Scientific revenue doubles in Q2 as AI colocation expansion accelerates\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Core Scientific revenue doubles in Q2 as AI colocation expansion accelerates\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl",
-      "impact": {}
-    },
-    {
-      "event_id": "c245e86e-730b-492d-8510-dec8848621c5",
-      "source": "rss:coindesk",
-      "title": "Ethereum startup EthSystems bets privacy is key to getting banks on public blockchains",
-      "url": "https://www.coindesk.com/tech/2026/07/28/ethereum-startup-ethsystems-bets-privacy-is-key-to-getting-banks-on-public-blockchains",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-28T15:46:33+00:00",
-      "raw_text": "Ethereum startup EthSystems bets privacy is key to getting banks on public blockchains",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "hack": {
-        "count": 52,
-        "avg_1h": 0.01,
-        "avg_24h": 0.15,
+      "macro": {
+        "count": 103,
+        "avg_1h": 0.12,
+        "avg_24h": 0.33,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 155,
-        "avg_1h": 0.17,
+        "count": 153,
+        "avg_1h": 0.16,
         "avg_24h": -1.0,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6373,10 +6380,10 @@
         "avg_24h": 0.39,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 102,
-        "avg_1h": 0.12,
-        "avg_24h": 0.33,
+      "hack": {
+        "count": 53,
+        "avg_1h": 0.01,
+        "avg_24h": 0.15,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
