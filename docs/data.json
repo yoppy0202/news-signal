@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T14:31:52.423856+00:00",
+  "generated_at": "2026-08-05T16:49:19.349468+00:00",
   "events": [
     {
       "event_id": "43046961-0701-469d-967e-56469fada7e9",
@@ -176,10 +176,16 @@
       "url": "https://www.theblock.co/post/410835/panic-visible-onchain-bitcoin-activity-hits-2026-high-amid-coldcard-attack-as-k33-flags-potential-bottoming-pattern?utm_source=rss&utm_medium=rss",
       "event_type": "hack",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-05T11:33:11+00:00",
       "raw_text": "‘Panic visible onchain’: Bitcoin activity hits 2026 high amid Coldcard attack as K33 flags potential bottoming pattern\n\n<p>Bitcoin's seven-day active supply climbed to a 2026 high with about 890,000 BTC moved over the past week amid the Coldcard attack, per K33.</p>\n\n<p>Bitcoin's seven-day active su",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1004,
+        "t_plus_15m": -0.1279,
+        "t_plus_1h": 0.3956
+      }
     },
     {
       "event_id": "51fb93f8-dc9d-4958-8e5f-e81e41c9d586",
@@ -188,10 +194,16 @@
       "url": "https://decrypt.co/374944/ethereum-proposal-would-burn-staking-rewards-to-zero-if-half-of-eth-is-staked",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-08-05T11:29:23+00:00",
       "raw_text": "Ethereum Proposal Would Burn Staking Rewards to Zero if Half of ETH Is Staked\n\nThe incentive to stake beyond half the supply would disappear at activation, with the yield cut phasing in over 18 months.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0916,
+        "t_plus_15m": -0.1468,
+        "t_plus_1h": 0.578
+      }
     },
     {
       "event_id": "517ff25e-c238-4c20-befc-4f91b2140100",
@@ -316,7 +328,8 @@
       "impact": {
         "t_plus_5m": 0.1451,
         "t_plus_15m": 0.1334,
-        "t_plus_1h": 0.1941
+        "t_plus_1h": 0.1941,
+        "t_plus_4h": 0.1405
       }
     },
     {
@@ -6361,7 +6374,7 @@
       },
       "unknown": {
         "count": 188,
-        "avg_1h": 0.04,
+        "avg_1h": 0.07,
         "avg_24h": 0.39,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6373,7 +6386,7 @@
       },
       "hack": {
         "count": 57,
-        "avg_1h": 0.01,
+        "avg_1h": 0.06,
         "avg_24h": 0.15,
         "win_rate_1h_gt5pct": 0.0
       },
