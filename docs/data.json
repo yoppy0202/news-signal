@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T22:18:01.717108+00:00",
+  "generated_at": "2026-08-06T00:08:10.158630+00:00",
   "events": [
     {
       "event_id": "5a83353c-8e75-47eb-a0c8-fa96cc1be690",
@@ -160,8 +160,21 @@
       "impact": {
         "t_plus_5m": -0.1245,
         "t_plus_15m": -0.0648,
-        "t_plus_1h": -0.2442
+        "t_plus_1h": -0.2442,
+        "t_plus_4h": -0.8913
       }
+    },
+    {
+      "event_id": "77f183a2-0a2b-46bc-ae6b-67e677b2e6be",
+      "source": "rss:solana_official",
+      "title": "Webinar Recap: Giving AI agents a native way to pay with x402",
+      "url": "https://solana.com/news/webinar-recap-agentic-payments",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-05T18:55:00+00:00",
+      "raw_text": "Webinar Recap: Giving AI agents a native way to pay with x402\n\nX402 has processed roughly 200M transactions and $50B in volume, giving AI agents a stablecoin-native way to pay for web resources.",
+      "impact": {}
     },
     {
       "event_id": "8df7a546-59ea-4e91-b3d0-4076d994ee11",
@@ -6350,30 +6363,18 @@
       "timestamp_utc": "2026-07-29T17:53:43+00:00",
       "raw_text": "Democratic Senator Backs Clarity Act — With Proposed Law Enforcement Changes Included: Report\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Coinbase-Executive-Says-Clarity-Act-Has-Tremendous-Moment",
       "impact": {}
-    },
-    {
-      "event_id": "110e0929-e8ea-43af-be89-d67e28125921",
-      "source": "rss:theblock",
-      "title": "‘Ethereum Cypherpunk Manifesto’ author joins Ethereum Foundation as fourth board member",
-      "url": "https://www.theblock.co/post/410083/ethereum-cypherpunk-manifesto-author-ethereum-foundation-fourth-board-member?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-29T17:22:33+00:00",
-      "raw_text": "‘Ethereum Cypherpunk Manifesto’ author joins Ethereum Foundation as fourth board member\n\n<p>The SEAL 911 security firm co-founder, pcaversaccio, is known for his privacy advocacy and cypherpunk cultural commentary.</p>\n\n<p>The SEAL 911 security firm co-founder, pcaversaccio, is known for his privacy",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 153,
+        "count": 154,
         "avg_1h": 0.16,
         "avg_24h": -1.0,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 92,
+        "count": 91,
         "avg_1h": 0.04,
         "avg_24h": -0.02,
         "win_rate_1h_gt5pct": 0.0
