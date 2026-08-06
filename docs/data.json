@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-06T00:08:10.158630+00:00",
+  "generated_at": "2026-08-06T03:32:38.065561+00:00",
   "events": [
+    {
+      "event_id": "054d94f2-e652-4536-a0b6-ca22807e8616",
+      "source": "rss:cointelegraph",
+      "title": "Block raises 2026 outlook on strong quarter, says AI touches nearly all code",
+      "url": "https://cointelegraph.com/news/block-raises-2026-outlook-on-strong-quarter-says-ai-touches-nearly-all-code?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-06T00:22:50+00:00",
+      "raw_text": "Block raises 2026 outlook on strong quarter, says AI touches nearly all code\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Block raises 2026 outlook on strong quarter, says AI touches nearly all code\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl",
+      "impact": {}
+    },
     {
       "event_id": "5a83353c-8e75-47eb-a0c8-fa96cc1be690",
       "source": "rss:theblock",
@@ -6351,30 +6363,18 @@
       "timestamp_utc": "2026-07-29T17:58:33+00:00",
       "raw_text": "Fed holds rates steady, extending pause as markets await Kevin Warsh's policy roadmap",
       "impact": {}
-    },
-    {
-      "event_id": "c9f595ec-9731-4097-960f-8e3222c146c7",
-      "source": "rss:bitcoinmagazine",
-      "title": "Democratic Senator Backs Clarity Act — With Proposed Law Enforcement Changes Included: Report",
-      "url": "https://bitcoinmagazine.com/news/democratic-senator-backs-clarity-act",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-29T17:53:43+00:00",
-      "raw_text": "Democratic Senator Backs Clarity Act — With Proposed Law Enforcement Changes Included: Report\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Coinbase-Executive-Says-Clarity-Act-Has-Tremendous-Moment",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 154,
+        "count": 155,
         "avg_1h": 0.16,
         "avg_24h": -1.0,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 91,
+        "count": 90,
         "avg_1h": 0.04,
         "avg_24h": -0.02,
         "win_rate_1h_gt5pct": 0.0
