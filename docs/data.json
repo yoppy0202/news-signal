@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T11:04:11.045130+00:00",
+  "generated_at": "2026-08-07T11:53:38.670323+00:00",
   "events": [
     {
       "event_id": "929ae1cc-6aff-4c0c-aa0c-88e369b06983",
@@ -8,10 +8,15 @@
       "url": "https://bitcoinmagazine.com/technical/bitcoins-bip110-moment-three-possible-scenarios",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-07T10:01:26+00:00",
       "raw_text": "Bitcoin’s BIP110 Moment: Three Possible Scenarios\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/BIP110-Aaron-Hero.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmag",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0182,
+        "t_plus_15m": 0.0185
+      }
     },
     {
       "event_id": "9a397e8d-01df-44cc-bb22-0bba2c6f8e12",
@@ -148,7 +153,8 @@
       "impact": {
         "t_plus_5m": -0.1274,
         "t_plus_15m": -0.0733,
-        "t_plus_1h": -0.0509
+        "t_plus_1h": -0.0509,
+        "t_plus_4h": 0.8043
       }
     },
     {
