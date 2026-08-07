@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-07T05:47:54.594400+00:00",
+  "generated_at": "2026-08-07T07:37:52.997338+00:00",
   "events": [
+    {
+      "event_id": "e5dd8449-fb58-4f50-aec9-60a6798860e5",
+      "source": "rss:coindesk",
+      "title": "Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million",
+      "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-whales-load-up-on-usd1-2-billion-in-btc-as-etfs-attract-usd750-million",
+      "event_type": "whale_move",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-07T05:45:21+00:00",
+      "raw_text": "Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million",
+      "impact": {}
+    },
+    {
+      "event_id": "4e91e130-615b-41d3-adb6-dacdfe290c45",
+      "source": "rss:cointelegraph",
+      "title": "Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams",
+      "url": "https://cointelegraph.com/news/japan-fsa-crypto-exchanges-withdrawal-delays-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-07T05:24:38+00:00",
+      "raw_text": "Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-co",
+      "impact": {}
+    },
     {
       "event_id": "3b486203-4aaa-41a7-9c31-aa1596a9aaf7",
       "source": "rss:cointelegraph",
@@ -44,10 +68,16 @@
       "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-stuck-near-usd64-000-as-clarity-act-vote-slips-to-september",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-08-07T04:17:01+00:00",
       "raw_text": "XRP leads majors losses as Clarity Act vote slips to September",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1904,
+        "t_plus_15m": 0.2652,
+        "t_plus_1h": -0.0479
+      }
     },
     {
       "event_id": "9cd4b83d-2cfa-485b-8f89-69f795debe89",
@@ -6361,44 +6391,26 @@
       "timestamp_utc": "2026-07-30T20:18:33+00:00",
       "raw_text": "Coinbase sinks 5% after missing second quarter revenue estimates",
       "impact": {}
-    },
-    {
-      "event_id": "fb279b08-fe33-47e1-ba21-0e35ca291ea1",
-      "source": "rss:bitcoinmagazine",
-      "title": "Legendary Investor Ray Dalio Still Holds Bitcoin — But Only 1% of His Portfolio",
-      "url": "https://bitcoinmagazine.com/news/ray-dalio-prefers-gold-over-bitcoin",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-30T19:57:05+00:00",
-      "raw_text": "Legendary Investor Ray Dalio Still Holds Bitcoin — But Only 1% of His Portfolio\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/11/Ray-Dalio-Reaffirms-Bitcoin-Skepticism-Says-He-Still-Holds-Just-1-Alloc",
-      "impact": {}
-    },
-    {
-      "event_id": "a92507fb-5674-4666-8866-c097a5877a47",
-      "source": "rss:cointelegraph",
-      "title": "Telegram’s Pavel Durov responds to Russia’s terrorism designation",
-      "url": "https://cointelegraph.com/news/pavel-durov-responds-russia-terrorism-designation-cites-mass-surveillance-censorship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-30T19:54:06+00:00",
-      "raw_text": "Telegram’s Pavel Durov responds to Russia’s terrorism designation\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Telegram’s Pavel Durov responds to Russia’s terrorism designation\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/durov.png\" />",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 150,
-        "avg_1h": 0.28,
-        "avg_24h": -1.0,
+      "whale_move": {
+        "count": 5,
+        "avg_1h": -0.06,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 187,
-        "avg_1h": 0.13,
+        "count": 188,
+        "avg_1h": 0.12,
         "avg_24h": 0.39,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 148,
+        "avg_1h": 0.28,
+        "avg_24h": -1.0,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
@@ -6411,12 +6423,6 @@
         "count": 67,
         "avg_1h": 0.1,
         "avg_24h": 0.15,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "whale_move": {
-        "count": 4,
-        "avg_1h": -0.06,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
