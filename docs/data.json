@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-08-07T15:06:05.887085+00:00",
+  "generated_at": "2026-08-07T16:05:48.570062+00:00",
   "events": [
+    {
+      "event_id": "38933058-4f49-4b16-9ad4-bb7e8fb64874",
+      "source": "rss:coindesk",
+      "title": "OKX's Rafique doubts Clarity Act will pass, warns optimism is already priced into bitcoin",
+      "url": "https://www.coindesk.com/policy/2026/08/04/okx-s-rafique-doubts-clarity-act-will-pass-warns-optimism-is-already-priced-into-bitcoin",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-07T15:22:44+00:00",
+      "raw_text": "OKX's Rafique doubts Clarity Act will pass, warns optimism is already priced into bitcoin",
+      "impact": {}
+    },
+    {
+      "event_id": "298b2523-4707-4477-9d59-ee9ce6a4559d",
+      "source": "rss:coindesk",
+      "title": "How a five-second trick let traders drain millions from Polymarket",
+      "url": "https://www.coindesk.com/business/2026/08/07/how-a-five-second-trick-let-traders-drain-millions-from-polymarket",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-07T15:09:07+00:00",
+      "raw_text": "How a five-second trick let traders drain millions from Polymarket",
+      "impact": {}
+    },
+    {
+      "event_id": "d9c7b3a1-5987-4033-aaff-b972ae1bcb1b",
+      "source": "rss:cointelegraph",
+      "title": "Crypto Biz: Crypto’s biggest business is starting to look a lot like banking",
+      "url": "https://cointelegraph.com/news/crypto-biz-crypto-business-converges-traditional-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-07T15:07:49+00:00",
+      "raw_text": "Crypto Biz: Crypto’s biggest business is starting to look a lot like banking\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: Crypto’s biggest business is starting to look a lot like banking\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl",
+      "impact": {}
+    },
+    {
+      "event_id": "add3acf9-b8c4-4474-abb3-dff0d35b6a3c",
+      "source": "rss:bitcoinmagazine",
+      "title": "Crucial Vote On Crypto Clarity Act Delayed Until September, Trump Says More People Are Paying in Bitcoin: Reports",
+      "url": "https://bitcoinmagazine.com/news/clarity-act-vote-delayed-trump-bitcoin",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-07T15:01:20+00:00",
+      "raw_text": "Crucial Vote On Crypto Clarity Act Delayed Until September, Trump Says More People Are Paying in Bitcoin: Reports\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Crucial-Vote-On-Crypto-Clarity-Act-De",
+      "impact": {}
+    },
+    {
+      "event_id": "f2c99868-8f4f-4fc6-8add-e35a8327166c",
+      "source": "rss:coindesk",
+      "title": "A part of FTX survived, and it’s the case for the CLARITY Act",
+      "url": "https://www.coindesk.com/opinion/2026/08/07/a-part-of-ftx-survived-and-it-s-the-case-for-the-clarity-act",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-07T14:30:25+00:00",
+      "raw_text": "A part of FTX survived, and it’s the case for the CLARITY Act",
+      "impact": {}
+    },
     {
       "event_id": "9173506a-6f1a-452a-bd38-d874ea154276",
       "source": "rss:coindesk",
@@ -220,7 +280,8 @@
       "impact": {
         "t_plus_5m": 0.0182,
         "t_plus_15m": 0.0185,
-        "t_plus_1h": 0.0955
+        "t_plus_1h": 0.0955,
+        "t_plus_4h": 0.2982
       }
     },
     {
@@ -6309,92 +6370,32 @@
       "timestamp_utc": "2026-07-31T10:00:00+00:00",
       "raw_text": "Inside Solana’s Growing Market for Tokenized Cards and Physical Collectibles\n\nCollector Crypt has crossed $1.6B in volume as Solana apps bring vaulted cards, packs, buybacks, and physical redemption onchain.",
       "impact": {}
-    },
-    {
-      "event_id": "22b865a3-0c73-466e-b41c-c0d625af945c",
-      "source": "rss:coindesk",
-      "title": "New York sues Kalshi, alleges it offers a gambling platform 'plain and simple'",
-      "url": "https://www.coindesk.com/policy/2026/07/31/new-york-sues-kalshi-alleges-it-offers-a-gambling-platform-plain-and-simple",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-31T09:55:47+00:00",
-      "raw_text": "New York sues Kalshi, alleges it offers a gambling platform 'plain and simple'",
-      "impact": {}
-    },
-    {
-      "event_id": "c5cc7e19-c6e6-4258-8c00-c0ace46c1b0b",
-      "source": "rss:theblock",
-      "title": "Senate Democrats propose anti-corruption bureau as Trump’s crypto portfolio draws more scrutiny",
-      "url": "https://www.theblock.co/post/410260/senate-democrat-anti-corruption-bureau?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-31T09:34:29+00:00",
-      "raw_text": "Senate Democrats propose anti-corruption bureau as Trump’s crypto portfolio draws more scrutiny\n\n<p>Recent financial disclosures showed that Trump made hundreds of millions of dollars in crypto-related income.</p>\n\n<p>Recent financial disclosures showed that Trump made hundreds of millions of dollar",
-      "impact": {}
-    },
-    {
-      "event_id": "c455f75e-fac6-4cf4-9560-eca2067e5ebc",
-      "source": "rss:decrypt",
-      "title": "$38M in Bitcoin Drained by Coldcard Key Flaw Its Maker Thinks AI Found",
-      "url": "https://decrypt.co/374766/38m-in-bitcoin-drained-by-coldcard-key-flaw-its-maker-thinks-ai-found",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-31T09:02:01+00:00",
-      "raw_text": "$38M in Bitcoin Drained by Coldcard Key Flaw Its Maker Thinks AI Found\n\nCoinkite said it’s likely that an attacker used AI to review previous versions of its open source firmware to uncover a vulnerability.",
-      "impact": {}
-    },
-    {
-      "event_id": "db2094a1-bdf9-423b-8465-cd8e2210c99d",
-      "source": "rss:cointelegraph",
-      "title": "Aave weighs closing 6 V3 blockchain markets, offboarding 50 low-use reserves",
-      "url": "https://cointelegraph.com/news/aave-weighs-closing-6-v3-blockchain-markets-offboarding-50-low-use-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-31T08:57:53+00:00",
-      "raw_text": "Aave weighs closing 6 V3 blockchain markets, offboarding 50 low-use reserves\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Aave weighs closing 6 V3 blockchain markets, offboarding 50 low-use reserves\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl",
-      "impact": {}
-    },
-    {
-      "event_id": "6717e0b9-2113-452b-a2a2-3224d374ee21",
-      "source": "rss:coindesk",
-      "title": "Quantum Solutions, Hyperscale Data tap crypto treasuries to fund AI data centers",
-      "url": "https://www.coindesk.com/business/2026/07/31/quantum-solutions-hyperscale-data-tap-crypto-treasuries-to-fund-ai-data-centers",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-31T08:57:02+00:00",
-      "raw_text": "Quantum Solutions, Hyperscale Data tap crypto treasuries to fund AI data centers",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 149,
-        "avg_1h": 0.1,
-        "avg_24h": null,
+      "unknown": {
+        "count": 189,
+        "avg_1h": 0.12,
+        "avg_24h": 0.39,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 81,
+        "count": 83,
         "avg_1h": 0.23,
         "avg_24h": -0.02,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 69,
+      "narrative": {
+        "count": 146,
         "avg_1h": 0.1,
-        "avg_24h": 0.15,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 187,
-        "avg_1h": 0.12,
-        "avg_24h": 0.39,
+      "hack": {
+        "count": 68,
+        "avg_1h": 0.1,
+        "avg_24h": 0.15,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
