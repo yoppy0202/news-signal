@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-07T17:58:29.276778+00:00",
+  "generated_at": "2026-08-07T19:10:33.446543+00:00",
   "events": [
+    {
+      "event_id": "68a4db41-1586-4327-8043-4203af7029d8",
+      "source": "rss:bitcoinmagazine",
+      "title": "Coldcard Bitcoin Hack: Victims Report Median Loss of 1 BTC as Theft Tops $111 Million",
+      "url": "https://bitcoinmagazine.com/news/coldcard-victims-report-median-loss-1btc",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-07T18:02:38+00:00",
+      "raw_text": "Coldcard Bitcoin Hack: Victims Report Median Loss of 1 BTC as Theft Tops $111 Million\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Coldcard-Bitcoin-Hack-Victims-Report-Median-Loss-of-1-BTC-as-Thef",
+      "impact": {}
+    },
+    {
+      "event_id": "6ce6a5ce-5881-4abd-9ac8-f4dd34ba78ee",
+      "source": "rss:cointelegraph",
+      "title": "Circle expands USDC to OKX ecosystem with X Layer launch",
+      "url": "https://cointelegraph.com/news/circle-native-usdc-okx-x-layer-cctp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-07T17:36:45+00:00",
+      "raw_text": "Circle expands USDC to OKX ecosystem with X Layer launch\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Circle expands USDC to OKX ecosystem with X Layer launch\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/token-for-ads-polymarket-usdc.p",
+      "impact": {}
+    },
+    {
+      "event_id": "cffcb003-1127-4a3c-a9be-99385e8834ef",
+      "source": "rss:decrypt",
+      "title": "XRP at a Crossroads as Senate Punts on Clarity Act",
+      "url": "https://decrypt.co/375136/xrp-price-crossroads-senate-punts-clarity-act",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-07T17:36:41+00:00",
+      "raw_text": "XRP at a Crossroads as Senate Punts on Clarity Act\n\nXRP is taking the Clarity Act news harder than the rest of the crypto market. Here's why.",
+      "impact": {}
+    },
     {
       "event_id": "2e225216-1f44-4b5f-8d7f-a979699f7a63",
       "source": "rss:cointelegraph",
@@ -44,10 +80,16 @@
       "url": "https://decrypt.co/375133/hackers-use-bnb-chain-spread-malware-fake-captchas",
       "event_type": "hack",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BNB"
+      ],
       "timestamp_utc": "2026-08-07T16:36:59+00:00",
       "raw_text": "Hackers Use BNB Chain to Spread Malware Through Fake CAPTCHAs\n\nMicrosoft said compromised websites are retrieving malicious instructions from the blockchain before tricking visitors into running them on Windows devices.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.174,
+        "t_plus_15m": 0.1593,
+        "t_plus_1h": -0.0942
+      }
     },
     {
       "event_id": "c1f52559-4480-4447-9bc4-808943410ec7",
@@ -68,10 +110,16 @@
       "url": "https://bitcoinmagazine.com/news/bitcoin-price-shrugs-off-coldcard-hack",
       "event_type": "hack",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-07T16:29:44+00:00",
       "raw_text": "Bitcoin Shrugs off Coldcard Hack and Clarity Act Delays, Price Chops Higher as Investors Buy ETFs\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Shrugs-off-Coldcard-Hack-and-Clarity-Act-Dela",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.3632,
+        "t_plus_15m": 0.3641,
+        "t_plus_1h": -0.1696
+      }
     },
     {
       "event_id": "8185dcfb-5bbd-4528-92fb-456b8d0f29d2",
@@ -950,6 +998,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-06T21:11:19+00:00",
       "raw_text": "Following primary loss, crypto PACs invest $1.5M in 3 US state races\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Following primary loss, crypto PACs invest $1.5M in 3 US state races\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/voting-",
+      "impact": {}
+    },
+    {
+      "event_id": "39935c4c-5484-42b7-90bf-5fc17790afde",
+      "source": "rss:theblock",
+      "title": "Bitcoin miners MARA and CleanSpark post double-digit revenue drops as AI infrastructure pivot continues",
+      "url": "https://www.theblock.co/news/business/2026-08-06-bitcoin-miners-mara-cleanspark-double-digital-revenue-drops-ai-infrastructure-pivot-411049?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-06T21:10:23+00:00",
+      "raw_text": "Bitcoin miners MARA and CleanSpark post double-digit revenue drops as AI infrastructure pivot continues\n\n<p>MARA's net loss widened to $611.3 million, or $1.60 per diluted share, while CleanSpark’s was $239.8 million, or $0.89 per basic share.</p>\n\n<p>MARA's net loss widened to $611.3 million, or $1",
       "impact": {}
     },
     {
@@ -6306,78 +6366,30 @@
       "timestamp_utc": "2026-07-31T16:20:58+00:00",
       "raw_text": "US Closes in on Iran’s Strait of Hormuz Bitcoin Insurance Policy, Sanctions Companies\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/US-Closes-In-of-Irans-Bitcoin-Insurance-Policy-in-strait-of-hormu",
       "impact": {}
-    },
-    {
-      "event_id": "ca09812e-bce1-4b86-956e-e36f8e482324",
-      "source": "rss:cointelegraph",
-      "title": "US Treasury yields rise as TIPS challenge the inflation narrative",
-      "url": "https://cointelegraph.com/markets/us-treasury-yields-rise-as-tips-challenge-the-inflation-narrative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-31T16:14:19+00:00",
-      "raw_text": "US Treasury yields rise as TIPS challenge the inflation narrative\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Treasury yields rise as TIPS challenge the inflation narrative\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-cover",
-      "impact": {}
-    },
-    {
-      "event_id": "efad1e5f-a664-4493-a6ee-beb8458afdab",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin price sinks to 2-week lows as US stocks fail to copy Asia rebound",
-      "url": "https://cointelegraph.com/markets/bitcoin-two-week-lows-us-stocks-fail-copy-asia-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-31T15:57:03+00:00",
-      "raw_text": "Bitcoin price sinks to 2-week lows as US stocks fail to copy Asia rebound\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price sinks to 2-week lows as US stocks fail to copy Asia rebound\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
-      "impact": {}
-    },
-    {
-      "event_id": "974de88f-ef62-4474-8ef4-cf9f00ebd91b",
-      "source": "rss:coindesk",
-      "title": "Quantum computing nears commercial breakthrough, IBM CEO says",
-      "url": "https://www.coindesk.com/markets/2026/07/31/quantum-computing-nears-commercial-breakthrough-ibm-ceo-says",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-07-31T15:39:30+00:00",
-      "raw_text": "Quantum computing nears commercial breakthrough, IBM CEO says",
-      "impact": {}
-    },
-    {
-      "event_id": "e990792b-a53a-4e5e-9e61-07f0bd7cbdd2",
-      "source": "rss:decrypt",
-      "title": "Circle Lands New York Trust Charter as Stablecoin Issuer Expands Regulatory Footprint",
-      "url": "https://decrypt.co/374791/circle-new-york-trust-charter-stablecoin-issuer",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-31T15:32:02+00:00",
-      "raw_text": "Circle Lands New York Trust Charter as Stablecoin Issuer Expands Regulatory Footprint\n\nThe approval comes weeks after Circle won federal approval to establish a national trust bank, adding another license as the USDC issuer expands.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 73,
+        "avg_1h": 0.05,
+        "avg_24h": 0.15,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 147,
+        "count": 148,
         "avg_1h": 0.1,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 72,
-        "avg_1h": 0.1,
-        "avg_24h": 0.15,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 184,
+        "count": 183,
         "avg_1h": 0.1,
         "avg_24h": 0.39,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 84,
+        "count": 83,
         "avg_1h": 0.26,
         "avg_24h": 0.49,
         "win_rate_1h_gt5pct": 0.0
