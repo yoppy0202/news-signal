@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T15:24:30.005898+00:00",
+  "generated_at": "2026-08-07T00:11:39.743935+00:00",
   "events": [
     {
       "event_id": "6eb2f01b-6be5-438c-bfae-7d72099aae02",
@@ -164,10 +164,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-treasury-trade-breaking-and-fund-holdings-drop-10-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-06T11:48:37+00:00",
       "raw_text": "Bitcoin treasury trade ‘breaking’ and fund holdings drop 10%: Analysis\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin treasury trade ‘breaking’ and fund holdings drop 10%: Analysis\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/art",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1747,
+        "t_plus_15m": 0.1098,
+        "t_plus_1h": 0.0336
+      }
     },
     {
       "event_id": "4bf56282-2d82-4620-9e72-141b073d1ae9",
@@ -200,10 +206,17 @@
       "url": "https://cointelegraph.com/news/coldcard-hackers-64-btc-200-eth-cryptocurrency-mixers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "hack",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC",
+        "ETH"
+      ],
       "timestamp_utc": "2026-08-06T11:26:00+00:00",
       "raw_text": "Coldcard hackers transfer 64 BTC and 200 ETH to cryptocurrency mixers\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard hackers transfer 64 BTC and 200 ETH to cryptocurrency mixers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-cr",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1651,
+        "t_plus_15m": 0.2486,
+        "t_plus_1h": 0.0851
+      }
     },
     {
       "event_id": "2007a5d5-dafe-4a24-98a8-67eaf37c68ba",
@@ -368,10 +381,17 @@
       "url": "https://www.coindesk.com/tech/2026/08/06/live-updates-bitcoin-nears-usd65-000-as-oil-inflation-hopes-keep-macro-bid-alive",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-06T07:26:23+00:00",
       "raw_text": "Live updates: BTC holding just above $64,000 ahead of Friday's key jobs data",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.3004,
+        "t_plus_15m": 0.2483,
+        "t_plus_1h": 0.1672,
+        "t_plus_4h": -0.1606
+      }
     },
     {
       "event_id": "ee4f41a3-c670-435f-b27e-2c0a4330733b",
@@ -380,10 +400,17 @@
       "url": "https://www.coindesk.com/tech/2026/08/06/live-updates-bitcoin-nears-usd65-000-as-oil-inflation-hopes-keep-macro-bid-alive",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-06T07:26:23+00:00",
       "raw_text": "Live updates: BTC trades near $65,000; SpaceX rises ahead of $100 billion unlock",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.6523,
+        "t_plus_15m": 0.6,
+        "t_plus_1h": 0.5186,
+        "t_plus_4h": 0.1897
+      }
     },
     {
       "event_id": "9824a033-511d-44bb-a838-1bfbef00b6cb",
@@ -6368,7 +6395,7 @@
       },
       "unknown": {
         "count": 186,
-        "avg_1h": 0.1,
+        "avg_1h": 0.12,
         "avg_24h": 0.39,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6380,7 +6407,7 @@
       },
       "hack": {
         "count": 64,
-        "avg_1h": 0.07,
+        "avg_1h": 0.08,
         "avg_24h": 0.15,
         "win_rate_1h_gt5pct": 0.0
       },
