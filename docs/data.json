@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-08-07T07:37:52.997338+00:00",
+  "generated_at": "2026-08-07T09:12:07.418506+00:00",
   "events": [
+    {
+      "event_id": "0a6fe574-ff31-4cb8-b796-a829c6e6f366",
+      "source": "rss:cointelegraph",
+      "title": "CLARITY Act delay gives Asian financial hubs an opening: First Digital CEO",
+      "url": "https://cointelegraph.com/news/clarity-act-delay-asian-crypto-hubs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-07T09:01:14+00:00",
+      "raw_text": "CLARITY Act delay gives Asian financial hubs an opening: First Digital CEO\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CLARITY Act delay gives Asian financial hubs an opening: First Digital CEO\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-co",
+      "impact": {}
+    },
+    {
+      "event_id": "83e024be-c589-4536-b39d-49e0f4885628",
+      "source": "rss:coindesk",
+      "title": "Crypto market maker Wintermute lands SEC approval to trade equities and ETF blocks",
+      "url": "https://www.coindesk.com/business/2026/08/07/wintermute-gains-u-s-broker-dealer-status-in-wall-street-push",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-07T08:46:17+00:00",
+      "raw_text": "Crypto market maker Wintermute lands SEC approval to trade equities and ETF blocks",
+      "impact": {}
+    },
+    {
+      "event_id": "0ef067fd-970b-44df-8d09-ac17d0ec4298",
+      "source": "rss:coindesk",
+      "title": "Ethereum staking token weETH splits from restaking as rewards debate heats up",
+      "url": "https://www.coindesk.com/tech/2026/08/07/ethereum-staking-token-weeth-splits-from-restaking-as-rewards-debate-heats-up",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-07T08:01:28+00:00",
+      "raw_text": "Ethereum staking token weETH splits from restaking as rewards debate heats up",
+      "impact": {}
+    },
+    {
+      "event_id": "2a7f81db-8152-455a-80ea-0326204b848f",
+      "source": "rss:cointelegraph",
+      "title": "Coldcard exploit pushes July losses to $247M as second-worst month of 2026",
+      "url": "https://cointelegraph.com/news/coldcard-exploit-july-second-worst-month-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-07T07:59:42+00:00",
+      "raw_text": "Coldcard exploit pushes July losses to $247M as second-worst month of 2026\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard exploit pushes July losses to $247M as second-worst month of 2026\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-co",
+      "impact": {}
+    },
+    {
+      "event_id": "aeec26b8-8538-4b1f-acb3-3fa0a2a3909d",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin flat at $64,300 before US jobs report, with oil back as a headwind",
+      "url": "https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-07T07:44:57+00:00",
+      "raw_text": "Live updates: Bitcoin flat at $64,300 before US jobs report, with oil back as a headwind",
+      "impact": {}
+    },
     {
       "event_id": "e5dd8449-fb58-4f50-aec9-60a6798860e5",
       "source": "rss:coindesk",
@@ -8,10 +68,16 @@
       "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-whales-load-up-on-usd1-2-billion-in-btc-as-etfs-attract-usd750-million",
       "event_type": "whale_move",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-07T05:45:21+00:00",
       "raw_text": "Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1274,
+        "t_plus_15m": -0.0733,
+        "t_plus_1h": -0.0509
+      }
     },
     {
       "event_id": "4e91e130-615b-41d3-adb6-dacdfe290c45",
@@ -47,6 +113,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-07T04:50:44+00:00",
       "raw_text": "Bitcoin wallet dormant since 2011 moves $3.2 million toward FalconX-linked address",
+      "impact": {}
+    },
+    {
+      "event_id": "2425e207-6728-43d2-86e7-4643f271c93f",
+      "source": "rss:coindesk",
+      "title": "A bitcoin pattern taking shape right now could send prices soaring to $76,000",
+      "url": "https://www.coindesk.com/markets/2026/08/07/a-case-for-a-bitcoin-surge-to-usd76-000-may-be-building-beneath-the-boring-price-action-but-there-s-a-caveat",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-07T04:28:17+00:00",
+      "raw_text": "A bitcoin pattern taking shape right now could send prices soaring to $76,000",
       "impact": {}
     },
     {
@@ -6312,122 +6390,43 @@
       "timestamp_utc": "2026-07-30T21:09:49+00:00",
       "raw_text": "Coinbase shares slip after Q2 results despite prediction markets doubling and record trading market share\n\n<p>Coinbase said 88% of its net revenue now comes from sources other than bitcoin spot trading, as its share of global crypto volume grows.</p>\n\n<p>Coinbase said 88% of its net revenue now come",
       "impact": {}
-    },
-    {
-      "event_id": "43f7dfb5-a188-4720-a08c-1cd7c4c20836",
-      "source": "rss:cointelegraph",
-      "title": "World Cup generated $20B in blockchain prediction market volume: Chainalysis",
-      "url": "https://cointelegraph.com/news/world-cup-generated-20b-prediction-market-volume-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-30T21:04:59+00:00",
-      "raw_text": "World Cup generated $20B in blockchain prediction market volume: Chainalysis\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"World Cup generated $20B in blockchain prediction market volume: Chainalysis\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl",
-      "impact": {}
-    },
-    {
-      "event_id": "be283ed0-1d5b-4b60-ba16-8fdccd19111e",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin Treasury Strategy Posts $8.2B Loss As BTC Price Suffered",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-treasury-strategy-posts-loss",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-30T21:00:08+00:00",
-      "raw_text": "Bitcoin Treasury Strategy Posts $8.2B Loss As BTC Price Suffered\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time-in-Years-as-Bitcoin-Price-Tumbles.jpg\" styl",
-      "impact": {
-        "t_plus_5m": 0.0,
-        "t_plus_15m": -0.0884,
-        "t_plus_1h": -0.0899,
-        "t_plus_4h": -0.0766
-      }
-    },
-    {
-      "event_id": "d4357924-8260-475b-aa0a-895f645bfc5a",
-      "source": "rss:cointelegraph",
-      "title": "Coinbase Q2 profit misses estimates despite record crypto market share",
-      "url": "https://cointelegraph.com/markets/coinbase-q2-earnings-record-crypto-market-share?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-30T20:47:27+00:00",
-      "raw_text": "Coinbase Q2 profit misses estimates despite record crypto market share\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase Q2 profit misses estimates despite record crypto market share\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/new",
-      "impact": {}
-    },
-    {
-      "event_id": "6ac867d0-2518-45fa-895b-6b9936541e3c",
-      "source": "rss:coindesk",
-      "title": "Strategy books $8.2 billion Q2 loss on bitcoin price decline",
-      "url": "https://www.coindesk.com/markets/2026/07/30/strategy-books-usd8-2-billion-second-quarter-loss-on-bitcoin-price-decline",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-30T20:32:13+00:00",
-      "raw_text": "Strategy books $8.2 billion Q2 loss on bitcoin price decline",
-      "impact": {}
-    },
-    {
-      "event_id": "a38af666-e611-42d3-a4c8-fbd566ce61f4",
-      "source": "rss:coindesk",
-      "title": "Coinbase sinks 5% after missing second-quarter revenue estimates",
-      "url": "https://www.coindesk.com/markets/2026/07/30/coinbase-sinks-5-after-missing-q2-revenue-estimates",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-30T20:18:33+00:00",
-      "raw_text": "Coinbase sinks 5% after missing second-quarter revenue estimates",
-      "impact": {}
-    },
-    {
-      "event_id": "bb2e1fdc-aaf5-4d19-876d-5876e7bc9784",
-      "source": "rss:coindesk",
-      "title": "Coinbase sinks 5% after missing second quarter revenue estimates",
-      "url": "https://www.coindesk.com/markets/2026/07/30/coinbase-sinks-5-after-missing-q2-revenue-estimates",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-30T20:18:33+00:00",
-      "raw_text": "Coinbase sinks 5% after missing second quarter revenue estimates",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "whale_move": {
-        "count": 5,
-        "avg_1h": -0.06,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 188,
-        "avg_1h": 0.12,
-        "avg_24h": 0.39,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 148,
-        "avg_1h": 0.28,
-        "avg_24h": -1.0,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
         "count": 82,
         "avg_1h": 0.22,
         "avg_24h": -0.02,
         "win_rate_1h_gt5pct": 0.0
       },
+      "unknown": {
+        "count": 189,
+        "avg_1h": 0.12,
+        "avg_24h": 0.39,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
-        "count": 67,
+        "count": 68,
         "avg_1h": 0.1,
         "avg_24h": 0.15,
         "win_rate_1h_gt5pct": 0.0
       },
+      "whale_move": {
+        "count": 5,
+        "avg_1h": -0.06,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 147,
+        "avg_1h": 0.28,
+        "avg_24h": -1.0,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "listing": {
-        "count": 10,
-        "avg_1h": -0.03,
+        "count": 9,
+        "avg_1h": 0.0,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       }
