@@ -1,8 +1,56 @@
 {
-  "generated_at": "2026-08-07T20:53:55.199470+00:00",
+  "generated_at": "2026-08-07T21:51:38.632743+00:00",
   "events": [
     {
-      "event_id": "b7308dc9-0882-4b04-a95c-080407b0a464",
+      "event_id": "19cbd75a-a9ed-426b-b7b5-c4aee1017314",
+      "source": "rss:bitcoinmagazine",
+      "title": "Trump Media Pulls Back From Crypto Deals: Report",
+      "url": "https://bitcoinmagazine.com/news/trump-media-pulls-back-from-crypto-deals",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-07T21:15:05+00:00",
+      "raw_text": "Trump Media Pulls Back From Crypto Deals: Report\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Trump-Media.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.c",
+      "impact": {}
+    },
+    {
+      "event_id": "868d8015-0313-446e-aab3-a359e550ccbb",
+      "source": "rss:coindesk",
+      "title": "Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal",
+      "url": "https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-07T21:13:21+00:00",
+      "raw_text": "Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal",
+      "impact": {}
+    },
+    {
+      "event_id": "48b57503-ddd2-4a7b-aad7-4d21cfaf0f74",
+      "source": "rss:decrypt",
+      "title": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures",
+      "url": "https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-07T21:05:59+00:00",
+      "raw_text": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures\n\nTruth Social's parent company is unwinding two major Crypto.com deals as new leadership shifts its focus to media, data licensing, and a planned merger with fusion energy company TAE.",
+      "impact": {}
+    },
+    {
+      "event_id": "da5bf305-b3d3-4ae3-900d-6ae9c1c9a069",
+      "source": "rss:theblock",
+      "title": "Trump Media and Crypto.com end partnerships as companies shifts priorities",
+      "url": "https://www.theblock.co/news/deals/2026-08-07-trump-media-crypto-com-end-partnerships-as-companies-shifts-priorities-411198?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-07T21:01:36+00:00",
+      "raw_text": "Trump Media and Crypto.com end partnerships as companies shifts priorities\n\n<p>This ends plans Trump Media, Crypto.com and Yorkville Acquisition Corp. had to turn Yorkville into a CRO treasury company.</p>\n\n<p>This ends plans Trump Media, Crypto.com and Yorkville Acquisition Corp. had to turn Yorkvi",
+      "impact": {}
+    },
+    {
+      "event_id": "bd9e422e-3fb7-4d84-ac14-89e9b3e0f914",
       "source": "rss:bitcoinmagazine",
       "title": "Senators Cynthia Lummis and Angela Alsobrooks Say Bipartisan Work on Clarity Act Continues Despite Delays",
       "url": "https://bitcoinmagazine.com/news/lummis-alsobrooks-work-on-clarity-act",
@@ -14,7 +62,7 @@
       "impact": {}
     },
     {
-      "event_id": "e3aada1d-0c17-425d-bac3-6313e07fb058",
+      "event_id": "6041465d-9a2d-4828-b00a-63d3e57fab8d",
       "source": "rss:decrypt",
       "title": "Treasury Sanctions Crypto Exchanges It Says Laundered Millions for Iran",
       "url": "https://decrypt.co/375163/treasury-sanctions-crypto-exchanges-laundered-millions-iran",
@@ -26,7 +74,19 @@
       "impact": {}
     },
     {
-      "event_id": "24c37587-c224-4661-a59c-bdc55ed1cfc8",
+      "event_id": "b1818201-eff2-4624-a276-cc2914349181",
+      "source": "rss:coindesk",
+      "title": "Trump-Backed American Bitcoin director Justin Mateen buys nearly $2 million of ABTC stock",
+      "url": "https://www.coindesk.com/business/2026/08/07/trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-usd2-million-of-abtc-stock",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-07T20:20:00+00:00",
+      "raw_text": "Trump-Backed American Bitcoin director Justin Mateen buys nearly $2 million of ABTC stock",
+      "impact": {}
+    },
+    {
+      "event_id": "0b86e598-abb1-440a-ac2e-f864ac76e754",
       "source": "rss:cointelegraph",
       "title": "US Treasury’s OFAC sanctions 2 Iran-linked crypto exchanges",
       "url": "https://cointelegraph.com/news/us-treasury-sanctions-iran-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -38,7 +98,7 @@
       "impact": {}
     },
     {
-      "event_id": "bb836e28-fcbe-4f9c-8d3d-2f750b3c1820",
+      "event_id": "1f47fe29-4750-427c-b453-92b6de966c79",
       "source": "rss:decrypt",
       "title": "Bitcoin Payment Service BTCPay Warns Critical Flaw Is Under Active Attack",
       "url": "https://decrypt.co/375159/bitcoin-payment-service-btcpay-critical-flaw-active-attack",
@@ -68,10 +128,16 @@
       "url": "https://www.theblock.co/news/defi/2026-08-07-sharplink-ceo-warns-eip-8363-could-kill-eths-biggest-advantage-over-bitcoin-411186?utm_source=rss&utm_medium=rss",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-08-07T19:37:14+00:00",
       "raw_text": "SharpLink CEO warns EIP-8363 could kill ETH’s biggest advantage over Bitcoin\n\n<p>The \"Tapered Issuance Burn\" proposal would phase in a rising burn of consensus rewards to limit the amount of ETH staked.</p>\n\n<p>The \"Tapered Issuance Burn\" proposal would phase in a rising burn of consensus rewards to",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0287,
+        "t_plus_15m": 0.0586,
+        "t_plus_1h": -0.1323
+      }
     },
     {
       "event_id": "898e3515-fdca-47c1-babb-b1d5ddd7c8e3",
@@ -208,7 +274,8 @@
       "impact": {
         "t_plus_5m": 0.174,
         "t_plus_15m": 0.1593,
-        "t_plus_1h": -0.0942
+        "t_plus_1h": -0.0942,
+        "t_plus_4h": 0.0893
       }
     },
     {
@@ -238,7 +305,8 @@
       "impact": {
         "t_plus_5m": 0.3632,
         "t_plus_15m": 0.3641,
-        "t_plus_1h": -0.1696
+        "t_plus_1h": -0.1696,
+        "t_plus_4h": 0.4207
       }
     },
     {
@@ -6318,90 +6386,36 @@
       "timestamp_utc": "2026-07-31T19:34:26+00:00",
       "raw_text": "Coinbase’s Q2 miss sparks split on Wall Street, analysts debate growth beyond crypto trading\n\n<p>Wall Street lowered Coinbase targets after second-quarter earnings but remains split on the company's outlook.</p>\n\n<p>Wall Street lowered Coinbase targets after second-quarter earnings but remains split",
       "impact": {}
-    },
-    {
-      "event_id": "777edd50-a78d-440d-818e-af4758051b1e",
-      "source": "rss:cointelegraph",
-      "title": "Pump.fun laid off workers before they received millions in PUMP tokens: Report",
-      "url": "https://cointelegraph.com/news/pump-fun-employees-fired-tokens-vest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-31T19:16:19+00:00",
-      "raw_text": "Pump.fun laid off workers before they received millions in PUMP tokens: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Pump.fun laid off workers before they received millions in PUMP tokens: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar",
-      "impact": {}
-    },
-    {
-      "event_id": "d54c8519-3f31-4b59-8b5c-41f56d1d476e",
-      "source": "rss:bitcoinmagazine",
-      "title": "Younger Democrats Understand Clarity Act And Bill Should Pass, Says Coinbase’s Chief Policy Officer",
-      "url": "https://bitcoinmagazine.com/news/clarity-act-should-pass-says-coinbase",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-31T19:12:37+00:00",
-      "raw_text": "Younger Democrats Understand Clarity Act And Bill Should Pass, Says Coinbase’s Chief Policy Officer\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Younger-Democrats-Understand-Clarity-Act.jpg\" style",
-      "impact": {}
-    },
-    {
-      "event_id": "bbc3575b-8cce-410f-82e0-a7ab66499e1b",
-      "source": "rss:coindesk",
-      "title": "Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half",
-      "url": "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-31T18:24:55+00:00",
-      "raw_text": "Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half",
-      "impact": {}
-    },
-    {
-      "event_id": "4a28928e-3297-448b-93b6-36e98362f863",
-      "source": "rss:theblock",
-      "title": "Tether’s excess reserves fall by more than $4 billion amid weaker Q2 financial results",
-      "url": "https://www.theblock.co/post/410305/tethers-excess-reserves-fall-by-more-than-4-billion-amid-weaker-q2-financial-results?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-31T17:58:47+00:00",
-      "raw_text": "Tether’s excess reserves fall by more than $4 billion amid weaker Q2 financial results\n\n<p>Tether swung from $4.9 billion in net profit for Q2 2025 to $1.5 in net operating profit during the second quarter of this year.</p>\n\n<p>Tether swung from $4.9 billion in net profit for Q2 2025 to $1.5 in net ",
-      "impact": {}
-    },
-    {
-      "event_id": "b3fba1d9-61a9-44bb-b2f7-6b06179da797",
-      "source": "rss:bitcoinmagazine",
-      "title": "Coinkite Releases Fixed Firmware After Coldcard Bug; AI Likely Involved In The Breach",
-      "url": "https://bitcoinmagazine.com/business/coinkite-releases-fixed-firmware-after-coldcard-bug-ai-likely-involved-in-the-hack",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-31T17:57:02+00:00",
-      "raw_text": "Coinkite Releases Fixed Firmware After Coldcard Bug; AI Likely Involved In The Breach\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/tn2-3.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "listing": {
+        "count": 9,
+        "avg_1h": -0.07,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 185,
+        "avg_1h": 0.09,
+        "avg_24h": 0.39,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 83,
+        "count": 81,
         "avg_1h": 0.26,
         "avg_24h": 0.49,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 182,
-        "avg_1h": 0.1,
-        "avg_24h": 0.39,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 150,
+        "count": 149,
         "avg_1h": 0.1,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 72,
+        "count": 71,
         "avg_1h": 0.04,
         "avg_24h": 0.15,
         "win_rate_1h_gt5pct": 0.0
@@ -6409,12 +6423,6 @@
       "whale_move": {
         "count": 5,
         "avg_1h": -0.06,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "listing": {
-        "count": 8,
-        "avg_1h": -0.07,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       }
