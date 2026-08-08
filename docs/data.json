@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T23:44:28.601436+00:00",
+  "generated_at": "2026-08-08T02:17:34.227119+00:00",
   "events": [
     {
       "event_id": "8db7d168-2252-4dc4-b38b-3ffacd9eb9cf",
@@ -47,6 +47,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-07T21:05:59+00:00",
       "raw_text": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures\n\nTruth Social's parent company is unwinding two major Crypto.com deals as new leadership shifts its focus to media, data licensing, and a planned merger with fusion energy company TAE.",
+      "impact": {}
+    },
+    {
+      "event_id": "b31d79ea-7629-43dd-b262-c690266efe96",
+      "source": "rss:theblock",
+      "title": "Trump Media and Crypto.com end partnerships as companies shift priorities",
+      "url": "https://www.theblock.co/news/deals/2026-08-07-trump-media-crypto-com-end-partnerships-as-companies-shifts-priorities-411198?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-07T21:01:36+00:00",
+      "raw_text": "Trump Media and Crypto.com end partnerships as companies shift priorities\n\n<p>This ends plans Trump Media, Crypto.com and Yorkville Acquisition Corp. had to turn Yorkville into a CRO treasury company.</p>\n\n<p>This ends plans Trump Media, Crypto.com and Yorkville Acquisition Corp. had to turn Yorkvil",
       "impact": {}
     },
     {
@@ -148,7 +160,8 @@
       "impact": {
         "t_plus_5m": 0.0287,
         "t_plus_15m": 0.0586,
-        "t_plus_1h": -0.1323
+        "t_plus_1h": -0.1323,
+        "t_plus_4h": -0.1661
       }
     },
     {
@@ -6376,24 +6389,12 @@
       "timestamp_utc": "2026-07-31T20:03:22+00:00",
       "raw_text": "AI Music Company Suno Loses Copyright Case in Germany\n\nThe decision requires AI companies to license copyrighted music used to train models and generate songs, marking another legal win for music rights holders in Europe.",
       "impact": {}
-    },
-    {
-      "event_id": "09dfef47-f7f4-4cd5-aaff-85d0a922f81a",
-      "source": "rss:decrypt",
-      "title": "US Is Banning Foreign Robots—Even Roombas",
-      "url": "https://decrypt.co/374799/fcc-bans-foreign-humanoid-robots-china-roombas",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-31T19:43:24+00:00",
-      "raw_text": "US Is Banning Foreign Robots—Even Roombas\n\nNew restrictions block future models of foreign-made robots and connected power inverters from receiving FCC approval after U.S. national security agencies warned they could pose cybersecurity and supply chain risks.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 186,
+        "count": 187,
         "avg_1h": 0.09,
         "avg_24h": 0.39,
         "win_rate_1h_gt5pct": 0.0
@@ -6405,7 +6406,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 80,
+        "count": 79,
         "avg_1h": 0.26,
         "avg_24h": 0.49,
         "win_rate_1h_gt5pct": 0.0
