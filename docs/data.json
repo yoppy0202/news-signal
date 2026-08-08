@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-08T20:44:26.010211+00:00",
+  "generated_at": "2026-08-08T21:41:50.249978+00:00",
   "events": [
+    {
+      "event_id": "3ebd6bdf-a552-4fec-8871-7d14d8ba0004",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%",
+      "url": "https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-08T21:17:08+00:00",
+      "raw_text": "Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
+      "impact": {}
+    },
     {
       "event_id": "30a58c04-1f91-4dc3-81a3-586fbbe0e3e0",
       "source": "rss:coindesk",
@@ -6376,24 +6388,18 @@
       "timestamp_utc": "2026-08-01T16:01:17+00:00",
       "raw_text": "CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: 'Nothing Is 100%'\n\nThe Binance founder urged holders to spread funds across multiple wallets as Galaxy Research put the toll from the Coldcard exploit at roughly $70 million—nearly double the initial estimate.",
       "impact": {}
-    },
-    {
-      "event_id": "29012980-f71a-482f-89be-35ae06d348b1",
-      "source": "rss:coindesk",
-      "title": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances",
-      "url": "https://www.coindesk.com/business/2026/08/01/bank-of-italy-research-suggests-stablecoins-aren-t-necessarily-cheaper-for-remittances",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-01T16:00:00+00:00",
-      "raw_text": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 146,
+        "avg_1h": 0.1,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 191,
+        "count": 190,
         "avg_1h": 0.1,
         "avg_24h": 0.88,
         "win_rate_1h_gt5pct": 0.0
@@ -6408,12 +6414,6 @@
         "count": 80,
         "avg_1h": 0.26,
         "avg_24h": 0.49,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 145,
-        "avg_1h": 0.1,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
