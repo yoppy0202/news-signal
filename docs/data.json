@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-08T22:42:37.105060+00:00",
+  "generated_at": "2026-08-08T23:39:50.180729+00:00",
   "events": [
+    {
+      "event_id": "165cc2d7-3b12-4ed0-914d-c7deb694090e",
+      "source": "rss:theblock",
+      "title": "Bitcoin’s BIP-110 supporters split onto minority chain as main network pulls ahead",
+      "url": "https://www.theblock.co/news/ecosystems/2026-08-08-bitcoins-bip-110-supporters-split-onto-minority-chain-as-main-network-pulls-ahead-411213?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-08T22:05:44+00:00",
+      "raw_text": "Bitcoin’s BIP-110 supporters split onto minority chain as main network pulls ahead\n\n<p>BIP-110 is a proposed one-year change that limits non-financial data on Bitcoin and has sparked a debate over how Bitcoin's block space should be used.</p>\n\n<p>BIP-110 is a proposed one-year change that limits non",
+      "impact": {}
+    },
     {
       "event_id": "3ebd6bdf-a552-4fec-8871-7d14d8ba0004",
       "source": "rss:cointelegraph",
@@ -6376,24 +6388,12 @@
       "timestamp_utc": "2026-08-01T16:09:15+00:00",
       "raw_text": "Russian decree bans crypto mining across Moscow region through 2032\n\n<p>Regional energy officials had estimated that mining consumes 1 GW of power and could contribute to future electricity shortages. </p>\n\n<p>Regional energy officials had estimated that mining consumes 1 GW of power and could contr",
       "impact": {}
-    },
-    {
-      "event_id": "286dfe9b-4a8e-4797-9e97-5b4e74ea21ec",
-      "source": "rss:decrypt",
-      "title": "CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: 'Nothing Is 100%'",
-      "url": "https://decrypt.co/374810/cz-warns-bitcoin-holders-70-million-coldcard-wallet-exploit",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-01T16:01:17+00:00",
-      "raw_text": "CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: 'Nothing Is 100%'\n\nThe Binance founder urged holders to spread funds across multiple wallets as Galaxy Research put the toll from the Coldcard exploit at roughly $70 million—nearly double the initial estimate.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 146,
+        "count": 147,
         "avg_1h": 0.1,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
@@ -6405,7 +6405,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 70,
+        "count": 69,
         "avg_1h": 0.04,
         "avg_24h": 0.45,
         "win_rate_1h_gt5pct": 0.0
