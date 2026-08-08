@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-08T19:39:44.704001+00:00",
+  "generated_at": "2026-08-08T20:44:26.010211+00:00",
   "events": [
+    {
+      "event_id": "30a58c04-1f91-4dc3-81a3-586fbbe0e3e0",
+      "source": "rss:coindesk",
+      "title": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
+      "url": "https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-08T20:06:47+00:00",
+      "raw_text": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
+      "impact": {}
+    },
     {
       "event_id": "6703b7ee-9637-4efe-a504-30b184c65f24",
       "source": "rss:coindesk",
@@ -6375,18 +6387,6 @@
       "tokens": [],
       "timestamp_utc": "2026-08-01T16:00:00+00:00",
       "raw_text": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances",
-      "impact": {}
-    },
-    {
-      "event_id": "3ef628e6-ebac-4ff2-8954-1b0a18d56cb5",
-      "source": "rss:coindesk",
-      "title": "Bitcoin mining difficulty shrinks 14% from this year's high as plunging revenues force operators to pivot",
-      "url": "https://www.coindesk.com/business/2026/08/01/bitcoin-mining-difficulty-shrinks-14-from-this-year-s-high-as-plunging-revenues-force-operators-to-pivot",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-01T15:51:10+00:00",
-      "raw_text": "Bitcoin mining difficulty shrinks 14% from this year's high as plunging revenues force operators to pivot",
       "impact": {}
     }
   ],
