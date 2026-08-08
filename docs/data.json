@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-08T16:48:41.090953+00:00",
+  "generated_at": "2026-08-08T17:42:09.608052+00:00",
   "events": [
+    {
+      "event_id": "6b167d29-8968-4194-acd5-80a3b4494b46",
+      "source": "rss:decrypt",
+      "title": "Senate Keeps Clarity Act Alive With Crypto Bill Vote Set for September",
+      "url": "https://decrypt.co/375174/senate-keeps-clarity-act-alive-with-crypto-bill-vote-set-for-september",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-08T16:33:02+00:00",
+      "raw_text": "Senate Keeps Clarity Act Alive With Crypto Bill Vote Set for September\n\nSenate Majority Leader John Thune filed the motion to proceed early Saturday, setting up a mid-September showdown.",
+      "impact": {}
+    },
+    {
+      "event_id": "4dbd63d0-a8b9-44a9-95a1-f4b6e4e97d45",
+      "source": "rss:cointelegraph",
+      "title": "US spot Bitcoin ETFs post best week since April with $1B inflows",
+      "url": "https://cointelegraph.com/news/us-bitcoin-etfs-best-weekly-inflows-april-coldcard-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-08T16:20:17+00:00",
+      "raw_text": "US spot Bitcoin ETFs post best week since April with $1B inflows\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US spot Bitcoin ETFs post best week since April with $1B inflows\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-part-2-where",
+      "impact": {}
+    },
     {
       "event_id": "5da9d2d5-c1a7-4fa3-9503-7df7d2f15b5f",
       "source": "rss:coindesk",
@@ -6363,30 +6387,6 @@
       "timestamp_utc": "2026-08-01T15:01:09+00:00",
       "raw_text": "The More Americans Know About AI, the Less They Like It: Gallup\n\nGallup says Americans are growing more skeptical of artificial intelligence, with rising concerns about job losses, businesses' use of the technology, and the technology’s growing impact.",
       "impact": {}
-    },
-    {
-      "event_id": "7de6e3ce-ff49-4169-b45d-5850bcdc54e7",
-      "source": "rss:coindesk",
-      "title": "Everyone has the perps convergence backwards",
-      "url": "https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-01T13:00:00+00:00",
-      "raw_text": "Everyone has the perps convergence backwards",
-      "impact": {}
-    },
-    {
-      "event_id": "0cf13d35-6e48-436d-a701-d41fe0e7aac4",
-      "source": "rss:coindesk",
-      "title": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
-      "url": "https://www.coindesk.com/tech/2026/07/31/solana-foundation-s-new-ciso-warns-ai-is-making-crypto-scams-more-convincing",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-01T13:00:00+00:00",
-      "raw_text": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
-      "impact": {}
     }
   ],
   "stats": {
@@ -6398,7 +6398,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 80,
+        "count": 81,
         "avg_1h": 0.26,
         "avg_24h": 0.49,
         "win_rate_1h_gt5pct": 0.0
@@ -6410,7 +6410,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 148,
+        "count": 147,
         "avg_1h": 0.1,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
