@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-08T08:55:31.895686+00:00",
+  "generated_at": "2026-08-08T09:50:19.738864+00:00",
   "events": [
+    {
+      "event_id": "95dd6d47-6e35-4397-b80f-0237510d1438",
+      "source": "rss:coindesk",
+      "title": "U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month",
+      "url": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-08T09:07:24+00:00",
+      "raw_text": "U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month",
+      "impact": {}
+    },
     {
       "event_id": "9f679b2f-df62-46ad-88fb-7ce0b3f8ddfd",
       "source": "rss:coindesk",
@@ -52,7 +64,8 @@
       "impact": {
         "t_plus_5m": 0.3607,
         "t_plus_15m": 0.2388,
-        "t_plus_1h": 0.1375
+        "t_plus_1h": 0.1375,
+        "t_plus_4h": 0.0082
       }
     },
     {
@@ -6382,22 +6395,16 @@
       "timestamp_utc": "2026-07-31T21:01:14+00:00",
       "raw_text": "Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Coldcard-Bitcoin-Thief-Likely-Used-Top-Blockchain-Services-Provider.jpg\" st",
       "impact": {}
-    },
-    {
-      "event_id": "5a1cfa99-2137-4a09-bfb3-21876e6bc53e",
-      "source": "rss:coindesk",
-      "title": "Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say",
-      "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-31T20:50:58+00:00",
-      "raw_text": "Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 189,
+        "avg_1h": 0.1,
+        "avg_24h": 0.39,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
         "count": 72,
         "avg_1h": 0.04,
@@ -6405,15 +6412,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 147,
+        "count": 146,
         "avg_1h": 0.1,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 188,
-        "avg_1h": 0.1,
-        "avg_24h": 0.39,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
