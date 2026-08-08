@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-08T04:17:36.277947+00:00",
+  "generated_at": "2026-08-08T05:52:41.787069+00:00",
   "events": [
+    {
+      "event_id": "2ddf8f1c-1a67-4ae7-b6b2-31a7759f5930",
+      "source": "rss:cointelegraph",
+      "title": "US court backs Bybit’s bid to trace funds from $1.5B North Korea hack",
+      "url": "https://cointelegraph.com/news/bybit-us-court-trace-funds-north-korea-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-08T04:11:53+00:00",
+      "raw_text": "US court backs Bybit’s bid to trace funds from $1.5B North Korea hack\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US court backs Bybit’s bid to trace funds from $1.5B North Korea hack \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-t",
+      "impact": {}
+    },
+    {
+      "event_id": "c6d6b6bc-1e49-4551-ac61-ec9ddabfe963",
+      "source": "rss:coindesk",
+      "title": "New XRP Ledger amendments target $530 million in tokenized Wall Street assets",
+      "url": "https://www.coindesk.com/tech/2026/08/07/new-xrp-ledger-amendments-target-usd530-million-in-tokenized-wall-street-assets",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-08T03:30:00+00:00",
+      "raw_text": "New XRP Ledger amendments target $530 million in tokenized Wall Street assets",
+      "impact": {}
+    },
     {
       "event_id": "9d8c92a2-beef-4756-aba3-c79d9a2b0328",
       "source": "rss:coindesk",
@@ -8,10 +32,16 @@
       "url": "https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-08T02:30:00+00:00",
       "raw_text": "Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0155,
+        "t_plus_15m": -0.0181,
+        "t_plus_1h": 0.1465
+      }
     },
     {
       "event_id": "8db7d168-2252-4dc4-b38b-3ffacd9eb9cf",
@@ -6357,45 +6387,19 @@
       "timestamp_utc": "2026-07-31T20:25:30+00:00",
       "raw_text": "Former Rep. George Santos agrees to pay $35,000 in CFTC settlement over Kalshi SOTU bet\n\n<p>Former expelled U.S. Rep. George Santos settled with CFTC over trades made on Kalshi about the State of the Union.</p>\n\n<p>Former expelled U.S. Rep. George Santos settled with CFTC over trades made on Kalshi ",
       "impact": {}
-    },
-    {
-      "event_id": "81525b72-bf87-414a-ac51-218c7ba9b9cd",
-      "source": "rss:theblock",
-      "title": "Bitcoin losses linked to Coldcard vulnerability grow to $70 million, Galaxy Research says",
-      "url": "https://www.theblock.co/post/410332/bitcoin-losses-linked-coldcard-vulnerability-70-million-galaxy-research?utm_source=rss&utm_medium=rss",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-07-31T20:20:52+00:00",
-      "raw_text": "Bitcoin losses linked to Coldcard vulnerability grow to $70 million, Galaxy Research says\n\n<p>Galaxy said nearly 1,200 addresses were drained of more than 1,000 BTC worth roughly $70 million tied to a Coldcard vulnerability.</p>\n\n<p>Galaxy said nearly 1,200 addresses were drained of more than 1,000 ",
-      "impact": {
-        "t_plus_5m": 0.0073,
-        "t_plus_15m": 0.0135,
-        "t_plus_1h": 0.051,
-        "t_plus_4h": -0.0416,
-        "t_plus_24h": -0.7297
-      }
-    },
-    {
-      "event_id": "8d2aa9f4-781e-4502-93c9-7c53e63b1dc4",
-      "source": "rss:cointelegraph",
-      "title": "Bank of Italy finds no consistent cost advantage for stablecoin remittances",
-      "url": "https://cointelegraph.com/news/bank-of-italy-study-no-stablecoin-remittance-cost-advantages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-31T20:10:21+00:00",
-      "raw_text": "Bank of Italy finds no consistent cost advantage for stablecoin remittances\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bank of Italy finds no consistent cost advantage for stablecoin remittances\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 71,
+        "avg_1h": 0.04,
+        "avg_24h": 0.45,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 188,
-        "avg_1h": 0.09,
+        "count": 189,
+        "avg_1h": 0.1,
         "avg_24h": 0.39,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6412,15 +6416,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 148,
+        "count": 147,
         "avg_1h": 0.1,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 71,
-        "avg_1h": 0.04,
-        "avg_24h": 0.15,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
