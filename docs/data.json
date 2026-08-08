@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-08T13:54:48.739049+00:00",
+  "generated_at": "2026-08-08T14:45:20.811581+00:00",
   "events": [
+    {
+      "event_id": "c65659c5-18ec-494b-b4c0-e6a544eb8c55",
+      "source": "rss:decrypt",
+      "title": "Robinhood Crypto Chief Explains Why There Are 'Two Wolves' Inside Robinhood Chain",
+      "url": "https://decrypt.co/375158/robinhood-crypto-two-wolves-robinhood-chain-rwa-meme-coins",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-08T14:01:05+00:00",
+      "raw_text": "Robinhood Crypto Chief Explains Why There Are 'Two Wolves' Inside Robinhood Chain\n\n“We want to show customers that we care about what they care about,\" Robinhood head of crypto Johann Kerbrat told Decrypt.",
+      "impact": {}
+    },
+    {
+      "event_id": "9e4046a4-8dd7-4ebc-b263-06d6ca6ad9e0",
+      "source": "rss:coindesk",
+      "title": "Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan",
+      "url": "https://www.coindesk.com/business/2026/08/08/trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwise-s-matt-hougan",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-08T14:00:00+00:00",
+      "raw_text": "Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan",
+      "impact": {}
+    },
+    {
+      "event_id": "440d6b90-205a-41b5-a8a9-30beeb46b3bc",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin will never fall below $60K again: Nansen founder",
+      "url": "https://cointelegraph.com/magazine/bitcoin-will-never-fall-below-60k-again-nansen-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-08T13:30:00+00:00",
+      "raw_text": "Bitcoin will never fall below $60K again: Nansen founder\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin will never fall below $60K again: Nansen founder\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/alex-svanevik-interview.jpg\" />",
+      "impact": {}
+    },
     {
       "event_id": "5892bb99-17b9-461b-91b3-36252952c3c9",
       "source": "rss:coindesk",
@@ -6351,76 +6387,32 @@
       "timestamp_utc": "2026-08-01T09:01:08+00:00",
       "raw_text": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
       "impact": {}
-    },
-    {
-      "event_id": "4ac78b62-e8c3-4d8a-98b6-b19ace31db34",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin ETFs end July in the green despite late-month selling",
-      "url": "https://cointelegraph.com/markets/bitcoin-etfs-july-green-despite-late-month-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-01T07:23:07+00:00",
-      "raw_text": "Bitcoin ETFs end July in the green despite late-month selling\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs end July in the green despite late-month selling\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-cmc-verified-info-",
-      "impact": {}
-    },
-    {
-      "event_id": "45d3daae-111d-4137-b1a4-157cadff7084",
-      "source": "rss:coindesk",
-      "title": "XRP Ledger upgrade brings back features once pulled over critical bugs",
-      "url": "https://www.coindesk.com/tech/2026/08/01/xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-08-01T06:09:51+00:00",
-      "raw_text": "XRP Ledger upgrade brings back features once pulled over critical bugs",
-      "impact": {
-        "t_plus_5m": -0.0259,
-        "t_plus_15m": 0.045,
-        "t_plus_1h": -0.0367,
-        "t_plus_4h": -0.279,
-        "t_plus_24h": 1.8017
-      }
-    },
-    {
-      "event_id": "b1874589-332a-44ea-8c4a-c0eecb8c321a",
-      "source": "rss:coindesk",
-      "title": "How bitcoin cold wallets lost $70 million in an attack that never touched the devices",
-      "url": "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-01T05:55:46+00:00",
-      "raw_text": "How bitcoin cold wallets lost $70 million in an attack that never touched the devices",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 80,
-        "avg_1h": 0.26,
-        "avg_24h": 0.49,
+      "narrative": {
+        "count": 148,
+        "avg_1h": 0.1,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
         "count": 189,
         "avg_1h": 0.1,
-        "avg_24h": 0.39,
+        "avg_24h": -1.03,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 79,
+        "avg_1h": 0.26,
+        "avg_24h": 0.49,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 71,
+        "count": 70,
         "avg_1h": 0.04,
         "avg_24h": 0.45,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 146,
-        "avg_1h": 0.1,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
