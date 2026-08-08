@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-08T07:58:13.862255+00:00",
+  "generated_at": "2026-08-08T08:55:31.895686+00:00",
   "events": [
+    {
+      "event_id": "9f679b2f-df62-46ad-88fb-7ce0b3f8ddfd",
+      "source": "rss:coindesk",
+      "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
+      "url": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-08T07:46:04+00:00",
+      "raw_text": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
+      "impact": {}
+    },
     {
       "event_id": "6e571d1a-aa78-4670-bc99-0d2d3ca78d12",
       "source": "rss:cointelegraph",
@@ -6382,32 +6394,20 @@
       "timestamp_utc": "2026-07-31T20:50:58+00:00",
       "raw_text": "Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say",
       "impact": {}
-    },
-    {
-      "event_id": "a2982f75-6c69-484f-a9b3-da27a90a635d",
-      "source": "rss:decrypt",
-      "title": "Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears",
-      "url": "https://decrypt.co/374805/google-yanks-google-earth-ai-image-tool-deepfake-fears",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-31T20:32:50+00:00",
-      "raw_text": "Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears\n\nThe Nano Banana tool let users generate fake satellite scenes from a text prompt, alarming investigators who rely on Google Earth to verify breaking news and atrocities.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 148,
-        "avg_1h": 0.1,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 71,
+        "count": 72,
         "avg_1h": 0.04,
         "avg_24h": 0.45,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 147,
+        "avg_1h": 0.1,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
