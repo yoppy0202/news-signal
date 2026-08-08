@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-08T14:45:20.811581+00:00",
+  "generated_at": "2026-08-08T15:41:05.408403+00:00",
   "events": [
+    {
+      "event_id": "5da9d2d5-c1a7-4fa3-9503-7df7d2f15b5f",
+      "source": "rss:coindesk",
+      "title": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
+      "url": "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-08T15:25:38+00:00",
+      "raw_text": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
+      "impact": {}
+    },
+    {
+      "event_id": "dab7b26e-2e58-4cba-8fd4-cc92ba83cf1b",
+      "source": "rss:cointelegraph",
+      "title": "US Senate to vote on advancing CLARITY Act in September after Thune files cloture",
+      "url": "https://cointelegraph.com/news/us-senate-clarity-act-september-vote-thune-cloture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-08T15:08:06+00:00",
+      "raw_text": "US Senate to vote on advancing CLARITY Act in September after Thune files cloture\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Senate to vote on advancing CLARITY Act in September after Thune files cloture\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me",
+      "impact": {}
+    },
+    {
+      "event_id": "86be611b-3d5b-4779-b0a0-75ba3c54777a",
+      "source": "rss:theblock",
+      "title": "Bitcoin, ether ETFs draw $1.1 billion in best inflow week since April, despite low volume",
+      "url": "https://www.theblock.co/news/markets/2026-08-08-bitcoin-ether-etfs-draw-1-1-billion-in-best-inflow-week-since-april-despite-low-volume-411204?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-08T14:52:11+00:00",
+      "raw_text": "Bitcoin, ether ETFs draw $1.1 billion in best inflow week since April, despite low volume\n\n<p>Bloomberg analyst Eric Balchunas tied the run to the Coldcard wallet exploit, noting several Bitcoin funds have drawn inflows daily since the hack. </p>\n\n<p>Bloomberg analyst Eric Balchunas tied the run to ",
+      "impact": {}
+    },
     {
       "event_id": "c65659c5-18ec-494b-b4c0-e6a544eb8c55",
       "source": "rss:decrypt",
@@ -6351,52 +6387,10 @@
       "timestamp_utc": "2026-08-01T13:00:00+00:00",
       "raw_text": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
       "impact": {}
-    },
-    {
-      "event_id": "d5b2eb19-c973-42d8-aef8-bfa050d6758d",
-      "source": "rss:cointelegraph",
-      "title": "Russia expands crypto mining ban to Moscow through 2032",
-      "url": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-01T10:23:41+00:00",
-      "raw_text": "Russia expands crypto mining ban to Moscow through 2032\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Russia expands crypto mining ban to Moscow through 2032\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-china-mining-ban.jpg\" /></p><p",
-      "impact": {}
-    },
-    {
-      "event_id": "76e112eb-9b7a-41b5-9ca4-eb50bbb260ae",
-      "source": "rss:cointelegraph",
-      "title": "Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis",
-      "url": "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-01T09:23:56+00:00",
-      "raw_text": "Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hand-coin-l",
-      "impact": {}
-    },
-    {
-      "event_id": "089d7145-5520-455b-bace-c8d05297164f",
-      "source": "rss:coindesk",
-      "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
-      "url": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-01T09:01:08+00:00",
-      "raw_text": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 148,
-        "avg_1h": 0.1,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
         "count": 189,
         "avg_1h": 0.1,
@@ -6404,15 +6398,21 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 79,
+        "count": 80,
         "avg_1h": 0.26,
         "avg_24h": 0.49,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 70,
+        "count": 69,
         "avg_1h": 0.04,
         "avg_24h": 0.45,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 148,
+        "avg_1h": 0.1,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
