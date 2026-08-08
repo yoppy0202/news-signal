@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-08T02:17:34.227119+00:00",
+  "generated_at": "2026-08-08T04:17:36.277947+00:00",
   "events": [
+    {
+      "event_id": "9d8c92a2-beef-4756-aba3-c79d9a2b0328",
+      "source": "rss:coindesk",
+      "title": "Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer",
+      "url": "https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-08T02:30:00+00:00",
+      "raw_text": "Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer",
+      "impact": {}
+    },
     {
       "event_id": "8db7d168-2252-4dc4-b38b-3ffacd9eb9cf",
       "source": "rss:cointelegraph",
@@ -6377,24 +6389,12 @@
       "timestamp_utc": "2026-07-31T20:10:21+00:00",
       "raw_text": "Bank of Italy finds no consistent cost advantage for stablecoin remittances\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bank of Italy finds no consistent cost advantage for stablecoin remittances\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-",
       "impact": {}
-    },
-    {
-      "event_id": "b0dcb0c0-ec11-45e6-a87c-6d50b66ae19b",
-      "source": "rss:decrypt",
-      "title": "AI Music Company Suno Loses Copyright Case in Germany",
-      "url": "https://decrypt.co/374802/suno-ai-music-copyright-case-germany",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-07-31T20:03:22+00:00",
-      "raw_text": "AI Music Company Suno Loses Copyright Case in Germany\n\nThe decision requires AI companies to license copyrighted music used to train models and generate songs, marking another legal win for music rights holders in Europe.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 187,
+        "count": 188,
         "avg_1h": 0.09,
         "avg_24h": 0.39,
         "win_rate_1h_gt5pct": 0.0
@@ -6412,7 +6412,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 149,
+        "count": 148,
         "avg_1h": 0.1,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
