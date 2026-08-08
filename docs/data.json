@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-08T17:42:09.608052+00:00",
+  "generated_at": "2026-08-08T18:53:58.615997+00:00",
   "events": [
+    {
+      "event_id": "6703b7ee-9637-4efe-a504-30b184c65f24",
+      "source": "rss:coindesk",
+      "title": "Hardware wallet sales in Russia more than double as new crypto rules near",
+      "url": "https://www.coindesk.com/business/2026/08/08/hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-08T17:48:02+00:00",
+      "raw_text": "Hardware wallet sales in Russia more than double as new crypto rules near",
+      "impact": {}
+    },
+    {
+      "event_id": "77cfbb90-d4f0-45e4-bcd9-698bfe348250",
+      "source": "rss:decrypt",
+      "title": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
+      "url": "https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-08T17:31:03+00:00",
+      "raw_text": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects\n\nA volunteer security effort says it has scanned 150 Bitcoin repositories, disclosed more than a dozen vulnerabilities, and is building an open-source AI platform to automate software security reviews.",
+      "impact": {}
+    },
+    {
+      "event_id": "99750184-2597-418b-820c-c6e7c9681556",
+      "source": "rss:theblock",
+      "title": "Majority Leader Thune files cloture on Clarity Act, setting up Sept. 15 Senate vote",
+      "url": "https://www.theblock.co/news/regulation/2026-08-08-majority-leader-thune-files-cloture-on-clarity-act-setting-up-sept-15-senate-vote-411211?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-08T17:27:45+00:00",
+      "raw_text": "Majority Leader Thune files cloture on Clarity Act, setting up Sept. 15 Senate vote\n\n<p>The Senate is set to vote on the motion on Tuesday, Sept. 15, the day after the body returns, though at least seven non-Republicans will need to support it. </p>\n\n<p>The Senate is set to vote on the motion on Tue",
+      "impact": {}
+    },
     {
       "event_id": "6b167d29-8968-4194-acd5-80a3b4494b46",
       "source": "rss:decrypt",
@@ -441,7 +477,8 @@
         "t_plus_5m": -0.1956,
         "t_plus_15m": -0.3627,
         "t_plus_1h": 0.1078,
-        "t_plus_4h": 0.5362
+        "t_plus_4h": 0.5362,
+        "t_plus_24h": 2.7967
       }
     },
     {
@@ -6351,66 +6388,30 @@
       "timestamp_utc": "2026-08-01T15:51:10+00:00",
       "raw_text": "Bitcoin mining difficulty shrinks 14% from this year's high as plunging revenues force operators to pivot",
       "impact": {}
-    },
-    {
-      "event_id": "a9674a94-c1d1-4041-a652-30e0ff87ad0d",
-      "source": "rss:coindesk",
-      "title": "SEC to review Nasdaq bitcoin options approval after CME challenge",
-      "url": "https://www.coindesk.com/policy/2026/08/01/sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-01T15:48:27+00:00",
-      "raw_text": "SEC to review Nasdaq bitcoin options approval after CME challenge",
-      "impact": {}
-    },
-    {
-      "event_id": "581100a0-e65a-4261-9396-aa145cedfe6e",
-      "source": "rss:cointelegraph",
-      "title": "Crypto PAC pours another $1M into Michigan House race",
-      "url": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-01T15:44:02+00:00",
-      "raw_text": "Crypto PAC pours another $1M into Michigan House race\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto PAC pours another $1M into Michigan House race\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-industry-votes-us.png\" /></",
-      "impact": {}
-    },
-    {
-      "event_id": "d66aa481-3d7d-4536-bd13-ec8f75570330",
-      "source": "rss:decrypt",
-      "title": "The More Americans Know About AI, the Less They Like It: Gallup",
-      "url": "https://decrypt.co/374794/more-americans-know-about-ai-less-they-like-gallup",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-01T15:01:09+00:00",
-      "raw_text": "The More Americans Know About AI, the Less They Like It: Gallup\n\nGallup says Americans are growing more skeptical of artificial intelligence, with rising concerns about job losses, businesses' use of the technology, and the technology’s growing impact.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 189,
+        "count": 191,
         "avg_1h": 0.1,
-        "avg_24h": -1.03,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 81,
-        "avg_1h": 0.26,
-        "avg_24h": 0.49,
+        "avg_24h": 0.88,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 69,
+        "count": 70,
         "avg_1h": 0.04,
         "avg_24h": 0.45,
         "win_rate_1h_gt5pct": 0.0
       },
+      "macro": {
+        "count": 80,
+        "avg_1h": 0.26,
+        "avg_24h": 0.49,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 147,
+        "count": 145,
         "avg_1h": 0.1,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
