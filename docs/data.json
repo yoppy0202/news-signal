@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-08T13:08:33.856145+00:00",
+  "generated_at": "2026-08-08T13:54:48.739049+00:00",
   "events": [
+    {
+      "event_id": "5892bb99-17b9-461b-91b3-36252952c3c9",
+      "source": "rss:coindesk",
+      "title": "Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF",
+      "url": "https://www.coindesk.com/markets/2026/08/06/why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-08T13:00:00+00:00",
+      "raw_text": "Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF",
+      "impact": {}
+    },
     {
       "event_id": "95dd6d47-6e35-4397-b80f-0237510d1438",
       "source": "rss:coindesk",
@@ -6383,22 +6395,16 @@
       "timestamp_utc": "2026-08-01T05:55:46+00:00",
       "raw_text": "How bitcoin cold wallets lost $70 million in an attack that never touched the devices",
       "impact": {}
-    },
-    {
-      "event_id": "f453a770-71f9-4f6a-a25e-e2a7c7d8de5a",
-      "source": "rss:bitcoinmagazine",
-      "title": "Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report",
-      "url": "https://bitcoinmagazine.com/news/coldcard-thief-used-blockchain-service",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-07-31T21:01:14+00:00",
-      "raw_text": "Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Coldcard-Bitcoin-Thief-Likely-Used-Top-Blockchain-Services-Provider.jpg\" st",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 80,
+        "avg_1h": 0.26,
+        "avg_24h": 0.49,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 189,
         "avg_1h": 0.1,
@@ -6406,7 +6412,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 72,
+        "count": 71,
         "avg_1h": 0.04,
         "avg_24h": 0.45,
         "win_rate_1h_gt5pct": 0.0
@@ -6421,12 +6427,6 @@
         "count": 9,
         "avg_1h": -0.07,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 79,
-        "avg_1h": 0.26,
-        "avg_24h": 0.49,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
