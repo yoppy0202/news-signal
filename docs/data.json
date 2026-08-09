@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-09T05:54:42.118948+00:00",
+  "generated_at": "2026-08-09T07:11:19.424306+00:00",
   "events": [
+    {
+      "event_id": "400e32b8-7bfd-476e-871d-c1ebce03acdf",
+      "source": "rss:cointelegraph",
+      "title": "BTCPay restricts remote Lightning access after attackers steal funds",
+      "url": "https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-09T05:46:07+00:00",
+      "raw_text": "BTCPay restricts remote Lightning access after attackers steal funds\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BTCPay restricts remote Lightning access after attackers steal funds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/thief-b",
+      "impact": {}
+    },
     {
       "event_id": "b1403b54-0749-49cf-8e02-1f314928e177",
       "source": "rss:coindesk",
@@ -6378,24 +6390,18 @@
       "timestamp_utc": "2026-08-01T18:07:17+00:00",
       "raw_text": "Minnesota crypto ATM ban goes into effect after reported $1M losses\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Minnesota crypto ATM ban goes into effect after reported $1M losses\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto",
       "impact": {}
-    },
-    {
-      "event_id": "1603d07f-2730-4ac5-8edf-58edc0137a18",
-      "source": "rss:coindesk",
-      "title": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
-      "url": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-01T16:51:35+00:00",
-      "raw_text": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 70,
+        "avg_1h": 0.04,
+        "avg_24h": 0.45,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 190,
+        "count": 189,
         "avg_1h": 0.1,
         "avg_24h": 0.42,
         "win_rate_1h_gt5pct": 0.0
@@ -6404,12 +6410,6 @@
         "count": 147,
         "avg_1h": 0.1,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 69,
-        "avg_1h": 0.04,
-        "avg_24h": 0.45,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
