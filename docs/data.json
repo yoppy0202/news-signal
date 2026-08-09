@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-09T11:39:22.201188+00:00",
+  "generated_at": "2026-08-09T13:11:19.343861+00:00",
   "events": [
+    {
+      "event_id": "862ed7d7-4412-426c-9245-7aea90bfd478",
+      "source": "rss:cointelegraph",
+      "title": "BIP-110 Bitcoin branch stalls after two blocks as gap widens",
+      "url": "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-09T11:00:53+00:00",
+      "raw_text": "BIP-110 Bitcoin branch stalls after two blocks as gap widens\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BIP-110 Bitcoin branch stalls after two blocks as gap widens\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-coinbase-seeks-ipo.p",
+      "impact": {}
+    },
     {
       "event_id": "11ffb154-e227-4f99-bf28-56869d22b20e",
       "source": "rss:cointelegraph",
@@ -6371,32 +6383,13 @@
       "timestamp_utc": "2026-08-01T20:10:54+00:00",
       "raw_text": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
       "impact": {}
-    },
-    {
-      "event_id": "b9cc94e5-5b6d-4b56-8c06-58c7081c6743",
-      "source": "rss:theblock",
-      "title": "BNB Chain ‘pursuing legal action’ against former employee over memecoin launched from tutorial wallet",
-      "url": "https://www.theblock.co/post/410351/bnb-chain-pursuing-legal-action-against-former-employee-over-memecoin-launched-from-tutorial-wallet?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BNB"
-      ],
-      "timestamp_utc": "2026-08-01T19:09:57+00:00",
-      "raw_text": "BNB Chain ‘pursuing legal action’ against former employee over memecoin launched from tutorial wallet\n\n<p>Lookonchain said the former employee bought nearly 80% of ASTEROID's supply for $10,000 before selling most of the tokens for about $638,000.</p>\n\n<p>Lookonchain said the former employee bought ",
-      "impact": {
-        "t_plus_5m": 0.0744,
-        "t_plus_15m": 0.0271,
-        "t_plus_1h": -0.1954,
-        "t_plus_4h": -0.1333
-      }
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
         "count": 148,
-        "avg_1h": 0.1,
+        "avg_1h": 0.16,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
