@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-09T13:11:19.343861+00:00",
+  "generated_at": "2026-08-09T14:48:15.813311+00:00",
   "events": [
+    {
+      "event_id": "dfec2d9d-ece5-4828-9d44-d3cda356b48d",
+      "source": "rss:coindesk",
+      "title": "Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026",
+      "url": "https://www.coindesk.com/business/2026/08/09/crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fold-in-2026",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-09T13:00:00+00:00",
+      "raw_text": "Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026",
+      "impact": {}
+    },
     {
       "event_id": "862ed7d7-4412-426c-9245-7aea90bfd478",
       "source": "rss:cointelegraph",
@@ -6371,22 +6383,16 @@
       "timestamp_utc": "2026-08-01T21:14:39+00:00",
       "raw_text": "Onchain, in court: What happened in crypto legal news this week\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Onchain, in court: What happened in crypto legal news this week\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-5-key-highligh",
       "impact": {}
-    },
-    {
-      "event_id": "7e1f1833-32a5-4485-aee9-27dd134a28bf",
-      "source": "rss:coindesk",
-      "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
-      "url": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-01T20:10:54+00:00",
-      "raw_text": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 189,
+        "avg_1h": 0.1,
+        "avg_24h": 0.42,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 148,
         "avg_1h": 0.16,
@@ -6394,15 +6400,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 70,
+        "count": 69,
         "avg_1h": 0.04,
         "avg_24h": 0.45,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 188,
-        "avg_1h": 0.1,
-        "avg_24h": 0.42,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
