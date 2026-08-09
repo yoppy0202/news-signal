@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-09T09:52:03.163960+00:00",
+  "generated_at": "2026-08-09T10:49:02.731744+00:00",
   "events": [
+    {
+      "event_id": "11ffb154-e227-4f99-bf28-56869d22b20e",
+      "source": "rss:cointelegraph",
+      "title": "Brazil targets crypto fraud with up to 24-hour transfer hold",
+      "url": "https://cointelegraph.com/news/brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-09T09:10:39+00:00",
+      "raw_text": "Brazil targets crypto fraud with up to 24-hour transfer hold\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Brazil targets crypto fraud with up to 24-hour transfer hold \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-latin-america-and-b",
+      "impact": {}
+    },
     {
       "event_id": "400e32b8-7bfd-476e-871d-c1ebce03acdf",
       "source": "rss:cointelegraph",
@@ -6378,22 +6390,16 @@
         "t_plus_1h": -0.1954,
         "t_plus_4h": -0.1333
       }
-    },
-    {
-      "event_id": "c4dc9abb-a9d8-44e2-9af6-c6c56813be1d",
-      "source": "rss:cointelegraph",
-      "title": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
-      "url": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-01T18:07:17+00:00",
-      "raw_text": "Minnesota crypto ATM ban goes into effect after reported $1M losses\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Minnesota crypto ATM ban goes into effect after reported $1M losses\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 148,
+        "avg_1h": 0.1,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
         "count": 70,
         "avg_1h": 0.04,
@@ -6401,15 +6407,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 189,
+        "count": 188,
         "avg_1h": 0.1,
         "avg_24h": 0.42,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 147,
-        "avg_1h": 0.1,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
