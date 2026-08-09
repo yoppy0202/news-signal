@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-09T14:48:15.813311+00:00",
+  "generated_at": "2026-08-09T15:42:46.500075+00:00",
   "events": [
+    {
+      "event_id": "a0ca6e2a-49f5-4aed-be5f-d9b2457a7020",
+      "source": "rss:coindesk",
+      "title": "Hyperliquid’s RWA perps boom is eating into the revenue that backs HYPE",
+      "url": "https://www.coindesk.com/business/2026/08/09/hyperliquid-s-rwa-perps-boom-is-eating-into-the-revenue-that-backs-hype",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-09T15:00:00+00:00",
+      "raw_text": "Hyperliquid’s RWA perps boom is eating into the revenue that backs HYPE",
+      "impact": {}
+    },
+    {
+      "event_id": "bbbe22c2-2951-46aa-9715-4709edaaad3a",
+      "source": "rss:coindesk",
+      "title": "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk",
+      "url": "https://www.coindesk.com/markets/2026/08/09/bitcoin-investors-pour-usd853-million-into-spot-etfs-blackrock-s-ibit-claims-the-bulk",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-09T14:19:35+00:00",
+      "raw_text": "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk",
+      "impact": {}
+    },
     {
       "event_id": "dfec2d9d-ece5-4828-9d44-d3cda356b48d",
       "source": "rss:coindesk",
@@ -6359,56 +6383,32 @@
       "timestamp_utc": "2026-08-01T21:18:45+00:00",
       "raw_text": "Iran-linked exchange sent $676 million to Binance wallets in alleged sanctions-evasion operation: Reuters\n\n<p>Dubai-based Shelbit processed over $4 billion since May 2024 through a network tied to Iranian gambling sites, the central bank, and the IRGC, per Reuters.</p>\n\n<p>Dubai-based Shelbit proces",
       "impact": {}
-    },
-    {
-      "event_id": "3b5fa508-1bc4-4a2f-a8c0-79db2664a55b",
-      "source": "rss:theblock",
-      "title": "Iran-linked exchange sent $676 million to Binance in alleged sanctions-evasion operation: Reuters",
-      "url": "https://www.theblock.co/post/410355/iran-linked-exchange-sent-676-million-to-binance-in-alleged-sanctions-evasion-operation-reuters?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-01T21:18:45+00:00",
-      "raw_text": "Iran-linked exchange sent $676 million to Binance in alleged sanctions-evasion operation: Reuters\n\n<p>Dubai-based Shelbit processed over $4 billion since May 2024 through a network tied to Iranian gambling sites, the central bank, and the IRGC, per Reuters.</p>\n\n<p>Dubai-based Shelbit processed over",
-      "impact": {}
-    },
-    {
-      "event_id": "59d652fc-011c-4d4e-9c71-2661aa0573ea",
-      "source": "rss:cointelegraph",
-      "title": "Onchain, in court: What happened in crypto legal news this week",
-      "url": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-01T21:14:39+00:00",
-      "raw_text": "Onchain, in court: What happened in crypto legal news this week\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Onchain, in court: What happened in crypto legal news this week\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-5-key-highligh",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 189,
-        "avg_1h": 0.1,
-        "avg_24h": 0.42,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
         "count": 148,
         "avg_1h": 0.16,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 69,
-        "avg_1h": 0.04,
-        "avg_24h": 0.45,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
         "count": 80,
         "avg_1h": 0.26,
         "avg_24h": 0.49,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 189,
+        "avg_1h": 0.1,
+        "avg_24h": 0.42,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 69,
+        "avg_1h": 0.04,
+        "avg_24h": 0.45,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
