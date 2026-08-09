@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-09T19:44:39.327411+00:00",
+  "generated_at": "2026-08-09T20:48:26.944684+00:00",
   "events": [
+    {
+      "event_id": "568f7b53-cebd-4da8-aa02-9c2d43a29ede",
+      "source": "rss:decrypt",
+      "title": "Bitcoin 'Anti-Spam' Fork Sputters to a Halt After Mining Just Two Blocks",
+      "url": "https://decrypt.co/375177/bitcoin-anti-spam-fork-splutters-halt-mining-just-two-blocks",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-09T19:33:09+00:00",
+      "raw_text": "Bitcoin 'Anti-Spam' Fork Sputters to a Halt After Mining Just Two Blocks\n\nThe breakaway chain drew just 2.53% of mining support, leaving its blocks hours apart and roughly 350 days from a difficulty adjustment while the main network powered ahead.",
+      "impact": {}
+    },
     {
       "event_id": "6f22eafa-d92d-4aca-8712-87acdc4abf8f",
       "source": "rss:theblock",
@@ -6356,40 +6368,20 @@
         "t_plus_4h": 0.5819,
         "t_plus_24h": 0.8321
       }
-    },
-    {
-      "event_id": "f7454da7-656a-4866-bed7-5eaf1e4cdd30",
-      "source": "rss:cointelegraph",
-      "title": "Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC",
-      "url": "https://cointelegraph.com/news/trump-media-2628-btc-crypto-com-4261-btc-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-02T09:29:15+00:00",
-      "raw_text": "Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-trump-on-bitco",
-      "impact": {
-        "t_plus_5m": 0.2153,
-        "t_plus_15m": 0.1502,
-        "t_plus_1h": -0.0618,
-        "t_plus_4h": -0.131,
-        "t_plus_24h": -1.0275
-      }
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 149,
+        "count": 150,
         "avg_1h": 0.16,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 189,
-        "avg_1h": 0.1,
-        "avg_24h": 0.42,
+        "count": 188,
+        "avg_1h": 0.11,
+        "avg_24h": 0.91,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
