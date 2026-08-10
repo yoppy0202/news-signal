@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-10T20:56:48.286356+00:00",
+  "generated_at": "2026-08-10T21:54:13.344865+00:00",
   "events": [
+    {
+      "event_id": "f93c4b64-f2cc-45b7-97b2-2291b2ba7a01",
+      "source": "rss:decrypt",
+      "title": "Bitcoin ATMs Pulled in Australia as Regulators Signal Wider Crackdown",
+      "url": "https://decrypt.co/375282/bitcoin-atms-pulled-australia-regulators-crackdown",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T21:02:43+00:00",
+      "raw_text": "Bitcoin ATMs Pulled in Australia as Regulators Signal Wider Crackdown\n\nAUSTRAC has suspended the registration of the operator running 96 of Australia's roughly 1,800 crypto ATMs, effective August 9.",
+      "impact": {}
+    },
+    {
+      "event_id": "d3f51d84-189e-4424-821c-653d5fa7cd83",
+      "source": "rss:theblock",
+      "title": "BTCPay Server supporters offer up to 3 BTC for recovery bounty after critical exploit",
+      "url": "https://www.theblock.co/news/ecosystems/2026-08-10-btcpay-server-supporters-offer-3-btc-recovery-bounty-critical-exploit-411353?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T20:59:57+00:00",
+      "raw_text": "BTCPay Server supporters offer up to 3 BTC for recovery bounty after critical exploit\n\n<p>BTCPay said AI may have been used to exploit vulnerability, and credited Craig Raw and the Bitcoin Red Team fund for reporting the issue.</p>\n\n<p>BTCPay said AI may have been used to exploit vulnerability, and ",
+      "impact": {}
+    },
+    {
+      "event_id": "531a4bf6-976a-43b3-a6a5-98cdc722f386",
+      "source": "rss:cointelegraph",
+      "title": "Judge stays CFTC’s case against US soldier over prediction market bets",
+      "url": "https://cointelegraph.com/news/cftc-us-solider-insider-trading-polymarket-nicolas-maduro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T20:50:59+00:00",
+      "raw_text": "Judge stays CFTC’s case against US soldier over prediction market bets\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Judge stays CFTC’s case against US soldier over prediction market bets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/jud",
+      "impact": {}
+    },
+    {
+      "event_id": "38311779-c00d-40b4-bce2-a09fa03557ff",
+      "source": "rss:bitcoinmagazine",
+      "title": "BTCPay Server Offers a 3 Bitcoin Bounty for Recovery of Stolen Funds After Wallet Exploit",
+      "url": "https://bitcoinmagazine.com/news/btcpay-server-offers-bitcoin-bounty",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T20:26:55+00:00",
+      "raw_text": "BTCPay Server Offers a 3 Bitcoin Bounty for Recovery of Stolen Funds After Wallet Exploit\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/BTCPay-Server-Says-AI-Is-Tilting-the-Field-Toward-Attackers-a",
+      "impact": {}
+    },
     {
       "event_id": "f5548c86-5209-4c75-9302-b985e78c2a0b",
       "source": "rss:coindesk",
@@ -56,10 +104,16 @@
       "url": "https://bitcoinmagazine.com/news/bitcoin-etfs-see-biggest-flows-since-april",
       "event_type": "hack",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-10T19:35:34+00:00",
       "raw_text": "Bitcoin Exchange-Traded Funds See Spike In Inflows Following Huge Hack\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Franklin-Templeton-Files-for-Two-ETFs-That-Reinvest-Stock-Dividends-Into-Bitcoin",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0004,
+        "t_plus_15m": 0.0821,
+        "t_plus_1h": 0.2257
+      }
     },
     {
       "event_id": "c3ae9a6e-13e6-4760-92b2-0abb4a1f6add",
@@ -92,10 +146,16 @@
       "url": "https://decrypt.co/375266/dormant-bitcoin-wallet-millions-wakes-up-12-years",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-10T19:13:12+00:00",
       "raw_text": "Another Dormant Bitcoin Wallet Holding Millions Wakes Up After 12 Years\n\nA Bitcoin address that sat untouched for more than 12 years just moved 26.96 BTC, worth about $1.75 million.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0386,
+        "t_plus_15m": 0.0664,
+        "t_plus_1h": 0.1326
+      }
     },
     {
       "event_id": "f8364c86-9105-4b0f-9d47-5213b399cfff",
@@ -220,7 +280,8 @@
       "impact": {
         "t_plus_5m": -0.0229,
         "t_plus_15m": -0.0171,
-        "t_plus_1h": -0.2916
+        "t_plus_1h": -0.2916,
+        "t_plus_4h": -0.041
       }
     },
     {
@@ -238,7 +299,8 @@
       "impact": {
         "t_plus_5m": -0.001,
         "t_plus_15m": 0.0075,
-        "t_plus_1h": -0.1945
+        "t_plus_1h": -0.1945,
+        "t_plus_4h": -0.105
       }
     },
     {
@@ -256,7 +318,8 @@
       "impact": {
         "t_plus_5m": 0.0478,
         "t_plus_15m": 0.1236,
-        "t_plus_1h": -0.1356
+        "t_plus_1h": -0.1356,
+        "t_plus_4h": -0.0919
       }
     },
     {
@@ -6315,85 +6378,30 @@
       "timestamp_utc": "2026-08-03T18:48:34+00:00",
       "raw_text": "FBI agent accused of stealing $1 million in crypto, allegedly turned to ChatGPT for vacation plans\n\n<p>An FBI agent was arrested after allegedly stealing about $1 million in cryptocurrency from \"adversarial cryptocurrency accounts.\"</p>\n\n<p>An FBI agent was arrested after allegedly stealing about $1",
       "impact": {}
-    },
-    {
-      "event_id": "f66e1817-25a6-4890-b120-ef130da08847",
-      "source": "rss:theblock",
-      "title": "Kalshi CEO invokes Nasdaq, Uber and Airbnb in defense against New York lawsuit",
-      "url": "https://www.theblock.co/post/410481/kalshi-ceo-invokes-nasdaq-uber-airbnb-defense-new-york-lawsuit?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-03T18:44:48+00:00",
-      "raw_text": "Kalshi CEO invokes Nasdaq, Uber and Airbnb in defense against New York lawsuit\n\n<p>\"You could copy and paste that lawsuit and file it against Nasdaq,” Kalshi CEO Tarek Mansour said during an interview with CNBC.</p>\n\n<p>\"You could copy and paste that lawsuit and file it against Nasdaq,” Kalshi CEO T",
-      "impact": {}
-    },
-    {
-      "event_id": "913a1b93-c16e-4e93-a200-b760a57c9347",
-      "source": "rss:theblock",
-      "title": "Proof of Attendance Protocol is shutting down after 5+ years",
-      "url": "https://www.theblock.co/post/410482/proof-of-attendance-protocol-is-shutting-down-after-5-years?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-03T18:40:12+00:00",
-      "raw_text": "Proof of Attendance Protocol is shutting down after 5+ years\n\n<p>Some 46,210 issuers like Coinbase and American Express used POAP to create onchain mementos that users could mint.</p>\n\n<p>Some 46,210 issuers like Coinbase and American Express used POAP to create onchain mementos that users could min",
-      "impact": {}
-    },
-    {
-      "event_id": "0d4841a5-ee3c-4706-9108-fc9d2564849b",
-      "source": "rss:decrypt",
-      "title": "XRP Holders Can Now Borrow Ripple's RLUSD on Ethereum Without Selling Their Crypto",
-      "url": "https://decrypt.co/374862/xrp-holders-borrow-ripple-rlusd-ethereum-without-selling",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-08-03T17:51:03+00:00",
-      "raw_text": "XRP Holders Can Now Borrow Ripple's RLUSD on Ethereum Without Selling Their Crypto\n\nFlare's FXRP has been approved as collateral in a $280 million RLUSD lending vault, allowing XRP holders to tap Ethereum's lending markets.",
-      "impact": {
-        "t_plus_5m": -0.1621,
-        "t_plus_15m": -0.0342,
-        "t_plus_1h": -0.0432,
-        "t_plus_4h": -0.1055
-      }
-    },
-    {
-      "event_id": "24583434-f2b3-4390-bdd4-101fb2db74d1",
-      "source": "rss:theblock",
-      "title": "BlackRock launches two tokenized money market funds for stablecoin reserves",
-      "url": "https://www.theblock.co/post/410469/blackrock-launches-two-tokenized-money-market-funds-stablecoin-reserves?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-03T17:48:09+00:00",
-      "raw_text": "BlackRock launches two tokenized money market funds for stablecoin reserves\n\n<p>BRSRV joins a list of funds launched by the likes of Morgan Stanley, State Street, and Fidelity designed for stablecoin reserves.</p>\n\n<p>BRSRV joins a list of funds launched by the likes of Morgan Stanley, State Street,",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 190,
+        "count": 189,
         "avg_1h": 0.01,
         "avg_24h": 0.91,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 66,
-        "avg_1h": 0.07,
+        "count": 68,
+        "avg_1h": 0.09,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 75,
+        "count": 76,
         "avg_1h": 0.35,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 158,
+        "count": 156,
         "avg_1h": -0.1,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
