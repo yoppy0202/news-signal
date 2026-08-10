@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-08-10T11:55:44.818837+00:00",
+  "generated_at": "2026-08-10T13:37:54.467789+00:00",
   "events": [
+    {
+      "event_id": "789f94f1-a51d-4527-8a26-e2fa5eaf8536",
+      "source": "rss:theblock",
+      "title": "Michael Saylor’s Strategy sells another 1,690 BTC as USD reserve hits $4.65 billion",
+      "url": "https://www.theblock.co/news/business/2026-08-10-michael-saylor-strategy-bitcoin-treasury-411237?utm_source=rss&utm_medium=rss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T12:09:39+00:00",
+      "raw_text": "Michael Saylor’s Strategy sells another 1,690 BTC as USD reserve hits $4.65 billion\n\n<p>Strategy's total holdings account for roughly 4% of the 21 million bitcoin supply cap — worth roughly $55 billion.</p>\n\n<p>Strategy's total holdings account for roughly 4% of the 21 million bitcoin supply cap — w",
+      "impact": {}
+    },
+    {
+      "event_id": "76f790df-61f4-4d38-a603-eac3164830ce",
+      "source": "rss:coindesk",
+      "title": "Strategy sells 1,690 bitcoin, raises $653 million from MSTR shares",
+      "url": "https://www.coindesk.com/markets/2026/08/10/strategy-sells-1-690-bitcoin-raises-usd653-million-from-mstr-shares",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T12:09:26+00:00",
+      "raw_text": "Strategy sells 1,690 bitcoin, raises $653 million from MSTR shares",
+      "impact": {}
+    },
+    {
+      "event_id": "d0ea4811-7d1b-4e2c-9f8f-df5225a43869",
+      "source": "rss:coindesk",
+      "title": "Crypto exchange Coinsbuy loses $8 million in coordinated two-blockchain attack",
+      "url": "https://www.coindesk.com/business/2026/08/10/crypto-exchange-coinsbuy-loses-usd8-million-in-coordinated-two-blockchain-attack",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T11:39:44+00:00",
+      "raw_text": "Crypto exchange Coinsbuy loses $8 million in coordinated two-blockchain attack",
+      "impact": {}
+    },
+    {
+      "event_id": "11197940-7161-4df2-9a89-3bd8aa6f6893",
+      "source": "rss:cointelegraph",
+      "title": "Tokenized RWA surge to $4T may push LINK to $200 by end 2030: Standard Chartered",
+      "url": "https://cointelegraph.com/news/tokenized-rwa-4t-push-link-200-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T11:39:39+00:00",
+      "raw_text": "Tokenized RWA surge to $4T may push LINK to $200 by end 2030: Standard Chartered\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tokenized RWA surge to $4T may push LINK to $200 by end 2030: Standard Chartered\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
+      "impact": {}
+    },
+    {
+      "event_id": "93665bf2-a7ff-43d0-bbde-794cd3e93b7d",
+      "source": "rss:coindesk",
+      "title": "Why the UK financial watchdog is drafting new rules for tokenized gold",
+      "url": "https://www.coindesk.com/business/2026/08/10/why-the-uk-financial-watchdog-is-drafting-new-rules-for-tokenized-gold",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T11:38:33+00:00",
+      "raw_text": "Why the UK financial watchdog is drafting new rules for tokenized gold",
+      "impact": {}
+    },
+    {
+      "event_id": "dee8c54d-44fa-4602-a63c-ac3191ea34ab",
+      "source": "rss:coindesk",
+      "title": "Bitcoin's BIP-110 episode is free-market capitalism in purest form",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/10/bitcoin-s-bip-110-episode-is-free-market-capitalism-in-purest-form",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T11:31:29+00:00",
+      "raw_text": "Bitcoin's BIP-110 episode is free-market capitalism in purest form",
+      "impact": {}
+    },
     {
       "event_id": "fdacc8cc-5b09-4449-b26c-5bb6315d8ff9",
       "source": "rss:cointelegraph",
@@ -44,10 +116,16 @@
       "url": "https://cointelegraph.com/news/sweden-h100-bitcoin-treasury-btc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-10T10:14:30+00:00",
       "raw_text": "H100 becomes Europe’s No. 2 Bitcoin treasury after 2,455 BTC deal\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"H100 becomes Europe’s No. 2 Bitcoin treasury after 2,455 BTC deal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-heres-how-",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0821,
+        "t_plus_15m": -0.077,
+        "t_plus_1h": -0.0971
+      }
     },
     {
       "event_id": "336f9040-5386-4677-8645-373d38339758",
@@ -172,7 +250,8 @@
       "impact": {
         "t_plus_5m": -0.0204,
         "t_plus_15m": -0.0656,
-        "t_plus_1h": -0.1583
+        "t_plus_1h": -0.1583,
+        "t_plus_4h": -0.4377
       }
     },
     {
@@ -6272,115 +6351,36 @@
       "timestamp_utc": "2026-08-03T10:13:50+00:00",
       "raw_text": "The bitcoin futures yield collapse: Once over 20%, now less than Treasury notes",
       "impact": {}
-    },
-    {
-      "event_id": "f4b132bc-2660-48f0-b2c6-a18bdba535fb",
-      "source": "rss:theblock",
-      "title": "Bernstein says Clarity Act failure could accelerate SEC, CFTC crypto rulemaking",
-      "url": "https://www.theblock.co/post/410395/bernstein-says-clarity-act-failure-could-accelerate-sec-cftc-crypto-rulemaking?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-03T09:49:47+00:00",
-      "raw_text": "Bernstein says Clarity Act failure could accelerate SEC, CFTC crypto rulemaking\n\n<p>Bernstein expects SEC and CFTC rulemaking to accelerate under Project Crypto if the Clarity Act fails to pass this year.</p>\n\n<p>Bernstein expects SEC and CFTC rulemaking to accelerate under Project Crypto if the Cla",
-      "impact": {}
-    },
-    {
-      "event_id": "9318827e-02a7-47cb-ae9e-ab8579858704",
-      "source": "rss:coindesk",
-      "title": "Robinhood wins UK crypto registration before new regulatory regime kicks off",
-      "url": "https://www.coindesk.com/policy/2026/08/03/robinhood-wins-uk-crypto-registration-before-new-regulatory-regime-kicks-off",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-03T09:38:53+00:00",
-      "raw_text": "Robinhood wins UK crypto registration before new regulatory regime kicks off",
-      "impact": {}
-    },
-    {
-      "event_id": "5efbe86c-03cb-43cf-8439-860e2a31faae",
-      "source": "rss:theblock",
-      "title": "Ripple invests in ZILO and Licuido to deepen tokenized capital markets push",
-      "url": "https://www.theblock.co/post/410397/ripple-invests-zilo-licuido?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-08-03T09:38:48+00:00",
-      "raw_text": "Ripple invests in ZILO and Licuido to deepen tokenized capital markets push\n\n<p>Ripple said the deals are set to bring regulated transfer agency, issuance, and collateral mobility to its infrastructure on the XRP Ledger.</p>\n\n<p>Ripple said the deals are set to bring regulated transfer agency, issua",
-      "impact": {
-        "t_plus_5m": 0.4566,
-        "t_plus_15m": 0.5455,
-        "t_plus_1h": 0.4796,
-        "t_plus_4h": 0.6382
-      }
-    },
-    {
-      "event_id": "3fbfd45d-27ab-4bd6-a10c-d3431c51f8ba",
-      "source": "rss:theblock",
-      "title": "South Korea’s Bithumb officially targets 2028 IPO, outlines multi-year roadmap",
-      "url": "https://www.theblock.co/post/410391/south-korea-bithumb-ipo-2028?utm_source=rss&utm_medium=rss",
-      "event_type": "listing",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-03T09:21:28+00:00",
-      "raw_text": "South Korea’s Bithumb officially targets 2028 IPO, outlines multi-year roadmap\n\n<p>Bithumb plans to request a preliminary listing review and have its application reviewed by local authorities in 2027.</p>\n\n<p>Bithumb plans to request a preliminary listing review and have its application reviewed by ",
-      "impact": {}
-    },
-    {
-      "event_id": "e55fbe83-9a79-4b62-b214-807498a95566",
-      "source": "rss:cointelegraph",
-      "title": "HashKey receives JPMorgan approval to open client money account",
-      "url": "https://cointelegraph.com/news/hashkey-jpmorgan-client-money-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-03T09:14:38+00:00",
-      "raw_text": "HashKey receives JPMorgan approval to open client money account\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"HashKey receives JPMorgan approval to open client money account\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-hashkey-pl",
-      "impact": {}
-    },
-    {
-      "event_id": "5bb04fb7-3453-4c46-a2fe-bc87b1267227",
-      "source": "rss:coindesk",
-      "title": "Coldcard wallet losses may near $114 million as possible fourth sweep emerges",
-      "url": "https://www.coindesk.com/tech/2026/08/03/coldcard-wallet-losses-may-near-usd114-million-as-possible-fourth-sweep-emerges",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-03T08:51:39+00:00",
-      "raw_text": "Coldcard wallet losses may near $114 million as possible fourth sweep emerges",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 78,
-        "avg_1h": 0.24,
-        "avg_24h": 0.49,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 190,
+        "count": 191,
         "avg_1h": 0.08,
         "avg_24h": 0.91,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
         "count": 154,
-        "avg_1h": 0.16,
+        "avg_1h": 0.08,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 65,
+        "count": 66,
         "avg_1h": 0.07,
         "avg_24h": -0.22,
         "win_rate_1h_gt5pct": 0.0
       },
+      "macro": {
+        "count": 77,
+        "avg_1h": 0.24,
+        "avg_24h": 0.49,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "listing": {
-        "count": 8,
+        "count": 7,
         "avg_1h": -0.07,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
