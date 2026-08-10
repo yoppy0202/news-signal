@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-10T06:19:51.535202+00:00",
+  "generated_at": "2026-08-10T08:47:53.436199+00:00",
   "events": [
+    {
+      "event_id": "b9c01880-3756-4295-adbd-a7a6531b7535",
+      "source": "rss:theblock",
+      "title": "Robinhood brings crypto trading to main UK app through Bitstamp",
+      "url": "https://www.theblock.co/news/business/2026-08-10-robinhood-uk-crypto-trading-bitstamp-411140?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T07:00:00+00:00",
+      "raw_text": "Robinhood brings crypto trading to main UK app through Bitstamp\n\n<p>The launch adds crypto alongside stocks, ISAs, options, and futures in the UK as Robinhood continues to expand its broader crypto ecosystem.</p>\n\n<p>The launch adds crypto alongside stocks, ISAs, options, and futures in the UK as Ro",
+      "impact": {}
+    },
+    {
+      "event_id": "0e9764aa-0f20-4203-bdcb-dcd141a6d1f3",
+      "source": "rss:coindesk",
+      "title": "Robinhood brings crypto trading to UK in AI-powered all-in-one app",
+      "url": "https://www.coindesk.com/business/2026/08/07/robinhood-introduces-no-fee-crypto-trading-in-the-uk-with-ai-assistance",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T07:00:00+00:00",
+      "raw_text": "Robinhood brings crypto trading to UK in AI-powered all-in-one app",
+      "impact": {}
+    },
+    {
+      "event_id": "51e8c93b-3c88-49db-bc90-a03a67106f1d",
+      "source": "rss:coindesk",
+      "title": "Live updates: BTC above $65,000 even as the Senate punts the CLARITY Act to the fall",
+      "url": "https://www.coindesk.com/markets/2026/08/10/live-updates-btc-above-usd65-000-even-as-the-senate-punts-the-clarity-act-to-the-fall",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T06:56:50+00:00",
+      "raw_text": "Live updates: BTC above $65,000 even as the Senate punts the CLARITY Act to the fall",
+      "impact": {}
+    },
+    {
+      "event_id": "bd6c77f8-40b7-44af-b7ef-3b03c3a1ffb8",
+      "source": "rss:coindesk",
+      "title": "This bitcoin miner rejected BIP-110 despite mining through a pool that supported it",
+      "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-miner-rejects-bip-110-despite-mining-through-a-pool-that-supported-it",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T06:25:17+00:00",
+      "raw_text": "This bitcoin miner rejected BIP-110 despite mining through a pool that supported it",
+      "impact": {}
+    },
     {
       "event_id": "de6e8759-5c98-40ef-83b5-87d07709a8de",
       "source": "rss:cointelegraph",
@@ -11,6 +59,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-10T05:18:27+00:00",
       "raw_text": "Bitcoin Red Team founder turns to Chinese AI: ‘It absolutely guts me’\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin Red Team founder turns to Chinese AI: ‘It absolutely guts me’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/ai-gu",
+      "impact": {}
+    },
+    {
+      "event_id": "497dd9d3-45b8-44f6-b8d3-23e3888e3414",
+      "source": "rss:coindesk",
+      "title": "Bitcoin tops $65,000 with U.S. inflation data due this week",
+      "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-tops-usd65-000-with-us-inflation-data-due-this-week",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T04:39:37+00:00",
+      "raw_text": "Bitcoin tops $65,000 with U.S. inflation data due this week",
       "impact": {}
     },
     {
@@ -44,10 +104,16 @@
       "url": "https://www.coindesk.com/markets/2026/08/10/xrp-is-getting-left-behind-in-the-crypto-bounce-even-as-etfs-keep-attracting-investor-money",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-08-10T04:26:01+00:00",
       "raw_text": "XRP is getting left behind in the crypto bounce even as ETFs keep attracting investor money",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2152,
+        "t_plus_15m": -0.2968,
+        "t_plus_1h": -0.0819
+      }
     },
     {
       "event_id": "d3983185-0ccf-4528-a55d-36d7dab3628a",
@@ -6285,107 +6351,32 @@
       "timestamp_utc": "2026-08-03T01:57:40+00:00",
       "raw_text": "Suspected 4th Coldcard attack wave sweeps 448 Bitcoin: Galaxy’s Thorn\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Suspected 4th Coldcard attack wave sweeps 448 Bitcoin: Galaxy’s Thorn\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hacke",
       "impact": {}
-    },
-    {
-      "event_id": "feb8da5e-be21-4470-93b8-c44a940a0158",
-      "source": "rss:cointelegraph",
-      "title": "Coldcard exploit sparks Bitcoin flight, ‘bullish’ crypto consolidation: Hodler’s Digest, August 2",
-      "url": "https://cointelegraph.com/magazine/coldcard-exploit-sparks-bitcoin-flight-clarity-act-no-vote-or-no-vote-hodlers-digest-august-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-02T23:44:04+00:00",
-      "raw_text": "Coldcard exploit sparks Bitcoin flight, ‘bullish’ crypto consolidation: Hodler’s Digest, August 2\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard exploit sparks Bitcoin flight, ‘bullish’ crypto consolidation: Hodler’s Digest, August 2\" class=\"type:primaryImage\" src=",
-      "impact": {}
-    },
-    {
-      "event_id": "39c61ad5-3afe-4fc5-8ab6-dfe2263bce0b",
-      "source": "rss:theblock",
-      "title": "SEC keeps Nasdaq bitcoin options on hold after granting CME review",
-      "url": "https://www.theblock.co/post/410373/sec-keeps-nasdaq-bitcoin-options-on-hold-after-granting-cme-review?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-02T21:25:36+00:00",
-      "raw_text": "SEC keeps Nasdaq bitcoin options on hold after granting CME review\n\n<p>CME is arguing that the contracts are commodity option swaps subject exclusively to the CFTC's oversight rather than the SEC's. </p>\n\n<p>CME is arguing that the contracts are commodity option swaps subject exclusively to the CFTC",
-      "impact": {}
-    },
-    {
-      "event_id": "5963a4db-fd07-4bc4-8eb8-060e47782b41",
-      "source": "rss:coindesk",
-      "title": "Counting down the days: State of Crypto",
-      "url": "https://www.coindesk.com/policy/2026/08/02/counting-down-the-days-state-of-crypto",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-02T18:30:00+00:00",
-      "raw_text": "Counting down the days: State of Crypto",
-      "impact": {}
-    },
-    {
-      "event_id": "63d87708-4e19-4e21-ae2c-0a1621d1b440",
-      "source": "rss:theblock",
-      "title": "Saylor hints at Strategy bitcoin buy after five-week pause as STRC rate stays at 12%: ‘Bitcoin Drive engaged’",
-      "url": "https://www.theblock.co/post/410370/saylor-hints-at-strategy-bitcoin-buy-after-five-week-pause-as-strc-rate-stays-at-12-bitcoin-drive-engaged?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-02T18:10:43+00:00",
-      "raw_text": "Saylor hints at Strategy bitcoin buy after five-week pause as STRC rate stays at 12%: ‘Bitcoin Drive engaged’\n\n<p>Strategy has gone five consecutive weeks without a disclosed bitcoin purchase; the firm last reported holding 843,775 BTC acquired for $63.69 billion.</p>\n\n<p>Strategy has gone five cons",
-      "impact": {
-        "t_plus_5m": 0.0147,
-        "t_plus_15m": 0.0217,
-        "t_plus_1h": 0.0791,
-        "t_plus_4h": 0.6349
-      }
-    },
-    {
-      "event_id": "19b4146a-1580-4af9-b5dc-f9e98a6271d6",
-      "source": "rss:decrypt",
-      "title": "Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets",
-      "url": "https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-02T17:18:51+00:00",
-      "raw_text": "Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets\n\nGalaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pushed observed losses to roughly 1,367 BTC across 4,585 addresses.",
-      "impact": {
-        "t_plus_5m": -0.0593,
-        "t_plus_15m": -0.018,
-        "t_plus_1h": 0.0165,
-        "t_plus_4h": 0.331,
-        "t_plus_24h": 0.729
-      }
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 153,
+        "count": 155,
         "avg_1h": 0.16,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 186,
+        "count": 188,
         "avg_1h": 0.11,
         "avg_24h": 0.91,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 80,
-        "avg_1h": 0.26,
+        "count": 78,
+        "avg_1h": 0.24,
         "avg_24h": 0.49,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 67,
+        "count": 65,
         "avg_1h": 0.07,
-        "avg_24h": 0.25,
+        "avg_24h": -0.22,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
