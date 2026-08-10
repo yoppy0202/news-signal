@@ -1,6 +1,90 @@
 {
-  "generated_at": "2026-08-10T08:47:53.436199+00:00",
+  "generated_at": "2026-08-10T10:33:22.922334+00:00",
   "events": [
+    {
+      "event_id": "336f9040-5386-4677-8645-373d38339758",
+      "source": "rss:coindesk",
+      "title": "Bitcoin volatility is in meltdown, but downside protection still commands a premium",
+      "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-volatility-is-in-meltdown-but-downside-protection-still-commands-a-premium",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T10:13:58+00:00",
+      "raw_text": "Bitcoin volatility is in meltdown, but downside protection still commands a premium",
+      "impact": {}
+    },
+    {
+      "event_id": "74596795-d431-4f63-89da-dd1286fda44c",
+      "source": "rss:coindesk",
+      "title": "A rare CME shift: Hedge funds abandon structural shorts to bet on a bitcoin rally",
+      "url": "https://www.coindesk.com/markets/2026/08/10/a-rare-cme-shift-hedge-funds-abandon-structural-shorts-to-bet-on-a-bitcoin-rally",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T09:09:32+00:00",
+      "raw_text": "A rare CME shift: Hedge funds abandon structural shorts to bet on a bitcoin rally",
+      "impact": {}
+    },
+    {
+      "event_id": "a98058e0-3803-4a0a-9e5a-779f4596c1c6",
+      "source": "rss:decrypt",
+      "title": "Bybit Sues North Korea Over $1.5B Hack, Wins Order Freezing Assets",
+      "url": "https://decrypt.co/375180/bybit-sues-north-korea-over-1-5b-hack-wins-order-freezing-assets",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T09:04:00+00:00",
+      "raw_text": "Bybit Sues North Korea Over $1.5B Hack, Wins Order Freezing Assets\n\nThe exchange says it has recovered $48.4 million and frozen $30.5 million more, a fraction of what the Lazarus Group took in February 2025.",
+      "impact": {}
+    },
+    {
+      "event_id": "b82b271d-3fff-4a9d-aad8-a06c71c8f713",
+      "source": "rss:coindesk",
+      "title": "U.S. CPI inflation, Securitize, Gemini among earnings reports: Crypto Week Ahead",
+      "url": "https://www.coindesk.com/markets/2026/08/10/u-s-cpi-inflation-securitize-gemini-among-earnings-reports-crypto-week-ahead",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T08:57:04+00:00",
+      "raw_text": "U.S. CPI inflation, Securitize, Gemini among earnings reports: Crypto Week Ahead",
+      "impact": {}
+    },
+    {
+      "event_id": "5c88af9a-3fd9-4e5c-8c51-48e0d40e6344",
+      "source": "rss:theblock",
+      "title": "North Korea’s Kimsuky integrates AI into cyberattacks targeting crypto and finance",
+      "url": "https://www.theblock.co/news/defi/2026-08-10-north-korea-kimsuky-ai-crypto-411229?utm_source=rss&utm_medium=rss",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T08:35:09+00:00",
+      "raw_text": "North Korea’s Kimsuky integrates AI into cyberattacks targeting crypto and finance\n\n<p>Kimsuky uses generative AI to produce phishing documents themed around digital assets, investment strategies, and fintech services.</p>\n\n<p>Kimsuky uses generative AI to produce phishing documents themed around di",
+      "impact": {}
+    },
+    {
+      "event_id": "ab46f6f8-c675-47da-b97d-1f6eec1c4b66",
+      "source": "rss:coindesk",
+      "title": "Inside stablecoin firm BVNK’s journey to a $1.8B acquisition by Mastercard",
+      "url": "https://www.coindesk.com/business/2026/08/10/inside-stablecoin-firm-bvnk-s-journey-to-a-usd1-8b-acquisition-by-mastercard",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T07:52:00+00:00",
+      "raw_text": "Inside stablecoin firm BVNK’s journey to a $1.8B acquisition by Mastercard",
+      "impact": {}
+    },
+    {
+      "event_id": "5a82ca14-a3c1-419c-b5bf-822af1cd536f",
+      "source": "rss:cointelegraph",
+      "title": "UK regulators to prepare tokenized gold framework: Report",
+      "url": "https://cointelegraph.com/news/uk-regulators-tokenized-gold-framework-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T07:25:45+00:00",
+      "raw_text": "UK regulators to prepare tokenized gold framework: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK regulators to prepare tokenized gold framework: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-uk-and-crypto-fca.jpg\" /><",
+      "impact": {}
+    },
     {
       "event_id": "b9c01880-3756-4295-adbd-a7a6531b7535",
       "source": "rss:theblock",
@@ -32,10 +116,16 @@
       "url": "https://www.coindesk.com/markets/2026/08/10/live-updates-btc-above-usd65-000-even-as-the-senate-punts-the-clarity-act-to-the-fall",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-10T06:56:50+00:00",
       "raw_text": "Live updates: BTC above $65,000 even as the Senate punts the CLARITY Act to the fall",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0204,
+        "t_plus_15m": -0.0656,
+        "t_plus_1h": -0.1583
+      }
     },
     {
       "event_id": "bd6c77f8-40b7-44af-b7ef-3b03c3a1ffb8",
@@ -112,7 +202,8 @@
       "impact": {
         "t_plus_5m": -0.2152,
         "t_plus_15m": -0.2968,
-        "t_plus_1h": -0.0819
+        "t_plus_1h": -0.0819,
+        "t_plus_4h": 0.2889
       }
     },
     {
@@ -562,6 +653,18 @@
         "t_plus_4h": 0.0648,
         "t_plus_24h": -0.116
       }
+    },
+    {
+      "event_id": "3e0be54d-8f12-4be2-80da-091e4c42ef88",
+      "source": "rss:cointelegraph",
+      "title": "President Trump’s media company to terminate Crypto.com deal",
+      "url": "https://cointelegraph.com/news/donald-trump-media-company-crypto-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-07T21:39:36+00:00",
+      "raw_text": "President Trump’s media company to terminate Crypto.com deal\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"President Trump’s media company to terminate Crypto.com deal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-tmtg-wallet.jpg\" /><",
+      "impact": {}
     },
     {
       "event_id": "8db7d168-2252-4dc4-b38b-3ffacd9eb9cf",
@@ -6248,135 +6351,32 @@
       "timestamp_utc": "2026-08-03T06:15:38+00:00",
       "raw_text": "Bitcoin slips under $63,000 despite Iran deal hopes as Coldcard losses rattle market",
       "impact": {}
-    },
-    {
-      "event_id": "fee32750-3830-45e6-b4d3-50063a49be30",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin hits $62K while Coinbase premium hits 77-day negative streak",
-      "url": "https://cointelegraph.com/markets/bitcoin-hits-62k-while-coinbase-premium-hits-77-day-negative-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-03T05:58:00+00:00",
-      "raw_text": "Bitcoin hits $62K while Coinbase premium hits 77-day negative streak\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin hits $62K while Coinbase premium hits 77-day negative streak\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-cryp",
-      "impact": {}
-    },
-    {
-      "event_id": "3f91249d-6cf7-4518-a742-0212bfb06a68",
-      "source": "rss:coindesk",
-      "title": "Trump Media’s bitcoin stash may be down to loan collateral after $165 million BTC move",
-      "url": "https://www.coindesk.com/markets/2026/08/03/trump-media-s-bitcoin-stash-may-be-down-to-loan-collateral-after-usd165-million-btc-move",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-03T05:52:29+00:00",
-      "raw_text": "Trump Media’s bitcoin stash may be down to loan collateral after $165 million BTC move",
-      "impact": {
-        "t_plus_5m": 0.7016,
-        "t_plus_15m": 0.7156,
-        "t_plus_1h": 0.4405,
-        "t_plus_4h": 0.5426
-      }
-    },
-    {
-      "event_id": "97f6fadd-6f04-4cab-a2b0-dc67ebaf99e9",
-      "source": "rss:coindesk",
-      "title": "Michael Saylor’s Strategy is now tracking bitcoin’s 200-week moving average",
-      "url": "https://www.coindesk.com/markets/2026/08/03/michael-saylor-s-strategy-is-now-tracking-bitcoin-s-200-week-moving-average",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-03T05:07:49+00:00",
-      "raw_text": "Michael Saylor’s Strategy is now tracking bitcoin’s 200-week moving average",
-      "impact": {}
-    },
-    {
-      "event_id": "d0b3d9c1-dd46-4278-a459-ef2292a45419",
-      "source": "rss:theblock",
-      "title": "Kalshi and Polymarket’s combined volume reaches all-time high in July, surpassing $50 billion",
-      "url": "https://www.theblock.co/post/410382/kalshi-polymarket-volume-july?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-03T04:34:46+00:00",
-      "raw_text": "Kalshi and Polymarket’s combined volume reaches all-time high in July, surpassing $50 billion\n\n<p>Notably, Polymarket US's volume rose 54% while the main Polymarket platform's volume fell 26% compared to June.</p>\n\n<p>Notably, Polymarket US's volume rose 54% while the main Polymarket platform's volu",
-      "impact": {}
-    },
-    {
-      "event_id": "4343a64e-92b2-4e3d-8976-917b44f81800",
-      "source": "rss:cointelegraph",
-      "title": "Coldcard’s 5-year flaw reveals hardware wallet testing gap: Kraken’s security chief",
-      "url": "https://cointelegraph.com/news/coldcards-5-year-flaw-reveals-hardware-wallet-testing-gap-krakens-security-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-03T04:09:44+00:00",
-      "raw_text": "Coldcard’s 5-year flaw reveals hardware wallet testing gap: Kraken’s security chief\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard’s 5-year flaw reveals hardware wallet testing gap: Kraken’s security chief\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i",
-      "impact": {}
-    },
-    {
-      "event_id": "f9dcce5c-7544-4120-99eb-f698e4a7cfd3",
-      "source": "rss:cointelegraph",
-      "title": "South Korean stablecoin outflows top $367M in June: Report",
-      "url": "https://cointelegraph.com/news/south-korea-stablecoin-outflows-overseas-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-03T04:05:11+00:00",
-      "raw_text": "South Korean stablecoin outflows top $367M in June: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korean stablecoin outflows top $367M in June: Report \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/lost-bitcoins-crypto-hack-",
-      "impact": {}
-    },
-    {
-      "event_id": "c9e927d7-0510-4323-b6c7-f59291238031",
-      "source": "rss:theblock",
-      "title": "Hong Kong police flag $3.3 million romance scam involving fake crypto app",
-      "url": "https://www.theblock.co/post/410377/hong-kong-3-million-crypto-romance-scam?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-03T03:42:16+00:00",
-      "raw_text": "Hong Kong police flag $3.3 million romance scam involving fake crypto app\n\n<p>Hong Kong police reported that an insurance agent lost more than $3.3 million after being lured into a fake crypto investment scheme.</p>\n\n<p>Hong Kong police reported that an insurance agent lost more than $3.3 million af",
-      "impact": {}
-    },
-    {
-      "event_id": "b2c013b7-2b52-4426-bef6-b25015bb92bc",
-      "source": "rss:cointelegraph",
-      "title": "Suspected 4th Coldcard attack wave sweeps 448 Bitcoin: Galaxy’s Thorn",
-      "url": "https://cointelegraph.com/news/suspected-4th-coldcard-attack-wave-sweeps-389-bitcoin-galaxys-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-03T01:57:40+00:00",
-      "raw_text": "Suspected 4th Coldcard attack wave sweeps 448 Bitcoin: Galaxy’s Thorn\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Suspected 4th Coldcard attack wave sweeps 448 Bitcoin: Galaxy’s Thorn\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hacke",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 155,
-        "avg_1h": 0.16,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 188,
-        "avg_1h": 0.11,
+        "count": 190,
+        "avg_1h": 0.08,
         "avg_24h": 0.91,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 78,
-        "avg_1h": 0.24,
-        "avg_24h": 0.49,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
         "count": 65,
         "avg_1h": 0.07,
         "avg_24h": -0.22,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 77,
+        "avg_1h": 0.24,
+        "avg_24h": 0.49,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 154,
+        "avg_1h": 0.16,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
