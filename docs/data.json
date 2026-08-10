@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-10T21:54:13.344865+00:00",
+  "generated_at": "2026-08-10T22:52:53.177939+00:00",
   "events": [
+    {
+      "event_id": "7018dcf1-2f10-456f-8ef2-b0998a35ac81",
+      "source": "rss:decrypt",
+      "title": "Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI",
+      "url": "https://decrypt.co/375285/vitalik-buterin-ethereum-betting-future-quantum-ai",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T21:48:22+00:00",
+      "raw_text": "Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI\n\nEthereum’s updated roadmap puts quantum resistance, privacy and AI-assisted formal verification at the center of the network’s technical ambitions.",
+      "impact": {}
+    },
+    {
+      "event_id": "4d95d8b3-aa6c-45c2-acb8-36ccf4dc12fb",
+      "source": "rss:bitcoinmagazine",
+      "title": "Blockstream Debuts Swaps, Allowing Bitcoiners to Move Between Lightning and Main Network With Ease",
+      "url": "https://bitcoinmagazine.com/news/blockstream-debuts-bitcoin-swaps-lightning",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T21:18:27+00:00",
+      "raw_text": "Blockstream Debuts Swaps, Allowing Bitcoiners to Move Between Lightning and Main Network With Ease\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Blockstream-Debuts-Swaps-Allowing-Bitcoiners-to-Move",
+      "impact": {}
+    },
+    {
+      "event_id": "8c3ce73c-b76c-4176-8042-2cb7a94aa439",
+      "source": "rss:coindesk",
+      "title": "Trump Media’s bitcoin holdings shrink as crypto losses hit $361 million",
+      "url": "https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T21:12:07+00:00",
+      "raw_text": "Trump Media’s bitcoin holdings shrink as crypto losses hit $361 million",
+      "impact": {}
+    },
     {
       "event_id": "f93c4b64-f2cc-45b7-97b2-2291b2ba7a01",
       "source": "rss:decrypt",
@@ -20,10 +56,15 @@
       "url": "https://www.theblock.co/news/ecosystems/2026-08-10-btcpay-server-supporters-offer-3-btc-recovery-bounty-critical-exploit-411353?utm_source=rss&utm_medium=rss",
       "event_type": "hack",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-10T20:59:57+00:00",
       "raw_text": "BTCPay Server supporters offer up to 3 BTC for recovery bounty after critical exploit\n\n<p>BTCPay said AI may have been used to exploit vulnerability, and credited Craig Raw and the Bitcoin Red Team fund for reporting the issue.</p>\n\n<p>BTCPay said AI may have been used to exploit vulnerability, and ",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0355,
+        "t_plus_15m": -0.0129
+      }
     },
     {
       "event_id": "531a4bf6-976a-43b3-a6a5-98cdc722f386",
@@ -6335,69 +6376,26 @@
       "timestamp_utc": "2026-08-03T19:44:48+00:00",
       "raw_text": "FalconX cuts 10% of workforce amid prolonged crypto market slump: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"FalconX cuts 10% of workforce amid prolonged crypto market slump: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
       "impact": {}
-    },
-    {
-      "event_id": "1be25654-12eb-4760-959d-6390823a6f3e",
-      "source": "rss:decrypt",
-      "title": "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum",
-      "url": "https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-03T19:17:37+00:00",
-      "raw_text": "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum\n\nBlackRock launched a tokenized money market fund for stablecoin reserves that uses Solana alongside Ethereum.",
-      "impact": {}
-    },
-    {
-      "event_id": "04eef877-5ff9-4ed1-bf81-7b1e9b07bd3c",
-      "source": "rss:bitcoinmagazine",
-      "title": "American Bitcoin Reports Quarterly Loss But Boosts Bitcoin Stash",
-      "url": "https://bitcoinmagazine.com/news/american-bitcoin-reports-loss-boosts-stash",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-03T19:03:26+00:00",
-      "raw_text": "American Bitcoin Reports Quarterly Loss But Boosts Bitcoin Stash\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/03/American-Bitcoin-Expands-Treasury-to-6500-BTC-as-Eric-Trump-Accuses-Big-Banks-of-Lobby",
-      "impact": {
-        "t_plus_5m": 0.0244,
-        "t_plus_15m": 0.0953,
-        "t_plus_1h": -0.0407,
-        "t_plus_4h": -0.4486
-      }
-    },
-    {
-      "event_id": "3ebe1aa2-9fe7-449e-b2eb-12dc15b84f0e",
-      "source": "rss:theblock",
-      "title": "FBI agent accused of stealing $1 million in crypto, allegedly turned to ChatGPT for vacation plans",
-      "url": "https://www.theblock.co/post/410491/fbi-agent-stealing-1-million-crypto-turned-to-chatgpt-vacation-plans?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-03T18:48:34+00:00",
-      "raw_text": "FBI agent accused of stealing $1 million in crypto, allegedly turned to ChatGPT for vacation plans\n\n<p>An FBI agent was arrested after allegedly stealing about $1 million in cryptocurrency from \"adversarial cryptocurrency accounts.\"</p>\n\n<p>An FBI agent was arrested after allegedly stealing about $1",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 189,
-        "avg_1h": 0.01,
-        "avg_24h": 0.91,
+      "macro": {
+        "count": 76,
+        "avg_1h": 0.42,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 68,
+        "count": 69,
         "avg_1h": 0.09,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 76,
-        "avg_1h": 0.35,
-        "avg_24h": null,
+      "unknown": {
+        "count": 188,
+        "avg_1h": 0.01,
+        "avg_24h": 0.91,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
