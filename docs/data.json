@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-10T17:04:38.483769+00:00",
+  "generated_at": "2026-08-10T17:58:47.904923+00:00",
   "events": [
+    {
+      "event_id": "47e80fdf-924d-46df-815f-a1e653c7b0fa",
+      "source": "rss:bitcoinmagazine",
+      "title": "TD Cowen Gives Crypto Clarity Act a 25% Chance of Passing This Fall",
+      "url": "https://bitcoinmagazine.com/news/td-cowen-gives-clarity-act-25-of-passing",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T17:28:33+00:00",
+      "raw_text": "TD Cowen Gives Crypto Clarity Act a 25% Chance of Passing This Fall\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/TD-Cowen-Says-Clarity-Not-Likely-to-Pass.jpg\" style=\"display: block; margin: 1em au",
+      "impact": {}
+    },
+    {
+      "event_id": "4d2068b2-687e-4f3c-965f-47a2b99e2ded",
+      "source": "rss:decrypt",
+      "title": "Bitcoin Rally Fades—Where Does Price Go Next?",
+      "url": "https://decrypt.co/375238/bitcoin-rally-stalls-price-next-prediction-market",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T17:18:49+00:00",
+      "raw_text": "Bitcoin Rally Fades—Where Does Price Go Next?\n\nThe price of Bitcoin is up on the seven-day chart, today bouncing to a high of $65,000. But bearish market pressure persists.",
+      "impact": {}
+    },
+    {
+      "event_id": "7392098a-f5ef-4d2b-a098-d2507368414a",
+      "source": "rss:cointelegraph",
+      "title": "‘Disappointing’ — crypto advocates react to delay in CLARITY vote",
+      "url": "https://cointelegraph.com/news/clarity-act-vote-disappointing-crypto-advocates-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T17:08:34+00:00",
+      "raw_text": "‘Disappointing’ — crypto advocates react to delay in CLARITY vote\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"‘Disappointing’ — crypto advocates react to delay in CLARITY vote\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/sams-in-a-lab",
+      "impact": {}
+    },
+    {
+      "event_id": "705e4f07-0429-461d-8c1d-ea42ba864e4c",
+      "source": "rss:theblock",
+      "title": "Keel shutters all US bitcoin mining operations amid continuing AI pivot",
+      "url": "https://www.theblock.co/news/business/2026-08-10-keel-shutters-us-bitcoin-mining-operations-amid-ai-pivot-411302?utm_source=rss&utm_medium=rss",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T17:05:14+00:00",
+      "raw_text": "Keel shutters all US bitcoin mining operations amid continuing AI pivot\n\n<p>Like many other Bitcoin miners, Keel has been shifting its focus from mining in favor of becoming a supplier of AI infrastructure.</p>\n\n<p>Like many other Bitcoin miners, Keel has been shifting its focus from mining in favor",
+      "impact": {}
+    },
     {
       "event_id": "0e9f7e3d-7a62-49f5-9bda-e40b1c0457f0",
       "source": "rss:decrypt",
@@ -32,10 +80,15 @@
       "url": "https://bitcoinmagazine.com/news/strategy-sells-more-bitcoin-for-cash-pile",
       "event_type": "listing",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-10T16:17:33+00:00",
       "raw_text": "Strategy Sells Bitcoin Again For Cash Buffer, STRC Buyback\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/01/Strategy-MSTR-Stock-Soars-10-Above-189-as-Bitcoin-Nears-100000-1.jpg\" style=\"display: block;",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0229,
+        "t_plus_15m": -0.0171
+      }
     },
     {
       "event_id": "c1797b71-a098-448a-9dba-aa7efffd1d49",
@@ -44,10 +97,15 @@
       "url": "https://cointelegraph.com/markets/bitcoin-wipes-weekend-gains-as-oil-nears-5-surge-on-hormuz-disappointment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-10T16:14:58+00:00",
       "raw_text": "Bitcoin price slip wipes weekend gains as oil surge hits 5% on Hormuz disappointment\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price slip wipes weekend gains as oil surge hits 5% on Hormuz disappointment\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.001,
+        "t_plus_15m": 0.0075
+      }
     },
     {
       "event_id": "966cc5e2-592d-4cbf-8d73-f7d780094145",
@@ -56,10 +114,15 @@
       "url": "https://decrypt.co/375214/xrp-price-weakens-crypto-market-awaits-clarity",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-08-10T16:11:20+00:00",
       "raw_text": "XRP Price Weakens as Crypto Market Awaits Clarity\n\nXRP is trading just above $1.00, still pinned under a death cross, as the legislative tailwind that lifted it in July loses steam.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0478,
+        "t_plus_15m": 0.1236
+      }
     },
     {
       "event_id": "9afc2206-6731-41a2-a064-0f8107da5e63",
@@ -140,10 +203,16 @@
       "url": "https://www.theblock.co/news/business/2026-08-10-adam-back-backed-h100-more-triples-bitcoin-holdings-3506-btc-acquisition-411270?utm_source=rss&utm_medium=rss",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-10T14:57:17+00:00",
       "raw_text": "Adam Back-backed H100 more than triples bitcoin holdings to 3,506 BTC in acquisition deal\n\n<p>H100 paid for the deal with 790.5 million newly issued shares, and the company is now within striking distance of big BTC treasury players.</p>\n\n<p>H100 paid for the deal with 790.5 million newly issued sha",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.5754,
+        "t_plus_15m": 0.5852,
+        "t_plus_1h": -0.0914
+      }
     },
     {
       "event_id": "dd776425-bc7d-4a89-b725-cea264c9a962",
@@ -398,6 +467,18 @@
       }
     },
     {
+      "event_id": "fe723e02-5d54-4a2f-9f5e-23121d48befb",
+      "source": "rss:coindesk",
+      "title": "UK’s FCA to regulate tokenized gold to preserve London’s place as the top hub for bullion",
+      "url": "https://www.coindesk.com/business/2026/08/10/why-the-uk-financial-watchdog-is-drafting-new-rules-for-tokenized-gold",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T11:38:33+00:00",
+      "raw_text": "UK’s FCA to regulate tokenized gold to preserve London’s place as the top hub for bullion",
+      "impact": {}
+    },
+    {
       "event_id": "93665bf2-a7ff-43d0-bbde-794cd3e93b7d",
       "source": "rss:coindesk",
       "title": "Why the UK financial watchdog is drafting new rules for tokenized gold",
@@ -581,6 +662,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-10T07:00:00+00:00",
       "raw_text": "Robinhood brings crypto trading to UK in AI-powered all-in-one app",
+      "impact": {}
+    },
+    {
+      "event_id": "38329b5f-6436-49c6-a58e-a908c0f7b870",
+      "source": "rss:coindesk",
+      "title": "Live updates: WTI crude oil up 5% and back to $80, as bitcoin drops below $64,000",
+      "url": "https://www.coindesk.com/markets/2026/08/10/live-updates-btc-above-usd65-000-even-as-the-senate-punts-the-clarity-act-to-the-fall",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T06:56:50+00:00",
+      "raw_text": "Live updates: WTI crude oil up 5% and back to $80, as bitcoin drops below $64,000",
       "impact": {}
     },
     {
@@ -6306,92 +6399,18 @@
         "t_plus_1h": 0.1248,
         "t_plus_24h": 0.4871
       }
-    },
-    {
-      "event_id": "29af237f-44cd-425c-83e9-d5c5fa9dd1d8",
-      "source": "rss:bitcoinmagazine",
-      "title": "Strategy Sells Bitcoin After Five Weeks Without Buying",
-      "url": "https://bitcoinmagazine.com/news/strategy-sells-bitcoin-after-buying-pause",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-03T15:17:39+00:00",
-      "raw_text": "Strategy Sells Bitcoin After Five Weeks Without Buying\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Strategys-MSTR-Michael-Saylor-Says-STRC-is-Going-Viral-After-8.5-Billion-Run‑Up-scaled.jpg\" styl",
-      "impact": {
-        "t_plus_24h": 0.4871
-      }
-    },
-    {
-      "event_id": "12306804-887b-4c7a-bbb7-490ca8e51944",
-      "source": "rss:coindesk",
-      "title": "U.S.-Japan intervention revives yen carry trade fears for bitcoin",
-      "url": "https://www.coindesk.com/markets/2026/08/03/u-s-japan-intervention-revives-yen-carry-trade-fears-for-bitcoin",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-03T14:46:08+00:00",
-      "raw_text": "U.S.-Japan intervention revives yen carry trade fears for bitcoin",
-      "impact": {}
-    },
-    {
-      "event_id": "cb76333a-c997-465c-9f5e-05d41bf0485b",
-      "source": "rss:cointelegraph",
-      "title": "US hints at more yen intervention: Five things to know in Bitcoin this week",
-      "url": "https://cointelegraph.com/markets/us-hints-at-more-yen-intervention-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-03T14:11:26+00:00",
-      "raw_text": "US hints at more yen intervention: Five things to know in Bitcoin this week\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US hints at more yen intervention: Five things to know in Bitcoin this week\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-",
-      "impact": {}
-    },
-    {
-      "event_id": "5065102e-b8b4-4dc2-a154-5f7fe7ef1ca1",
-      "source": "rss:bitcoinmagazine",
-      "title": "Coldcard Bitcoin Theft Continues, Now Estimated Over $114 Million In Total Stolen",
-      "url": "https://bitcoinmagazine.com/news/coldcard-bitcoin-theft-continues",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-03T14:05:38+00:00",
-      "raw_text": "Coldcard Bitcoin Theft Continues, Now Estimated Over $114 Million In Total Stolen\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Coldcard-Bitcoin-Theft-Continues.jpg\" style=\"display: block; margin: ",
-      "impact": {
-        "t_plus_24h": -0.2224
-      }
-    },
-    {
-      "event_id": "6c3acadc-71a2-4214-9cb8-0ea68742534b",
-      "source": "rss:coindesk",
-      "title": "Circle slides after Morgan Stanley downgrade, cut in price target",
-      "url": "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-03T13:59:50+00:00",
-      "raw_text": "Circle slides after Morgan Stanley downgrade, cut in price target",
-      "impact": {}
-    },
-    {
-      "event_id": "90df2ef0-e7c6-4248-b6b1-2c7c9c3f9eec",
-      "source": "rss:coindesk",
-      "title": "Bernstein sees another leg lower for crypto markets if Clarity Act stalls",
-      "url": "https://www.coindesk.com/policy/2026/08/03/bernstein-sees-another-leg-lower-for-crypto-markets-if-clarity-act-stalls",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-03T13:49:40+00:00",
-      "raw_text": "Bernstein sees another leg lower for crypto markets if Clarity Act stalls",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 77,
+        "avg_1h": 0.27,
+        "avg_24h": 0.49,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 187,
+        "count": 188,
         "avg_1h": 0.01,
         "avg_24h": 0.91,
         "win_rate_1h_gt5pct": 0.0
@@ -6408,16 +6427,10 @@
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 77,
-        "avg_1h": 0.27,
-        "avg_24h": 0.49,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 66,
+        "count": 65,
         "avg_1h": 0.07,
-        "avg_24h": -0.22,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
