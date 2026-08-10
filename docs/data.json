@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-10T17:58:47.904923+00:00",
+  "generated_at": "2026-08-10T19:11:24.827769+00:00",
   "events": [
+    {
+      "event_id": "54967de5-c938-4dc7-8855-6aa26d86efae",
+      "source": "rss:decrypt",
+      "title": "Wall Street Is Starting to Treat Data Center Backlash as a Credit Risk",
+      "url": "https://decrypt.co/375237/wall-street-data-centers-backlash-credit-risk",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T18:31:06+00:00",
+      "raw_text": "Wall Street Is Starting to Treat Data Center Backlash as a Credit Risk\n\nBanks financing the AI infrastructure boom are now weighing local public opposition alongside permits and costs.",
+      "impact": {}
+    },
+    {
+      "event_id": "0495abb6-9c13-42d6-8361-4c197597401d",
+      "source": "rss:decrypt",
+      "title": "Brazil's $319B Crypto Market Faces October Licensing Deadline: CertiK",
+      "url": "https://decrypt.co/375249/brazils-319b-crypto-market-faces-october-licensing-deadline-certik",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-10T17:51:04+00:00",
+      "raw_text": "Brazil's $319B Crypto Market Faces October Licensing Deadline: CertiK\n\nA new report maps Brazil's push to bring its vast crypto market under formal supervision by October 30.",
+      "impact": {}
+    },
     {
       "event_id": "47e80fdf-924d-46df-815f-a1e653c7b0fa",
       "source": "rss:bitcoinmagazine",
@@ -87,7 +111,8 @@
       "raw_text": "Strategy Sells Bitcoin Again For Cash Buffer, STRC Buyback\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/01/Strategy-MSTR-Stock-Soars-10-Above-189-as-Bitcoin-Nears-100000-1.jpg\" style=\"display: block;",
       "impact": {
         "t_plus_5m": -0.0229,
-        "t_plus_15m": -0.0171
+        "t_plus_15m": -0.0171,
+        "t_plus_1h": -0.2916
       }
     },
     {
@@ -104,7 +129,8 @@
       "raw_text": "Bitcoin price slip wipes weekend gains as oil surge hits 5% on Hormuz disappointment\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price slip wipes weekend gains as oil surge hits 5% on Hormuz disappointment\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia",
       "impact": {
         "t_plus_5m": -0.001,
-        "t_plus_15m": 0.0075
+        "t_plus_15m": 0.0075,
+        "t_plus_1h": -0.1945
       }
     },
     {
@@ -121,7 +147,8 @@
       "raw_text": "XRP Price Weakens as Crypto Market Awaits Clarity\n\nXRP is trading just above $1.00, still pinned under a death cross, as the legislative tailwind that lifted it in July loses steam.",
       "impact": {
         "t_plus_5m": 0.0478,
-        "t_plus_15m": 0.1236
+        "t_plus_15m": 0.1236,
+        "t_plus_1h": -0.1356
       }
     },
     {
@@ -265,7 +292,8 @@
       "impact": {
         "t_plus_5m": -0.1537,
         "t_plus_15m": -0.1049,
-        "t_plus_1h": -0.3171
+        "t_plus_1h": -0.3171,
+        "t_plus_4h": -1.3736
       }
     },
     {
@@ -6368,45 +6396,14 @@
         "t_plus_15m": -0.3148,
         "t_plus_1h": 0.0306
       }
-    },
-    {
-      "event_id": "438ff22f-42c7-4742-9875-1aaae3805bb4",
-      "source": "rss:coindesk",
-      "title": "Trump-linked American Bitcoin president Matt Prusak departs for Giga Energy",
-      "url": "https://www.coindesk.com/business/2026/08/03/trump-linked-american-bitcoin-president-matt-prusak-departs-for-giga-energy",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-03T15:24:45+00:00",
-      "raw_text": "Trump-linked American Bitcoin president Matt Prusak departs for Giga Energy",
-      "impact": {}
-    },
-    {
-      "event_id": "16a6efdd-8c99-496e-a22b-4e15b3046945",
-      "source": "rss:cointelegraph",
-      "title": "Hashdex to shut smallest Bitcoin ETF after more than two years",
-      "url": "https://cointelegraph.com/news/hashdex-to-shut-smallest-bitcoin-etf-after-more-than-two-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-03T15:24:43+00:00",
-      "raw_text": "Hashdex to shut smallest Bitcoin ETF after more than two years\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hashdex to shut smallest Bitcoin ETF after more than two years\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/closed-exchange.jpg",
-      "impact": {
-        "t_plus_5m": -0.2242,
-        "t_plus_15m": 0.0279,
-        "t_plus_1h": 0.1248,
-        "t_plus_24h": 0.4871
-      }
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 77,
-        "avg_1h": 0.27,
-        "avg_24h": 0.49,
+      "narrative": {
+        "count": 160,
+        "avg_1h": -0.1,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
@@ -6415,15 +6412,15 @@
         "avg_24h": 0.91,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 159,
-        "avg_1h": -0.08,
+      "macro": {
+        "count": 76,
+        "avg_1h": 0.29,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
         "count": 6,
-        "avg_1h": -0.07,
+        "avg_1h": -0.18,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
