@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T20:59:23.449662+00:00",
+  "generated_at": "2026-08-11T21:59:31.703170+00:00",
   "events": [
     {
       "event_id": "cd2ac1ac-a4d7-4c92-b019-2b8a1e54d482",
@@ -32,10 +32,16 @@
       "url": "https://bitcoinmagazine.com/news/casa-ceo-nick-neuman-233k-btc-moved-to-safety-after-coldcard-exploit-proves-self-custody-resilience",
       "event_type": "hack",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-11T19:10:11+00:00",
       "raw_text": "Casa CEO Nick Neuman: 233k BTC Moved To Safety After Coldcard Exploit Proves Self-Custody Resilience\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/tn.webp\" style=\"display: block; margin: 1em auto;\"",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.6784,
+        "t_plus_15m": -0.5419,
+        "t_plus_1h": 0.0032
+      }
     },
     {
       "event_id": "7ff10cef-f1ed-4d2b-bb6d-98d19ae9975d",
@@ -104,10 +110,16 @@
       "url": "https://bitcoinmagazine.com/news/bitcoin-treasury-twenty-one-writes-letter",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-11T18:20:39+00:00",
       "raw_text": "Twenty One to Become ‘More Than a Bitcoin Treasury,’ Says New CEO\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Treasury-Twenty-One-to-Become-More-Than-a-Treasury-Company.jpg\" style=\"displa",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1583,
+        "t_plus_15m": -0.4131,
+        "t_plus_1h": -0.5631
+      }
     },
     {
       "event_id": "33974d69-4450-4929-ae78-9ded98a03428",
@@ -116,10 +128,16 @@
       "url": "https://cointelegraph.com/news/strategy-ceo-resume-bitcoin-accumulation-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-11T18:03:49+00:00",
       "raw_text": "Strategy CEO says company will resume Bitcoin accumulation this year\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy CEO says company will resume Bitcoin accumulation this year\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2008,
+        "t_plus_15m": -0.1455,
+        "t_plus_1h": -0.5312
+      }
     },
     {
       "event_id": "d9067734-26a6-4d88-bc8a-05c56b4ed7e0",
@@ -6397,7 +6415,7 @@
       },
       "unknown": {
         "count": 190,
-        "avg_1h": 0.04,
+        "avg_1h": 0.02,
         "avg_24h": 0.91,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6409,7 +6427,7 @@
       },
       "macro": {
         "count": 77,
-        "avg_1h": 0.28,
+        "avg_1h": 0.17,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
