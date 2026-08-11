@@ -1,6 +1,90 @@
 {
-  "generated_at": "2026-08-11T11:52:28.952517+00:00",
+  "generated_at": "2026-08-11T13:36:13.486789+00:00",
   "events": [
+    {
+      "event_id": "f4106324-b073-49fd-af9b-5b4b94902857",
+      "source": "rss:decrypt",
+      "title": "Morning Minute: Saylor's Strategy Sells Bitcoin for Second Week in a Row",
+      "url": "https://decrypt.co/375304/morning-minute-saylors-strategy-sells-bitcoin-for-second-week-in-a-row",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-08-11T12:22:13+00:00",
+      "raw_text": "Morning Minute: Saylor's Strategy Sells Bitcoin for Second Week in a Row\n\nStrategy dumped $108M in BTC at a loss and a whopping $650M of MSTR stock, and yet MSTR stock barely flinched. What gives?",
+      "impact": {
+        "t_plus_5m": -0.0728,
+        "t_plus_15m": -0.0336,
+        "t_plus_1h": -0.1449
+      }
+    },
+    {
+      "event_id": "17305795-e98c-4563-9373-dc1f0547f00d",
+      "source": "rss:cointelegraph",
+      "title": "Russia proposes exchange trading of Bitcoin, Ether and Tether’s USDT",
+      "url": "https://cointelegraph.com/news/bank-of-russia-trading-bitcoin-ether-tether-usdt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-11T12:09:38+00:00",
+      "raw_text": "Russia proposes exchange trading of Bitcoin, Ether and Tether’s USDT\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Russia proposes exchange trading of Bitcoin, Ether and Tether’s USDT\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bank-wi",
+      "impact": {}
+    },
+    {
+      "event_id": "031d1ff7-b162-45d2-88c4-662feebfbacb",
+      "source": "rss:decrypt",
+      "title": "North Korea Now Leans on Crime Networks to Launder Stolen Crypto: RUSI",
+      "url": "https://decrypt.co/375305/north-korea-now-leans-on-crime-networks-to-launder-stolen-crypto-rusi",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-11T12:02:42+00:00",
+      "raw_text": "North Korea Now Leans on Crime Networks to Launder Stolen Crypto: RUSI\n\nOnce its proceeds mix with scam money, exchanges struggle to separate proliferation finance from ordinary laundering, the paper warns.",
+      "impact": {}
+    },
+    {
+      "event_id": "9b336da4-d98e-4229-b8ef-d6b93bd7a020",
+      "source": "rss:coindesk",
+      "title": "MoneyGram expands on Solana with global crypto-to-cash service",
+      "url": "https://www.coindesk.com/business/2026/08/10/moneygram-expands-on-solana-with-global-crypto-to-cash-service",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-11T12:02:22+00:00",
+      "raw_text": "MoneyGram expands on Solana with global crypto-to-cash service",
+      "impact": {}
+    },
+    {
+      "event_id": "ef218703-c19c-455e-b707-eadef6695a4c",
+      "source": "rss:coindesk",
+      "title": "Australian watchdog suspends Cryptolink, forcing 96 ATMs offline",
+      "url": "https://www.coindesk.com/policy/2026/08/11/australian-watchdog-suspends-cryptolink-forcing-96-atms-offline",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-11T11:45:47+00:00",
+      "raw_text": "Australian watchdog suspends Cryptolink, forcing 96 ATMs offline",
+      "impact": {}
+    },
+    {
+      "event_id": "f85268dd-9447-46f8-a05f-62324e408393",
+      "source": "rss:theblock",
+      "title": "Trump Media records $360.6 million unrealized loss on digital assets in first half of the year",
+      "url": "https://www.theblock.co/news/business/2026-08-11-trump-media-records-360-6-million-unrealized-loss-on-digital-assets-in-first-half-of-the-year-411394",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-08-11T11:34:20+00:00",
+      "raw_text": "Trump Media records $360.6 million unrealized loss on digital assets in first half of the year\n\nTrump Media recorded a $360.6M unrealized digital-asset loss in H1. Its directly held BTC and CRO were worth $597.7M at June 30.\n\nTrump Media recorded a $360.6M unrealized digital-asset loss in H1. Its di",
+      "impact": {
+        "t_plus_5m": -0.0867,
+        "t_plus_15m": -0.0743,
+        "t_plus_1h": -0.0336
+      }
+    },
     {
       "event_id": "a6883bfb-ff3b-43a5-983d-9ef1f042ad0c",
       "source": "rss:coindesk",
@@ -80,10 +164,16 @@
       "url": "https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-below-usd65-000-as-the-strait-of-hormuz-stalemate-and-strategy-s-selling-squeeze-the-market",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-08-11T10:48:08+00:00",
       "raw_text": "Bitcoin stuck below $65,000 as Hormuz hopes evaporate, XRP close to dropping below $1",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2482,
+        "t_plus_15m": 0.0148,
+        "t_plus_1h": -0.0822
+      }
     },
     {
       "event_id": "663f3228-9f68-4bf6-9e03-c51f14c43944",
@@ -92,10 +182,16 @@
       "url": "https://www.coindesk.com/tech/2026/08/11/live-updates-bitcoin-slips-as-corporate-btc-enthusiasm-moves-to-ai",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-11T10:34:52+00:00",
       "raw_text": "Live updates: Bitcoin slips as corporate BTC enthusiasm moves to AI",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1114,
+        "t_plus_15m": -0.1514,
+        "t_plus_1h": -0.0075
+      }
     },
     {
       "event_id": "ed6cdffc-1f51-4bf5-85e9-3cb362654f72",
@@ -6273,99 +6369,20 @@
       "timestamp_utc": "2026-08-04T14:38:23+00:00",
       "raw_text": "Polymarket targets $20 billion valuation as competition heats up in prediction market sector",
       "impact": {}
-    },
-    {
-      "event_id": "9247ebaa-8522-46ec-9796-8dfc09a7ece8",
-      "source": "rss:coindesk",
-      "title": "Intesa Sanpaolo slashed IBIT stake by 94% in 2Q, tripled ether ETF holding as crypto prices slumped",
-      "url": "https://www.coindesk.com/business/2026/08/04/intesa-sanpaolo-slashed-ibit-stake-by-94-in-2q-tripled-ether-etf-holding-as-crypto-prices-slumped",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-04T14:25:50+00:00",
-      "raw_text": "Intesa Sanpaolo slashed IBIT stake by 94% in 2Q, tripled ether ETF holding as crypto prices slumped",
-      "impact": {}
-    },
-    {
-      "event_id": "6c3baf21-04ca-48fd-af22-60ad9311f8ed",
-      "source": "rss:theblock",
-      "title": "Bitdeer stock pops and drops on $4.7 billion AI data center lease in Norway",
-      "url": "https://www.theblock.co/post/410578/bitdeer-stock-pops-drops-4-7-billion-ai-data-center-lease-norway?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-04T14:24:52+00:00",
-      "raw_text": "Bitdeer stock pops and drops on $4.7 billion AI data center lease in Norway\n\n<p>Bitcoin miner Bitdeer shares jump after disclosing $4.7 billion AI data center lease terms with Volta in Norway.</p>\n\n<p>Bitcoin miner Bitdeer shares jump after disclosing $4.7 billion AI data center lease terms with Vol",
-      "impact": {}
-    },
-    {
-      "event_id": "0fe88d18-f9b2-42c2-89d7-4804b28a11aa",
-      "source": "rss:coindesk",
-      "title": "Dinari brings tokenized U.S. stocks to American investors as equity race heats up",
-      "url": "https://www.coindesk.com/business/2026/08/04/dinari-brings-tokenized-u-s-stocks-to-american-investors-as-equity-race-heats-up",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-04T14:00:00+00:00",
-      "raw_text": "Dinari brings tokenized U.S. stocks to American investors as equity race heats up",
-      "impact": {}
-    },
-    {
-      "event_id": "23fa67c6-0bf1-43ec-a843-3e5d3943622b",
-      "source": "rss:bitcoinmagazine",
-      "title": "Hyperscale Trims Bitcoin Holdings, Still Sits on $61M Stack",
-      "url": "https://bitcoinmagazine.com/news/hyperscale-sells-some-bitcoin",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-04T13:58:28+00:00",
-      "raw_text": "Hyperscale Trims Bitcoin Holdings, Still Sits on $61M Stack\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Hyperscale-Trims-Bitcoin-Holdings.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<",
-      "impact": {
-        "t_plus_5m": -0.7233,
-        "t_plus_15m": -0.6259,
-        "t_plus_1h": -0.0676,
-        "t_plus_4h": -0.3162
-      }
-    },
-    {
-      "event_id": "c9a691ee-1ba1-40a5-817c-ca30d254ec74",
-      "source": "rss:decrypt",
-      "title": "Apple's AI Slop Problem Left a $200K macOS Exploit Unreported",
-      "url": "https://decrypt.co/374900/apples-ai-slop-problem-left-a-200k-macos-exploit-unreported",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-04T13:36:06+00:00",
-      "raw_text": "Apple's AI Slop Problem Left a $200K macOS Exploit Unreported\n\nA Milan start-up says it found a full-takeover flaw in macOS using ChatGPT, then hit Apple's new submission cap before it could file it.",
-      "impact": {}
-    },
-    {
-      "event_id": "ba3b0cc3-81e6-4677-b107-58bcc95acbb0",
-      "source": "rss:cointelegraph",
-      "title": "Sorry everyone, Bitcoin is headed down to $43,500: Michael Terpin",
-      "url": "https://cointelegraph.com/magazine/bitcoin-to-go-down-into-the-40s-before-next-bull-run-michael-terpin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-04T13:30:00+00:00",
-      "raw_text": "Sorry everyone, Bitcoin is headed down to $43,500: Michael Terpin\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Sorry everyone, Bitcoin is headed down to $43,500: Michael Terpin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/interview-29-",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 188,
-        "avg_1h": 0.06,
-        "avg_24h": 0.91,
+      "macro": {
+        "count": 75,
+        "avg_1h": 0.33,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 160,
-        "avg_1h": -0.2,
-        "avg_24h": null,
+      "unknown": {
+        "count": 190,
+        "avg_1h": 0.05,
+        "avg_24h": 0.91,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
@@ -6374,15 +6391,15 @@
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "listing": {
-        "count": 6,
+      "narrative": {
+        "count": 159,
         "avg_1h": -0.18,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 75,
-        "avg_1h": 0.42,
+      "listing": {
+        "count": 5,
+        "avg_1h": -0.29,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
