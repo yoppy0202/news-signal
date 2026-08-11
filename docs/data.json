@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-11T02:23:01.584909+00:00",
+  "generated_at": "2026-08-11T04:35:52.427978+00:00",
   "events": [
+    {
+      "event_id": "827091f2-02b2-434b-9727-58ee38266512",
+      "source": "rss:coindesk",
+      "title": "Bitcoin's 'strongest hands' are back, on-chain data show",
+      "url": "https://www.coindesk.com/markets/2026/08/11/bitcoin-s-strongest-hands-are-back-on-chain-data-show",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-11T03:48:40+00:00",
+      "raw_text": "Bitcoin's 'strongest hands' are back, on-chain data show",
+      "impact": {}
+    },
+    {
+      "event_id": "37fcbc78-aa3a-485f-a8db-1428c75efdd4",
+      "source": "rss:cointelegraph",
+      "title": "Trump Media to revamp crypto treasury strategy after $238M Q2 loss",
+      "url": "https://cointelegraph.com/news/trump-media-crypto-treasury-strategy-after-238m-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-11T03:21:27+00:00",
+      "raw_text": "Trump Media to revamp crypto treasury strategy after $238M Q2 loss\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump Media to revamp crypto treasury strategy after $238M Q2 loss\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/trump-bitco",
+      "impact": {}
+    },
+    {
+      "event_id": "c4bcf8e3-0c74-473d-9d73-9bf80792626f",
+      "source": "rss:theblock",
+      "title": "Riot Platforms stock jumps 25% after-hours on $9.1 billion AI deal reportedly with Anthropic",
+      "url": "https://www.theblock.co/news/business/2026-08-10-riot-platforms-ai-deal-anthropic-411358",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-11T02:22:30+00:00",
+      "raw_text": "Riot Platforms stock jumps 25% after-hours on $9.1 billion AI deal reportedly with Anthropic\n\nThe deal includes two five-year extension options that could raise the potential contract value to $16.1 billion.\n\nThe deal includes two five-year extension options that could raise the potential contract v",
+      "impact": {}
+    },
     {
       "event_id": "2e7a2cce-19c4-4215-9b51-e724711aa89d",
       "source": "rss:cointelegraph",
@@ -68,10 +104,17 @@
       "url": "https://www.theblock.co/news/ecosystems/2026-08-10-btcpay-server-supporters-offer-3-btc-recovery-bounty-critical-exploit-411353",
       "event_type": "hack",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-10T20:59:57+00:00",
       "raw_text": "BTCPay Server supporters offer up to 3 BTC for recovery bounty after critical exploit\n\nBTCPay said AI may have been used to exploit vulnerability, and credited Craig Raw and the Bitcoin Red Team fund for reporting the issue.\n\nBTCPay said AI may have been used to exploit vulnerability, and credited C",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0988,
+        "t_plus_15m": 0.1215,
+        "t_plus_1h": -0.1032,
+        "t_plus_4h": -0.0286
+      }
     },
     {
       "event_id": "d3f51d84-189e-4424-821c-653d5fa7cd83",
@@ -88,7 +131,8 @@
       "impact": {
         "t_plus_5m": -0.0355,
         "t_plus_15m": -0.0129,
-        "t_plus_1h": -0.2372
+        "t_plus_1h": -0.2372,
+        "t_plus_4h": -0.1628
       }
     },
     {
@@ -765,10 +809,17 @@
       "url": "https://www.theblock.co/news/business/2026-08-10-michael-saylor-strategy-bitcoin-treasury-411237",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-10T12:09:39+00:00",
       "raw_text": "Michael Saylor’s Strategy sells another 1,690 BTC as USD reserve hits $4.65 billion\n\nStrategy's total holdings account for roughly 4% of the 21 million bitcoin supply cap — worth roughly $55 billion.\n\nStrategy's total holdings account for roughly 4% of the 21 million bitcoin supply cap — worth rough",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 1.6774,
+        "t_plus_15m": 1.613,
+        "t_plus_1h": 1.2975,
+        "t_plus_4h": 0.3323
+      }
     },
     {
       "event_id": "789f94f1-a51d-4527-8a26-e2fa5eaf8536",
@@ -6315,57 +6366,20 @@
       "timestamp_utc": "2026-08-04T07:25:32+00:00",
       "raw_text": "Nigeria sets crypto tax collection rules for digital asset platforms\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Nigeria sets crypto tax collection rules for digital asset platforms\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the-",
       "impact": {}
-    },
-    {
-      "event_id": "1b28de78-ad31-4f08-be7d-ee012770d1e4",
-      "source": "rss:coindesk",
-      "title": "XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool",
-      "url": "https://www.coindesk.com/markets/2026/08/04/flare-s-wrapped-xrp-wins-approval-in-a-usd280-million-rlusd-lending-vault",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-08-04T06:12:20+00:00",
-      "raw_text": "XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool",
-      "impact": {
-        "t_plus_5m": 0.0699,
-        "t_plus_15m": 0.017,
-        "t_plus_1h": -0.2155,
-        "t_plus_4h": -0.3009
-      }
-    },
-    {
-      "event_id": "f1d50fff-4f6d-460f-b0a1-ed767ffafeea",
-      "source": "rss:cointelegraph",
-      "title": "Crypto firms still seeking frontier AI access; only select few have it",
-      "url": "https://cointelegraph.com/news/few-crypto-firms-have-access-to-frontier-ai-as-cyber-threats-escalate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-04T06:00:23+00:00",
-      "raw_text": "Crypto firms still seeking frontier AI access; only select few have it\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto firms still seeking frontier AI access; only select few have it \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/ai",
-      "impact": {}
-    },
-    {
-      "event_id": "4f2cefcf-1b6d-4f62-9dd7-167771ce1456",
-      "source": "rss:cointelegraph",
-      "title": "Crypto firms are still seeking frontier AI access, only a select few have it",
-      "url": "https://cointelegraph.com/news/few-crypto-firms-have-access-to-frontier-ai-as-cyber-threats-escalate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-04T06:00:23+00:00",
-      "raw_text": "Crypto firms are still seeking frontier AI access, only a select few have it\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto firms are still seeking frontier AI access, only a select few have it \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/artic",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 157,
+        "count": 159,
         "avg_1h": -0.14,
         "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 190,
+        "avg_1h": 0.07,
+        "avg_24h": 0.91,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
@@ -6375,15 +6389,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 69,
-        "avg_1h": 0.05,
+        "count": 67,
+        "avg_1h": 0.04,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 190,
-        "avg_1h": 0.01,
-        "avg_24h": 0.91,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
