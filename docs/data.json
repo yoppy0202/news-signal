@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-08-12T10:17:06.928928+00:00",
+  "generated_at": "2026-08-12T11:55:27.060859+00:00",
   "events": [
+    {
+      "event_id": "d9d4d178-a25b-4542-ae2d-b87ae9bc7b5f",
+      "source": "rss:theblock",
+      "title": "Bitcoin market in ‘hibernation’ as perp trading activity sinks to three-year low ahead of US CPI release: K33",
+      "url": "https://www.theblock.co/news/markets/2026-08-12-bitcoin-perp-trading-activity-three-year-low-us-cpi-k33-411545",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T10:40:56+00:00",
+      "raw_text": "Bitcoin market in ‘hibernation’ as perp trading activity sinks to three-year low ahead of US CPI release: K33\n\nElevated open interest leaves the market exposed to sharper liquidation-driven moves, K33 said, as traders await Wednesday's U.S. CPI report.\n\nElevated open interest leaves the market expos",
+      "impact": {}
+    },
+    {
+      "event_id": "add96b1b-20de-4764-99be-4cea281cd159",
+      "source": "rss:decrypt",
+      "title": "Harmony's ONE Sinks 37% After Attacker Mints 4 Billion Tokens",
+      "url": "https://decrypt.co/375390/harmonys-one-sinks-37-after-attacker-mints-4-billion-tokens",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T10:38:06+00:00",
+      "raw_text": "Harmony's ONE Sinks 37% After Attacker Mints 4 Billion Tokens\n\nThe team is weighing a rollback, which would undo the attack along with every legitimate transaction made since.",
+      "impact": {}
+    },
+    {
+      "event_id": "f5716053-7d4e-4585-9377-5732f500b7a4",
+      "source": "rss:coindesk",
+      "title": "Bitcoin holds near $64,000 as U.S. inflation data looms, Harmony exploit rattles altcoins",
+      "url": "https://www.coindesk.com/markets/2026/08/12/bitcoin-holds-near-usd64-000-as-u-s-inflation-data-looms-harmony-exploit-rattles-altcoins",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T10:30:10+00:00",
+      "raw_text": "Bitcoin holds near $64,000 as U.S. inflation data looms, Harmony exploit rattles altcoins",
+      "impact": {}
+    },
+    {
+      "event_id": "312d5f91-81ca-4247-aa39-1ad456ff8280",
+      "source": "rss:cointelegraph",
+      "title": "Binance, RedotPay clash over fate of Singapore lawsuit",
+      "url": "https://cointelegraph.com/news/binance-redotpay-clash-singapore-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T10:18:18+00:00",
+      "raw_text": "Binance, RedotPay clash over fate of Singapore lawsuit\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance, RedotPay clash over fate of Singapore lawsuit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-status-of-prediction-market-batt",
+      "impact": {}
+    },
+    {
+      "event_id": "bd67d536-e844-437a-a04e-89cd2c896a8a",
+      "source": "rss:coindesk",
+      "title": "Bank of England to test stablecoin, digital currency use in cross-border finance",
+      "url": "https://www.coindesk.com/business/2026/08/12/bank-of-england-to-test-stablecoin-digital-currency-use-in-cross-border-finance",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T10:17:05+00:00",
+      "raw_text": "Bank of England to test stablecoin, digital currency use in cross-border finance",
+      "impact": {}
+    },
+    {
+      "event_id": "52ebd541-cd66-477b-9b08-a9e20fcf5bd6",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin miners earn under 0.7% of revenue from fees in new 10-year low",
+      "url": "https://cointelegraph.com/markets/bitcoin-miners-earn-under-07-of-revenue-from-fees-in-new-10-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T10:06:05+00:00",
+      "raw_text": "Bitcoin miners earn under 0.7% of revenue from fees in new 10-year low\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin miners earn under 0.7% of revenue from fees in new 10-year low\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-",
+      "impact": {}
+    },
     {
       "event_id": "8fe33f21-0ce4-4850-bb14-45097e6371a8",
       "source": "rss:coindesk",
@@ -214,7 +286,8 @@
       "impact": {
         "t_plus_5m": 0.2681,
         "t_plus_15m": 0.2218,
-        "t_plus_1h": 0.0197
+        "t_plus_1h": 0.0197,
+        "t_plus_4h": -0.4196
       }
     },
     {
@@ -244,7 +317,8 @@
       "impact": {
         "t_plus_5m": -0.2177,
         "t_plus_15m": -0.1483,
-        "t_plus_1h": 0.0537
+        "t_plus_1h": 0.0537,
+        "t_plus_4h": -0.3406
       }
     },
     {
@@ -6332,104 +6406,32 @@
       "timestamp_utc": "2026-08-05T13:00:00+00:00",
       "raw_text": "Mastercard expands stablecoin push with Crypto Credential pilot\n\n<p>Mastercard and Borderless.xyz are piloting Crypto Credential to support trusted cross-border stablecoin payment flows.</p>\n\n<p>Mastercard and Borderless.xyz are piloting Crypto Credential to support trusted cross-border stablecoin p",
       "impact": {}
-    },
-    {
-      "event_id": "3487a13e-66e0-4d2f-8bdb-d211a12bb176",
-      "source": "rss:cointelegraph",
-      "title": "Mastercard, Borderless test shared identity checks for stablecoin transfers",
-      "url": "https://cointelegraph.com/news/mastercard-borderless-test-identity-checks-stablecoin-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T13:00:00+00:00",
-      "raw_text": "Mastercard, Borderless test shared identity checks for stablecoin transfers\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Mastercard, Borderless test shared identity checks for stablecoin transfers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-",
-      "impact": {}
-    },
-    {
-      "event_id": "d91a32c3-fb84-4587-bc57-5687acf64467",
-      "source": "rss:coindesk",
-      "title": "Crypto may have institutionalized, but it still trades like a rumor mill",
-      "url": "https://www.coindesk.com/opinion/2026/08/05/crypto-may-have-institutionalized-but-it-still-trades-like-a-rumor-mill",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T13:00:00+00:00",
-      "raw_text": "Crypto may have institutionalized, but it still trades like a rumor mill",
-      "impact": {}
-    },
-    {
-      "event_id": "ca78b71f-8f38-492b-b074-98fe73b4657a",
-      "source": "rss:decrypt",
-      "title": "Anthropic's Claude Mythos 5 'Targeted Real People' in UK Cyber Tests: AISI",
-      "url": "https://decrypt.co/374948/anthropics-claude-mythos-5-targeted-real-people-in-uk-cyber-tests-aisi",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T12:47:57+00:00",
-      "raw_text": "Anthropic's Claude Mythos 5 'Targeted Real People' in UK Cyber Tests: AISI\n\nAnthropic's LLM and OpenAI's GPT-5.6 Sol took \"unsanctioned action\" on the live internet, the UK's AI Security Institute said.",
-      "impact": {}
-    },
-    {
-      "event_id": "653c1bb3-4608-48e0-8db7-8f528dc6f895",
-      "source": "rss:coindesk",
-      "title": "Galaxy Digital shares slip 5% after second-quarter results",
-      "url": "https://www.coindesk.com/business/2026/08/05/galaxy-digital-shares-slip-5-after-second-quarter-results",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T12:42:19+00:00",
-      "raw_text": "Galaxy Digital shares slip 5% after second-quarter results",
-      "impact": {}
-    },
-    {
-      "event_id": "dad9b415-e56f-4da6-8c0e-48e5efc52385",
-      "source": "rss:coindesk",
-      "title": "AI agent token once worth $2.4 billion ends with founder calling it dead",
-      "url": "https://www.coindesk.com/markets/2026/08/05/ai-agent-token-once-worth-usd2-4-billion-ends-with-founder-calling-it-dead",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T12:28:39+00:00",
-      "raw_text": "AI agent token once worth $2.4 billion ends with founder calling it dead",
-      "impact": {}
-    },
-    {
-      "event_id": "3bb4bb8a-7e37-48ab-9617-627245fc0063",
-      "source": "rss:theblock",
-      "title": "Circle names BlackRock, DTCC among Arc validators as Q2 revenue hits $701 million",
-      "url": "https://www.theblock.co/post/410840/circle-names-blackrock-dtcc-among-arc-validators-as-q2-revenue-hits-701-million?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T12:16:27+00:00",
-      "raw_text": "Circle names BlackRock, DTCC among Arc validators as Q2 revenue hits $701 million\n\n<p>Circle named BlackRock, Visa, DTCC and eight others as Arc validators as Q2 revenue hit $701M and USDC circulation reached $73.3B.</p>\n\n<p>Circle named BlackRock, Visa, DTCC and eight others as Arc validators as Q2",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 152,
-        "avg_1h": -0.21,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 87,
+        "count": 86,
         "avg_1h": 0.16,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 185,
-        "avg_1h": -0.0,
-        "avg_24h": 0.91,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 66,
+        "count": 68,
         "avg_1h": -0.01,
         "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 153,
+        "avg_1h": -0.21,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 183,
+        "avg_1h": -0.0,
+        "avg_24h": 0.91,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
