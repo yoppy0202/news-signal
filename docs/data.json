@@ -1,6 +1,102 @@
 {
-  "generated_at": "2026-08-12T13:39:27.550375+00:00",
+  "generated_at": "2026-08-12T15:10:18.276570+00:00",
   "events": [
+    {
+      "event_id": "2ee36417-589a-468e-adca-7fa4dace9766",
+      "source": "rss:decrypt",
+      "title": "A Routing Bug Took Solana 86% of the Way to Losing Finality",
+      "url": "https://decrypt.co/375404/a-routing-bug-took-solana-86-of-the-way-to-losing-finality",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T14:13:07+00:00",
+      "raw_text": "A Routing Bug Took Solana 86% of the Way to Losing Finality\n\nA malformed default route at a single hosting provider took almost 29% of staked SOL offline, against a 33% threshold.",
+      "impact": {}
+    },
+    {
+      "event_id": "01503c10-3f92-40f2-84a6-76c6c54a8261",
+      "source": "rss:decrypt",
+      "title": "Kalshi Adds Real-Time Market Data Feed Through DoubleZero",
+      "url": "https://decrypt.co/375384/kalshi-real-time-market-data-feed-doublezero",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T14:00:04+00:00",
+      "raw_text": "Kalshi Adds Real-Time Market Data Feed Through DoubleZero\n\nThe service gives trading firms access to Kalshi’s sports and crypto order books over DoubleZero’s fiber network.",
+      "impact": {}
+    },
+    {
+      "event_id": "04d09c53-122e-4629-8d00-0b66547d6390",
+      "source": "rss:theblock",
+      "title": "Kalshi first prediction market to stream full order books via DoubleZero",
+      "url": "https://www.theblock.co/news/markets/2026-08-12-kalshi-first-prediction-market-to-stream-full-order-books-via-doublezero-411589",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T14:00:00+00:00",
+      "raw_text": "Kalshi first prediction market to stream full order books via DoubleZero\n\nThe move gives institutional traders direct access to Level 1 and Level 2 data without having to reconstruct the book from APIs.\n\nThe move gives institutional traders direct access to Level 1 and Level 2 data without having to",
+      "impact": {}
+    },
+    {
+      "event_id": "b9112df1-8dd2-445f-9a03-777e11e3fed5",
+      "source": "rss:cointelegraph",
+      "title": "Kalshi launches sports and crypto perps data feed on DoubleZero",
+      "url": "https://cointelegraph.com/news/kalshi-launches-sports-crypto-data-feed-doublezero?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T13:58:41+00:00",
+      "raw_text": "Kalshi launches sports and crypto perps data feed on DoubleZero\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi launches sports and crypto perps data feed on DoubleZero\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-comparison-us-",
+      "impact": {}
+    },
+    {
+      "event_id": "3e6c0a3c-21ce-40a7-84bb-b622090de6db",
+      "source": "rss:coindesk",
+      "title": "Smart contract blockchain Solana nearly froze Wednesday, Marinade Finance says",
+      "url": "https://www.coindesk.com/tech/2026/08/12/smart-contract-blockchain-solana-nearly-froze-wednesday-marinade-finance-says",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T13:39:31+00:00",
+      "raw_text": "Smart contract blockchain Solana nearly froze Wednesday, Marinade Finance says",
+      "impact": {}
+    },
+    {
+      "event_id": "1cdd467d-c321-4000-ac6a-1f98ca6a56c5",
+      "source": "rss:cointelegraph",
+      "title": "Slovenia joins EU’s MiCA stablecoin register with first issuer",
+      "url": "https://cointelegraph.com/news/slovenia-eu-mica-stablecoin-register-dinaro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T13:31:54+00:00",
+      "raw_text": "Slovenia joins EU’s MiCA stablecoin register with first issuer\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Slovenia joins EU’s MiCA stablecoin register with first issuer\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-a-beginners-guid",
+      "impact": {}
+    },
+    {
+      "event_id": "e551f38e-3f50-4625-9356-c9e9379def62",
+      "source": "rss:cointelegraph",
+      "title": "El Salvador’s Bitcoin experiment turns 5: ‘It was for us, not them’",
+      "url": "https://cointelegraph.com/magazine/el-salvadors-bitcoin-experiment-turns-5-it-was-for-us-and-not-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T13:30:00+00:00",
+      "raw_text": "El Salvador’s Bitcoin experiment turns 5: ‘It was for us, not them’\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"El Salvador’s Bitcoin experiment turns 5: ‘It was for us, not them’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/have-bitc",
+      "impact": {}
+    },
+    {
+      "event_id": "3074ae15-ea9e-4de3-a65d-2f9819851128",
+      "source": "rss:cointelegraph",
+      "title": "Wintermute to pour $1B into AI, high-frequency trading amid TradFi expansion: Report",
+      "url": "https://cointelegraph.com/news/wintermute-pour-1b-ai-tradfi-expansion-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T13:23:57+00:00",
+      "raw_text": "Wintermute to pour $1B into AI, high-frequency trading amid TradFi expansion: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Wintermute to pour $1B into AI, high-frequency trading amid TradFi expansion: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia",
+      "impact": {}
+    },
     {
       "event_id": "8beae207-e9b3-458d-aa3a-108be611d7a7",
       "source": "rss:coindesk",
@@ -128,10 +224,16 @@
       "url": "https://www.coindesk.com/daybook-us/2026/08/12/xrp-trading-could-get-spicy-after-cpi-report-as-futures-bets-hit-highest-since-october",
       "event_type": "macro",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-08-12T11:15:00+00:00",
       "raw_text": "XRP trading could get spicy after CPI report as futures bets hit highest since October",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.3784,
+        "t_plus_15m": 0.4431,
+        "t_plus_1h": 0.5625
+      }
     },
     {
       "event_id": "d9d4d178-a25b-4542-ae2d-b87ae9bc7b5f",
@@ -299,6 +401,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-12T07:34:58+00:00",
       "raw_text": "Inside the fake crypto startup that fooled North Korean IT workers\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Inside the fake crypto startup that fooled North Korean IT workers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/inside-the-",
+      "impact": {}
+    },
+    {
+      "event_id": "25bf08bb-c5e3-421b-9d1c-d943f7194859",
+      "source": "rss:coindesk",
+      "title": "Live updates: AI stocks surge on Q2 beats, bitcoin falls below $64,000 as inflation hits estimates",
+      "url": "https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T07:04:53+00:00",
+      "raw_text": "Live updates: AI stocks surge on Q2 beats, bitcoin falls below $64,000 as inflation hits estimates",
       "impact": {}
     },
     {
@@ -6292,138 +6406,30 @@
       "timestamp_utc": "2026-08-05T16:51:54+00:00",
       "raw_text": "Crypto-backed Michigan House incumbent loses primary despite $2M PAC support\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto-backed Michigan House incumbent loses primary despite $2M PAC support\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl",
       "impact": {}
-    },
-    {
-      "event_id": "b4f6d109-0d10-460e-aee2-fe30d1fc83fd",
-      "source": "rss:cointelegraph",
-      "title": "Western Union brings stablecoin remittances to Visa network with Stablecard",
-      "url": "https://cointelegraph.com/news/western-union-stablecard-stablecoin-remittances-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T16:30:56+00:00",
-      "raw_text": "Western Union brings stablecoin remittances to Visa network with Stablecard\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Western Union brings stablecoin remittances to Visa network with Stablecard\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-",
-      "impact": {}
-    },
-    {
-      "event_id": "24df060a-003c-4616-a33b-59e6a33539ac",
-      "source": "rss:theblock",
-      "title": "NFT founder accused of using millions from investor funds to finance DJ hobby, gambling",
-      "url": "https://www.theblock.co/post/410890/nft-founder-accused-using-millions-investor-funds-finance-dj-hobby-gambling?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T16:17:47+00:00",
-      "raw_text": "NFT founder accused of using millions from investor funds to finance DJ hobby, gambling\n\n<p>An NFT founder is facing fraud charges after prosecutors alleged he stole millions of dollars from investors to bankroll his lifestyle.</p>\n\n<p>An NFT founder is facing fraud charges after prosecutors alleged",
-      "impact": {}
-    },
-    {
-      "event_id": "7ae49197-0e12-42f6-9fde-ccb5d3a6a263",
-      "source": "rss:bitcoinmagazine",
-      "title": "‘If Clarity Dies, Democrats Killed It’: Lummis Urges Senate to Act on Crypto Bill Before Recess",
-      "url": "https://bitcoinmagazine.com/news/cynthia-lummis-urges-clarity-act-speed",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T16:12:01+00:00",
-      "raw_text": "‘If Clarity Dies, Democrats Killed It’: Lummis Urges Senate to Act on Crypto Bill Before Recess\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/05/President-Trump-Supports-Strategic-Bitcoin-Reserve-Bill",
-      "impact": {}
-    },
-    {
-      "event_id": "437fc388-7ca4-432b-a781-43dac26c2582",
-      "source": "rss:coindesk",
-      "title": "Coldcard exploit could boost demand for regulated bitcoin exposure, analysts say",
-      "url": "https://www.coindesk.com/tech/2026/08/05/coldcard-exploit-could-boost-demand-for-regulated-bitcoin-exposure-analysts-say",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T15:44:08+00:00",
-      "raw_text": "Coldcard exploit could boost demand for regulated bitcoin exposure, analysts say",
-      "impact": {}
-    },
-    {
-      "event_id": "2b2dce1d-d612-438c-9286-16248e800f64",
-      "source": "rss:decrypt",
-      "title": "Circle Taps Visa, Mastercard and BlackRock as Validators for September Arc Launch",
-      "url": "https://decrypt.co/374961/circle-taps-visa-mastercard-and-blackrock-as-validators-for-september-arc-launch",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T15:38:09+00:00",
-      "raw_text": "Circle Taps Visa, Mastercard and BlackRock as Validators for September Arc Launch\n\nCircle's USDC distribution deal with Coinbase has been renewed on existing terms, and Arc's testnet has processed half a billion transactions.",
-      "impact": {}
-    },
-    {
-      "event_id": "901caa6f-0bfd-431b-a8c9-6ccc8f0dcf7c",
-      "source": "rss:theblock",
-      "title": "Kraken parent Payward shifts position on tokenized equities and voting rights",
-      "url": "https://www.theblock.co/post/410878/kraken-parent-payward-shifts-position-tokenized-equities-voting-rights?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T15:26:17+00:00",
-      "raw_text": "Kraken parent Payward shifts position on tokenized equities and voting rights\n\n<p>While previously xStocks holders had no voting rights, this deal will allow eligible investors to submit proxy voting preferences.</p>\n\n<p>While previously xStocks holders had no voting rights, this deal will allow eli",
-      "impact": {}
-    },
-    {
-      "event_id": "26e176cc-6fc6-405a-bbe6-a00d7b005a19",
-      "source": "rss:decrypt",
-      "title": "Eliza Founder Declares AI Token 'Dead,' Shuts Down Foundation After Lawsuit Settlement",
-      "url": "https://decrypt.co/374958/eliza-ai-token-dead-shuts-down-foundation-lawsuit",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T15:24:38+00:00",
-      "raw_text": "Eliza Founder Declares AI Token 'Dead,' Shuts Down Foundation After Lawsuit Settlement\n\nShaw Walters says Eliza's token is no more after a class-action settlement drained the project's remaining funds.",
-      "impact": {}
-    },
-    {
-      "event_id": "e179c4dd-185a-4a35-bfd1-daf4310ba6f7",
-      "source": "rss:coindesk",
-      "title": "Crypto Long & Short: Putting the bitcoin sizing question to the test",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/08/05/crypto-long-and-short-putting-the-bitcoin-sizing-question-to-the-test",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T15:03:19+00:00",
-      "raw_text": "Crypto Long & Short: Putting the bitcoin sizing question to the test",
-      "impact": {}
-    },
-    {
-      "event_id": "dc1cbbd5-cd10-4398-b05b-f041728856bf",
-      "source": "rss:theblock",
-      "title": "Galaxy shares sink 12% after Q2 loss as AI data center business begins generating revenue",
-      "url": "https://www.theblock.co/post/410851/galaxy-shares-sink-11-after-85-million-q2-loss-despite-ai-data-center-gains?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T15:02:26+00:00",
-      "raw_text": "Galaxy shares sink 12% after Q2 loss as AI data center business begins generating revenue\n\n<p>Galaxy's Helios Phase I campus is expected to generate roughly $80 million in quarterly leasing revenue beginning in Q3.</p>\n\n<p>Galaxy's Helios Phase I campus is expected to generate roughly $80 million in",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 151,
+        "avg_1h": -0.21,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 184,
+        "count": 186,
         "avg_1h": -0.0,
         "avg_24h": 0.91,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 91,
-        "avg_1h": 0.16,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 149,
-        "avg_1h": -0.21,
+        "count": 89,
+        "avg_1h": 0.2,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 67,
+        "count": 65,
         "avg_1h": -0.01,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
