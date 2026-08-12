@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-12T20:58:30.332199+00:00",
+  "generated_at": "2026-08-12T21:58:10.304792+00:00",
   "events": [
+    {
+      "event_id": "713135df-1730-4bd5-9747-abbd9a71ea17",
+      "source": "rss:bitcoinmagazine",
+      "title": "Goldman Sachs to Acquire NEOS Investments in $2.25B Deal, Adding Bitcoin Income ETFs to Lineup",
+      "url": "https://bitcoinmagazine.com/news/goldman-sachs-to-acquire-neos-investments",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T21:20:05+00:00",
+      "raw_text": "Goldman Sachs to Acquire NEOS Investments in $2.25B Deal, Adding Bitcoin Income ETFs to Lineup\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Goldman-Sachs-to-Acquire-NEOS-Investments.jpg\" style=\"di",
+      "impact": {}
+    },
+    {
+      "event_id": "5a2a0e19-c137-4a2c-8ec1-74005cf7c2a0",
+      "source": "rss:theblock",
+      "title": "Hyperliquid treasury Hyperion triples quarterly profits as HYPE holdings rise in value",
+      "url": "https://www.theblock.co/news/markets/2026-08-12-hyperliquid-treasury-hyperion-triples-quarterly-profits-as-hype-holdings-rise-in-value-411652",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T21:19:33+00:00",
+      "raw_text": "Hyperliquid treasury Hyperion triples quarterly profits as HYPE holdings rise in value\n\nThe company's HYPE holdings increased to $133 million during the second quarter, up from $71 million at the end of Q1.\n\nThe company's HYPE holdings increased to $133 million during the second quarter, up from $71",
+      "impact": {}
+    },
+    {
+      "event_id": "ef378960-b1c0-444d-b292-25a8a949edc4",
+      "source": "rss:theblock",
+      "title": "SEC clears Franklin Templeton funds to use onchain BENJI system for cash management",
+      "url": "https://www.theblock.co/news/defi/2026-08-12-sec-clears-franklin-templeton-funds-use-onchain-benji-system-cash-management-411654",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T21:04:46+00:00",
+      "raw_text": "SEC clears Franklin Templeton funds to use onchain BENJI system for cash management\n\nFranklin Templeton received a no-action letter from the SEC enabling its traditional registered funds to invest in its BENJI/FOBXX fund.\n\nFranklin Templeton received a no-action letter from the SEC enabling its trad",
+      "impact": {}
+    },
+    {
+      "event_id": "78886b70-3376-481b-98bb-e33137d73063",
+      "source": "rss:cointelegraph",
+      "title": "Goldman Sachs to acquire ETF manager NEOS in $2.25B deal",
+      "url": "https://cointelegraph.com/news/goldman-sachs-to-acquire-etf-manager-neos-225b-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T20:37:55+00:00",
+      "raw_text": "Goldman Sachs to acquire ETF manager NEOS in $2.25B deal\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Goldman Sachs to acquire ETF manager NEOS in $2.25B deal \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-goldman-sachs-and-crypto-re",
+      "impact": {}
+    },
     {
       "event_id": "5c1c75e2-c474-497f-af23-3baa7702ba6f",
       "source": "rss:decrypt",
@@ -56,10 +104,16 @@
       "url": "https://www.theblock.co/news/ecosystems/2026-08-12-ethereum-staking-climbs-34-proposal-targets-validator-rewards-eth-treasury-firm-yields-411312",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-08-12T19:16:02+00:00",
       "raw_text": "Ethereum staking climbs to 34% as proposal targets validator rewards and ETH treasury firm yields\n\nResearchers recently filed EIP-8361, a \"tapered issuance burn\" that destroys a growing share of validator rewards as the staking ratio rises.\n\nResearchers recently filed EIP-8361, a \"tapered issuance b",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2893,
+        "t_plus_15m": 0.2197,
+        "t_plus_1h": 0.0229
+      }
     },
     {
       "event_id": "be72360a-b92f-49dc-8b8a-5d68ee2503b6",
@@ -316,7 +370,8 @@
       "impact": {
         "t_plus_5m": 0.1865,
         "t_plus_15m": 0.1653,
-        "t_plus_1h": -0.2094
+        "t_plus_1h": -0.2094,
+        "t_plus_4h": -0.3491
       }
     },
     {
@@ -348,7 +403,8 @@
       "impact": {
         "t_plus_5m": -0.172,
         "t_plus_15m": -0.2157,
-        "t_plus_1h": -0.0807
+        "t_plus_1h": -0.0807,
+        "t_plus_4h": -0.2638
       }
     },
     {
@@ -6377,58 +6433,16 @@
       "timestamp_utc": "2026-08-06T07:14:11+00:00",
       "raw_text": "Bitcoin developers flag 85 critical bugs in an \"extremely bad\" situation",
       "impact": {}
-    },
-    {
-      "event_id": "40829027-3409-4113-a178-9a1d5f7cbdcd",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin ETFs pull in $244M, 3-day inflow streak tops $626M",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-244-million-three-day-inflow-streak-626-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T06:57:31+00:00",
-      "raw_text": "Bitcoin ETFs pull in $244M, 3-day inflow streak tops $626M\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs pull in $244M, 3-day inflow streak tops $626M\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/futures-bitcoin-options-top",
-      "impact": {}
-    },
-    {
-      "event_id": "5a51f597-4d3c-49ad-8d4b-29d268b5f4e1",
-      "source": "rss:theblock",
-      "title": "Japanese stablecoin firm JPYC raises $38 million in extended Series B",
-      "url": "https://www.theblock.co/post/410959/jpyc-stablecoin-raises-38-million?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T06:54:15+00:00",
-      "raw_text": "Japanese stablecoin firm JPYC raises $38 million in extended Series B\n\n<p>The firm said Wednesday that the proceeds will be used to expand its financial and Web3 ecosystem and accelerate adoption of JPYC.</p>\n\n<p>The firm said Wednesday that the proceeds will be used to expand its financial and Web3",
-      "impact": {}
-    },
-    {
-      "event_id": "3578d928-f710-4868-b553-00838e57ea85",
-      "source": "rss:coindesk",
-      "title": "S&P 500 added all of crypto's $2 trillion market cap in a month while bitcoin barely moved. Here's why",
-      "url": "https://www.coindesk.com/markets/2026/08/06/s-and-p-500-has-added-crypto-s-usd2-trillion-market-cap-this-month-bitcoin-is-not-impressed-here-s-why",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T06:10:43+00:00",
-      "raw_text": "S&P 500 added all of crypto's $2 trillion market cap in a month while bitcoin barely moved. Here's why",
-      "impact": {}
-    },
-    {
-      "event_id": "d86a1b95-ad97-4b38-ac87-6609ae4ac369",
-      "source": "rss:coindesk",
-      "title": "S&P 500 has added crypto's $2 trillion market cap this month. Bitcoin is not impressed. Here's why",
-      "url": "https://www.coindesk.com/markets/2026/08/06/s-and-p-500-has-added-crypto-s-usd2-trillion-market-cap-this-month-bitcoin-is-not-impressed-here-s-why",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T06:10:43+00:00",
-      "raw_text": "S&P 500 has added crypto's $2 trillion market cap this month. Bitcoin is not impressed. Here's why",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 95,
+        "avg_1h": 0.16,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
         "count": 66,
         "avg_1h": -0.02,
@@ -6436,25 +6450,19 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 142,
+        "count": 141,
         "avg_1h": -0.18,
         "avg_24h": -0.7,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 194,
+        "count": 192,
         "avg_1h": -0.0,
         "avg_24h": 0.91,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 91,
-        "avg_1h": 0.16,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "listing": {
-        "count": 5,
+        "count": 4,
         "avg_1h": -0.29,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
