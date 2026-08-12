@@ -1,6 +1,60 @@
 {
-  "generated_at": "2026-08-12T06:38:20.189287+00:00",
+  "generated_at": "2026-08-12T08:36:42.697571+00:00",
   "events": [
+    {
+      "event_id": "09ee3521-10d0-4ba1-9b77-68e8ab9f9faf",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin at $63,600 as Japan's Metaplanet moves 3,881 BTC between wallets",
+      "url": "https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-08-12T07:04:53+00:00",
+      "raw_text": "Live updates: Bitcoin at $63,600 as Japan's Metaplanet moves 3,881 BTC between wallets",
+      "impact": {
+        "t_plus_5m": 0.0481,
+        "t_plus_15m": -0.016,
+        "t_plus_1h": 0.1138
+      }
+    },
+    {
+      "event_id": "72f7f23b-09a3-4eb8-937e-29a2b9bd539f",
+      "source": "rss:theblock",
+      "title": "Harmony confirms exploit involving unauthorized minting of 4 billion ONE tokens",
+      "url": "https://www.theblock.co/news/defi/2026-08-12-harmony-confirms-exploit-one-token-411527",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T06:24:39+00:00",
+      "raw_text": "Harmony confirms exploit involving unauthorized minting of 4 billion ONE tokens\n\nX user Juiceberg reported earlier that an attacker had minted four billion ONE tokens without authorization.\n\nX user Juiceberg reported earlier that an attacker had minted four billion ONE tokens without authorization.",
+      "impact": {}
+    },
+    {
+      "event_id": "5933cc3c-97ce-490a-89aa-b3ed94226a5d",
+      "source": "rss:cointelegraph",
+      "title": "Harmony considers rollback after suspected exploit inflates ONE supply",
+      "url": "https://cointelegraph.com/news/armony-rollback-alleged-one-token-mint?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T06:02:52+00:00",
+      "raw_text": "Harmony considers rollback after suspected exploit inflates ONE supply\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Harmony considers rollback after suspected exploit inflates ONE supply\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-",
+      "impact": {}
+    },
+    {
+      "event_id": "7b74db33-7c00-44a5-8402-27ba8df4e392",
+      "source": "rss:coindesk",
+      "title": "Crypto.com rolls out tokenized stock derivatives as crypto exchanges push into equities",
+      "url": "https://www.coindesk.com/business/2026/08/12/crypto-com-rolls-out-tokenized-stock-derivatives-as-crypto-exchanges-push-into-equities",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T06:00:00+00:00",
+      "raw_text": "Crypto.com rolls out tokenized stock derivatives as crypto exchanges push into equities",
+      "impact": {}
+    },
     {
       "event_id": "b95e38f6-b7de-425f-8f29-538c353e62e5",
       "source": "rss:theblock",
@@ -23,6 +77,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-12T05:26:55+00:00",
       "raw_text": "Here's what bitcoin and ether traders are doing ahead of the binary U.S. CPI print",
+      "impact": {}
+    },
+    {
+      "event_id": "edfd94f7-89a0-499c-a0bc-79beeb08faea",
+      "source": "rss:coindesk",
+      "title": "Harmony’s ONE dives 40% after an attack appears to mint tokens equal to quarter of supply",
+      "url": "https://www.coindesk.com/markets/2026/08/12/harmony-s-one-falls-26-after-attacker-allegedly-mints-4-billion-tokens",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T05:18:40+00:00",
+      "raw_text": "Harmony’s ONE dives 40% after an attack appears to mint tokens equal to quarter of supply",
       "impact": {}
     },
     {
@@ -6352,74 +6418,20 @@
         "t_plus_1h": 0.578,
         "t_plus_4h": 0.2985
       }
-    },
-    {
-      "event_id": "517ff25e-c238-4c20-befc-4f91b2140100",
-      "source": "rss:coindesk",
-      "title": "The $120 million Coldcard hack lights up Bitcoin's memory pool",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/05/the-usd120-million-coldcard-hack-lights-up-bitcoin-s-memory-pool",
-      "event_type": "hack",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T11:20:58+00:00",
-      "raw_text": "The $120 million Coldcard hack lights up Bitcoin's memory pool",
-      "impact": {}
-    },
-    {
-      "event_id": "21763295-f908-4f7a-87c6-1e10dd86b7d3",
-      "source": "rss:coindesk",
-      "title": "Circle shares fall 3% despite earnings beat as stablecoin issuer misses on revenue",
-      "url": "https://www.coindesk.com/markets/2026/08/05/circle-shares-jump-as-earnings-beat-offsets-revenue-miss-arc-blockchain-gains-wall-street-backing",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T11:13:17+00:00",
-      "raw_text": "Circle shares fall 3% despite earnings beat as stablecoin issuer misses on revenue",
-      "impact": {}
-    },
-    {
-      "event_id": "594666b3-1f08-430f-9387-edbcc4c00345",
-      "source": "rss:coindesk",
-      "title": "Circle shares jump as earnings beat offsets revenue miss, Arc blockchain gains Wall Street backing",
-      "url": "https://www.coindesk.com/markets/2026/08/05/circle-shares-jump-as-earnings-beat-offsets-revenue-miss-arc-blockchain-gains-wall-street-backing",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T11:13:17+00:00",
-      "raw_text": "Circle shares jump as earnings beat offsets revenue miss, Arc blockchain gains Wall Street backing",
-      "impact": {}
-    },
-    {
-      "event_id": "c2347fd3-286a-478d-a3c8-ffaeb9ea407d",
-      "source": "rss:coindesk",
-      "title": "Bitcoin, broader market fail to keep pace as global equities hit record highs",
-      "url": "https://www.coindesk.com/markets/2026/08/05/bitcoin-broader-market-fail-to-keep-pace-as-global-equities-hit-record-highs",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T11:01:15+00:00",
-      "raw_text": "Bitcoin, broader market fail to keep pace as global equities hit record highs",
-      "impact": {}
-    },
-    {
-      "event_id": "c07427a9-69a4-4c3f-b758-0cc767029fa7",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin ETFs log inflows as cold wallet hack reignites custody debate",
-      "url": "https://cointelegraph.com/markets/bitcoin-etfs-inflows-cold-wallet-hack-custody-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T10:43:05+00:00",
-      "raw_text": "Bitcoin ETFs log inflows as cold wallet hack reignites custody debate\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs log inflows as cold wallet hack reignites custody debate\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-a-",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 186,
-        "avg_1h": 0.01,
+        "count": 187,
+        "avg_1h": 0.02,
         "avg_24h": 0.91,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 67,
+        "avg_1h": 0.03,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
@@ -6428,14 +6440,8 @@
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 66,
-        "avg_1h": 0.03,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 153,
+        "count": 151,
         "avg_1h": -0.21,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
