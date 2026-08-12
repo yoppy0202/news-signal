@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-08-12T18:04:37.422515+00:00",
+  "generated_at": "2026-08-12T19:15:47.615396+00:00",
   "events": [
+    {
+      "event_id": "8b8bb7c8-7be3-45b5-bb07-1678a8742c4b",
+      "source": "rss:theblock",
+      "title": "Trump sued over Truth Social’s early-access feed as firm explores licensing data to prediction markets",
+      "url": "https://www.theblock.co/news/business/2026-08-12-trump-sued-truth-social-early-access-feed-firm-explores-licensing-data-prediction-markets-411628",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T18:35:32+00:00",
+      "raw_text": "Trump sued over Truth Social’s early-access feed as firm explores licensing data to prediction markets\n\nA new lawsuit alleges Trump’s paid Truth Social feed unconstitutionally restricts access to official posts.\n\nA new lawsuit alleges Trump’s paid Truth Social feed unconstitutionally restricts acces",
+      "impact": {}
+    },
+    {
+      "event_id": "8044ee1f-b51c-40ed-a2f6-ee3fda041a7e",
+      "source": "rss:decrypt",
+      "title": "After Coldcard Was Hacked, $15 Billion in Bitcoin Moved to Safety",
+      "url": "https://decrypt.co/375450/coldcard-hack-15-billion-bitcoin-moved-safety",
+      "event_type": "hack",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T18:16:04+00:00",
+      "raw_text": "After Coldcard Was Hacked, $15 Billion in Bitcoin Moved to Safety\n\nCasa CEO Nick Neuman says the mass Bitcoin migration after the $130M Coldcard exploit proves distributed self-custody is Bitcoin's immune system—not its vulnerability.",
+      "impact": {}
+    },
+    {
+      "event_id": "b7dbf82f-ff12-437c-8b97-0889ea08b7a2",
+      "source": "rss:cointelegraph",
+      "title": "Bitwise cuts 14% of staff while still expecting growth",
+      "url": "https://cointelegraph.com/news/bitwise-staff-cuts-market-downturn-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T18:01:15+00:00",
+      "raw_text": "Bitwise cuts 14% of staff while still expecting growth\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitwise cuts 14% of staff while still expecting growth\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-and-mainstream-media-bitw",
+      "impact": {}
+    },
+    {
+      "event_id": "eae7e5b2-0c78-4a6e-a892-b93f32597574",
+      "source": "rss:theblock",
+      "title": "Polymarket taps ex-Uber and Bird exec Travis VanderZanden to boost growth",
+      "url": "https://www.theblock.co/news/business/2026-08-12-polymarket-taps-ex-uber-and-bird-exec-travis-vanderzanden-to-boost-growth-411631",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T17:56:15+00:00",
+      "raw_text": "Polymarket taps ex-Uber and Bird exec Travis VanderZanden to boost growth\n\nPolymarket has hired the Bird, Uber and Lyft blitzscaling veteran Travis VanderZanden as chief growth officer.\n\nPolymarket has hired the Bird, Uber and Lyft blitzscaling veteran Travis VanderZanden as chief growth officer.",
+      "impact": {}
+    },
+    {
+      "event_id": "cd5499f1-2508-44b5-8cc3-1f899d787358",
+      "source": "rss:decrypt",
+      "title": "Zoomsday: AI Used to Build Critical Zoom Exploit in One Day",
+      "url": "https://decrypt.co/375458/zoomsday-ai-zoom-exploit-one-day",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T17:46:04+00:00",
+      "raw_text": "Zoomsday: AI Used to Build Critical Zoom Exploit in One Day\n\nThe flaws could let someone in a meeting take control of another participant’s device without the victim clicking anything.",
+      "impact": {}
+    },
     {
       "event_id": "da943020-e0d9-4f44-b1e0-26fe48944366",
       "source": "rss:coindesk",
@@ -20,10 +80,15 @@
       "url": "https://decrypt.co/375457/fidelity-files-ethereum-etf-stake-pay-investors",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-08-12T17:13:43+00:00",
       "raw_text": "Fidelity Files to Let Its Ethereum ETF Stake and Pay Investors\n\nThe Boston asset manager's FETH would stake up to 100% of its ETH and distribute the rewards to holders as quarterly cash, pending SEC approval.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0111,
+        "t_plus_15m": -0.1179
+      }
     },
     {
       "event_id": "33f83903-71fa-4ffe-94db-da001a0e7ffd",
@@ -44,10 +109,16 @@
       "url": "https://www.theblock.co/news/business/2026-08-12-goldman-sachs-bitcoin-ether-income-etfs-neos-deal-411618",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-08-12T17:01:47+00:00",
       "raw_text": "Goldman Sachs to gain bitcoin and ETH income ETFs in up to $2.25 billion Neos acquisition\n\nNeos Investments offers the Bitcoin High Income ETF, Boosted Bitcoin High Income ETF and Ethereum High Income ETF.\n\nNeos Investments offers the Bitcoin High Income ETF, Boosted Bitcoin High Income ETF and Ethe",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0868,
+        "t_plus_15m": 0.0495,
+        "t_plus_1h": -0.0538
+      }
     },
     {
       "event_id": "1e83a5f1-87de-4492-85c1-e1c066c86be7",
@@ -1268,7 +1339,8 @@
         "t_plus_5m": -0.1966,
         "t_plus_15m": -0.1214,
         "t_plus_1h": -0.2539,
-        "t_plus_4h": 0.4964
+        "t_plus_4h": 0.4964,
+        "t_plus_24h": -0.701
       }
     },
     {
@@ -6359,91 +6431,31 @@
       "timestamp_utc": "2026-08-06T02:22:22+00:00",
       "raw_text": "Cathie Wood’s Ark Invest scoops up $17 million in Circle, $20 million in SpaceX shares following Q2 results\n\n<p>SpaceX plunged as investors grew concerned about the firm's $18.4 billion in capital expenditure during Q2, despite revenue growth.</p>\n\n<p>SpaceX plunged as investors grew concerned about",
       "impact": {}
-    },
-    {
-      "event_id": "3a39a0fe-ab53-475a-9ad8-0af0d9b0ec14",
-      "source": "rss:theblock",
-      "title": "Putin signs landmark crypto law allowing regulated retail trading in Russia",
-      "url": "https://www.theblock.co/post/410951/putin-signs-russia-crypto-law?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T02:11:16+00:00",
-      "raw_text": "Putin signs landmark crypto law allowing regulated retail trading in Russia\n\n<p>The law continues to ban the use of crypto to pay for goods and services within Russia, while allowing use for cross-border settlements.</p>\n\n<p>The law continues to ban the use of crypto to pay for goods and services wi",
-      "impact": {}
-    },
-    {
-      "event_id": "eea17a76-d243-4a65-b459-1968fb3249e5",
-      "source": "rss:cointelegraph",
-      "title": "Block raises 2026 outlook on strong quarter, says AI touches nearly all code",
-      "url": "https://cointelegraph.com/markets/block-raises-2026-outlook-strong-quarter-says-ai-touches-nearly-all-code?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T01:33:57+00:00",
-      "raw_text": "Block raises 2026 outlook on strong quarter, says AI touches nearly all code\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Block raises 2026 outlook on strong quarter, says AI touches nearly all code\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl",
-      "impact": {}
-    },
-    {
-      "event_id": "4674677d-090a-49e5-853d-be950eaea825",
-      "source": "rss:cointelegraph",
-      "title": "Mysten Labs tech chief joins Anthropic to work on AI security",
-      "url": "https://cointelegraph.com/news/mysten-labs-tech-chief-joins-anthropic-to-work-on-ai-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T01:31:35+00:00",
-      "raw_text": "Mysten Labs tech chief joins Anthropic to work on AI security\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Mysten Labs tech chief joins Anthropic to work on AI security\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bank-building-hall-en",
-      "impact": {}
-    },
-    {
-      "event_id": "5b4d1113-d958-48ab-bbcc-be5f680e4c5a",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin Red Team reports 5K findings in sweeping security audit",
-      "url": "https://cointelegraph.com/news/bitcoin-red-team-reports-5k-findings-in-sweeping-security-audit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T01:09:06+00:00",
-      "raw_text": "Bitcoin Red Team reports 5K findings in sweeping security audit\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin Red Team reports 5K findings in sweeping security audit \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bug-error-hack-r",
-      "impact": {}
-    },
-    {
-      "event_id": "054d94f2-e652-4536-a0b6-ca22807e8616",
-      "source": "rss:cointelegraph",
-      "title": "Block raises 2026 outlook on strong quarter, says AI touches nearly all code",
-      "url": "https://cointelegraph.com/news/block-raises-2026-outlook-on-strong-quarter-says-ai-touches-nearly-all-code?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T00:22:50+00:00",
-      "raw_text": "Block raises 2026 outlook on strong quarter, says AI touches nearly all code\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Block raises 2026 outlook on strong quarter, says AI touches nearly all code\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 89,
-        "avg_1h": 0.2,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 193,
-        "avg_1h": -0.0,
-        "avg_24h": 0.91,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 145,
+        "count": 144,
         "avg_1h": -0.18,
-        "avg_24h": null,
+        "avg_24h": -0.7,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
         "count": 65,
         "avg_1h": -0.02,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 194,
+        "avg_1h": -0.0,
+        "avg_24h": 0.91,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 89,
+        "avg_1h": 0.17,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
