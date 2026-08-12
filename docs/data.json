@@ -1,6 +1,186 @@
 {
-  "generated_at": "2026-08-12T15:10:18.276570+00:00",
+  "generated_at": "2026-08-12T17:07:44.251632+00:00",
   "events": [
+    {
+      "event_id": "1341e487-e035-48fb-bdff-9b56a38b5c3a",
+      "source": "rss:coindesk",
+      "title": "Wintermute plans $1 billion AI push beyond crypto: Bloomberg",
+      "url": "https://www.coindesk.com/business/2026/08/12/wintermute-plans-usd1-billion-ai-push-beyond-crypto-bloomberg",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T16:34:24+00:00",
+      "raw_text": "Wintermute plans $1 billion AI push beyond crypto: Bloomberg",
+      "impact": {}
+    },
+    {
+      "event_id": "af97b166-db53-4109-befd-74ce08b249ac",
+      "source": "rss:coindesk",
+      "title": "Solana platform taps prediction market Kalshi for Wall Street-style high-speed data feed",
+      "url": "https://www.coindesk.com/business/2026/08/12/solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-data-feed",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T16:14:49+00:00",
+      "raw_text": "Solana platform taps prediction market Kalshi for Wall Street-style high-speed data feed",
+      "impact": {}
+    },
+    {
+      "event_id": "ee7ea6b0-9835-47d2-b2e4-4e74bd32e4b9",
+      "source": "rss:cointelegraph",
+      "title": "HashKey begins beta distribution of Hong Kong-regulated HKDAP stablecoin",
+      "url": "https://cointelegraph.com/news/hashkey-begins-beta-distribution-of-hong-kong-regulated-hkdap-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T16:07:59+00:00",
+      "raw_text": "HashKey begins beta distribution of Hong Kong-regulated HKDAP stablecoin\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"HashKey begins beta distribution of Hong Kong-regulated HKDAP stablecoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
+      "impact": {}
+    },
+    {
+      "event_id": "7d24597d-8dd0-42dc-8f74-955681d5ee9e",
+      "source": "rss:decrypt",
+      "title": "XRP Bridge Drained After Software Treats Fake Deposits as Real",
+      "url": "https://decrypt.co/375441/xrp-drained-tx-bridge",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T16:00:52+00:00",
+      "raw_text": "XRP Bridge Drained After Software Treats Fake Deposits as Real\n\nA flaw that went undetected during multiple audits allowed an attacker to create unbacked balances and withdraw XRP from the bridge’s reserves.",
+      "impact": {}
+    },
+    {
+      "event_id": "83508f00-afef-413a-b93e-990ec56fa95a",
+      "source": "rss:theblock",
+      "title": "SKALE launches Agent Pit to let builders train AI agents before taking them live on Polymarket",
+      "url": "https://www.theblock.co/news/defi/2026-08-12-skales-agent-pit-lets-builders-train-ai-agents-before-taking-them-live-on-polymarket-411580",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T16:00:00+00:00",
+      "raw_text": "SKALE launches Agent Pit to let builders train AI agents before taking them live on Polymarket\n\nSKALE Labs launched Agent Pit, a Polymarket-inspired, paper-trading prediction market sandbox on its zero-gas blockchain.\n\nSKALE Labs launched Agent Pit, a Polymarket-inspired, paper-trading prediction ma",
+      "impact": {}
+    },
+    {
+      "event_id": "ed27b370-d895-46d6-822a-78184671c999",
+      "source": "rss:decrypt",
+      "title": "Crypto-Backed Loans, Explained: How to Unlock Cash Without Selling Your Bitcoin",
+      "url": "https://decrypt.co/375428/crypto-backed-loans-explained-how-to-unlock-cash-without-selling-your-bitcoin",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T15:54:16+00:00",
+      "raw_text": "Crypto-Backed Loans, Explained: How to Unlock Cash Without Selling Your Bitcoin\n\nA fixed-rate crypto-backed loan lets you borrow against BTC, ETH, or SOL while keeping your coins. Here's how they work.",
+      "impact": {}
+    },
+    {
+      "event_id": "b148d5c3-eae5-4507-ad6a-ed09bf19966d",
+      "source": "rss:theblock",
+      "title": "BIP-110 failure shows Bitcoin would be ‘almost impossible to reproduce,’ Plan B Network director says",
+      "url": "https://www.theblock.co/news/ecosystems/2026-08-12-bip-110-failure-bitcoin-impossible-reproduce-plan-b-network-director-411596",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T15:51:35+00:00",
+      "raw_text": "BIP-110 failure shows Bitcoin would be ‘almost impossible to reproduce,’ Plan B Network director says\n\nPlan B Network director Giacomo Zucco says BIP-110’s failure exposed the challenges of recreating Bitcoin’s early development.\n\nPlan B Network director Giacomo Zucco says BIP-110’s failure exposed ",
+      "impact": {}
+    },
+    {
+      "event_id": "d1ae4c01-4061-4917-a59a-54ff5ccb95a0",
+      "source": "rss:theblock",
+      "title": "Attackers keep hitting the wrong house in rural France after crypto millionaire moved: report",
+      "url": "https://www.theblock.co/news/regulation/2026-08-12-attackers-keep-hitting-wrong-house-rural-france-after-crypto-millionaire-moved-report-411605",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T15:30:05+00:00",
+      "raw_text": "Attackers keep hitting the wrong house in rural France after crypto millionaire moved: report\n\nA French couple in the Somme who bought a former crypto millionaires’ house have been targeted in three separate home invasions.\n\nA French couple in the Somme who bought a former crypto millionaires’ house",
+      "impact": {}
+    },
+    {
+      "event_id": "6eba655a-234a-4ad7-a975-5170533c9833",
+      "source": "rss:bitcoinmagazine",
+      "title": "Bitcoin Yawns As Fed’s Favorite Inflation Gauge Eases",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-yawns-as-us-inflation-eases",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T15:20:07+00:00",
+      "raw_text": "Bitcoin Yawns As Fed’s Favorite Inflation Gauge Eases\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Yawns-As-Feds-Favorite-Inflation-Gauge-Eases-.jpg\" style=\"display: block; margin: 1em aut",
+      "impact": {}
+    },
+    {
+      "event_id": "3ce9fb7d-732a-4d1e-bd99-4dc71a7ee2bf",
+      "source": "rss:theblock",
+      "title": "New York City Council opens probe into prediction market platforms",
+      "url": "https://www.theblock.co/news/regulation/2026-08-12-new-york-city-council-opens-probe-into-prediction-market-platforms-411604",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T15:18:01+00:00",
+      "raw_text": "New York City Council opens probe into prediction market platforms\n\nThe NYC Council has opened a probe into prediction market platforms over alleged \"false, deceptive, or abusive marketing tactics.\"\n\nThe NYC Council has opened a probe into prediction market platforms over alleged \"false, deceptive, ",
+      "impact": {}
+    },
+    {
+      "event_id": "128dc289-1222-40de-bc68-4abedccc36b7",
+      "source": "rss:decrypt",
+      "title": "Why Bitcoin Barely Moved Even as US Inflation Cools to 3.4%",
+      "url": "https://decrypt.co/375411/why-bitcoin-barely-moved-us-cpi-inflation-cools",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T15:07:56+00:00",
+      "raw_text": "Why Bitcoin Barely Moved Even as US Inflation Cools to 3.4%\n\nThe tamest U.S. inflation print in months left crypto markets flat, with Bitcoin shrugging off the data hit. Here's why.",
+      "impact": {}
+    },
+    {
+      "event_id": "35420b1c-b4fd-4e4c-858f-fe78e80c540a",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin eyes $63K as US CPI relief sends September Fed rate pause odds to 60%",
+      "url": "https://cointelegraph.com/markets/bitcoin-eyes-63k-as-us-cpi-relief-sends-september-fed-rate-pause-odds-to-60?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T15:00:10+00:00",
+      "raw_text": "Bitcoin eyes $63K as US CPI relief sends September Fed rate pause odds to 60%\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin eyes $63K as US CPI relief sends September Fed rate pause odds to 60%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti",
+      "impact": {}
+    },
+    {
+      "event_id": "7826deb2-6db0-4ada-915e-895bca379ff1",
+      "source": "rss:coindesk",
+      "title": "Miden bets on privacy stablecoins with introduction of USDCx",
+      "url": "https://www.coindesk.com/tech/2026/08/12/miden-bets-on-privacy-stablecoins-with-introduction-of-usdcx",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T15:00:00+00:00",
+      "raw_text": "Miden bets on privacy stablecoins with introduction of USDCx",
+      "impact": {}
+    },
+    {
+      "event_id": "77513686-868e-4e3a-8083-7d94ee84a3dd",
+      "source": "rss:coindesk",
+      "title": "Crypto Long & Short:",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-long-and-short",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T14:51:12+00:00",
+      "raw_text": "Crypto Long & Short:",
+      "impact": {}
+    },
+    {
+      "event_id": "0f7e6e7c-b7cd-4698-921b-d465341bdadf",
+      "source": "rss:theblock",
+      "title": "Bitcoin dips under $64,000 as in-line CPI buys the Fed time, not conviction: analysts",
+      "url": "https://www.theblock.co/news/markets/2026-08-12-bitcoin-dips-under-64000-in-line-cpi-buys-fed-time-not-conviction-analysts-411594",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T14:35:08+00:00",
+      "raw_text": "Bitcoin dips under $64,000 as in-line CPI buys the Fed time, not conviction: analysts\n\nBitcoin fell under $64,000 after July CPI matched forecasts at 3.4%, with analysts saying the in-line print keeps the Fed patient.\n\nBitcoin fell under $64,000 after July CPI matched forecasts at 3.4%, with analyst",
+      "impact": {}
+    },
     {
       "event_id": "2ee36417-589a-468e-adca-7fa4dace9766",
       "source": "rss:decrypt",
@@ -8,10 +188,15 @@
       "url": "https://decrypt.co/375404/a-routing-bug-took-solana-86-of-the-way-to-losing-finality",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "SOL"
+      ],
       "timestamp_utc": "2026-08-12T14:13:07+00:00",
       "raw_text": "A Routing Bug Took Solana 86% of the Way to Losing Finality\n\nA malformed default route at a single hosting provider took almost 29% of staked SOL offline, against a 33% threshold.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.26,
+        "t_plus_15m": -0.0109
+      }
     },
     {
       "event_id": "01503c10-3f92-40f2-84a6-76c6c54a8261",
@@ -6219,218 +6404,31 @@
       "timestamp_utc": "2026-08-05T20:33:06+00:00",
       "raw_text": "Bitcoin Red Team Finds 85 Critical Flaws Across 390 Open Source Repos After Coldcard Exploit\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/tn2-1.webp\" style=\"display: block; margin: 1em auto;\" /><b",
       "impact": {}
-    },
-    {
-      "event_id": "ed56e5de-9368-48c3-82ec-2560fd3966fc",
-      "source": "rss:decrypt",
-      "title": "Perplexity Wins Appeal Against Amazon in AI Agent Shopping Lawsuit",
-      "url": "https://decrypt.co/374996/perplexity-amazon-ai-agent-lawsuit",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T20:16:03+00:00",
-      "raw_text": "Perplexity Wins Appeal Against Amazon in AI Agent Shopping Lawsuit\n\nA U.S. appeals court ruled Amazon is unlikely to prove Perplexity violated federal hacking law, marking the first appellate decision on whether AI agents can legally act on users' behalf online.",
-      "impact": {}
-    },
-    {
-      "event_id": "ea04c491-b0b3-4dc7-a697-dd02a419206a",
-      "source": "rss:decrypt",
-      "title": "Visa Widens Stablecoin Payouts via Zerohash Rails",
-      "url": "https://decrypt.co/374994/visa-stablecoin-payouts-zerohash",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T19:42:48+00:00",
-      "raw_text": "Visa Widens Stablecoin Payouts via Zerohash Rails\n\nEligible Visa Direct clients can now prefund accounts and send payouts in stablecoins, expanding Visa's latest push to bring blockchain-based payments into its global network.",
-      "impact": {}
-    },
-    {
-      "event_id": "1a9c8ad8-a638-4b3f-86d4-256b6debd292",
-      "source": "rss:cointelegraph",
-      "title": "Senator Lummis still pushing for CLARITY vote before August recess",
-      "url": "https://cointelegraph.com/news/senator-lummis-clarity-vote-movement-calendar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T19:18:24+00:00",
-      "raw_text": "Senator Lummis still pushing for CLARITY vote before August recess\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Senator Lummis still pushing for CLARITY vote before August recess\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the-evol",
-      "impact": {}
-    },
-    {
-      "event_id": "124ebea3-7225-4124-91ee-750c6cce1257",
-      "source": "rss:decrypt",
-      "title": "OpenAI and Anthropic's Rogue Models Hacked Real Companies. The Law Has No Answer",
-      "url": "https://decrypt.co/374991/openai-anthropic-rogue-ai-models-hacked-law",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T19:11:23+00:00",
-      "raw_text": "OpenAI and Anthropic's Rogue Models Hacked Real Companies. The Law Has No Answer\n\nTwo AI labs say unreleased models broke into live systems to game benchmarks. Prosecuting a line of code is harder than it looks.",
-      "impact": {}
-    },
-    {
-      "event_id": "21b0099d-bda7-45cd-9a53-32d6577dc61d",
-      "source": "rss:theblock",
-      "title": "CryptoQuant says bitcoin, ether and XRP whales are accumulating, signaling a ‘late-stage bear market’",
-      "url": "https://www.theblock.co/post/410920/cryptoquant-bitcoin-ether-xrp-whales-accumulating-late-stage-bear-market?utm_source=rss&utm_medium=rss",
-      "event_type": "whale_move",
-      "sentiment_label": "negative",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-08-05T19:09:26+00:00",
-      "raw_text": "CryptoQuant says bitcoin, ether and XRP whales are accumulating, signaling a ‘late-stage bear market’\n\n<p>Large crypto holders are accumulating bitcoin, ether, and XRP as prices remain under pressure, CryptoQuant said.</p>\n\n<p>Large crypto holders are accumulating bitcoin, ether, and XRP as prices r",
-      "impact": {
-        "t_plus_5m": -0.1245,
-        "t_plus_15m": -0.0648,
-        "t_plus_1h": -0.2442,
-        "t_plus_4h": -0.8913
-      }
-    },
-    {
-      "event_id": "77f183a2-0a2b-46bc-ae6b-67e677b2e6be",
-      "source": "rss:solana_official",
-      "title": "Webinar Recap: Giving AI agents a native way to pay with x402",
-      "url": "https://solana.com/news/webinar-recap-agentic-payments",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T18:55:00+00:00",
-      "raw_text": "Webinar Recap: Giving AI agents a native way to pay with x402\n\nX402 has processed roughly 200M transactions and $50B in volume, giving AI agents a stablecoin-native way to pay for web resources.",
-      "impact": {}
-    },
-    {
-      "event_id": "8df7a546-59ea-4e91-b3d0-4076d994ee11",
-      "source": "rss:solana_official",
-      "title": "Webinar Recap: Giving AI agents a native way to pay with X402",
-      "url": "https://solana.com/news/webinar-recap-agentic-payments",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T18:55:00+00:00",
-      "raw_text": "Webinar Recap: Giving AI agents a native way to pay with X402\n\nX402 has processed roughly 200M transactions and $50B in volume, giving AI agents a stablecoin-native way to pay for web resources.",
-      "impact": {}
-    },
-    {
-      "event_id": "f8fe93b3-fbcb-4880-b528-f6f4a3bc8ad1",
-      "source": "rss:cointelegraph",
-      "title": "Marex invests in Digital Prime to expand institutional crypto lending",
-      "url": "https://cointelegraph.com/news/marex-digital-prime-tokenet-institutional-crypto-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T18:53:47+00:00",
-      "raw_text": "Marex invests in Digital Prime to expand institutional crypto lending\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Marex invests in Digital Prime to expand institutional crypto lending\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-ja",
-      "impact": {}
-    },
-    {
-      "event_id": "fe0a6b62-a5b4-43a3-80f4-e2cff09ab4b7",
-      "source": "rss:decrypt",
-      "title": "Feds Say an NFT Founder Raised $10 Million Only to Blow It All on Gambling, Trading, and a DJ Hobby",
-      "url": "https://decrypt.co/374986/nft-founder-10-million-fraud-gambling-dj-hobby",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T18:43:47+00:00",
-      "raw_text": "Feds Say an NFT Founder Raised $10 Million Only to Blow It All on Gambling, Trading, and a DJ Hobby\n\nProsecutors say the founder of NFT marketplace Few and Far promised investors their money would build a Web3 platform before diverting it to personal expenses.",
-      "impact": {}
-    },
-    {
-      "event_id": "f1e1cfd8-f9e5-4d4f-a615-b2b05d339f93",
-      "source": "rss:decrypt",
-      "title": "Bitcoin Tests Market’s Patience as Zcash Gives Holders Hope: Analysis",
-      "url": "https://decrypt.co/374975/bitcoin-price-test-zcash-holds-golden-cross",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T18:33:34+00:00",
-      "raw_text": "Bitcoin Tests Market’s Patience as Zcash Gives Holders Hope: Analysis\n\nWill Bitcoin breakout of its death cross? Can Zcash continue to make holders forget about that mid-June crash? Here’s what the charts say.",
-      "impact": {}
-    },
-    {
-      "event_id": "ea909b72-5179-4c73-81da-89401b8dfdb8",
-      "source": "rss:coindesk",
-      "title": "Crypto's campaign efforts see rare loss, but crypto roster in Congress likely to grow",
-      "url": "https://www.coindesk.com/policy/2026/08/05/crypto-s-campaign-efforts-see-rare-loss-but-crypto-roster-in-congress-likely-to-grow",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T18:15:21+00:00",
-      "raw_text": "Crypto's campaign efforts see rare loss, but crypto roster in Congress likely to grow",
-      "impact": {}
-    },
-    {
-      "event_id": "020b22ad-01b4-4364-a833-21ac1048c93a",
-      "source": "rss:bitcoinmagazine",
-      "title": "Russia Passes Law to Regulate Crypto Exchanges, Keeps Payment Ban in Place",
-      "url": "https://bitcoinmagazine.com/news/russia-keeps-payment-ban-in-place",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T17:39:39+00:00",
-      "raw_text": "Russia Passes Law to Regulate Crypto Exchanges, Keeps Payment Ban in Place\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Russia-Passes-Law-to-Regulate-Crypto-Exchanges-Keeps-Payment-Ban-in-Place.jp",
-      "impact": {}
-    },
-    {
-      "event_id": "86be766a-f794-41bb-a1e8-b2db0870517c",
-      "source": "rss:theblock",
-      "title": "Analysts see bitcoin bottom forming through boredom as price clings to $64K amid spot ETF inflows",
-      "url": "https://www.theblock.co/post/410905/analysts-see-bitcoin-bottom-forming-through-boredom-price-clings-64k-amid-spot-etf-inflows?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T17:31:31+00:00",
-      "raw_text": "Analysts see bitcoin bottom forming through boredom as price clings to $64K amid spot ETF inflows\n\n<p>Bitcoin held near $64,000 as spot ETFs drew $211.5 million Tuesday while analysts flag bottom signals forming without a demand engine.</p>\n\n<p>Bitcoin held near $64,000 as spot ETFs drew $211.5 mill",
-      "impact": {}
-    },
-    {
-      "event_id": "c7ef7f50-6d07-45bd-834a-5aba7d414084",
-      "source": "rss:theblock",
-      "title": "TeraWulf’s HPC leasing revenue jumps 52%, widening lead over bitcoin mining",
-      "url": "https://www.theblock.co/post/410888/terawulf-hpc-leasing-revenue-jumps-52-widening-lead-over-bitcoin-mining?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T17:09:28+00:00",
-      "raw_text": "TeraWulf’s HPC leasing revenue jumps 52%, widening lead over bitcoin mining\n\n<p>HPC leasing accounted for roughly 71% of TeraWulf's $44.8 million in Q2 revenue, up from 62% in the prior quarter.</p>\n\n<p>HPC leasing accounted for roughly 71% of TeraWulf's $44.8 million in Q2 revenue, up from 62% in t",
-      "impact": {}
-    },
-    {
-      "event_id": "5b91f36b-face-4ad7-9279-3ce4a27455fc",
-      "source": "rss:cointelegraph",
-      "title": "Crypto-backed Michigan House incumbent loses primary despite $2M PAC support",
-      "url": "https://cointelegraph.com/news/michigan-house-rep-loses-primary-support-crypto-pac?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-05T16:51:54+00:00",
-      "raw_text": "Crypto-backed Michigan House incumbent loses primary despite $2M PAC support\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto-backed Michigan House incumbent loses primary despite $2M PAC support\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 151,
+        "count": 150,
         "avg_1h": -0.21,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 186,
+        "count": 189,
         "avg_1h": -0.0,
         "avg_24h": 0.91,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 89,
-        "avg_1h": 0.2,
+      "hack": {
+        "count": 66,
+        "avg_1h": -0.01,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 65,
-        "avg_1h": -0.01,
+      "macro": {
+        "count": 87,
+        "avg_1h": 0.2,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6441,8 +6439,8 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
-        "count": 4,
-        "avg_1h": -0.02,
+        "count": 3,
+        "avg_1h": 0.06,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       }
