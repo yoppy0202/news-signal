@@ -1,6 +1,102 @@
 {
-  "generated_at": "2026-08-12T19:15:47.615396+00:00",
+  "generated_at": "2026-08-12T20:58:30.332199+00:00",
   "events": [
+    {
+      "event_id": "5c1c75e2-c474-497f-af23-3baa7702ba6f",
+      "source": "rss:decrypt",
+      "title": "'Inner Thoughts' of Every Major AI Model Exposed in Massive Exploit",
+      "url": "https://decrypt.co/375501/inner-thoughts-every-major-ai-model-exposed-exploit",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T20:31:04+00:00",
+      "raw_text": "'Inner Thoughts' of Every Major AI Model Exposed in Massive Exploit\n\nResearchers found every major AI provider encrypts reasoning tokens with a single global key—and exploited it to decode 315,320 hidden thinking blocks from public logs, recovering passwords and live API keys along the way.",
+      "impact": {}
+    },
+    {
+      "event_id": "cf3eb6fb-7b1a-4ebf-8aec-806c2c0765b2",
+      "source": "rss:cointelegraph",
+      "title": "NYC council announces probe into ‘predatory marketing practices’ on prediction markets",
+      "url": "https://cointelegraph.com/news/new-york-council-probe-marketing-practices-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T20:22:46+00:00",
+      "raw_text": "NYC council announces probe into ‘predatory marketing practices’ on prediction markets\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"NYC council announces probe into ‘predatory marketing practices’ on prediction markets\" class=\"type:primaryImage\" src=\"https://s3-images.ctm",
+      "impact": {}
+    },
+    {
+      "event_id": "215fe8f7-1e6c-4f78-bf6a-0161cebfe982",
+      "source": "rss:decrypt",
+      "title": "China’s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price",
+      "url": "https://decrypt.co/375507/china-deepseek-upgrades-v4-pro-claude-fable",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T20:01:05+00:00",
+      "raw_text": "China’s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price\n\nThe April preview got benchmarked to death and landed 18 points behind Anthropic’s flagship. DeepSeek’s own numbers for the finished model tell a very different story.",
+      "impact": {}
+    },
+    {
+      "event_id": "4decc725-0a54-48c7-bff2-55a2acf87862",
+      "source": "rss:decrypt",
+      "title": "SpaceXAI Wants Grok Bot to Do Your Job—But It Needs Access to Your Accounts",
+      "url": "https://decrypt.co/375490/spacexai-grok-bot-do-job-needs-access-accounts",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T19:31:04+00:00",
+      "raw_text": "SpaceXAI Wants Grok Bot to Do Your Job—But It Needs Access to Your Accounts\n\nThe AI agent can navigate workplace software and coordinate with other bots, raising questions about security and control.",
+      "impact": {}
+    },
+    {
+      "event_id": "1cf8d021-62c2-4019-afe4-50d84e00c685",
+      "source": "rss:theblock",
+      "title": "Ethereum staking climbs to 34% as proposal targets validator rewards and ETH treasury firm yields",
+      "url": "https://www.theblock.co/news/ecosystems/2026-08-12-ethereum-staking-climbs-34-proposal-targets-validator-rewards-eth-treasury-firm-yields-411312",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T19:16:02+00:00",
+      "raw_text": "Ethereum staking climbs to 34% as proposal targets validator rewards and ETH treasury firm yields\n\nResearchers recently filed EIP-8361, a \"tapered issuance burn\" that destroys a growing share of validator rewards as the staking ratio rises.\n\nResearchers recently filed EIP-8361, a \"tapered issuance b",
+      "impact": {}
+    },
+    {
+      "event_id": "be72360a-b92f-49dc-8b8a-5d68ee2503b6",
+      "source": "rss:bitcoinmagazine",
+      "title": "Bitcoin Flashes Bottom Signals as “Digital Gold” Narrative Returns",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-flashes-bottom-signal-digital-gold",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T19:09:41+00:00",
+      "raw_text": "Bitcoin Flashes Bottom Signals as “Digital Gold” Narrative Returns\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Flashes-Bottom-Signals-as-Digital-Gold-Narrative-Returns.jpg\" style=\"display",
+      "impact": {}
+    },
+    {
+      "event_id": "7a09ad14-1888-4917-ad85-2759cb49b79d",
+      "source": "rss:decrypt",
+      "title": "Goldman Sachs' $2.25B NEOS Deal Hands It Ready-Made Bitcoin Income ETF Business",
+      "url": "https://decrypt.co/375491/goldman-sachs-neos-deal-ready-made-bitcoin-income-etf",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T18:58:26+00:00",
+      "raw_text": "Goldman Sachs' $2.25B NEOS Deal Hands It Ready-Made Bitcoin Income ETF Business\n\nThe cash-and-equity deal for the options-income specialist folds in NEOS's roughly $1 billion Bitcoin covered-call fund, giving Goldman instant scale in a crypto ETF niche it had only just entered on paper.",
+      "impact": {}
+    },
+    {
+      "event_id": "4568202e-3a41-4805-913e-e161defa43d4",
+      "source": "rss:cointelegraph",
+      "title": "Kraken adds S&P 500 to funded trading program, commodities to follow",
+      "url": "https://cointelegraph.com/news/kraken-prop-sp500-perpetual-commodities-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T18:55:56+00:00",
+      "raw_text": "Kraken adds S&P 500 to funded trading program, commodities to follow\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken adds S&amp;P 500 to funded trading program, commodities to follow\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-",
+      "impact": {}
+    },
     {
       "event_id": "8b8bb7c8-7be3-45b5-bb07-1678a8742c4b",
       "source": "rss:theblock",
@@ -87,7 +183,8 @@
       "raw_text": "Fidelity Files to Let Its Ethereum ETF Stake and Pay Investors\n\nThe Boston asset manager's FETH would stake up to 100% of its ETH and distribute the rewards to holders as quarterly cash, pending SEC approval.",
       "impact": {
         "t_plus_5m": 0.0111,
-        "t_plus_15m": -0.1179
+        "t_plus_15m": -0.1179,
+        "t_plus_1h": 0.0311
       }
     },
     {
@@ -154,6 +251,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-12T16:34:24+00:00",
       "raw_text": "Wintermute plans $1 billion AI push beyond crypto: Bloomberg",
+      "impact": {}
+    },
+    {
+      "event_id": "0ef84f6e-8242-47ce-a22d-507d4921e184",
+      "source": "rss:coindesk",
+      "title": "Kalshi taps DoubleZero for Wall Street-style high-speed data feed",
+      "url": "https://www.coindesk.com/business/2026/08/12/solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-data-feed",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T16:14:49+00:00",
+      "raw_text": "Kalshi taps DoubleZero for Wall Street-style high-speed data feed",
       "impact": {}
     },
     {
@@ -6316,135 +6425,20 @@
       "timestamp_utc": "2026-08-06T06:10:43+00:00",
       "raw_text": "S&P 500 has added crypto's $2 trillion market cap this month. Bitcoin is not impressed. Here's why",
       "impact": {}
-    },
-    {
-      "event_id": "56c778cb-8e4a-4607-94fb-0efef712980b",
-      "source": "rss:cointelegraph",
-      "title": "EU watchdogs warn of impersonation scams amid MiCA licensing shakeout",
-      "url": "https://cointelegraph.com/news/eu-watchdogs-mica-crypto-impersonation-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T06:07:14+00:00",
-      "raw_text": "EU watchdogs warn of impersonation scams amid MiCA licensing shakeout\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EU watchdogs warn of impersonation scams amid MiCA licensing shakeout\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-th",
-      "impact": {}
-    },
-    {
-      "event_id": "cfadadee-4b14-4f4f-a05b-6d513308bd5e",
-      "source": "rss:cointelegraph",
-      "title": "Fed’s Cook says she’d support rate hike if disinflation stalls",
-      "url": "https://cointelegraph.com/markets/feds-cook-warns-persistent-inflation-could-prompt-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T05:44:04+00:00",
-      "raw_text": "Fed’s Cook says she’d support rate hike if disinflation stalls\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fed’s Cook says she’d support rate hike if disinflation stalls\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/fed-money-dollars.j",
-      "impact": {}
-    },
-    {
-      "event_id": "1ceb8a6c-46b2-4bf3-a266-c45147e507dc",
-      "source": "rss:cointelegraph",
-      "title": "ElizaOS token sinks 19% to record low after founder declares it ‘dead’",
-      "url": "https://cointelegraph.com/markets/elizaos-token-record-low-founder-declares-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T05:08:04+00:00",
-      "raw_text": "ElizaOS token sinks 19% to record low after founder declares it ‘dead’\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ElizaOS token sinks 19% to record low after founder declares it ‘dead’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-",
-      "impact": {}
-    },
-    {
-      "event_id": "e963b2a4-5a41-4e1a-9edd-bb7cd7ef8df9",
-      "source": "rss:coindesk",
-      "title": "Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock",
-      "url": "https://www.coindesk.com/markets/2026/08/06/bitcoin-steadies-above-usd64-000-as-traders-watch-usd100-billion-spacex-unlock",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T04:59:11+00:00",
-      "raw_text": "Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock",
-      "impact": {}
-    },
-    {
-      "event_id": "1fb31699-938a-4ad8-af6f-7179a3e06305",
-      "source": "rss:coindesk",
-      "title": "XRP whales keep buying the dip, but ether shows deeper capitulation",
-      "url": "https://www.coindesk.com/markets/2026/08/06/xrp-whales-keep-buying-the-dip-but-ether-shows-deeper-capitulation",
-      "event_type": "whale_move",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-08-06T04:46:17+00:00",
-      "raw_text": "XRP whales keep buying the dip, but ether shows deeper capitulation",
-      "impact": {
-        "t_plus_5m": -0.5177,
-        "t_plus_15m": -0.3192,
-        "t_plus_1h": -0.053,
-        "t_plus_4h": 0.4195
-      }
-    },
-    {
-      "event_id": "f973e573-ed5f-44e1-8041-10dd3b05efd4",
-      "source": "rss:coindesk",
-      "title": "CASHCAT jumps 120% in a week as Robinhood Chain hits $774 million of value locked",
-      "url": "https://www.coindesk.com/markets/2026/08/05/cashcat-jumps-120-in-a-week-as-robinhood-chain-tvl-hits-usd774-million",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T04:31:41+00:00",
-      "raw_text": "CASHCAT jumps 120% in a week as Robinhood Chain hits $774 million of value locked",
-      "impact": {}
-    },
-    {
-      "event_id": "96ce5a84-8483-4d93-b3af-56255e402ebb",
-      "source": "rss:cointelegraph",
-      "title": "Meta latest AI firm to see model go rogue during testing",
-      "url": "https://cointelegraph.com/news/meta-latest-ai-firm-to-see-model-go-rogue-during-testing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T04:28:47+00:00",
-      "raw_text": "Meta latest AI firm to see model go rogue during testing\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Meta latest AI firm to see model go rogue during testing\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/ai.jpg\" /></p><p>The incident r",
-      "impact": {}
-    },
-    {
-      "event_id": "10ba713c-09dd-41d5-94ca-c42f73f84265",
-      "source": "rss:coindesk",
-      "title": "Here are the possible outcomes for Clarity right now",
-      "url": "https://www.coindesk.com/policy/2026/08/05/here-are-the-possible-outcomes-for-clarity-right-now",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T03:49:04+00:00",
-      "raw_text": "Here are the possible outcomes for Clarity right now",
-      "impact": {}
-    },
-    {
-      "event_id": "f8e8b3ec-4247-417a-b1c9-e1a63bff690f",
-      "source": "rss:theblock",
-      "title": "Cathie Wood’s Ark Invest scoops up $17 million in Circle, $20 million in SpaceX shares following Q2 results",
-      "url": "https://www.theblock.co/post/410948/cathie-wood-ark-invest-circle-spacex-q2?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T02:22:22+00:00",
-      "raw_text": "Cathie Wood’s Ark Invest scoops up $17 million in Circle, $20 million in SpaceX shares following Q2 results\n\n<p>SpaceX plunged as investors grew concerned about the firm's $18.4 billion in capital expenditure during Q2, despite revenue growth.</p>\n\n<p>SpaceX plunged as investors grew concerned about",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 144,
-        "avg_1h": -0.18,
-        "avg_24h": -0.7,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 65,
+        "count": 66,
         "avg_1h": -0.02,
         "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 142,
+        "avg_1h": -0.18,
+        "avg_24h": -0.7,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
@@ -6454,8 +6448,8 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 89,
-        "avg_1h": 0.17,
+        "count": 91,
+        "avg_1h": 0.16,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6466,8 +6460,8 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
-        "count": 3,
-        "avg_1h": 0.06,
+        "count": 2,
+        "avg_1h": 0.11,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       }
