@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-13T06:40:33.155148+00:00",
+  "generated_at": "2026-08-13T08:40:26.778125+00:00",
   "events": [
+    {
+      "event_id": "dc037574-7b86-4adb-a7c3-82095f4ec8ca",
+      "source": "rss:theblock",
+      "title": "Blockchain Association backs Custodia’s Supreme Court bid over Fed master account access",
+      "url": "https://www.theblock.co/news/regulation/2026-08-13-blockchain-association-backs-custodia-petition-411672",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-13T06:07:59+00:00",
+      "raw_text": "Blockchain Association backs Custodia’s Supreme Court bid over Fed master account access\n\nThe industry group said the case is about ensuring 'lawful digital asset businesses can compete on equal footing.'\n\nThe industry group said the case is about ensuring 'lawful digital asset businesses can compet",
+      "impact": {}
+    },
     {
       "event_id": "a7dbabd8-63dd-4a63-9c51-7ad3da1001f9",
       "source": "rss:coindesk",
@@ -6409,24 +6421,18 @@
       "timestamp_utc": "2026-08-06T11:15:46+00:00",
       "raw_text": "Bernstein reaffirms TeraWulf Outperform rating as HPC revenue hits 71% of Q2 total\n\n<p>Bernstein keeps TeraWulf at Outperform after Q2 HPC revenue hit $32M, 71% of total, with Muskie Campus the next growth site.</p>\n\n<p>Bernstein keeps TeraWulf at Outperform after Q2 HPC revenue hit $32M, 71% of tot",
       "impact": {}
-    },
-    {
-      "event_id": "d659a044-9e1c-44a5-a30e-2a0b8fc9cb73",
-      "source": "rss:coindesk",
-      "title": "Why Sandisk and Western Digital crashed 10% and what it means for bitcoin",
-      "url": "https://www.coindesk.com/markets/2026/08/06/why-sandisk-and-western-digital-crashed-10-and-what-it-means-for-bitcoin",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T11:14:47+00:00",
-      "raw_text": "Why Sandisk and Western Digital crashed 10% and what it means for bitcoin",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 97,
+        "avg_1h": 0.16,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 192,
+        "count": 191,
         "avg_1h": -0.04,
         "avg_24h": 0.91,
         "win_rate_1h_gt5pct": 0.0
@@ -6441,12 +6447,6 @@
         "count": 140,
         "avg_1h": -0.16,
         "avg_24h": -0.7,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 96,
-        "avg_1h": 0.16,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
