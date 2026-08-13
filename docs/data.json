@@ -1,6 +1,60 @@
 {
-  "generated_at": "2026-08-13T05:00:46.399336+00:00",
+  "generated_at": "2026-08-13T06:40:33.155148+00:00",
   "events": [
+    {
+      "event_id": "a7dbabd8-63dd-4a63-9c51-7ad3da1001f9",
+      "source": "rss:coindesk",
+      "title": "Metaplanet denies selling bitcoin worth $320 million",
+      "url": "https://www.coindesk.com/markets/2026/08/13/metaplanet-denies-selling-bitcoin-worth-usd320-million",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-13T05:34:48+00:00",
+      "raw_text": "Metaplanet denies selling bitcoin worth $320 million",
+      "impact": {}
+    },
+    {
+      "event_id": "2c98fc7b-1c29-4f26-9051-1220493a0b7e",
+      "source": "rss:coindesk",
+      "title": "Bitcoin firms ask AI labs for same tools attackers already have",
+      "url": "https://www.coindesk.com/tech/2026/08/13/bitcoin-firms-ask-ai-labs-for-same-tools-attackers-already-have",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-13T05:21:21+00:00",
+      "raw_text": "Bitcoin firms ask AI labs for same tools attackers already have",
+      "impact": {}
+    },
+    {
+      "event_id": "c4f28338-3d9e-40a9-b484-1470970b0a27",
+      "source": "rss:cointelegraph",
+      "title": "Crypto valuations could double as protocols link revenue to tokens: Bitwise CIO",
+      "url": "https://cointelegraph.com/news/crypto-valuations-protocol-revenue-token-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-13T05:01:42+00:00",
+      "raw_text": "Crypto valuations could double as protocols link revenue to tokens: Bitwise CIO\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto valuations could double as protocols link revenue to tokens: Bitwise CIO \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media",
+      "impact": {}
+    },
+    {
+      "event_id": "d70f713c-e0c4-452a-a17c-63e447964af3",
+      "source": "rss:cointelegraph",
+      "title": "Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer",
+      "url": "https://cointelegraph.com/news/gerovich-shuts-down-bitcoin-sale-metaplanets-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-08-13T04:15:26+00:00",
+      "raw_text": "Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/h",
+      "impact": {
+        "t_plus_5m": -0.4181,
+        "t_plus_15m": -0.4688,
+        "t_plus_1h": -0.0306
+      }
+    },
     {
       "event_id": "63589d17-7df5-4184-9b32-6a11391decd5",
       "source": "rss:coindesk",
@@ -6367,54 +6421,6 @@
       "timestamp_utc": "2026-08-06T11:14:47+00:00",
       "raw_text": "Why Sandisk and Western Digital crashed 10% and what it means for bitcoin",
       "impact": {}
-    },
-    {
-      "event_id": "dfb6d677-974f-4e65-bade-546e6b2c6071",
-      "source": "rss:coindesk",
-      "title": "JPYC raises $38 million Series B led by major Japanese logistics firm AZ-COM Maruwa",
-      "url": "https://www.coindesk.com/business/2026/08/06/jpyc-raises-usd38-million-series-b-led-by-major-japanese-logistics-firm-az-com-maruwa",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T10:53:09+00:00",
-      "raw_text": "JPYC raises $38 million Series B led by major Japanese logistics firm AZ-COM Maruwa",
-      "impact": {}
-    },
-    {
-      "event_id": "e99b60fa-dcd6-43b6-b069-d1a910f8d5db",
-      "source": "rss:coindesk",
-      "title": "Bitcoin, ether benefit as traders seek safety of largest tokens",
-      "url": "https://www.coindesk.com/markets/2026/08/06/bitcoin-ether-benefit-as-traders-seek-safety-of-largest-tokens",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T10:43:07+00:00",
-      "raw_text": "Bitcoin, ether benefit as traders seek safety of largest tokens",
-      "impact": {}
-    },
-    {
-      "event_id": "c4470798-566a-41e5-b887-c181ae0e6335",
-      "source": "rss:cointelegraph",
-      "title": "Situational Awareness returns with $400M investment after nearly collapsing: Report",
-      "url": "https://cointelegraph.com/markets/situational-awareness-400m-investment-nearly-collapsing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T10:41:49+00:00",
-      "raw_text": "Situational Awareness returns with $400M investment after nearly collapsing: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Situational Awareness returns with $400M investment after nearly collapsing: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i",
-      "impact": {}
-    },
-    {
-      "event_id": "404c9df6-2495-4e7e-a12b-84fb2443d2bc",
-      "source": "rss:decrypt",
-      "title": "Bitcoin AI Security Audit Files 4,962 Findings Across 390 Projects",
-      "url": "https://decrypt.co/375029/bitcoin-ai-security-audit-files-4962-findings-across-390-projects",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T09:43:34+00:00",
-      "raw_text": "Bitcoin AI Security Audit Files 4,962 Findings Across 390 Projects\n\nA volunteer group is pointing AI agents at Bitcoin project codebases and says 720 of the issues it has filed are high severity or critical.",
-      "impact": {}
     }
   ],
   "stats": {
@@ -6425,21 +6431,21 @@
         "avg_24h": 0.91,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 97,
-        "avg_1h": 0.16,
+      "hack": {
+        "count": 67,
+        "avg_1h": -0.02,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
         "count": 140,
-        "avg_1h": -0.18,
+        "avg_1h": -0.16,
         "avg_24h": -0.7,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 66,
-        "avg_1h": -0.02,
+      "macro": {
+        "count": 96,
+        "avg_1h": 0.16,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
