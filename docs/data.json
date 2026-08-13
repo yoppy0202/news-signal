@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-08-13T21:57:45.573939+00:00",
+  "generated_at": "2026-08-13T22:57:36.220144+00:00",
   "events": [
+    {
+      "event_id": "cb9fb477-787b-4ef3-ad6d-6480ed2b24e1",
+      "source": "rss:decrypt",
+      "title": "Anthropic's AI Agents Started a Virtual War. The Quotes Are Unhinged",
+      "url": "https://decrypt.co/375596/anthropic-ai-agents-virtual-war-quotes-unhinged",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-13T21:45:04+00:00",
+      "raw_text": "Anthropic's AI Agents Started a Virtual War. The Quotes Are Unhinged\n\nIn a new red-team study, Claude models deployed self-replicating malware against each other—and the transcripts explain why.",
+      "impact": {}
+    },
+    {
+      "event_id": "45d77614-53d4-4c72-89c1-f2b4f85b56b7",
+      "source": "rss:bitcoinmagazine",
+      "title": "Bitcoin’s Bear Cycle Looks Familiar — And That Might Be the Bullish Case",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-bear-cycle-looks-looks-bullish",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-13T21:19:32+00:00",
+      "raw_text": "Bitcoin’s Bear Cycle Looks Familiar — And That Might Be the Bullish Case\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoins-Bear-Cycle-Looks-Familiar-—-And-That-Might-Be-the-Bullish-Case.jpg\" s",
+      "impact": {}
+    },
+    {
+      "event_id": "399dfaea-c0aa-4498-ba66-934ab62cb5da",
+      "source": "rss:decrypt",
+      "title": "Solana Can Be the 'Everything Chain' as Crypto Apps Go Mainstream: 6th Man Ventures Co-Founder",
+      "url": "https://decrypt.co/375605/solana-everything-chain-crypto-apps-mainstream",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-13T21:16:05+00:00",
+      "raw_text": "Solana Can Be the 'Everything Chain' as Crypto Apps Go Mainstream: 6th Man Ventures Co-Founder\n\n6th Man Ventures co-founder Mike Dudas says Solana’s infrastructure could carry crypto’s next wave.",
+      "impact": {}
+    },
+    {
+      "event_id": "4ef08d55-b9e4-4ed0-978b-483c50a895dd",
+      "source": "rss:theblock",
+      "title": "Gemini shares slide after $108 million loss as Winklevoss says ‘we still have work to do’",
+      "url": "https://www.theblock.co/news/business/2026-08-13-gemini-shares-slide-108-million-loss-winklevoss-says-we-still-have-work-to-do-411775",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-13T21:15:23+00:00",
+      "raw_text": "Gemini shares slide after $108 million loss as Winklevoss says ‘we still have work to do’\n\nGemini’s prediction market volume nearly doubled as the exchange continued expanding beyond crypto trading.\n\nGemini’s prediction market volume nearly doubled as the exchange continued expanding beyond crypto t",
+      "impact": {}
+    },
+    {
+      "event_id": "c736bb5b-5a78-4e02-888f-a75be84415a8",
+      "source": "rss:cointelegraph",
+      "title": "City of Baltimore goes after prediction markets for sports betting",
+      "url": "https://cointelegraph.com/news/baltimore-lawsuit-prediction-markets-kalshi-polymarket-sports-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-13T21:08:23+00:00",
+      "raw_text": "City of Baltimore goes after prediction markets for sports betting\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"City of Baltimore goes after prediction markets for sports betting\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/sports-fan-",
+      "impact": {}
+    },
     {
       "event_id": "0b240630-487e-4788-b431-c14f3500614f",
       "source": "rss:cointelegraph",
@@ -6340,93 +6400,26 @@
       "timestamp_utc": "2026-08-07T04:28:17+00:00",
       "raw_text": "A case for a bitcoin surge to $76,000 may be building beneath the boring price action, but there's a caveat",
       "impact": {}
-    },
-    {
-      "event_id": "6ef2c606-fb53-4b17-b66a-3054fe78ca7c",
-      "source": "rss:coindesk",
-      "title": "XRP leads majors losses as Clarity Act vote slips to September",
-      "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-stuck-near-usd64-000-as-clarity-act-vote-slips-to-september",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-08-07T04:17:01+00:00",
-      "raw_text": "XRP leads majors losses as Clarity Act vote slips to September",
-      "impact": {
-        "t_plus_5m": 0.1904,
-        "t_plus_15m": 0.2652,
-        "t_plus_1h": -0.0479,
-        "t_plus_4h": 0.9417
-      }
-    },
-    {
-      "event_id": "67411707-8df0-4b4a-960c-7bf2622d65e6",
-      "source": "rss:theblock",
-      "title": "Cathie Wood’s Ark Invest buys $21 million in Block as stock drops 6%",
-      "url": "https://www.theblock.co/news/business/2026-08-07-cathie-wood-ark-invest-buys-21-million-block-411075?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T04:03:44+00:00",
-      "raw_text": "Cathie Wood’s Ark Invest buys $21 million in Block as stock drops 6%\n\n<p>Block's stock fell 6.15% on Thursday as the company posted rising operating expenses in Q2, despite cutting 40% of its workforce in February.</p>\n\n<p>Block's stock fell 6.15% on Thursday as the company posted rising operating e",
-      "impact": {}
-    },
-    {
-      "event_id": "9cd4b83d-2cfa-485b-8f89-69f795debe89",
-      "source": "rss:theblock",
-      "title": "Cathie Wood’s Ark Invest buys $21 million in Block as stock drops 6%",
-      "url": "https://www.theblock.co/post/411075/cathie-wood-ark-invest-buys-21-million-block?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T04:03:44+00:00",
-      "raw_text": "Cathie Wood’s Ark Invest buys $21 million in Block as stock drops 6%\n\n<p>Block's stock fell 6.15% on Thursday as the company posted rising operating expenses in Q2, despite cutting 40% of its workforce in February.</p>\n\n<p>Block's stock fell 6.15% on Thursday as the company posted rising operating e",
-      "impact": {}
-    },
-    {
-      "event_id": "6cd7fd61-72a0-45bd-b83b-616b490f6d74",
-      "source": "rss:cointelegraph",
-      "title": "Bitget explores licensed crypto presence in Bhutan",
-      "url": "https://cointelegraph.com/news/bitget-explores-licensed-crypto-presence-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T03:22:26+00:00",
-      "raw_text": "Bitget explores licensed crypto presence in Bhutan\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitget explores licensed crypto presence in Bhutan\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/building-bitcoin-investment-bhutan.jpg\" /><",
-      "impact": {}
-    },
-    {
-      "event_id": "cd5c3882-a9f3-4a32-b2e0-647b52cd2727",
-      "source": "rss:theblock",
-      "title": "Senate delays Clarity Act vote until after August recess, Thune confirms",
-      "url": "https://www.theblock.co/news/regulation/2026-08-06-senate-delays-clarity-act-vote-411083?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T02:55:45+00:00",
-      "raw_text": "Senate delays Clarity Act vote until after August recess, Thune confirms\n\n<p>Senate Majority Leader John Thune confirmed with The Block, saying: 'We're getting that queued up first thing when we come back.'</p>\n\n<p>Senate Majority Leader John Thune confirmed with The Block, saying: 'We're getting th",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 192,
-        "avg_1h": -0.05,
-        "avg_24h": 0.91,
+      "narrative": {
+        "count": 138,
+        "avg_1h": -0.18,
+        "avg_24h": -0.7,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 107,
+        "count": 108,
         "avg_1h": 0.01,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 135,
-        "avg_1h": -0.18,
-        "avg_24h": -0.7,
+      "unknown": {
+        "count": 188,
+        "avg_1h": -0.05,
+        "avg_24h": 0.91,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
