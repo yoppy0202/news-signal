@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-08-13T17:08:06.927279+00:00",
+  "generated_at": "2026-08-13T18:05:14.270043+00:00",
   "events": [
+    {
+      "event_id": "49e640e5-a4ca-4204-b8fa-e494c8790ad1",
+      "source": "rss:cointelegraph",
+      "title": "Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered",
+      "url": "https://cointelegraph.com/news/robinhood-chain-uniswap-liquidity-uni-burns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-13T17:28:54+00:00",
+      "raw_text": "Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti",
+      "impact": {}
+    },
+    {
+      "event_id": "4bf8151e-eb15-4c52-9840-0b455f0011c4",
+      "source": "rss:decrypt",
+      "title": "Bitcoin Companies Want Help From AI Labs to Guard Against Hackers",
+      "url": "https://decrypt.co/375564/bitcoin-firms-want-ai-hacking-tools",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-13T17:11:04+00:00",
+      "raw_text": "Bitcoin Companies Want Help From AI Labs to Guard Against Hackers\n\nMore than 40 bitcoin and crypto firms asked the biggest AI labs this week to let independent security researchers use their strongest models before public release.",
+      "impact": {}
+    },
+    {
+      "event_id": "82c13d72-e666-4d27-bd2a-8db8c9bd68de",
+      "source": "rss:coindesk",
+      "title": "Trezor warns 14,000 customers after fulfilment partner suffers data breach",
+      "url": "https://www.coindesk.com/tech/2026/08/13/trezor-warns-14-000-users-after-fulfilment-partner-suffers-data-breach",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-13T17:10:57+00:00",
+      "raw_text": "Trezor warns 14,000 customers after fulfilment partner suffers data breach",
+      "impact": {}
+    },
+    {
+      "event_id": "68c22ad1-771a-42ab-9b80-a87a4001c1ea",
+      "source": "rss:bitcoinmagazine",
+      "title": "Data Breach at Trezor Leaks Info on Nearly 14,000 Bitcoin Wallet Users",
+      "url": "https://bitcoinmagazine.com/news/trezor-data-breach-leaks-customer-info",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-13T16:52:05+00:00",
+      "raw_text": "Data Breach at Trezor Leaks Info on Nearly 14,000 Bitcoin Wallet Users\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Data-Breach-at-Trezor-Leaks-Info-on-Nearly-14000-Bitcoin-Wallet-Users.jpg\" style",
+      "impact": {}
+    },
+    {
+      "event_id": "c266e9c6-d92a-4aef-b138-419847b3f2b8",
+      "source": "rss:decrypt",
+      "title": "Metaplanet Denies Selling $320M in Bitcoin as Firm Launches BitBonds",
+      "url": "https://decrypt.co/375562/metaplanet-denies-bitcoin-sale-launches-bitbonds",
+      "event_type": "listing",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-13T16:40:49+00:00",
+      "raw_text": "Metaplanet Denies Selling $320M in Bitcoin as Firm Launches BitBonds\n\nThe company's CEO said a 5,014 BTC transfer was a custody move, not a sale, as the Tokyo-listed Bitcoin treasury company rolls out a fixed-rate debt program.",
+      "impact": {}
+    },
     {
       "event_id": "b0378e61-086f-4591-b2cb-ad3ba6dc150a",
       "source": "rss:bitcoinmagazine",
@@ -104,10 +164,16 @@
       "url": "https://bitcoinmagazine.com/news/nakamoto-posts-quarterly-results",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-13T14:57:04+00:00",
       "raw_text": "Nakamoto Posts First Positive Adjusted Operating Income, Despite $133M GAAP Net Loss\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Nakamoto-Inc.-NAKA-Strengthens-Balance-With-600-Bitcoin-Sale-Refin",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.391,
+        "t_plus_15m": 0.256,
+        "t_plus_1h": -0.0846
+      }
     },
     {
       "event_id": "bf60a3c0-4d6f-4a01-b87d-9f34ec6c1695",
@@ -280,7 +346,8 @@
       "impact": {
         "t_plus_5m": -0.2007,
         "t_plus_15m": -0.1236,
-        "t_plus_1h": -0.1562
+        "t_plus_1h": -0.1562,
+        "t_plus_4h": -0.3457
       }
     },
     {
@@ -6332,104 +6399,37 @@
       "timestamp_utc": "2026-08-06T21:10:23+00:00",
       "raw_text": "Bitcoin miners MARA and CleanSpark post double-digital revenue drops as AI infrastructure pivot continues\n\n<p>MARA's net loss widened to $611.3 million, or $1.60 per diluted share, while CleanSpark’s was $239.8 million, or $0.89 per basic share.</p>\n\n<p>MARA's net loss widened to $611.3 million, or ",
       "impact": {}
-    },
-    {
-      "event_id": "d9d9c53f-bc05-4844-ac9b-5124db4dd5b0",
-      "source": "rss:decrypt",
-      "title": "Tokyo Tells Trump to Stop Meme-ing Mario",
-      "url": "https://decrypt.co/375069/tokyo-trump-mario-naruto-pokemon-memes",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T21:01:03+00:00",
-      "raw_text": "Tokyo Tells Trump to Stop Meme-ing Mario\n\nTokyo has asked Washington to stop meme-posting Mario, Pokémon, and Naruto without permission in a clash between meme-heavy statecraft and strict IP norms.",
-      "impact": {}
-    },
-    {
-      "event_id": "5ba4ac9b-2a50-4d6a-acbc-c1150f5a98dc",
-      "source": "rss:decrypt",
-      "title": "Meta Says Its AI Model Escaped and Hacked a Third-Party Company Too",
-      "url": "https://decrypt.co/375070/meta-says-ai-model-escaped-hack-third-party",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T20:31:03+00:00",
-      "raw_text": "Meta Says Its AI Model Escaped and Hacked a Third-Party Company Too\n\nThe company says a configuration error by an outside testing partner gave one of its Muse Spark models internet access during a cybersecurity evaluation.",
-      "impact": {}
-    },
-    {
-      "event_id": "4f6a5ad4-9529-452f-b178-9129cae3a3fb",
-      "source": "rss:bitcoinmagazine",
-      "title": "Breez Announces Glow, an Open Source Bitcoin to Stablecoins Progressive Web App",
-      "url": "https://bitcoinmagazine.com/business/breez-announces-glow-an-open-source-bitcoin-to-stablecoins-progressive-web-app",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-06T20:07:16+00:00",
-      "raw_text": "Breez Announces Glow, an Open Source Bitcoin to Stablecoins Progressive Web App\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/photo_2026-08-06-15.05.34.jpeg\" style=\"display: block; margin: 1em auto",
-      "impact": {
-        "t_plus_5m": 0.4296,
-        "t_plus_15m": 0.3724,
-        "t_plus_1h": 0.3315,
-        "t_plus_4h": 0.1585
-      }
-    },
-    {
-      "event_id": "abf05102-c6d1-409d-8712-fcd833328b94",
-      "source": "rss:decrypt",
-      "title": "Senators Push CFTC to Ban Wildfire Bets on Prediction Markets",
-      "url": "https://decrypt.co/375066/senators-push-cftc-ban-wildfire-bets-prediction-markets",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T19:51:09+00:00",
-      "raw_text": "Senators Push CFTC to Ban Wildfire Bets on Prediction Markets\n\nDemocratic lawmakers say wildfire event contracts create risks of arson, insider trading, and disaster profiteering as they urge federal regulators to step in.",
-      "impact": {}
-    },
-    {
-      "event_id": "b1d7c7d9-793e-453f-a6f2-b2dcd9a55d03",
-      "source": "rss:theblock",
-      "title": "Late Ondo founder’s mother seeks control of company and removal of De Bode as CEO",
-      "url": "https://www.theblock.co/news/regulation/2026-08-06-late-ondo-founders-mother-seeks-control-of-company-and-removal-of-de-bode-as-ceo-411006?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T19:45:06+00:00",
-      "raw_text": "Late Ondo founder’s mother seeks control of company and removal of De Bode as CEO\n\n<p>After Nathan Allman's death was announced in May, Ondo Finance said that Ian De Bode would take over as CEO.</p>\n\n<p>After Nathan Allman's death was announced in May, Ondo Finance said that Ian De Bode would take o",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "hack": {
-        "count": 59,
-        "avg_1h": -0.07,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 136,
+        "count": 135,
         "avg_1h": -0.18,
         "avg_24h": -0.7,
         "win_rate_1h_gt5pct": 0.0
       },
+      "hack": {
+        "count": 60,
+        "avg_1h": -0.07,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 195,
+        "count": 196,
         "avg_1h": -0.05,
         "avg_24h": 0.91,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 106,
-        "avg_1h": 0.05,
+      "listing": {
+        "count": 4,
+        "avg_1h": -0.29,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "listing": {
-        "count": 3,
-        "avg_1h": -0.29,
+      "macro": {
+        "count": 104,
+        "avg_1h": 0.01,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
