@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-08-13T10:18:56.926823+00:00",
+  "generated_at": "2026-08-13T11:55:39.441926+00:00",
   "events": [
+    {
+      "event_id": "10f366b9-9d21-4877-98f8-f6ac3247613a",
+      "source": "rss:coindesk",
+      "title": "Bitcoin holds steady near $64,000 as monero, hyperliquid outperform",
+      "url": "https://www.coindesk.com/markets/2026/08/13/bitcoin-holds-steady-near-usd64-000-as-monero-hyperliquid-outperform",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-13T11:02:43+00:00",
+      "raw_text": "Bitcoin holds steady near $64,000 as monero, hyperliquid outperform",
+      "impact": {}
+    },
+    {
+      "event_id": "0de3501b-6b70-4196-a697-30d9f91af152",
+      "source": "rss:cointelegraph",
+      "title": "‘DeFi doesn’t exist anymore,’ just onchain finance: Andre Cronje",
+      "url": "https://cointelegraph.com/news/defi-doesnt-exist-onchain-finance-andre-cronje?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-13T10:50:24+00:00",
+      "raw_text": "‘DeFi doesn’t exist anymore,’ just onchain finance: Andre Cronje\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"‘DeFi doesn’t exist anymore,’ just onchain finance: Andre Cronje\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/andre-cronje.jp",
+      "impact": {}
+    },
+    {
+      "event_id": "c1a8f87b-d0cd-4475-a5b1-ae4f219b87b4",
+      "source": "rss:decrypt",
+      "title": "CEO of Crypto Lender Delio Gets 15 Years Over $49M Fraud",
+      "url": "https://decrypt.co/375531/ceo-of-crypto-lender-delio-gets-15-years-over-49m-fraud",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-13T10:16:50+00:00",
+      "raw_text": "CEO of Crypto Lender Delio Gets 15 Years Over $49M Fraud\n\nA botched search of the platform's server host cost prosecutors the bulk of their case, cutting it from 2,800 alleged victims to about 1,100.",
+      "impact": {}
+    },
+    {
+      "event_id": "2863d312-2c7f-46e7-8e96-761d3742fca1",
+      "source": "rss:coindesk",
+      "title": "MUFG to test real-time blockchain settlement for Japanese government bond trades",
+      "url": "https://www.coindesk.com/business/2026/08/13/mufg-to-test-real-time-blockchain-settlement-for-japanese-government-bond-trades",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-13T10:15:32+00:00",
+      "raw_text": "MUFG to test real-time blockchain settlement for Japanese government bond trades",
+      "impact": {}
+    },
+    {
+      "event_id": "8f9903dd-9d82-4f48-b4af-5f113b4b09d9",
+      "source": "rss:cointelegraph",
+      "title": "Binance bStocks passes xStocks as second-largest tokenized stock issuer",
+      "url": "https://cointelegraph.com/news/binance-bstocks-second-largest-tokenized-stock-issuer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-13T09:53:36+00:00",
+      "raw_text": "Binance bStocks passes xStocks as second-largest tokenized stock issuer\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance bStocks passes xStocks as second-largest tokenized stock issuer\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/h",
+      "impact": {}
+    },
     {
       "event_id": "57600299-8119-40f9-98dc-f92d69724cb2",
       "source": "rss:coindesk",
@@ -20,9 +80,26 @@
       "url": "https://cointelegraph.com/markets/bitcoin-speculators-in-the-red-keep-price-pinned-below-687k-new-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-13T09:37:16+00:00",
       "raw_text": "Bitcoin speculators keep BTC price ‘pinned’ below $68.7K: Glassnode\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin speculators keep BTC price ‘pinned’ below $68.7K: Glassnode\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/crypto-ma",
+      "impact": {
+        "t_plus_5m": -0.1293,
+        "t_plus_15m": -0.0929
+      }
+    },
+    {
+      "event_id": "f3a7ca34-8e9d-4a9f-a917-02ee2c32c219",
+      "source": "rss:coindesk",
+      "title": "Live updates: U.S. inflation is stickier than July’s mild CPI reading suggests",
+      "url": "https://www.coindesk.com/tech/2026/08/13/live-markets-u-s-inflation-is-stickier-than-july-s-mild-cpi-suggests",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-13T09:18:19+00:00",
+      "raw_text": "Live updates: U.S. inflation is stickier than July’s mild CPI reading suggests",
       "impact": {}
     },
     {
@@ -6335,102 +6412,30 @@
       "timestamp_utc": "2026-08-06T12:55:44+00:00",
       "raw_text": "Hyperliquid RWA contracts grow to 32% of trading activity in Q2\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hyperliquid RWA contracts grow to 32% of trading activity in Q2\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bull-market-vs",
       "impact": {}
-    },
-    {
-      "event_id": "33b03dec-77b2-45b5-ae08-7cf9e0342570",
-      "source": "rss:coindesk",
-      "title": "JPMorgan says Hyperliquid ETF inflows have stalled as competition mounts",
-      "url": "https://www.coindesk.com/markets/2026/08/06/jpmorgan-says-hyperliquid-etf-inflows-have-stalled-as-competition-mounts",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T12:46:42+00:00",
-      "raw_text": "JPMorgan says Hyperliquid ETF inflows have stalled as competition mounts",
-      "impact": {}
-    },
-    {
-      "event_id": "17831341-4fa8-4ff4-b87f-87e304b6ea84",
-      "source": "rss:decrypt",
-      "title": "Scammers Pose as EU Regulators to Prey on MiCA Deadline Fallout",
-      "url": "https://decrypt.co/375034/scammers-pose-as-eu-regulators-to-prey-on-mica-deadline-fallout",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T12:46:19+00:00",
-      "raw_text": "Scammers Pose as EU Regulators to Prey on MiCA Deadline Fallout\n\nFrance's watchdog says fraudsters are impersonating its own staff to talk stranded customers into moving assets to fake websites.",
-      "impact": {}
-    },
-    {
-      "event_id": "d167a5c4-24a4-4c08-845c-724a98b1f1af",
-      "source": "rss:decrypt",
-      "title": "Morning Minute: Uniswap Enters the Launchpad Wars on Robinhood Chain",
-      "url": "https://decrypt.co/375031/morning-minute-uniswap-enters-the-launchpad-wars-on-robinhood-chain",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T12:28:46+00:00",
-      "raw_text": "Morning Minute: Uniswap Enters the Launchpad Wars on Robinhood Chain\n\nIt looks like Uniswap is playing to win with their zero-fee model, and the early data shows them already taking the top spot.",
-      "impact": {}
-    },
-    {
-      "event_id": "448a795f-ca52-4090-8df4-7a9e93ada06d",
-      "source": "rss:cointelegraph",
-      "title": "Zeus Wallet taken offline after cyberattack, says no customer funds at risk",
-      "url": "https://cointelegraph.com/news/zeus-offline-cyberattack-says-no-funds-at-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T12:11:49+00:00",
-      "raw_text": "Zeus Wallet taken offline after cyberattack, says no customer funds at risk\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zeus Wallet taken offline after cyberattack, says no customer funds at risk\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-",
-      "impact": {}
-    },
-    {
-      "event_id": "71865e32-b81a-4235-9986-22b7f5e40d05",
-      "source": "rss:theblock",
-      "title": "Bernstein says Circle’s Q2 counters bearish concerns over competition, reserve income",
-      "url": "https://www.theblock.co/news/markets/2026-08-06-bernstein-says-circles-q2-counters-bearish-concerns-over-competition-reserve-income-410979?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T12:10:44+00:00",
-      "raw_text": "Bernstein says Circle’s Q2 counters bearish concerns over competition, reserve income\n\n<p>Bernstein said Circle's partnerships, regulatory approvals, and Arc launch provide additional revenue streams not reflected in estimates.</p>\n\n<p>Bernstein said Circle's partnerships, regulatory approvals, and ",
-      "impact": {}
-    },
-    {
-      "event_id": "1badcfa4-0057-42af-8d4d-d9bdc92b498b",
-      "source": "rss:theblock",
-      "title": "Bernstein says Circle’s Q2 counters bearish concerns over competition, reserve income",
-      "url": "https://www.theblock.co/post/410979/bernstein-says-circles-q2-counters-bearish-concerns-over-competition-reserve-income?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T12:10:44+00:00",
-      "raw_text": "Bernstein says Circle’s Q2 counters bearish concerns over competition, reserve income\n\n<p>Bernstein said Circle's partnerships, regulatory approvals, and Arc launch provide additional revenue streams not reflected in estimates.</p>\n\n<p>Bernstein said Circle's partnerships, regulatory approvals, and ",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 103,
-        "avg_1h": 0.16,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 141,
-        "avg_1h": -0.16,
-        "avg_24h": -0.7,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
         "count": 189,
         "avg_1h": -0.05,
         "avg_24h": 0.91,
         "win_rate_1h_gt5pct": 0.0
       },
+      "narrative": {
+        "count": 140,
+        "avg_1h": -0.16,
+        "avg_24h": -0.7,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 105,
+        "avg_1h": 0.16,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
-        "count": 62,
+        "count": 61,
         "avg_1h": -0.04,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
