@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-13T20:58:05.213275+00:00",
+  "generated_at": "2026-08-13T21:57:45.573939+00:00",
   "events": [
+    {
+      "event_id": "0b240630-487e-4788-b431-c14f3500614f",
+      "source": "rss:cointelegraph",
+      "title": "Tether completes first full financial audit, receives clean KPMG opinion",
+      "url": "https://cointelegraph.com/news/tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-13T20:43:12+00:00",
+      "raw_text": "Tether completes first full financial audit, receives clean KPMG opinion\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether completes first full financial audit, receives clean KPMG opinion\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
+      "impact": {}
+    },
+    {
+      "event_id": "651ae252-574b-4f40-b550-dfbe0ec0631f",
+      "source": "rss:bitcoinmagazine",
+      "title": "White House to Host Crypto Industry Execs Next Week: Report",
+      "url": "https://bitcoinmagazine.com/news/white-house-to-host-crypto-execs",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-13T20:33:37+00:00",
+      "raw_text": "White House to Host Crypto Industry Execs Next Week: Report\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/White-House-to-Host-Crypto-Industry-Execs-Next-Week.jpg\" style=\"display: block; margin: 1em",
+      "impact": {}
+    },
+    {
+      "event_id": "7b3aff21-fe30-4b0a-8af8-16df6d39edf2",
+      "source": "rss:decrypt",
+      "title": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It",
+      "url": "https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-13T20:30:24+00:00",
+      "raw_text": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It\n\nAnthropic is weaving an invisible, machine-readable watermark into every word its newest Claude models write—and it hasn't said how.",
+      "impact": {}
+    },
     {
       "event_id": "c05baa79-c09e-409b-9da7-5f97f9408dab",
       "source": "rss:bitcoinmagazine",
@@ -244,7 +280,8 @@
       "impact": {
         "t_plus_5m": -0.4182,
         "t_plus_15m": -0.1329,
-        "t_plus_1h": 0.0001
+        "t_plus_1h": 0.0001,
+        "t_plus_4h": 0.427
       }
     },
     {
@@ -6370,62 +6407,26 @@
       "timestamp_utc": "2026-08-07T02:55:45+00:00",
       "raw_text": "Senate delays Clarity Act vote until after August recess, Thune confirms\n\n<p>Senate Majority Leader John Thune confirmed with The Block, saying: 'We're getting that queued up first thing when we come back.'</p>\n\n<p>Senate Majority Leader John Thune confirmed with The Block, saying: 'We're getting th",
       "impact": {}
-    },
-    {
-      "event_id": "486beda2-a7db-41c9-a9f3-46995c77f5dd",
-      "source": "rss:theblock",
-      "title": "Senate delays Clarity Act vote until after August recess, Thune confirms",
-      "url": "https://www.theblock.co/post/411083/senate-delays-clarity-act-vote?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T02:55:45+00:00",
-      "raw_text": "Senate delays Clarity Act vote until after August recess, Thune confirms\n\n<p>Senate Majority Leader John Thune confirmed with The Block, saying: 'We're getting that queued up first thing when we come back.'</p>\n\n<p>Senate Majority Leader John Thune confirmed with The Block, saying: 'We're getting th",
-      "impact": {}
-    },
-    {
-      "event_id": "360d9177-ada2-412e-8ca2-085550763200",
-      "source": "rss:cointelegraph",
-      "title": "US Senate pushes CLARITY Act vote to September",
-      "url": "https://cointelegraph.com/news/us-senate-pushes-clarity-act-vote-to-september-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T02:49:53+00:00",
-      "raw_text": "US Senate pushes CLARITY Act vote to September\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Senate pushes CLARITY Act vote to September\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-industry-civil-war.jpg\" /></p><p>Senate M",
-      "impact": {}
-    },
-    {
-      "event_id": "05e638cc-5bca-40da-b768-e998446b82b4",
-      "source": "rss:cointelegraph",
-      "title": "US Senate pushes CLARITY Act vote to September: Report",
-      "url": "https://cointelegraph.com/news/us-senate-pushes-clarity-act-vote-to-september-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T02:49:53+00:00",
-      "raw_text": "US Senate pushes CLARITY Act vote to September: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Senate pushes CLARITY Act vote to September: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-industry-civil-war.jpg\" /",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 192,
+        "avg_1h": -0.05,
+        "avg_24h": 0.91,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 106,
+        "count": 107,
         "avg_1h": 0.01,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 134,
+        "count": 135,
         "avg_1h": -0.18,
         "avg_24h": -0.7,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 194,
-        "avg_1h": -0.05,
-        "avg_24h": 0.91,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
