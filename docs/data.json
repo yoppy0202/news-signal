@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-12T23:54:25.362256+00:00",
+  "generated_at": "2026-08-13T02:41:55.755356+00:00",
   "events": [
+    {
+      "event_id": "a0de18c1-5de3-461f-936b-522ef6d76215",
+      "source": "rss:cointelegraph",
+      "title": "ASX shareholder plans to sue former directors over failed blockchain project",
+      "url": "https://cointelegraph.com/news/asx-shareholder-lawsuit-failed-blockchain-chess-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-13T01:00:57+00:00",
+      "raw_text": "ASX shareholder plans to sue former directors over failed blockchain project\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ASX shareholder plans to sue former directors over failed blockchain project \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/artic",
+      "impact": {}
+    },
+    {
+      "event_id": "e3249b27-0c5d-46c3-b1e1-1358caf2979c",
+      "source": "rss:cointelegraph",
+      "title": "Arizona crypto ATM law helps 35 scam victims recover $171K",
+      "url": "https://cointelegraph.com/news/arizona-crypto-atm-law-scam-refunds-171k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T23:42:51+00:00",
+      "raw_text": "Arizona crypto ATM law helps 35 scam victims recover $171K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Arizona crypto ATM law helps 35 scam victims recover $171K \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/btc-comau-sponsor.png\" /><",
+      "impact": {}
+    },
+    {
+      "event_id": "9b73628e-fb7d-4fa9-8940-3d87f7753d64",
+      "source": "rss:coindesk",
+      "title": "Prediction markets should dial back faulty filings for incentives to boost trading: CFTC",
+      "url": "https://www.coindesk.com/policy/2026/08/12/prediction-markets-should-dial-back-faulty-filings-for-incentives-to-boost-trading-cftc",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T23:16:53+00:00",
+      "raw_text": "Prediction markets should dial back faulty filings for incentives to boost trading: CFTC",
+      "impact": {}
+    },
     {
       "event_id": "a9f092de-18fb-4668-9983-9f9e9b99075b",
       "source": "rss:coindesk",
@@ -172,7 +208,8 @@
       "impact": {
         "t_plus_5m": 0.2893,
         "t_plus_15m": 0.2197,
-        "t_plus_1h": 0.0229
+        "t_plus_1h": 0.0229,
+        "t_plus_4h": -0.2027
       }
     },
     {
@@ -713,6 +750,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-12T13:00:00+00:00",
       "raw_text": "America doesn’t need a second-class payments system",
+      "impact": {}
+    },
+    {
+      "event_id": "98486d8f-23a0-4b48-81e6-43819c6a5681",
+      "source": "rss:solana_official",
+      "title": "Why Asia Is Ahead on Stablecoins, According to Reap's Daren Guo",
+      "url": "https://solana.com/news/bits-to-bricks-asia-ahead-stablecoins-daren-guo-reap",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-12T12:57:00+00:00",
+      "raw_text": "Why Asia Is Ahead on Stablecoins, According to Reap's Daren Guo\n\nReap moves roughly $6B a year in stablecoin card volume after building cross-border payments infrastructure from Asia.",
       "impact": {}
     },
     {
@@ -6366,68 +6415,26 @@
       "timestamp_utc": "2026-08-06T09:08:47+00:00",
       "raw_text": "EU watchdogs warn scammers are posing as crypto firms and regulators after MiCA deadline: FT\n\n<p>Crypto firms failing to secure MiCA authorization by July 1 must wind down or restrict services to EU clients. </p>\n\n<p>Crypto firms failing to secure MiCA authorization by July 1 must wind down or restr",
       "impact": {}
-    },
-    {
-      "event_id": "a9d9f437-735e-40df-a20c-f134d305b284",
-      "source": "rss:theblock",
-      "title": "EU watchdogs warn scammers are posing as crypto firms and regulators after MiCA deadline: FT",
-      "url": "https://www.theblock.co/post/410966/eu-watchdogs-warn-crypto-scams-mica?utm_source=rss&utm_medium=rss",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T09:08:47+00:00",
-      "raw_text": "EU watchdogs warn scammers are posing as crypto firms and regulators after MiCA deadline: FT\n\n<p>Crypto firms failing to secure MiCA authorization by July 1 must wind down or restrict services to EU clients. </p>\n\n<p>Crypto firms failing to secure MiCA authorization by July 1 must wind down or restr",
-      "impact": {}
-    },
-    {
-      "event_id": "dba571c5-c0f6-4235-bca5-4ecddc3d20ea",
-      "source": "rss:cointelegraph",
-      "title": "Yen stablecoin issuer JPYC’s Series B reaches $38M",
-      "url": "https://cointelegraph.com/news/jpyc-series-b-funding-az-com?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T08:44:43+00:00",
-      "raw_text": "Yen stablecoin issuer JPYC’s Series B reaches $38M\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Yen stablecoin issuer JPYC’s Series B reaches $38M \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/truck.png\" /></p><p>JPYC said it plans to ",
-      "impact": {}
-    },
-    {
-      "event_id": "62c0e7ad-c89c-40d1-80f5-e7e7ef014254",
-      "source": "rss:theblock",
-      "title": "Coinbase launches 24/5 US stock trading for UK users, advancing ‘Everything Exchange’ strategy",
-      "url": "https://www.theblock.co/post/410870/coinbase-launches-24-5-us-stock-trading-uk-users-advancing-everything-exchange-strategy?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T08:00:03+00:00",
-      "raw_text": "Coinbase launches 24/5 US stock trading for UK users, advancing ‘Everything Exchange’ strategy\n\n<p>Coinbase UK CEO Keith Grose said the launch is part of the exchange's broader push to bridge traditional and onchain finance.</p>\n\n<p>Coinbase UK CEO Keith Grose said the launch is part of the exchange",
-      "impact": {}
-    },
-    {
-      "event_id": "4ab85a3e-3941-4414-9703-95560c4d2f62",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin-backed loan refinances PowerCompute’s $18M debt at 2%",
-      "url": "https://cointelegraph.com/news/bitcoin-collateral-cuts-powercompute-debt-rate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "listing",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-06T07:56:34+00:00",
-      "raw_text": "Bitcoin-backed loan refinances PowerCompute’s $18M debt at 2%\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin-backed loan refinances PowerCompute’s $18M debt at 2%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/loan-cash-bitcoin-1.j",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 98,
-        "avg_1h": 0.16,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 143,
+        "count": 142,
         "avg_1h": -0.18,
         "avg_24h": -0.7,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 190,
+        "avg_1h": -0.04,
+        "avg_24h": 0.91,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 97,
+        "avg_1h": 0.16,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
@@ -6436,14 +6443,8 @@
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 187,
-        "avg_1h": -0.04,
-        "avg_24h": 0.91,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "listing": {
-        "count": 4,
+        "count": 3,
         "avg_1h": -0.29,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
