@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-14T02:40:02.199461+00:00",
+  "generated_at": "2026-08-14T04:57:21.900258+00:00",
   "events": [
+    {
+      "event_id": "4715052c-c3fb-4082-87a4-befff0c446a2",
+      "source": "rss:theblock",
+      "title": "Bitwise mulls tokenizing its Solana staking ETF via Superstate partnership",
+      "url": "https://www.theblock.co/news/defi/2026-08-14-bitwise-tokenize-sol-staking-etf-411790",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-14T04:09:44+00:00",
+      "raw_text": "Bitwise mulls tokenizing its Solana staking ETF via Superstate partnership\n\nShares held in tokenized form would carry the same rights as those in book-entry form, though not freely transferable outside the system.\n\nShares held in tokenized form would carry the same rights as those in book-entry form",
+      "impact": {}
+    },
+    {
+      "event_id": "db875270-9ccc-412f-8c63-f5f247aac513",
+      "source": "rss:theblock",
+      "title": "Washington court orders Kalshi to halt most prediction market offerings in state",
+      "url": "https://www.theblock.co/news/regulation/2026-08-13-washington-court-orders-kalshi-411785",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-14T03:21:28+00:00",
+      "raw_text": "Washington court orders Kalshi to halt most prediction market offerings in state\n\nThe Washington court, however, allows Kalshi to continue offering commodities, climate, economics and finance-related markets in the state.\n\nThe Washington court, however, allows Kalshi to continue offering commodities",
+      "impact": {}
+    },
+    {
+      "event_id": "42ed5f90-b9bc-48f9-a146-84852af352cd",
+      "source": "rss:cointelegraph",
+      "title": "Figure reports $4.3B in loan marketplace volume as profit nearly triples",
+      "url": "https://cointelegraph.com/news/figure-q2-loan-marketplace-volume-profit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-14T02:06:37+00:00",
+      "raw_text": "Figure reports $4.3B in loan marketplace volume as profit nearly triples\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Figure reports $4.3B in loan marketplace volume as profit nearly triples\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
+      "impact": {}
+    },
     {
       "event_id": "700f6012-01da-4138-ae93-70341e22fd7f",
       "source": "rss:cointelegraph",
@@ -6357,63 +6393,20 @@
       "timestamp_utc": "2026-08-07T07:44:57+00:00",
       "raw_text": "Live updates: 'This can't last forever': Mulling bitcoin's lame price action as risk markets rally",
       "impact": {}
-    },
-    {
-      "event_id": "4692bda8-db6e-44de-affe-3e56f2e92902",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin holding near $65,000 as U.S. lost jobs last month",
-      "url": "https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T07:44:57+00:00",
-      "raw_text": "Live updates: Bitcoin holding near $65,000 as U.S. lost jobs last month",
-      "impact": {}
-    },
-    {
-      "event_id": "aeec26b8-8538-4b1f-acb3-3fa0a2a3909d",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin flat at $64,300 before US jobs report, with oil back as a headwind",
-      "url": "https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T07:44:57+00:00",
-      "raw_text": "Live updates: Bitcoin flat at $64,300 before US jobs report, with oil back as a headwind",
-      "impact": {}
-    },
-    {
-      "event_id": "e5dd8449-fb58-4f50-aec9-60a6798860e5",
-      "source": "rss:coindesk",
-      "title": "Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million",
-      "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-whales-load-up-on-usd1-2-billion-in-btc-as-etfs-attract-usd750-million",
-      "event_type": "whale_move",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-07T05:45:21+00:00",
-      "raw_text": "Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million",
-      "impact": {
-        "t_plus_5m": -0.1274,
-        "t_plus_15m": -0.0733,
-        "t_plus_1h": -0.0509,
-        "t_plus_4h": 0.8043
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 111,
+        "avg_1h": 0.01,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 185,
         "avg_1h": -0.05,
         "avg_24h": 0.91,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 110,
-        "avg_1h": 0.01,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
@@ -6431,12 +6424,6 @@
       "listing": {
         "count": 4,
         "avg_1h": -0.15,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "whale_move": {
-        "count": 1,
-        "avg_1h": -0.05,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       }
