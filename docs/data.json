@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-14T11:53:07.142103+00:00",
+  "generated_at": "2026-08-14T13:35:11.976465+00:00",
   "events": [
+    {
+      "event_id": "6f254d8b-c06b-4847-9867-de696baa867a",
+      "source": "rss:decrypt",
+      "title": "Morning Minute: Tether Finally Gets An Audit",
+      "url": "https://decrypt.co/375625/morning-minute-tether-finally-gets-an-audit",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-14T11:45:39+00:00",
+      "raw_text": "Morning Minute: Tether Finally Gets An Audit\n\nIt seems Tether passed, putting an end to the longest-running open criticism of the leading stablecoin company.",
+      "impact": {}
+    },
+    {
+      "event_id": "1d0cb661-81ac-44f8-81e9-0ba64d5cab8e",
+      "source": "rss:coindesk",
+      "title": "Volatility exits crypto, TradFi markets even as U.S.-Iran risks linger, sovereign debt rises",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/14/volatility-exits-crypto-tradfi-markets-even-as-u-s-iran-risks-linger-sovereign-debt-rises",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-14T11:33:50+00:00",
+      "raw_text": "Volatility exits crypto, TradFi markets even as U.S.-Iran risks linger, sovereign debt rises",
+      "impact": {}
+    },
+    {
+      "event_id": "3677b177-1e18-4ee3-b865-763a2cb81752",
+      "source": "rss:cointelegraph",
+      "title": "Shinhan Asset Management partners with Plume on tokenized fund pilot",
+      "url": "https://cointelegraph.com/news/shinhan-partners-plume-tokenized-fund-experiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-14T11:23:28+00:00",
+      "raw_text": "Shinhan Asset Management partners with Plume on tokenized fund pilot\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Shinhan Asset Management partners with Plume on tokenized fund pilot\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/south-k",
+      "impact": {}
+    },
     {
       "event_id": "804a5062-8ff0-41f4-896a-e651429d79e8",
       "source": "rss:coindesk",
@@ -38,16 +74,40 @@
       "impact": {}
     },
     {
+      "event_id": "d171572a-622c-46e7-88a5-fe6ddb28f063",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin eyes new August lows as Binance longs face ‘cleanout’",
+      "url": "https://cointelegraph.com/markets/bitcoin-liquidation-cleanout-open-interest-falls-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-08-14T10:43:57+00:00",
+      "raw_text": "Bitcoin eyes new August lows as Binance longs face ‘cleanout’\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin eyes new August lows as Binance longs face ‘cleanout’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/analys-analytics-buil",
+      "impact": {
+        "t_plus_5m": -0.0224,
+        "t_plus_15m": -0.0641,
+        "t_plus_1h": 0.0446
+      }
+    },
+    {
       "event_id": "8b74085e-1dec-4e82-ad41-3cd8722ba25a",
       "source": "rss:cointelegraph",
       "title": "Bitcoin Eyes New August Lows as Binance Longs Face a ‘Cleanout’",
       "url": "https://cointelegraph.com/markets/bitcoin-liquidation-cleanout-open-interest-falls-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-14T10:43:57+00:00",
       "raw_text": "Bitcoin Eyes New August Lows as Binance Longs Face a ‘Cleanout’\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin Eyes New August Lows as Binance Longs Face a ‘Cleanout’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/analys-analytics-",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0844,
+        "t_plus_15m": -0.1261,
+        "t_plus_1h": -0.0175
+      }
     },
     {
       "event_id": "cc1e53e9-b91f-46aa-823d-65255ee2d657",
@@ -95,6 +155,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-14T09:50:40+00:00",
       "raw_text": "Kalshi Ordered to Block Washington Bets Days After CFTC Backed It\n\nA King County judge gave the exchange until August 19 to stop offering sports, election and politics wagers in the state.",
+      "impact": {}
+    },
+    {
+      "event_id": "066c90a2-45f2-4d20-85b8-7e1e7546406f",
+      "source": "rss:cointelegraph",
+      "title": "JPMorgan cuts Polymarket banking ties over regulatory concerns: Report",
+      "url": "https://cointelegraph.com/news/jpmorgan-debanked-polymarket-regulatory-concerns-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-14T08:53:42+00:00",
+      "raw_text": "JPMorgan cuts Polymarket banking ties over regulatory concerns: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"JPMorgan cuts Polymarket banking ties over regulatory concerns: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-",
       "impact": {}
     },
     {
@@ -160,7 +232,8 @@
       "impact": {
         "t_plus_5m": 0.0784,
         "t_plus_15m": 0.1128,
-        "t_plus_1h": 0.073
+        "t_plus_1h": 0.073,
+        "t_plus_4h": -0.0925
       }
     },
     {
@@ -6333,73 +6406,13 @@
       "timestamp_utc": "2026-08-07T12:13:40+00:00",
       "raw_text": "CEX perpetual futures volume falls to $4T, lowest since late 2023\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CEX perpetual futures volume falls to $4T, lowest since late 2023\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-mar",
       "impact": {}
-    },
-    {
-      "event_id": "78b8105d-e187-4422-a0c0-16de2164082e",
-      "source": "rss:decrypt",
-      "title": "Morning Minute: MetaMask Hands AI Agents a Wallet",
-      "url": "https://decrypt.co/375093/morning-minute-metamask-hands-ai-agents-a-wallet",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T12:00:35+00:00",
-      "raw_text": "Morning Minute: MetaMask Hands AI Agents a Wallet\n\nMetaMask's Agent Wallet lets AI agents trade crypto on their own. Plus, Bitcoin reclaims $65k despite the Clarity Act facing a new delay.",
-      "impact": {}
-    },
-    {
-      "event_id": "92cf004e-1062-4d27-8656-b797f082411a",
-      "source": "rss:coindesk",
-      "title": "After a Clarity Act funeral, the crypto world would keep turning",
-      "url": "https://www.coindesk.com/news-analysis/2026/08/06/after-a-clarity-act-funeral-the-crypto-world-would-keep-turning",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T12:00:00+00:00",
-      "raw_text": "After a Clarity Act funeral, the crypto world would keep turning",
-      "impact": {}
-    },
-    {
-      "event_id": "a3eb4aa6-02b9-404b-9083-fc02337107c0",
-      "source": "rss:theblock",
-      "title": "Bernstein favors CleanSpark on AI execution as MARA awaits first commercial contract",
-      "url": "https://www.theblock.co/news/business/2026-08-07-bernstein-favors-cleanspark-on-ai-execution-as-mara-awaits-first-commercial-contract-411136?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T11:51:21+00:00",
-      "raw_text": "Bernstein favors CleanSpark on AI execution as MARA awaits first commercial contract\n\n<p>Bernstein rates CleanSpark Outperform at $24 on AI lease progress, while keeping MARA at $17 as it awaits its first commercial AI contract.</p>\n\n<p>Bernstein rates CleanSpark Outperform at $24 on AI lease progre",
-      "impact": {}
-    },
-    {
-      "event_id": "8ed0c4b9-32f7-4313-9913-695b83408472",
-      "source": "rss:theblock",
-      "title": "Bernstein favors CleanSpark on AI execution as MARA awaits first commercial contract",
-      "url": "https://www.theblock.co/post/411136/bernstein-favors-cleanspark-on-ai-execution-as-mara-awaits-first-commercial-contract?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T11:51:21+00:00",
-      "raw_text": "Bernstein favors CleanSpark on AI execution as MARA awaits first commercial contract\n\n<p>Bernstein rates CleanSpark Outperform at $24 on AI lease progress, while keeping MARA at $17 as it awaits its first commercial AI contract.</p>\n\n<p>Bernstein rates CleanSpark Outperform at $24 on AI lease progre",
-      "impact": {}
-    },
-    {
-      "event_id": "8f31d88d-1233-4c7a-919b-b1ddc390ffda",
-      "source": "rss:coindesk",
-      "title": "Why Bitcoin's BIP-110 refuses to die despite near-zero miner support",
-      "url": "https://www.coindesk.com/tech/2026/08/06/why-bitcoin-s-bip-110-refuses-to-die-despite-near-zero-miner-support",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T11:45:49+00:00",
-      "raw_text": "Why Bitcoin's BIP-110 refuses to die despite near-zero miner support",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 184,
-        "avg_1h": -0.05,
+        "count": 186,
+        "avg_1h": -0.04,
         "avg_24h": 0.91,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6410,7 +6423,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 141,
+        "count": 139,
         "avg_1h": -0.18,
         "avg_24h": -0.79,
         "win_rate_1h_gt5pct": 0.0
