@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-08-14T06:38:10.936047+00:00",
+  "generated_at": "2026-08-14T08:34:26.821141+00:00",
   "events": [
+    {
+      "event_id": "95e2c039-8798-4688-9ae9-44db41418d96",
+      "source": "rss:coindesk",
+      "title": "Cluster of headwinds weigh on bitcoin. XRP teeters near $1",
+      "url": "https://www.coindesk.com/markets/2026/08/14/cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-usd1",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [
+        "XRP"
+      ],
+      "timestamp_utc": "2026-08-14T07:14:37+00:00",
+      "raw_text": "Cluster of headwinds weigh on bitcoin. XRP teeters near $1",
+      "impact": {
+        "t_plus_5m": 0.0784,
+        "t_plus_15m": 0.1128,
+        "t_plus_1h": 0.073
+      }
+    },
+    {
+      "event_id": "a916068d-c070-4aa9-ab55-665796cc454f",
+      "source": "rss:coindesk",
+      "title": "Bitcoin holders Strategy and Metaplanet face stock-index exclusion under MSCI’s new proposal",
+      "url": "https://www.coindesk.com/markets/2026/08/14/bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-msci-s-new-proposal",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-14T06:20:54+00:00",
+      "raw_text": "Bitcoin holders Strategy and Metaplanet face stock-index exclusion under MSCI’s new proposal",
+      "impact": {}
+    },
     {
       "event_id": "15d30a46-a1e6-4795-886b-d88b660784cb",
       "source": "rss:coindesk",
@@ -6370,36 +6400,12 @@
       "timestamp_utc": "2026-08-07T09:01:14+00:00",
       "raw_text": "CLARITY Act delay gives Asian financial hubs an opening: First Digital CEO\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CLARITY Act delay gives Asian financial hubs an opening: First Digital CEO\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-co",
       "impact": {}
-    },
-    {
-      "event_id": "83e024be-c589-4536-b39d-49e0f4885628",
-      "source": "rss:coindesk",
-      "title": "Crypto market maker Wintermute lands SEC approval to trade equities and ETF blocks",
-      "url": "https://www.coindesk.com/business/2026/08/07/wintermute-gains-u-s-broker-dealer-status-in-wall-street-push",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T08:46:17+00:00",
-      "raw_text": "Crypto market maker Wintermute lands SEC approval to trade equities and ETF blocks",
-      "impact": {}
-    },
-    {
-      "event_id": "0ef067fd-970b-44df-8d09-ac17d0ec4298",
-      "source": "rss:coindesk",
-      "title": "Ethereum staking token weETH splits from restaking as rewards debate heats up",
-      "url": "https://www.coindesk.com/tech/2026/08/07/ethereum-staking-token-weeth-splits-from-restaking-as-rewards-debate-heats-up",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T08:01:28+00:00",
-      "raw_text": "Ethereum staking token weETH splits from restaking as rewards debate heats up",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 185,
+        "count": 186,
         "avg_1h": -0.05,
         "avg_24h": 0.91,
         "win_rate_1h_gt5pct": 0.0
@@ -6411,7 +6417,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 111,
+        "count": 110,
         "avg_1h": 0.01,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
