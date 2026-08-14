@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-14T19:54:10.305283+00:00",
+  "generated_at": "2026-08-14T20:40:50.675654+00:00",
   "events": [
+    {
+      "event_id": "23b8ab22-ddbb-41b8-8fdd-1f584cb7f944",
+      "source": "rss:bitcoinmagazine",
+      "title": "Citi CEO Wants ‘Good’ Crypto Clarity Act To Get Passed",
+      "url": "https://bitcoinmagazine.com/news/citi-ceo-wants-clarity-act-passed",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-14T20:03:41+00:00",
+      "raw_text": "Citi CEO Wants ‘Good’ Crypto Clarity Act To Get Passed\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Banking-Lobby-CEO-Talks-Crypto-Clarity-Act-as-Senators-Race-To-Pass-Bill.jpg\" style=\"display: bl",
+      "impact": {}
+    },
+    {
+      "event_id": "db3d6a4d-3632-425a-b293-7c697e16efb7",
+      "source": "rss:decrypt",
+      "title": "China's Z.AI Ships GLM-5.3, Calling It the Top Open-Weight Coding Model",
+      "url": "https://decrypt.co/375684/china-z-ai-glm-5-3-top-open-weight-coding-model",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-14T20:01:13+00:00",
+      "raw_text": "China's Z.AI Ships GLM-5.3, Calling It the Top Open-Weight Coding Model\n\nThe Chinese lab says the release beats comparably sized open models on code benchmarks. The blog's own numbers show it trails the closed frontier and at least one open rival.",
+      "impact": {}
+    },
     {
       "event_id": "c525e377-0286-4555-8356-f57260028604",
       "source": "rss:theblock",
@@ -232,7 +256,8 @@
       "impact": {
         "t_plus_5m": -0.3623,
         "t_plus_15m": -0.2035,
-        "t_plus_1h": 0.005
+        "t_plus_1h": 0.005,
+        "t_plus_4h": -0.3016
       }
     },
     {
@@ -6374,48 +6399,12 @@
       "timestamp_utc": "2026-08-07T20:28:33+00:00",
       "raw_text": "Treasury Sanctions Crypto Exchanges It Says Laundered Millions for Iran\n\nThe U.S. Treasury sanctioned two crypto exchanges it says laundered millions of dollars for Iran's Revolutionary Guard, naming a Georgia- and UAE-based operator and an Iran-based platform.",
       "impact": {}
-    },
-    {
-      "event_id": "b1818201-eff2-4624-a276-cc2914349181",
-      "source": "rss:coindesk",
-      "title": "Trump-Backed American Bitcoin director Justin Mateen buys nearly $2 million of ABTC stock",
-      "url": "https://www.coindesk.com/business/2026/08/07/trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-usd2-million-of-abtc-stock",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T20:20:00+00:00",
-      "raw_text": "Trump-Backed American Bitcoin director Justin Mateen buys nearly $2 million of ABTC stock",
-      "impact": {}
-    },
-    {
-      "event_id": "0b86e598-abb1-440a-ac2e-f864ac76e754",
-      "source": "rss:cointelegraph",
-      "title": "US Treasury’s OFAC sanctions 2 Iran-linked crypto exchanges",
-      "url": "https://cointelegraph.com/news/us-treasury-sanctions-iran-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T20:02:20+00:00",
-      "raw_text": "US Treasury’s OFAC sanctions 2 Iran-linked crypto exchanges\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Treasury’s OFAC sanctions 2 Iran-linked crypto exchanges\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-users-in-iran-s",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 193,
-        "avg_1h": -0.04,
-        "avg_24h": -0.04,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 53,
-        "avg_1h": -0.04,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 114,
+        "count": 115,
         "avg_1h": -0.01,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
@@ -6424,6 +6413,18 @@
         "count": 134,
         "avg_1h": -0.15,
         "avg_24h": -0.79,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 192,
+        "avg_1h": -0.04,
+        "avg_24h": -0.04,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 53,
+        "avg_1h": -0.04,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
