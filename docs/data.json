@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-14T04:57:21.900258+00:00",
+  "generated_at": "2026-08-14T06:38:10.936047+00:00",
   "events": [
+    {
+      "event_id": "15d30a46-a1e6-4795-886b-d88b660784cb",
+      "source": "rss:coindesk",
+      "title": "JPMorgan shuttered its banking relationship with predictions platform Polymarket: FT",
+      "url": "https://www.coindesk.com/markets/2026/08/14/jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket-ft",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-14T05:04:52+00:00",
+      "raw_text": "JPMorgan shuttered its banking relationship with predictions platform Polymarket: FT",
+      "impact": {}
+    },
+    {
+      "event_id": "7ec786fd-461e-4302-8939-f4a73bf9a103",
+      "source": "rss:cointelegraph",
+      "title": "Neutrl pauses NUSD redemptions over undisclosed reserve issue",
+      "url": "https://cointelegraph.com/news/neutrl-pauses-nusd-redemptions-over-undisclosed-reserve-issue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-14T04:44:31+00:00",
+      "raw_text": "Neutrl pauses NUSD redemptions over undisclosed reserve issue\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Neutrl pauses NUSD redemptions over undisclosed reserve issue \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-world-liberty-lau",
+      "impact": {}
+    },
     {
       "event_id": "4715052c-c3fb-4082-87a4-befff0c446a2",
       "source": "rss:theblock",
@@ -1125,7 +1149,8 @@
         "t_plus_5m": -0.4181,
         "t_plus_15m": -0.4688,
         "t_plus_1h": -0.0306,
-        "t_plus_4h": -0.0793
+        "t_plus_4h": -0.0793,
+        "t_plus_24h": -0.8702
       }
     },
     {
@@ -6369,40 +6394,10 @@
       "timestamp_utc": "2026-08-07T08:01:28+00:00",
       "raw_text": "Ethereum staking token weETH splits from restaking as rewards debate heats up",
       "impact": {}
-    },
-    {
-      "event_id": "2a7f81db-8152-455a-80ea-0326204b848f",
-      "source": "rss:cointelegraph",
-      "title": "Coldcard exploit pushes July losses to $247M as second-worst month of 2026",
-      "url": "https://cointelegraph.com/news/coldcard-exploit-july-second-worst-month-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T07:59:42+00:00",
-      "raw_text": "Coldcard exploit pushes July losses to $247M as second-worst month of 2026\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard exploit pushes July losses to $247M as second-worst month of 2026\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-co",
-      "impact": {}
-    },
-    {
-      "event_id": "5ddd843c-970a-4af9-a7ef-4f01d4ae7f23",
-      "source": "rss:coindesk",
-      "title": "Live updates: 'This can't last forever': Mulling bitcoin's lame price action as risk markets rally",
-      "url": "https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T07:44:57+00:00",
-      "raw_text": "Live updates: 'This can't last forever': Mulling bitcoin's lame price action as risk markets rally",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 111,
-        "avg_1h": 0.01,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
         "count": 185,
         "avg_1h": -0.05,
@@ -6410,13 +6405,19 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 139,
+        "count": 140,
         "avg_1h": -0.18,
-        "avg_24h": -0.7,
+        "avg_24h": -0.79,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 111,
+        "avg_1h": 0.01,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 61,
+        "count": 60,
         "avg_1h": -0.07,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
