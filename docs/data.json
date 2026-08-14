@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-14T18:02:00.461044+00:00",
+  "generated_at": "2026-08-14T19:08:51.572945+00:00",
   "events": [
+    {
+      "event_id": "7bf1fb32-3e0e-40f4-b8e2-5eabf2bcd0ca",
+      "source": "rss:coindesk",
+      "title": "Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push",
+      "url": "https://www.coindesk.com/markets/2026/08/14/tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-crypto-s-wall-street-push",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-14T17:48:04+00:00",
+      "raw_text": "Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push",
+      "impact": {}
+    },
+    {
+      "event_id": "ec1a81f9-934b-4c7b-ae3c-fbd8049f0764",
+      "source": "rss:decrypt",
+      "title": "Coldcard Bitcoin Thefts Slow, But Losses Could Top $150 Million: Galaxy",
+      "url": "https://decrypt.co/375656/coldcard-bitcoin-thefts-slow-losses-top-150-million",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-14T17:46:06+00:00",
+      "raw_text": "Coldcard Bitcoin Thefts Slow, But Losses Could Top $150 Million: Galaxy\n\nGalaxy Research says the lull likely means vulnerable holders migrated, or were already emptied.",
+      "impact": {}
+    },
     {
       "event_id": "46958d7e-1987-479d-8795-14a24854114a",
       "source": "rss:bitcoinmagazine",
@@ -8,10 +32,15 @@
       "url": "https://bitcoinmagazine.com/news/strategy-slams-msci-possible-index-removal",
       "event_type": "listing",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-14T17:24:58+00:00",
       "raw_text": "Bitcoin Treasury Strategy Bites Back After MSCI Announces Possible Index Removal\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/01/Strategy-MSTR-Stock-Soars-10-Above-189-as-Bitcoin-Nears-100000-1.jpg\" ",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0262,
+        "t_plus_15m": -0.0794
+      }
     },
     {
       "event_id": "077d083a-d566-40af-a259-292d55544302",
@@ -63,7 +92,8 @@
       "raw_text": "Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot\n\nBitcoin miner Hyperscale sold most of its Bitcoin but said it plans to rebuild its holdings through mining and future purchases.",
       "impact": {
         "t_plus_5m": 0.005,
-        "t_plus_15m": 0.1188
+        "t_plus_15m": 0.1188,
+        "t_plus_1h": 0.1782
       }
     },
     {
@@ -249,7 +279,8 @@
       "impact": {
         "t_plus_5m": 0.0249,
         "t_plus_15m": 0.1036,
-        "t_plus_1h": -0.0985
+        "t_plus_1h": -0.0985,
+        "t_plus_4h": 0.3826
       }
     },
     {
@@ -6372,68 +6403,37 @@
       "timestamp_utc": "2026-08-07T18:39:26+00:00",
       "raw_text": "CFTC cautions prediction markets over using American-style ‘moneyline’ betting odds: Bloomberg\n\n<p>Some prediction market platforms received a warning from the CFTC to refrain using American-style gambling odds, according to Bloomberg. </p>\n\n<p>Some prediction market platforms received a warning fro",
       "impact": {}
-    },
-    {
-      "event_id": "68a4db41-1586-4327-8043-4203af7029d8",
-      "source": "rss:bitcoinmagazine",
-      "title": "Coldcard Bitcoin Hack: Victims Report Median Loss of 1 BTC as Theft Tops $111 Million",
-      "url": "https://bitcoinmagazine.com/news/coldcard-victims-report-median-loss-1btc",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-07T18:02:38+00:00",
-      "raw_text": "Coldcard Bitcoin Hack: Victims Report Median Loss of 1 BTC as Theft Tops $111 Million\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Coldcard-Bitcoin-Hack-Victims-Report-Median-Loss-of-1-BTC-as-Thef",
-      "impact": {
-        "t_plus_5m": 0.0204,
-        "t_plus_15m": -0.0137,
-        "t_plus_1h": -0.0913,
-        "t_plus_4h": 0.1195
-      }
-    },
-    {
-      "event_id": "6ce6a5ce-5881-4abd-9ac8-f4dd34ba78ee",
-      "source": "rss:cointelegraph",
-      "title": "Circle expands USDC to OKX ecosystem with X Layer launch",
-      "url": "https://cointelegraph.com/news/circle-native-usdc-okx-x-layer-cctp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T17:36:45+00:00",
-      "raw_text": "Circle expands USDC to OKX ecosystem with X Layer launch\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Circle expands USDC to OKX ecosystem with X Layer launch\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/token-for-ads-polymarket-usdc.p",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 112,
+        "avg_1h": -0.01,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 195,
+        "avg_1h": -0.04,
+        "avg_24h": -0.04,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "listing": {
         "count": 6,
         "avg_1h": -0.15,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 194,
-        "avg_1h": -0.04,
-        "avg_24h": -0.04,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 136,
-        "avg_1h": -0.18,
+        "count": 135,
+        "avg_1h": -0.15,
         "avg_24h": -0.79,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 53,
+        "count": 52,
         "avg_1h": -0.04,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 111,
-        "avg_1h": -0.01,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       }
