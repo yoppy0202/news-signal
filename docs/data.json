@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-14T15:03:47.187600+00:00",
+  "generated_at": "2026-08-14T16:01:39.934361+00:00",
   "events": [
+    {
+      "event_id": "2b7a05c6-5780-4fdf-b45f-8ce02ce341b8",
+      "source": "rss:theblock",
+      "title": "Ethena treasury company StablecoinX shares jump 12% after revealing 20% stake in ENA supply",
+      "url": "https://www.theblock.co/news/business/2026-08-14-ethena-treasury-company-stablecoinx-shares-jump-12-revealing-20-stake-ena-supply-411845",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-14T15:17:03+00:00",
+      "raw_text": "Ethena treasury company StablecoinX shares jump 12% after revealing 20% stake in ENA supply\n\nStablecoinX shares surged after the Ethena treasury firm revealed it holds 20% of ENA’s total supply.\n\nStablecoinX shares surged after the Ethena treasury firm revealed it holds 20% of ENA’s total supply.",
+      "impact": {}
+    },
+    {
+      "event_id": "a1827010-1a54-4400-9ac8-61c3c0e0094a",
+      "source": "rss:bitcoinmagazine",
+      "title": "Israeli Bank Leumi to Debut Bitcoin Trading With Galaxy Digital",
+      "url": "https://bitcoinmagazine.com/news/israel-bank-leumi-to-debut-bitcoin-trading",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-14T15:03:41+00:00",
+      "raw_text": "Israeli Bank Leumi to Debut Bitcoin Trading With Galaxy Digital\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Israeli-Bank-Leumi-to-Debut-Bitcoin-Trading.jpg\" style=\"display: block; margin: 1em aut",
+      "impact": {}
+    },
+    {
+      "event_id": "631be752-7f2a-4ee9-b4e5-0f8c0f4612b6",
+      "source": "rss:decrypt",
+      "title": "Fake LinkedIn Crypto Job Scams Have Cost $11.8M: Singapore",
+      "url": "https://decrypt.co/375653/fake-linkedin-crypto-job-scams-have-cost-11-8m-singapore",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-14T14:55:29+00:00",
+      "raw_text": "Fake LinkedIn Crypto Job Scams Have Cost $11.8M: Singapore\n\nMalware planted during a bogus coding assessment harvested a session token, bypassing multi-factor authentication to reach a code repository.",
+      "impact": {}
+    },
+    {
+      "event_id": "d721d32b-fa29-4646-ad36-c5e6179fbb61",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin price drops to $62.5K as trader warns weekly close may spark more losses",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-drops-trader-warns-weekly-close-may-spark-more-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-14T14:38:27+00:00",
+      "raw_text": "Bitcoin price drops to $62.5K as trader warns weekly close may spark more losses\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price drops to $62.5K as trader warns weekly close may spark more losses\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
+      "impact": {}
+    },
     {
       "event_id": "c83f1cfa-638d-4f0f-aa4f-e71f2519de51",
       "source": "rss:cointelegraph",
@@ -44,10 +92,15 @@
       "url": "https://bitcoinmagazine.com/takes/what-the-clarity-act-actually-does-for-bitcoin",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-14T14:09:26+00:00",
       "raw_text": "What the CLARITY Act Actually Does for Bitcoin\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/What-the-CLARITY-Act-Actually-Does-for-Bitcoin.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2322,
+        "t_plus_15m": -0.2529
+      }
     },
     {
       "event_id": "adc7ba0b-0274-4367-a808-e4d667830b86",
@@ -80,10 +133,16 @@
       "url": "https://cointelegraph.com/magazine/solana-wants-its-biggest-resource-hogs-to-pay-more?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "SOL"
+      ],
       "timestamp_utc": "2026-08-14T13:30:00+00:00",
       "raw_text": "Solana’s fee overhaul increases burn and makes resource hogs pay\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana’s fee overhaul increases burn and makes resource hogs pay\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/solana-simd-055",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0249,
+        "t_plus_15m": 0.1036,
+        "t_plus_1h": -0.0985
+      }
     },
     {
       "event_id": "08c3b661-c240-40db-afcf-abc1223b20e1",
@@ -244,7 +303,8 @@
       "impact": {
         "t_plus_5m": -0.0224,
         "t_plus_15m": -0.0641,
-        "t_plus_1h": 0.0446
+        "t_plus_1h": 0.0446,
+        "t_plus_4h": -0.1631
       }
     },
     {
@@ -262,7 +322,8 @@
       "impact": {
         "t_plus_5m": -0.0844,
         "t_plus_15m": -0.1261,
-        "t_plus_1h": -0.0175
+        "t_plus_1h": -0.0175,
+        "t_plus_4h": -0.225
       }
     },
     {
@@ -335,6 +396,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-14T08:53:42+00:00",
       "raw_text": "JPMorgan cut Polymarket banking ties over regulatory concerns: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"JPMorgan cut Polymarket banking ties over regulatory concerns: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-jp",
+      "impact": {}
+    },
+    {
+      "event_id": "be4376ef-8ebb-4f6a-831c-d8824fdaebda",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin slips below $63,000; MSCI threatens to exclude Strategy from indices",
+      "url": "https://www.coindesk.com/tech/2026/08/14/live-updates-bitcoin-slips-below-usd63-000-as-oil-yields-climb",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-14T08:51:48+00:00",
+      "raw_text": "Live updates: Bitcoin slips below $63,000; MSCI threatens to exclude Strategy from indices",
       "impact": {}
     },
     {
@@ -6340,86 +6413,20 @@
       "timestamp_utc": "2026-08-07T16:00:50+00:00",
       "raw_text": "Bitcoin ETFs Add Nearly $800 Million in the Wake of Coldcard Exploit\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-ETFs-Add-Nearly-800-Million-in-the-Wake-of-Coldcard-Exploit.jpg\" style=\"di",
       "impact": {}
-    },
-    {
-      "event_id": "4c76f3cb-d234-4303-a640-7bf0911716e5",
-      "source": "rss:theblock",
-      "title": "Coldcard bitcoin exploit exposes crypto’s ‘original sin’ of private keys, Blockaid CEO says",
-      "url": "https://www.theblock.co/news/regulation/2026-08-07-coldcard-bitcoin-exploit-crypto-original-sin-private-keys-blockaid-ceo-411160?utm_source=rss&utm_medium=rss",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T15:30:05+00:00",
-      "raw_text": "Coldcard bitcoin exploit exposes crypto’s ‘original sin’ of private keys, Blockaid CEO says\n\n<p>Crypto at risk of becoming \"canary in a coal mine\" when it comes to demonstrating how AI could impact cybersecurity.</p>\n\n<p>Crypto at risk of becoming \"canary in a coal mine\" when it comes to demonstrati",
-      "impact": {}
-    },
-    {
-      "event_id": "1e24ad7f-4751-4d8f-abf5-b55a9051d5de",
-      "source": "rss:decrypt",
-      "title": "Bitcoin Wallet Dormant Since 2011 Moves Millions in BTC",
-      "url": "https://decrypt.co/375114/bitcoin-wallet-dormant-since-2011-moves-millions-btc",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-07T15:27:35+00:00",
-      "raw_text": "Bitcoin Wallet Dormant Since 2011 Moves Millions in BTC\n\nA Bitcoin address that had stayed silent for 15 years just sent its coins out for the first time.",
-      "impact": {
-        "t_plus_5m": 0.072,
-        "t_plus_15m": 0.0425,
-        "t_plus_1h": -0.1463
-      }
-    },
-    {
-      "event_id": "e9d4bc24-db83-49af-bb2e-719e13103d30",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin price tags $65.3K August high as low US jobs numbers cool Fed rate bets",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-tags-653k-august-high-as-low-us-jobs-numbers-cool-fed-rate-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T15:23:15+00:00",
-      "raw_text": "Bitcoin price tags $65.3K August high as low US jobs numbers cool Fed rate bets\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price tags $65.3K August high as low US jobs numbers cool Fed rate bets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/",
-      "impact": {}
-    },
-    {
-      "event_id": "38933058-4f49-4b16-9ad4-bb7e8fb64874",
-      "source": "rss:coindesk",
-      "title": "OKX's Rafique doubts Clarity Act will pass, warns optimism is already priced into bitcoin",
-      "url": "https://www.coindesk.com/policy/2026/08/04/okx-s-rafique-doubts-clarity-act-will-pass-warns-optimism-is-already-priced-into-bitcoin",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T15:22:44+00:00",
-      "raw_text": "OKX's Rafique doubts Clarity Act will pass, warns optimism is already priced into bitcoin",
-      "impact": {}
-    },
-    {
-      "event_id": "298b2523-4707-4477-9d59-ee9ce6a4559d",
-      "source": "rss:coindesk",
-      "title": "How a five-second trick let traders drain millions from Polymarket",
-      "url": "https://www.coindesk.com/business/2026/08/07/how-a-five-second-trick-let-traders-drain-millions-from-polymarket",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T15:09:07+00:00",
-      "raw_text": "How a five-second trick let traders drain millions from Polymarket",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 112,
-        "avg_1h": 0.0,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 189,
+        "count": 191,
         "avg_1h": -0.04,
         "avg_24h": 0.91,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 111,
+        "avg_1h": 0.0,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
@@ -6435,7 +6442,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 58,
+        "count": 57,
         "avg_1h": -0.07,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
