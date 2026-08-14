@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-14T17:06:04.961677+00:00",
+  "generated_at": "2026-08-14T18:02:00.461044+00:00",
   "events": [
+    {
+      "event_id": "46958d7e-1987-479d-8795-14a24854114a",
+      "source": "rss:bitcoinmagazine",
+      "title": "Bitcoin Treasury Strategy Bites Back After MSCI Announces Possible Index Removal",
+      "url": "https://bitcoinmagazine.com/news/strategy-slams-msci-possible-index-removal",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-14T17:24:58+00:00",
+      "raw_text": "Bitcoin Treasury Strategy Bites Back After MSCI Announces Possible Index Removal\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/01/Strategy-MSTR-Stock-Soars-10-Above-189-as-Bitcoin-Nears-100000-1.jpg\" ",
+      "impact": {}
+    },
+    {
+      "event_id": "077d083a-d566-40af-a259-292d55544302",
+      "source": "rss:decrypt",
+      "title": "Israel’s Largest Bank Will Give Bitcoin Trading Another Try",
+      "url": "https://decrypt.co/375665/israel-largest-bank-leumi-bitcoin-trading",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-14T17:14:02+00:00",
+      "raw_text": "Israel’s Largest Bank Will Give Bitcoin Trading Another Try\n\nBank Leumi's 2022 attempt died at the Bank of Israel. A softer regulatory line and Galaxy's custody stack now give it another shot in early 2027.",
+      "impact": {}
+    },
+    {
+      "event_id": "88c95685-f76e-46b8-89f2-9b2caa369586",
+      "source": "rss:theblock",
+      "title": "Israel’s largest bank taps Galaxy to offer bitcoin, ether and solana trading",
+      "url": "https://www.theblock.co/news/business/2026-08-14-israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading-411868",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-14T17:09:37+00:00",
+      "raw_text": "Israel’s largest bank taps Galaxy to offer bitcoin, ether and solana trading\n\nIsrael received an estimated $22 billion in onchain crypto value during the 12 months ending June 2025, according to Chainalysis.\n\nIsrael received an estimated $22 billion in onchain crypto value during the 12 months endin",
+      "impact": {}
+    },
+    {
+      "event_id": "80274c06-351e-4666-9e77-163d25436f38",
+      "source": "rss:cointelegraph",
+      "title": "UK authorities continue probe into Nigel Farage’s crypto ‘gifts’ after by-election win",
+      "url": "https://cointelegraph.com/news/uk-investigation-nigel-farage-crypto-donations-by-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-14T17:03:38+00:00",
+      "raw_text": "UK authorities continue probe into Nigel Farage’s crypto ‘gifts’ after by-election win\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK authorities continue probe into Nigel Farage’s crypto ‘gifts’ after by-election win\" class=\"type:primaryImage\" src=\"https://s3-images.ctm",
+      "impact": {}
+    },
     {
       "event_id": "aa0b51c2-4fb1-4827-bf2f-964f85ac3d7f",
       "source": "rss:decrypt",
@@ -8,10 +56,15 @@
       "url": "https://decrypt.co/375655/bitcoin-miner-sells-btc-ai-pivot-hyperscale",
       "event_type": "narrative",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-14T16:23:20+00:00",
       "raw_text": "Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot\n\nBitcoin miner Hyperscale sold most of its Bitcoin but said it plans to rebuild its holdings through mining and future purchases.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.005,
+        "t_plus_15m": 0.1188
+      }
     },
     {
       "event_id": "ce6f8e1b-4de3-4788-b9f5-cc3c6cf49ee9",
@@ -44,10 +97,16 @@
       "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-self-custody-etf-inflows-strategy-riot-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "hack",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-14T15:29:13+00:00",
       "raw_text": "Crypto Biz: Bitcoin’s $116M self-custody wake-up call\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: Bitcoin’s $116M self-custody wake-up call\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/coma-crypto-market-falling-bitcoin-1.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.3623,
+        "t_plus_15m": -0.2035,
+        "t_plus_1h": 0.005
+      }
     },
     {
       "event_id": "2b7a05c6-5780-4fdf-b45f-8ce02ce341b8",
@@ -6344,93 +6403,37 @@
       "timestamp_utc": "2026-08-07T17:36:45+00:00",
       "raw_text": "Circle expands USDC to OKX ecosystem with X Layer launch\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Circle expands USDC to OKX ecosystem with X Layer launch\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/token-for-ads-polymarket-usdc.p",
       "impact": {}
-    },
-    {
-      "event_id": "cffcb003-1127-4a3c-a9be-99385e8834ef",
-      "source": "rss:decrypt",
-      "title": "XRP at a Crossroads as Senate Punts on Clarity Act",
-      "url": "https://decrypt.co/375136/xrp-price-crossroads-senate-punts-clarity-act",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-08-07T17:36:41+00:00",
-      "raw_text": "XRP at a Crossroads as Senate Punts on Clarity Act\n\nXRP is taking the Clarity Act news harder than the rest of the crypto market. Here's why.",
-      "impact": {
-        "t_plus_5m": -0.1956,
-        "t_plus_15m": -0.3627,
-        "t_plus_1h": 0.1078,
-        "t_plus_4h": 0.5362,
-        "t_plus_24h": 2.7967
-      }
-    },
-    {
-      "event_id": "2e225216-1f44-4b5f-8d7f-a979699f7a63",
-      "source": "rss:cointelegraph",
-      "title": "Reform UK chair calls for probe into SBF-linked donation: Report",
-      "url": "https://cointelegraph.com/news/reform-uk-probe-ftx-sam-bankman-fried-donation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T17:03:50+00:00",
-      "raw_text": "Reform UK chair calls for probe into SBF-linked donation: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Reform UK chair calls for probe into SBF-linked donation: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/sam-bankman-fri",
-      "impact": {}
-    },
-    {
-      "event_id": "a3f8222d-0467-4aa7-bd30-d457ef20be95",
-      "source": "rss:theblock",
-      "title": "BTCPay warns of actively exploited vulnerability that could drain funds",
-      "url": "https://www.theblock.co/news/ecosystems/2026-08-07-btcpay-warns-actively-exploited-vulnerability-could-drain-funds-411170?utm_source=rss&utm_medium=rss",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T17:03:20+00:00",
-      "raw_text": "BTCPay warns of actively exploited vulnerability that could drain funds\n\n<p>Makers of the open source bitcoin payment processor BTCPay urged users to update their servers to version 2.4.2.</p>\n\n<p>Makers of the open source bitcoin payment processor BTCPay urged users to update their servers to versi",
-      "impact": {}
-    },
-    {
-      "event_id": "285ce01a-ae4d-4e78-8099-b50508664ae8",
-      "source": "rss:coindesk",
-      "title": "BitMEX sale collapsed as buyers balked at founder ownership and shrinking business",
-      "url": "https://www.coindesk.com/business/2026/07/31/bitmex-sale-collapsed-as-buyers-balked-at-founder-ownership-and-shrinking-business",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T16:53:56+00:00",
-      "raw_text": "BitMEX sale collapsed as buyers balked at founder ownership and shrinking business",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "listing": {
+        "count": 6,
+        "avg_1h": -0.15,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 194,
+        "avg_1h": -0.04,
+        "avg_24h": -0.04,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 136,
         "avg_1h": -0.18,
         "avg_24h": -0.79,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 194,
-        "avg_1h": -0.04,
-        "avg_24h": 0.91,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 54,
-        "avg_1h": -0.05,
+        "count": 53,
+        "avg_1h": -0.04,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
         "count": 111,
         "avg_1h": -0.01,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "listing": {
-        "count": 5,
-        "avg_1h": -0.15,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       }
