@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-13T23:53:18.649449+00:00",
+  "generated_at": "2026-08-14T02:40:02.199461+00:00",
   "events": [
+    {
+      "event_id": "700f6012-01da-4138-ae93-70341e22fd7f",
+      "source": "rss:cointelegraph",
+      "title": "Ethereum Foundation pivots away from Poseidon in post-quantum plan",
+      "url": "https://cointelegraph.com/news/ethereum-foundation-drops-poseidon-post-quantum-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-13T23:34:56+00:00",
+      "raw_text": "Ethereum Foundation pivots away from Poseidon in post-quantum plan\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum Foundation pivots away from Poseidon in post-quantum plan\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-eth-20-p",
+      "impact": {}
+    },
+    {
+      "event_id": "5530b2ac-5665-4d18-bb73-c3edc1ca9ff6",
+      "source": "rss:coindesk",
+      "title": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
+      "url": "https://www.coindesk.com/policy/2026/08/13/u-s-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-white-house-concerns",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-13T23:09:14+00:00",
+      "raw_text": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
+      "impact": {}
+    },
     {
       "event_id": "63a07347-48e5-4635-8142-4d20e3f3ced2",
       "source": "rss:decrypt",
@@ -6376,50 +6400,26 @@
         "t_plus_1h": -0.0509,
         "t_plus_4h": 0.8043
       }
-    },
-    {
-      "event_id": "4e91e130-615b-41d3-adb6-dacdfe290c45",
-      "source": "rss:cointelegraph",
-      "title": "Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams",
-      "url": "https://cointelegraph.com/news/japan-fsa-crypto-exchanges-withdrawal-delays-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T05:24:38+00:00",
-      "raw_text": "Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-co",
-      "impact": {}
-    },
-    {
-      "event_id": "3b486203-4aaa-41a7-9c31-aa1596a9aaf7",
-      "source": "rss:cointelegraph",
-      "title": "Proposed CLARITY ethics deal could save Trump millions in taxes: Bloomberg",
-      "url": "https://cointelegraph.com/news/proposed-clarity-ethics-deal-could-save-trump-millions-in-taxes-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T05:04:22+00:00",
-      "raw_text": "Proposed CLARITY ethics deal could save Trump millions in taxes: Bloomberg\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Proposed CLARITY ethics deal could save Trump millions in taxes: Bloomberg\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-co",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 140,
-        "avg_1h": -0.18,
-        "avg_24h": -0.7,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 109,
-        "avg_1h": 0.01,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
         "count": 185,
         "avg_1h": -0.05,
         "avg_24h": 0.91,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 110,
+        "avg_1h": 0.01,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 139,
+        "avg_1h": -0.18,
+        "avg_24h": -0.7,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
