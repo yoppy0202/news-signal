@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-08-14T20:40:50.675654+00:00",
+  "generated_at": "2026-08-14T21:35:53.630023+00:00",
   "events": [
+    {
+      "event_id": "b745a6d3-2da9-4c28-a96f-105a10acde78",
+      "source": "rss:theblock",
+      "title": "OCC grants conditional approval for Trump-backed World Liberty National Trust bank",
+      "url": "https://www.theblock.co/news/regulation/2026-08-14-occ-grants-conditional-approval-trump-world-liberty-national-trust-bank-411906",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-14T21:19:39+00:00",
+      "raw_text": "OCC grants conditional approval for Trump-backed World Liberty National Trust bank\n\nPresident Donald Trump-backed World Liberty Financial secured preliminary approval to become a national trust bank on Friday.",
+      "impact": {}
+    },
+    {
+      "event_id": "80a02526-b91f-4a9e-a4f7-b19ffa8f8d6b",
+      "source": "rss:bitcoinmagazine",
+      "title": "Abu Dhabi Sovereign Wealth Funds Keep Big Bitcoin Positions",
+      "url": "https://bitcoinmagazine.com/news/abu-dhabi-funds-keep-big-bitcoin-positions",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-14T21:17:12+00:00",
+      "raw_text": "Abu Dhabi Sovereign Wealth Funds Keep Big Bitcoin Positions\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Abu-Dhabis-Mubadala-Raises-Bitcoin-ETF-Stake-16-to-566-Million-in-Q1-2026.jpg\" style=\"displ",
+      "impact": {}
+    },
+    {
+      "event_id": "00ea2d4f-81e2-40e8-9184-fccea2cc6daf",
+      "source": "rss:cointelegraph",
+      "title": "Ireland plans industry standards for illicit crypto use",
+      "url": "https://cointelegraph.com/news/ireland-industry-standards-crypto-gambling-aml?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-14T21:08:52+00:00",
+      "raw_text": "Ireland plans industry standards for illicit crypto use\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ireland plans industry standards for illicit crypto use\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/irish-dance-crypto.jpg\" /></p><p>",
+      "impact": {}
+    },
+    {
+      "event_id": "9322ca22-ee9c-42e2-b0e5-ecd80327b867",
+      "source": "rss:coindesk",
+      "title": "Trump-backed World Liberty wins conditional bank charter from federal regulator",
+      "url": "https://www.coindesk.com/policy/2026/08/14/trump-backed-world-liberty-wins-conditional-bank-charter-from-federal-regulator",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-14T21:05:23+00:00",
+      "raw_text": "Trump-backed World Liberty wins conditional bank charter from federal regulator",
+      "impact": {}
+    },
+    {
+      "event_id": "3003e3b4-a76b-4cfc-9c4a-b648de11088c",
+      "source": "rss:decrypt",
+      "title": "France Tax Data Leak Could Fuel Scams, Attacks Targeting Bitcoin Holders",
+      "url": "https://decrypt.co/375715/france-tax-data-leak-wrench-attacks-bitcoin",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-14T21:03:35+00:00",
+      "raw_text": "France Tax Data Leak Could Fuel Scams, Attacks Targeting Bitcoin Holders\n\nA hacker is reportedly selling personal and financial records tied to more than 678,000 taxpayers and businesses in France.",
+      "impact": {}
+    },
+    {
+      "event_id": "b4ff6d9a-06ee-444c-85b3-82726c7eb170",
+      "source": "rss:bitcoinmagazine",
+      "title": "Bitcoiners Warned After French Tax Authority Confirms Data Breach Affecting Hundreds of Thousands",
+      "url": "https://bitcoinmagazine.com/news/bitcoiners-warned-of-wrench-attacks",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-14T20:42:48+00:00",
+      "raw_text": "Bitcoiners Warned After French Tax Authority Confirms Data Breach Affecting Hundreds of Thousands\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoiners-Warned-After-French-Tax-Authority-Confirms",
+      "impact": {}
+    },
     {
       "event_id": "23b8ab22-ddbb-41b8-8fdd-1f584cb7f944",
       "source": "rss:bitcoinmagazine",
@@ -214,7 +286,8 @@
       "impact": {
         "t_plus_5m": 0.005,
         "t_plus_15m": 0.1188,
-        "t_plus_1h": 0.1782
+        "t_plus_1h": 0.1782,
+        "t_plus_4h": -0.2165
       }
     },
     {
@@ -6327,85 +6400,25 @@
       "timestamp_utc": "2026-08-07T21:13:21+00:00",
       "raw_text": "Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal",
       "impact": {}
-    },
-    {
-      "event_id": "48b57503-ddd2-4a7b-aad7-4d21cfaf0f74",
-      "source": "rss:decrypt",
-      "title": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures",
-      "url": "https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T21:05:59+00:00",
-      "raw_text": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures\n\nTruth Social's parent company is unwinding two major Crypto.com deals as new leadership shifts its focus to media, data licensing, and a planned merger with fusion energy company TAE.",
-      "impact": {}
-    },
-    {
-      "event_id": "6b18340b-4059-454e-bed0-4f3d354b798a",
-      "source": "rss:theblock",
-      "title": "Trump Media and Crypto.com end partnerships as companies shift priorities",
-      "url": "https://www.theblock.co/news/deals/2026-08-07-trump-media-crypto-com-end-partnerships-as-companies-shifts-priorities-411198",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T21:01:36+00:00",
-      "raw_text": "Trump Media and Crypto.com end partnerships as companies shift priorities\n\nThis ends plans Trump Media, Crypto.com and Yorkville Acquisition Corp. had to turn Yorkville into a CRO treasury company.\n\nThis ends plans Trump Media, Crypto.com and Yorkville Acquisition Corp. had to turn Yorkville into a ",
-      "impact": {}
-    },
-    {
-      "event_id": "b31d79ea-7629-43dd-b262-c690266efe96",
-      "source": "rss:theblock",
-      "title": "Trump Media and Crypto.com end partnerships as companies shift priorities",
-      "url": "https://www.theblock.co/news/deals/2026-08-07-trump-media-crypto-com-end-partnerships-as-companies-shifts-priorities-411198?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T21:01:36+00:00",
-      "raw_text": "Trump Media and Crypto.com end partnerships as companies shift priorities\n\n<p>This ends plans Trump Media, Crypto.com and Yorkville Acquisition Corp. had to turn Yorkville into a CRO treasury company.</p>\n\n<p>This ends plans Trump Media, Crypto.com and Yorkville Acquisition Corp. had to turn Yorkvil",
-      "impact": {}
-    },
-    {
-      "event_id": "da5bf305-b3d3-4ae3-900d-6ae9c1c9a069",
-      "source": "rss:theblock",
-      "title": "Trump Media and Crypto.com end partnerships as companies shifts priorities",
-      "url": "https://www.theblock.co/news/deals/2026-08-07-trump-media-crypto-com-end-partnerships-as-companies-shifts-priorities-411198?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T21:01:36+00:00",
-      "raw_text": "Trump Media and Crypto.com end partnerships as companies shifts priorities\n\n<p>This ends plans Trump Media, Crypto.com and Yorkville Acquisition Corp. had to turn Yorkville into a CRO treasury company.</p>\n\n<p>This ends plans Trump Media, Crypto.com and Yorkville Acquisition Corp. had to turn Yorkvi",
-      "impact": {}
-    },
-    {
-      "event_id": "bd9e422e-3fb7-4d84-ac14-89e9b3e0f914",
-      "source": "rss:bitcoinmagazine",
-      "title": "Senators Cynthia Lummis and Angela Alsobrooks Say Bipartisan Work on Clarity Act Continues Despite Delays",
-      "url": "https://bitcoinmagazine.com/news/lummis-alsobrooks-work-on-clarity-act",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T20:42:33+00:00",
-      "raw_text": "Senators Cynthia Lummis and Angela Alsobrooks Say Bipartisan Work on Clarity Act Continues Despite Delays\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Senators-Cynthia-Lummis-and-Angela-Alsobrooks",
-      "impact": {}
-    },
-    {
-      "event_id": "6041465d-9a2d-4828-b00a-63d3e57fab8d",
-      "source": "rss:decrypt",
-      "title": "Treasury Sanctions Crypto Exchanges It Says Laundered Millions for Iran",
-      "url": "https://decrypt.co/375163/treasury-sanctions-crypto-exchanges-laundered-millions-iran",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T20:28:33+00:00",
-      "raw_text": "Treasury Sanctions Crypto Exchanges It Says Laundered Millions for Iran\n\nThe U.S. Treasury sanctioned two crypto exchanges it says laundered millions of dollars for Iran's Revolutionary Guard, naming a Georgia- and UAE-based operator and an Iran-based platform.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "macro": {
-        "count": 115,
+        "count": 117,
         "avg_1h": -0.01,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 188,
+        "avg_1h": -0.04,
+        "avg_24h": -0.04,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 55,
+        "avg_1h": -0.04,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6413,18 +6426,6 @@
         "count": 134,
         "avg_1h": -0.15,
         "avg_24h": -0.79,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 192,
-        "avg_1h": -0.04,
-        "avg_24h": -0.04,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 53,
-        "avg_1h": -0.04,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
