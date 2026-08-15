@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-15T21:31:24.584431+00:00",
+  "generated_at": "2026-08-15T22:34:00.161781+00:00",
   "events": [
+    {
+      "event_id": "55e9c353-8e30-4240-ae20-1a75575d50db",
+      "source": "rss:theblock",
+      "title": "JPMorgan cut Polymarket’s banking ties in October but still wants a role in a potential IPO: FT",
+      "url": "https://www.theblock.co/news/business/2026-08-15-jpmorgan-cut-polymarkets-banking-ties-in-october-but-still-wants-a-role-in-a-potential-ipo-ft-411929",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-15T21:51:41+00:00",
+      "raw_text": "JPMorgan cut Polymarket’s banking ties in October but still wants a role in a potential IPO: FT\n\nPolymarket has moved its accounts to a lender the report could not identify but says it still maintains a \"close, active relationship\" with JPMorgan.",
+      "impact": {}
+    },
     {
       "event_id": "32768f0a-cec7-4523-b2ae-1b9b29c11894",
       "source": "rss:cointelegraph",
@@ -6378,36 +6390,24 @@
       "timestamp_utc": "2026-08-08T17:31:03+00:00",
       "raw_text": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects\n\nA volunteer security effort says it has scanned 150 Bitcoin repositories, disclosed more than a dozen vulnerabilities, and is building an open-source AI platform to automate software security reviews.",
       "impact": {}
-    },
-    {
-      "event_id": "0f847ec9-86f7-475a-8e83-e5ed6ad9b28e",
-      "source": "rss:theblock",
-      "title": "Majority Leader Thune files cloture on Clarity Act, setting up Sept. 15 Senate vote",
-      "url": "https://www.theblock.co/news/regulation/2026-08-08-majority-leader-thune-files-cloture-on-clarity-act-setting-up-sept-15-senate-vote-411211",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-08T17:27:45+00:00",
-      "raw_text": "Majority Leader Thune files cloture on Clarity Act, setting up Sept. 15 Senate vote\n\nThe Senate is set to vote on the motion on Tuesday, Sept. 15, the day after the body returns, though at least seven non-Republicans will need to support it.\n\nThe Senate is set to vote on the motion on Tuesday, Sept.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 138,
+        "avg_1h": -0.15,
+        "avg_24h": -0.53,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 121,
         "avg_1h": -0.01,
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 137,
-        "avg_1h": -0.15,
-        "avg_24h": -0.53,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 186,
+        "count": 185,
         "avg_1h": -0.06,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
