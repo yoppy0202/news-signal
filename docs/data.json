@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-15T17:31:55.719585+00:00",
+  "generated_at": "2026-08-15T18:43:57.927306+00:00",
   "events": [
+    {
+      "event_id": "1b0e243e-3df5-4eac-a9eb-0a86637d1c74",
+      "source": "rss:theblock",
+      "title": "Harvard leaves bitcoin ETF stake untouched in Q2 after cutting it 43% in the prior quarter",
+      "url": "https://www.theblock.co/news/markets/2026-08-15-harvard-leaves-bitcoin-etf-stake-untouched-in-q2-after-cutting-it-43-in-the-prior-quarter-411926",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-15T18:37:59+00:00",
+      "raw_text": "Harvard leaves bitcoin ETF stake untouched in Q2 after cutting it 43% in the prior quarter\n\nUAE-based Mubadala Investment Company and the Abu Dhabi Investment Council also retained their combined 22.9 million IBIT shares.",
+      "impact": {}
+    },
+    {
+      "event_id": "0b0096e6-dae6-4075-9736-68eb50cf08ef",
+      "source": "rss:cointelegraph",
+      "title": "Tokenized stock holders more than double as monthly volume surges",
+      "url": "https://cointelegraph.com/news/tokenized-stock-holders-double-to-13m-as-activity-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-15T17:26:43+00:00",
+      "raw_text": "Tokenized stock holders more than double as monthly volume surges\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tokenized stock holders more than double as monthly volume surges\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/blockchain-wa",
+      "impact": {}
+    },
     {
       "event_id": "2476b00c-e929-4910-b616-3a0b897e1a0b",
       "source": "rss:decrypt",
@@ -449,7 +473,8 @@
         "t_plus_5m": 0.0262,
         "t_plus_15m": -0.0794,
         "t_plus_1h": -0.219,
-        "t_plus_4h": -0.4421
+        "t_plus_4h": -0.4421,
+        "t_plus_24h": -0.1297
       }
     },
     {
@@ -6365,50 +6390,26 @@
       "timestamp_utc": "2026-08-08T17:27:45+00:00",
       "raw_text": "Majority Leader Thune files cloture on Clarity Act, setting up Sept. 15 Senate vote\n\n<p>The Senate is set to vote on the motion on Tuesday, Sept. 15, the day after the body returns, though at least seven non-Republicans will need to support it. </p>\n\n<p>The Senate is set to vote on the motion on Tue",
       "impact": {}
-    },
-    {
-      "event_id": "6b167d29-8968-4194-acd5-80a3b4494b46",
-      "source": "rss:decrypt",
-      "title": "Senate Keeps Clarity Act Alive With Crypto Bill Vote Set for September",
-      "url": "https://decrypt.co/375174/senate-keeps-clarity-act-alive-with-crypto-bill-vote-set-for-september",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-08T16:33:02+00:00",
-      "raw_text": "Senate Keeps Clarity Act Alive With Crypto Bill Vote Set for September\n\nSenate Majority Leader John Thune filed the motion to proceed early Saturday, setting up a mid-September showdown.",
-      "impact": {}
-    },
-    {
-      "event_id": "4dbd63d0-a8b9-44a9-95a1-f4b6e4e97d45",
-      "source": "rss:cointelegraph",
-      "title": "US spot Bitcoin ETFs post best week since April with $1B inflows",
-      "url": "https://cointelegraph.com/news/us-bitcoin-etfs-best-weekly-inflows-april-coldcard-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-08T16:20:17+00:00",
-      "raw_text": "US spot Bitcoin ETFs post best week since April with $1B inflows\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US spot Bitcoin ETFs post best week since April with $1B inflows\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-part-2-where",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 120,
+        "avg_1h": -0.01,
+        "avg_24h": 0.47,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 136,
+        "count": 137,
         "avg_1h": -0.15,
         "avg_24h": -0.53,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 188,
+        "count": 187,
         "avg_1h": -0.06,
         "avg_24h": 0.14,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 120,
-        "avg_1h": -0.01,
-        "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
@@ -6420,7 +6421,7 @@
       "listing": {
         "count": 5,
         "avg_1h": -0.17,
-        "avg_24h": null,
+        "avg_24h": -0.13,
         "win_rate_1h_gt5pct": 0.0
       }
     }
