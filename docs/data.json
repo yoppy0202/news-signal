@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-15T14:34:51.232738+00:00",
+  "generated_at": "2026-08-15T15:31:43.717875+00:00",
   "events": [
+    {
+      "event_id": "c4c02fe5-4c98-4aff-b517-ed9877360755",
+      "source": "rss:coindesk",
+      "title": "Paul Tudor Jones’ investment firm increases stake in BlackRock's bitcoin ETF after year of selling",
+      "url": "https://www.coindesk.com/business/2026/08/15/paul-tudor-jones-investment-firm-increases-blackrock-s-bitcoin-etf-stake-after-year-of-selling",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-15T15:12:29+00:00",
+      "raw_text": "Paul Tudor Jones’ investment firm increases stake in BlackRock's bitcoin ETF after year of selling",
+      "impact": {}
+    },
+    {
+      "event_id": "f9e87797-2a4f-471d-85a2-2ad538eefd18",
+      "source": "rss:decrypt",
+      "title": "Meta Patents Cameras That Recognize Faces and Log Your Actions",
+      "url": "https://decrypt.co/375698/meta-patents-cameras-recognize-faces-log-actions",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-15T15:01:05+00:00",
+      "raw_text": "Meta Patents Cameras That Recognize Faces and Log Your Actions\n\nThe filing would turn raw footage into labeled clips of who did what, without anyone opting in.",
+      "impact": {}
+    },
     {
       "event_id": "7ea7cf5c-4338-4ba3-aeb6-dc4f0ad1435c",
       "source": "rss:coindesk",
@@ -566,7 +590,8 @@
         "t_plus_5m": -0.2322,
         "t_plus_15m": -0.2529,
         "t_plus_1h": -0.1403,
-        "t_plus_4h": 0.4273
+        "t_plus_4h": 0.4273,
+        "t_plus_24h": 0.471
       }
     },
     {
@@ -6362,34 +6387,16 @@
       "timestamp_utc": "2026-08-08T14:01:05+00:00",
       "raw_text": "Robinhood Crypto Chief Explains Why There Are 'Two Wolves' Inside Robinhood Chain\n\n“We want to show customers that we care about what they care about,\" Robinhood head of crypto Johann Kerbrat told Decrypt.",
       "impact": {}
-    },
-    {
-      "event_id": "9e4046a4-8dd7-4ebc-b263-06d6ca6ad9e0",
-      "source": "rss:coindesk",
-      "title": "Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan",
-      "url": "https://www.coindesk.com/business/2026/08/08/trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwise-s-matt-hougan",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-08T14:00:00+00:00",
-      "raw_text": "Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan",
-      "impact": {}
-    },
-    {
-      "event_id": "440d6b90-205a-41b5-a8a9-30beeb46b3bc",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin will never fall below $60K again: Nansen founder",
-      "url": "https://cointelegraph.com/magazine/bitcoin-will-never-fall-below-60k-again-nansen-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-08T13:30:00+00:00",
-      "raw_text": "Bitcoin will never fall below $60K again: Nansen founder\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin will never fall below $60K again: Nansen founder\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/alex-svanevik-interview.jpg\" />",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 119,
+        "avg_1h": -0.01,
+        "avg_24h": 0.47,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 188,
         "avg_1h": -0.06,
@@ -6397,15 +6404,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 136,
+        "count": 135,
         "avg_1h": -0.15,
         "avg_24h": -0.79,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 118,
-        "avg_1h": -0.01,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
