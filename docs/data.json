@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-15T16:36:30.552313+00:00",
+  "generated_at": "2026-08-15T17:31:55.719585+00:00",
   "events": [
+    {
+      "event_id": "2476b00c-e929-4910-b616-3a0b897e1a0b",
+      "source": "rss:decrypt",
+      "title": "Apple Turns to Alibaba to Help Build AI Model for China",
+      "url": "https://decrypt.co/375724/apple-alibaba-build-ai-model-china",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-15T17:01:03+00:00",
+      "raw_text": "Apple Turns to Alibaba to Help Build AI Model for China\n\nApple is pairing its in-house model with Alibaba’s Qwen as it prepares to bring Apple Intelligence to Chinese iPhones.",
+      "impact": {}
+    },
     {
       "event_id": "136ad776-e303-42a6-9ade-054b9452eea6",
       "source": "rss:coindesk",
@@ -492,7 +504,8 @@
         "t_plus_5m": 0.005,
         "t_plus_15m": 0.1188,
         "t_plus_1h": 0.1782,
-        "t_plus_4h": -0.2165
+        "t_plus_4h": -0.2165,
+        "t_plus_24h": -0.0141
       }
     },
     {
@@ -535,7 +548,8 @@
         "t_plus_5m": -0.3623,
         "t_plus_15m": -0.2035,
         "t_plus_1h": 0.005,
-        "t_plus_4h": -0.3016
+        "t_plus_4h": -0.3016,
+        "t_plus_24h": -0.1084
       }
     },
     {
@@ -6375,24 +6389,18 @@
       "timestamp_utc": "2026-08-08T16:20:17+00:00",
       "raw_text": "US spot Bitcoin ETFs post best week since April with $1B inflows\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US spot Bitcoin ETFs post best week since April with $1B inflows\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-part-2-where",
       "impact": {}
-    },
-    {
-      "event_id": "5da9d2d5-c1a7-4fa3-9503-7df7d2f15b5f",
-      "source": "rss:coindesk",
-      "title": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
-      "url": "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-08T15:25:38+00:00",
-      "raw_text": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 136,
+        "avg_1h": -0.15,
+        "avg_24h": -0.53,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 189,
+        "count": 188,
         "avg_1h": -0.06,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
@@ -6403,16 +6411,10 @@
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 135,
-        "avg_1h": -0.15,
-        "avg_24h": -0.79,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
         "count": 51,
         "avg_1h": -0.04,
-        "avg_24h": null,
+        "avg_24h": -0.11,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
