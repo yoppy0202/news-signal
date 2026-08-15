@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-15T08:42:05.530716+00:00",
+  "generated_at": "2026-08-15T09:35:49.776776+00:00",
   "events": [
+    {
+      "event_id": "3ce608d1-4950-41e8-af59-02f5f947faab",
+      "source": "rss:cointelegraph",
+      "title": "Galaxy lowers CLARITY Act odds to 10%",
+      "url": "https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-15T08:40:59+00:00",
+      "raw_text": "Galaxy lowers CLARITY Act odds to 10%\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Galaxy lowers CLARITY Act odds to 10%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-us-senate-infrastructure-bill-doom-and-gloom-for-memecoin-trump.jp",
+      "impact": {}
+    },
     {
       "event_id": "8a7fd53f-2fd7-4ace-b678-eeda5787efd2",
       "source": "rss:coindesk",
@@ -6389,24 +6401,18 @@
         "t_plus_4h": 0.0648,
         "t_plus_24h": -0.116
       }
-    },
-    {
-      "event_id": "3e0be54d-8f12-4be2-80da-091e4c42ef88",
-      "source": "rss:cointelegraph",
-      "title": "President Trump’s media company to terminate Crypto.com deal",
-      "url": "https://cointelegraph.com/news/donald-trump-media-company-crypto-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-07T21:39:36+00:00",
-      "raw_text": "President Trump’s media company to terminate Crypto.com deal\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"President Trump’s media company to terminate Crypto.com deal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-tmtg-wallet.jpg\" /><",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 135,
+        "avg_1h": -0.15,
+        "avg_24h": -0.79,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 187,
+        "count": 186,
         "avg_1h": -0.04,
         "avg_24h": -0.04,
         "win_rate_1h_gt5pct": 0.0
@@ -6421,12 +6427,6 @@
         "count": 55,
         "avg_1h": -0.04,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 134,
-        "avg_1h": -0.15,
-        "avg_24h": -0.79,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
