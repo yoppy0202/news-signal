@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-15T19:29:58.179817+00:00",
+  "generated_at": "2026-08-15T20:34:37.069550+00:00",
   "events": [
+    {
+      "event_id": "32768f0a-cec7-4523-b2ae-1b9b29c11894",
+      "source": "rss:cointelegraph",
+      "title": "Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup",
+      "url": "https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-15T19:27:29+00:00",
+      "raw_text": "Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bond-follow-up-bybit",
+      "impact": {}
+    },
     {
       "event_id": "bb9efbb1-70a0-4f98-a3cb-d652afdcbdb0",
       "source": "rss:theblock",
@@ -6378,24 +6390,12 @@
       "timestamp_utc": "2026-08-08T17:27:45+00:00",
       "raw_text": "Majority Leader Thune files cloture on Clarity Act, setting up Sept. 15 Senate vote\n\nThe Senate is set to vote on the motion on Tuesday, Sept. 15, the day after the body returns, though at least seven non-Republicans will need to support it.\n\nThe Senate is set to vote on the motion on Tuesday, Sept.",
       "impact": {}
-    },
-    {
-      "event_id": "99750184-2597-418b-820c-c6e7c9681556",
-      "source": "rss:theblock",
-      "title": "Majority Leader Thune files cloture on Clarity Act, setting up Sept. 15 Senate vote",
-      "url": "https://www.theblock.co/news/regulation/2026-08-08-majority-leader-thune-files-cloture-on-clarity-act-setting-up-sept-15-senate-vote-411211?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-08T17:27:45+00:00",
-      "raw_text": "Majority Leader Thune files cloture on Clarity Act, setting up Sept. 15 Senate vote\n\n<p>The Senate is set to vote on the motion on Tuesday, Sept. 15, the day after the body returns, though at least seven non-Republicans will need to support it. </p>\n\n<p>The Senate is set to vote on the motion on Tue",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "macro": {
-        "count": 120,
+        "count": 121,
         "avg_1h": -0.01,
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
@@ -6407,7 +6407,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 187,
+        "count": 186,
         "avg_1h": -0.06,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
