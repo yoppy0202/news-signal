@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-15T12:55:38.094799+00:00",
+  "generated_at": "2026-08-15T13:38:23.949762+00:00",
   "events": [
+    {
+      "event_id": "172d45be-a0c6-4537-ab72-b7a4e2a31b60",
+      "source": "rss:decrypt",
+      "title": "Trump-Linked World Liberty Gets Conditional Bank Charter for USD1 Stablecoin",
+      "url": "https://decrypt.co/375726/trump-world-liberty-bank-charter-usd1-stablecoin",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-15T13:01:04+00:00",
+      "raw_text": "Trump-Linked World Liberty Gets Conditional Bank Charter for USD1 Stablecoin\n\nThe proposed World Liberty Trust Company would take over issuance of the USD1 stablecoin from BitGo.",
+      "impact": {}
+    },
+    {
+      "event_id": "44594ac7-945a-4ded-963a-1120cf4c15c8",
+      "source": "rss:coindesk",
+      "title": "Clarity survives (barely), Strategy sells and the untold story of Mastercard's $1.8 billion deal: Crypto's week in 5 stories",
+      "url": "https://www.coindesk.com/business/2026/08/15/clarity-survives-barely-strategy-sells-and-the-untold-story-of-mastercard-s-usd1-8-billion-deal-crypto-s-week-in-5-stories",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-15T13:00:00+00:00",
+      "raw_text": "Clarity survives (barely), Strategy sells and the untold story of Mastercard's $1.8 billion deal: Crypto's week in 5 stories",
+      "impact": {}
+    },
+    {
+      "event_id": "e5c0590d-f8cf-4086-9aa3-806987936b29",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin could bottom in October, altcoins are ‘basically dead,’ Swan CEO says",
+      "url": "https://cointelegraph.com/markets/bitcoin-bottom-october-altcoins-basically-dead-swan-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-15T12:57:58+00:00",
+      "raw_text": "Bitcoin could bottom in October, altcoins are ‘basically dead,’ Swan CEO says\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin could bottom in October, altcoins are ‘basically dead,’ Swan CEO says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti",
+      "impact": {}
+    },
     {
       "event_id": "1d15cf38-b3ec-4135-9aa5-dc36c12acade",
       "source": "rss:coindesk",
@@ -6349,56 +6385,20 @@
       "timestamp_utc": "2026-08-08T09:07:24+00:00",
       "raw_text": "U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month",
       "impact": {}
-    },
-    {
-      "event_id": "9f679b2f-df62-46ad-88fb-7ce0b3f8ddfd",
-      "source": "rss:coindesk",
-      "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
-      "url": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-08T07:46:04+00:00",
-      "raw_text": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
-      "impact": {}
-    },
-    {
-      "event_id": "6e571d1a-aa78-4670-bc99-0d2d3ca78d12",
-      "source": "rss:cointelegraph",
-      "title": "Domestic stablecoins could boost demand for dollar-backed tokens: IMF",
-      "url": "https://cointelegraph.com/news/imf-domestic-stablecoins-dollar-token-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-08T06:21:08+00:00",
-      "raw_text": "Domestic stablecoins could boost demand for dollar-backed tokens: IMF\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Domestic stablecoins could boost demand for dollar-backed tokens: IMF\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-im",
-      "impact": {}
-    },
-    {
-      "event_id": "2ddf8f1c-1a67-4ae7-b6b2-31a7759f5930",
-      "source": "rss:cointelegraph",
-      "title": "US court backs Bybit’s bid to trace funds from $1.5B North Korea hack",
-      "url": "https://cointelegraph.com/news/bybit-us-court-trace-funds-north-korea-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-08T04:11:53+00:00",
-      "raw_text": "US court backs Bybit’s bid to trace funds from $1.5B North Korea hack\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US court backs Bybit’s bid to trace funds from $1.5B North Korea hack \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-t",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 187,
+        "avg_1h": -0.06,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 136,
         "avg_1h": -0.15,
         "avg_24h": -0.79,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 185,
-        "avg_1h": -0.06,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
@@ -6408,7 +6408,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 55,
+        "count": 53,
         "avg_1h": -0.04,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
