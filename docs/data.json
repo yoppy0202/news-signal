@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-15T10:34:53.971507+00:00",
+  "generated_at": "2026-08-15T11:30:41.755539+00:00",
   "events": [
+    {
+      "event_id": "90c21352-5e04-4740-a515-f887e7eb9af7",
+      "source": "rss:cointelegraph",
+      "title": "Kalshi ordered to stop broad range of prediction markets in Washington",
+      "url": "https://cointelegraph.com/news/kalshi-stop-prediction-market-contracts-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-15T10:44:52+00:00",
+      "raw_text": "Kalshi ordered to stop broad range of prediction markets in Washington\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi ordered to stop broad range of prediction markets in Washington\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-",
+      "impact": {}
+    },
     {
       "event_id": "3ce608d1-4950-41e8-af59-02f5f947faab",
       "source": "rss:cointelegraph",
@@ -6381,40 +6393,20 @@
         "t_plus_4h": 0.0082,
         "t_plus_24h": 0.0457
       }
-    },
-    {
-      "event_id": "9d8c92a2-beef-4756-aba3-c79d9a2b0328",
-      "source": "rss:coindesk",
-      "title": "Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer",
-      "url": "https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-08T02:30:00+00:00",
-      "raw_text": "Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer",
-      "impact": {
-        "t_plus_5m": -0.0155,
-        "t_plus_15m": -0.0181,
-        "t_plus_1h": 0.1465,
-        "t_plus_4h": 0.0648,
-        "t_plus_24h": -0.116
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 186,
+        "avg_1h": -0.05,
+        "avg_24h": 0.05,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 135,
         "avg_1h": -0.15,
         "avg_24h": -0.79,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 186,
-        "avg_1h": -0.04,
-        "avg_24h": -0.04,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
