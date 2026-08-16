@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-16T12:57:04.192472+00:00",
+  "generated_at": "2026-08-16T13:39:59.257016+00:00",
   "events": [
+    {
+      "event_id": "c0fb9386-1d3f-460e-bee8-5b1e462a5d6a",
+      "source": "rss:coindesk",
+      "title": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
+      "url": "https://www.coindesk.com/news-analysis/2026/08/14/the-stablecoin-yield-clash-that-won-t-go-away-has-banks-crypto-battling-over-tradition",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-16T13:00:00+00:00",
+      "raw_text": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
+      "impact": {}
+    },
+    {
+      "event_id": "2886f3d5-d8ac-4648-8b0e-b347a0066060",
+      "source": "rss:cointelegraph",
+      "title": "DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says",
+      "url": "https://cointelegraph.com/news/defillama-delayed-app-launch-fake-phishing-apps-apple?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-16T12:48:09+00:00",
+      "raw_text": "DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/",
+      "impact": {}
+    },
     {
       "event_id": "de4f474c-6101-44d8-a006-9dcf17f3bcbe",
       "source": "rss:coindesk",
@@ -6366,30 +6390,6 @@
       "timestamp_utc": "2026-08-08T22:05:44+00:00",
       "raw_text": "Bitcoin’s BIP-110 supporters split onto minority chain as main network pulls ahead\n\n<p>BIP-110 is a proposed one-year change that limits non-financial data on Bitcoin and has sparked a debate over how Bitcoin's block space should be used.</p>\n\n<p>BIP-110 is a proposed one-year change that limits non",
       "impact": {}
-    },
-    {
-      "event_id": "3ebd6bdf-a552-4fec-8871-7d14d8ba0004",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%",
-      "url": "https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-08T21:17:08+00:00",
-      "raw_text": "Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
-      "impact": {}
-    },
-    {
-      "event_id": "30a58c04-1f91-4dc3-81a3-586fbbe0e3e0",
-      "source": "rss:coindesk",
-      "title": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
-      "url": "https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-08T20:06:47+00:00",
-      "raw_text": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
-      "impact": {}
     }
   ],
   "stats": {
@@ -6400,8 +6400,14 @@
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
+      "hack": {
+        "count": 51,
+        "avg_1h": -0.04,
+        "avg_24h": -0.11,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 139,
+        "count": 138,
         "avg_1h": -0.15,
         "avg_24h": -0.53,
         "win_rate_1h_gt5pct": 0.0
@@ -6410,12 +6416,6 @@
         "count": 121,
         "avg_1h": -0.01,
         "avg_24h": 0.47,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 50,
-        "avg_1h": -0.04,
-        "avg_24h": -0.11,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
