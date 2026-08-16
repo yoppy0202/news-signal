@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-08-16T16:37:32.855750+00:00",
+  "generated_at": "2026-08-16T17:30:33.212818+00:00",
   "events": [
     {
-      "event_id": "88f8adba-e98b-4796-a8d3-a6fce73551f8",
+      "event_id": "07c6d86d-646f-4397-b0d9-c44cc27617ad",
+      "source": "rss:theblock",
+      "title": "Wallet provider SafePal says data breach exposed personal info of nearly 40,000 customers",
+      "url": "https://www.theblock.co/news/business/2026-08-16-wallet-provider-safepal-says-data-breach-exposed-personal-info-of-nearly-40000-customers-411934",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-16T17:18:38+00:00",
+      "raw_text": "Wallet provider SafePal says data breach exposed personal info of nearly 40,000 customers\n\nSafePal said it found the root cause of the breach recently, though customers had posted online about being targeted by phishing attempts as early as July.",
+      "impact": {}
+    },
+    {
+      "event_id": "f500a1e8-ba61-4aa3-aa3a-489f2c4354c2",
       "source": "rss:decrypt",
       "title": "Gemini 3.7 Flash Review: Google's Cheap Model Isn’t Dumb Anymore",
       "url": "https://decrypt.co/375730/gemini-3-7-flash-review-google-cheap-model",
@@ -14,7 +26,7 @@
       "impact": {}
     },
     {
-      "event_id": "f4a12da4-d09a-4db7-aab0-cdb3cb678838",
+      "event_id": "16101719-7124-4fd0-b6b5-fbabc58de8e6",
       "source": "rss:coindesk",
       "title": "Crypto investors are looking past market-cap rankings and back to fundamentals",
       "url": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals",
@@ -6378,24 +6390,18 @@
       "timestamp_utc": "2026-08-09T14:19:35+00:00",
       "raw_text": "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk",
       "impact": {}
-    },
-    {
-      "event_id": "dfec2d9d-ece5-4828-9d44-d3cda356b48d",
-      "source": "rss:coindesk",
-      "title": "Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026",
-      "url": "https://www.coindesk.com/business/2026/08/09/crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fold-in-2026",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-09T13:00:00+00:00",
-      "raw_text": "Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 136,
+        "avg_1h": -0.15,
+        "avg_24h": -0.53,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 188,
+        "count": 187,
         "avg_1h": -0.06,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
@@ -6404,12 +6410,6 @@
         "count": 51,
         "avg_1h": -0.04,
         "avg_24h": -0.11,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 135,
-        "avg_1h": -0.15,
-        "avg_24h": -0.53,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
