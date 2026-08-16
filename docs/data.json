@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-16T13:39:59.257016+00:00",
+  "generated_at": "2026-08-16T14:34:48.365992+00:00",
   "events": [
+    {
+      "event_id": "8867dceb-d5d9-473d-b9ab-800a0e6c2462",
+      "source": "rss:coindesk",
+      "title": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
+      "url": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-16T14:02:32+00:00",
+      "raw_text": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
+      "impact": {}
+    },
+    {
+      "event_id": "1bb7dc16-6c20-474a-9da5-30ae8794f8c5",
+      "source": "rss:decrypt",
+      "title": "People Are Turning to AI for Mental Health, California Wants It Banned",
+      "url": "https://decrypt.co/375725/california-bill-ban-ai-chatbots-therapy-mental-health",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-16T14:01:03+00:00",
+      "raw_text": "People Are Turning to AI for Mental Health, California Wants It Banned\n\nA California bill is awaiting an Assembly vote to \"place guardrails\" around AI chatbots and prevent them from acting as therapists.",
+      "impact": {}
+    },
+    {
+      "event_id": "38c91627-0e4e-4984-be45-3365936e375a",
+      "source": "rss:coindesk",
+      "title": "MiCA's cleanup is creating a new scam wave across the European Union",
+      "url": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-16T14:00:00+00:00",
+      "raw_text": "MiCA's cleanup is creating a new scam wave across the European Union",
+      "impact": {}
+    },
     {
       "event_id": "c0fb9386-1d3f-460e-bee8-5b1e462a5d6a",
       "source": "rss:coindesk",
@@ -6354,62 +6390,26 @@
       "timestamp_utc": "2026-08-09T05:46:07+00:00",
       "raw_text": "BTCPay restricts remote Lightning access after attackers steal funds\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BTCPay restricts remote Lightning access after attackers steal funds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/thief-b",
       "impact": {}
-    },
-    {
-      "event_id": "b1403b54-0749-49cf-8e02-1f314928e177",
-      "source": "rss:coindesk",
-      "title": "Controversial Bitcoin fork BIP-110 mines two blocks, then stops",
-      "url": "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-09T05:08:20+00:00",
-      "raw_text": "Controversial Bitcoin fork BIP-110 mines two blocks, then stops",
-      "impact": {}
-    },
-    {
-      "event_id": "f9030091-4238-470c-9c9a-47dc6b43e015",
-      "source": "rss:theblock",
-      "title": "Bitcoin’s BIP-110 supporters split onto minority chain as main network pulls ahead",
-      "url": "https://www.theblock.co/news/ecosystems/2026-08-08-bitcoins-bip-110-supporters-split-onto-minority-chain-as-main-network-pulls-ahead-411213",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-08T22:05:44+00:00",
-      "raw_text": "Bitcoin’s BIP-110 supporters split onto minority chain as main network pulls ahead\n\nBIP-110 is a proposed one-year change that limits non-financial data on Bitcoin and has sparked a debate over how Bitcoin's block space should be used.\n\nBIP-110 is a proposed one-year change that limits non-financial",
-      "impact": {}
-    },
-    {
-      "event_id": "165cc2d7-3b12-4ed0-914d-c7deb694090e",
-      "source": "rss:theblock",
-      "title": "Bitcoin’s BIP-110 supporters split onto minority chain as main network pulls ahead",
-      "url": "https://www.theblock.co/news/ecosystems/2026-08-08-bitcoins-bip-110-supporters-split-onto-minority-chain-as-main-network-pulls-ahead-411213?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-08T22:05:44+00:00",
-      "raw_text": "Bitcoin’s BIP-110 supporters split onto minority chain as main network pulls ahead\n\n<p>BIP-110 is a proposed one-year change that limits non-financial data on Bitcoin and has sparked a debate over how Bitcoin's block space should be used.</p>\n\n<p>BIP-110 is a proposed one-year change that limits non",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 185,
+        "count": 186,
         "avg_1h": -0.06,
         "avg_24h": 0.14,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 137,
+        "avg_1h": -0.15,
+        "avg_24h": -0.53,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
         "count": 51,
         "avg_1h": -0.04,
         "avg_24h": -0.11,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 138,
-        "avg_1h": -0.15,
-        "avg_24h": -0.53,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
