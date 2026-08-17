@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-08-17T18:53:47.564029+00:00",
+  "generated_at": "2026-08-17T19:36:15.029782+00:00",
   "events": [
+    {
+      "event_id": "56566de4-d336-4aca-a75d-5db4217735a7",
+      "source": "rss:decrypt",
+      "title": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign",
+      "url": "https://decrypt.co/375794/xrp-price-two-year-streak-charts-flash-warning",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T19:01:56+00:00",
+      "raw_text": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign\n\nXRP is clinging to the dollar price line it's defended since Trump's 2024 win. But both the daily and weekly charts are now flashing red.",
+      "impact": {}
+    },
+    {
+      "event_id": "6fb61bc5-564d-44ac-a4d4-ead404b4f2d3",
+      "source": "rss:coindesk",
+      "title": "Saylor says share buyback isn’t priority as Strategy builds $4.8 billion cash reserve",
+      "url": "https://www.coindesk.com/markets/2026/08/17/saylor-says-share-buyback-isn-t-a-priority-as-it-builds-its-usd4-8-billion-cash-reserve-though-a-possibility",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T18:53:47+00:00",
+      "raw_text": "Saylor says share buyback isn’t priority as Strategy builds $4.8 billion cash reserve",
+      "impact": {}
+    },
+    {
+      "event_id": "1b5c7625-7003-4891-aad6-18952de4d8b2",
+      "source": "rss:cointelegraph",
+      "title": "Binance to plan UK relaunch with FCA license application: Report",
+      "url": "https://cointelegraph.com/news/binance-uk-launch-plans-fca-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T18:45:00+00:00",
+      "raw_text": "Binance to plan UK relaunch with FCA license application: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance to plan UK relaunch with FCA license application: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-uk-regulatio",
+      "impact": {}
+    },
+    {
+      "event_id": "2736e176-508e-47bd-b381-6ae7c16c8cb0",
+      "source": "rss:decrypt",
+      "title": "Solana’s Pump Token Leads Crypto Market Gainers as Chart Paints Golden Cross",
+      "url": "https://decrypt.co/375788/solana-pump-price-crypto-market-golden-cross",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T18:29:56+00:00",
+      "raw_text": "Solana’s Pump Token Leads Crypto Market Gainers as Chart Paints Golden Cross\n\nThe native token of Solana's Pump.fun is up 8%, and the pattern bulls have been waiting for is starting to form on the daily chart.",
+      "impact": {}
+    },
+    {
+      "event_id": "a518acf2-31d9-460d-8371-5a06d25359ad",
+      "source": "rss:decrypt",
+      "title": "Ethereum Developers Target Privacy Changes in Next Major Upgrade",
+      "url": "https://decrypt.co/375787/ethereum-developers-privacy-hegota-upgrade",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T18:19:46+00:00",
+      "raw_text": "Ethereum Developers Target Privacy Changes in Next Major Upgrade\n\nA proposed package would let privacy pools pay their own transaction fees without relying on intermediaries.",
+      "impact": {}
+    },
+    {
+      "event_id": "e31b48b8-a803-4627-b03a-62f0016d43c5",
+      "source": "rss:bitcoinmagazine",
+      "title": "Investors Cash Out Fast of Bitcoin ETFs but Price Remains Stable",
+      "url": "https://bitcoinmagazine.com/news/investors-cash-out-of-bitcoin-etfs",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T18:04:52+00:00",
+      "raw_text": "Investors Cash Out Fast of Bitcoin ETFs but Price Remains Stable\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Investors-Cash-Out-Fast-of-Bitcoin-ETFs-But-Price-Remains-Stable.jpg\" style=\"display: ",
+      "impact": {}
+    },
     {
       "event_id": "1ea5f18b-a731-472c-ad4f-50645c4ae552",
       "source": "rss:theblock",
@@ -196,7 +268,8 @@
       "impact": {
         "t_plus_5m": -0.3961,
         "t_plus_15m": -0.4233,
-        "t_plus_1h": -0.0217
+        "t_plus_1h": -0.0217,
+        "t_plus_4h": 1.0457
       }
     },
     {
@@ -226,7 +299,8 @@
       "impact": {
         "t_plus_5m": -0.2993,
         "t_plus_15m": -0.3194,
-        "t_plus_1h": 0.0031
+        "t_plus_1h": 0.0031,
+        "t_plus_4h": 0.0649
       }
     },
     {
@@ -256,7 +330,8 @@
       "impact": {
         "t_plus_5m": 0.0061,
         "t_plus_15m": -0.1311,
-        "t_plus_1h": 0.1227
+        "t_plus_1h": 0.1227,
+        "t_plus_4h": 0.2525
       }
     },
     {
@@ -6284,93 +6359,20 @@
       "timestamp_utc": "2026-08-10T15:38:10+00:00",
       "raw_text": "Bitcoin miner Bitdeer’s shares sink 15% despite revenue growth, progress on AI pivot\n\nThe company is focused increasingly focused on becoming a provider of AI infrastructure, expanding beyond its core bitcoin mining business.\n\nThe company is focused increasingly focused on becoming a provider of AI ",
       "impact": {}
-    },
-    {
-      "event_id": "d507228f-de3d-47cb-992c-2d3e959d214a",
-      "source": "rss:theblock",
-      "title": "Bitcoin miner Bitdeer’s shares sink 15% despite revenue growth, progress on AI pivot",
-      "url": "https://www.theblock.co/news/business/2026-08-10-bitcoin-miner-bitdeer-shares-sink-despite-revenue-growth-progress-ai-pivot-411276?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T15:38:10+00:00",
-      "raw_text": "Bitcoin miner Bitdeer’s shares sink 15% despite revenue growth, progress on AI pivot\n\n<p>The company is focused increasingly focused on becoming a provider of AI infrastructure, expanding beyond its core bitcoin mining business.</p>\n\n<p>The company is focused increasingly focused on becoming a provi",
-      "impact": {}
-    },
-    {
-      "event_id": "feef9aa7-09d1-4502-84eb-fb471c781bc3",
-      "source": "rss:bitcoinmagazine",
-      "title": "BIP-110 Fork Stalls at Two Blocks as Bitcoin Miners Refuse to Follow",
-      "url": "https://bitcoinmagazine.com/news/bip110-stalls-bitcoin-miners-do-not-follow",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T15:12:36+00:00",
-      "raw_text": "BIP-110 Fork Stalls at Two Blocks as Bitcoin Miners Refuse to Follow\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/BIP-110-Fork-Stalls-at-Two-Blocks-as-Miners-Refuse-to-Follow.jpg\" style=\"display: ",
-      "impact": {}
-    },
-    {
-      "event_id": "af8e8b6b-c9ef-4a7b-b499-74e70f9b8ae7",
-      "source": "rss:decrypt",
-      "title": "OpenAI Says Its Next AI Model Astra May Be Too Dangerous, Pauses Development",
-      "url": "https://decrypt.co/375210/openai-pause-astra-ai-model-critical-cyber-capabilities",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T15:03:07+00:00",
-      "raw_text": "OpenAI Says Its Next AI Model Astra May Be Too Dangerous, Pauses Development\n\nOpenAI says its next major model may be dangerous enough to write its own cyberweapons, and it's pulling back until the safeguards catch up.",
-      "impact": {}
-    },
-    {
-      "event_id": "4d20fec9-9e11-48dc-9666-6760a38e75fb",
-      "source": "rss:coindesk",
-      "title": "Grayscale quietly drops Cardano, Polkadot and Hedera ETF plans",
-      "url": "https://www.coindesk.com/business/2026/08/10/grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T15:02:14+00:00",
-      "raw_text": "Grayscale quietly drops Cardano, Polkadot and Hedera ETF plans",
-      "impact": {}
-    },
-    {
-      "event_id": "007c2c8c-2020-455e-99d6-f79aef86e54f",
-      "source": "rss:theblock",
-      "title": "Adam Back-backed H100 more than triples bitcoin holdings to 3,506 BTC in acquisition deal",
-      "url": "https://www.theblock.co/news/business/2026-08-10-adam-back-backed-h100-more-triples-bitcoin-holdings-3506-btc-acquisition-411270",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T14:57:17+00:00",
-      "raw_text": "Adam Back-backed H100 more than triples bitcoin holdings to 3,506 BTC in acquisition deal\n\nH100 paid for the deal with 790.5 million newly issued shares, and the company is now within striking distance of big BTC treasury players.\n\nH100 paid for the deal with 790.5 million newly issued shares, and t",
-      "impact": {}
-    },
-    {
-      "event_id": "da328e37-5a29-4ac7-ad5b-84d64b484f96",
-      "source": "rss:theblock",
-      "title": "Adam Back-backed H100 more than triples bitcoin holdings to 3,506 BTC in acquisition deal",
-      "url": "https://www.theblock.co/news/business/2026-08-10-adam-back-backed-h100-more-triples-bitcoin-holdings-3506-btc-acquisition-411270?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-10T14:57:17+00:00",
-      "raw_text": "Adam Back-backed H100 more than triples bitcoin holdings to 3,506 BTC in acquisition deal\n\n<p>H100 paid for the deal with 790.5 million newly issued shares, and the company is now within striking distance of big BTC treasury players.</p>\n\n<p>H100 paid for the deal with 790.5 million newly issued sha",
-      "impact": {
-        "t_plus_5m": 0.5754,
-        "t_plus_15m": 0.5852,
-        "t_plus_1h": -0.0914,
-        "t_plus_4h": -0.6208
-      }
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 133,
+        "count": 130,
         "avg_1h": -0.07,
         "avg_24h": -0.53,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 187,
+        "avg_1h": -0.05,
+        "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
@@ -6379,22 +6381,16 @@
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 185,
-        "avg_1h": -0.05,
-        "avg_24h": 0.14,
+      "hack": {
+        "count": 50,
+        "avg_1h": -0.04,
+        "avg_24h": -0.11,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
         "count": 7,
         "avg_1h": -0.13,
         "avg_24h": -0.13,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 49,
-        "avg_1h": -0.04,
-        "avg_24h": -0.11,
         "win_rate_1h_gt5pct": 0.0
       }
     }
