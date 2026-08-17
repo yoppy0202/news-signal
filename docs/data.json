@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-17T16:40:50.008115+00:00",
+  "generated_at": "2026-08-17T17:38:28.483268+00:00",
   "events": [
+    {
+      "event_id": "f6e7e9fc-cb09-4c91-b467-f0c45dc07b6a",
+      "source": "rss:theblock",
+      "title": "US Treasury seeks public comment on GENIUS Act stablecoin rules",
+      "url": "https://www.theblock.co/news/regulation/2026-08-17-us-treasury-seeks-public-comment-genius-act-stablecoin-rules-411987",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T16:40:26+00:00",
+      "raw_text": "US Treasury seeks public comment on GENIUS Act stablecoin rules\n\nUnder the law, entities generally cannot issue payment stablecoins in the U.S. without obtaining an appropriate federal or state license.",
+      "impact": {}
+    },
+    {
+      "event_id": "c2757473-8c5f-49ce-857b-c7e9781cd9c0",
+      "source": "rss:coindesk",
+      "title": "BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees",
+      "url": "https://www.coindesk.com/business/2026/08/17/bitmart-founder-dismisses-calls-for-audit-as-users-report-blocked-funds-unpaid-employees",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T16:40:08+00:00",
+      "raw_text": "BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees",
+      "impact": {}
+    },
+    {
+      "event_id": "baca94fb-a9f2-48cc-8df2-572ca5122f54",
+      "source": "rss:bitcoinmagazine",
+      "title": "US Treasury Asks For Public Input on Landmark Genius Act Crypto Legislation",
+      "url": "https://bitcoinmagazine.com/news/us-treasury-asks-for-input-on-genius-act",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T16:36:51+00:00",
+      "raw_text": "US Treasury Asks For Public Input on Landmark Genius Act Crypto Legislation\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/US-Treasury-Asks-For-Public-Input-on-Landmark-Genius-Act-Crypto-Legislation",
+      "impact": {}
+    },
+    {
+      "event_id": "d73757b4-aa59-4065-b1e0-09291a5fb5d1",
+      "source": "rss:cointelegraph",
+      "title": "US Treasury moves forward with rules on GENIUS Act after July deadline",
+      "url": "https://cointelegraph.com/news/us-treasury-public-comment-rules-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T16:29:48+00:00",
+      "raw_text": "US Treasury moves forward with rules on GENIUS Act after July deadline\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Treasury moves forward with rules on GENIUS Act after July deadline\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-",
+      "impact": {}
+    },
     {
       "event_id": "5b1bab63-db63-4a5e-877f-530246bd3a02",
       "source": "rss:decrypt",
@@ -20,10 +68,15 @@
       "url": "https://cointelegraph.com/markets/bitcoin-hits-64k-as-gold-gains-while-oil-shakes-off-trump-oman-threat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-17T16:16:40+00:00",
       "raw_text": "Bitcoin hits $64K as gold gains while oil shakes off Trump Oman threat\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin hits $64K as gold gains while oil shakes off Trump Oman threat\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0124,
+        "t_plus_15m": 0.0127
+      }
     },
     {
       "event_id": "b46c2344-dfad-402d-a48f-1f113099271b",
@@ -32,10 +85,15 @@
       "url": "https://cointelegraph.com/news/bitmine-ethereum-supply-5-82-million-eth-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-08-17T16:04:32+00:00",
       "raw_text": "Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/eth",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1015,
+        "t_plus_15m": 0.0437
+      }
     },
     {
       "event_id": "bed7dc50-3401-44bc-bbd7-0e55ca7ea0aa",
@@ -6303,80 +6361,25 @@
       "timestamp_utc": "2026-08-10T14:12:12+00:00",
       "raw_text": "Tom Lee's Bitmine Buys $14M in Ethereum as Cash Falls to $104M\n\nBitmine has reported 4.8% of the supply for five straight weeks, leaving its 'Alchemy of 5%' target roughly 230,000 tokens away.",
       "impact": {}
-    },
-    {
-      "event_id": "4950daed-78e2-4102-926d-a360190f24d5",
-      "source": "rss:theblock",
-      "title": "Crypto lost $110 million to hacks in July amid rising bug bounty activity: Immunefi",
-      "url": "https://www.theblock.co/news/defi/2026-08-10-crypto-hacks-july-immunefi-411246",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T14:00:00+00:00",
-      "raw_text": "Crypto lost $110 million to hacks in July amid rising bug bounty activity: Immunefi\n\nCrypto lost roughly $110 million to hacks in July as Immunefi said its audit competitions outperformed tier-1 audits.\n\nCrypto lost roughly $110 million to hacks in July as Immunefi said its audit competitions outper",
-      "impact": {}
-    },
-    {
-      "event_id": "7610eb1a-6e5e-422a-8bd9-92db0729f759",
-      "source": "rss:theblock",
-      "title": "Crypto lost $110 million to hacks in July amid rising bug bounty activity: Immunefi",
-      "url": "https://www.theblock.co/news/defi/2026-08-10-crypto-hacks-july-immunefi-411246?utm_source=rss&utm_medium=rss",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T14:00:00+00:00",
-      "raw_text": "Crypto lost $110 million to hacks in July amid rising bug bounty activity: Immunefi\n\n<p>Crypto lost roughly $110 million to hacks in July as Immunefi said its audit competitions outperformed tier-1 audits.</p>\n\n<p>Crypto lost roughly $110 million to hacks in July as Immunefi said its audit competiti",
-      "impact": {}
-    },
-    {
-      "event_id": "50281d82-be3e-498f-9d68-bb2738735450",
-      "source": "rss:theblock",
-      "title": "Bitmine adds 7,391 ether in a week, bringing total Ethereum holdings to 5.81 million ETH",
-      "url": "https://www.theblock.co/news/business/2026-08-10-bitmine-adds-7391-eth-411265",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T13:53:42+00:00",
-      "raw_text": "Bitmine adds 7,391 ether in a week, bringing total Ethereum holdings to 5.81 million ETH\n\nBitmine bought 7,391 ether last week, lifting its total Ethereum treasury to 5.81 million ETH, worth roughly $11 billion.\n\nBitmine bought 7,391 ether last week, lifting its total Ethereum treasury to 5.81 milli",
-      "impact": {}
-    },
-    {
-      "event_id": "56bb865b-b238-46ed-ba77-ad08290f31a7",
-      "source": "rss:theblock",
-      "title": "Bitmine adds 7,391 ether in a week, bringing total Ethereum holdings to 5.81 million ETH",
-      "url": "https://www.theblock.co/news/business/2026-08-10-bitmine-adds-7391-eth-411265?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-08-10T13:53:42+00:00",
-      "raw_text": "Bitmine adds 7,391 ether in a week, bringing total Ethereum holdings to 5.81 million ETH\n\n<p>Bitmine bought 7,391 ether last week, lifting its total Ethereum treasury to 5.81 million ETH, worth roughly $11 billion.</p>\n\n<p>Bitmine bought 7,391 ether last week, lifting its total Ethereum treasury to ",
-      "impact": {
-        "t_plus_5m": -0.1537,
-        "t_plus_15m": -0.1049,
-        "t_plus_1h": -0.3171,
-        "t_plus_4h": -1.3736
-      }
     }
   ],
   "stats": {
     "by_event_type": {
       "macro": {
-        "count": 123,
+        "count": 126,
         "avg_1h": -0.04,
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 131,
+        "count": 132,
         "avg_1h": -0.07,
         "avg_24h": -0.53,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 188,
-        "avg_1h": -0.07,
+        "count": 186,
+        "avg_1h": -0.05,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6387,7 +6390,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 51,
+        "count": 49,
         "avg_1h": -0.04,
         "avg_24h": -0.11,
         "win_rate_1h_gt5pct": 0.0
