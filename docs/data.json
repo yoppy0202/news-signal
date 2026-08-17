@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-17T19:36:15.029782+00:00",
+  "generated_at": "2026-08-17T20:38:09.252519+00:00",
   "events": [
+    {
+      "event_id": "5b907dfc-7736-4164-8876-6675a9ab4e37",
+      "source": "rss:decrypt",
+      "title": "OpenAI’s Answer to Rogue Agents and Hacks Is More AI, Not Less",
+      "url": "https://decrypt.co/375816/openai-answer-rogue-agents-hacks-more-ai",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T19:59:18+00:00",
+      "raw_text": "OpenAI’s Answer to Rogue Agents and Hacks Is More AI, Not Less\n\nOpenAI President Greg Brockman's new essay cites his company's own hack of Hugging Face to push urgent AI-powered defense.",
+      "impact": {}
+    },
+    {
+      "event_id": "40f59f01-1839-415a-a38d-2b61df693acf",
+      "source": "rss:theblock",
+      "title": "IREN delivers first of four AI cloud deployments to Microsoft under $9.7 billion deal",
+      "url": "https://www.theblock.co/news/business/2026-08-17-iren-delivers-first-four-ai-cloud-deployments-microsoft-under-9-7-billion-deal-412016",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T19:54:52+00:00",
+      "raw_text": "IREN delivers first of four AI cloud deployments to Microsoft under $9.7 billion deal\n\nIREN is targeting 480 MW of AI cloud capacity in 2026 and 1.2 gigawatts by 2027 as it continues to pivot away from bitcoin mining.",
+      "impact": {}
+    },
     {
       "event_id": "56566de4-d336-4aca-a75d-5db4217735a7",
       "source": "rss:decrypt",
@@ -8,10 +32,15 @@
       "url": "https://decrypt.co/375794/xrp-price-two-year-streak-charts-flash-warning",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-08-17T19:01:56+00:00",
       "raw_text": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign\n\nXRP is clinging to the dollar price line it's defended since Trump's 2024 win. But both the daily and weekly charts are now flashing red.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0284,
+        "t_plus_15m": -0.126
+      }
     },
     {
       "event_id": "6fb61bc5-564d-44ac-a4d4-ead404b4f2d3",
@@ -6335,34 +6364,16 @@
       "timestamp_utc": "2026-08-10T15:59:06+00:00",
       "raw_text": "BlackRock launches two Canada ETFs, with one allocating 3% to Bitcoin\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BlackRock launches two Canada ETFs, with one allocating 3% to Bitcoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-ca",
       "impact": {}
-    },
-    {
-      "event_id": "fc8561be-7130-4c88-b7d0-cb6914188adf",
-      "source": "rss:decrypt",
-      "title": "Hackers Drain $8 Million From Crypto Exchange Across Two Blockchains",
-      "url": "https://decrypt.co/375213/hackers-drain-8-million-from-crypto-platform-coinsbuy",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T15:56:30+00:00",
-      "raw_text": "Hackers Drain $8 Million From Crypto Exchange Across Two Blockchains\n\nThe attacker moved funds across Tron and Ethereum before routing millions through crypto exchanges, while later wallet activity offers clues about how the breach occurred.",
-      "impact": {}
-    },
-    {
-      "event_id": "c1f62e01-8b08-427f-b9d8-69326aa12a57",
-      "source": "rss:theblock",
-      "title": "Bitcoin miner Bitdeer’s shares sink 15% despite revenue growth, progress on AI pivot",
-      "url": "https://www.theblock.co/news/business/2026-08-10-bitcoin-miner-bitdeer-shares-sink-despite-revenue-growth-progress-ai-pivot-411276",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T15:38:10+00:00",
-      "raw_text": "Bitcoin miner Bitdeer’s shares sink 15% despite revenue growth, progress on AI pivot\n\nThe company is focused increasingly focused on becoming a provider of AI infrastructure, expanding beyond its core bitcoin mining business.\n\nThe company is focused increasingly focused on becoming a provider of AI ",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 50,
+        "avg_1h": -0.04,
+        "avg_24h": -0.11,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 130,
         "avg_1h": -0.07,
@@ -6379,12 +6390,6 @@
         "count": 126,
         "avg_1h": -0.05,
         "avg_24h": 0.47,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 50,
-        "avg_1h": -0.04,
-        "avg_24h": -0.11,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
