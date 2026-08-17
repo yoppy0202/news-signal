@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-17T14:39:13.518968+00:00",
+  "generated_at": "2026-08-17T15:35:15.535587+00:00",
   "events": [
+    {
+      "event_id": "41f7e3fd-8358-4f24-b3ad-3ce7e9158409",
+      "source": "rss:coindesk",
+      "title": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
+      "url": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T14:44:29+00:00",
+      "raw_text": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
+      "impact": {}
+    },
+    {
+      "event_id": "b9c5b92f-2f94-43f5-a9f5-674859f99300",
+      "source": "rss:bitcoinmagazine",
+      "title": "Strategy Goes Another Week Without Buying — Or Selling — Bitcoin, Builds Up Cash Reserve",
+      "url": "https://bitcoinmagazine.com/news/strategy-goes-another-week-without-buying",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T14:23:17+00:00",
+      "raw_text": "Strategy Goes Another Week Without Buying — Or Selling — Bitcoin, Builds Up Cash Reserve\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time-in-Years-as-Bitcoin",
+      "impact": {}
+    },
+    {
+      "event_id": "f7aa96ad-3220-4aa4-a29d-d9e473e86856",
+      "source": "rss:coindesk",
+      "title": "The Coldcard hack proves reputation is not a security model",
+      "url": "https://www.coindesk.com/opinion/2026/08/17/the-coldcard-hack-proves-reputation-is-not-a-security-model",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T14:09:46+00:00",
+      "raw_text": "The Coldcard hack proves reputation is not a security model",
+      "impact": {}
+    },
+    {
+      "event_id": "0a0b707b-08fb-4bd5-901a-270708210eb4",
+      "source": "rss:coindesk",
+      "title": "Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase",
+      "url": "https://www.coindesk.com/markets/2026/08/17/tom-lee-s-bitmine-now-owns-4-8-of-ethereum-supply-after-latest-eth-purchase",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T14:04:21+00:00",
+      "raw_text": "Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase",
+      "impact": {}
+    },
     {
       "event_id": "3fd062ae-1073-4ab2-8011-ab64223ab9b3",
       "source": "rss:coindesk",
@@ -20,10 +68,15 @@
       "url": "https://www.theblock.co/news/business/2026-08-17-bitmine-adds-9926-eth-taking-total-holdings-to-roughly-11-billion-411968",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-08-17T13:53:11+00:00",
       "raw_text": "Bitmine adds 9,926 ETH, taking total holdings to roughly $11 billion\n\nBitmine added 9,926 ETH last week, taking holdings to 5.82 million tokens while buybacks reached 20.8 million shares since July.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0061,
+        "t_plus_15m": -0.1311
+      }
     },
     {
       "event_id": "9913d543-b959-477b-bec7-eeb5aa57f556",
@@ -75,7 +128,8 @@
       "raw_text": "Strategy Leaves Bitcoin Untouched, Raises $334M Selling MSTR Stock\n\nThe Bitcoin treasury firm halted BTC sales after three weeks, with equity issuance covering dividends, a STRC buyback and the dollar reserve.",
       "impact": {
         "t_plus_5m": 0.1321,
-        "t_plus_15m": 0.1245
+        "t_plus_15m": 0.1245,
+        "t_plus_1h": 0.2568
       }
     },
     {
@@ -334,6 +388,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-17T09:13:02+00:00",
       "raw_text": "Coinbase-Circle USDC collaboration, FOMC minutes, oil price: Crypto Week Ahead",
+      "impact": {}
+    },
+    {
+      "event_id": "4c655c61-ea36-4380-901f-2f06a61cddc2",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin remains trapped in tight range as big AI compute deals continue to roll in",
+      "url": "https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T08:38:26+00:00",
+      "raw_text": "Live updates: Bitcoin remains trapped in tight range as big AI compute deals continue to roll in",
       "impact": {}
     },
     {
@@ -6309,111 +6375,38 @@
       "timestamp_utc": "2026-08-10T12:24:48+00:00",
       "raw_text": "Strategy Sells $109M in Bitcoin as Dollar Reserve Tops $4.6B\n\nAll of the proceeds went into a $109 million STRC buyback, while the company sold six times as much again in its own stock.",
       "impact": {}
-    },
-    {
-      "event_id": "01134238-363f-4e1c-888f-b4193fa88883",
-      "source": "rss:decrypt",
-      "title": "Bitcoin ETFs Draw $854M Over Five Days as Rate-Hike Bets Fade",
-      "url": "https://decrypt.co/375192/bitcoin-etfs-draw-854m-over-five-days-as-rate-hike-bets-fade",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T12:14:57+00:00",
-      "raw_text": "Bitcoin ETFs Draw $854M Over Five Days as Rate-Hike Bets Fade\n\nDaily totals shrank as the week wore on, and analysts are split on whether the return of institutional money marks a genuine turn.",
-      "impact": {}
-    },
-    {
-      "event_id": "ab62eb8b-7e51-492c-9e7b-9a26dfde596e",
-      "source": "rss:theblock",
-      "title": "Michael Saylor’s Strategy sells another 1,690 BTC as USD reserve hits $4.65 billion",
-      "url": "https://www.theblock.co/news/business/2026-08-10-michael-saylor-strategy-bitcoin-treasury-411237",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-10T12:09:39+00:00",
-      "raw_text": "Michael Saylor’s Strategy sells another 1,690 BTC as USD reserve hits $4.65 billion\n\nStrategy's total holdings account for roughly 4% of the 21 million bitcoin supply cap — worth roughly $55 billion.\n\nStrategy's total holdings account for roughly 4% of the 21 million bitcoin supply cap — worth rough",
-      "impact": {
-        "t_plus_5m": 1.6774,
-        "t_plus_15m": 1.613,
-        "t_plus_1h": 1.2975,
-        "t_plus_4h": 0.3323
-      }
-    },
-    {
-      "event_id": "789f94f1-a51d-4527-8a26-e2fa5eaf8536",
-      "source": "rss:theblock",
-      "title": "Michael Saylor’s Strategy sells another 1,690 BTC as USD reserve hits $4.65 billion",
-      "url": "https://www.theblock.co/news/business/2026-08-10-michael-saylor-strategy-bitcoin-treasury-411237?utm_source=rss&utm_medium=rss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-10T12:09:39+00:00",
-      "raw_text": "Michael Saylor’s Strategy sells another 1,690 BTC as USD reserve hits $4.65 billion\n\n<p>Strategy's total holdings account for roughly 4% of the 21 million bitcoin supply cap — worth roughly $55 billion.</p>\n\n<p>Strategy's total holdings account for roughly 4% of the 21 million bitcoin supply cap — w",
-      "impact": {
-        "t_plus_5m": -0.0714,
-        "t_plus_15m": -0.1347,
-        "t_plus_1h": -0.4447
-      }
-    },
-    {
-      "event_id": "76f790df-61f4-4d38-a603-eac3164830ce",
-      "source": "rss:coindesk",
-      "title": "Strategy sells 1,690 bitcoin, raises $653 million from MSTR shares",
-      "url": "https://www.coindesk.com/markets/2026/08/10/strategy-sells-1-690-bitcoin-raises-usd653-million-from-mstr-shares",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T12:09:26+00:00",
-      "raw_text": "Strategy sells 1,690 bitcoin, raises $653 million from MSTR shares",
-      "impact": {}
-    },
-    {
-      "event_id": "d0ea4811-7d1b-4e2c-9f8f-df5225a43869",
-      "source": "rss:coindesk",
-      "title": "Crypto exchange Coinsbuy loses $8 million in coordinated two-blockchain attack",
-      "url": "https://www.coindesk.com/business/2026/08/10/crypto-exchange-coinsbuy-loses-usd8-million-in-coordinated-two-blockchain-attack",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T11:39:44+00:00",
-      "raw_text": "Crypto exchange Coinsbuy loses $8 million in coordinated two-blockchain attack",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 191,
+        "avg_1h": -0.1,
+        "avg_24h": 0.14,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "listing": {
+        "count": 6,
+        "avg_1h": -0.17,
+        "avg_24h": -0.13,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
         "count": 51,
         "avg_1h": -0.04,
         "avg_24h": -0.11,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 191,
-        "avg_1h": -0.05,
-        "avg_24h": 0.14,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 123,
+        "count": 122,
         "avg_1h": -0.0,
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
         "count": 130,
-        "avg_1h": -0.13,
+        "avg_1h": -0.1,
         "avg_24h": -0.53,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "listing": {
-        "count": 5,
-        "avg_1h": -0.17,
-        "avg_24h": -0.13,
         "win_rate_1h_gt5pct": 0.0
       }
     }
