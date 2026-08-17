@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-17T22:36:25.331709+00:00",
+  "generated_at": "2026-08-17T23:33:22.502260+00:00",
   "events": [
+    {
+      "event_id": "0fb283a1-95b3-47e6-ba7f-a7c42df7bac2",
+      "source": "rss:decrypt",
+      "title": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
+      "url": "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T22:35:46+00:00",
+      "raw_text": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws\n\nPayward is joining Project Glasswing, Anthropic’s program for giving vetted organizations access to its powerful cybersecurity AI.",
+      "impact": {}
+    },
+    {
+      "event_id": "4f03e822-44ed-48df-9e1d-21c148b48c36",
+      "source": "rss:theblock",
+      "title": "Robinhood Chain TVL surges 45% in August as tokenized RWAs lose ground",
+      "url": "https://www.theblock.co/news/ecosystems/2026-08-17-robinhood-chain-tvl-surges-45-august-tokenized-rwas-lose-ground-411998",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T22:26:02+00:00",
+      "raw_text": "Robinhood Chain TVL surges 45% in August as tokenized RWAs lose ground\n\nStablecoin market cap on the chain has reached $640 million, the bulk of which has come from USDe.",
+      "impact": {}
+    },
     {
       "event_id": "f9f70ec7-b01d-47d2-a37a-09d5f7ab2e6e",
       "source": "rss:decrypt",
@@ -87,7 +111,8 @@
       "raw_text": "Jane Street Reveals Nearly $1B Bitcoin Position\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Jane-Street-Reveals-Nearly-1B-Bitcoin-Position.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n",
       "impact": {
         "t_plus_5m": 0.0854,
-        "t_plus_15m": 0.0236
+        "t_plus_15m": 0.0236,
+        "t_plus_1h": 0.0068
       }
     },
     {
@@ -6327,44 +6352,20 @@
       "timestamp_utc": "2026-08-10T17:08:34+00:00",
       "raw_text": "‘Disappointing’ — crypto advocates react to delay in CLARITY vote\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"‘Disappointing’ — crypto advocates react to delay in CLARITY vote\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/sams-in-a-lab",
       "impact": {}
-    },
-    {
-      "event_id": "fa26ddb3-e816-469f-a23e-28dd6ddf59a8",
-      "source": "rss:theblock",
-      "title": "Keel shutters all US bitcoin mining operations amid continuing AI pivot",
-      "url": "https://www.theblock.co/news/business/2026-08-10-keel-shutters-us-bitcoin-mining-operations-amid-ai-pivot-411302",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T17:05:14+00:00",
-      "raw_text": "Keel shutters all US bitcoin mining operations amid continuing AI pivot\n\nLike many other Bitcoin miners, Keel has been shifting its focus from mining in favor of becoming a supplier of AI infrastructure.\n\nLike many other Bitcoin miners, Keel has been shifting its focus from mining in favor of becomi",
-      "impact": {}
-    },
-    {
-      "event_id": "705e4f07-0429-461d-8c1d-ea42ba864e4c",
-      "source": "rss:theblock",
-      "title": "Keel shutters all US bitcoin mining operations amid continuing AI pivot",
-      "url": "https://www.theblock.co/news/business/2026-08-10-keel-shutters-us-bitcoin-mining-operations-amid-ai-pivot-411302?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T17:05:14+00:00",
-      "raw_text": "Keel shutters all US bitcoin mining operations amid continuing AI pivot\n\n<p>Like many other Bitcoin miners, Keel has been shifting its focus from mining in favor of becoming a supplier of AI infrastructure.</p>\n\n<p>Like many other Bitcoin miners, Keel has been shifting its focus from mining in favor",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 128,
-        "avg_1h": -0.04,
-        "avg_24h": -0.53,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 127,
+        "count": 128,
         "avg_1h": -0.05,
         "avg_24h": 0.47,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 127,
+        "avg_1h": -0.04,
+        "avg_24h": -0.53,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
