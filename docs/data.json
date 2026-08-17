@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-08-17T13:02:09.549136+00:00",
+  "generated_at": "2026-08-17T13:49:50.051655+00:00",
   "events": [
+    {
+      "event_id": "dbcbc7bb-9c92-4ea1-925d-0f1f902e04f0",
+      "source": "rss:decrypt",
+      "title": "Morning Minute: Trump To Meet Crypto, Prediction Market CEOs This Week",
+      "url": "https://decrypt.co/375760/morning-minute-trump-to-meet-crypto-prediction-market-ceos-this-week",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T13:03:17+00:00",
+      "raw_text": "Morning Minute: Trump To Meet Crypto, Prediction Market CEOs This Week\n\nThe meeting comes while progress on the Clarity Act has been delayed and the SEC's latest rulemaking postponed.",
+      "impact": {}
+    },
+    {
+      "event_id": "2487119d-3f95-4eaf-b54a-8ae69dfe6e37",
+      "source": "rss:theblock",
+      "title": "Austria’s FMA fines crypto broker Bitpanda $81,000 in first published MiCA penalty",
+      "url": "https://www.theblock.co/news/regulation/2026-08-17-austria-mica-penalty-bitpanda-411960",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T13:03:16+00:00",
+      "raw_text": "Austria’s FMA fines crypto broker Bitpanda $81,000 in first published MiCA penalty\n\nAustria's FMA fined Bitpanda €70,000 in its first published MiCA penalty, citing white paper and marketing disclosure failures.",
+      "impact": {}
+    },
+    {
+      "event_id": "e8b2196d-966d-4f39-ae30-a350a6b91dac",
+      "source": "rss:decrypt",
+      "title": "Strategy Leaves Bitcoin Untouched, Raises $334M Selling MSTR Stock",
+      "url": "https://decrypt.co/375762/strategy-leaves-bitcoin-untouched-raises-334m-selling-mstr-stock",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T12:56:55+00:00",
+      "raw_text": "Strategy Leaves Bitcoin Untouched, Raises $334M Selling MSTR Stock\n\nThe Bitcoin treasury firm halted BTC sales after three weeks, with equity issuance covering dividends, a STRC buyback and the dollar reserve.",
+      "impact": {}
+    },
+    {
+      "event_id": "a023652e-6793-4260-a37c-e98e4ca6a771",
+      "source": "rss:cointelegraph",
+      "title": "Strategy raises $334M through stock sales but buys no Bitcoin",
+      "url": "https://cointelegraph.com/news/strategy-stock-sales-buys-no-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T12:51:03+00:00",
+      "raw_text": "Strategy raises $334M through stock sales but buys no Bitcoin\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy raises $334M through stock sales but buys no Bitcoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-michael-saylor",
+      "impact": {}
+    },
+    {
+      "event_id": "636f9168-0bc4-492d-bc67-1448a4797685",
+      "source": "rss:cointelegraph",
+      "title": "Harmony plans rollback, wiping 109,000 transactions after ONE exploit",
+      "url": "https://cointelegraph.com/news/harmony-plans-rollback-transactions-one-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T12:31:36+00:00",
+      "raw_text": "Harmony plans rollback, wiping 109,000 transactions after ONE exploit\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Harmony plans rollback, wiping 109,000 transactions after ONE exploit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/piece",
+      "impact": {}
+    },
     {
       "event_id": "b450aae8-24a0-41d7-b9d4-b711d85d38c9",
       "source": "rss:decrypt",
@@ -80,10 +140,16 @@
       "url": "https://cointelegraph.com/markets/btc-price-loses-200-week-trend-line-as-2022-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-17T11:38:52+00:00",
       "raw_text": "BTC price loses 200-week trend line as 2022 repeats: Five things to know in Bitcoin this week\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BTC price loses 200-week trend line as 2022 repeats: Five things to know in Bitcoin this week\" class=\"type:primaryImage\" src=\"https:/",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1102,
+        "t_plus_15m": 0.0445,
+        "t_plus_1h": -0.1136
+      }
     },
     {
       "event_id": "8d67684b-e6d1-4fbe-945c-2fd3e975e1df",
@@ -6317,92 +6383,32 @@
       "timestamp_utc": "2026-08-10T11:38:33+00:00",
       "raw_text": "UK’s FCA to regulate tokenized gold to preserve London’s place as the top hub for bullion",
       "impact": {}
-    },
-    {
-      "event_id": "93665bf2-a7ff-43d0-bbde-794cd3e93b7d",
-      "source": "rss:coindesk",
-      "title": "Why the UK financial watchdog is drafting new rules for tokenized gold",
-      "url": "https://www.coindesk.com/business/2026/08/10/why-the-uk-financial-watchdog-is-drafting-new-rules-for-tokenized-gold",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T11:38:33+00:00",
-      "raw_text": "Why the UK financial watchdog is drafting new rules for tokenized gold",
-      "impact": {}
-    },
-    {
-      "event_id": "dee8c54d-44fa-4602-a63c-ac3191ea34ab",
-      "source": "rss:coindesk",
-      "title": "Bitcoin's BIP-110 episode is free-market capitalism in purest form",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/10/bitcoin-s-bip-110-episode-is-free-market-capitalism-in-purest-form",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T11:31:29+00:00",
-      "raw_text": "Bitcoin's BIP-110 episode is free-market capitalism in purest form",
-      "impact": {}
-    },
-    {
-      "event_id": "fdacc8cc-5b09-4449-b26c-5bb6315d8ff9",
-      "source": "rss:cointelegraph",
-      "title": "Markets flip for Fed rate-hike pause into CPI: Five things to know in Bitcoin this week",
-      "url": "https://cointelegraph.com/markets/markets-drop-september-rate-hike-bet-into-cpi-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T11:13:40+00:00",
-      "raw_text": "Markets flip for Fed rate-hike pause into CPI: Five things to know in Bitcoin this week\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Markets flip for Fed rate-hike pause into CPI: Five things to know in Bitcoin this week\" class=\"type:primaryImage\" src=\"https://s3-images.c",
-      "impact": {}
-    },
-    {
-      "event_id": "9c1860b8-9ef8-4a0d-8fd2-f5f4b93d3f9e",
-      "source": "rss:coindesk",
-      "title": "Bitcoin steadies above $65,000 as Iran-Oman deal talk eases Hormuz concerns, lifts risk assets",
-      "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-steadies-above-usd65-000-as-iran-oman-deal-talk-eases-hormuz-concerns-lifts-risk-assets",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T10:45:43+00:00",
-      "raw_text": "Bitcoin steadies above $65,000 as Iran-Oman deal talk eases Hormuz concerns, lifts risk assets",
-      "impact": {}
-    },
-    {
-      "event_id": "fbe217fc-0450-4805-982b-be30977f7fba",
-      "source": "rss:decrypt",
-      "title": "Standard Chartered Sees $4T Tokenization Driving Chainlink to $200 by 2030",
-      "url": "https://decrypt.co/375189/standard-chartered-sees-4t-tokenization-driving-chainlink-to-200-by-2030",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T10:19:06+00:00",
-      "raw_text": "Standard Chartered Sees $4T Tokenization Driving Chainlink to $200 by 2030\n\nThe bank has now set 2030 targets for Uniswap, Aave, Morpho and Chainlink, all resting on one 37x forecast for DeFi growth.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 194,
-        "avg_1h": -0.05,
-        "avg_24h": 0.14,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 130,
-        "avg_1h": -0.15,
-        "avg_24h": -0.53,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
         "count": 123,
         "avg_1h": -0.0,
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
       },
+      "narrative": {
+        "count": 132,
+        "avg_1h": -0.15,
+        "avg_24h": -0.53,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
-        "count": 48,
+        "count": 49,
         "avg_1h": -0.04,
         "avg_24h": -0.11,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 191,
+        "avg_1h": -0.05,
+        "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
