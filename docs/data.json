@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-17T05:46:25.470569+00:00",
+  "generated_at": "2026-08-17T07:12:30.896449+00:00",
   "events": [
+    {
+      "event_id": "241de714-161b-4482-ba1c-7a78f21c7618",
+      "source": "rss:cointelegraph",
+      "title": "Greenlane’s $70M BERA treasury ends Q2 valued at $16M",
+      "url": "https://cointelegraph.com/news/greenlane-70m-bera-treasury-valued-16m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T05:52:55+00:00",
+      "raw_text": "Greenlane’s $70M BERA treasury ends Q2 valued at $16M\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Greenlane’s $70M BERA treasury ends Q2 valued at $16M\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/red-falling-elevator-markets-down.jpg",
+      "impact": {}
+    },
+    {
+      "event_id": "12d14b0e-ceee-410b-872b-a951c0be362f",
+      "source": "rss:coindesk",
+      "title": "The bitcoin futures market looks like a crowded club with a tiny exit – and it could cause pain",
+      "url": "https://www.coindesk.com/markets/2026/08/17/the-bitcoin-futures-market-has-a-crowded-club-tiny-exit-problem-and-it-could-cause-pain",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T05:51:18+00:00",
+      "raw_text": "The bitcoin futures market looks like a crowded club with a tiny exit – and it could cause pain",
+      "impact": {}
+    },
     {
       "event_id": "0e49613b-6dca-4400-8409-3c0b80ff1995",
       "source": "rss:coindesk",
@@ -8,10 +32,15 @@
       "url": "https://www.coindesk.com/markets/2026/08/17/xrp-traders-bet-on-a-rebound-as-price-slips-to-usd1-and-bearish-chatter-surges",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-08-17T04:43:03+00:00",
       "raw_text": "XRP traders bet on a rebound as price slips to $1 and bearish chatter surges",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.049,
+        "t_plus_15m": -0.0664
+      }
     },
     {
       "event_id": "839c4047-051f-4c37-b167-706ddbe307db",
@@ -6366,36 +6395,12 @@
       "timestamp_utc": "2026-08-10T00:32:21+00:00",
       "raw_text": "BIP-110 dies with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BIP-110 dies with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
       "impact": {}
-    },
-    {
-      "event_id": "30b3955f-c503-4cba-a429-5f40489816e3",
-      "source": "rss:cointelegraph",
-      "title": "Ex-US defense secretary calls CLARITY Act a ‘national security bill’",
-      "url": "https://cointelegraph.com/news/ex-us-defense-secretary-calls-clarity-act-a-national-security-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T00:31:34+00:00",
-      "raw_text": "Ex-US defense secretary calls CLARITY Act a ‘national security bill’\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ex-US defense secretary calls CLARITY Act a ‘national security bill’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-cryp",
-      "impact": {}
-    },
-    {
-      "event_id": "568f7b53-cebd-4da8-aa02-9c2d43a29ede",
-      "source": "rss:decrypt",
-      "title": "Bitcoin 'Anti-Spam' Fork Sputters to a Halt After Mining Just Two Blocks",
-      "url": "https://decrypt.co/375177/bitcoin-anti-spam-fork-splutters-halt-mining-just-two-blocks",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-09T19:33:09+00:00",
-      "raw_text": "Bitcoin 'Anti-Spam' Fork Sputters to a Halt After Mining Just Two Blocks\n\nThe breakaway chain drew just 2.53% of mining support, leaving its blocks hours apart and roughly 350 days from a difficulty adjustment while the main network powered ahead.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 191,
+        "count": 192,
         "avg_1h": -0.06,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
@@ -6407,7 +6412,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 121,
+        "count": 120,
         "avg_1h": -0.01,
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
