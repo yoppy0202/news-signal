@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-17T17:38:28.483268+00:00",
+  "generated_at": "2026-08-17T18:53:47.564029+00:00",
   "events": [
+    {
+      "event_id": "1ea5f18b-a731-472c-ad4f-50645c4ae552",
+      "source": "rss:theblock",
+      "title": "Bitcoin production slips again in July for CleanSpark, BitFuFu and Canaan",
+      "url": "https://www.theblock.co/news/business/2026-08-17-bitcoin-production-slips-again-july-cleanspark-bitfufu-canaan-411985",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T17:13:59+00:00",
+      "raw_text": "Bitcoin production slips again in July for CleanSpark, BitFuFu and Canaan\n\nCleanSpark is up 6.4% year to date, while BitFuFu and Canaan have fallen more than 50% and 70%, respectively.",
+      "impact": {}
+    },
+    {
+      "event_id": "dd785c3e-a7c0-4051-b1ce-8ce8f992ec78",
+      "source": "rss:cointelegraph",
+      "title": "CFTC seeks public input on AI compute futures contracts as CME eyes October launch",
+      "url": "https://cointelegraph.com/news/cftc-ai-compute-futures-cme-october-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T17:11:39+00:00",
+      "raw_text": "CFTC seeks public input on AI compute futures contracts as CME eyes October launch\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC seeks public input on AI compute futures contracts as CME eyes October launch\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/",
+      "impact": {}
+    },
     {
       "event_id": "f6e7e9fc-cb09-4c91-b467-f0c45dc07b6a",
       "source": "rss:theblock",
@@ -75,7 +99,8 @@
       "raw_text": "Bitcoin hits $64K as gold gains while oil shakes off Trump Oman threat\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin hits $64K as gold gains while oil shakes off Trump Oman threat\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-",
       "impact": {
         "t_plus_5m": -0.0124,
-        "t_plus_15m": 0.0127
+        "t_plus_15m": 0.0127,
+        "t_plus_1h": -0.1531
       }
     },
     {
@@ -92,7 +117,8 @@
       "raw_text": "Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/eth",
       "impact": {
         "t_plus_5m": 0.1015,
-        "t_plus_15m": 0.0437
+        "t_plus_15m": 0.0437,
+        "t_plus_1h": -0.1186
       }
     },
     {
@@ -6337,48 +6363,24 @@
         "t_plus_1h": -0.0914,
         "t_plus_4h": -0.6208
       }
-    },
-    {
-      "event_id": "dd776425-bc7d-4a89-b725-cea264c9a962",
-      "source": "rss:coindesk",
-      "title": "Solana lending giant Jupiter now lets the same dollar earn twice",
-      "url": "https://www.coindesk.com/markets/2026/08/10/solana-lending-giant-jupiter-now-lets-the-same-dollar-earn-twice",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T14:30:00+00:00",
-      "raw_text": "Solana lending giant Jupiter now lets the same dollar earn twice",
-      "impact": {}
-    },
-    {
-      "event_id": "133ee360-4ec0-4148-bd85-bbea7d270739",
-      "source": "rss:decrypt",
-      "title": "Tom Lee's Bitmine Buys $14M in Ethereum as Cash Falls to $104M",
-      "url": "https://decrypt.co/375201/tom-lees-bitmine-buys-14m-in-ethereum-as-cash-falls-to-104m",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T14:12:12+00:00",
-      "raw_text": "Tom Lee's Bitmine Buys $14M in Ethereum as Cash Falls to $104M\n\nBitmine has reported 4.8% of the supply for five straight weeks, leaving its 'Alchemy of 5%' target roughly 230,000 tokens away.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 126,
-        "avg_1h": -0.04,
-        "avg_24h": 0.47,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 132,
+        "count": 133,
         "avg_1h": -0.07,
         "avg_24h": -0.53,
         "win_rate_1h_gt5pct": 0.0
       },
+      "macro": {
+        "count": 126,
+        "avg_1h": -0.05,
+        "avg_24h": 0.47,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 186,
+        "count": 185,
         "avg_1h": -0.05,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
