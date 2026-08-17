@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-17T07:12:30.896449+00:00",
+  "generated_at": "2026-08-17T08:56:10.210547+00:00",
   "events": [
+    {
+      "event_id": "d83c8b5d-f383-4c34-b443-befb6e8e4deb",
+      "source": "rss:coindesk",
+      "title": "September Fed interest-rate increase is 'very unlikely,' Goldman Sachs says",
+      "url": "https://www.coindesk.com/markets/2026/08/17/september-fed-interest-rate-increase-is-very-unlikely-goldman-sachs-says",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T08:16:11+00:00",
+      "raw_text": "September Fed interest-rate increase is 'very unlikely,' Goldman Sachs says",
+      "impact": {}
+    },
     {
       "event_id": "241de714-161b-4482-ba1c-7a78f21c7618",
       "source": "rss:cointelegraph",
@@ -39,8 +51,21 @@
       "raw_text": "XRP traders bet on a rebound as price slips to $1 and bearish chatter surges",
       "impact": {
         "t_plus_5m": -0.049,
-        "t_plus_15m": -0.0664
+        "t_plus_15m": -0.0664,
+        "t_plus_1h": -0.0122
       }
+    },
+    {
+      "event_id": "3b2a3b8f-6ded-4ac1-b5ae-40e053c005d1",
+      "source": "rss:coindesk",
+      "title": "Bitcoin nears $64,000 in Asia morning hours as HYPE jumps 8% on the week",
+      "url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-tops-usd64-000-in-asia-morning-hours-as-hype-jumps-8-on-the-week",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T04:14:00+00:00",
+      "raw_text": "Bitcoin nears $64,000 in Asia morning hours as HYPE jumps 8% on the week",
+      "impact": {}
     },
     {
       "event_id": "839c4047-051f-4c37-b167-706ddbe307db",
@@ -6371,50 +6396,26 @@
       "timestamp_utc": "2026-08-10T03:34:53+00:00",
       "raw_text": "Crypto’s first quantum attack will look like unexplained breach: Quantus founder\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto’s first quantum attack will look like unexplained breach: Quantus founder\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
       "impact": {}
-    },
-    {
-      "event_id": "95ba5a3d-e955-4317-9861-0b0de9c08df0",
-      "source": "rss:cointelegraph",
-      "title": "BIP-110 ends with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9",
-      "url": "https://cointelegraph.com/magazine/bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T00:32:21+00:00",
-      "raw_text": "BIP-110 ends with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BIP-110 ends with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
-      "impact": {}
-    },
-    {
-      "event_id": "5ae1862f-ccae-45f1-a124-1c8d56f3caaa",
-      "source": "rss:cointelegraph",
-      "title": "BIP-110 dies with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9",
-      "url": "https://cointelegraph.com/magazine/bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T00:32:21+00:00",
-      "raw_text": "BIP-110 dies with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BIP-110 dies with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 121,
+        "avg_1h": -0.01,
+        "avg_24h": 0.47,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 192,
+        "count": 193,
         "avg_1h": -0.06,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 132,
+        "count": 130,
         "avg_1h": -0.15,
         "avg_24h": -0.53,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 120,
-        "avg_1h": -0.01,
-        "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
