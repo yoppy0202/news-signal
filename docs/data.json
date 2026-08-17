@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-17T21:35:49.012412+00:00",
+  "generated_at": "2026-08-17T22:36:25.331709+00:00",
   "events": [
+    {
+      "event_id": "f9f70ec7-b01d-47d2-a37a-09d5f7ab2e6e",
+      "source": "rss:decrypt",
+      "title": "Minnesota Says xAI's Grok Created 'Marketplace for Digital Sexual Violence'",
+      "url": "https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T22:16:03+00:00",
+      "raw_text": "Minnesota Says xAI's Grok Created 'Marketplace for Digital Sexual Violence'\n\nElon Musk’s AI firm says the state’s first-of-its-kind nudification ban violates the First Amendment. Minnesota says it regulates a tool, not speech.",
+      "impact": {}
+    },
+    {
+      "event_id": "d3b04061-91c4-45f5-986a-f04ac13b82ce",
+      "source": "rss:coindesk",
+      "title": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push",
+      "url": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T22:12:00+00:00",
+      "raw_text": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push",
+      "impact": {}
+    },
+    {
+      "event_id": "92673e64-7f10-4fa4-96b0-043262a965ee",
+      "source": "rss:bitcoinmagazine",
+      "title": "Losses Top $115M In Coldcard Bitcoin Hack: Galaxy Research",
+      "url": "https://bitcoinmagazine.com/news/losses-top-115-million-in-coldcard-hack",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T21:32:34+00:00",
+      "raw_text": "Losses Top $115M In Coldcard Bitcoin Hack: Galaxy Research\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Losses-Top-115M-In-Coldcard-Bitcoin-Hack-Galaxy-Research.jpg\" style=\"display: block; margin:",
+      "impact": {}
+    },
+    {
+      "event_id": "b3978dde-f76a-4cc8-b958-0fbc618f8d5e",
+      "source": "rss:cointelegraph",
+      "title": "OCC approves Trump family crypto company for trust charter",
+      "url": "https://cointelegraph.com/news/occ-donald-trump-world-liberty-financial-trust-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T21:17:30+00:00",
+      "raw_text": "OCC approves Trump family crypto company for trust charter\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OCC approves Trump family crypto company for trust charter\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-donald-trump-and-wlfi.jp",
+      "impact": {}
+    },
     {
       "event_id": "4d52aefa-cdba-4902-ba18-5edda4b9d562",
       "source": "rss:decrypt",
@@ -32,10 +80,15 @@
       "url": "https://bitcoinmagazine.com/news/jane-street-bitcoin-position",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-17T20:37:07+00:00",
       "raw_text": "Jane Street Reveals Nearly $1B Bitcoin Position\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Jane-Street-Reveals-Nearly-1B-Bitcoin-Position.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0854,
+        "t_plus_15m": 0.0236
+      }
     },
     {
       "event_id": "408a7e4f-1909-40a1-98c1-d790b26d83e9",
@@ -6298,69 +6351,26 @@
       "timestamp_utc": "2026-08-10T17:05:14+00:00",
       "raw_text": "Keel shutters all US bitcoin mining operations amid continuing AI pivot\n\n<p>Like many other Bitcoin miners, Keel has been shifting its focus from mining in favor of becoming a supplier of AI infrastructure.</p>\n\n<p>Like many other Bitcoin miners, Keel has been shifting its focus from mining in favor",
       "impact": {}
-    },
-    {
-      "event_id": "0e9f7e3d-7a62-49f5-9bda-e40b1c0457f0",
-      "source": "rss:decrypt",
-      "title": "Web3 Is Building Financial Freedom Only for People Who Can Afford Mistakes",
-      "url": "https://decrypt.co/375226/web3-is-building-financial-freedom-only-for-people-who-can-afford-mistakes",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T16:25:28+00:00",
-      "raw_text": "Web3 Is Building Financial Freedom Only for People Who Can Afford Mistakes\n\nWhen the same mistake recurs across many users, it stops being client error and becomes product data, argues ChangeNOW's Pauline Shangett.",
-      "impact": {}
-    },
-    {
-      "event_id": "e379e851-a827-4cee-958d-772b9b08cc1d",
-      "source": "rss:theblock",
-      "title": "Vitalik Buterin puts privacy and quantum resistance front and center in Ethereum’s latest roadmap",
-      "url": "https://www.theblock.co/news/ecosystems/2026-08-10-vitalik-buterin-privacy-quantum-resistance-front-and-center-ethereum-latest-roadmap-411298",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T16:24:44+00:00",
-      "raw_text": "Vitalik Buterin puts privacy and quantum resistance front and center in Ethereum’s latest roadmap\n\nButerin previously said the upgrades included in Lean Ethereum will form the protocol's “third major iteration.”\n\nButerin previously said the upgrades included in Lean Ethereum will form the protocol's",
-      "impact": {}
-    },
-    {
-      "event_id": "26cd2516-0743-47e4-b14f-4c361b5063e5",
-      "source": "rss:theblock",
-      "title": "Vitalik Buterin puts privacy and quantum resistance front and center in Ethereum’s latest roadmap",
-      "url": "https://www.theblock.co/news/ecosystems/2026-08-10-vitalik-buterin-privacy-quantum-resistance-front-and-center-ethereum-latest-roadmap-411298?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T16:24:44+00:00",
-      "raw_text": "Vitalik Buterin puts privacy and quantum resistance front and center in Ethereum’s latest roadmap\n\n<p>Buterin previously said the upgrades included in Lean Ethereum will form the protocol's “third major iteration.”</p>\n\n<p>Buterin previously said the upgrades included in Lean Ethereum will form the ",
-      "impact": {}
-    },
-    {
-      "event_id": "b10e30fb-4d87-4706-a0b5-5f47b8f211bd",
-      "source": "rss:bitcoinmagazine",
-      "title": "Strategy Sells Bitcoin Again For Cash Buffer, STRC Buyback",
-      "url": "https://bitcoinmagazine.com/news/strategy-sells-more-bitcoin-for-cash-pile",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-10T16:17:33+00:00",
-      "raw_text": "Strategy Sells Bitcoin Again For Cash Buffer, STRC Buyback\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/01/Strategy-MSTR-Stock-Soars-10-Above-189-as-Bitcoin-Nears-100000-1.jpg\" style=\"display: block;",
-      "impact": {
-        "t_plus_5m": -0.0229,
-        "t_plus_15m": -0.0171,
-        "t_plus_1h": -0.2916,
-        "t_plus_4h": -0.041
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 128,
+        "avg_1h": -0.04,
+        "avg_24h": -0.53,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 126,
+        "count": 127,
         "avg_1h": -0.05,
         "avg_24h": 0.47,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 51,
+        "avg_1h": -0.04,
+        "avg_24h": -0.11,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
@@ -6369,21 +6379,9 @@
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 129,
-        "avg_1h": -0.04,
-        "avg_24h": -0.53,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 50,
-        "avg_1h": -0.04,
-        "avg_24h": -0.11,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "listing": {
-        "count": 7,
-        "avg_1h": -0.13,
+        "count": 6,
+        "avg_1h": -0.08,
         "avg_24h": -0.13,
         "win_rate_1h_gt5pct": 0.0
       }
