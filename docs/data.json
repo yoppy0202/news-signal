@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-17T08:56:10.210547+00:00",
+  "generated_at": "2026-08-17T09:53:33.153044+00:00",
   "events": [
+    {
+      "event_id": "74ccd1f0-51bb-4de4-bfc9-e76b29c7dcd8",
+      "source": "rss:coindesk",
+      "title": "Binance handed user data to Russia that led to a Ukrainian donor's arrest",
+      "url": "https://www.coindesk.com/policy/2026/08/17/binance-handed-user-data-to-russia-that-led-to-a-ukrainian-donor-s-arrest",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T09:16:14+00:00",
+      "raw_text": "Binance handed user data to Russia that led to a Ukrainian donor's arrest",
+      "impact": {}
+    },
+    {
+      "event_id": "61ed8999-5381-461e-8cd8-61f7db2fe4d2",
+      "source": "rss:coindesk",
+      "title": "Coinbase-Circle USDC collaboration, FOMC minutes, oil price: Crypto Week Ahead",
+      "url": "https://www.coindesk.com/markets/2026/08/17/coinbase-circle-usdc-collaboration-fomc-minutes-oil-price-crypto-week-ahead",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T09:13:02+00:00",
+      "raw_text": "Coinbase-Circle USDC collaboration, FOMC minutes, oil price: Crypto Week Ahead",
+      "impact": {}
+    },
+    {
+      "event_id": "34c73138-5233-40d4-a58a-b9775bf8d08e",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin flat near $63,500, but the flows have quietly turned",
+      "url": "https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T08:38:26+00:00",
+      "raw_text": "Live updates: Bitcoin flat near $63,500, but the flows have quietly turned",
+      "impact": {}
+    },
     {
       "event_id": "d83c8b5d-f383-4c34-b443-befb6e8e4deb",
       "source": "rss:coindesk",
@@ -52,7 +88,8 @@
       "impact": {
         "t_plus_5m": -0.049,
         "t_plus_15m": -0.0664,
-        "t_plus_1h": -0.0122
+        "t_plus_1h": -0.0122,
+        "t_plus_4h": -0.2827
       }
     },
     {
@@ -6353,73 +6390,30 @@
       "timestamp_utc": "2026-08-10T04:39:37+00:00",
       "raw_text": "Bitcoin tops $65,000 with US inflation data due this week",
       "impact": {}
-    },
-    {
-      "event_id": "e390270f-baa9-4cd5-8c2d-acb6c5e330e5",
-      "source": "rss:cointelegraph",
-      "title": "Australia orders Cryptolink Bitcoin ATMs offline over ‘basic reporting’ failures",
-      "url": "https://cointelegraph.com/news/australia-orders-cryptolink-bitcoin-atms-offline-over-basic-reporting-failures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T04:32:36+00:00",
-      "raw_text": "Australia orders Cryptolink Bitcoin ATMs offline over ‘basic reporting’ failures\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Australia orders Cryptolink Bitcoin ATMs offline over ‘basic reporting’ failures\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
-      "impact": {}
-    },
-    {
-      "event_id": "2624259c-32df-4030-9d0d-a114869667c9",
-      "source": "rss:coindesk",
-      "title": "XRP is getting left behind in the crypto bounce even as ETFs keep attracting investor money",
-      "url": "https://www.coindesk.com/markets/2026/08/10/xrp-is-getting-left-behind-in-the-crypto-bounce-even-as-etfs-keep-attracting-investor-money",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-08-10T04:26:01+00:00",
-      "raw_text": "XRP is getting left behind in the crypto bounce even as ETFs keep attracting investor money",
-      "impact": {
-        "t_plus_5m": -0.2152,
-        "t_plus_15m": -0.2968,
-        "t_plus_1h": -0.0819,
-        "t_plus_4h": 0.2889
-      }
-    },
-    {
-      "event_id": "d3983185-0ccf-4528-a55d-36d7dab3628a",
-      "source": "rss:cointelegraph",
-      "title": "Crypto’s first quantum attack will look like unexplained breach: Quantus founder",
-      "url": "https://cointelegraph.com/news/cryptos-first-quantum-attack-look-like-ordinary-key-theft-quantus-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T03:34:53+00:00",
-      "raw_text": "Crypto’s first quantum attack will look like unexplained breach: Quantus founder\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto’s first quantum attack will look like unexplained breach: Quantus founder\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 121,
-        "avg_1h": -0.01,
-        "avg_24h": 0.47,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 193,
-        "avg_1h": -0.06,
-        "avg_24h": 0.14,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
         "count": 130,
         "avg_1h": -0.15,
         "avg_24h": -0.53,
         "win_rate_1h_gt5pct": 0.0
       },
+      "unknown": {
+        "count": 195,
+        "avg_1h": -0.06,
+        "avg_24h": 0.14,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 120,
+        "avg_1h": -0.0,
+        "avg_24h": 0.47,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
-        "count": 51,
+        "count": 50,
         "avg_1h": -0.04,
         "avg_24h": -0.11,
         "win_rate_1h_gt5pct": 0.0
