@@ -1,6 +1,90 @@
 {
-  "generated_at": "2026-08-17T15:35:15.535587+00:00",
+  "generated_at": "2026-08-17T16:40:50.008115+00:00",
   "events": [
+    {
+      "event_id": "5b1bab63-db63-4a5e-877f-530246bd3a02",
+      "source": "rss:decrypt",
+      "title": "Wall Street Pushback Halts SEC's Crypto Fundraising Framework, Sources Say",
+      "url": "https://decrypt.co/375779/wall-street-pushback-halts-sec-crypto-fundraising-framework",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T16:27:26+00:00",
+      "raw_text": "Wall Street Pushback Halts SEC's Crypto Fundraising Framework, Sources Say\n\nThe securities regulator cited an \"unforeseen scheduling issue,\" but sources point to a legal threat from Wall Street trade group SIFMA and an administration waiting to see whether the Clarity Act passes in September.",
+      "impact": {}
+    },
+    {
+      "event_id": "aa719f7b-263c-4f18-b82a-772bd7357780",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin hits $64K as gold gains while oil shakes off Trump Oman threat",
+      "url": "https://cointelegraph.com/markets/bitcoin-hits-64k-as-gold-gains-while-oil-shakes-off-trump-oman-threat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T16:16:40+00:00",
+      "raw_text": "Bitcoin hits $64K as gold gains while oil shakes off Trump Oman threat\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin hits $64K as gold gains while oil shakes off Trump Oman threat\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-",
+      "impact": {}
+    },
+    {
+      "event_id": "b46c2344-dfad-402d-a48f-1f113099271b",
+      "source": "rss:cointelegraph",
+      "title": "Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses",
+      "url": "https://cointelegraph.com/news/bitmine-ethereum-supply-5-82-million-eth-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T16:04:32+00:00",
+      "raw_text": "Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/eth",
+      "impact": {}
+    },
+    {
+      "event_id": "bed7dc50-3401-44bc-bbd7-0e55ca7ea0aa",
+      "source": "rss:decrypt",
+      "title": "What Stripe's $7 Billion OpenRouter Deal Actually Means for AI",
+      "url": "https://decrypt.co/375769/what-stripe-openrouter-deal-means-ai",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T15:54:29+00:00",
+      "raw_text": "What Stripe's $7 Billion OpenRouter Deal Actually Means for AI\n\nStripe just bought the layer that decides which AI model answers your prompt—and it was already collecting the money for it.",
+      "impact": {}
+    },
+    {
+      "event_id": "ca25e911-c58d-4a4d-8d5e-dab7c8f02139",
+      "source": "rss:decrypt",
+      "title": "Tom Lee’s Bitmine Buys Another $19 Million in Ethereum as Stash Nears 5% of Total Supply",
+      "url": "https://decrypt.co/375768/tom-lee-bitcoin-buys-19-million-ethereum",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T15:47:59+00:00",
+      "raw_text": "Tom Lee’s Bitmine Buys Another $19 Million in Ethereum as Stash Nears 5% of Total Supply\n\nThe firm says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.",
+      "impact": {}
+    },
+    {
+      "event_id": "db37a58a-963f-437c-ba50-dfca6957ecf2",
+      "source": "rss:coindesk",
+      "title": "Compound bets $52 million, new leadership team in switch to institutional focus",
+      "url": "https://www.coindesk.com/business/2026/08/17/compound-bets-usd52-million-new-leadership-team-in-switch-to-institutional-focus",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T15:32:30+00:00",
+      "raw_text": "Compound bets $52 million, new leadership team in switch to institutional focus",
+      "impact": {}
+    },
+    {
+      "event_id": "d27567a1-34a0-4162-b189-24c51ea5f779",
+      "source": "rss:theblock",
+      "title": "Harmony plans pre-attack rollback after exploiter forged 3 trillion ONE tokens",
+      "url": "https://www.theblock.co/news/ecosystems/2026-08-17-harmony-plans-pre-attack-rollback-after-exploiter-forged-3-trillion-one-tokens-411976",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T15:06:21+00:00",
+      "raw_text": "Harmony plans pre-attack rollback after exploiter forged 3 trillion ONE tokens\n\nHarmony considered alternatives, including a token burn &amp; blacklisting wallets, but concluded a rollback was \"fairest and most secure.\"",
+      "impact": {}
+    },
     {
       "event_id": "41f7e3fd-8358-4f24-b3ad-3ce7e9158409",
       "source": "rss:coindesk",
@@ -20,10 +104,16 @@
       "url": "https://bitcoinmagazine.com/news/strategy-goes-another-week-without-buying",
       "event_type": "listing",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-17T14:23:17+00:00",
       "raw_text": "Strategy Goes Another Week Without Buying — Or Selling — Bitcoin, Builds Up Cash Reserve\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time-in-Years-as-Bitcoin",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.3961,
+        "t_plus_15m": -0.4233,
+        "t_plus_1h": -0.0217
+      }
     },
     {
       "event_id": "f7aa96ad-3220-4aa4-a29d-d9e473e86856",
@@ -44,10 +134,16 @@
       "url": "https://www.coindesk.com/markets/2026/08/17/tom-lee-s-bitmine-now-owns-4-8-of-ethereum-supply-after-latest-eth-purchase",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-08-17T14:04:21+00:00",
       "raw_text": "Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2993,
+        "t_plus_15m": -0.3194,
+        "t_plus_1h": 0.0031
+      }
     },
     {
       "event_id": "3fd062ae-1073-4ab2-8011-ab64223ab9b3",
@@ -75,7 +171,8 @@
       "raw_text": "Bitmine adds 9,926 ETH, taking total holdings to roughly $11 billion\n\nBitmine added 9,926 ETH last week, taking holdings to 5.82 million tokens while buybacks reached 20.8 million shares since July.",
       "impact": {
         "t_plus_5m": 0.0061,
-        "t_plus_15m": -0.1311
+        "t_plus_15m": -0.1311,
+        "t_plus_1h": 0.1227
       }
     },
     {
@@ -388,6 +485,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-17T09:13:02+00:00",
       "raw_text": "Coinbase-Circle USDC collaboration, FOMC minutes, oil price: Crypto Week Ahead",
+      "impact": {}
+    },
+    {
+      "event_id": "5ce37e05-8297-4189-a95b-fd3eface0f0e",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin rises above $64,000 as big AI compute deals continue to roll in",
+      "url": "https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T08:38:26+00:00",
+      "raw_text": "Live updates: Bitcoin rises above $64,000 as big AI compute deals continue to roll in",
       "impact": {}
     },
     {
@@ -6249,145 +6358,31 @@
         "t_plus_1h": -0.3171,
         "t_plus_4h": -1.3736
       }
-    },
-    {
-      "event_id": "b1782590-70ce-472f-a146-6623bc4f8b20",
-      "source": "rss:coindesk",
-      "title": "Bitmine’s ETH buying slows as Tom Lee's firm shifts capital to share buybacks",
-      "url": "https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-08-10T13:50:51+00:00",
-      "raw_text": "Bitmine’s ETH buying slows as Tom Lee's firm shifts capital to share buybacks",
-      "impact": {
-        "t_plus_5m": -0.2356,
-        "t_plus_15m": -0.076,
-        "t_plus_1h": -0.1848
-      }
-    },
-    {
-      "event_id": "bca0b6be-7e5d-4c1e-a107-94d1ca5ac206",
-      "source": "rss:coindesk",
-      "title": "Solana gets its first Strategy STRC product through Solstice Finance",
-      "url": "https://www.coindesk.com/business/2026/08/10/solstice-rolls-out-strategy-s-strc-preferred-stock-income-to-solana",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T13:26:36+00:00",
-      "raw_text": "Solana gets its first Strategy STRC product through Solstice Finance",
-      "impact": {}
-    },
-    {
-      "event_id": "595ac23d-3104-4f76-816c-b8f4d20e8e97",
-      "source": "rss:cointelegraph",
-      "title": "Bitdeer increased Bitcoin mining output by nearly fivefold in Q2",
-      "url": "https://cointelegraph.com/news/bitdeer-bitcoin-mining-output-fivefold-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-10T13:07:42+00:00",
-      "raw_text": "Bitdeer increased Bitcoin mining output by nearly fivefold in Q2\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitdeer increased Bitcoin mining output by nearly fivefold in Q2\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-top-mining-h",
-      "impact": {
-        "t_plus_5m": 0.066,
-        "t_plus_15m": 0.1556,
-        "t_plus_1h": -0.2707
-      }
-    },
-    {
-      "event_id": "241dc939-ff24-46a9-acfe-a30f61289540",
-      "source": "rss:theblock",
-      "title": "‘Owning the rails’: Standard Chartered sees LINK at $200 by 2030 as Chainlink underpins tokenized-asset boom",
-      "url": "https://www.theblock.co/news/defi/2026-08-10-standard-chartered-chainlink-tokenization-411252",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T13:04:18+00:00",
-      "raw_text": "‘Owning the rails’: Standard Chartered sees LINK at $200 by 2030 as Chainlink underpins tokenized-asset boom\n\nStandard Chartered bets Chainlink owns the rails for tokenized finance, initiating LINK coverage with a $200 target by end-2030.\n\nStandard Chartered bets Chainlink owns the rails for tokeniz",
-      "impact": {}
-    },
-    {
-      "event_id": "f843ef6c-dd6d-449b-9750-56d978cb67d8",
-      "source": "rss:theblock",
-      "title": "‘Owning the rails’: Standard Chartered sees LINK at $200 by 2030 as Chainlink underpins tokenized-asset boom",
-      "url": "https://www.theblock.co/news/defi/2026-08-10-standard-chartered-chainlink-tokenization-411252?utm_source=rss&utm_medium=rss",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "LINK"
-      ],
-      "timestamp_utc": "2026-08-10T13:04:18+00:00",
-      "raw_text": "‘Owning the rails’: Standard Chartered sees LINK at $200 by 2030 as Chainlink underpins tokenized-asset boom\n\n<p>Standard Chartered bets Chainlink owns the rails for tokenized finance, initiating LINK coverage with a $200 target by end-2030.</p>\n\n<p>Standard Chartered bets Chainlink owns the rails f",
-      "impact": {
-        "t_plus_5m": -0.3997,
-        "t_plus_15m": -0.3118,
-        "t_plus_1h": -0.4393
-      }
-    },
-    {
-      "event_id": "05a0ae7d-d7cc-472c-a4e8-055ce103091d",
-      "source": "rss:cointelegraph",
-      "title": "Strategy turns 1,690 BTC into $108.6M STRC buyback",
-      "url": "https://cointelegraph.com/markets/strategy-sells-1690-btc-buy-back-108-6-million-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-10T12:36:32+00:00",
-      "raw_text": "Strategy turns 1,690 BTC into $108.6M STRC buyback\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy turns 1,690 BTC into $108.6M STRC buyback\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-strategyb-turned-k-into-m-using-a-hi",
-      "impact": {
-        "t_plus_5m": 0.1527,
-        "t_plus_15m": 0.2259,
-        "t_plus_1h": -0.1021
-      }
-    },
-    {
-      "event_id": "26ff8d89-6773-4c2b-989e-a0e0f724430e",
-      "source": "rss:decrypt",
-      "title": "Morning Minute: Bitcoin ETFs See Biggest Inflows Since May",
-      "url": "https://decrypt.co/375194/morning-minute-bitcoin-etfs-see-biggest-inflows-since-may",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-08-10T12:32:19+00:00",
-      "raw_text": "Morning Minute: Bitcoin ETFs See Biggest Inflows Since May\n\nAnd the ETH inflows were even bigger, when factoring in market cap.",
-      "impact": {
-        "t_plus_5m": 0.7026,
-        "t_plus_15m": 0.7428,
-        "t_plus_1h": 0.3805
-      }
-    },
-    {
-      "event_id": "6ee4c738-8e5d-49d8-ae66-21d711e34e7b",
-      "source": "rss:decrypt",
-      "title": "Strategy Sells $109M in Bitcoin as Dollar Reserve Tops $4.6B",
-      "url": "https://decrypt.co/375196/strategy-sells-109m-in-bitcoin-as-dollar-reserve-tops-4-6b",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T12:24:48+00:00",
-      "raw_text": "Strategy Sells $109M in Bitcoin as Dollar Reserve Tops $4.6B\n\nAll of the proceeds went into a $109 million STRC buyback, while the company sold six times as much again in its own stock.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 123,
+        "avg_1h": -0.04,
+        "avg_24h": 0.47,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 131,
+        "avg_1h": -0.07,
+        "avg_24h": -0.53,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 191,
-        "avg_1h": -0.1,
+        "count": 188,
+        "avg_1h": -0.07,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
-        "count": 6,
-        "avg_1h": -0.17,
+        "count": 7,
+        "avg_1h": -0.13,
         "avg_24h": -0.13,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6395,18 +6390,6 @@
         "count": 51,
         "avg_1h": -0.04,
         "avg_24h": -0.11,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 122,
-        "avg_1h": -0.0,
-        "avg_24h": 0.47,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 130,
-        "avg_1h": -0.1,
-        "avg_24h": -0.53,
         "win_rate_1h_gt5pct": 0.0
       }
     }
