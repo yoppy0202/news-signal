@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-17T20:38:09.252519+00:00",
+  "generated_at": "2026-08-17T21:35:49.012412+00:00",
   "events": [
+    {
+      "event_id": "4d52aefa-cdba-4902-ba18-5edda4b9d562",
+      "source": "rss:decrypt",
+      "title": "Prediction Markets Give the Fed 74% Odds of Standing Pat in September",
+      "url": "https://decrypt.co/375821/prediction-fed-rate-change-september",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T21:16:17+00:00",
+      "raw_text": "Prediction Markets Give the Fed 74% Odds of Standing Pat in September\n\nTraders across Polymarket, Kalshi, and Myriad are leaning the same way: no change at the September meeting.",
+      "impact": {}
+    },
+    {
+      "event_id": "47745d74-d030-4009-a1b8-86612bcdcc02",
+      "source": "rss:theblock",
+      "title": "Tokenized equities triple market share as Ondo, Binance and xStocks dominate",
+      "url": "https://www.theblock.co/news/defi/2026-08-17-tokenized-equities-triple-market-share-ondo-binance-xstocks-dominate-411996",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T20:55:00+00:00",
+      "raw_text": "Tokenized equities triple market share as Ondo, Binance and xStocks dominate\n\nTokenized stock market share has grown to 15%, up 3x from the start of the year, with the total market cap around $2.8 billion.",
+      "impact": {}
+    },
+    {
+      "event_id": "9b4ca993-26f8-4543-9f47-c50029d5cc3a",
+      "source": "rss:bitcoinmagazine",
+      "title": "Jane Street Reveals Nearly $1B Bitcoin Position",
+      "url": "https://bitcoinmagazine.com/news/jane-street-bitcoin-position",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T20:37:07+00:00",
+      "raw_text": "Jane Street Reveals Nearly $1B Bitcoin Position\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Jane-Street-Reveals-Nearly-1B-Bitcoin-Position.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n",
+      "impact": {}
+    },
+    {
+      "event_id": "408a7e4f-1909-40a1-98c1-d790b26d83e9",
+      "source": "rss:decrypt",
+      "title": "Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in US",
+      "url": "https://decrypt.co/375817/treasury-rules-sell-stablecoins-us",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T20:31:04+00:00",
+      "raw_text": "Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in US\n\nExchanges and other crypto platforms would face new restrictions on selling stablecoins to US customers beginning in 2027.",
+      "impact": {}
+    },
     {
       "event_id": "5b907dfc-7736-4164-8876-6675a9ab4e37",
       "source": "rss:decrypt",
@@ -39,7 +87,8 @@
       "raw_text": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign\n\nXRP is clinging to the dollar price line it's defended since Trump's 2024 win. But both the daily and weekly charts are now flashing red.",
       "impact": {
         "t_plus_5m": 0.0284,
-        "t_plus_15m": -0.126
+        "t_plus_15m": -0.126,
+        "t_plus_1h": 0.0355
       }
     },
     {
@@ -201,7 +250,8 @@
       "impact": {
         "t_plus_5m": -0.0124,
         "t_plus_15m": 0.0127,
-        "t_plus_1h": -0.1531
+        "t_plus_1h": -0.1531,
+        "t_plus_4h": 0.3404
       }
     },
     {
@@ -219,7 +269,8 @@
       "impact": {
         "t_plus_5m": 0.1015,
         "t_plus_15m": 0.0437,
-        "t_plus_1h": -0.1186
+        "t_plus_1h": -0.1186,
+        "t_plus_4h": -0.0794
       }
     },
     {
@@ -6302,94 +6353,32 @@
         "t_plus_1h": -0.2916,
         "t_plus_4h": -0.041
       }
-    },
-    {
-      "event_id": "c1797b71-a098-448a-9dba-aa7efffd1d49",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin price slip wipes weekend gains as oil surge hits 5% on Hormuz disappointment",
-      "url": "https://cointelegraph.com/markets/bitcoin-wipes-weekend-gains-as-oil-nears-5-surge-on-hormuz-disappointment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-10T16:14:58+00:00",
-      "raw_text": "Bitcoin price slip wipes weekend gains as oil surge hits 5% on Hormuz disappointment\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price slip wipes weekend gains as oil surge hits 5% on Hormuz disappointment\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia",
-      "impact": {
-        "t_plus_5m": -0.001,
-        "t_plus_15m": 0.0075,
-        "t_plus_1h": -0.1945,
-        "t_plus_4h": -0.105
-      }
-    },
-    {
-      "event_id": "966cc5e2-592d-4cbf-8d73-f7d780094145",
-      "source": "rss:decrypt",
-      "title": "XRP Price Weakens as Crypto Market Awaits Clarity",
-      "url": "https://decrypt.co/375214/xrp-price-weakens-crypto-market-awaits-clarity",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-08-10T16:11:20+00:00",
-      "raw_text": "XRP Price Weakens as Crypto Market Awaits Clarity\n\nXRP is trading just above $1.00, still pinned under a death cross, as the legislative tailwind that lifted it in July loses steam.",
-      "impact": {
-        "t_plus_5m": 0.0478,
-        "t_plus_15m": 0.1236,
-        "t_plus_1h": -0.1356,
-        "t_plus_4h": -0.0919
-      }
-    },
-    {
-      "event_id": "ec3044f5-eba3-4f86-9beb-8384965192ca",
-      "source": "rss:cointelegraph",
-      "title": "BlackRock launches 2 Canada ETFs, with one allocating 3% to Bitcoin",
-      "url": "https://cointelegraph.com/news/blackrock-launches-two-canada-etfs-with-one-allocating-3-to-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T15:59:06+00:00",
-      "raw_text": "BlackRock launches 2 Canada ETFs, with one allocating 3% to Bitcoin\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BlackRock launches 2 Canada ETFs, with one allocating 3% to Bitcoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-canada",
-      "impact": {}
-    },
-    {
-      "event_id": "9afc2206-6731-41a2-a064-0f8107da5e63",
-      "source": "rss:cointelegraph",
-      "title": "BlackRock launches two Canada ETFs, with one allocating 3% to Bitcoin",
-      "url": "https://cointelegraph.com/news/blackrock-launches-two-canada-etfs-with-one-allocating-3-to-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T15:59:06+00:00",
-      "raw_text": "BlackRock launches two Canada ETFs, with one allocating 3% to Bitcoin\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BlackRock launches two Canada ETFs, with one allocating 3% to Bitcoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-ca",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "hack": {
-        "count": 50,
-        "avg_1h": -0.04,
-        "avg_24h": -0.11,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 130,
-        "avg_1h": -0.07,
-        "avg_24h": -0.53,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 187,
-        "avg_1h": -0.05,
-        "avg_24h": 0.14,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
         "count": 126,
         "avg_1h": -0.05,
         "avg_24h": 0.47,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 188,
+        "avg_1h": -0.05,
+        "avg_24h": 0.14,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 129,
+        "avg_1h": -0.04,
+        "avg_24h": -0.53,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 50,
+        "avg_1h": -0.04,
+        "avg_24h": -0.11,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
