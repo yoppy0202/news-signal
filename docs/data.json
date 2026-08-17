@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-17T13:49:50.051655+00:00",
+  "generated_at": "2026-08-17T14:39:13.518968+00:00",
   "events": [
+    {
+      "event_id": "3fd062ae-1073-4ab2-8011-ab64223ab9b3",
+      "source": "rss:coindesk",
+      "title": "How a bug in Coldcard’s code went unnoticed for years, leading to $100 million in hacked funds",
+      "url": "https://www.coindesk.com/tech/2026/08/17/how-a-bug-in-coldcard-s-code-went-unnoticed-for-years-leading-to-usd100-million-in-hacked-funds",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T13:57:11+00:00",
+      "raw_text": "How a bug in Coldcard’s code went unnoticed for years, leading to $100 million in hacked funds",
+      "impact": {}
+    },
+    {
+      "event_id": "07d9fad6-0dfb-406f-95ce-3cf4d02d2fba",
+      "source": "rss:theblock",
+      "title": "Bitmine adds 9,926 ETH, taking total holdings to roughly $11 billion",
+      "url": "https://www.theblock.co/news/business/2026-08-17-bitmine-adds-9926-eth-taking-total-holdings-to-roughly-11-billion-411968",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T13:53:11+00:00",
+      "raw_text": "Bitmine adds 9,926 ETH, taking total holdings to roughly $11 billion\n\nBitmine added 9,926 ETH last week, taking holdings to 5.82 million tokens while buybacks reached 20.8 million shares since July.",
+      "impact": {}
+    },
+    {
+      "event_id": "9913d543-b959-477b-bec7-eeb5aa57f556",
+      "source": "rss:decrypt",
+      "title": "Hackers Are Abusing a macOS Screen Sharing Flaw to Secretly Mine Monero",
+      "url": "https://decrypt.co/375749/hackers-macos-screen-sharing-secretly-mine-monero",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T13:31:04+00:00",
+      "raw_text": "Hackers Are Abusing a macOS Screen Sharing Flaw to Secretly Mine Monero\n\nThe Dutch cyber agency says attackers exploited an authentication flaw in macOS Screen Sharing to gain root access and plant Monero miners, with public proof-of-concept code now circulating.",
+      "impact": {}
+    },
     {
       "event_id": "dbcbc7bb-9c92-4ea1-925d-0f1f902e04f0",
       "source": "rss:decrypt",
@@ -32,10 +68,15 @@
       "url": "https://decrypt.co/375762/strategy-leaves-bitcoin-untouched-raises-334m-selling-mstr-stock",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-17T12:56:55+00:00",
       "raw_text": "Strategy Leaves Bitcoin Untouched, Raises $334M Selling MSTR Stock\n\nThe Bitcoin treasury firm halted BTC sales after three weeks, with equity issuance covering dividends, a STRC buyback and the dollar reserve.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1321,
+        "t_plus_15m": 0.1245
+      }
     },
     {
       "event_id": "a023652e-6793-4260-a37c-e98e4ca6a771",
@@ -6341,66 +6382,12 @@
       "timestamp_utc": "2026-08-10T11:39:44+00:00",
       "raw_text": "Crypto exchange Coinsbuy loses $8 million in coordinated two-blockchain attack",
       "impact": {}
-    },
-    {
-      "event_id": "839d1eb6-4276-4817-bedd-d42b5d403565",
-      "source": "rss:cointelegraph",
-      "title": "Tokenized RWA surge to $4T may push LINK to $200 by end-2030: Standard Chartered",
-      "url": "https://cointelegraph.com/news/tokenized-rwa-4t-push-link-200-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T11:39:39+00:00",
-      "raw_text": "Tokenized RWA surge to $4T may push LINK to $200 by end-2030: Standard Chartered\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tokenized RWA surge to $4T may push LINK to $200 by end-2030: Standard Chartered\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
-      "impact": {}
-    },
-    {
-      "event_id": "11197940-7161-4df2-9a89-3bd8aa6f6893",
-      "source": "rss:cointelegraph",
-      "title": "Tokenized RWA surge to $4T may push LINK to $200 by end 2030: Standard Chartered",
-      "url": "https://cointelegraph.com/news/tokenized-rwa-4t-push-link-200-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "LINK"
-      ],
-      "timestamp_utc": "2026-08-10T11:39:39+00:00",
-      "raw_text": "Tokenized RWA surge to $4T may push LINK to $200 by end 2030: Standard Chartered\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tokenized RWA surge to $4T may push LINK to $200 by end 2030: Standard Chartered\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
-      "impact": {
-        "t_plus_5m": -0.2745,
-        "t_plus_15m": -0.3855,
-        "t_plus_1h": -0.3488
-      }
-    },
-    {
-      "event_id": "fe723e02-5d54-4a2f-9f5e-23121d48befb",
-      "source": "rss:coindesk",
-      "title": "UK’s FCA to regulate tokenized gold to preserve London’s place as the top hub for bullion",
-      "url": "https://www.coindesk.com/business/2026/08/10/why-the-uk-financial-watchdog-is-drafting-new-rules-for-tokenized-gold",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T11:38:33+00:00",
-      "raw_text": "UK’s FCA to regulate tokenized gold to preserve London’s place as the top hub for bullion",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 123,
-        "avg_1h": -0.0,
-        "avg_24h": 0.47,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 132,
-        "avg_1h": -0.15,
-        "avg_24h": -0.53,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 49,
+        "count": 51,
         "avg_1h": -0.04,
         "avg_24h": -0.11,
         "win_rate_1h_gt5pct": 0.0
@@ -6409,6 +6396,18 @@
         "count": 191,
         "avg_1h": -0.05,
         "avg_24h": 0.14,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 123,
+        "avg_1h": -0.0,
+        "avg_24h": 0.47,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 130,
+        "avg_1h": -0.13,
+        "avg_24h": -0.53,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
