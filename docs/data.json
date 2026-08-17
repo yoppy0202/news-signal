@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-17T09:53:33.153044+00:00",
+  "generated_at": "2026-08-17T10:45:21.917218+00:00",
   "events": [
+    {
+      "event_id": "ef1c777f-197b-437c-84d1-7d444a55b17a",
+      "source": "rss:cointelegraph",
+      "title": "Bitpanda fined in Austria’s first published MiCA penalty",
+      "url": "https://cointelegraph.com/news/bitpanda-fined-austrian-published-mica-penalty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T09:31:47+00:00",
+      "raw_text": "Bitpanda fined in Austria’s first published MiCA penalty\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitpanda fined in Austria’s first published MiCA penalty\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-european-union-moves-to-regu",
+      "impact": {}
+    },
+    {
+      "event_id": "089089b0-ad59-45a2-a8a0-a86e1c5e5a04",
+      "source": "rss:decrypt",
+      "title": "SafePal Bitcoin Wallet Data Breach Stokes Fears of Physical Attacks",
+      "url": "https://decrypt.co/375743/safepal-bitcoin-wallet-data-breach",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T09:31:04+00:00",
+      "raw_text": "SafePal Bitcoin Wallet Data Breach Stokes Fears of Physical Attacks\n\nA flaw in an order-tracking plug-in of bitcoin wallet provider SafePal exposed names, addresses and phone numbers of nearly 40,000 customers.",
+      "impact": {}
+    },
     {
       "event_id": "74ccd1f0-51bb-4de4-bfc9-e76b29c7dcd8",
       "source": "rss:coindesk",
@@ -23,6 +47,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-17T09:13:02+00:00",
       "raw_text": "Coinbase-Circle USDC collaboration, FOMC minutes, oil price: Crypto Week Ahead",
+      "impact": {}
+    },
+    {
+      "event_id": "db3f661f-4cee-4d39-a04a-6bc380e36136",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin flat near $63,500; lapsing US-Iran ceasefire revives the oil threat",
+      "url": "https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-17T08:38:26+00:00",
+      "raw_text": "Live updates: Bitcoin flat near $63,500; lapsing US-Iran ceasefire revives the oil threat",
       "impact": {}
     },
     {
@@ -6354,42 +6390,6 @@
       "timestamp_utc": "2026-08-10T06:25:17+00:00",
       "raw_text": "This bitcoin miner rejected BIP-110 despite mining through a pool that supported it",
       "impact": {}
-    },
-    {
-      "event_id": "de6e8759-5c98-40ef-83b5-87d07709a8de",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin Red Team founder turns to Chinese AI: ‘It absolutely guts me’",
-      "url": "https://cointelegraph.com/news/bitcoin-red-team-founder-turns-to-chinese-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T05:18:27+00:00",
-      "raw_text": "Bitcoin Red Team founder turns to Chinese AI: ‘It absolutely guts me’\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin Red Team founder turns to Chinese AI: ‘It absolutely guts me’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/ai-gu",
-      "impact": {}
-    },
-    {
-      "event_id": "497dd9d3-45b8-44f6-b8d3-23e3888e3414",
-      "source": "rss:coindesk",
-      "title": "Bitcoin tops $65,000 with U.S. inflation data due this week",
-      "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-tops-usd65-000-with-us-inflation-data-due-this-week",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T04:39:37+00:00",
-      "raw_text": "Bitcoin tops $65,000 with U.S. inflation data due this week",
-      "impact": {}
-    },
-    {
-      "event_id": "e1dbfa34-e0a1-459b-b590-ec4a86dce4fb",
-      "source": "rss:coindesk",
-      "title": "Bitcoin tops $65,000 with US inflation data due this week",
-      "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-tops-usd65-000-with-us-inflation-data-due-this-week",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T04:39:37+00:00",
-      "raw_text": "Bitcoin tops $65,000 with US inflation data due this week",
-      "impact": {}
     }
   ],
   "stats": {
@@ -6400,8 +6400,14 @@
         "avg_24h": -0.53,
         "win_rate_1h_gt5pct": 0.0
       },
+      "hack": {
+        "count": 51,
+        "avg_1h": -0.04,
+        "avg_24h": -0.11,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 195,
+        "count": 194,
         "avg_1h": -0.06,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
@@ -6410,12 +6416,6 @@
         "count": 120,
         "avg_1h": -0.0,
         "avg_24h": 0.47,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 50,
-        "avg_1h": -0.04,
-        "avg_24h": -0.11,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
