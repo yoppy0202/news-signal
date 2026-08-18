@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-08-18T16:45:15.611894+00:00",
+  "generated_at": "2026-08-18T17:38:20.114768+00:00",
   "events": [
+    {
+      "event_id": "7e8c2cb8-7031-4fde-84da-791381d10dda",
+      "source": "rss:decrypt",
+      "title": "Google Is Paying $10 Million to Use Spirit Airlines Data to Train Its AI Models",
+      "url": "https://decrypt.co/375883/google-spirit-airlines-data-train-ai",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T17:19:44+00:00",
+      "raw_text": "Google Is Paying $10 Million to Use Spirit Airlines Data to Train Its AI Models\n\nThe bankrupt airline’s internal communications and business records could soon be used to improve Google’s AI systems.",
+      "impact": {}
+    },
+    {
+      "event_id": "24a96860-c6e1-4b79-adc6-3ba598411750",
+      "source": "rss:coindesk",
+      "title": "Bitcoin has gone quiet as traders chase ‘5x or 10x’ payoffs elsewhere",
+      "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-has-gone-quiet-as-traders-chase-5x-or-10x-payoffs-elsewhere",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T17:00:00+00:00",
+      "raw_text": "Bitcoin has gone quiet as traders chase ‘5x or 10x’ payoffs elsewhere",
+      "impact": {}
+    },
+    {
+      "event_id": "e0076673-071f-4b09-9b81-98d321399efc",
+      "source": "rss:cointelegraph",
+      "title": "Federal prosecutors blast ex-Celsius CEO’s motion to vacate as ‘without merit’",
+      "url": "https://cointelegraph.com/news/us-prosecutors-celsius-ceo-alex-mashinsky-motion-vacate-deny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T16:49:58+00:00",
+      "raw_text": "Federal prosecutors blast ex-Celsius CEO’s motion to vacate as ‘without merit’\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Federal prosecutors blast ex-Celsius CEO’s motion to vacate as ‘without merit’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar",
+      "impact": {}
+    },
+    {
+      "event_id": "81ef40e5-5b72-4d32-976c-a68e4814bdf4",
+      "source": "rss:bitcoinmagazine",
+      "title": "Bitcoin Is Down but Asset’s Role as Global Monetary Alternative Remains, Says Blackrock",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-role-in-portfolio-blackrock",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T16:49:08+00:00",
+      "raw_text": "Bitcoin Is Down but Asset’s Role as Global Monetary Alternative Remains, Says Blackrock\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Is-Down-but-Assets-Role-as-Global-Monetary-Alternative-",
+      "impact": {}
+    },
+    {
+      "event_id": "5a7e965f-a3a3-4dc3-90b9-a229660a1f16",
+      "source": "rss:cointelegraph",
+      "title": "Metaplanet expands Bitcoin treasury strategy to US with 2,100-BTC Nasdaq play",
+      "url": "https://cointelegraph.com/news/metaplanet-expands-bitcoin-treasury-strategy-super-league?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T16:21:58+00:00",
+      "raw_text": "Metaplanet expands Bitcoin treasury strategy to US with 2,100-BTC Nasdaq play\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Metaplanet expands Bitcoin treasury strategy to US with 2,100-BTC Nasdaq play\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti",
+      "impact": {}
+    },
     {
       "event_id": "4247dcc2-d1bb-4086-9be7-9eaf5f2b92b2",
       "source": "rss:coindesk",
@@ -20,10 +80,15 @@
       "url": "https://bitcoinmagazine.com/technical/hunting-down-the-coldcard-hacker-wave-1-thief-may-be-known-to-fbi",
       "event_type": "hack",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-18T16:02:05+00:00",
       "raw_text": "Hunting Down the Coldcard Hacker. Wave 1 Thief May Be Known to FBI\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/tn-2.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitco",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0262,
+        "t_plus_15m": -0.0689
+      }
     },
     {
       "event_id": "e89d2f40-602e-46f4-b357-b53fdabc572a",
@@ -68,10 +133,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-tags-65k-as-sp-500-rebounds-from-2-week-lows-on-us-iran-rhetoric?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-18T15:27:13+00:00",
       "raw_text": "Bitcoin tags $65K as S&P 500 rebounds from 2-week lows on US-Iran rhetoric\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin tags $65K as S&amp;P 500 rebounds from 2-week lows on US-Iran rhetoric\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0873,
+        "t_plus_15m": 0.0677,
+        "t_plus_1h": -0.1051
+      }
     },
     {
       "event_id": "4d9714ed-f4c8-489f-98c7-0fd885d1dc3f",
@@ -92,10 +163,16 @@
       "url": "https://decrypt.co/375878/metaplanet-us-132m-bitcoin-treasury-deal",
       "event_type": "listing",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-18T15:19:45+00:00",
       "raw_text": "Japan's Metaplanet Plants Its Flag in the US With $132M Bitcoin Treasury Deal\n\nThe Tokyo-listed firm will seed gaming media company Super League—to be renamed Superplanet and trade as SUPA—with 2,100 BTC.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.057,
+        "t_plus_15m": 0.0873,
+        "t_plus_1h": -0.084
+      }
     },
     {
       "event_id": "fa1ff92e-4838-4f77-ad1f-7682a95c8d6d",
@@ -104,10 +181,16 @@
       "url": "https://www.theblock.co/news/deals/2026-08-18-metaplanet-super-league-2100-btc-cash-deal-launch-us-bitcoin-treasury-sle-stock-sruge-412101",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-18T15:09:55+00:00",
       "raw_text": "Metaplanet takes 96% of Super League in 2,100 BTC, cash deal to launch US bitcoin treasury firm\n\nMetaplanet is taking its bitcoin treasury strategy to the U.S. with a controlling stake in Super League, which surged 80% on the news.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0839,
+        "t_plus_15m": -0.057,
+        "t_plus_1h": -0.0262
+      }
     },
     {
       "event_id": "adf16063-34ed-4729-8113-7b0e42d3743c",
@@ -6273,105 +6356,38 @@
       "timestamp_utc": "2026-08-11T11:13:55+00:00",
       "raw_text": "When safe assets compete with risk. Lessons from the 1960s–90s for bitcoin and stocks.",
       "impact": {}
-    },
-    {
-      "event_id": "42b1f35f-c9dd-4b20-8add-40c259d0bed1",
-      "source": "rss:theblock",
-      "title": "‘One of the single biggest barriers to growth’: UK lawmakers press banks over crypto access ahead of new FCA regime",
-      "url": "https://www.theblock.co/news/regulation/2026-08-11-uk-crypto-banking-access-411389",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-11T11:04:38+00:00",
-      "raw_text": "‘One of the single biggest barriers to growth’: UK lawmakers press banks over crypto access ahead of new FCA regime\n\nUK lawmakers have asked banks to explain how the new FCA crypto regime may change their policies toward digital asset firms.\n\nUK lawmakers have asked banks to explain how the new FCA ",
-      "impact": {}
-    },
-    {
-      "event_id": "be97a957-0876-4118-bfb0-f9eb364e2462",
-      "source": "rss:coindesk",
-      "title": "Bitcoin-backed lending is entering its institutional era: Two Prime",
-      "url": "https://www.coindesk.com/markets/2026/08/11/bitcoin-backed-lending-is-entering-its-institutional-era-two-prime",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-11T11:04:28+00:00",
-      "raw_text": "Bitcoin-backed lending is entering its institutional era: Two Prime",
-      "impact": {}
-    },
-    {
-      "event_id": "43f5d27a-e481-4827-ac25-ebde6bc20ebf",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin sell pressure ‘closer to exhaustion’ after $4B USDT market-cap drop: CryptoQuant",
-      "url": "https://cointelegraph.com/markets/bitcoin-sell-pressure-closer-to-exhaustion-after-4b-usdt-market-cap-drop-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-11T10:55:00+00:00",
-      "raw_text": "Bitcoin sell pressure ‘closer to exhaustion’ after $4B USDT market-cap drop: CryptoQuant\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin sell pressure ‘closer to exhaustion’ after $4B USDT market-cap drop: CryptoQuant\" class=\"type:primaryImage\" src=\"https://s3-images",
-      "impact": {}
-    },
-    {
-      "event_id": "65426a28-d7c2-4c8a-a63a-b079ea7b1dec",
-      "source": "rss:coindesk",
-      "title": "Bitcoin stuck below $65,000 as Hormuz hopes evaporate, XRP close to dropping below $1",
-      "url": "https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-below-usd65-000-as-the-strait-of-hormuz-stalemate-and-strategy-s-selling-squeeze-the-market",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-08-11T10:48:08+00:00",
-      "raw_text": "Bitcoin stuck below $65,000 as Hormuz hopes evaporate, XRP close to dropping below $1",
-      "impact": {
-        "t_plus_5m": -0.2482,
-        "t_plus_15m": 0.0148,
-        "t_plus_1h": -0.0822,
-        "t_plus_4h": -0.355
-      }
-    },
-    {
-      "event_id": "33926791-de61-4767-b418-e52799682f72",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin falls to $63,500; CoreWeave jumps 9% as AI demand pushes backlog over $100 billion",
-      "url": "https://www.coindesk.com/tech/2026/08/11/live-updates-bitcoin-slips-as-corporate-btc-enthusiasm-moves-to-ai",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-11T10:34:52+00:00",
-      "raw_text": "Live updates: Bitcoin falls to $63,500; CoreWeave jumps 9% as AI demand pushes backlog over $100 billion",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 124,
+        "avg_1h": -0.05,
+        "avg_24h": -0.53,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 192,
+        "count": 190,
         "avg_1h": -0.02,
         "avg_24h": 0.14,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 131,
+        "avg_1h": -0.05,
+        "avg_24h": 0.47,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "listing": {
+        "count": 9,
+        "avg_1h": -0.08,
+        "avg_24h": -0.13,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
         "count": 45,
         "avg_1h": -0.04,
         "avg_24h": -0.11,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 125,
-        "avg_1h": -0.05,
-        "avg_24h": -0.53,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 129,
-        "avg_1h": -0.05,
-        "avg_24h": 0.47,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "listing": {
-        "count": 8,
-        "avg_1h": -0.08,
-        "avg_24h": -0.13,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
