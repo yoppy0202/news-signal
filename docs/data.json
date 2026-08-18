@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-18T01:46:49.270283+00:00",
+  "generated_at": "2026-08-18T03:05:23.415299+00:00",
   "events": [
+    {
+      "event_id": "d2aa9eb4-cd71-400e-b625-819322bda43d",
+      "source": "rss:cointelegraph",
+      "title": "‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express",
+      "url": "https://cointelegraph.com/magazine/fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T01:28:37+00:00",
+      "raw_text": "‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me",
+      "impact": {}
+    },
     {
       "event_id": "0fb283a1-95b3-47e6-ba7f-a7c42df7bac2",
       "source": "rss:decrypt",
@@ -112,7 +124,8 @@
       "impact": {
         "t_plus_5m": 0.0854,
         "t_plus_15m": 0.0236,
-        "t_plus_1h": 0.0068
+        "t_plus_1h": 0.0068,
+        "t_plus_4h": 0.1572
       }
     },
     {
@@ -6341,24 +6354,12 @@
       "timestamp_utc": "2026-08-10T17:08:34+00:00",
       "raw_text": "‘Disappointing’: Crypto advocates react to delay in CLARITY vote\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"‘Disappointing’: Crypto advocates react to delay in CLARITY vote\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/sams-in-a-labir",
       "impact": {}
-    },
-    {
-      "event_id": "7392098a-f5ef-4d2b-a098-d2507368414a",
-      "source": "rss:cointelegraph",
-      "title": "‘Disappointing’ — crypto advocates react to delay in CLARITY vote",
-      "url": "https://cointelegraph.com/news/clarity-act-vote-disappointing-crypto-advocates-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T17:08:34+00:00",
-      "raw_text": "‘Disappointing’ — crypto advocates react to delay in CLARITY vote\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"‘Disappointing’ — crypto advocates react to delay in CLARITY vote\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/sams-in-a-lab",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "macro": {
-        "count": 128,
+        "count": 129,
         "avg_1h": -0.05,
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
@@ -6376,7 +6377,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 188,
+        "count": 187,
         "avg_1h": -0.05,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
