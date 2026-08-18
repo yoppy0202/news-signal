@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-18T14:47:33.582321+00:00",
+  "generated_at": "2026-08-18T15:42:29.075598+00:00",
   "events": [
+    {
+      "event_id": "b5326b7a-11a5-4ed7-bce9-d9c16bf5737e",
+      "source": "rss:theblock",
+      "title": "Securitize brings Neuberger’s $230 billion fixed-income platform onchain with new tokenized fund",
+      "url": "https://www.theblock.co/news/markets/2026-08-18-securitize-neubergers-230-billion-fixed-income-platform-onchain-new-tokenized-fund-412102",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T15:04:21+00:00",
+      "raw_text": "Securitize brings Neuberger’s $230 billion fixed-income platform onchain with new tokenized fund\n\nHINC will be available across Avalanche, Ethereum, Solana and Sui, as Securitize expands its push to bring fixed-income strategies onchain.",
+      "impact": {}
+    },
+    {
+      "event_id": "98b6e4e0-3046-47b8-bb2f-84d1b8cef76b",
+      "source": "rss:coindesk",
+      "title": "Bitcoin miners’ AI pivot pays off, but mining could revive with one twist",
+      "url": "https://www.coindesk.com/business/2026/08/18/bitcoin-miners-ai-pivot-pays-off-but-mining-could-revive-with-one-twist",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T14:41:31+00:00",
+      "raw_text": "Bitcoin miners’ AI pivot pays off, but mining could revive with one twist",
+      "impact": {}
+    },
+    {
+      "event_id": "22c3f45e-3afa-437d-b1f0-7fd41e69b0e2",
+      "source": "rss:coindesk",
+      "title": "Global bond yields surge as debt fears test bitcoin’s hedge narrative",
+      "url": "https://www.coindesk.com/markets/2026/08/18/global-bond-yields-surge-as-debt-fears-test-bitcoin-s-hedge-narrative",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T14:40:41+00:00",
+      "raw_text": "Global bond yields surge as debt fears test bitcoin’s hedge narrative",
+      "impact": {}
+    },
+    {
+      "event_id": "7feca2c0-e632-425a-ad50-a35f809bd120",
+      "source": "rss:coindesk",
+      "title": "Japan's Metaplanet launching U.S. bitcoin treasury company through $135 million nanocap deal",
+      "url": "https://www.coindesk.com/business/2026/08/18/japan-s-metaplanet-launching-u-s-bitcoin-treasury-company-through-usd135-million-nanocap-deal",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T14:35:08+00:00",
+      "raw_text": "Japan's Metaplanet launching U.S. bitcoin treasury company through $135 million nanocap deal",
+      "impact": {}
+    },
     {
       "event_id": "de6eb8be-b063-4297-bd75-2fdaf9e212a6",
       "source": "rss:decrypt",
@@ -8,9 +56,26 @@
       "url": "https://decrypt.co/375839/bitcoin-wallet-untouched-15-years-life",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-18T14:03:34+00:00",
       "raw_text": "Bitcoin Wallet Untouched for 15 Years Suddenly Springs to Life\n\nThe address received 8.54 BTC in June 2011 when the coin traded around $14 and stayed silent for 15 years before moving roughly $538,000 in a single transaction.",
+      "impact": {
+        "t_plus_5m": -1.0562,
+        "t_plus_15m": -0.8382
+      }
+    },
+    {
+      "event_id": "df729433-2203-410b-ab6b-2d43d447322f",
+      "source": "rss:coindesk",
+      "title": "HashKey taps Hong Kong's first regulated stablecoin to settle insurance and trade deals",
+      "url": "https://www.coindesk.com/business/2026/08/18/hashkey-taps-hong-kong-s-first-regulated-stablecoin-to-settle-insurance-and-trade-deals",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T14:03:27+00:00",
+      "raw_text": "HashKey taps Hong Kong's first regulated stablecoin to settle insurance and trade deals",
       "impact": {}
     },
     {
@@ -306,6 +371,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-18T08:39:57+00:00",
       "raw_text": "South Korea moves to block Polymarket over gambling concerns\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea moves to block Polymarket over gambling concerns\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-you-are-once-again-b",
+      "impact": {}
+    },
+    {
+      "event_id": "9c761fe9-a9ef-401a-94e1-ed45dc2aa922",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin tepidly on the rise as stocks slip",
+      "url": "https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T08:16:11+00:00",
+      "raw_text": "Live updates: Bitcoin tepidly on the rise as stocks slip",
       "impact": {}
     },
     {
@@ -6268,98 +6345,26 @@
       "timestamp_utc": "2026-08-11T10:06:39+00:00",
       "raw_text": "UK lawmakers question lenders over lack of banking for the country’s crypto firms",
       "impact": {}
-    },
-    {
-      "event_id": "f6af0129-9f20-41e1-a318-703385aafcb7",
-      "source": "rss:decrypt",
-      "title": "Coinbase Opens UK Derivatives Trading With Up to 50x Leverage",
-      "url": "https://decrypt.co/375301/coinbase-opens-uk-derivatives-trading-with-up-to-50x-leverage",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-11T09:58:44+00:00",
-      "raw_text": "Coinbase Opens UK Derivatives Trading With Up to 50x Leverage\n\nFutures, perpetuals and options spanning crypto, commodities, equities and FX, limited to clients who qualify as professional investors.",
-      "impact": {}
-    },
-    {
-      "event_id": "27000ad3-abe6-4ab8-be27-a2252b63c17d",
-      "source": "rss:coindesk",
-      "title": "Riot Platforms surges 20% in pre-market trading on $9.1 billion Anthropic deal",
-      "url": "https://www.coindesk.com/business/2026/08/11/riot-platforms-surges-20-in-pre-market-trading-on-usd9-1-billion-anthropic-deal",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-11T09:37:36+00:00",
-      "raw_text": "Riot Platforms surges 20% in pre-market trading on $9.1 billion Anthropic deal",
-      "impact": {}
-    },
-    {
-      "event_id": "e1ec3c96-be65-464e-a3c1-24203ca26e9a",
-      "source": "rss:cointelegraph",
-      "title": "Keel shuts US Bitcoin mining operations as Q2 revenue falls 50%",
-      "url": "https://cointelegraph.com/markets/keel-shuts-bitcoin-mining-ai-pivot-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-11T09:26:00+00:00",
-      "raw_text": "Keel shuts US Bitcoin mining operations as Q2 revenue falls 50%\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Keel shuts US Bitcoin mining operations as Q2 revenue falls 50%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-is-cryptocurre",
-      "impact": {}
-    },
-    {
-      "event_id": "f9a5c028-d1e0-4700-8f4f-affccc3a3665",
-      "source": "rss:cointelegraph",
-      "title": "Keel shuts US Bitcoin mining operations as Q2 revenue falls 50%",
-      "url": "https://cointelegraph.com/news/keel-shuts-bitcoin-mining-ai-pivot-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-11T09:24:15+00:00",
-      "raw_text": "Keel shuts US Bitcoin mining operations as Q2 revenue falls 50%\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Keel shuts US Bitcoin mining operations as Q2 revenue falls 50%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-is-cryptocurre",
-      "impact": {}
-    },
-    {
-      "event_id": "0119b522-5c5b-4eea-b3c4-c755017a9454",
-      "source": "rss:decrypt",
-      "title": "UK Lawmakers Write to Bank CEOs Over Crypto Account Refusals",
-      "url": "https://decrypt.co/375294/uk-lawmakers-write-to-bank-ceos-over-crypto-account-refusals",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-11T08:41:17+00:00",
-      "raw_text": "UK Lawmakers Write to Bank CEOs Over Crypto Account Refusals\n\nThe APPG has asked banks to explain their crypto policies, warning that access could be one of the single biggest barriers to growth.",
-      "impact": {}
-    },
-    {
-      "event_id": "e972954b-4915-48af-a10b-63fdc158c1c2",
-      "source": "rss:cointelegraph",
-      "title": "Anthropic strikes $9B compute deal with Bitcoin miner Riot: Report",
-      "url": "https://cointelegraph.com/news/anthropic-9b-deal-bitcoin-miner-riot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-11T08:00:26+00:00",
-      "raw_text": "Anthropic strikes $9B compute deal with Bitcoin miner Riot: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Anthropic strikes $9B compute deal with Bitcoin miner Riot: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-greenhou",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 192,
-        "avg_1h": -0.01,
-        "avg_24h": 0.14,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 129,
+        "count": 130,
         "avg_1h": -0.05,
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 126,
+        "count": 124,
         "avg_1h": -0.04,
         "avg_24h": -0.53,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 193,
+        "avg_1h": -0.01,
+        "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
