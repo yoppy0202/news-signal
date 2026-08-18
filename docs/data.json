@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-18T03:53:38.358536+00:00",
+  "generated_at": "2026-08-18T04:47:27.099252+00:00",
   "events": [
+    {
+      "event_id": "bd8271dd-377a-4684-a69f-fbe75a3fb1fa",
+      "source": "rss:cointelegraph",
+      "title": "Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation",
+      "url": "https://cointelegraph.com/news/edward-zimbardi-165m-crypto-ponzi-fiji-deportation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T03:21:26+00:00",
+      "raw_text": "Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti",
+      "impact": {}
+    },
     {
       "event_id": "d2aa9eb4-cd71-400e-b625-819322bda43d",
       "source": "rss:cointelegraph",
@@ -6342,24 +6354,12 @@
       "timestamp_utc": "2026-08-10T17:18:49+00:00",
       "raw_text": "Bitcoin Rally Fades—Where Does Price Go Next?\n\nThe price of Bitcoin is up on the seven-day chart, today bouncing to a high of $65,000. But bearish market pressure persists.",
       "impact": {}
-    },
-    {
-      "event_id": "0745a760-557d-4e6a-8b06-f31b82564fc7",
-      "source": "rss:cointelegraph",
-      "title": "‘Disappointing’: Crypto advocates react to delay in CLARITY vote",
-      "url": "https://cointelegraph.com/news/clarity-act-vote-disappointing-crypto-advocates-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T17:08:34+00:00",
-      "raw_text": "‘Disappointing’: Crypto advocates react to delay in CLARITY vote\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"‘Disappointing’: Crypto advocates react to delay in CLARITY vote\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/sams-in-a-labir",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "macro": {
-        "count": 129,
+        "count": 130,
         "avg_1h": -0.05,
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
@@ -6377,7 +6377,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 187,
+        "count": 186,
         "avg_1h": -0.05,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
