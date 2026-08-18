@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T07:00:05.018197+00:00",
+  "generated_at": "2026-08-18T07:48:55.662758+00:00",
   "events": [
     {
       "event_id": "344fb5b2-a8e1-4cb8-98a7-c7de1d0958c8",
@@ -32,10 +32,16 @@
       "url": "https://www.coindesk.com/markets/2026/08/18/xrp-slips-below-usd1-even-as-korean-regional-bank-adopts-ripple-payments",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-08-18T05:34:32+00:00",
       "raw_text": "XRP sinks below $1 for first time since 2024 as Korean bank adopts Ripple Payments",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.5238,
+        "t_plus_15m": -0.4318,
+        "t_plus_1h": 0.0073
+      }
     },
     {
       "event_id": "85606e9d-06da-408b-a227-7b1bc50a95fe",
@@ -44,10 +50,16 @@
       "url": "https://www.coindesk.com/markets/2026/08/18/xrp-slips-below-usd1-even-as-korean-regional-bank-adopts-ripple-payments",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-08-18T05:34:32+00:00",
       "raw_text": "XRP slips below $1 even as a Korean regional bank adopts Ripple Payments",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0365,
+        "t_plus_15m": 0.056,
+        "t_plus_1h": 0.4973
+      }
     },
     {
       "event_id": "b478ea4c-4117-42b9-a132-383b75d3b0e2",
@@ -6353,7 +6365,7 @@
     "by_event_type": {
       "unknown": {
         "count": 185,
-        "avg_1h": -0.07,
+        "avg_1h": -0.03,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
