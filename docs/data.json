@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-18T10:41:44.355527+00:00",
+  "generated_at": "2026-08-18T11:35:42.972631+00:00",
   "events": [
+    {
+      "event_id": "f6557eea-b159-4e36-b121-d6d9fc4c2fc9",
+      "source": "rss:cointelegraph",
+      "title": "Kraken launches US-listed stock trading for EEA customers",
+      "url": "https://cointelegraph.com/news/kraken-us-stock-trading-eea-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T10:53:21+00:00",
+      "raw_text": "Kraken launches US-listed stock trading for EEA customers\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken launches US-listed stock trading for EEA customers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-european-blockchain-partne",
+      "impact": {}
+    },
+    {
+      "event_id": "c43449b9-0045-4042-adca-f8568c624bd4",
+      "source": "rss:theblock",
+      "title": "‘The Crypto Program’ promoter deported from Fiji over alleged $165 million Ponzi scheme",
+      "url": "https://www.theblock.co/news/regulation/2026-08-18-the-crypto-program-promoter-deported-from-fiji-over-alleged-165-million-ponzi-scheme-412083",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T10:49:53+00:00",
+      "raw_text": "‘The Crypto Program’ promoter deported from Fiji over alleged $165 million Ponzi scheme\n\nFiji deported Edward Zimbardi to the U.S. to face charges over an alleged $165 million crypto Ponzi scheme involving thousands of investors.",
+      "impact": {}
+    },
+    {
+      "event_id": "f2f1b25b-cddd-48ec-a3cf-360148c3d7b0",
+      "source": "rss:coindesk",
+      "title": "Bitcoin pauses at $64,000 as rising yields, oil drag equities lower",
+      "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-pauses-at-usd64-000-as-rising-yields-oil-drag-equities-lower",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T10:38:56+00:00",
+      "raw_text": "Bitcoin pauses at $64,000 as rising yields, oil drag equities lower",
+      "impact": {}
+    },
     {
       "event_id": "ceeb660a-1108-4c74-bb54-a658eb7e6974",
       "source": "rss:theblock",
@@ -44,10 +80,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-price-spike-to-645k-was-low-volume-liquidity-trap-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-18T09:31:15+00:00",
       "raw_text": "Bitcoin price spike to $64.5K was ‘low-volume liquidity trap’: Analysis\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price spike to $64.5K was ‘low-volume liquidity trap’: Analysis\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/p",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0033,
+        "t_plus_15m": -0.0446,
+        "t_plus_1h": -0.0273
+      }
     },
     {
       "event_id": "f492ae86-62f6-4a1d-ba3b-ca274a800511",
@@ -6311,74 +6353,38 @@
       "timestamp_utc": "2026-08-11T02:22:30+00:00",
       "raw_text": "Riot Platforms stock jumps 25% after-hours on $9.1 billion AI deal reportedly with Anthropic\n\nThe deal includes two five-year extension options that could raise the potential contract value to $16.1 billion.\n\nThe deal includes two five-year extension options that could raise the potential contract v",
       "impact": {}
-    },
-    {
-      "event_id": "2e7a2cce-19c4-4215-9b51-e724711aa89d",
-      "source": "rss:cointelegraph",
-      "title": "Thailand’s 0% crypto tax. Bitcoin Red Team forced to use Chinese AI: Asia Express",
-      "url": "https://cointelegraph.com/magazine/thailands-0-crypto-tax-bitcoin-red-team-forced-to-use-chinese-ai-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-11T02:08:36+00:00",
-      "raw_text": "Thailand’s 0% crypto tax. Bitcoin Red Team forced to use Chinese AI: Asia Express\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Thailand’s 0% crypto tax. Bitcoin Red Team forced to use Chinese AI: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me",
-      "impact": {}
-    },
-    {
-      "event_id": "7018dcf1-2f10-456f-8ef2-b0998a35ac81",
-      "source": "rss:decrypt",
-      "title": "Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI",
-      "url": "https://decrypt.co/375285/vitalik-buterin-ethereum-betting-future-quantum-ai",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T21:48:22+00:00",
-      "raw_text": "Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI\n\nEthereum’s updated roadmap puts quantum resistance, privacy and AI-assisted formal verification at the center of the network’s technical ambitions.",
-      "impact": {}
-    },
-    {
-      "event_id": "4d95d8b3-aa6c-45c2-acb8-36ccf4dc12fb",
-      "source": "rss:bitcoinmagazine",
-      "title": "Blockstream Debuts Swaps, Allowing Bitcoiners to Move Between Lightning and Main Network With Ease",
-      "url": "https://bitcoinmagazine.com/news/blockstream-debuts-bitcoin-swaps-lightning",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T21:18:27+00:00",
-      "raw_text": "Blockstream Debuts Swaps, Allowing Bitcoiners to Move Between Lightning and Main Network With Ease\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Blockstream-Debuts-Swaps-Allowing-Bitcoiners-to-Move",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 129,
-        "avg_1h": -0.05,
-        "avg_24h": 0.47,
+      "listing": {
+        "count": 7,
+        "avg_1h": -0.08,
+        "avg_24h": -0.13,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 187,
+        "count": 189,
         "avg_1h": -0.01,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
+      "macro": {
+        "count": 128,
+        "avg_1h": -0.05,
+        "avg_24h": 0.47,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 131,
+        "count": 130,
         "avg_1h": -0.04,
         "avg_24h": -0.53,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 47,
+        "count": 46,
         "avg_1h": -0.04,
         "avg_24h": -0.11,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "listing": {
-        "count": 6,
-        "avg_1h": -0.08,
-        "avg_24h": -0.13,
         "win_rate_1h_gt5pct": 0.0
       }
     }
