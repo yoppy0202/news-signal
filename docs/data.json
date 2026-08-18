@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-18T07:48:55.662758+00:00",
+  "generated_at": "2026-08-18T08:50:14.472684+00:00",
   "events": [
+    {
+      "event_id": "7af366c5-3390-48dd-b37f-04ae4a8c53de",
+      "source": "rss:theblock",
+      "title": "Kraken brings US stock trading to European Economic Area customers",
+      "url": "https://www.theblock.co/news/business/2026-08-18-kraken-us-stock-trading-europe-economic-area-412027",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T08:00:02+00:00",
+      "raw_text": "Kraken brings US stock trading to European Economic Area customers\n\nKraken has launched US stock trading for eligible customers across all European Economic Area member countries.",
+      "impact": {}
+    },
+    {
+      "event_id": "f44aaa02-daa4-4586-b497-738cd5b4e02d",
+      "source": "rss:theblock",
+      "title": "Cathie Wood’s Ark Invest scoops up $15 million in Block Inc shares as stock dips 3%",
+      "url": "https://www.theblock.co/news/markets/2026-08-18-cathie-wood-ark-invest-15-million-block-inc-412060",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T07:37:40+00:00",
+      "raw_text": "Cathie Wood’s Ark Invest scoops up $15 million in Block Inc shares as stock dips 3%\n\nThe firm also bought $1 million worth of Securitize shares, which fell over 20% last week following disappointing Q2 results.",
+      "impact": {}
+    },
     {
       "event_id": "344fb5b2-a8e1-4cb8-98a7-c7de1d0958c8",
       "source": "rss:theblock",
@@ -6328,50 +6352,25 @@
       "timestamp_utc": "2026-08-10T19:47:01+00:00",
       "raw_text": "Tron USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tron USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/tron.jp",
       "impact": {}
-    },
-    {
-      "event_id": "adc4bd69-934d-4903-9a9c-1f8d0fec8f05",
-      "source": "rss:cointelegraph",
-      "title": "TRON USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari",
-      "url": "https://cointelegraph.com/news/tron-usdt-supply-hits-879b-as-transfers-reach-21t-in-q2-messari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T19:47:01+00:00",
-      "raw_text": "TRON USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"TRON USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/tron.jp",
-      "impact": {}
-    },
-    {
-      "event_id": "b0bd9a51-7afe-4ae0-8904-47be37c46372",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin Exchange-Traded Funds See Spike In Inflows Following Huge Hack",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-etfs-see-biggest-flows-since-april",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-10T19:35:34+00:00",
-      "raw_text": "Bitcoin Exchange-Traded Funds See Spike In Inflows Following Huge Hack\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Franklin-Templeton-Files-for-Two-ETFs-That-Reinvest-Stock-Dividends-Into-Bitcoin",
-      "impact": {
-        "t_plus_5m": 0.0004,
-        "t_plus_15m": 0.0821,
-        "t_plus_1h": 0.2257,
-        "t_plus_4h": -0.0149
-      }
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 185,
+        "count": 186,
         "avg_1h": -0.03,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
+      "macro": {
+        "count": 129,
+        "avg_1h": -0.05,
+        "avg_24h": 0.47,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
-        "count": 51,
-        "avg_1h": -0.04,
+        "count": 50,
+        "avg_1h": -0.08,
         "avg_24h": -0.11,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6379,12 +6378,6 @@
         "count": 129,
         "avg_1h": -0.04,
         "avg_24h": -0.53,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 129,
-        "avg_1h": -0.05,
-        "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
