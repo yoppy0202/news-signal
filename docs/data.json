@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-08-18T21:34:40.641700+00:00",
+  "generated_at": "2026-08-18T22:36:44.345475+00:00",
   "events": [
+    {
+      "event_id": "32ee88e7-39f3-423a-9ea4-a16393e34a2e",
+      "source": "rss:decrypt",
+      "title": "Rare Books Traced to Amazon AI Training Facility to Be Scanned and Destroyed",
+      "url": "https://decrypt.co/375912/rare-books-amazon-ai-scanned-destroyed",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T21:49:46+00:00",
+      "raw_text": "Rare Books Traced to Amazon AI Training Facility to Be Scanned and Destroyed\n\nA tracking device planted in a book order ended at a Las Vegas facility where Amazon strips bindings to scan pages for training data.",
+      "impact": {}
+    },
+    {
+      "event_id": "fde96cd7-c850-42fe-a447-37d106ea12d9",
+      "source": "rss:coindesk",
+      "title": "U.S. accounting-standards group proposes way to see stablecoins as 'cash equivalent'",
+      "url": "https://www.coindesk.com/policy/2026/08/18/u-s-accounting-standards-group-proposes-way-to-see-stablecoins-as-cash-equivalent",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T21:25:42+00:00",
+      "raw_text": "U.S. accounting-standards group proposes way to see stablecoins as 'cash equivalent'",
+      "impact": {}
+    },
+    {
+      "event_id": "9e091e3f-a990-43b5-ae84-98c7e7de50ca",
+      "source": "rss:cointelegraph",
+      "title": "SEC proposes new crypto rules in absence of CLARITY Act",
+      "url": "https://cointelegraph.com/news/us-sec-crypto-rules-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T21:24:15+00:00",
+      "raw_text": "SEC proposes new crypto rules in absence of CLARITY Act\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC proposes new crypto rules in absence of CLARITY Act\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-sec-cftc-event-overview.jpg\" /",
+      "impact": {}
+    },
+    {
+      "event_id": "10123b3a-1d7f-4ea4-b9a0-2768842500ae",
+      "source": "rss:theblock",
+      "title": "Solana Policy Institute CEO says Clarity Act in ‘August recess purgatory,’ gives it 10% odds before midterms",
+      "url": "https://www.theblock.co/news/regulation/2026-08-18-solana-policy-institute-ceo-larity-act-august-recess-purgatory-gives-10-odds-midterms-412171",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T21:22:47+00:00",
+      "raw_text": "Solana Policy Institute CEO says Clarity Act in ‘August recess purgatory,’ gives it 10% odds before midterms\n\nMiller Whitehouse-Levine urged regulators to move quickly, saying the industry \"can’t afford to keep waiting for Congress.\"",
+      "impact": {}
+    },
+    {
+      "event_id": "809ba6f9-3c91-4b60-8c9d-fb6b302f7234",
+      "source": "rss:decrypt",
+      "title": "Arguing With People on X May Get You More Posts You Hate as Algo Feeds on Ragebait",
+      "url": "https://decrypt.co/375899/arguing-twitter-x-more-posts-hate-algorithm-ragebait",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T21:20:04+00:00",
+      "raw_text": "Arguing With People on X May Get You More Posts You Hate as Algo Feeds on Ragebait\n\nX’s algorithm may turn argumentative replies into a feedback loop that serves users more content that clashes with their values, with the effect stronger among Democrats, researchers found.",
+      "impact": {}
+    },
     {
       "event_id": "8983b07c-3381-400e-89fa-a0bb029d10fb",
       "source": "rss:bitcoinmagazine",
@@ -6285,87 +6345,20 @@
       "timestamp_utc": "2026-08-11T14:57:26+00:00",
       "raw_text": "Luke Dashjr Removed as Bitcoin BIP Editor Following (BIP)-110 Fork Failure\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2024/11/luke-dashjruasf.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a h",
       "impact": {}
-    },
-    {
-      "event_id": "c30e4393-a6e8-4281-8b1f-3cca38488f1c",
-      "source": "rss:decrypt",
-      "title": "Why Strategy Is Selling Bitcoin and How Much It Has Sold So Far",
-      "url": "https://decrypt.co/375312/why-strategy-selling-bitcoin-how-much",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-11T14:46:11+00:00",
-      "raw_text": "Why Strategy Is Selling Bitcoin and How Much It Has Sold So Far\n\nThe world's largest corporate Bitcoin holder has sold hundreds of millions of dollars in BTC since June as it changes how it funds dividends and manages its cash.",
-      "impact": {
-        "t_plus_5m": 0.168,
-        "t_plus_15m": -0.1163,
-        "t_plus_1h": -0.4691,
-        "t_plus_4h": -0.8334
-      }
-    },
-    {
-      "event_id": "f182ec18-16f7-4f3e-b773-88a634d0b733",
-      "source": "rss:coindesk",
-      "title": "If crypto goes back to the congressional drawing board, 3 Democrat women loom large",
-      "url": "https://www.coindesk.com/news-analysis/2026/08/11/if-crypto-goes-back-to-the-congressional-drawing-board-3-democrat-women-loom-large",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-11T14:40:15+00:00",
-      "raw_text": "If crypto goes back to the congressional drawing board, 3 Democrat women loom large",
-      "impact": {}
-    },
-    {
-      "event_id": "ef75ff4c-a578-4ef1-885c-b4a89fc1602c",
-      "source": "rss:coindesk",
-      "title": "Crypto-friendly bank Erebor in talks to raise $1.5 billion at $9.5 billion valuation: FT",
-      "url": "https://www.coindesk.com/business/2026/08/11/crypto-friendly-bank-erebor-in-talks-to-raise-usd1-5-billion-at-usd9-5-billion-valuation-ft",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-11T14:39:12+00:00",
-      "raw_text": "Crypto-friendly bank Erebor in talks to raise $1.5 billion at $9.5 billion valuation: FT",
-      "impact": {}
-    },
-    {
-      "event_id": "4d79d4b7-20a7-4de6-893d-3fbb47b7b953",
-      "source": "rss:theblock",
-      "title": "Bitcoin slips toward $64,000 as traders await Wednesday’s inflation test",
-      "url": "https://www.theblock.co/news/markets/2026-08-11-bitcoin-slips-toward-64000-as-traders-await-wednesdays-inflation-test-411418",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-11T14:34:02+00:00",
-      "raw_text": "Bitcoin slips toward $64,000 as traders await Wednesday’s inflation test\n\nBitcoin eased toward $64,000 before Wednesday's US CPI report, with analysts split on whether the stall breaks higher or reverses.\n\nBitcoin eased toward $64,000 before Wednesday's US CPI report, with analysts split on whether ",
-      "impact": {}
-    },
-    {
-      "event_id": "3f102aee-8d51-4bf6-9071-380d96a41337",
-      "source": "rss:theblock",
-      "title": "Benchmark sees over 150% upside for Bitdeer on bitcoin mining, AI outlook",
-      "url": "https://www.theblock.co/news/business/2026-08-11-benchmark-sees-over-150-upside-for-bitdeer-on-bitcoin-mining-ai-outlook-411424",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-11T14:25:24+00:00",
-      "raw_text": "Benchmark sees over 150% upside for Bitdeer on bitcoin mining, AI outlook\n\nBenchmark sees over 150% upside for Bitdeer as bitcoin mining operations fund its $4.7 billion AI data-center buildout.\n\nBenchmark sees over 150% upside for Bitdeer as bitcoin mining operations fund its $4.7 billion AI data-c",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "hack": {
-        "count": 45,
-        "avg_1h": -0.02,
-        "avg_24h": -0.11,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 124,
+        "count": 125,
         "avg_1h": -0.05,
         "avg_24h": -0.53,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 186,
+        "avg_1h": 0.01,
+        "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
@@ -6374,10 +6367,10 @@
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 187,
+      "hack": {
+        "count": 45,
         "avg_1h": -0.02,
-        "avg_24h": 0.14,
+        "avg_24h": -0.11,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
