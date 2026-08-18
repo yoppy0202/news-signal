@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-18T18:52:40.126801+00:00",
+  "generated_at": "2026-08-18T19:35:50.176476+00:00",
   "events": [
+    {
+      "event_id": "87df5681-6b03-45d2-afa9-1dd246d1f3a5",
+      "source": "rss:coindesk",
+      "title": "U.S. SEC proposes first major crypto rule in surprise announcement",
+      "url": "https://www.coindesk.com/policy/2026/08/18/r",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T19:09:33+00:00",
+      "raw_text": "U.S. SEC proposes first major crypto rule in surprise announcement",
+      "impact": {}
+    },
+    {
+      "event_id": "b6a6a516-b668-4ec5-87f0-19fa0e818224",
+      "source": "rss:coindesk",
+      "title": "Wyoming joins $15 billion LayerZero exodus with state stablecoin move",
+      "url": "https://www.coindesk.com/business/2026/08/18/wyoming-joins-usd15-billion-layerzero-exodus-with-state-stablecoin-move",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T18:57:00+00:00",
+      "raw_text": "Wyoming joins $15 billion LayerZero exodus with state stablecoin move",
+      "impact": {}
+    },
+    {
+      "event_id": "2db84013-3053-4ef0-ad88-e592bcf216ae",
+      "source": "rss:theblock",
+      "title": "Bitcoin correction may be nearing an end with 8 of 12 capitulation signals flashing, VanEck says",
+      "url": "https://www.theblock.co/news/markets/2026-08-18-bitcoin-correction-may-nearing-end-8-capitulation-signals-flashing-vaneck-412130",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T18:49:15+00:00",
+      "raw_text": "Bitcoin correction may be nearing an end with 8 of 12 capitulation signals flashing, VanEck says\n\nLong-term holders shed roughly 356,000 bitcoin over the past month, pushing their share of supply below 60%.",
+      "impact": {}
+    },
+    {
+      "event_id": "4d0de33c-876f-4c37-a189-42205bb06c26",
+      "source": "rss:decrypt",
+      "title": "Trump Family Crypto Firm Tied to Chinese AI Models US Government Called a Security Risk",
+      "url": "https://decrypt.co/375887/trump-crypto-firm-chinese-ai-government-called-security-risk",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T18:36:04+00:00",
+      "raw_text": "Trump Family Crypto Firm Tied to Chinese AI Models US Government Called a Security Risk\n\nWorldClaw accepts World Liberty’s USD1 stablecoin while offering AI models from Chinese companies facing U.S. national security restrictions.",
+      "impact": {}
+    },
     {
       "event_id": "c8c31043-4eb9-4e02-b831-f0c265b4b8c4",
       "source": "rss:bitcoinmagazine",
@@ -8,10 +56,15 @@
       "url": "https://bitcoinmagazine.com/news/bitcoin-volatility-dampens-vaneck",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-18T18:30:04+00:00",
       "raw_text": "Bitcoin’s Wild Swings Go Quiet, Even as the Bears Won’t Let Go\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoins-Wild-Swings-Go-Quiet-Even-as-the-Bears-Wont-Let-Go.jpg\" style=\"display: block; ",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0282,
+        "t_plus_15m": -0.0664
+      }
     },
     {
       "event_id": "e6f41726-2b86-4017-9365-8eae05791c7b",
@@ -6308,81 +6361,26 @@
       "timestamp_utc": "2026-08-11T12:09:38+00:00",
       "raw_text": "Russia proposes exchange trading of Bitcoin, Ether and Tether’s USDT\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Russia proposes exchange trading of Bitcoin, Ether and Tether’s USDT\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bank-wi",
       "impact": {}
-    },
-    {
-      "event_id": "031d1ff7-b162-45d2-88c4-662feebfbacb",
-      "source": "rss:decrypt",
-      "title": "North Korea Now Leans on Crime Networks to Launder Stolen Crypto: RUSI",
-      "url": "https://decrypt.co/375305/north-korea-now-leans-on-crime-networks-to-launder-stolen-crypto-rusi",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-11T12:02:42+00:00",
-      "raw_text": "North Korea Now Leans on Crime Networks to Launder Stolen Crypto: RUSI\n\nOnce its proceeds mix with scam money, exchanges struggle to separate proliferation finance from ordinary laundering, the paper warns.",
-      "impact": {}
-    },
-    {
-      "event_id": "9b336da4-d98e-4229-b8ef-d6b93bd7a020",
-      "source": "rss:coindesk",
-      "title": "MoneyGram expands on Solana with global crypto-to-cash service",
-      "url": "https://www.coindesk.com/business/2026/08/10/moneygram-expands-on-solana-with-global-crypto-to-cash-service",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-11T12:02:22+00:00",
-      "raw_text": "MoneyGram expands on Solana with global crypto-to-cash service",
-      "impact": {}
-    },
-    {
-      "event_id": "ef218703-c19c-455e-b707-eadef6695a4c",
-      "source": "rss:coindesk",
-      "title": "Australian watchdog suspends Cryptolink, forcing 96 ATMs offline",
-      "url": "https://www.coindesk.com/policy/2026/08/11/australian-watchdog-suspends-cryptolink-forcing-96-atms-offline",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-11T11:45:47+00:00",
-      "raw_text": "Australian watchdog suspends Cryptolink, forcing 96 ATMs offline",
-      "impact": {}
-    },
-    {
-      "event_id": "f85268dd-9447-46f8-a05f-62324e408393",
-      "source": "rss:theblock",
-      "title": "Trump Media records $360.6 million unrealized loss on digital assets in first half of the year",
-      "url": "https://www.theblock.co/news/business/2026-08-11-trump-media-records-360-6-million-unrealized-loss-on-digital-assets-in-first-half-of-the-year-411394",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-11T11:34:20+00:00",
-      "raw_text": "Trump Media records $360.6 million unrealized loss on digital assets in first half of the year\n\nTrump Media recorded a $360.6M unrealized digital-asset loss in H1. Its directly held BTC and CRO were worth $597.7M at June 30.\n\nTrump Media recorded a $360.6M unrealized digital-asset loss in H1. Its di",
-      "impact": {
-        "t_plus_5m": -0.0867,
-        "t_plus_15m": -0.0743,
-        "t_plus_1h": -0.0336,
-        "t_plus_4h": -0.9991
-      }
     }
   ],
   "stats": {
     "by_event_type": {
       "macro": {
-        "count": 133,
+        "count": 135,
         "avg_1h": -0.05,
         "avg_24h": 0.47,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 187,
+        "avg_1h": -0.02,
+        "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
         "count": 124,
         "avg_1h": -0.05,
         "avg_24h": -0.53,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 188,
-        "avg_1h": -0.02,
-        "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
@@ -6392,7 +6390,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 45,
+        "count": 44,
         "avg_1h": -0.02,
         "avg_24h": -0.11,
         "win_rate_1h_gt5pct": 0.0
