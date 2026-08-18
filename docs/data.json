@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-18T17:38:20.114768+00:00",
+  "generated_at": "2026-08-18T18:52:40.126801+00:00",
   "events": [
+    {
+      "event_id": "c8c31043-4eb9-4e02-b831-f0c265b4b8c4",
+      "source": "rss:bitcoinmagazine",
+      "title": "Bitcoin’s Wild Swings Go Quiet, Even as the Bears Won’t Let Go",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-volatility-dampens-vaneck",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T18:30:04+00:00",
+      "raw_text": "Bitcoin’s Wild Swings Go Quiet, Even as the Bears Won’t Let Go\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoins-Wild-Swings-Go-Quiet-Even-as-the-Bears-Wont-Let-Go.jpg\" style=\"display: block; ",
+      "impact": {}
+    },
+    {
+      "event_id": "e6f41726-2b86-4017-9365-8eae05791c7b",
+      "source": "rss:decrypt",
+      "title": "Bitcoin Wallet Maker BitBox Says AI Found Severe Flaws in Firmware",
+      "url": "https://decrypt.co/375886/bitcoin-wallet-bitbox-ai-severe-flaws-firmware",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T18:06:42+00:00",
+      "raw_text": "Bitcoin Wallet Maker BitBox Says AI Found Severe Flaws in Firmware\n\nThe Swiss hardware-wallet maker found two severe bugs with the help of frontier AI models, and warns that older firmware leaves you exposed.",
+      "impact": {}
+    },
+    {
+      "event_id": "76318ddc-521a-4f0f-9f53-26d48f580e65",
+      "source": "rss:bitcoinmagazine",
+      "title": "Bitcoin as Digital Real Estate: An Excerpt from Leon Wankum’s Digital Real Estate",
+      "url": "https://bitcoinmagazine.com/bitcoin-books/bitcoin-as-digital-real-estate-an-excerpt-from-leon-wankums-digital-real-estate",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T17:55:43+00:00",
+      "raw_text": "Bitcoin as Digital Real Estate: An Excerpt from Leon Wankum’s Digital Real Estate\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-18-2026-12_52_29-PM.png\" style=\"display: block; mar",
+      "impact": {}
+    },
+    {
+      "event_id": "0c63bfdc-8ac9-49b7-9548-fa158315216b",
+      "source": "rss:cointelegraph",
+      "title": "Kraken’s Krak debuts US debit card as Payward broadens financial services push",
+      "url": "https://cointelegraph.com/news/krakens-krak-launches-us-debit-card-as-payward-broadens-financial-services-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T17:39:37+00:00",
+      "raw_text": "Kraken’s Krak debuts US debit card as Payward broadens financial services push\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken’s Krak debuts US debit card as Payward broadens financial services push\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar",
+      "impact": {}
+    },
     {
       "event_id": "7e8c2cb8-7031-4fde-84da-791381d10dda",
       "source": "rss:decrypt",
@@ -56,10 +104,16 @@
       "url": "https://cointelegraph.com/news/metaplanet-expands-bitcoin-treasury-strategy-super-league?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "listing",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-18T16:21:58+00:00",
       "raw_text": "Metaplanet expands Bitcoin treasury strategy to US with 2,100-BTC Nasdaq play\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Metaplanet expands Bitcoin treasury strategy to US with 2,100-BTC Nasdaq play\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.119,
+        "t_plus_15m": -0.1044,
+        "t_plus_1h": -0.0261
+      }
     },
     {
       "event_id": "4247dcc2-d1bb-4086-9be7-9eaf5f2b92b2",
@@ -87,7 +141,8 @@
       "raw_text": "Hunting Down the Coldcard Hacker. Wave 1 Thief May Be Known to FBI\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/tn-2.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitco",
       "impact": {
         "t_plus_5m": -0.0262,
-        "t_plus_15m": -0.0689
+        "t_plus_15m": -0.0689,
+        "t_plus_1h": 0.0522
       }
     },
     {
@@ -6308,58 +6363,16 @@
         "t_plus_1h": -0.0336,
         "t_plus_4h": -0.9991
       }
-    },
-    {
-      "event_id": "52334925-4c09-41af-8654-5e149d41aedd",
-      "source": "rss:coindesk",
-      "title": "Ravencoin, a blockchain built from Bitcoin’s code, could roll back four days of transactions",
-      "url": "https://www.coindesk.com/tech/2026/08/11/ravencoin-could-roll-back-four-days-of-transactions-after-critical-block-flaw",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-11T11:24:56+00:00",
-      "raw_text": "Ravencoin, a blockchain built from Bitcoin’s code, could roll back four days of transactions",
-      "impact": {}
-    },
-    {
-      "event_id": "a6883bfb-ff3b-43a5-983d-9ef1f042ad0c",
-      "source": "rss:coindesk",
-      "title": "Ravencoin could roll back four days of transactions after critical block flaw",
-      "url": "https://www.coindesk.com/tech/2026/08/11/ravencoin-could-roll-back-four-days-of-transactions-after-critical-block-flaw",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-11T11:24:56+00:00",
-      "raw_text": "Ravencoin could roll back four days of transactions after critical block flaw",
-      "impact": {}
-    },
-    {
-      "event_id": "bc73893a-8ea6-45a6-b664-b08f925e0fbb",
-      "source": "rss:coindesk",
-      "title": "Coinbase picks Abu Dhabi for its global tokenized asset push",
-      "url": "https://www.coindesk.com/business/2026/08/11/coinbase-picks-abu-dhabi-for-its-global-tokenized-asset-push",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-11T11:23:25+00:00",
-      "raw_text": "Coinbase picks Abu Dhabi for its global tokenized asset push",
-      "impact": {}
-    },
-    {
-      "event_id": "70a8e71a-6256-40b5-9c08-658c841721ba",
-      "source": "rss:coindesk",
-      "title": "When safe assets compete with risk. Lessons from the 1960s–90s for bitcoin and stocks.",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/11/when-safe-assets-compete-with-risk-lessons-from-the-1960s-90s-for-bitcoin-and-stocks",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-11T11:13:55+00:00",
-      "raw_text": "When safe assets compete with risk. Lessons from the 1960s–90s for bitcoin and stocks.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 133,
+        "avg_1h": -0.05,
+        "avg_24h": 0.47,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 124,
         "avg_1h": -0.05,
@@ -6367,26 +6380,20 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 190,
+        "count": 188,
         "avg_1h": -0.02,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 131,
-        "avg_1h": -0.05,
-        "avg_24h": 0.47,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "listing": {
         "count": 9,
-        "avg_1h": -0.08,
+        "avg_1h": -0.07,
         "avg_24h": -0.13,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
         "count": 45,
-        "avg_1h": -0.04,
+        "avg_1h": -0.02,
         "avg_24h": -0.11,
         "win_rate_1h_gt5pct": 0.0
       },
