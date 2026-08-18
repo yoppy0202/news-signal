@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-18T22:36:44.345475+00:00",
+  "generated_at": "2026-08-18T23:32:33.364382+00:00",
   "events": [
+    {
+      "event_id": "52fe3222-ac34-4283-b812-f6d13b666b75",
+      "source": "rss:coindesk",
+      "title": "Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance",
+      "url": "https://www.coindesk.com/markets/2026/08/18/robinhood-ceo-urges-u-s-to-clear-path-for-tokenized-stocks-as-overseas-markets-advance",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T23:11:12+00:00",
+      "raw_text": "Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance",
+      "impact": {}
+    },
+    {
+      "event_id": "6a789ba9-d06a-49fe-923e-5ae7b79adf3e",
+      "source": "rss:decrypt",
+      "title": "Pennsylvania Cracks Down on AI Data Centers as Backlash Grows",
+      "url": "https://decrypt.co/375923/pennsylvania-ai-data-centers-backlash",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T22:56:04+00:00",
+      "raw_text": "Pennsylvania Cracks Down on AI Data Centers as Backlash Grows\n\nGov. Josh Shapiro ordered new restrictions on large data centers aimed at shielding residents from higher electricity costs and giving communities more control over proposed projects.",
+      "impact": {}
+    },
+    {
+      "event_id": "def8e090-0ece-435c-928c-0ad23a2eb13f",
+      "source": "rss:decrypt",
+      "title": "Mozilla Tests an AI 'Smart Window' in Firefox—But Only If You Opt In",
+      "url": "https://decrypt.co/375903/mozilla-ai-smart-firefox-opt-in",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T22:31:04+00:00",
+      "raw_text": "Mozilla Tests an AI 'Smart Window' in Firefox—But Only If You Opt In\n\nThe optional window puts an assistant of your choice next to your tabs, with a switch to disable it.",
+      "impact": {}
+    },
     {
       "event_id": "32ee88e7-39f3-423a-9ea4-a16393e34a2e",
       "source": "rss:decrypt",
@@ -244,7 +280,8 @@
       "impact": {
         "t_plus_5m": -0.0282,
         "t_plus_15m": -0.0664,
-        "t_plus_1h": -0.0454
+        "t_plus_1h": -0.0454,
+        "t_plus_4h": -0.3235
       }
     },
     {
@@ -6309,60 +6346,24 @@
       "timestamp_utc": "2026-08-11T15:48:01+00:00",
       "raw_text": "From bitcoin bull to ‘complete demolition’: Keel CEO bets on AI’s greater value\n\nIn May 2025, Keel's CEO said firm's bitcoin business was “strong” and said company remained “bullish on mining economics.\"\n\nIn May 2025, Keel's CEO said firm's bitcoin business was “strong” and said company remained “bu",
       "impact": {}
-    },
-    {
-      "event_id": "53a19802-347a-4e05-8ba9-fca5418876cc",
-      "source": "rss:theblock",
-      "title": "Twenty One Capital takes $414 million Q2 loss as new CEO plots path to become ‘more than a Bitcoin treasury’",
-      "url": "https://www.theblock.co/news/business/2026-08-11-twenty-one-capital-414-million-q2-loss-new-ceo-plots-path-bitcoin-treasury-411432",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-11T15:15:42+00:00",
-      "raw_text": "Twenty One Capital takes $414 million Q2 loss as new CEO plots path to become ‘more than a Bitcoin treasury’\n\nTwenty One’s new CEO lays out plans to build beyond its massive bitcoin treasury after a $414 million loss.\n\nTwenty One’s new CEO lays out plans to build beyond its massive bitcoin treasury ",
-      "impact": {}
-    },
-    {
-      "event_id": "85035e2f-f4bd-41bf-8cfc-3a6254fbd530",
-      "source": "rss:decrypt",
-      "title": "OpenAI's Only Dedicated Ethicist Has Left With No Replacement: FT",
-      "url": "https://decrypt.co/375315/openais-only-dedicated-ethicist-has-left-with-no-replacement-ft",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-11T15:05:35+00:00",
-      "raw_text": "OpenAI's Only Dedicated Ethicist Has Left With No Replacement: FT\n\nChloé Bakalar joined from Meta last August and departed in July without any announcement, one of several safety exits in recent weeks.",
-      "impact": {}
-    },
-    {
-      "event_id": "e42223a1-1999-4619-9cfa-7b4825aae1bb",
-      "source": "rss:bitcoinmagazine",
-      "title": "Luke Dashjr Removed as Bitcoin BIP Editor Following (BIP)-110 Fork Failure",
-      "url": "https://bitcoinmagazine.com/news/luke-dashjr-removed-as-bitcoin-bip-editor",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-11T14:57:26+00:00",
-      "raw_text": "Luke Dashjr Removed as Bitcoin BIP Editor Following (BIP)-110 Fork Failure\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2024/11/luke-dashjruasf.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a h",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 125,
-        "avg_1h": -0.05,
-        "avg_24h": -0.53,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
         "count": 186,
         "avg_1h": 0.01,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
+      "narrative": {
+        "count": 126,
+        "avg_1h": -0.05,
+        "avg_24h": -0.53,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 134,
+        "count": 133,
         "avg_1h": -0.04,
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
