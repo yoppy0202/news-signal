@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-08-18T09:44:53.861762+00:00",
+  "generated_at": "2026-08-18T10:41:44.355527+00:00",
   "events": [
+    {
+      "event_id": "ceeb660a-1108-4c74-bb54-a658eb7e6974",
+      "source": "rss:theblock",
+      "title": "Curve founder says FATF pressure could make DeFi safer and more decentralized",
+      "url": "https://www.theblock.co/news/defi/2026-08-18-curve-founder-fatf-pressure-could-make-defi-safer-412059",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T10:34:53+00:00",
+      "raw_text": "Curve founder says FATF pressure could make DeFi safer and more decentralized\n\nCurve founder Michael Egorov said FATF pressure could push DeFi protocols toward greater decentralization and stronger security.",
+      "impact": {}
+    },
+    {
+      "event_id": "c2f3d986-57e8-47b3-a670-55b8b0fe8d54",
+      "source": "rss:coindesk",
+      "title": "Bitcoin scores a rare win over S&P 500 with 2.6% rise versus 0.5% fall",
+      "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-scored-a-rare-win-over-s-and-p-500-on-monday",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T10:01:23+00:00",
+      "raw_text": "Bitcoin scores a rare win over S&P 500 with 2.6% rise versus 0.5% fall",
+      "impact": {}
+    },
+    {
+      "event_id": "63b3cd34-dab3-40b8-8d98-eca15b37c0f0",
+      "source": "rss:theblock",
+      "title": "Blockchain Association backs SEC’s proposal to scrap outdated NMS rules, citing tokenization benefits",
+      "url": "https://www.theblock.co/news/regulation/2026-08-18-blockchain-association-backs-secs-proposal-to-scrap-outdated-nms-rules-citing-tokenization-benefits-412069",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T09:35:26+00:00",
+      "raw_text": "Blockchain Association backs SEC’s proposal to scrap outdated NMS rules, citing tokenization benefits\n\nThe rules, established in 2005, have \"failed to achieve their stated purposes,\" the Blockchain Association said.",
+      "impact": {}
+    },
+    {
+      "event_id": "df3f8cb2-98f5-44bb-bd9b-0cf07a983771",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin price spike to $64.5K was ‘low-volume liquidity trap’: Analysis",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-spike-to-645k-was-low-volume-liquidity-trap-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T09:31:15+00:00",
+      "raw_text": "Bitcoin price spike to $64.5K was ‘low-volume liquidity trap’: Analysis\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price spike to $64.5K was ‘low-volume liquidity trap’: Analysis\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/p",
+      "impact": {}
+    },
+    {
+      "event_id": "f492ae86-62f6-4a1d-ba3b-ca274a800511",
+      "source": "rss:decrypt",
+      "title": "Bitpanda Hit With Europe's First Published MiCA Penalty in Austria",
+      "url": "https://decrypt.co/375841/bitpanda-europe-first-mica-penalty",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-18T09:31:04+00:00",
+      "raw_text": "Bitpanda Hit With Europe's First Published MiCA Penalty in Austria\n\nAustria's Financial Market Authority fined the Vienna-based exchange 70,000 euros for procedural and disclosure breaches, an early marker of how EU regulators intend to enforce the bloc's new crypto rulebook.",
+      "impact": {}
+    },
     {
       "event_id": "c9bdb5de-c7eb-4d34-97aa-f2594cd4ae92",
       "source": "rss:cointelegraph",
@@ -104,10 +164,17 @@
       "url": "https://www.coindesk.com/markets/2026/08/18/xrp-slips-below-usd1-even-as-korean-regional-bank-adopts-ripple-payments",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-08-18T05:34:32+00:00",
       "raw_text": "XRP sinks below $1 for first time since 2024 even as Korean bank adopts Ripple Payments",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0277,
+        "t_plus_15m": 0.0647,
+        "t_plus_1h": 0.5061,
+        "t_plus_4h": 0.0553
+      }
     },
     {
       "event_id": "83e4e7d9-916f-435d-9b66-e5955928cde2",
@@ -124,7 +191,8 @@
       "impact": {
         "t_plus_5m": -0.5238,
         "t_plus_15m": -0.4318,
-        "t_plus_1h": 0.0073
+        "t_plus_1h": 0.0073,
+        "t_plus_4h": -0.4412
       }
     },
     {
@@ -142,7 +210,8 @@
       "impact": {
         "t_plus_5m": -0.0365,
         "t_plus_15m": 0.056,
-        "t_plus_1h": 0.4973
+        "t_plus_1h": 0.4973,
+        "t_plus_4h": 0.0466
       }
     },
     {
@@ -6278,87 +6347,19 @@
       "timestamp_utc": "2026-08-10T21:18:27+00:00",
       "raw_text": "Blockstream Debuts Swaps, Allowing Bitcoiners to Move Between Lightning and Main Network With Ease\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Blockstream-Debuts-Swaps-Allowing-Bitcoiners-to-Move",
       "impact": {}
-    },
-    {
-      "event_id": "8c3ce73c-b76c-4176-8042-2cb7a94aa439",
-      "source": "rss:coindesk",
-      "title": "Trump Media’s bitcoin holdings shrink as crypto losses hit $361 million",
-      "url": "https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T21:12:07+00:00",
-      "raw_text": "Trump Media’s bitcoin holdings shrink as crypto losses hit $361 million",
-      "impact": {}
-    },
-    {
-      "event_id": "f93c4b64-f2cc-45b7-97b2-2291b2ba7a01",
-      "source": "rss:decrypt",
-      "title": "Bitcoin ATMs Pulled in Australia as Regulators Signal Wider Crackdown",
-      "url": "https://decrypt.co/375282/bitcoin-atms-pulled-australia-regulators-crackdown",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T21:02:43+00:00",
-      "raw_text": "Bitcoin ATMs Pulled in Australia as Regulators Signal Wider Crackdown\n\nAUSTRAC has suspended the registration of the operator running 96 of Australia's roughly 1,800 crypto ATMs, effective August 9.",
-      "impact": {}
-    },
-    {
-      "event_id": "90668d3a-1637-4546-8628-b3b48c2d2c34",
-      "source": "rss:theblock",
-      "title": "BTCPay Server supporters offer up to 3 BTC for recovery bounty after critical exploit",
-      "url": "https://www.theblock.co/news/ecosystems/2026-08-10-btcpay-server-supporters-offer-3-btc-recovery-bounty-critical-exploit-411353",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-10T20:59:57+00:00",
-      "raw_text": "BTCPay Server supporters offer up to 3 BTC for recovery bounty after critical exploit\n\nBTCPay said AI may have been used to exploit vulnerability, and credited Craig Raw and the Bitcoin Red Team fund for reporting the issue.\n\nBTCPay said AI may have been used to exploit vulnerability, and credited C",
-      "impact": {
-        "t_plus_5m": 0.0988,
-        "t_plus_15m": 0.1215,
-        "t_plus_1h": -0.1032,
-        "t_plus_4h": -0.0286
-      }
-    },
-    {
-      "event_id": "d3f51d84-189e-4424-821c-653d5fa7cd83",
-      "source": "rss:theblock",
-      "title": "BTCPay Server supporters offer up to 3 BTC for recovery bounty after critical exploit",
-      "url": "https://www.theblock.co/news/ecosystems/2026-08-10-btcpay-server-supporters-offer-3-btc-recovery-bounty-critical-exploit-411353?utm_source=rss&utm_medium=rss",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-10T20:59:57+00:00",
-      "raw_text": "BTCPay Server supporters offer up to 3 BTC for recovery bounty after critical exploit\n\n<p>BTCPay said AI may have been used to exploit vulnerability, and credited Craig Raw and the Bitcoin Red Team fund for reporting the issue.</p>\n\n<p>BTCPay said AI may have been used to exploit vulnerability, and ",
-      "impact": {
-        "t_plus_5m": -0.0355,
-        "t_plus_15m": -0.0129,
-        "t_plus_1h": -0.2372,
-        "t_plus_4h": -0.1628
-      }
-    },
-    {
-      "event_id": "531a4bf6-976a-43b3-a6a5-98cdc722f386",
-      "source": "rss:cointelegraph",
-      "title": "Judge stays CFTC’s case against US soldier over prediction market bets",
-      "url": "https://cointelegraph.com/news/cftc-us-solider-insider-trading-polymarket-nicolas-maduro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-10T20:50:59+00:00",
-      "raw_text": "Judge stays CFTC’s case against US soldier over prediction market bets\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Judge stays CFTC’s case against US soldier over prediction market bets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/jud",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 129,
+        "avg_1h": -0.05,
+        "avg_24h": 0.47,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 186,
-        "avg_1h": -0.03,
+        "count": 187,
+        "avg_1h": -0.01,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6369,15 +6370,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 49,
-        "avg_1h": -0.08,
+        "count": 47,
+        "avg_1h": -0.04,
         "avg_24h": -0.11,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 128,
-        "avg_1h": -0.05,
-        "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
