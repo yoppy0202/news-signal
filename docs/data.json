@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T07:50:00.454155+00:00",
+  "generated_at": "2026-08-19T08:51:02.412102+00:00",
   "events": [
     {
       "event_id": "0ed27114-6dcf-425b-823e-25c685eda567",
@@ -11,6 +11,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-19T06:36:11+00:00",
       "raw_text": "Maya Protocol exploit drains bitcoin and other assets as pool value drops $11 million",
+      "impact": {}
+    },
+    {
+      "event_id": "d41a5d8f-494a-4ac1-8897-afb087b30c6d",
+      "source": "rss:coindesk",
+      "title": "Robot maker Unitree’s IPO surges 600% , outpacing crypto traders’ premarket bets",
+      "url": "https://www.coindesk.com/markets/2026/08/19/robot-maker-unitree-s-ipo-surges-600-outpacing-crypto-traders-premarket-bets",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-19T05:45:27+00:00",
+      "raw_text": "Robot maker Unitree’s IPO surges 600% , outpacing crypto traders’ premarket bets",
       "impact": {}
     },
     {
@@ -6334,18 +6346,6 @@
       "timestamp_utc": "2026-08-11T17:14:08+00:00",
       "raw_text": "SEC could propose ‘pivotal’ crypto rules that may start with token safe harbor, TD Cowen says\n\nThe SEC’s crypto regulation meeting on Friday could mark the start of a “pivotal” rulemaking process, according to TD Cowen.\n\nThe SEC’s crypto regulation meeting on Friday could mark the start of a “pivota",
       "impact": {}
-    },
-    {
-      "event_id": "f1c2fa73-e7c6-42c7-bd2c-ed0cc271fcc7",
-      "source": "rss:coindesk",
-      "title": "EToro reports second quarter crypto loss even as total profit beats estimates",
-      "url": "https://www.coindesk.com/business/2026/08/11/digital-broker-etoro-reports-q2-crypto-revenue-dropped-120-compared-to-2025",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-11T17:12:11+00:00",
-      "raw_text": "EToro reports second quarter crypto loss even as total profit beats estimates",
-      "impact": {}
     }
   ],
   "stats": {
@@ -6357,7 +6357,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 189,
+        "count": 190,
         "avg_1h": 0.01,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
@@ -6369,7 +6369,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 131,
+        "count": 130,
         "avg_1h": -0.04,
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
