@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-19T20:40:38.994569+00:00",
+  "generated_at": "2026-08-19T21:35:42.592760+00:00",
   "events": [
+    {
+      "event_id": "7f9fcd72-44d2-45ed-8746-b1e563c56c6a",
+      "source": "rss:bitcoinmagazine",
+      "title": "Trump Urges Senate to Pass Crypto’s CLARITY Act, Teases More Bitcoin Buys",
+      "url": "https://bitcoinmagazine.com/news/trump-teases-bitcoin-buys",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-19T20:39:25+00:00",
+      "raw_text": "Trump Urges Senate to Pass Crypto’s CLARITY Act, Teases More Bitcoin Buys\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Trump-Urges-Senate-to-Pass-Cryptos-CLARITY-Act-Teases-More-Bitcoin-Buys.jpg\" ",
+      "impact": {}
+    },
+    {
+      "event_id": "acdfd232-3f60-46bf-a92f-1569cf9acbc5",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin.com integrates UAE-registered US dollar stablecoin into self-custodial wallet",
+      "url": "https://cointelegraph.com/news/bitcoincom-integrates-uae-registered-usdu-stablecoin-into-self-custodial-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-19T20:33:51+00:00",
+      "raw_text": "Bitcoin.com integrates UAE-registered US dollar stablecoin into self-custodial wallet\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin.com integrates UAE-registered US dollar stablecoin into self-custodial wallet\" class=\"type:primaryImage\" src=\"https://s3-images.ctmed",
+      "impact": {}
+    },
     {
       "event_id": "a829aa0a-308b-4430-8b7b-69fe201f0927",
       "source": "rss:theblock",
@@ -92,10 +116,16 @@
       "url": "https://bitcoinmagazine.com/news/bitcoin-shortsellers-get-destroyed",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-19T19:11:09+00:00",
       "raw_text": "Bitcoin Shortsellers Get Destroyed With $1.7B in Positions Liquidated Following BTC Price Jump\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Shortsellers-Get-Destroyed-With-1.7B-in-Position",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.3937,
+        "t_plus_15m": -0.123,
+        "t_plus_1h": 0.2943
+      }
     },
     {
       "event_id": "96ec8175-3578-45ee-ab20-36d1fd580857",
@@ -316,7 +346,8 @@
       "impact": {
         "t_plus_5m": -0.0223,
         "t_plus_15m": -0.2529,
-        "t_plus_1h": -0.387
+        "t_plus_1h": -0.387,
+        "t_plus_4h": -0.434
       }
     },
     {
@@ -6274,50 +6305,26 @@
       "timestamp_utc": "2026-08-12T13:39:31+00:00",
       "raw_text": "Smart contract blockchain Solana nearly froze Wednesday, Marinade Finance says",
       "impact": {}
-    },
-    {
-      "event_id": "1cdd467d-c321-4000-ac6a-1f98ca6a56c5",
-      "source": "rss:cointelegraph",
-      "title": "Slovenia joins EU’s MiCA stablecoin register with first issuer",
-      "url": "https://cointelegraph.com/news/slovenia-eu-mica-stablecoin-register-dinaro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-12T13:31:54+00:00",
-      "raw_text": "Slovenia joins EU’s MiCA stablecoin register with first issuer\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Slovenia joins EU’s MiCA stablecoin register with first issuer\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-a-beginners-guid",
-      "impact": {}
-    },
-    {
-      "event_id": "e551f38e-3f50-4625-9356-c9e9379def62",
-      "source": "rss:cointelegraph",
-      "title": "El Salvador’s Bitcoin experiment turns 5: ‘It was for us, not them’",
-      "url": "https://cointelegraph.com/magazine/el-salvadors-bitcoin-experiment-turns-5-it-was-for-us-and-not-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-12T13:30:00+00:00",
-      "raw_text": "El Salvador’s Bitcoin experiment turns 5: ‘It was for us, not them’\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"El Salvador’s Bitcoin experiment turns 5: ‘It was for us, not them’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/have-bitc",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 139,
-        "avg_1h": -0.06,
-        "avg_24h": 0.29,
+      "macro": {
+        "count": 122,
+        "avg_1h": 0.44,
+        "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 194,
+        "count": 193,
         "avg_1h": 0.03,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 121,
-        "avg_1h": 0.45,
-        "avg_24h": 0.47,
+      "narrative": {
+        "count": 139,
+        "avg_1h": -0.06,
+        "avg_24h": 0.29,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
