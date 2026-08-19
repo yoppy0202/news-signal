@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-19T01:49:08.643940+00:00",
+  "generated_at": "2026-08-19T03:07:15.975530+00:00",
   "events": [
+    {
+      "event_id": "f4b28039-b5b6-4831-abd7-1fad1f884628",
+      "source": "rss:coindesk",
+      "title": "‘It has to pass’: Andrew Cuomo warns U.S. is falling behind on crypto rules",
+      "url": "https://www.coindesk.com/policy/2026/08/18/it-has-to-pass-andrew-cuomo-warns-u-s-is-falling-behind-on-crypto-rules",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-19T01:35:36+00:00",
+      "raw_text": "‘It has to pass’: Andrew Cuomo warns U.S. is falling behind on crypto rules",
+      "impact": {}
+    },
     {
       "event_id": "52fe3222-ac34-4283-b812-f6d13b666b75",
       "source": "rss:coindesk",
@@ -6334,30 +6346,18 @@
       "timestamp_utc": "2026-08-11T16:24:48+00:00",
       "raw_text": "Bitcoin drops to one-week low as retail buys gold at highest prices since June\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin drops to one-week low as retail buys gold at highest prices since June\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar",
       "impact": {}
-    },
-    {
-      "event_id": "da505ad6-2743-45cc-a24c-2e2309ebfcd5",
-      "source": "rss:theblock",
-      "title": "From bitcoin bull to ‘complete demolition’: Keel CEO bets on AI’s greater value",
-      "url": "https://www.theblock.co/news/business/2026-08-11-bitcoin-bull-to-complete-demolition-keel-ceo-bets-on-ai-greater-value-411435",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-11T15:48:01+00:00",
-      "raw_text": "From bitcoin bull to ‘complete demolition’: Keel CEO bets on AI’s greater value\n\nIn May 2025, Keel's CEO said firm's bitcoin business was “strong” and said company remained “bullish on mining economics.\"\n\nIn May 2025, Keel's CEO said firm's bitcoin business was “strong” and said company remained “bu",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 186,
+        "count": 187,
         "avg_1h": 0.01,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 126,
+        "count": 125,
         "avg_1h": -0.05,
         "avg_24h": -0.53,
         "win_rate_1h_gt5pct": 0.0
