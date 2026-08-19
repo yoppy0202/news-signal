@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-19T17:36:50.290484+00:00",
+  "generated_at": "2026-08-19T18:49:57.176594+00:00",
   "events": [
+    {
+      "event_id": "01137df6-6f29-44ae-8acf-963d29f4d124",
+      "source": "rss:decrypt",
+      "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
+      "url": "https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-19T18:20:35+00:00",
+      "raw_text": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen\n\nThe cross-chain protocol said an attacker exploited six software flaws to drain Bitcoin and other assets, sending its CACAO token plunging.",
+      "impact": {}
+    },
+    {
+      "event_id": "f54527d6-ccba-4ca4-b070-1332d8dc37a2",
+      "source": "rss:coindesk",
+      "title": "Crypto campaign fund Fairshake faces $2 million setback in Florida primaries",
+      "url": "https://www.coindesk.com/policy/2026/08/19/crypto-campaign-fund-fairshake-faces-usd2-million-setback-in-florida-primaries",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-19T18:10:10+00:00",
+      "raw_text": "Crypto campaign fund Fairshake faces $2 million setback in Florida primaries",
+      "impact": {}
+    },
+    {
+      "event_id": "81128983-dcae-4f56-9a78-6511e3594dae",
+      "source": "rss:cointelegraph",
+      "title": "FalconX, Ethena bring USDe backing assets into $1B institutional credit facility",
+      "url": "https://cointelegraph.com/news/falconx-ethena-launch-1b-usde-backed-institutional-lending-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-19T17:34:10+00:00",
+      "raw_text": "FalconX, Ethena bring USDe backing assets into $1B institutional credit facility\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"FalconX, Ethena bring USDe backing assets into $1B institutional credit facility\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
+      "impact": {}
+    },
     {
       "event_id": "92f71603-8605-4723-b501-18a34f6cd05e",
       "source": "rss:theblock",
@@ -159,7 +195,8 @@
       "raw_text": "Standard Chartered analyst eyes $100K BTC as US Treasury doubles long-end buybacks\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Standard Chartered analyst eyes $100K BTC as US Treasury doubles long-end buybacks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/",
       "impact": {
         "t_plus_5m": -0.0223,
-        "t_plus_15m": -0.2529
+        "t_plus_15m": -0.2529,
+        "t_plus_1h": -0.387
       }
     },
     {
@@ -622,6 +659,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-19T09:10:22+00:00",
       "raw_text": "OpenAI trails Anthropic as losses deepen and Altman pauses frontier AI training",
+      "impact": {}
+    },
+    {
+      "event_id": "78156d3f-56ff-4315-a9f4-122ba06a997c",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin and gold jump but rejected at key level as Treasury move pushes yields lower",
+      "url": "https://www.coindesk.com/markets/2026/08/19/live-updates-bitcoin-holds-firm-above-usd64-000-as-south-korea-s-kospi-sinks-5-8",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-19T09:05:45+00:00",
+      "raw_text": "Live updates: Bitcoin and gold jump but rejected at key level as Treasury move pushes yields lower",
       "impact": {}
     },
     {
@@ -6248,92 +6297,38 @@
       "timestamp_utc": "2026-08-12T12:12:40+00:00",
       "raw_text": "Morning Minute: The CFTC Bails Out Kalshi in NY\n\nThe CFTC keeps going to bat for Kalshi while the ultimate prediction market court battle looms, with the fate of the sector in the balance.",
       "impact": {}
-    },
-    {
-      "event_id": "4cb4a4bb-0785-4411-a925-1d2f35903413",
-      "source": "rss:decrypt",
-      "title": "Bitwise Cuts 14% of Staff as Crypto Slump Reaches ETF Issuers",
-      "url": "https://decrypt.co/375394/bitwise-cuts-14-of-staff-as-crypto-slump-reaches-etf-issuers",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-12T12:06:36+00:00",
-      "raw_text": "Bitwise Cuts 14% of Staff as Crypto Slump Reaches ETF Issuers\n\nThe reduction matches the percentage shed by Coinbase in May, and follows shutdowns at BitMEX and BitMart.",
-      "impact": {}
-    },
-    {
-      "event_id": "bfa3ba0e-1368-49be-a577-3f1251307c15",
-      "source": "rss:coindesk",
-      "title": "FlightAware drops Kalshi lawsuit over a market niche that data shows it never took off",
-      "url": "https://www.coindesk.com/policy/2026/08/12/flightaware-drops-kalshi-lawsuit-over-a-market-niche-that-data-shows-it-never-took-off",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-12T11:44:10+00:00",
-      "raw_text": "FlightAware drops Kalshi lawsuit over a market niche that data shows it never took off",
-      "impact": {}
-    },
-    {
-      "event_id": "008c0ff9-1e4a-4985-a1f7-0ba092c26260",
-      "source": "rss:coindesk",
-      "title": "Russia moves to restrict retail crypto trading to bitcoin, ether and USDT",
-      "url": "https://www.coindesk.com/policy/2026/08/12/russia-moves-to-restrict-retail-crypto-trading-to-bitcoin-ether-and-usdt",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-12T11:19:32+00:00",
-      "raw_text": "Russia moves to restrict retail crypto trading to bitcoin, ether and USDT",
-      "impact": {}
-    },
-    {
-      "event_id": "1fd38378-f672-4467-8591-6b30c867d55a",
-      "source": "rss:coindesk",
-      "title": "XRP trading could get spicy after CPI report as futures bets hit highest since October",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/12/xrp-trading-could-get-spicy-after-cpi-report-as-futures-bets-hit-highest-since-october",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-08-12T11:15:00+00:00",
-      "raw_text": "XRP trading could get spicy after CPI report as futures bets hit highest since October",
-      "impact": {
-        "t_plus_5m": 0.3784,
-        "t_plus_15m": 0.4431,
-        "t_plus_1h": 0.5625
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 35,
+        "avg_1h": -0.05,
+        "avg_24h": -0.11,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 137,
+        "avg_1h": -0.06,
+        "avg_24h": 0.29,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 191,
+        "count": 192,
         "avg_1h": 0.03,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 127,
-        "avg_1h": 0.46,
+        "count": 125,
+        "avg_1h": 0.45,
         "avg_24h": 0.47,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 137,
-        "avg_1h": -0.03,
-        "avg_24h": 0.29,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
         "count": 10,
         "avg_1h": -0.07,
         "avg_24h": 2.84,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 34,
-        "avg_1h": -0.05,
-        "avg_24h": -0.11,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
