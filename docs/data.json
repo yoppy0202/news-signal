@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-19T21:35:42.592760+00:00",
+  "generated_at": "2026-08-19T22:36:30.869044+00:00",
   "events": [
+    {
+      "event_id": "5cbf0f34-a673-4538-93d3-e7734f7f9ab9",
+      "source": "rss:coindesk",
+      "title": "Bitcoin briefly hits $70,000 for the first time since June. Here is why",
+      "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-briefly-hits-usd70-000-for-the-first-time-since-june-here-is-why",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-19T22:26:01+00:00",
+      "raw_text": "Bitcoin briefly hits $70,000 for the first time since June. Here is why",
+      "impact": {}
+    },
+    {
+      "event_id": "7c76d7a9-5b6e-4086-87a9-6ff167751f51",
+      "source": "rss:decrypt",
+      "title": "Bitcoin's Sharpest Rally in Five Months Flips Markets From Bearish to Coin Flip",
+      "url": "https://decrypt.co/376030/bitcoin-rally-flips-markets-bearish-coin-flip",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-19T22:18:01+00:00",
+      "raw_text": "Bitcoin's Sharpest Rally in Five Months Flips Markets From Bearish to Coin Flip\n\nBitcoin's steepest daily gain since March caught traders off guard, and Myriad's pump-or-dump market swung from 70-30 odds to nearly even in a single day.",
+      "impact": {}
+    },
+    {
+      "event_id": "6d956901-c6ae-4432-9987-4a73fdfd0beb",
+      "source": "rss:decrypt",
+      "title": "Trump Says AI Could Be 'Bigger Than the Internet' as He Pushes Light-Touch Regulation",
+      "url": "https://decrypt.co/376026/trump-ai-bigger-than-internet-light-touch-regulation",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-19T21:36:50+00:00",
+      "raw_text": "Trump Says AI Could Be 'Bigger Than the Internet' as He Pushes Light-Touch Regulation\n\nThe president said the U.S. is far ahead of China in artificial intelligence and defended the rapid construction of data centers and power plants needed to fuel the industry.",
+      "impact": {}
+    },
     {
       "event_id": "7f9fcd72-44d2-45ed-8746-b1e563c56c6a",
       "source": "rss:bitcoinmagazine",
@@ -6269,54 +6305,12 @@
       "timestamp_utc": "2026-08-12T14:00:00+00:00",
       "raw_text": "Kalshi first prediction market to stream full order books via DoubleZero\n\nThe move gives institutional traders direct access to Level 1 and Level 2 data without having to reconstruct the book from APIs.\n\nThe move gives institutional traders direct access to Level 1 and Level 2 data without having to",
       "impact": {}
-    },
-    {
-      "event_id": "b9112df1-8dd2-445f-9a03-777e11e3fed5",
-      "source": "rss:cointelegraph",
-      "title": "Kalshi launches sports and crypto perps data feed on DoubleZero",
-      "url": "https://cointelegraph.com/news/kalshi-launches-sports-crypto-data-feed-doublezero?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-12T13:58:41+00:00",
-      "raw_text": "Kalshi launches sports and crypto perps data feed on DoubleZero\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi launches sports and crypto perps data feed on DoubleZero\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-comparison-us-",
-      "impact": {}
-    },
-    {
-      "event_id": "a456609a-5bf1-4218-a9e4-03a225384099",
-      "source": "rss:coindesk",
-      "title": "Solana neared a freeze threshold Wednesday, Marinade Finance says. The Foundation says it held up under stress.",
-      "url": "https://www.coindesk.com/tech/2026/08/12/smart-contract-blockchain-solana-nearly-froze-wednesday-marinade-finance-says",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-12T13:39:31+00:00",
-      "raw_text": "Solana neared a freeze threshold Wednesday, Marinade Finance says. The Foundation says it held up under stress.",
-      "impact": {}
-    },
-    {
-      "event_id": "3e6c0a3c-21ce-40a7-84bb-b622090de6db",
-      "source": "rss:coindesk",
-      "title": "Smart contract blockchain Solana nearly froze Wednesday, Marinade Finance says",
-      "url": "https://www.coindesk.com/tech/2026/08/12/smart-contract-blockchain-solana-nearly-froze-wednesday-marinade-finance-says",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-12T13:39:31+00:00",
-      "raw_text": "Smart contract blockchain Solana nearly froze Wednesday, Marinade Finance says",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 122,
-        "avg_1h": 0.44,
-        "avg_24h": 0.47,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 193,
+        "count": 192,
         "avg_1h": 0.03,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
@@ -6325,6 +6319,12 @@
         "count": 139,
         "avg_1h": -0.06,
         "avg_24h": 0.29,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 123,
+        "avg_1h": 0.44,
+        "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
