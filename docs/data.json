@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-19T05:42:14.058561+00:00",
+  "generated_at": "2026-08-19T07:01:13.073478+00:00",
   "events": [
+    {
+      "event_id": "0ed27114-6dcf-425b-823e-25c685eda567",
+      "source": "rss:coindesk",
+      "title": "Maya Protocol exploit drains bitcoin and other assets as pool value drops $11 million",
+      "url": "https://www.coindesk.com/markets/2026/08/19/maya-protocol-exploit-drains-bitcoin-and-other-assets-as-pool-value-drops-usd11-million",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-19T06:36:11+00:00",
+      "raw_text": "Maya Protocol exploit drains bitcoin and other assets as pool value drops $11 million",
+      "impact": {}
+    },
+    {
+      "event_id": "2b990341-5d45-400a-b7ee-0025f238bae7",
+      "source": "rss:coindesk",
+      "title": "Robot maker Unitree’s IPO surges 600%, outpacing crypto traders’ premarket bets",
+      "url": "https://www.coindesk.com/markets/2026/08/19/robot-maker-unitree-s-ipo-surges-600-outpacing-crypto-traders-premarket-bets",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-19T05:45:27+00:00",
+      "raw_text": "Robot maker Unitree’s IPO surges 600%, outpacing crypto traders’ premarket bets",
+      "impact": {}
+    },
     {
       "event_id": "ca5c82c9-b5b1-4351-ad00-ed86af367cd4",
       "source": "rss:cointelegraph",
@@ -6322,30 +6346,6 @@
       "timestamp_utc": "2026-08-11T17:02:36+00:00",
       "raw_text": "Ravencoin Crashes 20% as Critical Exploit Threatens to Rollback Network\n\nTwo mining pools controlling most of Ravencoin's hash power are already rebuilding the chain from before Friday's first bad block—here's what a forced rollback would undo.",
       "impact": {}
-    },
-    {
-      "event_id": "49176198-9d60-435f-86a9-010b3758c35f",
-      "source": "rss:cointelegraph",
-      "title": "FlightAware sues Kalshi over flight cancellation data",
-      "url": "https://cointelegraph.com/news/flightaware-lawsuit-kalshi-flight-cancellations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-11T16:55:14+00:00",
-      "raw_text": "FlightAware sues Kalshi over flight cancellation data\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"FlightAware sues Kalshi over flight cancellation data\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-coin-moving-ahead-with-release-but",
-      "impact": {}
-    },
-    {
-      "event_id": "9607ff39-5221-4462-983b-65dd11f5cf64",
-      "source": "rss:theblock",
-      "title": "New Bitcoin addresses jump as Coldcard exploit pushes users to move funds",
-      "url": "https://www.theblock.co/news/ecosystems/2026-08-11-new-bitcoin-addresses-jump-coldcard-exploit-pushes-users-move-funds-411317",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-11T16:46:02+00:00",
-      "raw_text": "New Bitcoin addresses jump as Coldcard exploit pushes users to move funds\n\nThe number of new Bitcoin addresses climbed from 260,000 to 330,000, a sharp break from the decline that has held for most of the year.\n\nThe number of new Bitcoin addresses climbed from 260,000 to 330,000, a sharp break from ",
-      "impact": {}
     }
   ],
   "stats": {
@@ -6357,7 +6357,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 188,
+        "count": 189,
         "avg_1h": 0.01,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
@@ -6369,7 +6369,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 125,
+        "count": 124,
         "avg_1h": -0.05,
         "avg_24h": -0.53,
         "win_rate_1h_gt5pct": 0.0
