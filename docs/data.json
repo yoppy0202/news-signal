@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-19T18:49:57.176594+00:00",
+  "generated_at": "2026-08-19T19:34:35.095206+00:00",
   "events": [
+    {
+      "event_id": "2905ee9c-4d1d-4852-ac65-5756af984bcb",
+      "source": "rss:cointelegraph",
+      "title": "Crypto PAC notches primary wins, but loses $2M Florida race",
+      "url": "https://cointelegraph.com/news/crypto-pac-wins-primaries-loses-florida-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-19T18:48:58+00:00",
+      "raw_text": "Crypto PAC notches primary wins, but loses $2M Florida race\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto PAC notches primary wins, but loses $2M Florida race\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-can-somebody-predict-t",
+      "impact": {}
+    },
     {
       "event_id": "01137df6-6f29-44ae-8acf-963d29f4d124",
       "source": "rss:decrypt",
@@ -6285,32 +6297,20 @@
       "timestamp_utc": "2026-08-12T12:16:29+00:00",
       "raw_text": "Standard Chartered-backed Anchorpoint begins HKDAP stablecoin rollout\n\nStandard Chartered-backed Anchorpoint began an institutional rollout of its Hong Kong dollar stablecoin, HKDAP, following licensing approval.\n\nStandard Chartered-backed Anchorpoint began an institutional rollout of its Hong Kong ",
       "impact": {}
-    },
-    {
-      "event_id": "aad87b2f-ebd7-4030-afe8-040a95feac13",
-      "source": "rss:decrypt",
-      "title": "Morning Minute: The CFTC Bails Out Kalshi in NY",
-      "url": "https://decrypt.co/375393/morning-minute-the-cftc-bails-out-kalshi-in-ny",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-12T12:12:40+00:00",
-      "raw_text": "Morning Minute: The CFTC Bails Out Kalshi in NY\n\nThe CFTC keeps going to bat for Kalshi while the ultimate prediction market court battle looms, with the fate of the sector in the balance.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 138,
+        "avg_1h": -0.06,
+        "avg_24h": 0.29,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
         "count": 35,
         "avg_1h": -0.05,
         "avg_24h": -0.11,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 137,
-        "avg_1h": -0.06,
-        "avg_24h": 0.29,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
@@ -6320,7 +6320,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 125,
+        "count": 124,
         "avg_1h": 0.45,
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
