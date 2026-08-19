@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-19T03:07:15.975530+00:00",
+  "generated_at": "2026-08-19T03:55:34.822260+00:00",
   "events": [
+    {
+      "event_id": "83f255a8-ed3f-4ba5-b64b-2ce9b6201278",
+      "source": "rss:theblock",
+      "title": "Kalshi files to launch perpetual futures tied to US stock index, copper",
+      "url": "https://www.theblock.co/news/business/2026-08-18-kalshi-files-perps-equity-index-copper-412176",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-19T03:22:58+00:00",
+      "raw_text": "Kalshi files to launch perpetual futures tied to US stock index, copper\n\nKalshi has filed with the Commodity Futures Trading Commission to offer perps tied to the MerQube US Large Cap Index and copper.",
+      "impact": {}
+    },
     {
       "event_id": "f4b28039-b5b6-4831-abd7-1fad1f884628",
       "source": "rss:coindesk",
@@ -4586,6 +4598,18 @@
       "impact": {}
     },
     {
+      "event_id": "dd038e2b-c64e-4059-a4a1-8f75d718397f",
+      "source": "rss:solana_official",
+      "title": "How Meow Built Agentic Banking and Agent Payment Rails, with Brandon Arvanaghi",
+      "url": "https://solana.com/news/how-meow-built-agentic-banking-and-agent-payment-rails-with-brandon-arvanaghi",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-13T02:06:00+00:00",
+      "raw_text": "How Meow Built Agentic Banking and Agent Payment Rails, with Brandon Arvanaghi\n\nMeow lets AI agents form a company and apply for a business bank account in one prompt, with payment rails spanning ACH, USDC, SOL, and more.",
+      "impact": {}
+    },
+    {
       "event_id": "a0de18c1-5de3-461f-936b-522ef6d76215",
       "source": "rss:cointelegraph",
       "title": "ASX shareholder plans to sue former directors over failed blockchain project",
@@ -6322,36 +6346,12 @@
       "timestamp_utc": "2026-08-11T16:34:40+00:00",
       "raw_text": "Nasdaq to acquire LeveL Markets in push toward ‘always-on’ markets\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Nasdaq to acquire LeveL Markets in push toward ‘always-on’ markets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-g",
       "impact": {}
-    },
-    {
-      "event_id": "330ba67d-fc8b-44cb-9b2e-2272cdde165a",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bank of Russia Approves Bitcoin Trading For Retail Investors",
-      "url": "https://bitcoinmagazine.com/news/russia-bank-approves-bitcoin-trading",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-11T16:26:54+00:00",
-      "raw_text": "Bank of Russia Approves Bitcoin Trading For Retail Investors\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bank-of-Russia-Approves-Bitcoin-Trading-For-Retail-Investors.jpg\" style=\"display: block; m",
-      "impact": {}
-    },
-    {
-      "event_id": "2a86a87c-5bc7-4da7-87a1-79c81f0fe2a5",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin drops to one-week low as retail buys gold at highest prices since June",
-      "url": "https://cointelegraph.com/markets/bitcoin-drops-to-one-week-low-as-retail-buys-gold-at-highest-prices-since-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-11T16:24:48+00:00",
-      "raw_text": "Bitcoin drops to one-week low as retail buys gold at highest prices since June\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin drops to one-week low as retail buys gold at highest prices since June\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 187,
+        "count": 188,
         "avg_1h": 0.01,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
@@ -6363,7 +6363,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 133,
+        "count": 132,
         "avg_1h": -0.04,
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
