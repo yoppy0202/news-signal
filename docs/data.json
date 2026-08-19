@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-19T09:45:20.101280+00:00",
+  "generated_at": "2026-08-19T10:41:33.187994+00:00",
   "events": [
+    {
+      "event_id": "b617d69a-1d06-4210-bb82-27f02e0ce1a9",
+      "source": "rss:coindesk",
+      "title": "Ripple raises $275 million in senior notes for prime brokerage push",
+      "url": "https://www.coindesk.com/business/2026/08/19/ripple-raises-usd275-million-in-debut-debt-offering-for-its-prime-brokerage-arm",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-19T09:55:50+00:00",
+      "raw_text": "Ripple raises $275 million in senior notes for prime brokerage push",
+      "impact": {}
+    },
+    {
+      "event_id": "33f03bf5-a4a6-4d88-9ae8-27dcc401f149",
+      "source": "rss:decrypt",
+      "title": "Winklevoss-Backed Cypherpunk Launches 'World's Largest' Zcash Mining Fleet",
+      "url": "https://decrypt.co/375926/winklevoss-cypherpunk-zcash-mining-fleet",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-19T09:31:03+00:00",
+      "raw_text": "Winklevoss-Backed Cypherpunk Launches 'World's Largest' Zcash Mining Fleet\n\nThe Nasdaq-listed privacy firm launched Cypherpunk Mining through a $33.33 million equity deal with Winklevoss Capital, adding roughly 18% of the Zcash network's hashrate to accelerate its treasury ambitions.",
+      "impact": {}
+    },
     {
       "event_id": "aafb6134-855f-43f2-a23a-80817d693b9a",
       "source": "rss:coindesk",
@@ -6300,50 +6324,25 @@
       "timestamp_utc": "2026-08-11T18:35:00+00:00",
       "raw_text": "What’s next for the Clarity Act as September brings a tough road ahead\n\nThe outlook for crypto legislation is growing increasingly bleak, following Sen. John Thune's move to punt the initial vote to next month.\n\nThe outlook for crypto legislation is growing increasingly bleak, following Sen. John Th",
       "impact": {}
-    },
-    {
-      "event_id": "f1b9418d-b896-4229-aae1-02f4485fbf27",
-      "source": "rss:decrypt",
-      "title": "Trump Media’s Crypto Bet Fuels Massive $238M Quarterly Loss",
-      "url": "https://decrypt.co/375359/trump-media-crypto-bet-238m-quarterly-loss",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-11T18:25:14+00:00",
-      "raw_text": "Trump Media’s Crypto Bet Fuels Massive $238M Quarterly Loss\n\nFalling digital asset values battered the Truth Social parent’s balance sheet, contributing to about $361 million in crypto-related losses during the first half of 2026.",
-      "impact": {}
-    },
-    {
-      "event_id": "71813a2d-cfd2-4615-a606-4e27952e8fba",
-      "source": "rss:bitcoinmagazine",
-      "title": "Twenty One to Become ‘More Than a Bitcoin Treasury,’ Says New CEO",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-treasury-twenty-one-writes-letter",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-11T18:20:39+00:00",
-      "raw_text": "Twenty One to Become ‘More Than a Bitcoin Treasury,’ Says New CEO\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Treasury-Twenty-One-to-Become-More-Than-a-Treasury-Company.jpg\" style=\"displa",
-      "impact": {
-        "t_plus_5m": -0.1583,
-        "t_plus_15m": -0.4131,
-        "t_plus_1h": -0.5631,
-        "t_plus_4h": 0.0574
-      }
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 127,
+        "count": 128,
         "avg_1h": -0.03,
         "avg_24h": -0.44,
         "win_rate_1h_gt5pct": 0.0
       },
+      "listing": {
+        "count": 10,
+        "avg_1h": -0.07,
+        "avg_24h": -0.13,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 129,
-        "avg_1h": -0.04,
+        "count": 128,
+        "avg_1h": 0.02,
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6354,15 +6353,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 189,
+        "count": 188,
         "avg_1h": 0.04,
         "avg_24h": 0.14,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "listing": {
-        "count": 9,
-        "avg_1h": -0.07,
-        "avg_24h": -0.13,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
