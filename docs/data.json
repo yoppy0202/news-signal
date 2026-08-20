@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T08:52:11.431401+00:00",
+  "generated_at": "2026-08-20T09:46:37.194393+00:00",
   "events": [
     {
       "event_id": "e557e59c-1c1c-4caa-8cc4-e2d986149c96",
@@ -23,6 +23,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-20T06:57:13+00:00",
       "raw_text": "Spot bitcoin ETFs report $517 million in net inflows, largest in 3.5 months\n\nAnalysts attributed the inflows to the surprise crypto market rally driven by US Treasury Department's buyback expansion announcement.",
+      "impact": {}
+    },
+    {
+      "event_id": "e624241b-fec3-4083-b241-6162b913b012",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin hits $71,000, ETFs draw $700 million in biggest inflows in months",
+      "url": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-20T06:21:17+00:00",
+      "raw_text": "Live updates: Bitcoin hits $71,000, ETFs draw $700 million in biggest inflows in months",
       "impact": {}
     },
     {
@@ -71,6 +83,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-20T05:40:54+00:00",
       "raw_text": "Trader who made $49 million shorting crypto lost $24 million on ether in 12 seconds",
+      "impact": {}
+    },
+    {
+      "event_id": "10394724-6abe-4e84-beea-ee949e61d503",
+      "source": "rss:coindesk",
+      "title": "Bearish crypto bets lose record $3 billion as bitcoin tops $71,000",
+      "url": "https://www.coindesk.com/markets/2026/08/20/bearish-crypto-bets-lose-record-usd2-7-billion-as-bitcoin-surges-toward-usd70-000",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-20T04:29:56+00:00",
+      "raw_text": "Bearish crypto bets lose record $3 billion as bitcoin tops $71,000",
       "impact": {}
     },
     {
@@ -6276,54 +6300,30 @@
         "t_plus_1h": -0.0807,
         "t_plus_4h": -0.2638
       }
-    },
-    {
-      "event_id": "b148d5c3-eae5-4507-ad6a-ed09bf19966d",
-      "source": "rss:theblock",
-      "title": "BIP-110 failure shows Bitcoin would be ‘almost impossible to reproduce,’ Plan B Network director says",
-      "url": "https://www.theblock.co/news/ecosystems/2026-08-12-bip-110-failure-bitcoin-impossible-reproduce-plan-b-network-director-411596",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-12T15:51:35+00:00",
-      "raw_text": "BIP-110 failure shows Bitcoin would be ‘almost impossible to reproduce,’ Plan B Network director says\n\nPlan B Network director Giacomo Zucco says BIP-110’s failure exposed the challenges of recreating Bitcoin’s early development.\n\nPlan B Network director Giacomo Zucco says BIP-110’s failure exposed ",
-      "impact": {}
-    },
-    {
-      "event_id": "d1ae4c01-4061-4917-a59a-54ff5ccb95a0",
-      "source": "rss:theblock",
-      "title": "Attackers keep hitting the wrong house in rural France after crypto millionaire moved: report",
-      "url": "https://www.theblock.co/news/regulation/2026-08-12-attackers-keep-hitting-wrong-house-rural-france-after-crypto-millionaire-moved-report-411605",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-12T15:30:05+00:00",
-      "raw_text": "Attackers keep hitting the wrong house in rural France after crypto millionaire moved: report\n\nA French couple in the Somme who bought a former crypto millionaires’ house have been targeted in three separate home invasions.\n\nA French couple in the Somme who bought a former crypto millionaires’ house",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "macro": {
-        "count": 126,
+        "count": 127,
         "avg_1h": 0.44,
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 140,
+        "count": 139,
         "avg_1h": -0.06,
         "avg_24h": 0.29,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 188,
+        "count": 189,
         "avg_1h": 0.03,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 35,
+        "count": 34,
         "avg_1h": -0.05,
         "avg_24h": -0.11,
         "win_rate_1h_gt5pct": 0.0
