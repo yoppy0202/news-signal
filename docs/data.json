@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-20T04:48:26.255857+00:00",
+  "generated_at": "2026-08-20T05:42:29.295536+00:00",
   "events": [
+    {
+      "event_id": "0d0d673b-1289-4d67-a278-80e4f7f041bb",
+      "source": "rss:coindesk",
+      "title": "Bearish crypto bets lose record $2.7 billion as bitcoin surges toward $70,000",
+      "url": "https://www.coindesk.com/markets/2026/08/20/bearish-crypto-bets-lose-record-usd2-7-billion-as-bitcoin-surges-toward-usd70-000",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-20T04:29:56+00:00",
+      "raw_text": "Bearish crypto bets lose record $2.7 billion as bitcoin surges toward $70,000",
+      "impact": {}
+    },
+    {
+      "event_id": "7517d3f3-7a1d-490e-b524-ab7afa4e25cc",
+      "source": "rss:cointelegraph",
+      "title": "Rushed CLARITY Act vote could set legislation back, Gallego warns",
+      "url": "https://cointelegraph.com/news/ruben-gallego-rushed-clarity-act-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-20T04:27:17+00:00",
+      "raw_text": "Rushed CLARITY Act vote could set legislation back, Gallego warns\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Rushed CLARITY Act vote could set legislation back, Gallego warns\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-ind",
+      "impact": {}
+    },
+    {
+      "event_id": "75b4575a-691b-4935-b40a-9e7f3437249d",
+      "source": "rss:coindesk",
+      "title": "Ether jumps 18% to $2,250 as bitcoin tops $69,000 in broad crypto rally",
+      "url": "https://www.coindesk.com/markets/2026/08/20/ether-jumps-18-to-usd2-250-as-bitcoin-tops-usd69-000-in-broad-crypto-rally",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-20T04:10:40+00:00",
+      "raw_text": "Ether jumps 18% to $2,250 as bitcoin tops $69,000 in broad crypto rally",
+      "impact": {}
+    },
     {
       "event_id": "5328d466-0353-4d7b-95b4-f55bc5c4eb53",
       "source": "rss:theblock",
@@ -6264,60 +6300,12 @@
       "timestamp_utc": "2026-08-12T14:51:12+00:00",
       "raw_text": "Crypto Long & Short: When capital can't move fast enough, markets pay the price",
       "impact": {}
-    },
-    {
-      "event_id": "77513686-868e-4e3a-8083-7d94ee84a3dd",
-      "source": "rss:coindesk",
-      "title": "Crypto Long & Short:",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-long-and-short",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-12T14:51:12+00:00",
-      "raw_text": "Crypto Long & Short:",
-      "impact": {}
-    },
-    {
-      "event_id": "0f7e6e7c-b7cd-4698-921b-d465341bdadf",
-      "source": "rss:theblock",
-      "title": "Bitcoin dips under $64,000 as in-line CPI buys the Fed time, not conviction: analysts",
-      "url": "https://www.theblock.co/news/markets/2026-08-12-bitcoin-dips-under-64000-in-line-cpi-buys-fed-time-not-conviction-analysts-411594",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-12T14:35:08+00:00",
-      "raw_text": "Bitcoin dips under $64,000 as in-line CPI buys the Fed time, not conviction: analysts\n\nBitcoin fell under $64,000 after July CPI matched forecasts at 3.4%, with analysts saying the in-line print keeps the Fed patient.\n\nBitcoin fell under $64,000 after July CPI matched forecasts at 3.4%, with analyst",
-      "impact": {}
-    },
-    {
-      "event_id": "2ee36417-589a-468e-adca-7fa4dace9766",
-      "source": "rss:decrypt",
-      "title": "A Routing Bug Took Solana 86% of the Way to Losing Finality",
-      "url": "https://decrypt.co/375404/a-routing-bug-took-solana-86-of-the-way-to-losing-finality",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [
-        "SOL"
-      ],
-      "timestamp_utc": "2026-08-12T14:13:07+00:00",
-      "raw_text": "A Routing Bug Took Solana 86% of the Way to Losing Finality\n\nA malformed default route at a single hosting provider took almost 29% of staked SOL offline, against a 33% threshold.",
-      "impact": {
-        "t_plus_5m": 0.26,
-        "t_plus_15m": -0.0109,
-        "t_plus_1h": -0.0667
-      }
     }
   ],
   "stats": {
     "by_event_type": {
-      "hack": {
-        "count": 36,
-        "avg_1h": -0.05,
-        "avg_24h": -0.11,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 191,
+        "count": 192,
         "avg_1h": 0.03,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
@@ -6328,8 +6316,14 @@
         "avg_24h": 0.29,
         "win_rate_1h_gt5pct": 0.0
       },
+      "hack": {
+        "count": 36,
+        "avg_1h": -0.05,
+        "avg_24h": -0.11,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 123,
+        "count": 122,
         "avg_1h": 0.44,
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
