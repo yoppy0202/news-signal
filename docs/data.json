@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-20T18:55:30.521896+00:00",
+  "generated_at": "2026-08-20T19:40:22.006088+00:00",
   "events": [
+    {
+      "event_id": "0780cdac-db6a-4284-b761-63e900f1acfd",
+      "source": "rss:coindesk",
+      "title": "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
+      "url": "https://www.coindesk.com/policy/2026/08/20/u-s-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-fails",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-20T18:54:18+00:00",
+      "raw_text": "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
+      "impact": {}
+    },
+    {
+      "event_id": "e6a3c112-66c0-48ff-ab0d-965c4939bd4f",
+      "source": "rss:decrypt",
+      "title": "CFTC Chair Readies Crypto Rules If Congress Fails to Pass Clarity Act",
+      "url": "https://decrypt.co/376151/cftc-chair-crypto-rules-if-congress-fails-clarity-act",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-20T18:44:08+00:00",
+      "raw_text": "CFTC Chair Readies Crypto Rules If Congress Fails to Pass Clarity Act\n\nThe CFTC chair said staff is already exploring a crypto market structure framework and could move quickly to propose rules if Congress fails to act.",
+      "impact": {}
+    },
+    {
+      "event_id": "44a16b81-af3e-4b27-b0ac-2274d25b9ac0",
+      "source": "rss:decrypt",
+      "title": "Alibaba's Revenue Jumps 9% as AI Cloud Growth Hits 45%—But a Profit Plunge Sends Shares Lower",
+      "url": "https://decrypt.co/376143/alibaba-revenue-jumps-ai-cloud-growth",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-20T18:32:25+00:00",
+      "raw_text": "Alibaba's Revenue Jumps 9% as AI Cloud Growth Hits 45%—But a Profit Plunge Sends Shares Lower\n\nCloud and AI product revenue accelerated in the June quarter, but a 75% drop in net income extended Alibaba's run of profit misses to a fifth straight quarter.",
+      "impact": {}
+    },
     {
       "event_id": "46bb7db4-05bf-471a-b8f7-153f512ffb5c",
       "source": "rss:theblock",
@@ -20,10 +56,16 @@
       "url": "https://decrypt.co/376120/xrp-price-best-week-since-2024-election-pump",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-08-20T17:46:08+00:00",
       "raw_text": "XRP Notches Best Week Since 2024 Election Pump on Bitcoin Short Squeeze\n\nThe token's steepest daily and weekly gains in months rode Bitcoin's record liquidation wave—though ETF flows and futures data hint the move is running on borrowed momentum.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 4.8603,
+        "t_plus_15m": 3.2617,
+        "t_plus_1h": -1.1093
+      }
     },
     {
       "event_id": "b39b9f5f-3f45-40c0-b82b-0ed16339f246",
@@ -80,10 +122,16 @@
       "url": "https://www.theblock.co/news/markets/2026-08-20-bitcoins-rally-pushes-past-72000-analysts-see-demand-beyond-historic-short-squeeze-412337",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-20T17:06:01+00:00",
       "raw_text": "Bitcoin’s rally pushes past $72,000 as analysts see demand beyond historic short squeeze\n\nAnalysts say the move is supported by spot and ETF demand, though BTC will need to hold above $70k to show the rally can outlast the squeeze.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1748,
+        "t_plus_15m": 0.1296,
+        "t_plus_1h": 0.1022
+      }
     },
     {
       "event_id": "ed0f94c1-2849-4d9d-8b4a-000b291fc402",
@@ -6253,54 +6301,18 @@
       "timestamp_utc": "2026-08-13T08:29:01+00:00",
       "raw_text": "Securitize falls 16% after earnings miss, tokenization revenue drops\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Securitize falls 16% after earnings miss, tokenization revenue drops\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-cryp",
       "impact": {}
-    },
-    {
-      "event_id": "fd95ff4d-20b8-4f11-9503-458add3c9303",
-      "source": "rss:cointelegraph",
-      "title": "BitGo posts $19M Q2 loss despite 80% revenue surge to $4.3B",
-      "url": "https://cointelegraph.com/news/bitgo-q2-19-million-revenue-surge-4-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T07:42:59+00:00",
-      "raw_text": "BitGo posts $19M Q2 loss despite 80% revenue surge to $4.3B\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitGo posts $19M Q2 loss despite 80% revenue surge to $4.3B\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-comparison-q1-vs-q2-of",
-      "impact": {}
-    },
-    {
-      "event_id": "4b0da96c-b3f4-4d2c-b41b-5df0a6a8d519",
-      "source": "rss:theblock",
-      "title": "Mirae Asset to inject additional $35 million into Korbit crypto exchange following July acquisition: report",
-      "url": "https://www.theblock.co/news/business/2026-08-13-mirae-asset-35-million-korbit-411677",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T07:29:13+00:00",
-      "raw_text": "Mirae Asset to inject additional $35 million into Korbit crypto exchange following July acquisition: report\n\nMirae Asset completed the acquisition of Korbit in July, acquiring 97.15% of the company for roughly $91.5 million.\n\nMirae Asset completed the acquisition of Korbit in July, acquiring 97.15% ",
-      "impact": {}
-    },
-    {
-      "event_id": "805c01c1-9d34-4777-b748-6e81a8520cbe",
-      "source": "rss:cointelegraph",
-      "title": "Copper US arm becomes FINRA member, SEC-registered broker-dealer",
-      "url": "https://cointelegraph.com/news/copper-us-arm-joins-finra-after-sec-broker-dealer-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T07:14:19+00:00",
-      "raw_text": "Copper US arm becomes FINRA member, SEC-registered broker-dealer\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Copper US arm becomes FINRA member, SEC-registered broker-dealer\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/crypto-bitcoin-",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "macro": {
-        "count": 128,
-        "avg_1h": 0.44,
+        "count": 127,
+        "avg_1h": 0.25,
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 142,
+        "count": 144,
         "avg_1h": -0.11,
         "avg_24h": 0.87,
         "win_rate_1h_gt5pct": 0.0
@@ -6312,7 +6324,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 188,
+        "count": 187,
         "avg_1h": 0.07,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
