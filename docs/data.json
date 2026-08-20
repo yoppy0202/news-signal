@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-20T07:52:30.000925+00:00",
+  "generated_at": "2026-08-20T08:52:11.431401+00:00",
   "events": [
+    {
+      "event_id": "e557e59c-1c1c-4caa-8cc4-e2d986149c96",
+      "source": "rss:cointelegraph",
+      "title": "BitGo Korea secures VASP registration for institutional crypto custody",
+      "url": "https://cointelegraph.com/news/bitgo-korea-vasp-registration-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-20T07:48:40+00:00",
+      "raw_text": "BitGo Korea secures VASP registration for institutional crypto custody\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitGo Korea secures VASP registration for institutional crypto custody\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-",
+      "impact": {}
+    },
     {
       "event_id": "c15c1910-d3b2-44ed-aab3-9262d9ff4bce",
       "source": "rss:theblock",
@@ -11,6 +23,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-20T06:57:13+00:00",
       "raw_text": "Spot bitcoin ETFs report $517 million in net inflows, largest in 3.5 months\n\nAnalysts attributed the inflows to the surprise crypto market rally driven by US Treasury Department's buyback expansion announcement.",
+      "impact": {}
+    },
+    {
+      "event_id": "3814d627-93fc-45c9-b81f-b4f4436b3739",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin hits $71,000 as ETFs draw $517 million, ether pulls $189 million in biggest inflows in months",
+      "url": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-20T06:21:17+00:00",
+      "raw_text": "Live updates: Bitcoin hits $71,000 as ETFs draw $517 million, ether pulls $189 million in biggest inflows in months",
       "impact": {}
     },
     {
@@ -6276,36 +6300,12 @@
       "timestamp_utc": "2026-08-12T15:30:05+00:00",
       "raw_text": "Attackers keep hitting the wrong house in rural France after crypto millionaire moved: report\n\nA French couple in the Somme who bought a former crypto millionaires’ house have been targeted in three separate home invasions.\n\nA French couple in the Somme who bought a former crypto millionaires’ house",
       "impact": {}
-    },
-    {
-      "event_id": "6eba655a-234a-4ad7-a975-5170533c9833",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin Yawns As Fed’s Favorite Inflation Gauge Eases",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-yawns-as-us-inflation-eases",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-12T15:20:07+00:00",
-      "raw_text": "Bitcoin Yawns As Fed’s Favorite Inflation Gauge Eases\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Yawns-As-Feds-Favorite-Inflation-Gauge-Eases-.jpg\" style=\"display: block; margin: 1em aut",
-      "impact": {}
-    },
-    {
-      "event_id": "3ce9fb7d-732a-4d1e-bd99-4dc71a7ee2bf",
-      "source": "rss:theblock",
-      "title": "New York City Council opens probe into prediction market platforms",
-      "url": "https://www.theblock.co/news/regulation/2026-08-12-new-york-city-council-opens-probe-into-prediction-market-platforms-411604",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-12T15:18:01+00:00",
-      "raw_text": "New York City Council opens probe into prediction market platforms\n\nThe NYC Council has opened a probe into prediction market platforms over alleged \"false, deceptive, or abusive marketing tactics.\"\n\nThe NYC Council has opened a probe into prediction market platforms over alleged \"false, deceptive, ",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "macro": {
-        "count": 124,
+        "count": 126,
         "avg_1h": 0.44,
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
@@ -6317,13 +6317,13 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 189,
+        "count": 188,
         "avg_1h": 0.03,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 36,
+        "count": 35,
         "avg_1h": -0.05,
         "avg_24h": -0.11,
         "win_rate_1h_gt5pct": 0.0
