@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-20T03:06:47.292855+00:00",
+  "generated_at": "2026-08-20T03:55:31.016341+00:00",
   "events": [
+    {
+      "event_id": "5328d466-0353-4d7b-95b4-f55bc5c4eb53",
+      "source": "rss:theblock",
+      "title": "AI agents could make today’s billion-dollar crypto hacks look like ‘pennies,’ industry leaders warn",
+      "url": "https://www.theblock.co/news/ecosystems/2026-08-19-ai-agents-todays-billion-dollar-crypto-hacks-look-like-pennies-industry-leaders-412278",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-20T03:07:29+00:00",
+      "raw_text": "AI agents could make today’s billion-dollar crypto hacks look like ‘pennies,’ industry leaders warn\n\nCrypto leaders see trust, hallucinations and unclear legal liability as the biggest hurdles to agentic adoption.",
+      "impact": {}
+    },
     {
       "event_id": "d04af3a7-eaf8-4f8b-ad3f-54235c4e5ca2",
       "source": "rss:theblock",
@@ -6294,24 +6306,18 @@
         "t_plus_15m": -0.0109,
         "t_plus_1h": -0.0667
       }
-    },
-    {
-      "event_id": "01503c10-3f92-40f2-84a6-76c6c54a8261",
-      "source": "rss:decrypt",
-      "title": "Kalshi Adds Real-Time Market Data Feed Through DoubleZero",
-      "url": "https://decrypt.co/375384/kalshi-real-time-market-data-feed-doublezero",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-12T14:00:04+00:00",
-      "raw_text": "Kalshi Adds Real-Time Market Data Feed Through DoubleZero\n\nThe service gives trading firms access to Kalshi’s sports and crypto order books over DoubleZero’s fiber network.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 36,
+        "avg_1h": -0.05,
+        "avg_24h": -0.11,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 192,
+        "count": 191,
         "avg_1h": 0.03,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
@@ -6326,12 +6332,6 @@
         "count": 123,
         "avg_1h": 0.44,
         "avg_24h": 0.47,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 35,
-        "avg_1h": -0.05,
-        "avg_24h": -0.11,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
