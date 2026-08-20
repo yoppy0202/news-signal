@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T21:38:07.534069+00:00",
+  "generated_at": "2026-08-20T22:40:38.374529+00:00",
   "events": [
     {
       "event_id": "464049ae-7866-43a8-917c-8bfcb499921f",
@@ -20,10 +20,15 @@
       "url": "https://cointelegraph.com/markets/bitcoin-breaks-200-day-moving-average?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-20T21:03:21+00:00",
       "raw_text": "Bitcoin breaks above 200-day moving average for first time since November\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin breaks above 200-day moving average for first time since November\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1875,
+        "t_plus_15m": -0.0219
+      }
     },
     {
       "event_id": "fc535ea0-5c5a-4b65-97f4-ad566a8507dc",
@@ -44,10 +49,15 @@
       "url": "https://bitcoinmagazine.com/culture/open-source-vs-source-available-what-the-coldcard-failure-teaches-about-bitcoin-software-incentives",
       "event_type": "hack",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-20T20:49:28+00:00",
       "raw_text": "Open Source vs. Source-Available: What the Coldcard Failure Teaches About Bitcoin Software Incentives\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/tn-3.webp\" style=\"display: block; margin: 1em aut",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.193,
+        "t_plus_15m": -0.1866
+      }
     },
     {
       "event_id": "7f1dd415-aad1-48be-a8bb-ffc0e32014ef",
@@ -238,7 +248,8 @@
       "impact": {
         "t_plus_5m": 0.1748,
         "t_plus_15m": 0.1296,
-        "t_plus_1h": 0.1022
+        "t_plus_1h": 0.1022,
+        "t_plus_4h": 0.1231
       }
     },
     {
