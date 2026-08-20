@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-20T13:56:18.138252+00:00",
+  "generated_at": "2026-08-20T14:50:38.244918+00:00",
   "events": [
+    {
+      "event_id": "61ea071b-fc06-46ff-9ae1-8392ad84fa21",
+      "source": "rss:decrypt",
+      "title": "Morning Minute: Hyperliquid Is Coming to the US",
+      "url": "https://decrypt.co/376069/morning-minute-hyperliquid-coming-us",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-20T14:02:44+00:00",
+      "raw_text": "Morning Minute: Hyperliquid Is Coming to the US\n\nAt least, if Trump and the CFTC have their way. And the market really, really liked the news.",
+      "impact": {}
+    },
+    {
+      "event_id": "f403d18f-97c8-457f-a0b1-bcccb649096c",
+      "source": "rss:theblock",
+      "title": "‘Star Wars vibes:’ Chainlink’s McCormick sees AI agents, robots driving blockchain transactions",
+      "url": "https://www.theblock.co/news/web3/2026-08-20-star-wars-vibes-chainlink-mccormick-ai-agents-robots-blockchain-transactions-412327",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-20T13:58:22+00:00",
+      "raw_text": "‘Star Wars vibes:’ Chainlink’s McCormick sees AI agents, robots driving blockchain transactions\n\nMcCormick expects a multi-chain future as AI lowers the cost of creating new blockchain networks, increasing the need for interoperability.",
+      "impact": {}
+    },
+    {
+      "event_id": "ef7473d2-d562-408b-86c5-5afe1e249d2c",
+      "source": "rss:bitcoinmagazine",
+      "title": "Bitcoin Rockets Past $72,000 After Trump Pushes For Clarity Act",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-price-rockets-past-72000",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-20T13:40:27+00:00",
+      "raw_text": "Bitcoin Rockets Past $72,000 After Trump Pushes For Clarity Act\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Rockets-Past-72000-After-Trump-Pushes-For-Clarity-Act.jpg\" style=\"display: bloc",
+      "impact": {}
+    },
     {
       "event_id": "b92c85f1-88ff-458b-afae-333e389d96d9",
       "source": "rss:decrypt",
@@ -11,6 +47,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-20T13:31:05+00:00",
       "raw_text": "Fake Crypto AML Checkers Are Trying to Drain Users' Wallets\n\nScammers are impersonating crypto compliance services to trick users into approving transactions that could put their assets at risk.",
+      "impact": {}
+    },
+    {
+      "event_id": "abf968b4-e584-4f33-be20-7d54c902c211",
+      "source": "rss:cointelegraph",
+      "title": "MiCA cracks down on USDT in Europe... but no one else cares",
+      "url": "https://cointelegraph.com/magazine/mica-cracks-down-on-usdt-in-europe-but-global-demand-remains-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-20T13:30:00+00:00",
+      "raw_text": "MiCA cracks down on USDT in Europe... but no one else cares\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MiCA cracks down on USDT in Europe... but no one else cares\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-mag-the-usdt-question-",
       "impact": {}
     },
     {
@@ -6239,58 +6287,16 @@
       "timestamp_utc": "2026-08-12T21:19:33+00:00",
       "raw_text": "Hyperliquid treasury Hyperion triples quarterly profits as HYPE holdings rise in value\n\nThe company's HYPE holdings increased to $133 million during the second quarter, up from $71 million at the end of Q1.\n\nThe company's HYPE holdings increased to $133 million during the second quarter, up from $71",
       "impact": {}
-    },
-    {
-      "event_id": "ef378960-b1c0-444d-b292-25a8a949edc4",
-      "source": "rss:theblock",
-      "title": "SEC clears Franklin Templeton funds to use onchain BENJI system for cash management",
-      "url": "https://www.theblock.co/news/defi/2026-08-12-sec-clears-franklin-templeton-funds-use-onchain-benji-system-cash-management-411654",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-12T21:04:46+00:00",
-      "raw_text": "SEC clears Franklin Templeton funds to use onchain BENJI system for cash management\n\nFranklin Templeton received a no-action letter from the SEC enabling its traditional registered funds to invest in its BENJI/FOBXX fund.\n\nFranklin Templeton received a no-action letter from the SEC enabling its trad",
-      "impact": {}
-    },
-    {
-      "event_id": "78886b70-3376-481b-98bb-e33137d73063",
-      "source": "rss:cointelegraph",
-      "title": "Goldman Sachs to acquire ETF manager NEOS in $2.25B deal",
-      "url": "https://cointelegraph.com/news/goldman-sachs-to-acquire-etf-manager-neos-225b-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-12T20:37:55+00:00",
-      "raw_text": "Goldman Sachs to acquire ETF manager NEOS in $2.25B deal\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Goldman Sachs to acquire ETF manager NEOS in $2.25B deal \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-goldman-sachs-and-crypto-re",
-      "impact": {}
-    },
-    {
-      "event_id": "5c1c75e2-c474-497f-af23-3baa7702ba6f",
-      "source": "rss:decrypt",
-      "title": "'Inner Thoughts' of Every Major AI Model Exposed in Massive Exploit",
-      "url": "https://decrypt.co/375501/inner-thoughts-every-major-ai-model-exposed-exploit",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-12T20:31:04+00:00",
-      "raw_text": "'Inner Thoughts' of Every Major AI Model Exposed in Massive Exploit\n\nResearchers found every major AI provider encrypts reasoning tokens with a single global key—and exploited it to decode 315,320 hidden thinking blocks from public logs, recovering passwords and live API keys along the way.",
-      "impact": {}
-    },
-    {
-      "event_id": "cf3eb6fb-7b1a-4ebf-8aec-806c2c0765b2",
-      "source": "rss:cointelegraph",
-      "title": "NYC council announces probe into ‘predatory marketing practices’ on prediction markets",
-      "url": "https://cointelegraph.com/news/new-york-council-probe-marketing-practices-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-12T20:22:46+00:00",
-      "raw_text": "NYC council announces probe into ‘predatory marketing practices’ on prediction markets\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"NYC council announces probe into ‘predatory marketing practices’ on prediction markets\" class=\"type:primaryImage\" src=\"https://s3-images.ctm",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 186,
+        "avg_1h": 0.07,
+        "avg_24h": 0.14,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 143,
         "avg_1h": -0.14,
@@ -6303,14 +6309,8 @@
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 185,
-        "avg_1h": 0.07,
-        "avg_24h": 0.14,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 31,
+        "count": 30,
         "avg_1h": 0.03,
         "avg_24h": -0.11,
         "win_rate_1h_gt5pct": 0.0
