@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-20T16:47:31.226504+00:00",
+  "generated_at": "2026-08-20T17:40:47.703586+00:00",
   "events": [
+    {
+      "event_id": "ed0f94c1-2849-4d9d-8b4a-000b291fc402",
+      "source": "rss:decrypt",
+      "title": "Nearly 2,000 Hacked WordPress Sites Turned Into Criminal Infrastructure",
+      "url": "https://decrypt.co/376109/hacked-wordpress-sites-criminal-infrastructure",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-20T16:33:38+00:00",
+      "raw_text": "Nearly 2,000 Hacked WordPress Sites Turned Into Criminal Infrastructure\n\nThe StopAndProtect operation used compromised WordPress websites to spread malware, steal crypto wallet files, and deploy ransomware.",
+      "impact": {}
+    },
     {
       "event_id": "d4e41ebc-defa-4a3c-a657-3a087165f55b",
       "source": "rss:coindesk",
@@ -56,10 +68,16 @@
       "url": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "OP"
+      ],
       "timestamp_utc": "2026-08-20T15:43:00+00:00",
       "raw_text": "Optimism moves 546.9M OP from future airdrops to ecosystem growth fund\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Optimism moves 546.9M OP from future airdrops to ecosystem growth fund\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -1.073,
+        "t_plus_15m": -0.8518,
+        "t_plus_1h": 0.2009
+      }
     },
     {
       "event_id": "d36e1613-a357-4202-8d3d-7180494513f2",
@@ -208,7 +226,8 @@
       "impact": {
         "t_plus_5m": 0.936,
         "t_plus_15m": 0.4022,
-        "t_plus_1h": 0.6315
+        "t_plus_1h": 0.6315,
+        "t_plus_4h": 4.5312
       }
     },
     {
@@ -6278,31 +6297,25 @@
       "timestamp_utc": "2026-08-13T03:39:06+00:00",
       "raw_text": "Bitcoin slips near $63,500 as traders look past CPI to Fed’s next tests",
       "impact": {}
-    },
-    {
-      "event_id": "c84b0848-972d-4139-a164-26922dc909e0",
-      "source": "rss:theblock",
-      "title": "BitGo sees revenue jump 80% to $4.3 billion in Q2 but posts net loss",
-      "url": "https://www.theblock.co/news/business/2026-08-12-bitgo-sees-revenue-jump-q2-411664",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T03:07:09+00:00",
-      "raw_text": "BitGo sees revenue jump 80% to $4.3 billion in Q2 but posts net loss\n\nThe firm recorded a net loss of $19 million in Q2, compared with net income of $38.3 million in the same period last year.\n\nThe firm recorded a net loss of $19 million in Q2, compared with net income of $38.3 million in the same p",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 31,
+        "avg_1h": 0.03,
+        "avg_24h": -0.11,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 191,
+        "count": 190,
         "avg_1h": 0.07,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
         "count": 142,
-        "avg_1h": -0.14,
+        "avg_1h": -0.11,
         "avg_24h": 0.29,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6310,12 +6323,6 @@
         "count": 126,
         "avg_1h": 0.44,
         "avg_24h": 0.47,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 30,
-        "avg_1h": 0.03,
-        "avg_24h": -0.11,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
