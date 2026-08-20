@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-20T19:40:22.006088+00:00",
+  "generated_at": "2026-08-20T20:40:57.928789+00:00",
   "events": [
+    {
+      "event_id": "47175293-9d6d-4df2-bbac-ae4ab1fbcce6",
+      "source": "rss:decrypt",
+      "title": "Bitcoin Is Pumping But Prediction Market Traders Aren't Convinced",
+      "url": "https://decrypt.co/376103/bitcoin-price-pumping-prediction-next-move",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-20T19:16:05+00:00",
+      "raw_text": "Bitcoin Is Pumping But Prediction Market Traders Aren't Convinced\n\nBitcoin's sharpest rally in five months flipped prediction-market odds from bearish to a coin flip—but the longer-term bets still price in a crash.",
+      "impact": {}
+    },
     {
       "event_id": "0780cdac-db6a-4284-b761-63e900f1acfd",
       "source": "rss:coindesk",
@@ -6289,24 +6301,18 @@
       "timestamp_utc": "2026-08-13T08:34:11+00:00",
       "raw_text": "Bitwise CIO sees market repricing as crypto embraces ‘revenue fever’\n\nBitwise CIO sees crypto valuations doubling as decentralized finance apps and protocols adopt revenue-driven token buybacks.\n\nBitwise CIO sees crypto valuations doubling as decentralized finance apps and protocols adopt revenue-dr",
       "impact": {}
-    },
-    {
-      "event_id": "4f313e7a-ba16-4891-bfa1-1fbb4a5be0af",
-      "source": "rss:cointelegraph",
-      "title": "Securitize falls 16% after earnings miss, tokenization revenue drops",
-      "url": "https://cointelegraph.com/news/securitize-falls-earnings-miss-tokenization-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T08:29:01+00:00",
-      "raw_text": "Securitize falls 16% after earnings miss, tokenization revenue drops\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Securitize falls 16% after earnings miss, tokenization revenue drops\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-cryp",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 188,
+        "avg_1h": 0.07,
+        "avg_24h": 0.14,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 127,
+        "count": 126,
         "avg_1h": 0.25,
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
@@ -6321,12 +6327,6 @@
         "count": 31,
         "avg_1h": 0.03,
         "avg_24h": -0.11,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 187,
-        "avg_1h": 0.07,
-        "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
