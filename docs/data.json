@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-20T22:40:38.374529+00:00",
+  "generated_at": "2026-08-20T23:35:44.983859+00:00",
   "events": [
+    {
+      "event_id": "f8df0fc2-f6fc-4f70-b4d4-de30c7a989a4",
+      "source": "rss:decrypt",
+      "title": "Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC",
+      "url": "https://decrypt.co/376158/tensions-flare-cme-kalshi-clash-prediction-markets-dc",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-20T22:32:11+00:00",
+      "raw_text": "Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC\n\nCME Group Chairman Terry Duffy and Kalshi co-founder Luana Lopes Lara traded barbs during a CFTC meeting over prediction markets, manipulation, and regulatory standards.",
+      "impact": {}
+    },
     {
       "event_id": "464049ae-7866-43a8-917c-8bfcb499921f",
       "source": "rss:bitcoinmagazine",
@@ -27,7 +39,8 @@
       "raw_text": "Bitcoin breaks above 200-day moving average for first time since November\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin breaks above 200-day moving average for first time since November\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
       "impact": {
         "t_plus_5m": -0.1875,
-        "t_plus_15m": -0.0219
+        "t_plus_15m": -0.0219,
+        "t_plus_1h": -0.3208
       }
     },
     {
@@ -56,7 +69,8 @@
       "raw_text": "Open Source vs. Source-Available: What the Coldcard Failure Teaches About Bitcoin Software Incentives\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/tn-3.webp\" style=\"display: block; margin: 1em aut",
       "impact": {
         "t_plus_5m": -0.193,
-        "t_plus_15m": -0.1866
+        "t_plus_15m": -0.1866,
+        "t_plus_1h": -0.0356
       }
     },
     {
@@ -182,7 +196,8 @@
       "impact": {
         "t_plus_5m": 4.8603,
         "t_plus_15m": 3.2617,
-        "t_plus_1h": -1.1093
+        "t_plus_1h": -1.1093,
+        "t_plus_4h": -0.4285
       }
     },
     {
@@ -6294,44 +6309,25 @@
       "timestamp_utc": "2026-08-13T09:39:52+00:00",
       "raw_text": "Brazil’s largest bitcoin treasury firm plans ETF with 95% allocation to Strategy's STRC",
       "impact": {}
-    },
-    {
-      "event_id": "d7168363-c613-4429-8aa0-fee99d2c00ad",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin speculators keep BTC price ‘pinned’ below $68.7K: Glassnode",
-      "url": "https://cointelegraph.com/markets/bitcoin-speculators-in-the-red-keep-price-pinned-below-687k-new-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-13T09:37:16+00:00",
-      "raw_text": "Bitcoin speculators keep BTC price ‘pinned’ below $68.7K: Glassnode\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin speculators keep BTC price ‘pinned’ below $68.7K: Glassnode\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/crypto-ma",
-      "impact": {
-        "t_plus_5m": -0.1293,
-        "t_plus_15m": -0.0929,
-        "t_plus_1h": -0.2958,
-        "t_plus_4h": -0.1188
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 146,
+        "avg_1h": -0.12,
+        "avg_24h": 0.87,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 123,
         "avg_1h": 0.25,
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 146,
-        "avg_1h": -0.11,
-        "avg_24h": 0.87,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
         "count": 33,
-        "avg_1h": 0.03,
+        "avg_1h": 0.01,
         "avg_24h": -0.11,
         "win_rate_1h_gt5pct": 0.0
       },
