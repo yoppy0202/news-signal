@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-20T14:50:38.244918+00:00",
+  "generated_at": "2026-08-20T15:45:30.684501+00:00",
   "events": [
+    {
+      "event_id": "a873dd6c-4b1a-44cb-a3f4-4c2bc439e5fe",
+      "source": "rss:coindesk",
+      "title": "Crypto for Advisors: What are tokenized deposits?",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/08/20/crypto-for-advisors-what-are-tokenized-deposits",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-20T15:01:40+00:00",
+      "raw_text": "Crypto for Advisors: What are tokenized deposits?",
+      "impact": {}
+    },
     {
       "event_id": "61ea071b-fc06-46ff-9ae1-8392ad84fa21",
       "source": "rss:decrypt",
@@ -347,6 +359,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-20T06:57:13+00:00",
       "raw_text": "Spot bitcoin ETFs report $517 million in net inflows, largest in 3.5 months\n\nAnalysts attributed the inflows to the surprise crypto market rally driven by US Treasury Department's buyback expansion announcement.",
+      "impact": {}
+    },
+    {
+      "event_id": "55e26529-a82c-4f3d-bb47-6f66ad769e0b",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin slips from highest levels as yields head higher",
+      "url": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-20T06:21:17+00:00",
+      "raw_text": "Live updates: Bitcoin slips from highest levels as yields head higher",
       "impact": {}
     },
     {
@@ -6263,36 +6287,12 @@
       "timestamp_utc": "2026-08-12T21:21:17+00:00",
       "raw_text": "Hawaii crypto ATM ban to take effect on Oct. 1\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hawaii crypto ATM ban to take effect on Oct. 1\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bitcoins-real-world-uses.png\" /></p><p>Hawaii wi",
       "impact": {}
-    },
-    {
-      "event_id": "713135df-1730-4bd5-9747-abbd9a71ea17",
-      "source": "rss:bitcoinmagazine",
-      "title": "Goldman Sachs to Acquire NEOS Investments in $2.25B Deal, Adding Bitcoin Income ETFs to Lineup",
-      "url": "https://bitcoinmagazine.com/news/goldman-sachs-to-acquire-neos-investments",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-12T21:20:05+00:00",
-      "raw_text": "Goldman Sachs to Acquire NEOS Investments in $2.25B Deal, Adding Bitcoin Income ETFs to Lineup\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Goldman-Sachs-to-Acquire-NEOS-Investments.jpg\" style=\"di",
-      "impact": {}
-    },
-    {
-      "event_id": "5a2a0e19-c137-4a2c-8ec1-74005cf7c2a0",
-      "source": "rss:theblock",
-      "title": "Hyperliquid treasury Hyperion triples quarterly profits as HYPE holdings rise in value",
-      "url": "https://www.theblock.co/news/markets/2026-08-12-hyperliquid-treasury-hyperion-triples-quarterly-profits-as-hype-holdings-rise-in-value-411652",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-12T21:19:33+00:00",
-      "raw_text": "Hyperliquid treasury Hyperion triples quarterly profits as HYPE holdings rise in value\n\nThe company's HYPE holdings increased to $133 million during the second quarter, up from $71 million at the end of Q1.\n\nThe company's HYPE holdings increased to $133 million during the second quarter, up from $71",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 186,
+        "count": 188,
         "avg_1h": 0.07,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
@@ -6304,7 +6304,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 130,
+        "count": 128,
         "avg_1h": 0.44,
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
