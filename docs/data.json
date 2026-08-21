@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-21T18:51:39.482277+00:00",
+  "generated_at": "2026-08-21T19:33:20.981982+00:00",
   "events": [
+    {
+      "event_id": "27e50194-5bd3-47ad-b328-2f3b62149c9f",
+      "source": "rss:coindesk",
+      "title": "Pass the Clarity Act",
+      "url": "https://www.coindesk.com/opinion/2026/08/21/pass-the-clarity-act",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-21T19:00:00+00:00",
+      "raw_text": "Pass the Clarity Act",
+      "impact": {}
+    },
+    {
+      "event_id": "b86ebb2d-0fb6-4ae7-91dc-588a60905f31",
+      "source": "rss:decrypt",
+      "title": "Solana Just Got Faster—Is It Bullish for SOL?",
+      "url": "https://decrypt.co/376245/solana-faster-bullish-sol-price",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-21T18:45:01+00:00",
+      "raw_text": "Solana Just Got Faster—Is It Bullish for SOL?\n\nSolana has activated the first reduction in its block timing since launch, speeding up transactions on the network.",
+      "impact": {}
+    },
     {
       "event_id": "70b8c6a8-0a05-48d9-b552-31baf8383b14",
       "source": "rss:decrypt",
@@ -32,10 +56,16 @@
       "url": "https://decrypt.co/376230/strategy-profit-bitcoin-holdings-btc-rallies",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-21T17:28:55+00:00",
       "raw_text": "Strategy Swings From $13 Billion Bitcoin Loss to $1.4 Billion Profit as BTC Rallies\n\nThe Bitcoin treasury giant is sitting on roughly $1.4 billion in unrealized gains after Bitcoin climbed above its average acquisition price.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.3931,
+        "t_plus_15m": 0.1068,
+        "t_plus_1h": 0.1107
+      }
     },
     {
       "event_id": "be0dc553-a50b-401c-a34b-68c4565c024c",
@@ -44,10 +74,16 @@
       "url": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485",
       "event_type": "hack",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BNB"
+      ],
       "timestamp_utc": "2026-08-21T17:28:34+00:00",
       "raw_text": "BounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit\n\nThe attacker transferred approximately 286.5 million BB from nine wallets before block production was eventually halted.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1315,
+        "t_plus_15m": -0.2187,
+        "t_plus_1h": -0.1914
+      }
     },
     {
       "event_id": "8bc3a2f6-c0d0-4984-8428-560f72fbacfc",
@@ -6320,56 +6356,32 @@
       "timestamp_utc": "2026-08-13T20:33:37+00:00",
       "raw_text": "White House to Host Crypto Industry Execs Next Week: Report\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/White-House-to-Host-Crypto-Industry-Execs-Next-Week.jpg\" style=\"display: block; margin: 1em",
       "impact": {}
-    },
-    {
-      "event_id": "7b3aff21-fe30-4b0a-8af8-16df6d39edf2",
-      "source": "rss:decrypt",
-      "title": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It",
-      "url": "https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T20:30:24+00:00",
-      "raw_text": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It\n\nAnthropic is weaving an invisible, machine-readable watermark into every word its newest Claude models write—and it hasn't said how.",
-      "impact": {}
-    },
-    {
-      "event_id": "c05baa79-c09e-409b-9da7-5f97f9408dab",
-      "source": "rss:bitcoinmagazine",
-      "title": "Tether Finally Completes Independent Audit of Reserves With KPMG",
-      "url": "https://bitcoinmagazine.com/news/tether-completes-audit-with-kpmg",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T20:01:40+00:00",
-      "raw_text": "Tether Finally Completes Independent Audit of Reserves With KPMG\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Tether-Takes-Control-of-Twenty-One-Capital-After-Buying-Out-SoftBank.jpg\" style=\"displ",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 197,
+        "avg_1h": -0.02,
+        "avg_24h": 0.14,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 124,
+        "count": 123,
         "avg_1h": 0.25,
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 139,
-        "avg_1h": -0.06,
+        "count": 138,
+        "avg_1h": -0.05,
         "avg_24h": 0.87,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
         "count": 32,
-        "avg_1h": 0.01,
+        "avg_1h": -0.04,
         "avg_24h": -0.11,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 195,
-        "avg_1h": -0.02,
-        "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
