@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-21T20:36:08.100976+00:00",
+  "generated_at": "2026-08-21T21:34:59.985898+00:00",
   "events": [
+    {
+      "event_id": "36dc45cf-6072-4b90-a15b-331eef8d22a5",
+      "source": "rss:cointelegraph",
+      "title": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
+      "url": "https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-21T20:26:16+00:00",
+      "raw_text": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/",
+      "impact": {}
+    },
     {
       "event_id": "8a368bc9-435a-41c5-adb6-2e52c551fd15",
       "source": "rss:bitcoinmagazine",
@@ -56,10 +68,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-seeks-support-near-77k-btc-gold-100-day-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-21T19:10:47+00:00",
       "raw_text": "Bitcoin seeks support near $77K as BTC, gold near 100-day highs\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin seeks support near $77K as BTC, gold near 100-day highs\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/boxes-with-bitcoi",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0261,
+        "t_plus_15m": 0.0675,
+        "t_plus_1h": -0.0526
+      }
     },
     {
       "event_id": "27e50194-5bd3-47ad-b328-2f3b62149c9f",
@@ -87,7 +105,8 @@
       "raw_text": "Solana Just Got Faster—Is It Bullish for SOL?\n\nSolana has activated the first reduction in its block timing since launch, speeding up transactions on the network.",
       "impact": {
         "t_plus_5m": 0.0101,
-        "t_plus_15m": 0.4476
+        "t_plus_15m": 0.4476,
+        "t_plus_1h": -0.3398
       }
     },
     {
@@ -6349,38 +6368,26 @@
       "timestamp_utc": "2026-08-13T21:45:04+00:00",
       "raw_text": "Anthropic's AI Agents Started a Virtual War. The Quotes Are Unhinged\n\nIn a new red-team study, Claude models deployed self-replicating malware against each other—and the transcripts explain why.",
       "impact": {}
-    },
-    {
-      "event_id": "45d77614-53d4-4c72-89c1-f2b4f85b56b7",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin’s Bear Cycle Looks Familiar — And That Might Be the Bullish Case",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-bear-cycle-looks-looks-bullish",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T21:19:32+00:00",
-      "raw_text": "Bitcoin’s Bear Cycle Looks Familiar — And That Might Be the Bullish Case\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoins-Bear-Cycle-Looks-Familiar-—-And-That-Might-Be-the-Bullish-Case.jpg\" s",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 137,
+        "avg_1h": -0.05,
+        "avg_24h": 0.87,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 124,
+        "count": 123,
         "avg_1h": 0.25,
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
         "count": 198,
-        "avg_1h": -0.02,
+        "avg_1h": -0.04,
         "avg_24h": 0.14,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 136,
-        "avg_1h": -0.05,
-        "avg_24h": 0.87,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
