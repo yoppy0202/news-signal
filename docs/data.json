@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-20T23:35:44.983859+00:00",
+  "generated_at": "2026-08-21T01:53:55.389279+00:00",
   "events": [
+    {
+      "event_id": "4fbf5614-eef0-4175-876b-57a431885ff6",
+      "source": "rss:theblock",
+      "title": "CME CEO Terrence Duffy trades barbs with CFTC’s Selig and Kalshi’s COO over prediction market oversight",
+      "url": "https://www.theblock.co/news/regulation/2026-08-20-cme-ceo-terrence-duffy-trades-barbs-with-cftcs-selig-and-kalshis-coo-over-prediction-market-oversight-412397",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-20T23:39:38+00:00",
+      "raw_text": "CME CEO Terrence Duffy trades barbs with CFTC’s Selig and Kalshi’s COO over prediction market oversight\n\nA CFTC ommittee meeting exposed a sharp divide between the worlds of traditional finance and prediction market platforms.",
+      "impact": {}
+    },
     {
       "event_id": "f8df0fc2-f6fc-4f70-b4d4-de30c7a989a4",
       "source": "rss:decrypt",
@@ -6297,22 +6309,16 @@
       "timestamp_utc": "2026-08-13T09:53:36+00:00",
       "raw_text": "Binance bStocks passes xStocks as second-largest tokenized stock issuer\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance bStocks passes xStocks as second-largest tokenized stock issuer\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/h",
       "impact": {}
-    },
-    {
-      "event_id": "57600299-8119-40f9-98dc-f92d69724cb2",
-      "source": "rss:coindesk",
-      "title": "Brazil’s largest bitcoin treasury firm plans ETF with 95% allocation to Strategy's STRC",
-      "url": "https://www.coindesk.com/business/2026/08/13/brazil-s-largest-bitcoin-treasury-firm-plans-etf-with-95-allocation-to-strategy-s-strc",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T09:39:52+00:00",
-      "raw_text": "Brazil’s largest bitcoin treasury firm plans ETF with 95% allocation to Strategy's STRC",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 188,
+        "avg_1h": 0.07,
+        "avg_24h": 0.14,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 146,
         "avg_1h": -0.12,
@@ -6320,7 +6326,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 123,
+        "count": 122,
         "avg_1h": 0.25,
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
@@ -6329,12 +6335,6 @@
         "count": 33,
         "avg_1h": 0.01,
         "avg_24h": -0.11,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 187,
-        "avg_1h": 0.07,
-        "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
