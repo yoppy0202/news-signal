@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-21T13:55:11.888861+00:00",
+  "generated_at": "2026-08-21T14:49:24.484492+00:00",
   "events": [
+    {
+      "event_id": "04b6ef44-174b-4271-b80c-25a42a3473b9",
+      "source": "rss:cointelegraph",
+      "title": "Solana cuts blockchain slot time to 350 milliseconds",
+      "url": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-21T13:45:13+00:00",
+      "raw_text": "Solana cuts blockchain slot time to 350 milliseconds\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana cuts blockchain slot time to 350 milliseconds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-china-solana-is-ready-new-1.jpg\" /><",
+      "impact": {}
+    },
     {
       "event_id": "c3378ba2-ef9b-48c5-bdb1-c51e624228d2",
       "source": "rss:cointelegraph",
@@ -6314,24 +6326,18 @@
       "timestamp_utc": "2026-08-13T17:11:04+00:00",
       "raw_text": "Bitcoin Companies Want Help From AI Labs to Guard Against Hackers\n\nMore than 40 bitcoin and crypto firms asked the biggest AI labs this week to let independent security researchers use their strongest models before public release.",
       "impact": {}
-    },
-    {
-      "event_id": "82c13d72-e666-4d27-bd2a-8db8c9bd68de",
-      "source": "rss:coindesk",
-      "title": "Trezor warns 14,000 customers after fulfilment partner suffers data breach",
-      "url": "https://www.coindesk.com/tech/2026/08/13/trezor-warns-14-000-users-after-fulfilment-partner-suffers-data-breach",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T17:10:57+00:00",
-      "raw_text": "Trezor warns 14,000 customers after fulfilment partner suffers data breach",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 123,
+        "avg_1h": 0.25,
+        "avg_24h": 0.47,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 195,
+        "count": 194,
         "avg_1h": -0.04,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
@@ -6346,12 +6352,6 @@
         "count": 33,
         "avg_1h": 0.01,
         "avg_24h": -0.11,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 122,
-        "avg_1h": 0.25,
-        "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
