@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-21T04:50:00.551625+00:00",
+  "generated_at": "2026-08-21T05:44:29.675945+00:00",
   "events": [
+    {
+      "event_id": "b2d001cb-8d07-40a2-be68-328d803d1273",
+      "source": "rss:coindesk",
+      "title": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
+      "url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-21T04:56:30+00:00",
+      "raw_text": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
+      "impact": {}
+    },
+    {
+      "event_id": "24580ad4-c890-4f47-943d-9f725bb1a87c",
+      "source": "rss:theblock",
+      "title": "MANTRA freezes all transactions and network following unspecified incident",
+      "url": "https://www.theblock.co/news/defi/2026-08-21-mantra-freezes-network-412416",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-21T04:47:29+00:00",
+      "raw_text": "MANTRA freezes all transactions and network following unspecified incident\n\nMANTRA Chain has halted the network and all transactions after discovering an incident, the nature of which remains undisclosed.",
+      "impact": {}
+    },
     {
       "event_id": "73e7990c-4741-47c7-8b44-2b8b72b8e2e0",
       "source": "rss:cointelegraph",
@@ -6292,30 +6316,6 @@
       "tokens": [],
       "timestamp_utc": "2026-08-13T11:35:53+00:00",
       "raw_text": "Strategy, Metaplanet unrealized bitcoin losses highlight risk of concentrating on just one token",
-      "impact": {}
-    },
-    {
-      "event_id": "10f366b9-9d21-4877-98f8-f6ac3247613a",
-      "source": "rss:coindesk",
-      "title": "Bitcoin holds steady near $64,000 as monero, hyperliquid outperform",
-      "url": "https://www.coindesk.com/markets/2026/08/13/bitcoin-holds-steady-near-usd64-000-as-monero-hyperliquid-outperform",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T11:02:43+00:00",
-      "raw_text": "Bitcoin holds steady near $64,000 as monero, hyperliquid outperform",
-      "impact": {}
-    },
-    {
-      "event_id": "0de3501b-6b70-4196-a697-30d9f91af152",
-      "source": "rss:cointelegraph",
-      "title": "‘DeFi doesn’t exist anymore,’ just onchain finance: Andre Cronje",
-      "url": "https://cointelegraph.com/news/defi-doesnt-exist-onchain-finance-andre-cronje?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T10:50:24+00:00",
-      "raw_text": "‘DeFi doesn’t exist anymore,’ just onchain finance: Andre Cronje\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"‘DeFi doesn’t exist anymore,’ just onchain finance: Andre Cronje\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/andre-cronje.jp",
       "impact": {}
     }
   ],
