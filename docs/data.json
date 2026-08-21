@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-08-21T15:44:35.258805+00:00",
+  "generated_at": "2026-08-21T16:47:48.185270+00:00",
   "events": [
+    {
+      "event_id": "9ed3e3ae-8734-4875-a43c-3f2a8acd341d",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump",
+      "url": "https://cointelegraph.com/markets/bitcoin-rally-crypto-stocks-canaan-strive-metaplanet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-21T16:11:07+00:00",
+      "raw_text": "Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl",
+      "impact": {}
+    },
+    {
+      "event_id": "cc508a36-4824-4026-a048-3c84f8bf9d25",
+      "source": "rss:coindesk",
+      "title": "Ethena's ENA token surges 48%, but altcoin season will have to wait",
+      "url": "https://www.coindesk.com/markets/2026/08/21/ethena-surges-48-as-altcoins-pull-away-from-bitcoin",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-21T16:10:37+00:00",
+      "raw_text": "Ethena's ENA token surges 48%, but altcoin season will have to wait",
+      "impact": {}
+    },
+    {
+      "event_id": "b96bbd2f-ab3a-4edf-a8cc-cab213a8b424",
+      "source": "rss:cointelegraph",
+      "title": "Crypto Biz: Treasury’s ‘Not-QE’ playbook sends Bitcoin higher",
+      "url": "https://cointelegraph.com/news/crypto-biz-treasurys-not-qe-playbook-sends-bitcoin-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-21T15:50:08+00:00",
+      "raw_text": "Crypto Biz: Treasury’s ‘Not-QE’ playbook sends Bitcoin higher\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: Treasury’s ‘Not-QE’ playbook sends Bitcoin higher\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/man-with-a-diplomatic",
+      "impact": {}
+    },
+    {
+      "event_id": "ddd586c9-0284-4e9b-a547-40abaf209fe0",
+      "source": "rss:decrypt",
+      "title": "XRP Erases Its Most Bearish Signal—And the Ripple-Linked Coin Is Flying",
+      "url": "https://decrypt.co/376186/xrp-price-erases-death-cross",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-21T15:39:02+00:00",
+      "raw_text": "XRP Erases Its Most Bearish Signal—And the Ripple-Linked Coin Is Flying\n\nThe token spent all August trapped under a bearish crossover. Today it closed above both moving averages for the first time since the pattern formed.",
+      "impact": {}
+    },
+    {
+      "event_id": "5ab92b45-7d0b-42ea-8d3d-2404bfd8f69a",
+      "source": "rss:theblock",
+      "title": "Strategy shares hit two-month high as STRC rebounds toward $100 alongside bitcoin",
+      "url": "https://www.theblock.co/news/markets/2026-08-21-strategy-shares-hit-two-month-high-strc-rebounds-toward-100-alongside-bitcoin-412467",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-21T15:38:02+00:00",
+      "raw_text": "Strategy shares hit two-month high as STRC rebounds toward $100 alongside bitcoin\n\nAmid a two-month puase on BTC buys, Strategy shares (MSTR) rallied alongside bitcoin as STRC continued its recovery toward its $100 target.",
+      "impact": {}
+    },
+    {
+      "event_id": "48b2b2d2-0024-46a8-919b-8c3e79bb5071",
+      "source": "rss:bitcoinmagazine",
+      "title": "Bitcoin Price Roars Towards $80,000 Following Positive Regulatory News, US Buyback Pledge",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-surges-towards-80000",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-21T15:24:23+00:00",
+      "raw_text": "Bitcoin Price Roars Towards $80,000 Following Positive Regulatory News, US Buyback Pledge\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Price-Roars-Towards-80000-Following-Positive-Regulato",
+      "impact": {}
+    },
     {
       "event_id": "44ba31d3-f47c-4aea-981e-bbd861683d41",
       "source": "rss:decrypt",
@@ -20,10 +92,16 @@
       "url": "https://decrypt.co/376174/morning-minute-cftc-crypto-clarity-act",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-21T14:27:31+00:00",
       "raw_text": "Morning Minute: CFTC Will Give Crypto Clarity If Congress Won’t\n\nMeanwhile crypto majors and alts continue to soar, with BTC nearing $80k and alts like Pump and ZEC putting up big candles.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.3427,
+        "t_plus_15m": -0.3309,
+        "t_plus_1h": 0.3494
+      }
     },
     {
       "event_id": "04b6ef44-174b-4271-b80c-25a42a3473b9",
@@ -6254,102 +6332,30 @@
       "timestamp_utc": "2026-08-13T18:26:21+00:00",
       "raw_text": "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
       "impact": {}
-    },
-    {
-      "event_id": "363e5b9d-d98a-4d7a-8c90-2ffae92e46ef",
-      "source": "rss:decrypt",
-      "title": "White House Lets Private Firms Hack Cybercriminals—At Their Own Legal Risk",
-      "url": "https://decrypt.co/375568/white-house-private-firms-hack-cybercriminals",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T18:26:04+00:00",
-      "raw_text": "White House Lets Private Firms Hack Cybercriminals—At Their Own Legal Risk\n\nPresident Donald Trump signed a memorandum Tuesday that lets vetted U.S. companies carry out offensive cyber operations against foreign criminal networks. Here's what the program actually authorizes.",
-      "impact": {}
-    },
-    {
-      "event_id": "e0974bc6-8a62-4902-84f8-89ca30ef3379",
-      "source": "rss:cointelegraph",
-      "title": "CFTC to join SEC in exploring crypto regulations without CLARITY bill",
-      "url": "https://cointelegraph.com/news/cftc-exploring-crypto-regulations-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T18:18:50+00:00",
-      "raw_text": "CFTC to join SEC in exploring crypto regulations without CLARITY bill\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC to join SEC in exploring crypto regulations without CLARITY bill\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/paper",
-      "impact": {}
-    },
-    {
-      "event_id": "e3d644ee-d492-43f3-9fc0-2a9c4f53e672",
-      "source": "rss:theblock",
-      "title": "Citigroup CEO Fraser on Clarity Act: ‘We would like to see a good bill go through,’ as stablecoin reward issues simmer",
-      "url": "https://www.theblock.co/news/regulation/2026-08-13-citigroup-ceo-fraser-on-clarity-act-we-would-like-to-see-good-bill-go-stablecoin-reward-issues-simmer-411751",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T17:48:10+00:00",
-      "raw_text": "Citigroup CEO Fraser on Clarity Act: ‘We would like to see a good bill go through,’ as stablecoin reward issues simmer\n\nCitigroup CEO Jane Fraser says she would like to see a crypto bill passed into law, even as she and others continue to fight for changes.\n\nCitigroup CEO Jane Fraser says she would ",
-      "impact": {}
-    },
-    {
-      "event_id": "62adb74c-4f00-4fca-aa30-14892ca6ba47",
-      "source": "rss:decrypt",
-      "title": "Crypto Group Warns Fed Could Use Banking Access to Squeeze Digital Asset Firms",
-      "url": "https://decrypt.co/375567/crypto-group-fed-banking-access-squeeze-firms",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T17:47:12+00:00",
-      "raw_text": "Crypto Group Warns Fed Could Use Banking Access to Squeeze Digital Asset Firms\n\nThe Blockchain Association is urging the Supreme Court to take up Custodia’s case, saying that broad Fed power over “master accounts” could be used to push crypto firms out of the banking system.",
-      "impact": {}
-    },
-    {
-      "event_id": "b9974ce1-7a2b-4e11-906f-a82bb88b3bad",
-      "source": "rss:coindesk",
-      "title": "Forecasts for $1 million bitcoin price likely look too ambitious, key ratio suggests",
-      "url": "https://www.coindesk.com/markets/2026/08/13/forecasts-for-usd1-million-bitcoin-price-likely-look-too-ambitious-key-ratio-suggests",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T17:43:25+00:00",
-      "raw_text": "Forecasts for $1 million bitcoin price likely look too ambitious, key ratio suggests",
-      "impact": {}
-    },
-    {
-      "event_id": "9ca02969-5d94-4b66-8001-562329c2ce12",
-      "source": "rss:cointelegraph",
-      "title": "Crypto group backs Custodia in Supreme Court battle over Fed access",
-      "url": "https://cointelegraph.com/news/blockchain-association-backs-custodia-in-supreme-court-fight-over-fed-master-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T17:36:09+00:00",
-      "raw_text": "Crypto group backs Custodia in Supreme Court battle over Fed access\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto group backs Custodia in Supreme Court battle over Fed access\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-us-cry",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 196,
-        "avg_1h": -0.04,
-        "avg_24h": 0.14,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 123,
-        "avg_1h": 0.25,
-        "avg_24h": 0.47,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 139,
+        "count": 141,
         "avg_1h": -0.06,
         "avg_24h": 0.87,
         "win_rate_1h_gt5pct": 0.0
       },
+      "unknown": {
+        "count": 197,
+        "avg_1h": -0.02,
+        "avg_24h": 0.14,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 121,
+        "avg_1h": 0.25,
+        "avg_24h": 0.47,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
-        "count": 32,
+        "count": 31,
         "avg_1h": 0.01,
         "avg_24h": -0.11,
         "win_rate_1h_gt5pct": 0.0
