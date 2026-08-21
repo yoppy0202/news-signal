@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-21T21:34:59.985898+00:00",
+  "generated_at": "2026-08-21T22:36:48.814395+00:00",
   "events": [
+    {
+      "event_id": "e47c61b9-9753-4325-8789-961d91cccda8",
+      "source": "rss:coindesk",
+      "title": "Crypto advocates join in suing Illinois over digital asset tax",
+      "url": "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-21T22:10:28+00:00",
+      "raw_text": "Crypto advocates join in suing Illinois over digital asset tax",
+      "impact": {}
+    },
+    {
+      "event_id": "28116d83-1640-463f-9dc2-efa7b922baeb",
+      "source": "rss:bitcoinmagazine",
+      "title": "Smart Money Helping Support Bitcoin Rebound, Says Pantera Capital",
+      "url": "https://bitcoinmagazine.com/news/pantera-capital-says-bitcoin-to-go-higher",
+      "event_type": "whale_move",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-21T21:52:26+00:00",
+      "raw_text": "Smart Money Helping Support Bitcoin Rebound, Says Pantera Capital\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Smart-Money-Helping-Support-Bitcoin-Rebound-Says-Pantera-Capital.jpg\" style=\"display:",
+      "impact": {}
+    },
+    {
+      "event_id": "aa00de0a-9bb2-41b2-82f0-1e854f72a034",
+      "source": "rss:theblock",
+      "title": "Grayscale moves closer to launching first Zcash ETF in US with fresh amended SEC filing",
+      "url": "https://www.theblock.co/news/regulation/2026-08-21-grayscale-moves-closer-launching-first-zcash-etf-in-us-sec-amended-filing-412517",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-21T21:34:53+00:00",
+      "raw_text": "Grayscale moves closer to launching first Zcash ETF in US with fresh amended SEC filing\n\nGrayscale is inching closer to launching its Zcash ETF, filing another amendment with the Securities and Exchange Commission on Friday.",
+      "impact": {}
+    },
+    {
+      "event_id": "faeb8817-86cb-409f-9c62-261b7bde8a2c",
+      "source": "rss:decrypt",
+      "title": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
+      "url": "https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-21T21:31:05+00:00",
+      "raw_text": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit\n\nCoinkite's latest firmware requires users to add their own randomness when generating wallet seeds and fixes additional security issues uncovered during a three-week review.",
+      "impact": {}
+    },
     {
       "event_id": "36dc45cf-6072-4b90-a15b-331eef8d22a5",
       "source": "rss:cointelegraph",
@@ -8,10 +56,16 @@
       "url": "https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-21T20:26:16+00:00",
       "raw_text": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1253,
+        "t_plus_15m": 0.0595,
+        "t_plus_1h": 0.7549
+      }
     },
     {
       "event_id": "8a368bc9-435a-41c5-adb6-2e52c551fd15",
@@ -148,7 +202,8 @@
       "impact": {
         "t_plus_5m": 0.3931,
         "t_plus_15m": 0.1068,
-        "t_plus_1h": 0.1107
+        "t_plus_1h": 0.1107,
+        "t_plus_4h": 0.994
       }
     },
     {
@@ -166,7 +221,8 @@
       "impact": {
         "t_plus_5m": -0.1315,
         "t_plus_15m": -0.2187,
-        "t_plus_1h": -0.1914
+        "t_plus_1h": -0.1914,
+        "t_plus_4h": 0.0779
       }
     },
     {
@@ -176,10 +232,14 @@
       "url": "https://www.theblock.co/news/markets/2026-08-21-xrp-leads-altcoin-rally-bitcoin-biggest-weekly-gain-in-two-years-lifts-crypto-412483",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-08-21T17:24:02+00:00",
       "raw_text": "XRP leads broad altcoin rally as bitcoin’s biggest weekly gain in two years lifts crypto\n\nAmid this week's crypto rally, HYPE is up nearly 40%, while other altcoins such as XRP, ZEC and LINK have risen over 30%.",
-      "impact": {}
+      "impact": {
+        "t_plus_4h": 0.0265
+      }
     },
     {
       "event_id": "c3314271-52c9-42c6-b1d6-4d1aa915926e",
@@ -887,7 +947,8 @@
         "t_plus_5m": -0.1875,
         "t_plus_15m": -0.0219,
         "t_plus_1h": -0.3208,
-        "t_plus_4h": 1.5122
+        "t_plus_4h": 1.5122,
+        "t_plus_24h": 6.5128
       }
     },
     {
@@ -6320,63 +6381,21 @@
       "timestamp_utc": "2026-08-13T23:09:14+00:00",
       "raw_text": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
       "impact": {}
-    },
-    {
-      "event_id": "63a07347-48e5-4635-8142-4d20e3f3ced2",
-      "source": "rss:decrypt",
-      "title": "'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws",
-      "url": "https://decrypt.co/375609/bitcoin-burning-red-team-chinese-ai-kimi",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T22:36:07+00:00",
-      "raw_text": "'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws\n\nBitcoin Red Team member Calle said Chinese models, including Moonshot AI’s Kimi K3, are finding bugs across Bitcoin’s open-source software.",
-      "impact": {}
-    },
-    {
-      "event_id": "cae4769a-c15a-4b64-9145-f0b188a46596",
-      "source": "rss:coindesk",
-      "title": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
-      "url": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T22:18:07+00:00",
-      "raw_text": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
-      "impact": {}
-    },
-    {
-      "event_id": "45eb9025-e000-4ba5-8da4-12d891f44a31",
-      "source": "rss:decrypt",
-      "title": "Anthropic's AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
-      "url": "https://decrypt.co/375596/anthropic-ai-agents-virtual-war-quotes-unhinged",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T21:45:04+00:00",
-      "raw_text": "Anthropic's AI Agents Started a Virtual War. The Chat Logs Are Unhinged\n\nIn a new red-team study, Claude models deployed self-replicating malware against each other—and the transcripts explain why.",
-      "impact": {}
-    },
-    {
-      "event_id": "cb9fb477-787b-4ef3-ad6d-6480ed2b24e1",
-      "source": "rss:decrypt",
-      "title": "Anthropic's AI Agents Started a Virtual War. The Quotes Are Unhinged",
-      "url": "https://decrypt.co/375596/anthropic-ai-agents-virtual-war-quotes-unhinged",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T21:45:04+00:00",
-      "raw_text": "Anthropic's AI Agents Started a Virtual War. The Quotes Are Unhinged\n\nIn a new red-team study, Claude models deployed self-replicating malware against each other—and the transcripts explain why.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 137,
-        "avg_1h": -0.05,
-        "avg_24h": 0.87,
+      "unknown": {
+        "count": 199,
+        "avg_1h": -0.04,
+        "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
+      },
+      "whale_move": {
+        "count": 2,
+        "avg_1h": null,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": null
       },
       "macro": {
         "count": 123,
@@ -6384,16 +6403,16 @@
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 198,
-        "avg_1h": -0.04,
-        "avg_24h": 0.14,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 32,
+        "count": 33,
         "avg_1h": -0.04,
         "avg_24h": -0.11,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 134,
+        "avg_1h": 0.02,
+        "avg_24h": 2.75,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
@@ -6401,12 +6420,6 @@
         "avg_1h": -0.09,
         "avg_24h": 2.84,
         "win_rate_1h_gt5pct": 0.0
-      },
-      "whale_move": {
-        "count": 1,
-        "avg_1h": null,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": null
       }
     }
   }
