@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-21T16:47:48.185270+00:00",
+  "generated_at": "2026-08-21T17:39:31.262086+00:00",
   "events": [
+    {
+      "event_id": "c3314271-52c9-42c6-b1d6-4d1aa915926e",
+      "source": "rss:bitcoinmagazine",
+      "title": "Pakistan’s Crypto Pitch: “Come Build Here” as Virtual Assets Act Moves Forward",
+      "url": "https://bitcoinmagazine.com/news/pakistan-tells-companies-to-build-there",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-21T16:59:45+00:00",
+      "raw_text": "Pakistan’s Crypto Pitch: “Come Build Here” as Virtual Assets Act Moves Forward\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Pakistans-Crypto-Pitch.jpg\" style=\"display: block; margin: 1em auto;\" />",
+      "impact": {}
+    },
+    {
+      "event_id": "903ccfee-c1ed-4f3c-b682-88b3f59b40a8",
+      "source": "rss:decrypt",
+      "title": "Bitcoin ETFs Just Had Their Biggest Day Since May—BlackRock Took 83% of It",
+      "url": "https://decrypt.co/376211/bitcoin-etfs-biggest-day-since-may",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-21T16:29:01+00:00",
+      "raw_text": "Bitcoin ETFs Just Had Their Biggest Day Since May—BlackRock Took 83% of It\n\nU.S. spot Bitcoin ETFs pulled in $606 million Thursday, the biggest haul since May. And altcoin funds finally showed up too.",
+      "impact": {}
+    },
+    {
+      "event_id": "aaf9bc06-2581-4af2-bf9a-323f2cbcfd16",
+      "source": "rss:cointelegraph",
+      "title": "Digital Asset, Paul Ryan foundation target US state benefits with Canton pilot",
+      "url": "https://cointelegraph.com/news/paul-ryan-foundation-digital-asset-plan-blockchain-based-benefits-pilot-on-canton?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-21T16:25:29+00:00",
+      "raw_text": "Digital Asset, Paul Ryan foundation target US state benefits with Canton pilot\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Digital Asset, Paul Ryan foundation target US state benefits with Canton pilot\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar",
+      "impact": {}
+    },
     {
       "event_id": "9ed3e3ae-8734-4875-a43c-3f2a8acd341d",
       "source": "rss:cointelegraph",
@@ -44,10 +80,16 @@
       "url": "https://decrypt.co/376186/xrp-price-erases-death-cross",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-08-21T15:39:02+00:00",
       "raw_text": "XRP Erases Its Most Bearish Signal—And the Ripple-Linked Coin Is Flying\n\nThe token spent all August trapped under a bearish crossover. Today it closed above both moving averages for the first time since the pattern formed.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.5581,
+        "t_plus_15m": 0.0377,
+        "t_plus_1h": -0.1768
+      }
     },
     {
       "event_id": "5ab92b45-7d0b-42ea-8d3d-2404bfd8f69a",
@@ -56,10 +98,16 @@
       "url": "https://www.theblock.co/news/markets/2026-08-21-strategy-shares-hit-two-month-high-strc-rebounds-toward-100-alongside-bitcoin-412467",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-21T15:38:02+00:00",
       "raw_text": "Strategy shares hit two-month high as STRC rebounds toward $100 alongside bitcoin\n\nAmid a two-month puase on BTC buys, Strategy shares (MSTR) rallied alongside bitcoin as STRC continued its recovery toward its $100 target.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.4211,
+        "t_plus_15m": 0.1624,
+        "t_plus_1h": 0.1114
+      }
     },
     {
       "event_id": "48b2b2d2-0024-46a8-919b-8c3e79bb5071",
@@ -6296,62 +6344,26 @@
       "timestamp_utc": "2026-08-13T18:45:33+00:00",
       "raw_text": "Google ad phishing scam drains $550,000 from Hyperliquid user, security specialist says\n\nIn April, crypto security nonprofit Security Alliance (SEAL) said it had blocked 356 malicious Google ad URLs over a period of several weeks.\n\nIn April, crypto security nonprofit Security Alliance (SEAL) said it",
       "impact": {}
-    },
-    {
-      "event_id": "e6089cab-7447-4939-bda9-1bd9383affb8",
-      "source": "rss:decrypt",
-      "title": "Tether Claims 'Largest Inaugural Financial Audit' as KPMG Signs Off on 2025 Statements",
-      "url": "https://decrypt.co/375577/tether-inaugural-financial-audit-kpmg",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T18:39:11+00:00",
-      "raw_text": "Tether Claims 'Largest Inaugural Financial Audit' as KPMG Signs Off on 2025 Statements\n\nTether said KPMG gave its 2025 financial statements a clean opinion, a milestone for the company after years of questions about the reserves backing USDT.",
-      "impact": {}
-    },
-    {
-      "event_id": "5147f9b2-4bbe-487f-a05c-f64e540f82a4",
-      "source": "rss:bitcoinmagazine",
-      "title": "UBS Ups Bitcoin Position, Buys More Shares in BlackRock’s ETF",
-      "url": "https://bitcoinmagazine.com/news/ubs-buys-blackrock-bitcoin-etf",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T18:32:49+00:00",
-      "raw_text": "UBS Ups Bitcoin Position, Buys More Shares in BlackRock’s ETF\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/UBS-Ups-Bitcoin-Position-Buys-More-Shares-in-BlackRocks-ETF.jpg\" style=\"display: block; m",
-      "impact": {}
-    },
-    {
-      "event_id": "d4379a92-7105-429b-a612-34967d0e9402",
-      "source": "rss:coindesk",
-      "title": "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
-      "url": "https://www.coindesk.com/business/2026/08/13/tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-usd180-billion-usdt-stablecoin",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T18:26:21+00:00",
-      "raw_text": "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 123,
+        "avg_1h": 0.25,
+        "avg_24h": 0.47,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 141,
+        "count": 140,
         "avg_1h": -0.06,
         "avg_24h": 0.87,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 197,
+        "count": 196,
         "avg_1h": -0.02,
         "avg_24h": 0.14,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 121,
-        "avg_1h": 0.25,
-        "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
