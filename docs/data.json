@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-08-21T19:33:20.981982+00:00",
+  "generated_at": "2026-08-21T20:36:08.100976+00:00",
   "events": [
+    {
+      "event_id": "8a368bc9-435a-41c5-adb6-2e52c551fd15",
+      "source": "rss:bitcoinmagazine",
+      "title": "Legendary Investor Ray Dalio Touts Bitcoin — With Gold — To Hedge Against Incoming Debt Crisis",
+      "url": "https://bitcoinmagazine.com/news/ray-dalio-touts-bitcoin",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-21T20:14:52+00:00",
+      "raw_text": "Legendary Investor Ray Dalio Touts Bitcoin — With Gold — To Hedge Against Incoming Debt Crisis\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/11/Ray-Dalio-Reaffirms-Bitcoin-Skepticism-Says-He-Still-Hol",
+      "impact": {}
+    },
+    {
+      "event_id": "71305a4f-27ff-4a79-a121-5ea97ff86623",
+      "source": "rss:decrypt",
+      "title": "Wall Street and Washington Fuel Bitcoin Rally: Here's What's Going On",
+      "url": "https://decrypt.co/376244/wall-street-washington-bitcoin-rally",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-21T20:07:05+00:00",
+      "raw_text": "Wall Street and Washington Fuel Bitcoin Rally: Here's What's Going On\n\nInstitutional buying, improving macro conditions and a friendlier regulatory outlook are supporting Bitcoin's rally, while billions in short liquidations have accelerated the move.",
+      "impact": {}
+    },
+    {
+      "event_id": "71717af8-94cb-4911-9e9e-735a27c501c1",
+      "source": "rss:cointelegraph",
+      "title": "Ray Dalio says to buy ‘a bit’ of Bitcoin amid potential debt crisis",
+      "url": "https://cointelegraph.com/news/ray-dalio-buy-bitcoin-debt-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-21T20:00:47+00:00",
+      "raw_text": "Ray Dalio says to buy ‘a bit’ of Bitcoin amid potential debt crisis\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ray Dalio says to buy ‘a bit’ of Bitcoin amid potential debt crisis\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/interview",
+      "impact": {}
+    },
+    {
+      "event_id": "a8e4cf93-0bd7-4ea4-bf7b-3bdaef4a9af7",
+      "source": "rss:cointelegraph",
+      "title": "Onchain, in court: What happened in crypto legal news this week",
+      "url": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news5?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-21T19:19:27+00:00",
+      "raw_text": "Onchain, in court: What happened in crypto legal news this week\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Onchain, in court: What happened in crypto legal news this week\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-5-key-highligh",
+      "impact": {}
+    },
+    {
+      "event_id": "46b36e63-166e-4800-9f79-3cfb9df0d1f5",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin seeks support near $77K as BTC, gold near 100-day highs",
+      "url": "https://cointelegraph.com/markets/bitcoin-seeks-support-near-77k-btc-gold-100-day-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-21T19:10:47+00:00",
+      "raw_text": "Bitcoin seeks support near $77K as BTC, gold near 100-day highs\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin seeks support near $77K as BTC, gold near 100-day highs\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/boxes-with-bitcoi",
+      "impact": {}
+    },
     {
       "event_id": "27e50194-5bd3-47ad-b328-2f3b62149c9f",
       "source": "rss:coindesk",
@@ -20,10 +80,15 @@
       "url": "https://decrypt.co/376245/solana-faster-bullish-sol-price",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "SOL"
+      ],
       "timestamp_utc": "2026-08-21T18:45:01+00:00",
       "raw_text": "Solana Just Got Faster—Is It Bullish for SOL?\n\nSolana has activated the first reduction in its block timing since launch, speeding up transactions on the network.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0101,
+        "t_plus_15m": 0.4476
+      }
     },
     {
       "event_id": "70b8c6a8-0a05-48d9-b552-31baf8383b14",
@@ -6296,84 +6361,24 @@
       "timestamp_utc": "2026-08-13T21:19:32+00:00",
       "raw_text": "Bitcoin’s Bear Cycle Looks Familiar — And That Might Be the Bullish Case\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoins-Bear-Cycle-Looks-Familiar-—-And-That-Might-Be-the-Bullish-Case.jpg\" s",
       "impact": {}
-    },
-    {
-      "event_id": "399dfaea-c0aa-4498-ba66-934ab62cb5da",
-      "source": "rss:decrypt",
-      "title": "Solana Can Be the 'Everything Chain' as Crypto Apps Go Mainstream: 6th Man Ventures Co-Founder",
-      "url": "https://decrypt.co/375605/solana-everything-chain-crypto-apps-mainstream",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T21:16:05+00:00",
-      "raw_text": "Solana Can Be the 'Everything Chain' as Crypto Apps Go Mainstream: 6th Man Ventures Co-Founder\n\n6th Man Ventures co-founder Mike Dudas says Solana’s infrastructure could carry crypto’s next wave.",
-      "impact": {}
-    },
-    {
-      "event_id": "4ef08d55-b9e4-4ed0-978b-483c50a895dd",
-      "source": "rss:theblock",
-      "title": "Gemini shares slide after $108 million loss as Winklevoss says ‘we still have work to do’",
-      "url": "https://www.theblock.co/news/business/2026-08-13-gemini-shares-slide-108-million-loss-winklevoss-says-we-still-have-work-to-do-411775",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T21:15:23+00:00",
-      "raw_text": "Gemini shares slide after $108 million loss as Winklevoss says ‘we still have work to do’\n\nGemini’s prediction market volume nearly doubled as the exchange continued expanding beyond crypto trading.\n\nGemini’s prediction market volume nearly doubled as the exchange continued expanding beyond crypto t",
-      "impact": {}
-    },
-    {
-      "event_id": "c736bb5b-5a78-4e02-888f-a75be84415a8",
-      "source": "rss:cointelegraph",
-      "title": "City of Baltimore goes after prediction markets for sports betting",
-      "url": "https://cointelegraph.com/news/baltimore-lawsuit-prediction-markets-kalshi-polymarket-sports-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T21:08:23+00:00",
-      "raw_text": "City of Baltimore goes after prediction markets for sports betting\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"City of Baltimore goes after prediction markets for sports betting\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/sports-fan-",
-      "impact": {}
-    },
-    {
-      "event_id": "0b240630-487e-4788-b431-c14f3500614f",
-      "source": "rss:cointelegraph",
-      "title": "Tether completes first full financial audit, receives clean KPMG opinion",
-      "url": "https://cointelegraph.com/news/tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T20:43:12+00:00",
-      "raw_text": "Tether completes first full financial audit, receives clean KPMG opinion\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether completes first full financial audit, receives clean KPMG opinion\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
-      "impact": {}
-    },
-    {
-      "event_id": "651ae252-574b-4f40-b550-dfbe0ec0631f",
-      "source": "rss:bitcoinmagazine",
-      "title": "White House to Host Crypto Industry Execs Next Week: Report",
-      "url": "https://bitcoinmagazine.com/news/white-house-to-host-crypto-execs",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T20:33:37+00:00",
-      "raw_text": "White House to Host Crypto Industry Execs Next Week: Report\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/White-House-to-Host-Crypto-Industry-Execs-Next-Week.jpg\" style=\"display: block; margin: 1em",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 197,
-        "avg_1h": -0.02,
-        "avg_24h": 0.14,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 123,
+        "count": 124,
         "avg_1h": 0.25,
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
       },
+      "unknown": {
+        "count": 198,
+        "avg_1h": -0.02,
+        "avg_24h": 0.14,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 138,
+        "count": 136,
         "avg_1h": -0.05,
         "avg_24h": 0.87,
         "win_rate_1h_gt5pct": 0.0
