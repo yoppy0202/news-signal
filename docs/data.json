@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T09:48:51.262301+00:00",
+  "generated_at": "2026-08-21T10:42:49.378655+00:00",
   "events": [
     {
       "event_id": "5b70980d-ff06-4ba0-8e4e-d884eac55237",
@@ -56,10 +56,15 @@
       "url": "https://cointelegraph.com/markets/strategy-bitcoin-treasury-hits-breakeven-point-as-btc-price-passes-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-21T08:48:52+00:00",
       "raw_text": "Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/b",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.9528,
+        "t_plus_15m": 0.0781
+      }
     },
     {
       "event_id": "17c0c726-f994-4a46-a96f-6c1dfb2c60bc",
@@ -104,10 +109,17 @@
       "url": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC",
+        "ETH"
+      ],
       "timestamp_utc": "2026-08-21T06:43:24+00:00",
       "raw_text": "Live updates: Bitcoin tops $79,500; BTC, ETH record $800 million inflows",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -3.0353,
+        "t_plus_15m": -2.8861,
+        "t_plus_1h": -1.6183
+      }
     },
     {
       "event_id": "17d939eb-98cb-45ba-ae26-4be7a7dfb0fc",
@@ -190,7 +202,8 @@
       "impact": {
         "t_plus_5m": -0.314,
         "t_plus_15m": -0.4681,
-        "t_plus_1h": -0.5237
+        "t_plus_1h": -0.5237,
+        "t_plus_4h": 4.8089
       }
     },
     {
@@ -6335,7 +6348,7 @@
       },
       "unknown": {
         "count": 189,
-        "avg_1h": 0.05,
+        "avg_1h": -0.04,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
