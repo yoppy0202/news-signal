@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-21T01:53:55.389279+00:00",
+  "generated_at": "2026-08-21T03:12:40.278326+00:00",
   "events": [
+    {
+      "event_id": "8a10f164-4556-4e04-b84e-4b0836fd75de",
+      "source": "rss:theblock",
+      "title": "Bitcoin breaks through $75,500 while analyst calls current rally ‘premature’",
+      "url": "https://www.theblock.co/news/markets/2026-08-20-bitcoin-breaks-through-75500-412404",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-21T02:22:44+00:00",
+      "raw_text": "Bitcoin breaks through $75,500 while analyst calls current rally ‘premature’\n\nShawn Young, chief analyst at MEXC Research, said that the crypto market is giving Treasury's intervention 'more credit than it deserves.'",
+      "impact": {}
+    },
+    {
+      "event_id": "50ae023d-0b27-4462-a1d9-76347d6d320e",
+      "source": "rss:coindesk",
+      "title": "Bitcoin pushes past $75,000 as rally continues.",
+      "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-pushes-past-usd75-000-as-rally-continues",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-21T01:55:50+00:00",
+      "raw_text": "Bitcoin pushes past $75,000 as rally continues.",
+      "impact": {}
+    },
+    {
+      "event_id": "29ffb521-d18c-481d-bfb1-62a70fcc6a7e",
+      "source": "rss:coindesk",
+      "title": "A $2 million bet on XRP volatility crosses the tape as prices surge",
+      "url": "https://www.coindesk.com/markets/2026/08/21/a-usd2-million-bet-on-xrp-volatility-crosses-the-tape-as-prices-surge",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-21T01:51:56+00:00",
+      "raw_text": "A $2 million bet on XRP volatility crosses the tape as prices surge",
+      "impact": {}
+    },
     {
       "event_id": "4fbf5614-eef0-4175-876b-57a431885ff6",
       "source": "rss:theblock",
@@ -52,7 +88,8 @@
       "impact": {
         "t_plus_5m": -0.1875,
         "t_plus_15m": -0.0219,
-        "t_plus_1h": -0.3208
+        "t_plus_1h": -0.3208,
+        "t_plus_4h": 1.5122
       }
     },
     {
@@ -82,7 +119,8 @@
       "impact": {
         "t_plus_5m": -0.193,
         "t_plus_15m": -0.1866,
-        "t_plus_1h": -0.0356
+        "t_plus_1h": -0.0356,
+        "t_plus_4h": 1.3916
       }
     },
     {
@@ -6273,60 +6311,24 @@
       "timestamp_utc": "2026-08-13T10:16:50+00:00",
       "raw_text": "CEO of Crypto Lender Delio Gets 15 Years Over $49M Fraud\n\nA botched search of the platform's server host cost prosecutors the bulk of their case, cutting it from 2,800 alleged victims to about 1,100.",
       "impact": {}
-    },
-    {
-      "event_id": "2863d312-2c7f-46e7-8e96-761d3742fca1",
-      "source": "rss:coindesk",
-      "title": "MUFG to test real-time blockchain settlement for Japanese government bond trades",
-      "url": "https://www.coindesk.com/business/2026/08/13/mufg-to-test-real-time-blockchain-settlement-for-japanese-government-bond-trades",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T10:15:32+00:00",
-      "raw_text": "MUFG to test real-time blockchain settlement for Japanese government bond trades",
-      "impact": {}
-    },
-    {
-      "event_id": "07b98ce2-ae14-4053-af35-bbfa5c5d0327",
-      "source": "rss:cointelegraph",
-      "title": "Binance bStocks pass xStocks as second-largest tokenized stock issuer",
-      "url": "https://cointelegraph.com/news/binance-bstocks-second-largest-tokenized-stock-issuer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T09:53:36+00:00",
-      "raw_text": "Binance bStocks pass xStocks as second-largest tokenized stock issuer\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance bStocks pass xStocks as second-largest tokenized stock issuer\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-ho",
-      "impact": {}
-    },
-    {
-      "event_id": "8f9903dd-9d82-4f48-b4af-5f113b4b09d9",
-      "source": "rss:cointelegraph",
-      "title": "Binance bStocks passes xStocks as second-largest tokenized stock issuer",
-      "url": "https://cointelegraph.com/news/binance-bstocks-second-largest-tokenized-stock-issuer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T09:53:36+00:00",
-      "raw_text": "Binance bStocks passes xStocks as second-largest tokenized stock issuer\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance bStocks passes xStocks as second-largest tokenized stock issuer\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/h",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 188,
-        "avg_1h": 0.07,
-        "avg_24h": 0.14,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
         "count": 146,
         "avg_1h": -0.12,
         "avg_24h": 0.87,
         "win_rate_1h_gt5pct": 0.0
       },
+      "unknown": {
+        "count": 190,
+        "avg_1h": 0.07,
+        "avg_24h": 0.14,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 122,
+        "count": 120,
         "avg_1h": 0.25,
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
