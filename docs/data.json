@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-21T13:06:49.278800+00:00",
+  "generated_at": "2026-08-21T13:55:11.888861+00:00",
   "events": [
+    {
+      "event_id": "c3378ba2-ef9b-48c5-bdb1-c51e624228d2",
+      "source": "rss:cointelegraph",
+      "title": "Laser Digital gets Japan’s first crypto exchange approval in 4 years",
+      "url": "https://cointelegraph.com/news/nomuras-laser-digital-japans-first-crypto-exchange-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-21T13:08:12+00:00",
+      "raw_text": "Laser Digital gets Japan’s first crypto exchange approval in 4 years\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Laser Digital gets Japan’s first crypto exchange approval in 4 years\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-japa",
+      "impact": {}
+    },
+    {
+      "event_id": "24955cd9-8b97-4162-8ee2-84e4326abc9e",
+      "source": "rss:cointelegraph",
+      "title": "Binance says employees questioned in UAE cleared and released",
+      "url": "https://cointelegraph.com/news/binance-employees-questioned-uae-released?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-21T12:48:04+00:00",
+      "raw_text": "Binance says employees questioned in UAE cleared and released\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance says employees questioned in UAE cleared and released\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-binance-spotlight.",
+      "impact": {}
+    },
     {
       "event_id": "6384c13f-fa40-4669-9327-5e1b3c80b8e8",
       "source": "rss:coindesk",
@@ -208,7 +232,8 @@
       "impact": {
         "t_plus_5m": 0.9528,
         "t_plus_15m": 0.0781,
-        "t_plus_1h": 0.503
+        "t_plus_1h": 0.503,
+        "t_plus_4h": -0.6164
       }
     },
     {
@@ -6301,41 +6326,16 @@
       "timestamp_utc": "2026-08-13T17:10:57+00:00",
       "raw_text": "Trezor warns 14,000 customers after fulfilment partner suffers data breach",
       "impact": {}
-    },
-    {
-      "event_id": "68c22ad1-771a-42ab-9b80-a87a4001c1ea",
-      "source": "rss:bitcoinmagazine",
-      "title": "Data Breach at Trezor Leaks Info on Nearly 14,000 Bitcoin Wallet Users",
-      "url": "https://bitcoinmagazine.com/news/trezor-data-breach-leaks-customer-info",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T16:52:05+00:00",
-      "raw_text": "Data Breach at Trezor Leaks Info on Nearly 14,000 Bitcoin Wallet Users\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Data-Breach-at-Trezor-Leaks-Info-on-Nearly-14000-Bitcoin-Wallet-Users.jpg\" style",
-      "impact": {}
-    },
-    {
-      "event_id": "c266e9c6-d92a-4aef-b138-419847b3f2b8",
-      "source": "rss:decrypt",
-      "title": "Metaplanet Denies Selling $320M in Bitcoin as Firm Launches BitBonds",
-      "url": "https://decrypt.co/375562/metaplanet-denies-bitcoin-sale-launches-bitbonds",
-      "event_type": "listing",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-13T16:40:49+00:00",
-      "raw_text": "Metaplanet Denies Selling $320M in Bitcoin as Firm Launches BitBonds\n\nThe company's CEO said a 5,014 BTC transfer was a custody move, not a sale, as the Tokyo-listed Bitcoin treasury company rolls out a fixed-rate debt program.",
-      "impact": {
-        "t_plus_5m": -0.4182,
-        "t_plus_15m": -0.1329,
-        "t_plus_1h": 0.0001,
-        "t_plus_4h": 0.427
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 195,
+        "avg_1h": -0.04,
+        "avg_24h": 0.14,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 140,
         "avg_1h": -0.06,
@@ -6343,7 +6343,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 34,
+        "count": 33,
         "avg_1h": 0.01,
         "avg_24h": -0.11,
         "win_rate_1h_gt5pct": 0.0
@@ -6354,15 +6354,9 @@
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 193,
-        "avg_1h": -0.04,
-        "avg_24h": 0.14,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "listing": {
-        "count": 10,
-        "avg_1h": -0.07,
+        "count": 9,
+        "avg_1h": -0.09,
         "avg_24h": 2.84,
         "win_rate_1h_gt5pct": 0.0
       },
