@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-22T04:44:53.533501+00:00",
+  "generated_at": "2026-08-22T05:37:59.293644+00:00",
   "events": [
+    {
+      "event_id": "d9e70804-0ee2-4e7c-8977-cf86b93d8e1a",
+      "source": "rss:coindesk",
+      "title": "How a Treasury buyback tweak helped bitcoin surge 25% to nearly $80,000 in days",
+      "url": "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-22T05:05:13+00:00",
+      "raw_text": "How a Treasury buyback tweak helped bitcoin surge 25% to nearly $80,000 in days",
+      "impact": {}
+    },
     {
       "event_id": "e47c61b9-9753-4325-8789-961d91cccda8",
       "source": "rss:coindesk",
@@ -6372,24 +6384,12 @@
       "timestamp_utc": "2026-08-13T23:34:56+00:00",
       "raw_text": "Ethereum Foundation pivots away from Poseidon in post-quantum plan\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum Foundation pivots away from Poseidon in post-quantum plan\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-eth-20-p",
       "impact": {}
-    },
-    {
-      "event_id": "5530b2ac-5665-4d18-bb73-c3edc1ca9ff6",
-      "source": "rss:coindesk",
-      "title": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
-      "url": "https://www.coindesk.com/policy/2026/08/13/u-s-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-white-house-concerns",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T23:09:14+00:00",
-      "raw_text": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 199,
+        "count": 200,
         "avg_1h": -0.04,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
@@ -6401,7 +6401,7 @@
         "win_rate_1h_gt5pct": null
       },
       "macro": {
-        "count": 123,
+        "count": 122,
         "avg_1h": 0.25,
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
