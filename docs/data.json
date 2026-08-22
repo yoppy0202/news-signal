@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-22T15:31:52.320561+00:00",
+  "generated_at": "2026-08-22T16:36:17.030369+00:00",
   "events": [
+    {
+      "event_id": "2ff90018-fdc0-4f0c-bda3-ca900e0c6b22",
+      "source": "rss:decrypt",
+      "title": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
+      "url": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-22T15:31:04+00:00",
+      "raw_text": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back\n\nA group of 20-odd developers is scanning the Bitcoin ecosystem for AI-discoverable flaws, warning that cheap, powerful models have handed attackers unprecedented reach.",
+      "impact": {}
+    },
     {
       "event_id": "656f1b9e-1e8a-48be-a9ca-0ac3cdaa85ef",
       "source": "rss:coindesk",
@@ -27,7 +39,8 @@
       "raw_text": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
       "impact": {
         "t_plus_5m": -0.1126,
-        "t_plus_15m": 0.0124
+        "t_plus_15m": 0.0124,
+        "t_plus_1h": -0.288
       }
     },
     {
@@ -6370,36 +6383,24 @@
       "timestamp_utc": "2026-08-14T08:51:48+00:00",
       "raw_text": "Live updates: Bitcoin slips below $63,000 as oil, yields climb",
       "impact": {}
-    },
-    {
-      "event_id": "90c8d001-f23c-43d3-9071-45b11fdf2e9f",
-      "source": "rss:cointelegraph",
-      "title": "Crypto payments barely register among euro area merchants, ECB finds",
-      "url": "https://cointelegraph.com/news/ecb-survey-0-2-euro-area-companies-accept-crypto-online?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T08:22:54+00:00",
-      "raw_text": "Crypto payments barely register among euro area merchants, ECB finds\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto payments barely register among euro area merchants, ECB finds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-digi",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 35,
+        "avg_1h": -0.09,
+        "avg_24h": -0.11,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 198,
         "avg_1h": -0.04,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 34,
-        "avg_1h": -0.04,
-        "avg_24h": -0.11,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 135,
+        "count": 134,
         "avg_1h": 0.02,
         "avg_24h": 2.75,
         "win_rate_1h_gt5pct": 0.0
