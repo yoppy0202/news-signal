@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-22T11:31:31.201787+00:00",
+  "generated_at": "2026-08-22T12:57:00.971686+00:00",
   "events": [
+    {
+      "event_id": "2af363a2-20f0-456d-ae28-c1b07db08536",
+      "source": "rss:coindesk",
+      "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto week in 5 stories",
+      "url": "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-22T12:00:00+00:00",
+      "raw_text": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto week in 5 stories",
+      "impact": {}
+    },
     {
       "event_id": "b51c1401-719e-4f11-9d81-f5e13cb45e1f",
       "source": "rss:coindesk",
@@ -6372,32 +6384,20 @@
       "timestamp_utc": "2026-08-14T03:21:28+00:00",
       "raw_text": "Washington court orders Kalshi to halt most prediction market offerings in state\n\nThe Washington court, however, allows Kalshi to continue offering commodities, climate, economics and finance-related markets in the state.\n\nThe Washington court, however, allows Kalshi to continue offering commodities",
       "impact": {}
-    },
-    {
-      "event_id": "42ed5f90-b9bc-48f9-a146-84852af352cd",
-      "source": "rss:cointelegraph",
-      "title": "Figure reports $4.3B in loan marketplace volume as profit nearly triples",
-      "url": "https://cointelegraph.com/news/figure-q2-loan-marketplace-volume-profit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T02:06:37+00:00",
-      "raw_text": "Figure reports $4.3B in loan marketplace volume as profit nearly triples\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Figure reports $4.3B in loan marketplace volume as profit nearly triples\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 123,
-        "avg_1h": 0.25,
-        "avg_24h": 0.47,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
         "count": 199,
         "avg_1h": -0.04,
         "avg_24h": 0.14,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 123,
+        "avg_1h": 0.25,
+        "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
