@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-22T19:31:16.156835+00:00",
+  "generated_at": "2026-08-22T20:35:04.927625+00:00",
   "events": [
+    {
+      "event_id": "7c3ede72-61ca-4d57-93c7-8e8a42a812ac",
+      "source": "rss:theblock",
+      "title": "Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume",
+      "url": "https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-22T19:31:35+00:00",
+      "raw_text": "Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume\n\nCombined ETF weekly trading volume more than tripled to $29 billion as bitcoin and ether prices rallied, though both categories are negative on the year.",
+      "impact": {}
+    },
     {
       "event_id": "4954106b-7551-4b95-b5bf-9e68b8626b91",
       "source": "rss:theblock",
@@ -6374,24 +6386,12 @@
       "timestamp_utc": "2026-08-14T08:53:42+00:00",
       "raw_text": "JPMorgan cuts Polymarket banking ties over regulatory concerns: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"JPMorgan cuts Polymarket banking ties over regulatory concerns: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-",
       "impact": {}
-    },
-    {
-      "event_id": "aab0131a-b29e-4d86-8bfd-07380a5adeca",
-      "source": "rss:cointelegraph",
-      "title": "JPMorgan cut Polymarket banking ties over regulatory concerns: Report",
-      "url": "https://cointelegraph.com/news/jpmorgan-debanked-polymarket-regulatory-concerns-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T08:53:42+00:00",
-      "raw_text": "JPMorgan cut Polymarket banking ties over regulatory concerns: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"JPMorgan cut Polymarket banking ties over regulatory concerns: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-jp",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "macro": {
-        "count": 124,
+        "count": 125,
         "avg_1h": 0.25,
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
@@ -6409,7 +6409,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 134,
+        "count": 133,
         "avg_1h": 0.02,
         "avg_24h": 2.06,
         "win_rate_1h_gt5pct": 0.0
