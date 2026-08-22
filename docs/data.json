@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-22T14:34:00.569183+00:00",
+  "generated_at": "2026-08-22T15:31:52.320561+00:00",
   "events": [
+    {
+      "event_id": "656f1b9e-1e8a-48be-a9ca-0ac3cdaa85ef",
+      "source": "rss:coindesk",
+      "title": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
+      "url": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-22T15:16:41+00:00",
+      "raw_text": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
+      "impact": {}
+    },
     {
       "event_id": "239258ca-79c2-4ca6-8b24-d9d2655b2c23",
       "source": "rss:coindesk",
@@ -8,10 +20,15 @@
       "url": "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit",
       "event_type": "hack",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BNB"
+      ],
       "timestamp_utc": "2026-08-22T14:10:17+00:00",
       "raw_text": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1126,
+        "t_plus_15m": 0.0124
+      }
     },
     {
       "event_id": "9520493f-7230-471a-9e06-a7b7d54c4a90",
@@ -6365,22 +6382,16 @@
       "timestamp_utc": "2026-08-14T08:22:54+00:00",
       "raw_text": "Crypto payments barely register among euro area merchants, ECB finds\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto payments barely register among euro area merchants, ECB finds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-digi",
       "impact": {}
-    },
-    {
-      "event_id": "a5c32d45-2061-4064-8097-215a11f7c7f9",
-      "source": "rss:cointelegraph",
-      "title": "SEC cancels key crypto regulatory meeting",
-      "url": "https://cointelegraph.com/news/sec-cancels-crypto-regulatory-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T08:02:18+00:00",
-      "raw_text": "SEC cancels key crypto regulatory meeting\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC cancels key crypto regulatory meeting\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-setting-court-precedent-for-btc.jpg\" /></p><p>The SEC canc",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 198,
+        "avg_1h": -0.04,
+        "avg_24h": 0.14,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
         "count": 34,
         "avg_1h": -0.04,
@@ -6394,15 +6405,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 123,
+        "count": 122,
         "avg_1h": 0.25,
         "avg_24h": 0.47,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 197,
-        "avg_1h": -0.04,
-        "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
