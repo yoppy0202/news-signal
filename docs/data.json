@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-22T17:32:28.279269+00:00",
+  "generated_at": "2026-08-22T18:45:27.640415+00:00",
   "events": [
+    {
+      "event_id": "4954106b-7551-4b95-b5bf-9e68b8626b91",
+      "source": "rss:theblock",
+      "title": "Zcash hits eight-year high near $850 with futures volume near $10 billion amid Grayscale ETF push",
+      "url": "https://www.theblock.co/news/ecosystems/2026-08-22-zcash-hits-eight-year-high-near-850-with-futures-volume-near-10-billion-amid-grayscale-etf-push-412528",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-22T17:35:27+00:00",
+      "raw_text": "Zcash hits eight-year high near $850 with futures volume near $10 billion amid Grayscale ETF push\n\nCoinGlass recorded nearly $10 billion in 24-hour futures volume and $1.76 billion in open interest, indicating that derivatives made up much of the trading.",
+      "impact": {}
+    },
+    {
+      "event_id": "05b007c8-2267-4725-86e5-5533b2f6b636",
+      "source": "rss:decrypt",
+      "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
+      "url": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-22T17:31:03+00:00",
+      "raw_text": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely\n\nThe Entra ID flaw earned the highest possible severity score, but Microsoft says it patched the bug before publishing the CVE and found no evidence it was ever exploited.",
+      "impact": {}
+    },
     {
       "event_id": "9e675dfa-a80a-4bbc-918e-4587ac6b6756",
       "source": "rss:theblock",
@@ -6359,48 +6383,24 @@
       "timestamp_utc": "2026-08-14T08:53:42+00:00",
       "raw_text": "JPMorgan cut Polymarket banking ties over regulatory concerns: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"JPMorgan cut Polymarket banking ties over regulatory concerns: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-jp",
       "impact": {}
-    },
-    {
-      "event_id": "a9c5dd3e-9406-40ef-ad8b-5ae4f351aeb8",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin slips back to $63,000; MSCI threatens to exclude Strategy from indices",
-      "url": "https://www.coindesk.com/tech/2026/08/14/live-updates-bitcoin-slips-below-usd63-000-as-oil-yields-climb",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T08:51:48+00:00",
-      "raw_text": "Live updates: Bitcoin slips back to $63,000; MSCI threatens to exclude Strategy from indices",
-      "impact": {}
-    },
-    {
-      "event_id": "be4376ef-8ebb-4f6a-831c-d8824fdaebda",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin slips below $63,000; MSCI threatens to exclude Strategy from indices",
-      "url": "https://www.coindesk.com/tech/2026/08/14/live-updates-bitcoin-slips-below-usd63-000-as-oil-yields-climb",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T08:51:48+00:00",
-      "raw_text": "Live updates: Bitcoin slips below $63,000; MSCI threatens to exclude Strategy from indices",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "macro": {
-        "count": 123,
+        "count": 124,
         "avg_1h": 0.25,
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 35,
+        "count": 36,
         "avg_1h": -0.09,
         "avg_24h": -0.11,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 197,
+        "count": 195,
         "avg_1h": -0.04,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
