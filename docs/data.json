@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-08-22T13:40:18.502324+00:00",
+  "generated_at": "2026-08-22T14:34:00.569183+00:00",
   "events": [
+    {
+      "event_id": "239258ca-79c2-4ca6-8b24-d9d2655b2c23",
+      "source": "rss:coindesk",
+      "title": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
+      "url": "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-22T14:10:17+00:00",
+      "raw_text": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
+      "impact": {}
+    },
+    {
+      "event_id": "9520493f-7230-471a-9e06-a7b7d54c4a90",
+      "source": "rss:coindesk",
+      "title": "Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says",
+      "url": "https://www.coindesk.com/tech/2026/08/22/tokenized-stocks-risk-repeating-wall-street-s-1960s-paper-crisis-fairmint-ceo-says",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-22T14:00:00+00:00",
+      "raw_text": "Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says",
+      "impact": {}
+    },
+    {
+      "event_id": "47c0d2b6-5657-4f7a-a97f-2d5300a56adc",
+      "source": "rss:decrypt",
+      "title": "A Third of the Post-ChatGPT Web Is AI-Written, Pew Finds",
+      "url": "https://decrypt.co/376271/chatgpt-web-ai-written-pew",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-22T13:31:03+00:00",
+      "raw_text": "A Third of the Post-ChatGPT Web Is AI-Written, Pew Finds\n\nPew Research scanned nearly half a million webpages with an AI detector and found the fingerprints concentrated on .com domains—and multiplying fast.",
+      "impact": {}
+    },
+    {
+      "event_id": "a7f785dc-ef6b-42ba-8e37-e02227c94b7b",
+      "source": "rss:cointelegraph",
+      "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
+      "url": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-22T13:30:00+00:00",
+      "raw_text": "MiCA is coming for DeFi vaults, but regulation will be difficult\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MiCA is coming for DeFi vaults, but regulation will be difficult\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/defi-lending-va",
+      "impact": {}
+    },
+    {
+      "event_id": "68d094a6-ed1b-4510-92eb-7c1ce2420f03",
+      "source": "rss:coindesk",
+      "title": "Kalshi off-limits in multiple states as prediction markets, CFTC team up for battle",
+      "url": "https://www.coindesk.com/news-analysis/2026/08/21/kalshi-off-limits-in-multiple-states-as-prediction-markets-cftc-team-up-for-battle",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-22T13:30:00+00:00",
+      "raw_text": "Kalshi off-limits in multiple states as prediction markets, CFTC team up for battle",
+      "impact": {}
+    },
     {
       "event_id": "6ee4e3c5-d6b5-4061-a12e-8c7e26b25779",
       "source": "rss:coindesk",
@@ -6317,81 +6377,20 @@
       "timestamp_utc": "2026-08-14T08:02:18+00:00",
       "raw_text": "SEC cancels key crypto regulatory meeting\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC cancels key crypto regulatory meeting\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-setting-court-precedent-for-btc.jpg\" /></p><p>The SEC canc",
       "impact": {}
-    },
-    {
-      "event_id": "95e2c039-8798-4688-9ae9-44db41418d96",
-      "source": "rss:coindesk",
-      "title": "Cluster of headwinds weigh on bitcoin. XRP teeters near $1",
-      "url": "https://www.coindesk.com/markets/2026/08/14/cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-usd1",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-08-14T07:14:37+00:00",
-      "raw_text": "Cluster of headwinds weigh on bitcoin. XRP teeters near $1",
-      "impact": {
-        "t_plus_5m": 0.0784,
-        "t_plus_15m": 0.1128,
-        "t_plus_1h": 0.073,
-        "t_plus_4h": -0.0925
-      }
-    },
-    {
-      "event_id": "a916068d-c070-4aa9-ab55-665796cc454f",
-      "source": "rss:coindesk",
-      "title": "Bitcoin holders Strategy and Metaplanet face stock-index exclusion under MSCI’s new proposal",
-      "url": "https://www.coindesk.com/markets/2026/08/14/bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-msci-s-new-proposal",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T06:20:54+00:00",
-      "raw_text": "Bitcoin holders Strategy and Metaplanet face stock-index exclusion under MSCI’s new proposal",
-      "impact": {}
-    },
-    {
-      "event_id": "15d30a46-a1e6-4795-886b-d88b660784cb",
-      "source": "rss:coindesk",
-      "title": "JPMorgan shuttered its banking relationship with predictions platform Polymarket: FT",
-      "url": "https://www.coindesk.com/markets/2026/08/14/jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket-ft",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T05:04:52+00:00",
-      "raw_text": "JPMorgan shuttered its banking relationship with predictions platform Polymarket: FT",
-      "impact": {}
-    },
-    {
-      "event_id": "7ec786fd-461e-4302-8939-f4a73bf9a103",
-      "source": "rss:cointelegraph",
-      "title": "Neutrl pauses NUSD redemptions over undisclosed reserve issue",
-      "url": "https://cointelegraph.com/news/neutrl-pauses-nusd-redemptions-over-undisclosed-reserve-issue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T04:44:31+00:00",
-      "raw_text": "Neutrl pauses NUSD redemptions over undisclosed reserve issue\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Neutrl pauses NUSD redemptions over undisclosed reserve issue \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-world-liberty-lau",
-      "impact": {}
-    },
-    {
-      "event_id": "4715052c-c3fb-4082-87a4-befff0c446a2",
-      "source": "rss:theblock",
-      "title": "Bitwise mulls tokenizing its Solana staking ETF via Superstate partnership",
-      "url": "https://www.theblock.co/news/defi/2026-08-14-bitwise-tokenize-sol-staking-etf-411790",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T04:09:44+00:00",
-      "raw_text": "Bitwise mulls tokenizing its Solana staking ETF via Superstate partnership\n\nShares held in tokenized form would carry the same rights as those in book-entry form, though not freely transferable outside the system.\n\nShares held in tokenized form would carry the same rights as those in book-entry form",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 199,
+      "hack": {
+        "count": 34,
         "avg_1h": -0.04,
-        "avg_24h": 0.14,
+        "avg_24h": -0.11,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 135,
+        "avg_1h": 0.02,
+        "avg_24h": 2.75,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
@@ -6400,23 +6399,17 @@
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
       },
+      "unknown": {
+        "count": 197,
+        "avg_1h": -0.04,
+        "avg_24h": 0.14,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "whale_move": {
         "count": 2,
         "avg_1h": null,
         "avg_24h": null,
         "win_rate_1h_gt5pct": null
-      },
-      "hack": {
-        "count": 33,
-        "avg_1h": -0.04,
-        "avg_24h": -0.11,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 134,
-        "avg_1h": 0.02,
-        "avg_24h": 2.75,
-        "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
         "count": 9,
