@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-22T05:37:59.293644+00:00",
+  "generated_at": "2026-08-22T06:55:50.264144+00:00",
   "events": [
+    {
+      "event_id": "b51c1401-719e-4f11-9d81-f5e13cb45e1f",
+      "source": "rss:coindesk",
+      "title": "Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to ‘next bitcoin’ buzz",
+      "url": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-22T05:37:43+00:00",
+      "raw_text": "Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to ‘next bitcoin’ buzz",
+      "impact": {}
+    },
     {
       "event_id": "d9e70804-0ee2-4e7c-8977-cf86b93d8e1a",
       "source": "rss:coindesk",
@@ -6372,24 +6384,18 @@
       "timestamp_utc": "2026-08-14T02:06:37+00:00",
       "raw_text": "Figure reports $4.3B in loan marketplace volume as profit nearly triples\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Figure reports $4.3B in loan marketplace volume as profit nearly triples\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
       "impact": {}
-    },
-    {
-      "event_id": "700f6012-01da-4138-ae93-70341e22fd7f",
-      "source": "rss:cointelegraph",
-      "title": "Ethereum Foundation pivots away from Poseidon in post-quantum plan",
-      "url": "https://cointelegraph.com/news/ethereum-foundation-drops-poseidon-post-quantum-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-13T23:34:56+00:00",
-      "raw_text": "Ethereum Foundation pivots away from Poseidon in post-quantum plan\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum Foundation pivots away from Poseidon in post-quantum plan\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-eth-20-p",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 123,
+        "avg_1h": 0.25,
+        "avg_24h": 0.47,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 200,
+        "count": 199,
         "avg_1h": -0.04,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
@@ -6399,12 +6405,6 @@
         "avg_1h": null,
         "avg_24h": null,
         "win_rate_1h_gt5pct": null
-      },
-      "macro": {
-        "count": 122,
-        "avg_1h": 0.25,
-        "avg_24h": 0.47,
-        "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
         "count": 33,
