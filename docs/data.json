@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-23T17:31:20.438843+00:00",
+  "generated_at": "2026-08-23T18:44:43.031262+00:00",
   "events": [
+    {
+      "event_id": "c20bcd7d-f6bc-49cd-8451-dbbe7d8a38e9",
+      "source": "rss:coindesk",
+      "title": "Regulation Crypto is here: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/08/23/regulation-crypto-is-here-state-of-crypto",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-23T18:30:00+00:00",
+      "raw_text": "Regulation Crypto is here: State of Crypto",
+      "impact": {}
+    },
+    {
+      "event_id": "55c71bb8-e580-4e57-a9c5-97129fe6e302",
+      "source": "rss:theblock",
+      "title": "Tether’s $120 million Uruguay bitcoin mining project collapsed over a power contract dispute: Reuters",
+      "url": "https://www.theblock.co/news/business/2026-08-23-tethers-120-million-uruguay-bitcoin-mining-project-collapsed-over-a-power-contract-dispute-reuters-412536",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-23T17:02:20+00:00",
+      "raw_text": "Tether’s $120 million Uruguay bitcoin mining project collapsed over a power contract dispute: Reuters\n\nUTE cut power to Tether's mining sites in July 2025 after Tether representatives did not attend the signing of a revised contract, per the report.",
+      "impact": {}
+    },
     {
       "event_id": "6ed43284-0f5c-4c33-9790-d2f30ed21be3",
       "source": "rss:decrypt",
@@ -27,7 +51,8 @@
       "raw_text": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
       "impact": {
         "t_plus_5m": -0.1105,
-        "t_plus_15m": 0.0751
+        "t_plus_15m": 0.0751,
+        "t_plus_1h": 0.324
       }
     },
     {
@@ -6355,57 +6380,26 @@
       "timestamp_utc": "2026-08-14T11:06:12+00:00",
       "raw_text": "Bitcoin slips as U.S. inflation fails to spark gains, ETFs see August's first two-day drawdown",
       "impact": {}
-    },
-    {
-      "event_id": "89d5d3f3-03ca-4c36-ba4b-28c4e4063470",
-      "source": "rss:theblock",
-      "title": "Strategy, Metaplanet could face MSCI index removal under new proposal",
-      "url": "https://www.theblock.co/news/business/2026-08-14-strategy-metaplanet-msci-index-proposal-411809",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T10:57:33+00:00",
-      "raw_text": "Strategy, Metaplanet could face MSCI index removal under new proposal\n\nAn MSCI proposal could see Strategy and Metaplanet removed from its global indexes under a new non-operating company screen.\n\nAn MSCI proposal could see Strategy and Metaplanet removed from its global indexes under a new non-oper",
-      "impact": {}
-    },
-    {
-      "event_id": "d171572a-622c-46e7-88a5-fe6ddb28f063",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin eyes new August lows as Binance longs face ‘cleanout’",
-      "url": "https://cointelegraph.com/markets/bitcoin-liquidation-cleanout-open-interest-falls-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-14T10:43:57+00:00",
-      "raw_text": "Bitcoin eyes new August lows as Binance longs face ‘cleanout’\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin eyes new August lows as Binance longs face ‘cleanout’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/analys-analytics-buil",
-      "impact": {
-        "t_plus_5m": -0.0224,
-        "t_plus_15m": -0.0641,
-        "t_plus_1h": 0.0446,
-        "t_plus_4h": -0.1631
-      }
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 135,
-        "avg_1h": 0.02,
-        "avg_24h": 1.66,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 124,
+        "count": 125,
         "avg_1h": 0.25,
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 194,
-        "avg_1h": -0.04,
+        "count": 193,
+        "avg_1h": -0.05,
         "avg_24h": 0.14,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 135,
+        "avg_1h": 0.04,
+        "avg_24h": 1.66,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
