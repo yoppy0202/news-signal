@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-23T15:32:57.465697+00:00",
+  "generated_at": "2026-08-23T16:38:08.506659+00:00",
   "events": [
+    {
+      "event_id": "c8dd8cd4-1202-48c7-86d9-36dbab007cd8",
+      "source": "rss:coindesk",
+      "title": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
+      "url": "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-23T15:52:21+00:00",
+      "raw_text": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
+      "impact": {}
+    },
+    {
+      "event_id": "66e06fac-4033-4c06-96b9-084b21752b97",
+      "source": "rss:cointelegraph",
+      "title": "Fed study finds crypto investors driven by beliefs, easily swayed by returns",
+      "url": "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-23T15:30:53+00:00",
+      "raw_text": "Fed study finds crypto investors driven by beliefs, easily swayed by returns\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fed study finds crypto investors driven by beliefs, easily swayed by returns\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl",
+      "impact": {}
+    },
     {
       "event_id": "126d3823-ca73-4c2d-9dfd-01fcc853f76a",
       "source": "rss:coindesk",
@@ -6364,40 +6388,10 @@
         "t_plus_1h": -0.0175,
         "t_plus_4h": -0.225
       }
-    },
-    {
-      "event_id": "cc1e53e9-b91f-46aa-823d-65255ee2d657",
-      "source": "rss:decrypt",
-      "title": "SEC Shelves Crypto Rule Meeting Days After Senate Punted Clarity Act",
-      "url": "https://decrypt.co/375622/sec-shelves-crypto-rule-meeting-days-after-senate-punted-clarity-act",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T10:39:39+00:00",
-      "raw_text": "SEC Shelves Crypto Rule Meeting Days After Senate Punted Clarity Act\n\nNo replacement date has been set for the meeting, which was cancelled due to an “unforeseen scheduling issue.”",
-      "impact": {}
-    },
-    {
-      "event_id": "034c3a27-9d18-4e60-9839-5312b5c09187",
-      "source": "rss:coindesk",
-      "title": "RedotPay said to put $1 billion U.S. IPO plan on hold: Bloomberg",
-      "url": "https://www.coindesk.com/business/2026/08/14/redotpay-said-to-put-usd1-billion-u-s-ipo-plan-on-hold-bloomberg",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T10:35:40+00:00",
-      "raw_text": "RedotPay said to put $1 billion U.S. IPO plan on hold: Bloomberg",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 195,
-        "avg_1h": -0.04,
-        "avg_24h": 0.14,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
         "count": 134,
         "avg_1h": 0.02,
@@ -6408,6 +6402,12 @@
         "count": 124,
         "avg_1h": 0.25,
         "avg_24h": 0.47,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 195,
+        "avg_1h": -0.04,
+        "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
