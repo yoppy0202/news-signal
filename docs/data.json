@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-23T14:35:01.444783+00:00",
+  "generated_at": "2026-08-23T15:32:57.465697+00:00",
   "events": [
+    {
+      "event_id": "126d3823-ca73-4c2d-9dfd-01fcc853f76a",
+      "source": "rss:coindesk",
+      "title": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
+      "url": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-23T15:00:00+00:00",
+      "raw_text": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
+      "impact": {}
+    },
+    {
+      "event_id": "336a9aad-f747-4431-8437-6781511d3cf2",
+      "source": "rss:decrypt",
+      "title": "Robot Brains Could Have Their ‘ChatGPT Moment’ by 2027, ACE Robotics Chairman Says",
+      "url": "https://decrypt.co/376265/robot-brains-chatgpt-moment-ace-robotics",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-23T14:31:04+00:00",
+      "raw_text": "Robot Brains Could Have Their ‘ChatGPT Moment’ by 2027, ACE Robotics Chairman Says\n\nThe breakthrough could come from AI models that help robots understand and interact with the physical world, though widespread adoption may still be years away.",
+      "impact": {}
+    },
+    {
+      "event_id": "72d81443-f2aa-4bb7-9470-30f048d1a68b",
+      "source": "rss:coindesk",
+      "title": "Crypto’s next billion users might be AI agents, and they’re paying with stablecoins",
+      "url": "https://www.coindesk.com/business/2026/08/23/crypto-s-next-billion-users-might-be-ai-agents-and-they-re-paying-with-stablecoins",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-23T13:00:00+00:00",
+      "raw_text": "Crypto’s next billion users might be AI agents, and they’re paying with stablecoins",
+      "impact": {}
+    },
     {
       "event_id": "7c3ede72-61ca-4d57-93c7-8e8a42a812ac",
       "source": "rss:theblock",
@@ -89,7 +125,8 @@
         "t_plus_5m": -0.1126,
         "t_plus_15m": 0.0124,
         "t_plus_1h": -0.288,
-        "t_plus_4h": 0.5047
+        "t_plus_4h": 0.5047,
+        "t_plus_24h": 0.7553
       }
     },
     {
@@ -6351,58 +6388,10 @@
       "timestamp_utc": "2026-08-14T10:35:40+00:00",
       "raw_text": "RedotPay said to put $1 billion U.S. IPO plan on hold: Bloomberg",
       "impact": {}
-    },
-    {
-      "event_id": "3c705c74-8f79-42d3-bf35-24a570f290ab",
-      "source": "rss:cointelegraph",
-      "title": "RedotPay US IPO delayed amid regulatory, legal hurdles: Report",
-      "url": "https://cointelegraph.com/news/redotpay-us-license-ipo-delay-binance-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T09:53:50+00:00",
-      "raw_text": "RedotPay US IPO delayed amid regulatory, legal hurdles: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"RedotPay US IPO delayed amid regulatory, legal hurdles: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-will-ripple-laun",
-      "impact": {}
-    },
-    {
-      "event_id": "45b21dd6-32fc-4ee1-9fd7-72bd0e0c53da",
-      "source": "rss:decrypt",
-      "title": "Kalshi Ordered to Block Washington Bets Days After CFTC Backed It",
-      "url": "https://decrypt.co/375619/kalshi-ordered-to-block-washington-bets-days-after-cftc-backed-it",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T09:50:40+00:00",
-      "raw_text": "Kalshi Ordered to Block Washington Bets Days After CFTC Backed It\n\nA King County judge gave the exchange until August 19 to stop offering sports, election and politics wagers in the state.",
-      "impact": {}
-    },
-    {
-      "event_id": "066c90a2-45f2-4d20-85b8-7e1e7546406f",
-      "source": "rss:cointelegraph",
-      "title": "JPMorgan cuts Polymarket banking ties over regulatory concerns: Report",
-      "url": "https://cointelegraph.com/news/jpmorgan-debanked-polymarket-regulatory-concerns-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T08:53:42+00:00",
-      "raw_text": "JPMorgan cuts Polymarket banking ties over regulatory concerns: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"JPMorgan cuts Polymarket banking ties over regulatory concerns: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 125,
-        "avg_1h": 0.25,
-        "avg_24h": 0.47,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 36,
-        "avg_1h": -0.09,
-        "avg_24h": 1.13,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
         "count": 195,
         "avg_1h": -0.04,
@@ -6410,9 +6399,21 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 133,
+        "count": 134,
         "avg_1h": 0.02,
         "avg_24h": 1.66,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 124,
+        "avg_1h": 0.25,
+        "avg_24h": 0.47,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 36,
+        "avg_1h": -0.09,
+        "avg_24h": 1.0,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
