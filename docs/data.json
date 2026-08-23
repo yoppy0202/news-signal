@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-23T21:32:24.297642+00:00",
+  "generated_at": "2026-08-23T22:33:54.822738+00:00",
   "events": [
+    {
+      "event_id": "e50556e5-3beb-4331-b370-bc03bb5b202e",
+      "source": "rss:theblock",
+      "title": "DeFi lending protocol Term Finance loses an estimated $8.5 million to governance exploit",
+      "url": "https://www.theblock.co/news/defi/2026-08-23-defi-lending-protocol-term-finance-loses-an-estimated-8-5-million-to-governance-exploit-412543",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-23T20:50:45+00:00",
+      "raw_text": "DeFi lending protocol Term Finance loses an estimated $8.5 million to governance exploit\n\nTerm vault proposals face a seven-day delay and can be vetoed by liquidity providers, yet those controls apparently did not stop the exploit.",
+      "impact": {}
+    },
     {
       "event_id": "c20bcd7d-f6bc-49cd-8451-dbbe7d8a38e9",
       "source": "rss:coindesk",
@@ -6369,24 +6381,18 @@
       "timestamp_utc": "2026-08-14T11:07:49+00:00",
       "raw_text": "Trump family's World Liberty Financial delay plans to sell Maldives resort token",
       "impact": {}
-    },
-    {
-      "event_id": "7e31b59d-d2a6-410e-b411-23d5fdb95241",
-      "source": "rss:coindesk",
-      "title": "Bitcoin slips as U.S. inflation fails to spark gains, ETFs see August's first two-day drawdown",
-      "url": "https://www.coindesk.com/markets/2026/08/14/bitcoin-slips-as-u-s-inflation-fails-to-spark-gains-etfs-see-august-s-first-two-day-drawdown",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T11:06:12+00:00",
-      "raw_text": "Bitcoin slips as U.S. inflation fails to spark gains, ETFs see August's first two-day drawdown",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 37,
+        "avg_1h": -0.09,
+        "avg_24h": 1.0,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 125,
+        "count": 124,
         "avg_1h": 0.25,
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
@@ -6401,12 +6407,6 @@
         "count": 135,
         "avg_1h": 0.04,
         "avg_24h": 1.66,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 36,
-        "avg_1h": -0.09,
-        "avg_24h": 1.0,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
