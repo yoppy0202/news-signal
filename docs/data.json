@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-24T08:59:47.849876+00:00",
+  "generated_at": "2026-08-24T09:58:44.490203+00:00",
   "events": [
+    {
+      "event_id": "42e3d805-633b-4154-abcf-7a29e78f6e32",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin ETF inflows hit $1.9B in strongest week since October 2025",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-billion-strongest-week-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T08:56:52+00:00",
+      "raw_text": "Bitcoin ETF inflows hit $1.9B in strongest week since October 2025\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETF inflows hit $1.9B in strongest week since October 2025\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/b-man-chara",
+      "impact": {}
+    },
+    {
+      "event_id": "80ccc531-c663-4ecf-840e-7b7e7433bcac",
+      "source": "rss:coindesk",
+      "title": "Crypto roars back as bitcoin posts its second-best week since early 2021",
+      "url": "https://www.coindesk.com/markets/2026/08/24/crypto-roars-back-as-bitcoin-posts-its-second-best-week-since-early-2021",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T08:28:14+00:00",
+      "raw_text": "Crypto roars back as bitcoin posts its second-best week since early 2021",
+      "impact": {}
+    },
     {
       "event_id": "fc109d05-becd-42d1-bba4-9949144a3b15",
       "source": "rss:coindesk",
@@ -20,9 +44,26 @@
       "url": "https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-08-24T08:05:57+00:00",
       "raw_text": "Live updates: Bitcoin holds $77,000 as XRP, Zcash pull back after a big weekly rally",
+      "impact": {
+        "t_plus_5m": 0.8545,
+        "t_plus_15m": 0.1622
+      }
+    },
+    {
+      "event_id": "d8183c63-08dc-4819-b343-8d7efc97fc3e",
+      "source": "rss:theblock",
+      "title": "Fasset reaches unicorn status after $68 million raise led by SBI Group",
+      "url": "https://www.theblock.co/news/business/2026-08-24-fasset-68-million-raise-sbi-group-412563",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T07:56:44+00:00",
+      "raw_text": "Fasset reaches unicorn status after $68 million raise led by SBI Group\n\nFasset raised $68 million in Series C funding at a $1 billion valuation, expanding its cross-border stablecoin infrastructure.",
       "impact": {}
     },
     {
@@ -6329,76 +6370,32 @@
       "timestamp_utc": "2026-08-14T14:22:57+00:00",
       "raw_text": "Morgan Stanley’s BlackRock Bitcoin ETF holdings rise 23% in Q2\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Morgan Stanley’s BlackRock Bitcoin ETF holdings rise 23% in Q2\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-central-bank-iss",
       "impact": {}
-    },
-    {
-      "event_id": "24fa6b3d-61ab-4ed6-96c1-655f14181353",
-      "source": "rss:cointelegraph",
-      "title": "JPMorgan boosts Bitcoin, Ether ETF positions in Q2 filing",
-      "url": "https://cointelegraph.com/markets/jpmorgan-crypto-etf-moves-risk-not-bullish-bet-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T14:14:06+00:00",
-      "raw_text": "JPMorgan boosts Bitcoin, Ether ETF positions in Q2 filing\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"JPMorgan boosts Bitcoin, Ether ETF positions in Q2 filing\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-jpmorgan-feature-into-glob",
-      "impact": {}
-    },
-    {
-      "event_id": "a91ff293-e951-4404-b842-69baa927b531",
-      "source": "rss:coindesk",
-      "title": "Strategy says MSCI should measure markets, not dictate corporate assets",
-      "url": "https://www.coindesk.com/markets/2026/08/14/strategy-says-msci-should-measure-markets-not-dictate-corporate-assets",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T14:12:34+00:00",
-      "raw_text": "Strategy says MSCI should measure markets, not dictate corporate assets",
-      "impact": {}
-    },
-    {
-      "event_id": "c2ad70cd-de71-4c1e-a663-2de7d06fc336",
-      "source": "rss:bitcoinmagazine",
-      "title": "What the CLARITY Act Actually Does for Bitcoin",
-      "url": "https://bitcoinmagazine.com/takes/what-the-clarity-act-actually-does-for-bitcoin",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-14T14:09:26+00:00",
-      "raw_text": "What the CLARITY Act Actually Does for Bitcoin\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/What-the-CLARITY-Act-Actually-Does-for-Bitcoin.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<",
-      "impact": {
-        "t_plus_5m": -0.2322,
-        "t_plus_15m": -0.2529,
-        "t_plus_1h": -0.1403,
-        "t_plus_4h": 0.4273,
-        "t_plus_24h": 0.471
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 124,
+        "avg_1h": 0.3,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 193,
+        "count": 192,
         "avg_1h": -0.05,
         "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 135,
+        "avg_1h": 0.04,
+        "avg_24h": 1.66,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
         "count": 39,
         "avg_1h": -0.09,
         "avg_24h": 1.0,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 124,
-        "avg_1h": 0.25,
-        "avg_24h": 0.47,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 134,
-        "avg_1h": 0.04,
-        "avg_24h": 1.66,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
