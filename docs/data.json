@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-24T14:00:37.463638+00:00",
+  "generated_at": "2026-08-24T14:55:21.289176+00:00",
   "events": [
+    {
+      "event_id": "3fe36621-5111-4ead-b572-b5f29fe79ccb",
+      "source": "rss:cointelegraph",
+      "title": "Zondacrypto boss seeks leniency for testimony on political ties: Report",
+      "url": "https://cointelegraph.com/news/zondacrypto-ceo-seeks-leniency-testimony-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T14:00:51+00:00",
+      "raw_text": "Zondacrypto boss seeks leniency for testimony on political ties: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zondacrypto boss seeks leniency for testimony on political ties: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/p",
+      "impact": {}
+    },
+    {
+      "event_id": "6ecb73cb-43de-4786-a767-c1e63254d264",
+      "source": "rss:theblock",
+      "title": "‘Upside move in ETH was overdue,’ Tom Lee says as Bitmine buys another 32,447 ether",
+      "url": "https://www.theblock.co/news/business/2026-08-24-upside-move-eth-was-overdue-tom-lee-says-bitmine-buys-more-ether-412589",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T13:36:31+00:00",
+      "raw_text": "‘Upside move in ETH was overdue,’ Tom Lee says as Bitmine buys another 32,447 ether\n\nBitmine's total crypto, cash, and other investments currently stand at $14.9 billion, and it owns over 4.8% of Ethereum's circulating supply.",
+      "impact": {}
+    },
     {
       "event_id": "3fe2853f-dc2f-41cc-953e-441c81040d70",
       "source": "rss:cointelegraph",
@@ -6324,54 +6348,30 @@
       "timestamp_utc": "2026-08-14T21:05:23+00:00",
       "raw_text": "Trump-backed World Liberty wins conditional bank charter from federal regulator",
       "impact": {}
-    },
-    {
-      "event_id": "3003e3b4-a76b-4cfc-9c4a-b648de11088c",
-      "source": "rss:decrypt",
-      "title": "France Tax Data Leak Could Fuel Scams, Attacks Targeting Bitcoin Holders",
-      "url": "https://decrypt.co/375715/france-tax-data-leak-wrench-attacks-bitcoin",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T21:03:35+00:00",
-      "raw_text": "France Tax Data Leak Could Fuel Scams, Attacks Targeting Bitcoin Holders\n\nA hacker is reportedly selling personal and financial records tied to more than 678,000 taxpayers and businesses in France.",
-      "impact": {}
-    },
-    {
-      "event_id": "b4ff6d9a-06ee-444c-85b3-82726c7eb170",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoiners Warned After French Tax Authority Confirms Data Breach Affecting Hundreds of Thousands",
-      "url": "https://bitcoinmagazine.com/news/bitcoiners-warned-of-wrench-attacks",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T20:42:48+00:00",
-      "raw_text": "Bitcoiners Warned After French Tax Authority Confirms Data Breach Affecting Hundreds of Thousands\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoiners-Warned-After-French-Tax-Authority-Confirms",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 121,
+        "avg_1h": 0.3,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 195,
+        "avg_1h": -0.03,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 141,
         "avg_1h": 0.03,
         "avg_24h": 2.08,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 194,
-        "avg_1h": -0.03,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 120,
-        "avg_1h": 0.3,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 36,
+        "count": 34,
         "avg_1h": -0.12,
         "avg_24h": 1.56,
         "win_rate_1h_gt5pct": 0.0
