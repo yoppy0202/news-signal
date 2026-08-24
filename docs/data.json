@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-24T14:55:21.289176+00:00",
+  "generated_at": "2026-08-24T15:51:11.966756+00:00",
   "events": [
+    {
+      "event_id": "7a438dd8-a79d-48f4-b375-1ade6ea73cc3",
+      "source": "rss:bitcoinmagazine",
+      "title": "Strategy Again Skips Bitcoin Buy And Establishes USD Cash Dollar Reserve",
+      "url": "https://bitcoinmagazine.com/news/strategy-establishes-new-usd-cash-reserve",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T14:48:17+00:00",
+      "raw_text": "Strategy Again Skips Bitcoin Buy And Establishes USD Cash Dollar Reserve\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time-in-Years-as-Bitcoin-Price-Tumbles.j",
+      "impact": {}
+    },
     {
       "event_id": "3fe36621-5111-4ead-b572-b5f29fe79ccb",
       "source": "rss:cointelegraph",
@@ -20,10 +32,16 @@
       "url": "https://www.theblock.co/news/business/2026-08-24-upside-move-eth-was-overdue-tom-lee-says-bitmine-buys-more-ether-412589",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-08-24T13:36:31+00:00",
       "raw_text": "‘Upside move in ETH was overdue,’ Tom Lee says as Bitmine buys another 32,447 ether\n\nBitmine's total crypto, cash, and other investments currently stand at $14.9 billion, and it owns over 4.8% of Ethereum's circulating supply.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.798,
+        "t_plus_15m": -0.9157,
+        "t_plus_1h": 0.3173
+      }
     },
     {
       "event_id": "3fe2853f-dc2f-41cc-953e-441c81040d70",
@@ -32,10 +50,16 @@
       "url": "https://cointelegraph.com/magazine/bitget-ceo-isnt-buying-the-bitcoin-rally-waiting-for-50k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-24T13:30:00+00:00",
       "raw_text": "Bitget CEO isn’t buying the Bitcoin rally — She’s waiting for $50K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitget CEO isn’t buying the Bitcoin rally — She’s waiting for $50K \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/gracy-chen",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0059,
+        "t_plus_15m": -0.7187,
+        "t_plus_1h": 0.7003
+      }
     },
     {
       "event_id": "6f0750fc-87e7-4f9c-82f0-0cb503a29686",
@@ -44,10 +68,16 @@
       "url": "https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-08-24T12:59:55+00:00",
       "raw_text": "Tom Lee's Bitmine buys $81 million of ETH in largest weekly haul since early July",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2359,
+        "t_plus_15m": 0.6671,
+        "t_plus_1h": -0.1759
+      }
     },
     {
       "event_id": "fefbaa9d-4a8d-429d-aebb-8488da3a06cf",
@@ -56,10 +86,16 @@
       "url": "https://decrypt.co/376321/morning-minute-saylors-strategy-back-in-green-as-btc-soars-to-78k",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-24T12:54:23+00:00",
       "raw_text": "Morning Minute: Saylor’s Strategy Back in Green As BTC Soars to $78k\n\nBitcoin just closed its biggest weekly candle of all time in notional value, and 10 alt leaders put up 50%+ gains in massive crypto rebound.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.4455,
+        "t_plus_15m": 0.4792,
+        "t_plus_1h": -0.546
+      }
     },
     {
       "event_id": "9e07a2a0-b367-4895-8bf2-0263bc8f17f2",
@@ -68,10 +104,16 @@
       "url": "https://www.coindesk.com/tech/2026/08/24/new-solana-vote-could-ramp-daily-sol-burns-to-usd800-000-and-slow-new-token-creation",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "SOL"
+      ],
       "timestamp_utc": "2026-08-24T12:52:30+00:00",
       "raw_text": "New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.7486,
+        "t_plus_15m": 0.4816,
+        "t_plus_1h": -0.6136
+      }
     },
     {
       "event_id": "a0aaa33b-5f1a-4037-b2c9-7c9cf55b5f1f",
@@ -323,6 +365,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-24T08:16:29+00:00",
       "raw_text": "Jackson  Hole Symposium, U.S. PCE prices, IREN earnings: Crypto Week Ahead",
+      "impact": {}
+    },
+    {
+      "event_id": "49cdbb18-74df-4042-9e76-7928fd634aba",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin moves closer to $80,000, but rally could need a breather",
+      "url": "https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T08:05:57+00:00",
+      "raw_text": "Live updates: Bitcoin moves closer to $80,000, but rally could need a breather",
       "impact": {}
     },
     {
@@ -6324,49 +6378,31 @@
       "timestamp_utc": "2026-08-14T21:17:12+00:00",
       "raw_text": "Abu Dhabi Sovereign Wealth Funds Keep Big Bitcoin Positions\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Abu-Dhabis-Mubadala-Raises-Bitcoin-ETF-Stake-16-to-566-Million-in-Q1-2026.jpg\" style=\"displ",
       "impact": {}
-    },
-    {
-      "event_id": "00ea2d4f-81e2-40e8-9184-fccea2cc6daf",
-      "source": "rss:cointelegraph",
-      "title": "Ireland plans industry standards for illicit crypto use",
-      "url": "https://cointelegraph.com/news/ireland-industry-standards-crypto-gambling-aml?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T21:08:52+00:00",
-      "raw_text": "Ireland plans industry standards for illicit crypto use\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ireland plans industry standards for illicit crypto use\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/irish-dance-crypto.jpg\" /></p><p>",
-      "impact": {}
-    },
-    {
-      "event_id": "9322ca22-ee9c-42e2-b0e5-ecd80327b867",
-      "source": "rss:coindesk",
-      "title": "Trump-backed World Liberty wins conditional bank charter from federal regulator",
-      "url": "https://www.coindesk.com/policy/2026/08/14/trump-backed-world-liberty-wins-conditional-bank-charter-from-federal-regulator",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T21:05:23+00:00",
-      "raw_text": "Trump-backed World Liberty wins conditional bank charter from federal regulator",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "listing": {
+        "count": 8,
+        "avg_1h": -0.04,
+        "avg_24h": 5.81,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 121,
+        "count": 120,
         "avg_1h": 0.3,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
         "count": 195,
-        "avg_1h": -0.03,
+        "avg_1h": -0.02,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
         "count": 141,
-        "avg_1h": 0.03,
+        "avg_1h": -0.01,
         "avg_24h": 2.08,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6381,12 +6417,6 @@
         "avg_1h": null,
         "avg_24h": null,
         "win_rate_1h_gt5pct": null
-      },
-      "listing": {
-        "count": 7,
-        "avg_1h": -0.04,
-        "avg_24h": 5.81,
-        "win_rate_1h_gt5pct": 0.0
       }
     }
   }
