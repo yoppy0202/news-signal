@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-24T07:15:48.088286+00:00",
+  "generated_at": "2026-08-24T08:59:47.849876+00:00",
   "events": [
+    {
+      "event_id": "fc109d05-becd-42d1-bba4-9949144a3b15",
+      "source": "rss:coindesk",
+      "title": "Jackson  Hole Symposium, U.S. PCE prices, IREN earnings: Crypto Week Ahead",
+      "url": "https://www.coindesk.com/markets/2026/08/24/jackson-hole-symposium-u-s-pce-prices-iren-earnings-crypto-week-ahead",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T08:16:29+00:00",
+      "raw_text": "Jackson  Hole Symposium, U.S. PCE prices, IREN earnings: Crypto Week Ahead",
+      "impact": {}
+    },
+    {
+      "event_id": "12cf9e9e-4e6a-46d5-92f6-3e3e93eb874a",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin holds $77,000 as XRP, Zcash pull back after a big weekly rally",
+      "url": "https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T08:05:57+00:00",
+      "raw_text": "Live updates: Bitcoin holds $77,000 as XRP, Zcash pull back after a big weekly rally",
+      "impact": {}
+    },
+    {
+      "event_id": "9a4faa9e-6457-4458-8adf-789b5ecead20",
+      "source": "rss:coindesk",
+      "title": "Ether is crushing bitcoin and the 'golden cross' says it may not be done yet",
+      "url": "https://www.coindesk.com/markets/2026/08/24/ether-is-crushing-bitcoin-and-the-golden-cross-says-it-may-not-be-done-yet",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T06:50:58+00:00",
+      "raw_text": "Ether is crushing bitcoin and the 'golden cross' says it may not be done yet",
+      "impact": {}
+    },
+    {
+      "event_id": "3cd129a0-2981-452c-8dad-a1bc65798b83",
+      "source": "rss:coindesk",
+      "title": "Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power",
+      "url": "https://www.coindesk.com/markets/2026/08/24/ethereum-lending-app-term-finance-loses-usd8-5-million-after-attacker-buys-voting-power",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T06:27:33+00:00",
+      "raw_text": "Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power",
+      "impact": {}
+    },
     {
       "event_id": "fbcd9786-2c3f-468c-bd28-5a060b733ecd",
       "source": "rss:cointelegraph",
@@ -6325,86 +6373,30 @@
         "t_plus_4h": 0.4273,
         "t_plus_24h": 0.471
       }
-    },
-    {
-      "event_id": "adc7ba0b-0274-4367-a808-e4d667830b86",
-      "source": "rss:coindesk",
-      "title": "Israel’s largest bank to offer crypto trading with Galaxy",
-      "url": "https://www.coindesk.com/markets/2026/08/14/israel-s-largest-bank-partners-with-galaxy-for-crypto-trading",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T13:51:37+00:00",
-      "raw_text": "Israel’s largest bank to offer crypto trading with Galaxy",
-      "impact": {}
-    },
-    {
-      "event_id": "a2b75463-b7a6-40bf-a997-f25b783b0ba0",
-      "source": "rss:cointelegraph",
-      "title": "Binance to restrict transactions involving HTX, 10 other crypto platforms",
-      "url": "https://cointelegraph.com/news/binance-restrict-htx-10-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "listing",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T13:36:34+00:00",
-      "raw_text": "Binance to restrict transactions involving HTX, 10 other crypto platforms\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance to restrict transactions involving HTX, 10 other crypto platforms\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
-      "impact": {}
-    },
-    {
-      "event_id": "b68a8a43-8650-4ef1-b267-fc85f02b9fa7",
-      "source": "rss:cointelegraph",
-      "title": "Solana’s fee overhaul increases burn and makes resource hogs pay",
-      "url": "https://cointelegraph.com/magazine/solana-wants-its-biggest-resource-hogs-to-pay-more?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [
-        "SOL"
-      ],
-      "timestamp_utc": "2026-08-14T13:30:00+00:00",
-      "raw_text": "Solana’s fee overhaul increases burn and makes resource hogs pay\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana’s fee overhaul increases burn and makes resource hogs pay\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/solana-simd-055",
-      "impact": {
-        "t_plus_5m": 0.0249,
-        "t_plus_15m": 0.1036,
-        "t_plus_1h": -0.0985,
-        "t_plus_4h": 0.3826,
-        "t_plus_24h": 0.1399
-      }
-    },
-    {
-      "event_id": "08c3b661-c240-40db-afcf-abc1223b20e1",
-      "source": "rss:theblock",
-      "title": "Hyperscale Data sells 685 bitcoin for $43 million to fund Michigan data center",
-      "url": "https://www.theblock.co/news/business/2026-08-14-hyperscale-data-sells-685-bitcoin-for-43-million-to-fund-michigan-data-center-411827",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T12:59:18+00:00",
-      "raw_text": "Hyperscale Data sells 685 bitcoin for $43 million to fund Michigan data center\n\nHyperscale Data sold 685 bitcoin for approximately $43 million as it reduced debt and funded its Michigan AI data center.\n\nHyperscale Data sold 685 bitcoin for approximately $43 million as it reduced debt and funded its ",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 193,
+        "avg_1h": -0.05,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 39,
+        "avg_1h": -0.09,
+        "avg_24h": 1.0,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 124,
         "avg_1h": 0.25,
         "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 192,
-        "avg_1h": -0.05,
-        "avg_24h": 0.14,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 38,
-        "avg_1h": -0.09,
-        "avg_24h": 1.0,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 135,
+        "count": 134,
         "avg_1h": 0.04,
         "avg_24h": 1.66,
         "win_rate_1h_gt5pct": 0.0
@@ -6416,7 +6408,7 @@
         "win_rate_1h_gt5pct": null
       },
       "listing": {
-        "count": 9,
+        "count": 8,
         "avg_1h": -0.09,
         "avg_24h": 2.84,
         "win_rate_1h_gt5pct": 0.0
