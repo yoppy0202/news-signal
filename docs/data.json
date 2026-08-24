@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-23T23:31:54.290673+00:00",
+  "generated_at": "2026-08-24T01:54:15.552055+00:00",
   "events": [
+    {
+      "event_id": "823cddc9-0c30-4534-9b88-006530dc9a88",
+      "source": "rss:cointelegraph",
+      "title": "We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest",
+      "url": "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-23T23:56:00+00:00",
+      "raw_text": "We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/ray",
+      "impact": {}
+    },
     {
       "event_id": "e50556e5-3beb-4331-b370-bc03bb5b202e",
       "source": "rss:theblock",
@@ -6369,22 +6381,16 @@
       "timestamp_utc": "2026-08-14T11:23:28+00:00",
       "raw_text": "Shinhan Asset Management partners with Plume on tokenized fund pilot\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Shinhan Asset Management partners with Plume on tokenized fund pilot\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/south-k",
       "impact": {}
-    },
-    {
-      "event_id": "804a5062-8ff0-41f4-896a-e651429d79e8",
-      "source": "rss:coindesk",
-      "title": "Trump family's World Liberty Financial delay plans to sell Maldives resort token",
-      "url": "https://www.coindesk.com/business/2026/08/14/trump-family-s-world-liberty-financial-delay-plans-to-sell-maldives-resort-token",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T11:07:49+00:00",
-      "raw_text": "Trump family's World Liberty Financial delay plans to sell Maldives resort token",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 193,
+        "avg_1h": -0.05,
+        "avg_24h": 0.14,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
         "count": 37,
         "avg_1h": -0.09,
@@ -6395,12 +6401,6 @@
         "count": 124,
         "avg_1h": 0.25,
         "avg_24h": 0.47,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 193,
-        "avg_1h": -0.05,
-        "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
