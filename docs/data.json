@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-24T16:51:39.553356+00:00",
+  "generated_at": "2026-08-24T17:41:26.432956+00:00",
   "events": [
+    {
+      "event_id": "d653dcf2-de89-4eb7-8c4f-82b30f360d31",
+      "source": "rss:coindesk",
+      "title": "Coinbase debuts tokenized stocks on Base network, joining race to bring equities on blockchain",
+      "url": "https://www.coindesk.com/business/2026/08/24/coinbase-debuts-tokenized-stocks-on-base-network-joining-race-to-bring-equities-on-blockchain",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T17:12:35+00:00",
+      "raw_text": "Coinbase debuts tokenized stocks on Base network, joining race to bring equities on blockchain",
+      "impact": {}
+    },
+    {
+      "event_id": "da81fe09-af9b-4681-9c25-59d4ee8f1702",
+      "source": "rss:decrypt",
+      "title": "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week—Only $2.6 Billion Was New Money",
+      "url": "https://decrypt.co/376349/bitcoin-ethereum-etfs-23-billion-aum-inflows",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T17:07:32+00:00",
+      "raw_text": "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week—Only $2.6 Billion Was New Money\n\nBitcoin and Ethereum ETFs booked their strongest inflow week since October, but most of the gain came from coins investors already owned getting more valuable.",
+      "impact": {}
+    },
+    {
+      "event_id": "6f809956-f82b-4177-8aaf-c76eb1827aad",
+      "source": "rss:cointelegraph",
+      "title": "Strive buys 1,110 Bitcoin for $81.5M, holdings top 21K BTC; ASST shares surge 11%",
+      "url": "https://cointelegraph.com/news/strive-buys-1110-bitcoin-for-815m-holdings-top-21k-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T16:44:55+00:00",
+      "raw_text": "Strive buys 1,110 Bitcoin for $81.5M, holdings top 21K BTC; ASST shares surge 11%\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strive buys 1,110 Bitcoin for $81.5M, holdings top 21K BTC; ASST shares surge 11%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me",
+      "impact": {}
+    },
     {
       "event_id": "10a3f27b-4bc6-4d54-84e0-2033bc1f1218",
       "source": "rss:bitcoinmagazine",
@@ -11,6 +47,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-24T16:18:56+00:00",
       "raw_text": "Bitcoin Rally Accelerates, With $80,000 in Sight After ETFs Have Stellar Week\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Pics.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"htt",
+      "impact": {}
+    },
+    {
+      "event_id": "bda99c8d-ad6e-469b-b0ea-bce97d2be03a",
+      "source": "rss:theblock",
+      "title": "Hyperliquid Policy Center urges SEC, CFTC to harmonize rules for perpetual contracts",
+      "url": "https://www.theblock.co/news/regulation/2026-08-24-hyperliquid-policy-center-urges-sec-cftc-harmonize-rules-perpetual-contracts-412601",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T16:18:24+00:00",
+      "raw_text": "Hyperliquid Policy Center urges SEC, CFTC to harmonize rules for perpetual contracts\n\nThe push comes as Hyperliquid's multi-asset perpetuals gain scale and draw scrutiny from traditional exchanges.",
       "impact": {}
     },
     {
@@ -26,16 +74,34 @@
       "impact": {}
     },
     {
+      "event_id": "0c0e4f71-20d6-4800-b1cf-1b5bc9561937",
+      "source": "rss:theblock",
+      "title": "Stand With Crypto ramps up midterm push with 32 House endorsements",
+      "url": "https://www.theblock.co/news/regulation/2026-08-24-stand-with-crypto-ramps-up-midterm-push-with-32-house-endorsements-412616",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T15:57:45+00:00",
+      "raw_text": "Stand With Crypto ramps up midterm push with 32 House endorsements\n\nStand With Crypto is backing more than 30 House candidates as it looks to flex its political influence once more in the upcoming elections.",
+      "impact": {}
+    },
+    {
       "event_id": "bc8b90d8-efdf-405a-9874-1c94fd23b0c1",
       "source": "rss:decrypt",
       "title": "Bitmine Buys Another $81M in Ethereum as ETH Outperforms Bitcoin",
       "url": "https://decrypt.co/376336/bitmine-81m-more-ethereum-eth-tops-bitcoin",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-08-24T15:43:36+00:00",
       "raw_text": "Bitmine Buys Another $81M in Ethereum as ETH Outperforms Bitcoin\n\nBitmine is about 187,000 Ethereum short of its 5% of supply target.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1536,
+        "t_plus_15m": -0.5659,
+        "t_plus_1h": -0.4182
+      }
     },
     {
       "event_id": "648df45a-269f-463b-8ec0-7db1fdf7513d",
@@ -44,10 +110,16 @@
       "url": "https://www.theblock.co/news/business/2026-08-24-strive-acquires-1110-bitcoin-for-81-5-million-as-total-holdings-reach-21356-btc-412604",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-24T15:39:14+00:00",
       "raw_text": "Strive acquires 1,110 bitcoin for $81.5 million as total holdings reach 21,356 BTC\n\nStrive purchased 1,110 bitcoin for $81.5 million, raising its total holdings to 21,356 BTC as the seventh-largest public company holder.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.572,
+        "t_plus_15m": -0.6162,
+        "t_plus_1h": -0.1498
+      }
     },
     {
       "event_id": "a011bfcc-67e2-493e-a682-5f1de6cf7a06",
@@ -56,10 +128,16 @@
       "url": "https://cointelegraph.com/news/bitmine-eth-holdings-5-percent-ether-price-breakout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-08-24T15:29:26+00:00",
       "raw_text": "Bitmine extends 14-month ETH buying pace as Ether breaks above $2.5K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitmine extends 14-month ETH buying pace as Ether breaks above $2.5K\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.6539,
+        "t_plus_15m": -0.2003,
+        "t_plus_1h": 0.0142
+      }
     },
     {
       "event_id": "7a438dd8-a79d-48f4-b375-1ade6ea73cc3",
@@ -75,7 +153,8 @@
       "raw_text": "Strategy Again Skips Bitcoin Buy And Establishes USD Cash Dollar Reserve\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time-in-Years-as-Bitcoin-Price-Tumbles.j",
       "impact": {
         "t_plus_5m": -0.3964,
-        "t_plus_15m": -0.1549
+        "t_plus_15m": -0.1549,
+        "t_plus_1h": -0.4157
       }
     },
     {
@@ -199,10 +278,14 @@
       "url": "https://cointelegraph.com/news/strategy-2-billion-raise-strc-136-million-bitcoin-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-24T12:45:00+00:00",
       "raw_text": "Strategy launches $1.6B cash pool after $2B common shares raise, maintains hold on BTC buys\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy launches $1.6B cash pool after $2B common shares raise, maintains hold on BTC buys \" class=\"type:primaryImage\" src=\"https://s3",
-      "impact": {}
+      "impact": {
+        "t_plus_4h": 0.7452
+      }
     },
     {
       "event_id": "fc248437-2490-4c37-84c3-b55e0e76be92",
@@ -6323,91 +6406,31 @@
       "timestamp_utc": "2026-08-15T13:01:04+00:00",
       "raw_text": "Trump-Linked World Liberty Gets Conditional Bank Charter for USD1 Stablecoin\n\nThe proposed World Liberty Trust Company would take over issuance of the USD1 stablecoin from BitGo.",
       "impact": {}
-    },
-    {
-      "event_id": "44594ac7-945a-4ded-963a-1120cf4c15c8",
-      "source": "rss:coindesk",
-      "title": "Clarity survives (barely), Strategy sells and the untold story of Mastercard's $1.8 billion deal: Crypto's week in 5 stories",
-      "url": "https://www.coindesk.com/business/2026/08/15/clarity-survives-barely-strategy-sells-and-the-untold-story-of-mastercard-s-usd1-8-billion-deal-crypto-s-week-in-5-stories",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-15T13:00:00+00:00",
-      "raw_text": "Clarity survives (barely), Strategy sells and the untold story of Mastercard's $1.8 billion deal: Crypto's week in 5 stories",
-      "impact": {}
-    },
-    {
-      "event_id": "e5c0590d-f8cf-4086-9aa3-806987936b29",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin could bottom in October, altcoins are ‘basically dead,’ Swan CEO says",
-      "url": "https://cointelegraph.com/markets/bitcoin-bottom-october-altcoins-basically-dead-swan-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-15T12:57:58+00:00",
-      "raw_text": "Bitcoin could bottom in October, altcoins are ‘basically dead,’ Swan CEO says\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin could bottom in October, altcoins are ‘basically dead,’ Swan CEO says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti",
-      "impact": {}
-    },
-    {
-      "event_id": "1d15cf38-b3ec-4135-9aa5-dc36c12acade",
-      "source": "rss:coindesk",
-      "title": "Wall Street's private blockchain obsession is a 'race to the bottom,' Ethereum advocate Raman warns",
-      "url": "https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-15T12:00:00+00:00",
-      "raw_text": "Wall Street's private blockchain obsession is a 'race to the bottom,' Ethereum advocate Raman warns",
-      "impact": {}
-    },
-    {
-      "event_id": "90c21352-5e04-4740-a515-f887e7eb9af7",
-      "source": "rss:cointelegraph",
-      "title": "Kalshi ordered to stop broad range of prediction markets in Washington",
-      "url": "https://cointelegraph.com/news/kalshi-stop-prediction-market-contracts-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-15T10:44:52+00:00",
-      "raw_text": "Kalshi ordered to stop broad range of prediction markets in Washington\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi ordered to stop broad range of prediction markets in Washington\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-",
-      "impact": {}
-    },
-    {
-      "event_id": "3ce608d1-4950-41e8-af59-02f5f947faab",
-      "source": "rss:cointelegraph",
-      "title": "Galaxy lowers CLARITY Act odds to 10%",
-      "url": "https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-15T08:40:59+00:00",
-      "raw_text": "Galaxy lowers CLARITY Act odds to 10%\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Galaxy lowers CLARITY Act odds to 10%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-us-senate-infrastructure-bill-doom-and-gloom-for-memecoin-trump.jp",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 141,
+        "avg_1h": -0.02,
+        "avg_24h": 2.08,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 117,
+        "count": 119,
         "avg_1h": 0.3,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 197,
-        "avg_1h": -0.02,
+        "count": 196,
+        "avg_1h": -0.03,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 142,
-        "avg_1h": -0.01,
-        "avg_24h": 2.08,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
         "count": 8,
-        "avg_1h": -0.04,
+        "avg_1h": -0.14,
         "avg_24h": 5.81,
         "win_rate_1h_gt5pct": 0.0
       },
