@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-24T05:49:29.347621+00:00",
+  "generated_at": "2026-08-24T07:15:48.088286+00:00",
   "events": [
+    {
+      "event_id": "fbcd9786-2c3f-468c-bd28-5a060b733ecd",
+      "source": "rss:cointelegraph",
+      "title": "Banks, regulators join quantum-resistant crypto transfer pilot",
+      "url": "https://cointelegraph.com/news/banks-regulators-quantum-resistant-crypto-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T05:51:29+00:00",
+      "raw_text": "Banks, regulators join quantum-resistant crypto transfer pilot\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Banks, regulators join quantum-resistant crypto transfer pilot\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-why-quantum-secu",
+      "impact": {}
+    },
     {
       "event_id": "3e9ef0cb-c8e3-4e7c-b9ce-ef13dbcfb013",
       "source": "rss:cointelegraph",
@@ -6369,24 +6381,18 @@
       "timestamp_utc": "2026-08-14T12:59:18+00:00",
       "raw_text": "Hyperscale Data sells 685 bitcoin for $43 million to fund Michigan data center\n\nHyperscale Data sold 685 bitcoin for approximately $43 million as it reduced debt and funded its Michigan AI data center.\n\nHyperscale Data sold 685 bitcoin for approximately $43 million as it reduced debt and funded its ",
       "impact": {}
-    },
-    {
-      "event_id": "00950eb6-9c1c-48d9-9537-6c66cfd688b3",
-      "source": "rss:decrypt",
-      "title": "Ireland’s New AML Strategy Brings ‘Enhanced Checks’ on Private Crypto Wallets",
-      "url": "https://decrypt.co/375628/irelands-new-aml-strategy-brings-enhanced-checks-on-private-crypto-wallets",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T12:38:39+00:00",
-      "raw_text": "Ireland’s New AML Strategy Brings ‘Enhanced Checks’ on Private Crypto Wallets\n\nThe country's first strategy of its kind also brings stricter due diligence for firms dealing with overseas crypto companies.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 124,
+        "avg_1h": 0.25,
+        "avg_24h": 0.47,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 193,
+        "count": 192,
         "avg_1h": -0.05,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
@@ -6401,12 +6407,6 @@
         "count": 135,
         "avg_1h": 0.04,
         "avg_24h": 1.66,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 123,
-        "avg_1h": 0.25,
-        "avg_24h": 0.47,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
