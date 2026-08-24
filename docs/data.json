@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-24T21:39:38.287155+00:00",
+  "generated_at": "2026-08-24T22:39:16.808194+00:00",
   "events": [
+    {
+      "event_id": "b48790a6-a8f1-45cf-8dde-724cf1c5c144",
+      "source": "rss:cointelegraph",
+      "title": "CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets",
+      "url": "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T21:33:13+00:00",
+      "raw_text": "CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets\" class=\"type:primaryImage\" src=",
+      "impact": {}
+    },
     {
       "event_id": "036faada-88f9-468a-978f-a078226ff24c",
       "source": "rss:decrypt",
@@ -256,7 +268,8 @@
       "impact": {
         "t_plus_5m": 0.2087,
         "t_plus_15m": -0.1316,
-        "t_plus_1h": -0.6307
+        "t_plus_1h": -0.6307,
+        "t_plus_4h": -0.3213
       }
     },
     {
@@ -380,6 +393,18 @@
         "t_plus_15m": -0.1549,
         "t_plus_1h": -0.4157
       }
+    },
+    {
+      "event_id": "593cf67a-9116-4818-941b-49d1349647f8",
+      "source": "rss:solana_official",
+      "title": "Solana Changelog: August 20, 2026",
+      "url": "https://solana.com/news/solana-changelog-august-20-2026",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T14:19:00+00:00",
+      "raw_text": "Solana Changelog: August 20, 2026\n\nFeature gates reduced mainnet slot times from 400ms to 350ms, while Agave, Firedancer, and Solana Kit shipped updates.",
+      "impact": {}
     },
     {
       "event_id": "3fe36621-5111-4ead-b572-b5f29fe79ccb",
@@ -6402,44 +6427,20 @@
       "timestamp_utc": "2026-08-16T14:02:32+00:00",
       "raw_text": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
       "impact": {}
-    },
-    {
-      "event_id": "1bb7dc16-6c20-474a-9da5-30ae8794f8c5",
-      "source": "rss:decrypt",
-      "title": "People Are Turning to AI for Mental Health, California Wants It Banned",
-      "url": "https://decrypt.co/375725/california-bill-ban-ai-chatbots-therapy-mental-health",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-16T14:01:03+00:00",
-      "raw_text": "People Are Turning to AI for Mental Health, California Wants It Banned\n\nA California bill is awaiting an Assembly vote to \"place guardrails\" around AI chatbots and prevent them from acting as therapists.",
-      "impact": {}
-    },
-    {
-      "event_id": "38c91627-0e4e-4984-be45-3365936e375a",
-      "source": "rss:coindesk",
-      "title": "MiCA's cleanup is creating a new scam wave across the European Union",
-      "url": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-16T14:00:00+00:00",
-      "raw_text": "MiCA's cleanup is creating a new scam wave across the European Union",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 198,
-        "avg_1h": -0.03,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 143,
+        "count": 144,
         "avg_1h": -0.04,
         "avg_24h": 2.08,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 197,
+        "avg_1h": -0.03,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
