@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-24T22:39:16.808194+00:00",
+  "generated_at": "2026-08-24T23:31:03.990145+00:00",
   "events": [
+    {
+      "event_id": "5c372e92-2526-454b-98dd-bb534548ca44",
+      "source": "rss:decrypt",
+      "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
+      "url": "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T22:16:04+00:00",
+      "raw_text": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It\n\nThe open-source AI hub is fielding buyout interest at nearly triple its 2023 valuation, weeks after a security breach and days after Stripe's OpenRouter deal reset the price of AI infrastructure.",
+      "impact": {}
+    },
     {
       "event_id": "b48790a6-a8f1-45cf-8dde-724cf1c5c144",
       "source": "rss:cointelegraph",
@@ -214,7 +226,8 @@
       "impact": {
         "t_plus_5m": -0.3527,
         "t_plus_15m": -0.1125,
-        "t_plus_1h": 0.0759
+        "t_plus_1h": 0.0759,
+        "t_plus_4h": 0.0649
       }
     },
     {
@@ -6415,22 +6428,16 @@
       "timestamp_utc": "2026-08-16T15:07:00+00:00",
       "raw_text": "Hackers exploited macOS Screen Sharing flaw to install Monero miners, Dutch cyber agency says\n\nU.S. officials rated the severity of the vulnerability a critical 9.8/10 on the CVSS scale, and experts are warning users to update their devices.",
       "impact": {}
-    },
-    {
-      "event_id": "8867dceb-d5d9-473d-b9ab-800a0e6c2462",
-      "source": "rss:coindesk",
-      "title": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
-      "url": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-16T14:02:32+00:00",
-      "raw_text": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 34,
+        "avg_1h": -0.12,
+        "avg_24h": 1.56,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 144,
         "avg_1h": -0.04,
@@ -6438,7 +6445,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 197,
+        "count": 196,
         "avg_1h": -0.03,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
@@ -6453,12 +6460,6 @@
         "count": 9,
         "avg_1h": -0.23,
         "avg_24h": 5.81,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 33,
-        "avg_1h": -0.12,
-        "avg_24h": 1.56,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
