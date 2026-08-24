@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-08-24T17:41:26.432956+00:00",
+  "generated_at": "2026-08-24T18:54:59.311460+00:00",
   "events": [
+    {
+      "event_id": "92037000-bfc6-4b94-9279-26b2f2236dce",
+      "source": "rss:decrypt",
+      "title": "Hyperliquid Hits Record High as $1.2 Billion Token Unlock Looms",
+      "url": "https://decrypt.co/376375/hypeliquid-price-record-high-token-unlock",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T18:30:27+00:00",
+      "raw_text": "Hyperliquid Hits Record High as $1.2 Billion Token Unlock Looms\n\nHyperliquid's token is riding a record into its largest remaining supply release.",
+      "impact": {}
+    },
+    {
+      "event_id": "dca315b8-95cd-4d69-a2d6-16825bd947f3",
+      "source": "rss:theblock",
+      "title": "Crypto exchange volumes double in five days as market activity rebounds",
+      "url": "https://www.theblock.co/news/markets/2026-08-24-crypto-exchange-volumes-double-in-five-days-as-market-activity-rebounds-412641",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T18:07:20+00:00",
+      "raw_text": "Crypto exchange volumes double in five days as market activity rebounds\n\nMonthly volume tells a similar story, with $490 billion traded so far in August compared to $670 billion in July.",
+      "impact": {}
+    },
+    {
+      "event_id": "7f7f6067-50c0-4ddd-a242-a048dc84ae7d",
+      "source": "rss:decrypt",
+      "title": "Zcash Hits Eight-Year High as Futures Bets Nearly Double",
+      "url": "https://decrypt.co/376372/zcash-eight-year-high-price-futures-bets",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T17:50:35+00:00",
+      "raw_text": "Zcash Hits Eight-Year High as Futures Bets Nearly Double\n\nZEC broke above $880 while open interest in perpetual futures climbed to $1.8 billion.",
+      "impact": {}
+    },
+    {
+      "event_id": "359c953a-e466-43e8-b0b2-89dd19e51e0a",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin price hits $80K as 24-hour crypto short liquidations pass $220M",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-hits-80k-as-24-hour-crypto-short-liquidations-pass-m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T17:48:44+00:00",
+      "raw_text": "Bitcoin price hits $80K as 24-hour crypto short liquidations pass $220M\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price hits $80K as 24-hour crypto short liquidations pass $220M\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/b",
+      "impact": {}
+    },
+    {
+      "event_id": "9f0b1113-1ac7-47ed-be70-e55b47a95680",
+      "source": "rss:coindesk",
+      "title": "Crypto political group details list of U.S. congressional allies its backing this year",
+      "url": "https://www.coindesk.com/policy/2026/08/24/crypto-political-group-details-list-of-u-s-congressional-allies-its-backing-this-year",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T17:30:10+00:00",
+      "raw_text": "Crypto political group details list of U.S. congressional allies its backing this year",
+      "impact": {}
+    },
     {
       "event_id": "d653dcf2-de89-4eb7-8c4f-82b30f360d31",
       "source": "rss:coindesk",
@@ -32,10 +92,15 @@
       "url": "https://cointelegraph.com/news/strive-buys-1110-bitcoin-for-815m-holdings-top-21k-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-24T16:44:55+00:00",
       "raw_text": "Strive buys 1,110 Bitcoin for $81.5M, holdings top 21K BTC; ASST shares surge 11%\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strive buys 1,110 Bitcoin for $81.5M, holdings top 21K BTC; ASST shares surge 11%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2087,
+        "t_plus_15m": -0.1316
+      }
     },
     {
       "event_id": "10a3f27b-4bc6-4d54-84e0-2033bc1f1218",
@@ -513,6 +578,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-24T08:16:29+00:00",
       "raw_text": "Jackson  Hole Symposium, U.S. PCE prices, IREN earnings: Crypto Week Ahead",
+      "impact": {}
+    },
+    {
+      "event_id": "0f4c033d-0f34-4965-b976-def3e5a412d5",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin retreats after nearing $80,000, with analysts eyeing breather after big run",
+      "url": "https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T08:05:57+00:00",
+      "raw_text": "Live updates: Bitcoin retreats after nearing $80,000, with analysts eyeing breather after big run",
       "impact": {}
     },
     {
@@ -6334,97 +6411,25 @@
       "timestamp_utc": "2026-08-15T15:21:15+00:00",
       "raw_text": "Why the world’s second-largest Bitcoin mining power is shutting down rigs in its capital city",
       "impact": {}
-    },
-    {
-      "event_id": "a22b56c3-855a-493d-90e2-37a370adee7e",
-      "source": "rss:theblock",
-      "title": "Trump, CFTC Chair Selig expected at Wednesday White House meeting with crypto and prediction market executives",
-      "url": "https://www.theblock.co/news/regulation/2026-08-15-trump-cftc-chair-selig-expected-at-wednesday-white-house-meeting-with-crypto-and-prediction-market-executives-411919",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-15T15:20:19+00:00",
-      "raw_text": "Trump, CFTC Chair Selig expected at Wednesday White House meeting with crypto and prediction market executives\n\nThe session is scheduled for 2:30 p.m. ET on Wednesday and is intended as a kickoff for the CFTC's first Innovation Advisory Committee meeting the next day.",
-      "impact": {}
-    },
-    {
-      "event_id": "c4c02fe5-4c98-4aff-b517-ed9877360755",
-      "source": "rss:coindesk",
-      "title": "Paul Tudor Jones’ investment firm increases stake in BlackRock's bitcoin ETF after year of selling",
-      "url": "https://www.coindesk.com/business/2026/08/15/paul-tudor-jones-investment-firm-increases-blackrock-s-bitcoin-etf-stake-after-year-of-selling",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-15T15:12:29+00:00",
-      "raw_text": "Paul Tudor Jones’ investment firm increases stake in BlackRock's bitcoin ETF after year of selling",
-      "impact": {}
-    },
-    {
-      "event_id": "f9e87797-2a4f-471d-85a2-2ad538eefd18",
-      "source": "rss:decrypt",
-      "title": "Meta Patents Cameras That Recognize Faces and Log Your Actions",
-      "url": "https://decrypt.co/375698/meta-patents-cameras-recognize-faces-log-actions",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-15T15:01:05+00:00",
-      "raw_text": "Meta Patents Cameras That Recognize Faces and Log Your Actions\n\nThe filing would turn raw footage into labeled clips of who did what, without anyone opting in.",
-      "impact": {}
-    },
-    {
-      "event_id": "7ea7cf5c-4338-4ba3-aeb6-dc4f0ad1435c",
-      "source": "rss:coindesk",
-      "title": "The $11.2 billion in 2026 funding that killed crypto’s permissionless era",
-      "url": "https://www.coindesk.com/business/2026/08/15/the-usd11-2-billion-in-2026-funding-that-killed-crypto-s-permissionless-era",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-15T14:00:00+00:00",
-      "raw_text": "The $11.2 billion in 2026 funding that killed crypto’s permissionless era",
-      "impact": {}
-    },
-    {
-      "event_id": "80ab5771-2ec0-4ff0-b613-4db2c83940d8",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen",
-      "url": "https://cointelegraph.com/magazine/bitcoin-1m-by-2030-is-mathematically-impossible-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-15T13:30:00+00:00",
-      "raw_text": "Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cov",
-      "impact": {}
-    },
-    {
-      "event_id": "172d45be-a0c6-4537-ab72-b7a4e2a31b60",
-      "source": "rss:decrypt",
-      "title": "Trump-Linked World Liberty Gets Conditional Bank Charter for USD1 Stablecoin",
-      "url": "https://decrypt.co/375726/trump-world-liberty-bank-charter-usd1-stablecoin",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-15T13:01:04+00:00",
-      "raw_text": "Trump-Linked World Liberty Gets Conditional Bank Charter for USD1 Stablecoin\n\nThe proposed World Liberty Trust Company would take over issuance of the USD1 stablecoin from BitGo.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 141,
+        "count": 143,
         "avg_1h": -0.02,
         "avg_24h": 2.08,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 119,
-        "avg_1h": 0.3,
+      "unknown": {
+        "count": 195,
+        "avg_1h": -0.03,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 196,
-        "avg_1h": -0.03,
+      "macro": {
+        "count": 118,
+        "avg_1h": 0.3,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
