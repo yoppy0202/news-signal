@@ -1,6 +1,102 @@
 {
-  "generated_at": "2026-08-24T10:49:31.168791+00:00",
+  "generated_at": "2026-08-24T11:38:49.649082+00:00",
   "events": [
+    {
+      "event_id": "c9795324-16d9-4113-83ca-b16fcc2694b9",
+      "source": "rss:coindesk",
+      "title": "Pakistan kicks off crypto licensing regime with Sept. 5 registration deadline",
+      "url": "https://www.coindesk.com/policy/2026/08/24/pakistan-kicks-off-crypto-licensing-regime-with-sept-5-registration-deadline",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T11:19:16+00:00",
+      "raw_text": "Pakistan kicks off crypto licensing regime with Sept. 5 registration deadline",
+      "impact": {}
+    },
+    {
+      "event_id": "340109f4-3c1d-4de6-9567-81399b21e31c",
+      "source": "rss:coindesk",
+      "title": "Financial repression: The new buzzword for bitcoin bulls",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/24/financial-repression-the-new-buzzword-for-bitcoin-bulls",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T11:15:00+00:00",
+      "raw_text": "Financial repression: The new buzzword for bitcoin bulls",
+      "impact": {}
+    },
+    {
+      "event_id": "fa110e5d-62d8-4c9d-aea4-78f771056bc0",
+      "source": "rss:coindesk",
+      "title": "Gemini strikes Apex deal to widen prediction markets reach",
+      "url": "https://www.coindesk.com/business/2026/08/24/gemini-strikes-apex-deal-to-widen-prediction-markets-reach",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T10:55:00+00:00",
+      "raw_text": "Gemini strikes Apex deal to widen prediction markets reach",
+      "impact": {}
+    },
+    {
+      "event_id": "356fe923-1edb-4695-ae35-576090f40a90",
+      "source": "rss:decrypt",
+      "title": "Bitcoin's Next Test Is $80,000 as Jackson Hole Meeting Looms",
+      "url": "https://decrypt.co/376315/bitcoins-next-test-is-80000-as-jackson-hole-meeting-looms",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T10:49:00+00:00",
+      "raw_text": "Bitcoin's Next Test Is $80,000 as Jackson Hole Meeting Looms\n\nKevin Warsh gives his first Jackson Hole keynote as Fed chair on Friday, with futures now pricing a September rate hike at 36%.",
+      "impact": {}
+    },
+    {
+      "event_id": "a00f9966-24ac-49fb-916b-dcb3d7ccaf04",
+      "source": "rss:coindesk",
+      "title": "Bitcoin steadies near $78,000 as gold rallies, altcoins consolidate after best week in 3 years",
+      "url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-steadies-near-usd78-000-as-gold-rallies-altcoins-consolidate-after-best-week-in-3-years",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T10:41:46+00:00",
+      "raw_text": "Bitcoin steadies near $78,000 as gold rallies, altcoins consolidate after best week in 3 years",
+      "impact": {}
+    },
+    {
+      "event_id": "e01eb199-7114-4c1b-8c34-977ad7bf07f9",
+      "source": "rss:cointelegraph",
+      "title": "Germany widens MiCA lead as latest EU register update adds 6 banks",
+      "url": "https://cointelegraph.com/news/germany-mica-lead-licensing-update-6-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T10:41:34+00:00",
+      "raw_text": "Germany widens MiCA lead as latest EU register update adds 6 banks\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Germany widens MiCA lead as latest EU register update adds 6 banks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-cry",
+      "impact": {}
+    },
+    {
+      "event_id": "bdada2a7-dcdf-46bb-9e4c-ec3a959aca67",
+      "source": "rss:theblock",
+      "title": "Bernstein says Circle’s growth cycle can continue without the Clarity Act, sees 59% upside",
+      "url": "https://www.theblock.co/news/business/2026-08-24-bernstein-says-circles-growth-cycle-can-continue-without-the-clarity-act-sees-59-upside-412573",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T10:08:38+00:00",
+      "raw_text": "Bernstein says Circle’s growth cycle can continue without the Clarity Act, sees 59% upside\n\nBernstein says Circle can sustain growth without the Clarity Act as USDC supply rebounds and stablecoin volumes continue expanding.",
+      "impact": {}
+    },
+    {
+      "event_id": "7ccb5478-fd3d-43b6-8e17-7f896a212e97",
+      "source": "rss:coindesk",
+      "title": "Fed experiment shows how bitcoin rallies attract new crypto buyers",
+      "url": "https://www.coindesk.com/markets/2026/08/24/fed-experiment-shows-how-bitcoin-rallies-attract-new-crypto-buyers",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T09:56:17+00:00",
+      "raw_text": "Fed experiment shows how bitcoin rallies attract new crypto buyers",
+      "impact": {}
+    },
     {
       "event_id": "42e3d805-633b-4154-abcf-7a29e78f6e32",
       "source": "rss:cointelegraph",
@@ -6267,123 +6363,19 @@
         "t_plus_4h": -0.2165,
         "t_plus_24h": -0.0141
       }
-    },
-    {
-      "event_id": "ce6f8e1b-4de3-4788-b9f5-cc3c6cf49ee9",
-      "source": "rss:theblock",
-      "title": "Binance to block transactions with HTX, 10 other exchanges under EU Russia sanctions",
-      "url": "https://www.theblock.co/news/regulation/2026-08-14-binance-block-transactions-htx-10-other-exchanges-eu-russia-sanctions-411858",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T15:43:26+00:00",
-      "raw_text": "Binance to block transactions with HTX, 10 other exchanges under EU Russia sanctions\n\nBinance said it will no longer process transactions from 16 exchanges, including five already blocked, citing regulatory compliance needs.\n\nBinance said it will no longer process transactions from 16 exchanges, inc",
-      "impact": {}
-    },
-    {
-      "event_id": "5c290e2f-0227-4998-a3f4-03057d129cad",
-      "source": "rss:cointelegraph",
-      "title": "Israel’s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading",
-      "url": "https://cointelegraph.com/news/israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T15:41:49+00:00",
-      "raw_text": "Israel’s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Israel’s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
-      "impact": {}
-    },
-    {
-      "event_id": "0577877d-15f2-46e4-adb7-90d839a59495",
-      "source": "rss:cointelegraph",
-      "title": "Crypto Biz: Bitcoin’s $116M self-custody wake-up call",
-      "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-self-custody-etf-inflows-strategy-riot-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-14T15:29:13+00:00",
-      "raw_text": "Crypto Biz: Bitcoin’s $116M self-custody wake-up call\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: Bitcoin’s $116M self-custody wake-up call\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/coma-crypto-market-falling-bitcoin-1.",
-      "impact": {
-        "t_plus_5m": -0.3623,
-        "t_plus_15m": -0.2035,
-        "t_plus_1h": 0.005,
-        "t_plus_4h": -0.3016,
-        "t_plus_24h": -0.1084
-      }
-    },
-    {
-      "event_id": "2b7a05c6-5780-4fdf-b45f-8ce02ce341b8",
-      "source": "rss:theblock",
-      "title": "Ethena treasury company StablecoinX shares jump 12% after revealing 20% stake in ENA supply",
-      "url": "https://www.theblock.co/news/business/2026-08-14-ethena-treasury-company-stablecoinx-shares-jump-12-revealing-20-stake-ena-supply-411845",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T15:17:03+00:00",
-      "raw_text": "Ethena treasury company StablecoinX shares jump 12% after revealing 20% stake in ENA supply\n\nStablecoinX shares surged after the Ethena treasury firm revealed it holds 20% of ENA’s total supply.\n\nStablecoinX shares surged after the Ethena treasury firm revealed it holds 20% of ENA’s total supply.",
-      "impact": {}
-    },
-    {
-      "event_id": "a1827010-1a54-4400-9ac8-61c3c0e0094a",
-      "source": "rss:bitcoinmagazine",
-      "title": "Israeli Bank Leumi to Debut Bitcoin Trading With Galaxy Digital",
-      "url": "https://bitcoinmagazine.com/news/israel-bank-leumi-to-debut-bitcoin-trading",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T15:03:41+00:00",
-      "raw_text": "Israeli Bank Leumi to Debut Bitcoin Trading With Galaxy Digital\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Israeli-Bank-Leumi-to-Debut-Bitcoin-Trading.jpg\" style=\"display: block; margin: 1em aut",
-      "impact": {}
-    },
-    {
-      "event_id": "631be752-7f2a-4ee9-b4e5-0f8c0f4612b6",
-      "source": "rss:decrypt",
-      "title": "Fake LinkedIn Crypto Job Scams Have Cost $11.8M: Singapore",
-      "url": "https://decrypt.co/375653/fake-linkedin-crypto-job-scams-have-cost-11-8m-singapore",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T14:55:29+00:00",
-      "raw_text": "Fake LinkedIn Crypto Job Scams Have Cost $11.8M: Singapore\n\nMalware planted during a bogus coding assessment harvested a session token, bypassing multi-factor authentication to reach a code repository.",
-      "impact": {}
-    },
-    {
-      "event_id": "d721d32b-fa29-4646-ad36-c5e6179fbb61",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin price drops to $62.5K as trader warns weekly close may spark more losses",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-drops-trader-warns-weekly-close-may-spark-more-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T14:38:27+00:00",
-      "raw_text": "Bitcoin price drops to $62.5K as trader warns weekly close may spark more losses\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price drops to $62.5K as trader warns weekly close may spark more losses\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
-      "impact": {}
-    },
-    {
-      "event_id": "c83f1cfa-638d-4f0f-aa4f-e71f2519de51",
-      "source": "rss:cointelegraph",
-      "title": "Morgan Stanley’s BlackRock Bitcoin ETF holdings rise 23% in Q2",
-      "url": "https://cointelegraph.com/news/morgan-stanley-buys-blackrock-bitcoin-etf-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T14:22:57+00:00",
-      "raw_text": "Morgan Stanley’s BlackRock Bitcoin ETF holdings rise 23% in Q2\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Morgan Stanley’s BlackRock Bitcoin ETF holdings rise 23% in Q2\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-central-bank-iss",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 124,
-        "avg_1h": 0.3,
+      "unknown": {
+        "count": 193,
+        "avg_1h": -0.03,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 192,
-        "avg_1h": -0.03,
+      "macro": {
+        "count": 124,
+        "avg_1h": 0.3,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6394,9 +6386,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 39,
-        "avg_1h": -0.09,
-        "avg_24h": 1.0,
+        "count": 38,
+        "avg_1h": -0.12,
+        "avg_24h": 1.56,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
