@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-24T03:13:00.896356+00:00",
+  "generated_at": "2026-08-24T04:57:04.174087+00:00",
   "events": [
+    {
+      "event_id": "bfe70006-283c-43a4-aa14-cdb3fed3f7e6",
+      "source": "rss:coindesk",
+      "title": "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
+      "url": "https://www.coindesk.com/business/2026/08/22/stablecoin-neobank-fasset-lands-usd1-billion-valuation-as-sbi-backs-its-payments-push",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T04:45:00+00:00",
+      "raw_text": "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
+      "impact": {}
+    },
+    {
+      "event_id": "153d3e0a-d95f-4f57-8ec9-2ffd0cb2568d",
+      "source": "rss:coindesk",
+      "title": "Crypto holds big weekly rally as Warsh’s Jackson Hole debut comes into focus",
+      "url": "https://www.coindesk.com/markets/2026/08/24/crypto-holds-big-weekly-rally-as-warsh-s-jackson-hole-debut-comes-into-focus",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T04:41:28+00:00",
+      "raw_text": "Crypto holds big weekly rally as Warsh’s Jackson Hole debut comes into focus",
+      "impact": {}
+    },
+    {
+      "event_id": "a159519c-32d6-44de-a9cf-4b4d68c2f643",
+      "source": "rss:cointelegraph",
+      "title": "Term Finance loses estimated $8.5M in vault governance exploit",
+      "url": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T03:59:29+00:00",
+      "raw_text": "Term Finance loses estimated $8.5M in vault governance exploit\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Term Finance loses estimated $8.5M in vault governance exploit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-scammers-exp",
+      "impact": {}
+    },
+    {
+      "event_id": "ec590b31-974c-44f2-9077-9b144754450c",
+      "source": "rss:theblock",
+      "title": "Bitcoin records largest weekly dollar gain in history; Strive CEO predicts ‘strongest’ cycle ever",
+      "url": "https://www.theblock.co/news/markets/2026-08-23-bitcoin-record-weekly-dollar-gain-412547",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T03:52:31+00:00",
+      "raw_text": "Bitcoin records largest weekly dollar gain in history; Strive CEO predicts ‘strongest’ cycle ever\n\nStrive CEO said the next bitcoin cycle will be the strongest ever, citing its strong performance against both the dollar and gold.",
+      "impact": {}
+    },
     {
       "event_id": "823cddc9-0c30-4534-9b88-006530dc9a88",
       "source": "rss:cointelegraph",
@@ -6333,80 +6381,32 @@
       "timestamp_utc": "2026-08-14T12:02:08+00:00",
       "raw_text": "Gemini posts $108M Q2 net loss despite 37% revenue growth\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Gemini posts $108M Q2 net loss despite 37% revenue growth\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-libra-vs-gemini-as-us-regu",
       "impact": {}
-    },
-    {
-      "event_id": "6f254d8b-c06b-4847-9867-de696baa867a",
-      "source": "rss:decrypt",
-      "title": "Morning Minute: Tether Finally Gets An Audit",
-      "url": "https://decrypt.co/375625/morning-minute-tether-finally-gets-an-audit",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T11:45:39+00:00",
-      "raw_text": "Morning Minute: Tether Finally Gets An Audit\n\nIt seems Tether passed, putting an end to the longest-running open criticism of the leading stablecoin company.",
-      "impact": {}
-    },
-    {
-      "event_id": "8a076103-da1b-441e-a260-2f5d8a324f85",
-      "source": "rss:coindesk",
-      "title": "Fear is fading across markets, be it bitcoin, stocks, gold or bonds",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/14/volatility-exits-crypto-tradfi-markets-even-as-u-s-iran-risks-linger-sovereign-debt-rises",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T11:33:50+00:00",
-      "raw_text": "Fear is fading across markets, be it bitcoin, stocks, gold or bonds",
-      "impact": {}
-    },
-    {
-      "event_id": "1d0cb661-81ac-44f8-81e9-0ba64d5cab8e",
-      "source": "rss:coindesk",
-      "title": "Volatility exits crypto, TradFi markets even as U.S.-Iran risks linger, sovereign debt rises",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/14/volatility-exits-crypto-tradfi-markets-even-as-u-s-iran-risks-linger-sovereign-debt-rises",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T11:33:50+00:00",
-      "raw_text": "Volatility exits crypto, TradFi markets even as U.S.-Iran risks linger, sovereign debt rises",
-      "impact": {}
-    },
-    {
-      "event_id": "3677b177-1e18-4ee3-b865-763a2cb81752",
-      "source": "rss:cointelegraph",
-      "title": "Shinhan Asset Management partners with Plume on tokenized fund pilot",
-      "url": "https://cointelegraph.com/news/shinhan-partners-plume-tokenized-fund-experiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T11:23:28+00:00",
-      "raw_text": "Shinhan Asset Management partners with Plume on tokenized fund pilot\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Shinhan Asset Management partners with Plume on tokenized fund pilot\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/south-k",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 193,
+        "count": 191,
         "avg_1h": -0.05,
         "avg_24h": 0.14,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 37,
+        "count": 38,
         "avg_1h": -0.09,
         "avg_24h": 1.0,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 136,
+        "avg_1h": 0.04,
+        "avg_24h": 1.66,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
         "count": 124,
         "avg_1h": 0.25,
         "avg_24h": 0.47,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 135,
-        "avg_1h": 0.04,
-        "avg_24h": 1.66,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
