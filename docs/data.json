@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-08-24T15:51:11.966756+00:00",
+  "generated_at": "2026-08-24T16:51:39.553356+00:00",
   "events": [
+    {
+      "event_id": "10a3f27b-4bc6-4d54-84e0-2033bc1f1218",
+      "source": "rss:bitcoinmagazine",
+      "title": "Bitcoin Rally Accelerates, With $80,000 in Sight After ETFs Have Stellar Week",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-nears-80000-after-etf-action",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T16:18:56+00:00",
+      "raw_text": "Bitcoin Rally Accelerates, With $80,000 in Sight After ETFs Have Stellar Week\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Pics.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"htt",
+      "impact": {}
+    },
+    {
+      "event_id": "ac5277e6-b2b4-47bf-ba46-9065f2beaf74",
+      "source": "rss:cointelegraph",
+      "title": "Crypto advocacy groups oppose Illinois digital asset tax in court",
+      "url": "https://cointelegraph.com/news/cryptocurrency-organizations-oppose-illinois-digital-asset-tax-court?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T16:05:48+00:00",
+      "raw_text": "Crypto advocacy groups oppose Illinois digital asset tax in court\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto advocacy groups oppose Illinois digital asset tax in court\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/year-of-crypt",
+      "impact": {}
+    },
+    {
+      "event_id": "bc8b90d8-efdf-405a-9874-1c94fd23b0c1",
+      "source": "rss:decrypt",
+      "title": "Bitmine Buys Another $81M in Ethereum as ETH Outperforms Bitcoin",
+      "url": "https://decrypt.co/376336/bitmine-81m-more-ethereum-eth-tops-bitcoin",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T15:43:36+00:00",
+      "raw_text": "Bitmine Buys Another $81M in Ethereum as ETH Outperforms Bitcoin\n\nBitmine is about 187,000 Ethereum short of its 5% of supply target.",
+      "impact": {}
+    },
+    {
+      "event_id": "648df45a-269f-463b-8ec0-7db1fdf7513d",
+      "source": "rss:theblock",
+      "title": "Strive acquires 1,110 bitcoin for $81.5 million as total holdings reach 21,356 BTC",
+      "url": "https://www.theblock.co/news/business/2026-08-24-strive-acquires-1110-bitcoin-for-81-5-million-as-total-holdings-reach-21356-btc-412604",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T15:39:14+00:00",
+      "raw_text": "Strive acquires 1,110 bitcoin for $81.5 million as total holdings reach 21,356 BTC\n\nStrive purchased 1,110 bitcoin for $81.5 million, raising its total holdings to 21,356 BTC as the seventh-largest public company holder.",
+      "impact": {}
+    },
+    {
+      "event_id": "a011bfcc-67e2-493e-a682-5f1de6cf7a06",
+      "source": "rss:cointelegraph",
+      "title": "Bitmine extends 14-month ETH buying pace as Ether breaks above $2.5K",
+      "url": "https://cointelegraph.com/news/bitmine-eth-holdings-5-percent-ether-price-breakout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-24T15:29:26+00:00",
+      "raw_text": "Bitmine extends 14-month ETH buying pace as Ether breaks above $2.5K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitmine extends 14-month ETH buying pace as Ether breaks above $2.5K\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-",
+      "impact": {}
+    },
     {
       "event_id": "7a438dd8-a79d-48f4-b375-1ade6ea73cc3",
       "source": "rss:bitcoinmagazine",
@@ -8,10 +68,15 @@
       "url": "https://bitcoinmagazine.com/news/strategy-establishes-new-usd-cash-reserve",
       "event_type": "listing",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-24T14:48:17+00:00",
       "raw_text": "Strategy Again Skips Bitcoin Buy And Establishes USD Cash Dollar Reserve\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time-in-Years-as-Bitcoin-Price-Tumbles.j",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.3964,
+        "t_plus_15m": -0.1549
+      }
     },
     {
       "event_id": "3fe36621-5111-4ead-b572-b5f29fe79ccb",
@@ -6318,92 +6383,32 @@
       "timestamp_utc": "2026-08-15T08:40:59+00:00",
       "raw_text": "Galaxy lowers CLARITY Act odds to 10%\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Galaxy lowers CLARITY Act odds to 10%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-us-senate-infrastructure-bill-doom-and-gloom-for-memecoin-trump.jp",
       "impact": {}
-    },
-    {
-      "event_id": "8a7fd53f-2fd7-4ace-b678-eeda5787efd2",
-      "source": "rss:coindesk",
-      "title": "Trump expected to attend White House meeting with crypto CEOs, sources say",
-      "url": "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T23:41:49+00:00",
-      "raw_text": "Trump expected to attend White House meeting with crypto CEOs, sources say",
-      "impact": {}
-    },
-    {
-      "event_id": "fe7e0b96-a252-4237-9da5-1dbf21e5dde8",
-      "source": "rss:bitcoinmagazine",
-      "title": "Edelman Financial, Tudor Investment Reveal Significant Bitcoin Holdings",
-      "url": "https://bitcoinmagazine.com/news/edelman-financial-reveals-bitcoin-positio",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T22:18:16+00:00",
-      "raw_text": "Edelman Financial, Tudor Investment Reveal Significant Bitcoin Holdings\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Edelman-Financial-Tudor-Investment-Reveal-Significant-Bitcoin-Holdings.jpg\" sty",
-      "impact": {}
-    },
-    {
-      "event_id": "a373c659-d5d5-48c0-87b6-f3307e8b0e00",
-      "source": "rss:cointelegraph",
-      "title": "Gen Z favors ETFs and trades less than older cohorts: Binance",
-      "url": "https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T21:22:23+00:00",
-      "raw_text": "Gen Z favors ETFs and trades less than older cohorts: Binance\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Gen Z favors ETFs and trades less than older cohorts: Binance\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-cryptocurrency-can",
-      "impact": {}
-    },
-    {
-      "event_id": "b745a6d3-2da9-4c28-a96f-105a10acde78",
-      "source": "rss:theblock",
-      "title": "OCC grants conditional approval for Trump-backed World Liberty National Trust bank",
-      "url": "https://www.theblock.co/news/regulation/2026-08-14-occ-grants-conditional-approval-trump-world-liberty-national-trust-bank-411906",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T21:19:39+00:00",
-      "raw_text": "OCC grants conditional approval for Trump-backed World Liberty National Trust bank\n\nPresident Donald Trump-backed World Liberty Financial secured preliminary approval to become a national trust bank on Friday.",
-      "impact": {}
-    },
-    {
-      "event_id": "80a02526-b91f-4a9e-a4f7-b19ffa8f8d6b",
-      "source": "rss:bitcoinmagazine",
-      "title": "Abu Dhabi Sovereign Wealth Funds Keep Big Bitcoin Positions",
-      "url": "https://bitcoinmagazine.com/news/abu-dhabi-funds-keep-big-bitcoin-positions",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-14T21:17:12+00:00",
-      "raw_text": "Abu Dhabi Sovereign Wealth Funds Keep Big Bitcoin Positions\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Abu-Dhabis-Mubadala-Raises-Bitcoin-ETF-Stake-16-to-566-Million-in-Q1-2026.jpg\" style=\"displ",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "listing": {
-        "count": 8,
-        "avg_1h": -0.04,
-        "avg_24h": 5.81,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 120,
+        "count": 117,
         "avg_1h": 0.3,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 195,
+        "count": 197,
         "avg_1h": -0.02,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 141,
+        "count": 142,
         "avg_1h": -0.01,
         "avg_24h": 2.08,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "listing": {
+        "count": 8,
+        "avg_1h": -0.04,
+        "avg_24h": 5.81,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
