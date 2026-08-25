@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-25T13:07:09.921138+00:00",
+  "generated_at": "2026-08-25T13:59:33.782063+00:00",
   "events": [
+    {
+      "event_id": "a8479227-941b-4ee7-a237-62721011db51",
+      "source": "rss:cointelegraph",
+      "title": "Chainalysis-led operation flags 7,700 accounts in child abuse probe",
+      "url": "https://cointelegraph.com/news/chainalysis-operation-lighthouse-flags-7700-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T13:00:00+00:00",
+      "raw_text": "Chainalysis-led operation flags 7,700 accounts in child abuse probe\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Chainalysis-led operation flags 7,700 accounts in child abuse probe \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/magnifie",
+      "impact": {}
+    },
+    {
+      "event_id": "31c98764-3d8d-4460-9b9e-cccdd2c49859",
+      "source": "rss:coindesk",
+      "title": "Chainalysis-run sting targets child exploitation networks with aid of Binance, Coinbase",
+      "url": "https://www.coindesk.com/policy/2026/08/24/chainalysis-run-sting-targets-child-exploitation-networks-with-aid-of-binance-coinbase",
+      "event_type": "hack",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T13:00:00+00:00",
+      "raw_text": "Chainalysis-run sting targets child exploitation networks with aid of Binance, Coinbase",
+      "impact": {}
+    },
+    {
+      "event_id": "268471a5-53ec-4d6e-81fb-32b708cc01d6",
+      "source": "rss:coindesk",
+      "title": "MiCA revolutionised European crypto, and left Poland licking its wounds",
+      "url": "https://www.coindesk.com/opinion/2026/08/24/mica-revolutionised-european-crypto-and-left-poland-licking-its-wounds",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T13:00:00+00:00",
+      "raw_text": "MiCA revolutionised European crypto, and left Poland licking its wounds",
+      "impact": {}
+    },
     {
       "event_id": "2150e68c-83a0-4b46-a288-748e43149c52",
       "source": "rss:cointelegraph",
@@ -35,6 +71,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-25T12:01:03+00:00",
       "raw_text": "Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cryptocurrency\n\nThe fund gives brokerage investors exposure to ZEC as Grayscale bets on demand for crypto assets beyond Bitcoin and Ethereum.",
+      "impact": {}
+    },
+    {
+      "event_id": "0ee0a849-9e0e-4066-8785-943ee9b41583",
+      "source": "rss:theblock",
+      "title": "Grayscale debuts first Zcash ETF of its kind as privacy coin surges",
+      "url": "https://www.theblock.co/news/regulation/2026-08-25-grayscale-debuts-zcash-etf-412654",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T12:00:00+00:00",
+      "raw_text": "Grayscale debuts first Zcash ETF of its kind as privacy coin surges\n\nOn Tuesday morning, Grayscale launched the first ETF to offer direct exposure to Zcash, the privacy-focused cryptocurrency.",
       "impact": {}
     },
     {
@@ -220,7 +268,8 @@
       "impact": {
         "t_plus_5m": 0.1225,
         "t_plus_15m": 0.1057,
-        "t_plus_1h": -0.0963
+        "t_plus_1h": -0.0963,
+        "t_plus_4h": -1.1551
       }
     },
     {
@@ -6375,86 +6424,32 @@
       "timestamp_utc": "2026-08-17T13:03:17+00:00",
       "raw_text": "Morning Minute: Trump To Meet Crypto, Prediction Market CEOs This Week\n\nThe meeting comes while progress on the Clarity Act has been delayed and the SEC's latest rulemaking postponed.",
       "impact": {}
-    },
-    {
-      "event_id": "2487119d-3f95-4eaf-b54a-8ae69dfe6e37",
-      "source": "rss:theblock",
-      "title": "Austria’s FMA fines crypto broker Bitpanda $81,000 in first published MiCA penalty",
-      "url": "https://www.theblock.co/news/regulation/2026-08-17-austria-mica-penalty-bitpanda-411960",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T13:03:16+00:00",
-      "raw_text": "Austria’s FMA fines crypto broker Bitpanda $81,000 in first published MiCA penalty\n\nAustria's FMA fined Bitpanda €70,000 in its first published MiCA penalty, citing white paper and marketing disclosure failures.",
-      "impact": {}
-    },
-    {
-      "event_id": "e8b2196d-966d-4f39-ae30-a350a6b91dac",
-      "source": "rss:decrypt",
-      "title": "Strategy Leaves Bitcoin Untouched, Raises $334M Selling MSTR Stock",
-      "url": "https://decrypt.co/375762/strategy-leaves-bitcoin-untouched-raises-334m-selling-mstr-stock",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-17T12:56:55+00:00",
-      "raw_text": "Strategy Leaves Bitcoin Untouched, Raises $334M Selling MSTR Stock\n\nThe Bitcoin treasury firm halted BTC sales after three weeks, with equity issuance covering dividends, a STRC buyback and the dollar reserve.",
-      "impact": {
-        "t_plus_5m": 0.1321,
-        "t_plus_15m": 0.1245,
-        "t_plus_1h": 0.2568
-      }
-    },
-    {
-      "event_id": "a023652e-6793-4260-a37c-e98e4ca6a771",
-      "source": "rss:cointelegraph",
-      "title": "Strategy raises $334M through stock sales but buys no Bitcoin",
-      "url": "https://cointelegraph.com/news/strategy-stock-sales-buys-no-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T12:51:03+00:00",
-      "raw_text": "Strategy raises $334M through stock sales but buys no Bitcoin\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy raises $334M through stock sales but buys no Bitcoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-michael-saylor",
-      "impact": {}
-    },
-    {
-      "event_id": "636f9168-0bc4-492d-bc67-1448a4797685",
-      "source": "rss:cointelegraph",
-      "title": "Harmony plans rollback, wiping 109,000 transactions after ONE exploit",
-      "url": "https://cointelegraph.com/news/harmony-plans-rollback-transactions-one-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T12:31:36+00:00",
-      "raw_text": "Harmony plans rollback, wiping 109,000 transactions after ONE exploit\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Harmony plans rollback, wiping 109,000 transactions after ONE exploit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/piece",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 189,
-        "avg_1h": -0.03,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 144,
-        "avg_1h": -0.04,
+        "count": 142,
+        "avg_1h": -0.06,
         "avg_24h": 2.08,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 122,
-        "avg_1h": 0.25,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
         "count": 34,
         "avg_1h": -0.11,
         "avg_24h": 1.56,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 190,
+        "avg_1h": -0.03,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 123,
+        "avg_1h": 0.25,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
