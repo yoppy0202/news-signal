@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-25T14:58:59.003024+00:00",
+  "generated_at": "2026-08-25T15:54:56.055810+00:00",
   "events": [
+    {
+      "event_id": "a86117e3-5600-4373-8a8d-88e2ecfab36c",
+      "source": "rss:bitcoinmagazine",
+      "title": "Bitcoin Tops $81,000 — Is the Debasement Trade Back?",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-surges-is-debasement-trade-back",
+      "event_type": "whale_move",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T15:14:28+00:00",
+      "raw_text": "Bitcoin Tops $81,000 — Is the Debasement Trade Back?\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Pics-1.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.co",
+      "impact": {}
+    },
+    {
+      "event_id": "a9a4f1c5-90e1-4a6c-b28c-fd412b874b58",
+      "source": "rss:decrypt",
+      "title": "Crypto Fund Founder Convicted of Fraud Over Fake Trading Bot",
+      "url": "https://decrypt.co/376441/crypto-fund-founder-convicted-of-fraud-over-fake-trading-bot",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T14:56:10+00:00",
+      "raw_text": "Crypto Fund Founder Convicted of Fraud Over Fake Trading Bot\n\nJapheth Dillman told investors that Block Bits Capital's \"Autotrader\" software was finished and running, and took nearly $1 million.",
+      "impact": {}
+    },
+    {
+      "event_id": "aad5b2f8-1132-41c1-921c-087c595d720a",
+      "source": "rss:coindesk",
+      "title": "Bitwise turns Coinbase's tokenized stocks into automated AI, robotics and tech portfolios",
+      "url": "https://www.coindesk.com/business/2026/08/25/bitwise-turns-coinbase-s-tokenized-stocks-into-automated-ai-robotics-and-tech-portfolios",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T14:50:22+00:00",
+      "raw_text": "Bitwise turns Coinbase's tokenized stocks into automated AI, robotics and tech portfolios",
+      "impact": {}
+    },
+    {
+      "event_id": "ccff111e-77e5-4ae4-98d9-3f3f36412797",
+      "source": "rss:theblock",
+      "title": "Bitwise launches automated tokenized stock portfolios for Mag 7, AI and robotics themes",
+      "url": "https://www.theblock.co/news/business/2026-08-25-bitwise-launches-automated-tokenized-stock-portfolios-for-mag-7-ai-and-robotics-themes-412706",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T14:16:26+00:00",
+      "raw_text": "Bitwise launches automated tokenized stock portfolios for Mag 7, AI and robotics themes\n\nThe portfolios, powered by Coinbase and implemented through Glider, will initially target themes including the Mag 7 and AI.",
+      "impact": {}
+    },
     {
       "event_id": "e578581f-f7ad-4931-82fe-6d81f1bf1ed6",
       "source": "rss:decrypt",
@@ -11,6 +59,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-25T14:10:05+00:00",
       "raw_text": "Dozens of Fake Firefox Wallet Extensions Linked to Crypto-Stealing Malware\n\nForty are confirmed malicious, impersonating OKX, Rabby and TronLink to harvest recovery phrases from anyone who types one in.",
+      "impact": {}
+    },
+    {
+      "event_id": "794e4ad7-3bb9-4dba-82cb-732cf469618e",
+      "source": "rss:theblock",
+      "title": "Robinhood Chain DEX Arcus launches pTokens to turn perp accounts into transferable ERC-20s",
+      "url": "https://www.theblock.co/news/defi/2026-08-25-robinhood-chain-dex-arcus-ptokens-perps-erc-20s-412696",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T14:00:00+00:00",
+      "raw_text": "Robinhood Chain DEX Arcus launches pTokens to turn perp accounts into transferable ERC-20s\n\nEach pToken represents a pro-rata ownership stake in an underlying Arcus perpetuals account at a fixed market and leverage level.",
       "impact": {}
     },
     {
@@ -6343,98 +6403,30 @@
       "timestamp_utc": "2026-08-17T15:32:30+00:00",
       "raw_text": "Compound bets $52 million, new leadership team in switch to institutional focus",
       "impact": {}
-    },
-    {
-      "event_id": "d27567a1-34a0-4162-b189-24c51ea5f779",
-      "source": "rss:theblock",
-      "title": "Harmony plans pre-attack rollback after exploiter forged 3 trillion ONE tokens",
-      "url": "https://www.theblock.co/news/ecosystems/2026-08-17-harmony-plans-pre-attack-rollback-after-exploiter-forged-3-trillion-one-tokens-411976",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T15:06:21+00:00",
-      "raw_text": "Harmony plans pre-attack rollback after exploiter forged 3 trillion ONE tokens\n\nHarmony considered alternatives, including a token burn &amp; blacklisting wallets, but concluded a rollback was \"fairest and most secure.\"",
-      "impact": {}
-    },
-    {
-      "event_id": "41f7e3fd-8358-4f24-b3ad-3ce7e9158409",
-      "source": "rss:coindesk",
-      "title": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
-      "url": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T14:44:29+00:00",
-      "raw_text": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
-      "impact": {}
-    },
-    {
-      "event_id": "b9c5b92f-2f94-43f5-a9f5-674859f99300",
-      "source": "rss:bitcoinmagazine",
-      "title": "Strategy Goes Another Week Without Buying — Or Selling — Bitcoin, Builds Up Cash Reserve",
-      "url": "https://bitcoinmagazine.com/news/strategy-goes-another-week-without-buying",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-17T14:23:17+00:00",
-      "raw_text": "Strategy Goes Another Week Without Buying — Or Selling — Bitcoin, Builds Up Cash Reserve\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time-in-Years-as-Bitcoin",
-      "impact": {
-        "t_plus_5m": -0.3961,
-        "t_plus_15m": -0.4233,
-        "t_plus_1h": -0.0217,
-        "t_plus_4h": 1.0457
-      }
-    },
-    {
-      "event_id": "f7aa96ad-3220-4aa4-a29d-d9e473e86856",
-      "source": "rss:coindesk",
-      "title": "The Coldcard hack proves reputation is not a security model",
-      "url": "https://www.coindesk.com/opinion/2026/08/17/the-coldcard-hack-proves-reputation-is-not-a-security-model",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T14:09:46+00:00",
-      "raw_text": "The Coldcard hack proves reputation is not a security model",
-      "impact": {}
-    },
-    {
-      "event_id": "0a0b707b-08fb-4bd5-901a-270708210eb4",
-      "source": "rss:coindesk",
-      "title": "Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase",
-      "url": "https://www.coindesk.com/markets/2026/08/17/tom-lee-s-bitmine-now-owns-4-8-of-ethereum-supply-after-latest-eth-purchase",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-08-17T14:04:21+00:00",
-      "raw_text": "Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase",
-      "impact": {
-        "t_plus_5m": -0.2993,
-        "t_plus_15m": -0.3194,
-        "t_plus_1h": 0.0031,
-        "t_plus_4h": 0.0649
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "whale_move": {
+        "count": 3,
+        "avg_1h": null,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": null
+      },
       "unknown": {
-        "count": 191,
+        "count": 190,
         "avg_1h": -0.04,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 143,
+        "count": 146,
         "avg_1h": -0.06,
         "avg_24h": 2.08,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 33,
+        "count": 32,
         "avg_1h": -0.11,
         "avg_24h": 1.56,
         "win_rate_1h_gt5pct": 0.0
@@ -6446,16 +6438,10 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
-        "count": 9,
-        "avg_1h": -0.23,
+        "count": 7,
+        "avg_1h": -0.28,
         "avg_24h": 5.81,
         "win_rate_1h_gt5pct": 0.0
-      },
-      "whale_move": {
-        "count": 2,
-        "avg_1h": null,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": null
       }
     }
   }
