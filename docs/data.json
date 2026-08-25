@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-25T09:47:52.122131+00:00",
+  "generated_at": "2026-08-25T10:45:33.781399+00:00",
   "events": [
+    {
+      "event_id": "f1d366d0-59f0-413d-989a-c10cca5ab3d6",
+      "source": "rss:cointelegraph",
+      "title": "Standard Chartered becomes first bank distributor of HKD stablecoin",
+      "url": "https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T09:52:40+00:00",
+      "raw_text": "Standard Chartered becomes first bank distributor of HKD stablecoin\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Standard Chartered becomes first bank distributor of HKD stablecoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-hong-k",
+      "impact": {}
+    },
     {
       "event_id": "c6b36c0f-c879-48c8-b3f0-f6652c414525",
       "source": "rss:decrypt",
@@ -32,10 +44,15 @@
       "url": "https://cointelegraph.com/news/coldcard-hack-galaxy-btc-lost-87-unmoved?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "hack",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-25T08:46:47+00:00",
       "raw_text": "Galaxy puts Coldcard hack losses at 1,789 BTC, with 87% unmoved\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Galaxy puts Coldcard hack losses at 1,789 BTC, with 87% unmoved\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-supply-",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1225,
+        "t_plus_15m": 0.1057
+      }
     },
     {
       "event_id": "c547fe72-ae45-4ccc-8378-e7dc0c1e6f79",
@@ -6417,32 +6434,20 @@
       "timestamp_utc": "2026-08-17T09:59:55+00:00",
       "raw_text": "Bitcoin tracks equity bounce, but $390 million ETF outflow week keeps bulls on back foot",
       "impact": {}
-    },
-    {
-      "event_id": "ef1c777f-197b-437c-84d1-7d444a55b17a",
-      "source": "rss:cointelegraph",
-      "title": "Bitpanda fined in Austria’s first published MiCA penalty",
-      "url": "https://cointelegraph.com/news/bitpanda-fined-austrian-published-mica-penalty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T09:31:47+00:00",
-      "raw_text": "Bitpanda fined in Austria’s first published MiCA penalty\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitpanda fined in Austria’s first published MiCA penalty\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-european-union-moves-to-regu",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 142,
-        "avg_1h": -0.04,
-        "avg_24h": 2.08,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 191,
+        "count": 192,
         "avg_1h": -0.03,
         "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 141,
+        "avg_1h": -0.04,
+        "avg_24h": 2.08,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
