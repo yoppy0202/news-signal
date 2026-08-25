@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-25T18:53:34.212605+00:00",
+  "generated_at": "2026-08-25T19:41:21.560301+00:00",
   "events": [
+    {
+      "event_id": "dab3ea93-e362-4991-804c-92345bc66e72",
+      "source": "rss:decrypt",
+      "title": "Crypto Market Flips From Fear to 'Extreme Greed' for First Time Since 2024",
+      "url": "https://decrypt.co/376503/crypto-fear-greed-index-extreme-greed",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T19:11:04+00:00",
+      "raw_text": "Crypto Market Flips From Fear to 'Extreme Greed' for First Time Since 2024\n\nThe Crypto Fear and Greed Index was at 36, firmly in the fear zone, just a month ago.",
+      "impact": {}
+    },
+    {
+      "event_id": "c1107360-34f4-4191-95d8-3d31ccba6758",
+      "source": "rss:theblock",
+      "title": "ZRO token surges as LayerZero unveils ATLAS exchange infrastructure built on Zero blockchain",
+      "url": "https://www.theblock.co/news/ecosystems/2026-08-25-zro-token-layerzero-atlas-exchange-infrastructure-zero-blockchain-412736",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T18:41:50+00:00",
+      "raw_text": "ZRO token surges as LayerZero unveils ATLAS exchange infrastructure built on Zero blockchain\n\nLayerZero has announced ATLAS, new exchange infrastructure built on its Zero blockchain for trading platforms and financial institutions.",
+      "impact": {}
+    },
     {
       "event_id": "9909a8b4-74f2-4da9-b80c-5cc7c81c1b99",
       "source": "rss:decrypt",
@@ -32,10 +56,15 @@
       "url": "https://cointelegraph.com/news/solana-record-transactions-rwa-sol-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "SOL"
+      ],
       "timestamp_utc": "2026-08-25T18:08:58+00:00",
       "raw_text": "Solana transactions hit record 4.2B as SOL rallies 40%\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana transactions hit record 4.2B as SOL rallies 40%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-solana-coin.jpg\" /></p><p>Tokeni",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1158,
+        "t_plus_15m": 0.1461
+      }
     },
     {
       "event_id": "6d8b3210-4d05-4508-819d-30df8540b307",
@@ -75,7 +104,8 @@
       "raw_text": "Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
       "impact": {
         "t_plus_5m": 0.4194,
-        "t_plus_15m": 0.3398
+        "t_plus_15m": 0.3398,
+        "t_plus_1h": 0.5026
       }
     },
     {
@@ -6379,51 +6409,20 @@
       "timestamp_utc": "2026-08-17T19:54:52+00:00",
       "raw_text": "IREN delivers first of four AI cloud deployments to Microsoft under $9.7 billion deal\n\nIREN is targeting 480 MW of AI cloud capacity in 2026 and 1.2 gigawatts by 2027 as it continues to pivot away from bitcoin mining.",
       "impact": {}
-    },
-    {
-      "event_id": "56566de4-d336-4aca-a75d-5db4217735a7",
-      "source": "rss:decrypt",
-      "title": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign",
-      "url": "https://decrypt.co/375794/xrp-price-two-year-streak-charts-flash-warning",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-08-17T19:01:56+00:00",
-      "raw_text": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign\n\nXRP is clinging to the dollar price line it's defended since Trump's 2024 win. But both the daily and weekly charts are now flashing red.",
-      "impact": {
-        "t_plus_5m": 0.0284,
-        "t_plus_15m": -0.126,
-        "t_plus_1h": 0.0355,
-        "t_plus_4h": -0.0619
-      }
-    },
-    {
-      "event_id": "6fb61bc5-564d-44ac-a4d4-ead404b4f2d3",
-      "source": "rss:coindesk",
-      "title": "Saylor says share buyback isn’t priority as Strategy builds $4.8 billion cash reserve",
-      "url": "https://www.coindesk.com/markets/2026/08/17/saylor-says-share-buyback-isn-t-a-priority-as-it-builds-its-usd4-8-billion-cash-reserve-though-a-possibility",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T18:53:47+00:00",
-      "raw_text": "Saylor says share buyback isn’t priority as Strategy builds $4.8 billion cash reserve",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 146,
-        "avg_1h": -0.08,
-        "avg_24h": 2.08,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
         "count": 194,
         "avg_1h": -0.02,
         "avg_24h": -0.93,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 146,
+        "avg_1h": -0.09,
+        "avg_24h": 2.08,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
@@ -6434,7 +6433,7 @@
       },
       "macro": {
         "count": 117,
-        "avg_1h": 0.29,
+        "avg_1h": 0.31,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
