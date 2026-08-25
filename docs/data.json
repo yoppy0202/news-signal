@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-25T13:59:33.782063+00:00",
+  "generated_at": "2026-08-25T14:58:59.003024+00:00",
   "events": [
+    {
+      "event_id": "e578581f-f7ad-4931-82fe-6d81f1bf1ed6",
+      "source": "rss:decrypt",
+      "title": "Dozens of Fake Firefox Wallet Extensions Linked to Crypto-Stealing Malware",
+      "url": "https://decrypt.co/376432/dozens-of-fake-firefox-wallet-extensions-linked-to-crypto-stealing-malware",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T14:10:05+00:00",
+      "raw_text": "Dozens of Fake Firefox Wallet Extensions Linked to Crypto-Stealing Malware\n\nForty are confirmed malicious, impersonating OKX, Rabby and TronLink to harvest recovery phrases from anyone who types one in.",
+      "impact": {}
+    },
+    {
+      "event_id": "a5e9c5f0-4d21-42bd-bc07-d6be7da0e3ea",
+      "source": "rss:cointelegraph",
+      "title": "Arcus launches tokenized perp positions on Robinhood Chain",
+      "url": "https://cointelegraph.com/news/arcus-tokenized-perp-positions-robinhood-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T14:00:00+00:00",
+      "raw_text": "Arcus launches tokenized perp positions on Robinhood Chain\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Arcus launches tokenized perp positions on Robinhood Chain\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-japan-robin-hood-join-tr",
+      "impact": {}
+    },
+    {
+      "event_id": "0da337d5-4751-40f0-9189-4dcfaeb4327a",
+      "source": "rss:coindesk",
+      "title": "Crypto custody firm Copper has potential buyers. But offers are way below its $500 million asking price",
+      "url": "https://www.coindesk.com/business/2026/08/25/crypto-custody-firm-copper-has-potential-buyers-but-offers-are-way-below-its-usd500-million-asking-price",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T13:48:50+00:00",
+      "raw_text": "Crypto custody firm Copper has potential buyers. But offers are way below its $500 million asking price",
+      "impact": {}
+    },
+    {
+      "event_id": "3aa5aed6-5359-4151-9a33-6aca56c00063",
+      "source": "rss:cointelegraph",
+      "title": "Hugging Face hack exposes the open-weight AI cybersecurity paradox",
+      "url": "https://cointelegraph.com/features/hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T13:30:00+00:00",
+      "raw_text": "Hugging Face hack exposes the open-weight AI cybersecurity paradox\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hugging Face hack exposes the open-weight AI cybersecurity paradox\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/wp-cover-30",
+      "impact": {}
+    },
     {
       "event_id": "a8479227-941b-4ee7-a237-62721011db51",
       "source": "rss:cointelegraph",
@@ -6369,85 +6417,30 @@
         "t_plus_1h": 0.0031,
         "t_plus_4h": 0.0649
       }
-    },
-    {
-      "event_id": "3fd062ae-1073-4ab2-8011-ab64223ab9b3",
-      "source": "rss:coindesk",
-      "title": "How a bug in Coldcard’s code went unnoticed for years, leading to $100 million in hacked funds",
-      "url": "https://www.coindesk.com/tech/2026/08/17/how-a-bug-in-coldcard-s-code-went-unnoticed-for-years-leading-to-usd100-million-in-hacked-funds",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T13:57:11+00:00",
-      "raw_text": "How a bug in Coldcard’s code went unnoticed for years, leading to $100 million in hacked funds",
-      "impact": {}
-    },
-    {
-      "event_id": "07d9fad6-0dfb-406f-95ce-3cf4d02d2fba",
-      "source": "rss:theblock",
-      "title": "Bitmine adds 9,926 ETH, taking total holdings to roughly $11 billion",
-      "url": "https://www.theblock.co/news/business/2026-08-17-bitmine-adds-9926-eth-taking-total-holdings-to-roughly-11-billion-411968",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-08-17T13:53:11+00:00",
-      "raw_text": "Bitmine adds 9,926 ETH, taking total holdings to roughly $11 billion\n\nBitmine added 9,926 ETH last week, taking holdings to 5.82 million tokens while buybacks reached 20.8 million shares since July.",
-      "impact": {
-        "t_plus_5m": 0.0061,
-        "t_plus_15m": -0.1311,
-        "t_plus_1h": 0.1227,
-        "t_plus_4h": 0.2525
-      }
-    },
-    {
-      "event_id": "9913d543-b959-477b-bec7-eeb5aa57f556",
-      "source": "rss:decrypt",
-      "title": "Hackers Are Abusing a macOS Screen Sharing Flaw to Secretly Mine Monero",
-      "url": "https://decrypt.co/375749/hackers-macos-screen-sharing-secretly-mine-monero",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T13:31:04+00:00",
-      "raw_text": "Hackers Are Abusing a macOS Screen Sharing Flaw to Secretly Mine Monero\n\nThe Dutch cyber agency says attackers exploited an authentication flaw in macOS Screen Sharing to gain root access and plant Monero miners, with public proof-of-concept code now circulating.",
-      "impact": {}
-    },
-    {
-      "event_id": "dbcbc7bb-9c92-4ea1-925d-0f1f902e04f0",
-      "source": "rss:decrypt",
-      "title": "Morning Minute: Trump To Meet Crypto, Prediction Market CEOs This Week",
-      "url": "https://decrypt.co/375760/morning-minute-trump-to-meet-crypto-prediction-market-ceos-this-week",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T13:03:17+00:00",
-      "raw_text": "Morning Minute: Trump To Meet Crypto, Prediction Market CEOs This Week\n\nThe meeting comes while progress on the Clarity Act has been delayed and the SEC's latest rulemaking postponed.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 191,
+        "avg_1h": -0.04,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 142,
+        "count": 143,
         "avg_1h": -0.06,
         "avg_24h": 2.08,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 34,
+        "count": 33,
         "avg_1h": -0.11,
         "avg_24h": 1.56,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 190,
-        "avg_1h": -0.03,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 123,
+        "count": 122,
         "avg_1h": 0.25,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
