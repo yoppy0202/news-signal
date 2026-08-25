@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-08-25T19:41:21.560301+00:00",
+  "generated_at": "2026-08-25T20:41:07.060454+00:00",
   "events": [
+    {
+      "event_id": "9a0fa407-a17f-423f-ae62-c4b6c9761506",
+      "source": "rss:bitcoinmagazine",
+      "title": "Bitcoin Breakout Could Be Around the Corner as Asset Is No Longer Oversold: Fairlead Strategies’ Katie Stockton",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-no-longer-oversold",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T20:21:05+00:00",
+      "raw_text": "Bitcoin Breakout Could Be Around the Corner as Asset Is No Longer Oversold: Fairlead Strategies’ Katie Stockton\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Breakout-Could-Be-Around-the-Co",
+      "impact": {}
+    },
+    {
+      "event_id": "d1fd1066-3864-4ea1-91aa-12c8a69a2509",
+      "source": "rss:decrypt",
+      "title": "Bitcoin Open Interest Collapses to 12%. Is the Short Squeeze Over?",
+      "url": "https://decrypt.co/376473/bitcoin-open-interest-price-short-squeeze",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T20:16:04+00:00",
+      "raw_text": "Bitcoin Open Interest Collapses to 12%. Is the Short Squeeze Over?\n\nCrypto-margined Bitcoin futures have collapsed from near-total dominance to about 12%. But leveraged traders are still placing big bets.",
+      "impact": {}
+    },
+    {
+      "event_id": "ff6dcd44-0d23-4ff1-9b9d-c423fe93921d",
+      "source": "rss:decrypt",
+      "title": "What's the Deal With Nancy Pelosi and the Bloom Energy Stock Surge?",
+      "url": "https://decrypt.co/376516/nancy-pelosi-bloom-energy-stock-trade",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T19:46:03+00:00",
+      "raw_text": "What's the Deal With Nancy Pelosi and the Bloom Energy Stock Surge?\n\nPelosi disclosed millions of dollars in Bloom Energy investments weeks after shares and options were purchased through her husband's accounts, including a purchase just before the company reported record earnings.",
+      "impact": {}
+    },
+    {
+      "event_id": "fd5c13b9-3e5b-4f08-8993-043d5a5c3f46",
+      "source": "rss:coindesk",
+      "title": "South Korea trade giant POSCO brings trade receivables to Avalanche in latest tokenization move",
+      "url": "https://www.coindesk.com/business/2026/08/25/south-korea-trade-giant-posco-brings-trade-receivables-to-avalanche-in-latest-tokenization-move",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T19:40:00+00:00",
+      "raw_text": "South Korea trade giant POSCO brings trade receivables to Avalanche in latest tokenization move",
+      "impact": {}
+    },
+    {
+      "event_id": "e3300dd9-fcad-493f-949b-232be3cdb116",
+      "source": "rss:bitcoinmagazine",
+      "title": "Kraken Says ‘Dust Attack’ From Sanctioned HTX Wallet Locked Out Customers",
+      "url": "https://bitcoinmagazine.com/news/kraken-says-users-were-dust-attacked",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T19:27:12+00:00",
+      "raw_text": "Kraken Says ‘Dust Attack’ From Sanctioned HTX Wallet Locked Out Customers\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Kraken-Launches-Krak-a-No-Fee-App-to-Use-and-Store-Bitcoin-and-Crypto.jpg\" st",
+      "impact": {}
+    },
     {
       "event_id": "dab3ea93-e362-4991-804c-92345bc66e72",
       "source": "rss:decrypt",
@@ -63,7 +123,8 @@
       "raw_text": "Solana transactions hit record 4.2B as SOL rallies 40%\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana transactions hit record 4.2B as SOL rallies 40%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-solana-coin.jpg\" /></p><p>Tokeni",
       "impact": {
         "t_plus_5m": -0.1158,
-        "t_plus_15m": 0.1461
+        "t_plus_15m": 0.1461,
+        "t_plus_1h": -0.1332
       }
     },
     {
@@ -6342,87 +6403,20 @@
       "timestamp_utc": "2026-08-17T21:16:17+00:00",
       "raw_text": "Prediction Markets Give the Fed 74% Odds of Standing Pat in September\n\nTraders across Polymarket, Kalshi, and Myriad are leaning the same way: no change at the September meeting.",
       "impact": {}
-    },
-    {
-      "event_id": "47745d74-d030-4009-a1b8-86612bcdcc02",
-      "source": "rss:theblock",
-      "title": "Tokenized equities triple market share as Ondo, Binance and xStocks dominate",
-      "url": "https://www.theblock.co/news/defi/2026-08-17-tokenized-equities-triple-market-share-ondo-binance-xstocks-dominate-411996",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T20:55:00+00:00",
-      "raw_text": "Tokenized equities triple market share as Ondo, Binance and xStocks dominate\n\nTokenized stock market share has grown to 15%, up 3x from the start of the year, with the total market cap around $2.8 billion.",
-      "impact": {}
-    },
-    {
-      "event_id": "9b4ca993-26f8-4543-9f47-c50029d5cc3a",
-      "source": "rss:bitcoinmagazine",
-      "title": "Jane Street Reveals Nearly $1B Bitcoin Position",
-      "url": "https://bitcoinmagazine.com/news/jane-street-bitcoin-position",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-17T20:37:07+00:00",
-      "raw_text": "Jane Street Reveals Nearly $1B Bitcoin Position\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Jane-Street-Reveals-Nearly-1B-Bitcoin-Position.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n",
-      "impact": {
-        "t_plus_5m": 0.0854,
-        "t_plus_15m": 0.0236,
-        "t_plus_1h": 0.0068,
-        "t_plus_4h": 0.1572
-      }
-    },
-    {
-      "event_id": "408a7e4f-1909-40a1-98c1-d790b26d83e9",
-      "source": "rss:decrypt",
-      "title": "Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in US",
-      "url": "https://decrypt.co/375817/treasury-rules-sell-stablecoins-us",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T20:31:04+00:00",
-      "raw_text": "Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in US\n\nExchanges and other crypto platforms would face new restrictions on selling stablecoins to US customers beginning in 2027.",
-      "impact": {}
-    },
-    {
-      "event_id": "5b907dfc-7736-4164-8876-6675a9ab4e37",
-      "source": "rss:decrypt",
-      "title": "OpenAI’s Answer to Rogue Agents and Hacks Is More AI, Not Less",
-      "url": "https://decrypt.co/375816/openai-answer-rogue-agents-hacks-more-ai",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T19:59:18+00:00",
-      "raw_text": "OpenAI’s Answer to Rogue Agents and Hacks Is More AI, Not Less\n\nOpenAI President Greg Brockman's new essay cites his company's own hack of Hugging Face to push urgent AI-powered defense.",
-      "impact": {}
-    },
-    {
-      "event_id": "40f59f01-1839-415a-a38d-2b61df693acf",
-      "source": "rss:theblock",
-      "title": "IREN delivers first of four AI cloud deployments to Microsoft under $9.7 billion deal",
-      "url": "https://www.theblock.co/news/business/2026-08-17-iren-delivers-first-four-ai-cloud-deployments-microsoft-under-9-7-billion-deal-412016",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T19:54:52+00:00",
-      "raw_text": "IREN delivers first of four AI cloud deployments to Microsoft under $9.7 billion deal\n\nIREN is targeting 480 MW of AI cloud capacity in 2026 and 1.2 gigawatts by 2027 as it continues to pivot away from bitcoin mining.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 194,
-        "avg_1h": -0.02,
-        "avg_24h": -0.93,
+      "macro": {
+        "count": 117,
+        "avg_1h": 0.34,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 146,
-        "avg_1h": -0.09,
-        "avg_24h": 2.08,
+      "unknown": {
+        "count": 196,
+        "avg_1h": -0.03,
+        "avg_24h": -0.93,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
@@ -6431,10 +6425,10 @@
         "avg_24h": 1.56,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 117,
-        "avg_1h": 0.31,
-        "avg_24h": null,
+      "narrative": {
+        "count": 144,
+        "avg_1h": -0.09,
+        "avg_24h": 2.08,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
