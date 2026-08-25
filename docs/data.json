@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-25T15:54:56.055810+00:00",
+  "generated_at": "2026-08-25T16:51:04.962608+00:00",
   "events": [
+    {
+      "event_id": "7cf54fb6-d263-4c78-ab4f-bcced3e3f00a",
+      "source": "rss:theblock",
+      "title": "Galaxy expands retail crypto lending with new BTC, ETH and SOL-backed credit line",
+      "url": "https://www.theblock.co/news/business/2026-08-25-galaxy-expands-retail-crypto-lending-new-btc-eth-sol-backed-credit-line-412718",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T16:03:42+00:00",
+      "raw_text": "Galaxy expands retail crypto lending with new BTC, ETH and SOL-backed credit line\n\nThe crypto-backed portfolio line of credit lets eligible GalaxyOne clients borrow cash against BTC, ETH &amp; SOL without selling their holdings.",
+      "impact": {}
+    },
+    {
+      "event_id": "e7cfb250-8100-4c44-beb6-9ae4fca162f9",
+      "source": "rss:bitcoinmagazine",
+      "title": "The Human Rights Foundation Announces Support for 16 Projects Worldwide",
+      "url": "https://bitcoinmagazine.com/news/human-rights-foundation-issues-more-grants",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T16:00:00+00:00",
+      "raw_text": "The Human Rights Foundation Announces Support for 16 Projects Worldwide\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/05/Human-Rights-Foundation-Donates-800-Million-Satoshis-To-22-Worldwide-Bitcoin-An",
+      "impact": {}
+    },
+    {
+      "event_id": "4c330316-b378-4869-a70f-70c63fbf47ba",
+      "source": "rss:cointelegraph",
+      "title": "DGrid AI token jumps 93% after launch as decentralized AI network goes live",
+      "url": "https://cointelegraph.com/news/dgrid-ai-token-jumps-96-after-launch-as-decentralized-ai-network-goes-live?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T15:53:05+00:00",
+      "raw_text": "DGrid AI token jumps 93% after launch as decentralized AI network goes live\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DGrid AI token jumps 93% after launch as decentralized AI network goes live\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-",
+      "impact": {}
+    },
+    {
+      "event_id": "9b2c5465-768e-4cf3-84fe-b6c4b36e9828",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin slips from $80K as gold cools with falling US bond yields",
+      "url": "https://cointelegraph.com/markets/bitcoin-slips-from-80k-as-gold-cools-with-falling-us-bond-yields?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T15:15:35+00:00",
+      "raw_text": "Bitcoin slips from $80K as gold cools with falling US bond yields\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin slips from $80K as gold cools with falling US bond yields\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/crypto-bitcoi",
+      "impact": {}
+    },
     {
       "event_id": "a86117e3-5600-4373-8a8d-88e2ecfab36c",
       "source": "rss:bitcoinmagazine",
@@ -1025,7 +1073,8 @@
       "impact": {
         "t_plus_5m": 0.6539,
         "t_plus_15m": -0.2003,
-        "t_plus_1h": 0.0142
+        "t_plus_1h": 0.0142,
+        "t_plus_24h": -0.9321
       }
     },
     {
@@ -6348,77 +6397,10 @@
         "t_plus_1h": -0.1531,
         "t_plus_4h": 0.3404
       }
-    },
-    {
-      "event_id": "b46c2344-dfad-402d-a48f-1f113099271b",
-      "source": "rss:cointelegraph",
-      "title": "Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses",
-      "url": "https://cointelegraph.com/news/bitmine-ethereum-supply-5-82-million-eth-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-08-17T16:04:32+00:00",
-      "raw_text": "Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/eth",
-      "impact": {
-        "t_plus_5m": 0.1015,
-        "t_plus_15m": 0.0437,
-        "t_plus_1h": -0.1186,
-        "t_plus_4h": -0.0794
-      }
-    },
-    {
-      "event_id": "bed7dc50-3401-44bc-bbd7-0e55ca7ea0aa",
-      "source": "rss:decrypt",
-      "title": "What Stripe's $7 Billion OpenRouter Deal Actually Means for AI",
-      "url": "https://decrypt.co/375769/what-stripe-openrouter-deal-means-ai",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T15:54:29+00:00",
-      "raw_text": "What Stripe's $7 Billion OpenRouter Deal Actually Means for AI\n\nStripe just bought the layer that decides which AI model answers your prompt—and it was already collecting the money for it.",
-      "impact": {}
-    },
-    {
-      "event_id": "ca25e911-c58d-4a4d-8d5e-dab7c8f02139",
-      "source": "rss:decrypt",
-      "title": "Tom Lee’s Bitmine Buys Another $19 Million in Ethereum as Stash Nears 5% of Total Supply",
-      "url": "https://decrypt.co/375768/tom-lee-bitcoin-buys-19-million-ethereum",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T15:47:59+00:00",
-      "raw_text": "Tom Lee’s Bitmine Buys Another $19 Million in Ethereum as Stash Nears 5% of Total Supply\n\nThe firm says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.",
-      "impact": {}
-    },
-    {
-      "event_id": "db37a58a-963f-437c-ba50-dfca6957ecf2",
-      "source": "rss:coindesk",
-      "title": "Compound bets $52 million, new leadership team in switch to institutional focus",
-      "url": "https://www.coindesk.com/business/2026/08/17/compound-bets-usd52-million-new-leadership-team-in-switch-to-institutional-focus",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T15:32:30+00:00",
-      "raw_text": "Compound bets $52 million, new leadership team in switch to institutional focus",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "whale_move": {
-        "count": 3,
-        "avg_1h": null,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": null
-      },
-      "unknown": {
-        "count": 190,
-        "avg_1h": -0.04,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
         "count": 146,
         "avg_1h": -0.06,
@@ -6426,14 +6408,26 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 32,
+        "count": 33,
         "avg_1h": -0.11,
         "avg_24h": 1.56,
         "win_rate_1h_gt5pct": 0.0
       },
+      "unknown": {
+        "count": 190,
+        "avg_1h": -0.04,
+        "avg_24h": -0.93,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "whale_move": {
+        "count": 3,
+        "avg_1h": null,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": null
+      },
       "macro": {
-        "count": 122,
-        "avg_1h": 0.25,
+        "count": 121,
+        "avg_1h": 0.29,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
