@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T04:49:38.754792+00:00",
+  "generated_at": "2026-08-25T05:43:08.552289+00:00",
   "events": [
     {
       "event_id": "68781c93-2372-4c85-85b8-24df1e4c44bb",
@@ -8,10 +8,15 @@
       "url": "https://cointelegraph.com/news/bnb-chain-pasteur-hard-fork-bridge-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BNB"
+      ],
       "timestamp_utc": "2026-08-25T03:56:29+00:00",
       "raw_text": "BNB Chain activates Pasteur hard fork to strengthen bridge security\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BNB Chain activates Pasteur hard fork to strengthen bridge security\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/fork-bloc",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.027,
+        "t_plus_15m": 0.0009
+      }
     },
     {
       "event_id": "a8b38e04-e8f9-40b6-9f25-9a0afdafd254",
