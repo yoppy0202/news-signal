@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T22:40:14.607121+00:00",
+  "generated_at": "2026-08-25T23:33:55.744462+00:00",
   "events": [
     {
       "event_id": "d0b3f26f-8747-49bd-8bab-206a36f2e84d",
@@ -32,10 +32,15 @@
       "url": "https://decrypt.co/376559/xrp-price-cools-where-next",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-08-25T21:46:04+00:00",
       "raw_text": "XRP Hot Streak Cools as Traders Hit a Wall: Where Does It Go Next?\n\nXRP has given back two days of gains after a vertical recovery, and the charts say the bounce just met a wall.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2043,
+        "t_plus_15m": -0.1077
+      }
     },
     {
       "event_id": "dc7376e6-a314-4674-9525-c8e306535905",
@@ -220,7 +225,8 @@
       "impact": {
         "t_plus_5m": -0.1158,
         "t_plus_15m": 0.1461,
-        "t_plus_1h": -0.1332
+        "t_plus_1h": -0.1332,
+        "t_plus_4h": -1.0714
       }
     },
     {
@@ -465,6 +471,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-25T13:48:50+00:00",
       "raw_text": "Crypto custody firm Copper has potential buyers. But offers are way below its $500 million asking price",
+      "impact": {}
+    },
+    {
+      "event_id": "ad6560f4-4491-41b5-a77d-e816788f3304",
+      "source": "rss:cointelegraph",
+      "title": "Hugging Face hack exposes the open-weight AI cybersecurity paradox",
+      "url": "https://cointelegraph.com/magazine/hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T13:30:00+00:00",
+      "raw_text": "Hugging Face hack exposes the open-weight AI cybersecurity paradox\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hugging Face hack exposes the open-weight AI cybersecurity paradox\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/wp-cover-30",
       "impact": {}
     },
     {
@@ -6393,18 +6411,6 @@
       "timestamp_utc": "2026-08-18T04:11:02+00:00",
       "raw_text": "South Korea’s Jeonbuk Bank taps Ripple for cross-border payments\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea’s Jeonbuk Bank taps Ripple for cross-border payments\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-negot",
       "impact": {}
-    },
-    {
-      "event_id": "bd8271dd-377a-4684-a69f-fbe75a3fb1fa",
-      "source": "rss:cointelegraph",
-      "title": "Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation",
-      "url": "https://cointelegraph.com/news/edward-zimbardi-165m-crypto-ponzi-fiji-deportation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-18T03:21:26+00:00",
-      "raw_text": "Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti",
-      "impact": {}
     }
   ],
   "stats": {
@@ -6422,13 +6428,13 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 115,
+        "count": 114,
         "avg_1h": 0.34,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 32,
+        "count": 33,
         "avg_1h": -0.11,
         "avg_24h": 1.56,
         "win_rate_1h_gt5pct": 0.0
