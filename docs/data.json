@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-25T17:41:28.619219+00:00",
+  "generated_at": "2026-08-25T18:53:34.212605+00:00",
   "events": [
+    {
+      "event_id": "9909a8b4-74f2-4da9-b80c-5cc7c81c1b99",
+      "source": "rss:decrypt",
+      "title": "Mistral and HUMAIN Are Building 'Sovereign AI' in Saudi Arabia",
+      "url": "https://decrypt.co/376514/mistral-humain-sovereign-ai-saudi-arabia",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T18:39:26+00:00",
+      "raw_text": "Mistral and HUMAIN Are Building 'Sovereign AI' in Saudi Arabia\n\nMistral and HUMAIN announced plans to build sovereign AI infrastructure in Saudi Arabia and across the region—a tie-up valued in the hundreds of millions of euros that deepens Gulf money flowing into European AI.",
+      "impact": {}
+    },
+    {
+      "event_id": "77beacb0-1c71-4540-8fef-55a321a7e261",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin enters ‘initial phase’ of new bull market, but $83K remains key: CryptoQuant",
+      "url": "https://cointelegraph.com/markets/bitcoin-enters-initial-phase-of-new-bull-market-but-83k-remains-key-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T18:13:11+00:00",
+      "raw_text": "Bitcoin enters ‘initial phase’ of new bull market, but $83K remains key: CryptoQuant\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin enters ‘initial phase’ of new bull market, but $83K remains key: CryptoQuant\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia",
+      "impact": {}
+    },
+    {
+      "event_id": "48b4ddab-0c63-43de-95ef-bfaa055a05c2",
+      "source": "rss:cointelegraph",
+      "title": "Solana transactions hit record 4.2B as SOL rallies 40%",
+      "url": "https://cointelegraph.com/news/solana-record-transactions-rwa-sol-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T18:08:58+00:00",
+      "raw_text": "Solana transactions hit record 4.2B as SOL rallies 40%\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana transactions hit record 4.2B as SOL rallies 40%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-solana-coin.jpg\" /></p><p>Tokeni",
+      "impact": {}
+    },
     {
       "event_id": "6d8b3210-4d05-4508-819d-30df8540b307",
       "source": "rss:decrypt",
@@ -32,10 +68,15 @@
       "url": "https://cointelegraph.com/news/strategy-financing-risk-not-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-25T16:47:40+00:00",
       "raw_text": "Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.4194,
+        "t_plus_15m": 0.3398
+      }
     },
     {
       "event_id": "0fd9453e-8440-4699-8cb4-39ed434bc621",
@@ -101,7 +142,8 @@
       "raw_text": "Galaxy expands retail crypto lending with new BTC, ETH and SOL-backed credit line\n\nThe crypto-backed portfolio line of credit lets eligible GalaxyOne clients borrow cash against BTC, ETH &amp; SOL without selling their holdings.",
       "impact": {
         "t_plus_5m": -0.1412,
-        "t_plus_15m": -0.288
+        "t_plus_15m": -0.288,
+        "t_plus_1h": -0.4974
       }
     },
     {
@@ -411,10 +453,17 @@
       "url": "https://cointelegraph.com/markets/bitcoin-rsi-bullish-divergence-draws-2022-comparisons-as-analysis-weighs-new-price-trend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-25T10:51:00+00:00",
       "raw_text": "BTC RSI bullish divergence draws 2022 comparisons as analysis weighs new price trend\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BTC RSI bullish divergence draws 2022 comparisons as analysis weighs new price trend\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.7233,
+        "t_plus_15m": 0.576,
+        "t_plus_1h": 0.373,
+        "t_plus_4h": 0.5077
+      }
     },
     {
       "event_id": "6748b673-8f78-4888-a43d-d50497a2504a",
@@ -6361,49 +6410,19 @@
       "timestamp_utc": "2026-08-17T18:53:47+00:00",
       "raw_text": "Saylor says share buyback isn’t priority as Strategy builds $4.8 billion cash reserve",
       "impact": {}
-    },
-    {
-      "event_id": "1b5c7625-7003-4891-aad6-18952de4d8b2",
-      "source": "rss:cointelegraph",
-      "title": "Binance to plan UK relaunch with FCA license application: Report",
-      "url": "https://cointelegraph.com/news/binance-uk-launch-plans-fca-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T18:45:00+00:00",
-      "raw_text": "Binance to plan UK relaunch with FCA license application: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance to plan UK relaunch with FCA license application: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-uk-regulatio",
-      "impact": {}
-    },
-    {
-      "event_id": "2736e176-508e-47bd-b381-6ae7c16c8cb0",
-      "source": "rss:decrypt",
-      "title": "Solana’s Pump Token Leads Crypto Market Gainers as Chart Paints Golden Cross",
-      "url": "https://decrypt.co/375788/solana-pump-price-crypto-market-golden-cross",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T18:29:56+00:00",
-      "raw_text": "Solana’s Pump Token Leads Crypto Market Gainers as Chart Paints Golden Cross\n\nThe native token of Solana's Pump.fun is up 8%, and the pattern bulls have been waiting for is starting to form on the daily chart.",
-      "impact": {}
-    },
-    {
-      "event_id": "a518acf2-31d9-460d-8371-5a06d25359ad",
-      "source": "rss:decrypt",
-      "title": "Ethereum Developers Target Privacy Changes in Next Major Upgrade",
-      "url": "https://decrypt.co/375787/ethereum-developers-privacy-hegota-upgrade",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T18:19:46+00:00",
-      "raw_text": "Ethereum Developers Target Privacy Changes in Next Major Upgrade\n\nA proposed package would let privacy pools pay their own transaction fees without relying on intermediaries.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 146,
+        "avg_1h": -0.08,
+        "avg_24h": 2.08,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 194,
-        "avg_1h": -0.04,
+        "avg_1h": -0.02,
         "avg_24h": -0.93,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6414,15 +6433,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 118,
+        "count": 117,
         "avg_1h": 0.29,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 145,
-        "avg_1h": -0.05,
-        "avg_24h": 2.08,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
