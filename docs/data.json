@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-25T21:38:28.529170+00:00",
+  "generated_at": "2026-08-25T22:40:14.607121+00:00",
   "events": [
+    {
+      "event_id": "d0b3f26f-8747-49bd-8bab-206a36f2e84d",
+      "source": "rss:decrypt",
+      "title": "Elon Musk’s SpaceX Plans $100 Billion Louisiana Spaceport",
+      "url": "https://decrypt.co/376573/elon-musk-spacex-100-billion-spaceport",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T22:16:03+00:00",
+      "raw_text": "Elon Musk’s SpaceX Plans $100 Billion Louisiana Spaceport\n\nThe 10-year project in Vermilion Parish will include five launch complexes and infrastructure for Starship missions.",
+      "impact": {}
+    },
+    {
+      "event_id": "bbc06322-a219-441d-acfe-c7f36258de60",
+      "source": "rss:coindesk",
+      "title": "U.S. state banking associations plan to launch their own nationwide blockchain network",
+      "url": "https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T21:56:57+00:00",
+      "raw_text": "U.S. state banking associations plan to launch their own nationwide blockchain network",
+      "impact": {}
+    },
+    {
+      "event_id": "82c5b1a8-719b-4f52-bdfc-90f6a812fb88",
+      "source": "rss:decrypt",
+      "title": "XRP Hot Streak Cools as Traders Hit a Wall: Where Does It Go Next?",
+      "url": "https://decrypt.co/376559/xrp-price-cools-where-next",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T21:46:04+00:00",
+      "raw_text": "XRP Hot Streak Cools as Traders Hit a Wall: Where Does It Go Next?\n\nXRP has given back two days of gains after a vertical recovery, and the charts say the bounce just met a wall.",
+      "impact": {}
+    },
+    {
+      "event_id": "dc7376e6-a314-4674-9525-c8e306535905",
+      "source": "rss:coindesk",
+      "title": "Zerohash back for second effort at OCC trust bank charter",
+      "url": "https://www.coindesk.com/policy/2026/08/25/zerohash-back-for-second-effort-at-occ-trust-bank-charter",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T21:38:28+00:00",
+      "raw_text": "Zerohash back for second effort at OCC trust bank charter",
+      "impact": {}
+    },
     {
       "event_id": "7d280c26-09b6-4b29-a4ef-fde3f9d17d66",
       "source": "rss:decrypt",
@@ -214,7 +262,8 @@
       "impact": {
         "t_plus_5m": 0.4194,
         "t_plus_15m": 0.3398,
-        "t_plus_1h": 0.5026
+        "t_plus_1h": 0.5026,
+        "t_plus_4h": -0.7502
       }
     },
     {
@@ -6356,74 +6405,26 @@
       "timestamp_utc": "2026-08-18T03:21:26+00:00",
       "raw_text": "Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti",
       "impact": {}
-    },
-    {
-      "event_id": "d2aa9eb4-cd71-400e-b625-819322bda43d",
-      "source": "rss:cointelegraph",
-      "title": "‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express",
-      "url": "https://cointelegraph.com/magazine/fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-18T01:28:37+00:00",
-      "raw_text": "‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me",
-      "impact": {}
-    },
-    {
-      "event_id": "0fb283a1-95b3-47e6-ba7f-a7c42df7bac2",
-      "source": "rss:decrypt",
-      "title": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
-      "url": "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T22:35:46+00:00",
-      "raw_text": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws\n\nPayward is joining Project Glasswing, Anthropic’s program for giving vetted organizations access to its powerful cybersecurity AI.",
-      "impact": {}
-    },
-    {
-      "event_id": "4f03e822-44ed-48df-9e1d-21c148b48c36",
-      "source": "rss:theblock",
-      "title": "Robinhood Chain TVL surges 45% in August as tokenized RWAs lose ground",
-      "url": "https://www.theblock.co/news/ecosystems/2026-08-17-robinhood-chain-tvl-surges-45-august-tokenized-rwas-lose-ground-411998",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T22:26:02+00:00",
-      "raw_text": "Robinhood Chain TVL surges 45% in August as tokenized RWAs lose ground\n\nStablecoin market cap on the chain has reached $640 million, the bulk of which has come from USDe.",
-      "impact": {}
-    },
-    {
-      "event_id": "f9f70ec7-b01d-47d2-a37a-09d5f7ab2e6e",
-      "source": "rss:decrypt",
-      "title": "Minnesota Says xAI's Grok Created 'Marketplace for Digital Sexual Violence'",
-      "url": "https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T22:16:03+00:00",
-      "raw_text": "Minnesota Says xAI's Grok Created 'Marketplace for Digital Sexual Violence'\n\nElon Musk’s AI firm says the state’s first-of-its-kind nudification ban violates the First Amendment. Minnesota says it regulates a tool, not speech.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 197,
+        "count": 198,
         "avg_1h": -0.03,
         "avg_24h": -0.93,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 116,
-        "avg_1h": 0.34,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
         "count": 145,
         "avg_1h": -0.09,
         "avg_24h": 2.08,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 115,
+        "avg_1h": 0.34,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
