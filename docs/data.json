@@ -1,6 +1,90 @@
 {
-  "generated_at": "2026-08-25T16:51:04.962608+00:00",
+  "generated_at": "2026-08-25T17:41:28.619219+00:00",
   "events": [
+    {
+      "event_id": "6d8b3210-4d05-4508-819d-30df8540b307",
+      "source": "rss:decrypt",
+      "title": "Gold Hits Three-Month High as Bitcoin Tests $80,000",
+      "url": "https://decrypt.co/376489/gold-price-three-month-high-bitcoin",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T17:24:54+00:00",
+      "raw_text": "Gold Hits Three-Month High as Bitcoin Tests $80,000\n\nGold extended its August rally as a weaker dollar and falling yields boosted demand, while Bitcoin briefly climbed above $80,000 for the first time since May.",
+      "impact": {}
+    },
+    {
+      "event_id": "2aa18a98-675b-4c8a-bee0-b6dd17c94eec",
+      "source": "rss:bitcoinmagazine",
+      "title": "US Opens a New Front Against Iran’s Crypto Economy",
+      "url": "https://bitcoinmagazine.com/news/us-sanctions-iran-crypto-economy",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T17:23:01+00:00",
+      "raw_text": "US Opens a New Front Against Iran’s Crypto Economy\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/US-Opens-a-New-Front-Against-Irans-Crypto-Economy.jpg\" style=\"display: block; margin: 1em auto;\" /><",
+      "impact": {}
+    },
+    {
+      "event_id": "0942fb20-a6f1-454a-a712-ffee925e131b",
+      "source": "rss:cointelegraph",
+      "title": "Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report",
+      "url": "https://cointelegraph.com/news/strategy-financing-risk-not-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T16:47:40+00:00",
+      "raw_text": "Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
+      "impact": {}
+    },
+    {
+      "event_id": "0fd9453e-8440-4699-8cb4-39ed434bc621",
+      "source": "rss:decrypt",
+      "title": "Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why",
+      "url": "https://decrypt.co/376446/bitcoins-price-rally-outrunning-market",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T16:45:59+00:00",
+      "raw_text": "Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why\n\nBitcoin gained roughly 24% this week while the broader crypto market grew by less, a mismatch that shows up clearly in Bitcoin's rising share of the total crypto market.",
+      "impact": {}
+    },
+    {
+      "event_id": "0ca9f9ca-fae8-4d7d-b575-982510f43ac1",
+      "source": "rss:cointelegraph",
+      "title": "Bitwise launches self-custodied tokenized stock portfolios with Coinbase",
+      "url": "https://cointelegraph.com/news/bitwise-launches-self-custodied-tokenized-stock-portfolios-with-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T16:32:00+00:00",
+      "raw_text": "Bitwise launches self-custodied tokenized stock portfolios with Coinbase\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitwise launches self-custodied tokenized stock portfolios with Coinbase \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cover",
+      "impact": {}
+    },
+    {
+      "event_id": "eb836f65-1a64-4a52-aea5-23e56e49ddf4",
+      "source": "rss:decrypt",
+      "title": "Crypto Group Warns Regulators Against Expanding Stablecoin KYC",
+      "url": "https://decrypt.co/376445/crypto-group-regulators-stablecoin-identity-checks",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T16:28:59+00:00",
+      "raw_text": "Crypto Group Warns Regulators Against Expanding Stablecoin KYC\n\nThe crypto trade group warned that forcing issuers to verify identities for peer-to-peer wallet transfers would “cripple the industry” as regulators implement the GENIUS Act.",
+      "impact": {}
+    },
+    {
+      "event_id": "ab27086a-62fb-418d-be60-ff9c43876d4b",
+      "source": "rss:coindesk",
+      "title": "LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges",
+      "url": "https://www.coindesk.com/business/2026/08/25/layerzero-unveils-trading-infrastructure-for-crypto-and-tokenized-markets-zro-surges",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T16:22:47+00:00",
+      "raw_text": "LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges",
+      "impact": {}
+    },
     {
       "event_id": "7cf54fb6-d263-4c78-ab4f-bcced3e3f00a",
       "source": "rss:theblock",
@@ -8,10 +92,17 @@
       "url": "https://www.theblock.co/news/business/2026-08-25-galaxy-expands-retail-crypto-lending-new-btc-eth-sol-backed-credit-line-412718",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
       "timestamp_utc": "2026-08-25T16:03:42+00:00",
       "raw_text": "Galaxy expands retail crypto lending with new BTC, ETH and SOL-backed credit line\n\nThe crypto-backed portfolio line of credit lets eligible GalaxyOne clients borrow cash against BTC, ETH &amp; SOL without selling their holdings.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1412,
+        "t_plus_15m": -0.288
+      }
     },
     {
       "event_id": "e7cfb250-8100-4c44-beb6-9ae4fca162f9",
@@ -314,6 +405,18 @@
       "impact": {}
     },
     {
+      "event_id": "5f0ab871-fac6-4a31-8a98-099a2b62b357",
+      "source": "rss:cointelegraph",
+      "title": "BTC RSI bullish divergence draws 2022 comparisons as analysis weighs new price trend",
+      "url": "https://cointelegraph.com/markets/bitcoin-rsi-bullish-divergence-draws-2022-comparisons-as-analysis-weighs-new-price-trend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T10:51:00+00:00",
+      "raw_text": "BTC RSI bullish divergence draws 2022 comparisons as analysis weighs new price trend\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BTC RSI bullish divergence draws 2022 comparisons as analysis weighs new price trend\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia",
+      "impact": {}
+    },
+    {
       "event_id": "6748b673-8f78-4888-a43d-d50497a2504a",
       "source": "rss:decrypt",
       "title": "Jury Convicts Las Vegas Man of $24M AI Crypto Mining Ponzi Scheme",
@@ -462,6 +565,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-25T07:53:23+00:00",
       "raw_text": "Las Vegas businessman faces 280 years in prison after $24 million crypto fraud conviction\n\nA federal jury convicted Las Vegas businessman Brent Kovar in a $24 million cryptocurrency scheme involving at least 400 investors.",
+      "impact": {}
+    },
+    {
+      "event_id": "0e733f87-b386-43b7-a965-f542c7f870f0",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin settles in under $80,000, with interest rates headed lower on Tuesday",
+      "url": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T07:40:11+00:00",
+      "raw_text": "Live updates: Bitcoin settles in under $80,000, with interest rates headed lower on Tuesday",
       "impact": {}
     },
     {
@@ -6282,129 +6397,14 @@
       "timestamp_utc": "2026-08-17T18:19:46+00:00",
       "raw_text": "Ethereum Developers Target Privacy Changes in Next Major Upgrade\n\nA proposed package would let privacy pools pay their own transaction fees without relying on intermediaries.",
       "impact": {}
-    },
-    {
-      "event_id": "e31b48b8-a803-4627-b03a-62f0016d43c5",
-      "source": "rss:bitcoinmagazine",
-      "title": "Investors Cash Out Fast of Bitcoin ETFs but Price Remains Stable",
-      "url": "https://bitcoinmagazine.com/news/investors-cash-out-of-bitcoin-etfs",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T18:04:52+00:00",
-      "raw_text": "Investors Cash Out Fast of Bitcoin ETFs but Price Remains Stable\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Investors-Cash-Out-Fast-of-Bitcoin-ETFs-But-Price-Remains-Stable.jpg\" style=\"display: ",
-      "impact": {}
-    },
-    {
-      "event_id": "1ea5f18b-a731-472c-ad4f-50645c4ae552",
-      "source": "rss:theblock",
-      "title": "Bitcoin production slips again in July for CleanSpark, BitFuFu and Canaan",
-      "url": "https://www.theblock.co/news/business/2026-08-17-bitcoin-production-slips-again-july-cleanspark-bitfufu-canaan-411985",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T17:13:59+00:00",
-      "raw_text": "Bitcoin production slips again in July for CleanSpark, BitFuFu and Canaan\n\nCleanSpark is up 6.4% year to date, while BitFuFu and Canaan have fallen more than 50% and 70%, respectively.",
-      "impact": {}
-    },
-    {
-      "event_id": "dd785c3e-a7c0-4051-b1ce-8ce8f992ec78",
-      "source": "rss:cointelegraph",
-      "title": "CFTC seeks public input on AI compute futures contracts as CME eyes October launch",
-      "url": "https://cointelegraph.com/news/cftc-ai-compute-futures-cme-october-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T17:11:39+00:00",
-      "raw_text": "CFTC seeks public input on AI compute futures contracts as CME eyes October launch\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC seeks public input on AI compute futures contracts as CME eyes October launch\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/",
-      "impact": {}
-    },
-    {
-      "event_id": "f6e7e9fc-cb09-4c91-b467-f0c45dc07b6a",
-      "source": "rss:theblock",
-      "title": "US Treasury seeks public comment on GENIUS Act stablecoin rules",
-      "url": "https://www.theblock.co/news/regulation/2026-08-17-us-treasury-seeks-public-comment-genius-act-stablecoin-rules-411987",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T16:40:26+00:00",
-      "raw_text": "US Treasury seeks public comment on GENIUS Act stablecoin rules\n\nUnder the law, entities generally cannot issue payment stablecoins in the U.S. without obtaining an appropriate federal or state license.",
-      "impact": {}
-    },
-    {
-      "event_id": "c2757473-8c5f-49ce-857b-c7e9781cd9c0",
-      "source": "rss:coindesk",
-      "title": "BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees",
-      "url": "https://www.coindesk.com/business/2026/08/17/bitmart-founder-dismisses-calls-for-audit-as-users-report-blocked-funds-unpaid-employees",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T16:40:08+00:00",
-      "raw_text": "BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees",
-      "impact": {}
-    },
-    {
-      "event_id": "baca94fb-a9f2-48cc-8df2-572ca5122f54",
-      "source": "rss:bitcoinmagazine",
-      "title": "US Treasury Asks For Public Input on Landmark Genius Act Crypto Legislation",
-      "url": "https://bitcoinmagazine.com/news/us-treasury-asks-for-input-on-genius-act",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T16:36:51+00:00",
-      "raw_text": "US Treasury Asks For Public Input on Landmark Genius Act Crypto Legislation\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/US-Treasury-Asks-For-Public-Input-on-Landmark-Genius-Act-Crypto-Legislation",
-      "impact": {}
-    },
-    {
-      "event_id": "d73757b4-aa59-4065-b1e0-09291a5fb5d1",
-      "source": "rss:cointelegraph",
-      "title": "US Treasury moves forward with rules on GENIUS Act after July deadline",
-      "url": "https://cointelegraph.com/news/us-treasury-public-comment-rules-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T16:29:48+00:00",
-      "raw_text": "US Treasury moves forward with rules on GENIUS Act after July deadline\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Treasury moves forward with rules on GENIUS Act after July deadline\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-",
-      "impact": {}
-    },
-    {
-      "event_id": "5b1bab63-db63-4a5e-877f-530246bd3a02",
-      "source": "rss:decrypt",
-      "title": "Wall Street Pushback Halts SEC's Crypto Fundraising Framework, Sources Say",
-      "url": "https://decrypt.co/375779/wall-street-pushback-halts-sec-crypto-fundraising-framework",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T16:27:26+00:00",
-      "raw_text": "Wall Street Pushback Halts SEC's Crypto Fundraising Framework, Sources Say\n\nThe securities regulator cited an \"unforeseen scheduling issue,\" but sources point to a legal threat from Wall Street trade group SIFMA and an administration waiting to see whether the Clarity Act passes in September.",
-      "impact": {}
-    },
-    {
-      "event_id": "aa719f7b-263c-4f18-b82a-772bd7357780",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin hits $64K as gold gains while oil shakes off Trump Oman threat",
-      "url": "https://cointelegraph.com/markets/bitcoin-hits-64k-as-gold-gains-while-oil-shakes-off-trump-oman-threat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-17T16:16:40+00:00",
-      "raw_text": "Bitcoin hits $64K as gold gains while oil shakes off Trump Oman threat\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin hits $64K as gold gains while oil shakes off Trump Oman threat\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-",
-      "impact": {
-        "t_plus_5m": -0.0124,
-        "t_plus_15m": 0.0127,
-        "t_plus_1h": -0.1531,
-        "t_plus_4h": 0.3404
-      }
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 146,
-        "avg_1h": -0.06,
-        "avg_24h": 2.08,
+      "unknown": {
+        "count": 194,
+        "avg_1h": -0.04,
+        "avg_24h": -0.93,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
@@ -6413,10 +6413,16 @@
         "avg_24h": 1.56,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 190,
-        "avg_1h": -0.04,
-        "avg_24h": -0.93,
+      "macro": {
+        "count": 118,
+        "avg_1h": 0.29,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 145,
+        "avg_1h": -0.05,
+        "avg_24h": 2.08,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
@@ -6424,12 +6430,6 @@
         "avg_1h": null,
         "avg_24h": null,
         "win_rate_1h_gt5pct": null
-      },
-      "macro": {
-        "count": 121,
-        "avg_1h": 0.29,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
         "count": 7,
