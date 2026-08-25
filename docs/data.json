@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-25T20:41:07.060454+00:00",
+  "generated_at": "2026-08-25T21:38:28.529170+00:00",
   "events": [
+    {
+      "event_id": "7d280c26-09b6-4b29-a4ef-fde3f9d17d66",
+      "source": "rss:decrypt",
+      "title": "Alibaba to Release Qwen 3.8-Flash-Next as a Preview of What Qwen 4 Will Offer",
+      "url": "https://decrypt.co/376530/alibaba-qwen-3-8-flash-next-preview-qwen-4",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T21:16:04+00:00",
+      "raw_text": "Alibaba to Release Qwen 3.8-Flash-Next as a Preview of What Qwen 4 Will Offer\n\nAlibaba's Qwen team is teasing its next architecture a day early—and the specs say it runs near-frontier scale on a fraction of the power.",
+      "impact": {}
+    },
+    {
+      "event_id": "0f82e22d-966a-4e63-9351-4f28c9543910",
+      "source": "rss:bitcoinmagazine",
+      "title": "Is Bitcoin Out of Its Bear Market? These Analysts Think So",
+      "url": "https://bitcoinmagazine.com/news/is-bitcoin-out-of-bear-market",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T20:51:18+00:00",
+      "raw_text": "Is Bitcoin Out of Its Bear Market? These Analysts Think So\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/is-bitcoin-out-of-bear-market-cryptoquant.jpg\" style=\"display: block; margin: 1em auto;\" /><",
+      "impact": {}
+    },
+    {
+      "event_id": "3409adc0-4eac-4554-9a88-139c045ab65e",
+      "source": "rss:decrypt",
+      "title": "These Researchers Just Shrunk an AI Model and Somehow Made It Smarter",
+      "url": "https://decrypt.co/376536/researchers-shrink-ai-model-made-smarter",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T20:46:03+00:00",
+      "raw_text": "These Researchers Just Shrunk an AI Model and Somehow Made It Smarter\n\nA smaller, cheaper AI usually means a dumber one. A new technique flipped that—and your phone might be the winner.",
+      "impact": {}
+    },
+    {
+      "event_id": "b18dc9d6-83aa-40f6-9588-396c78c0ddb0",
+      "source": "rss:cointelegraph",
+      "title": "World Liberty Financial launches USD1 natively on Canton Network",
+      "url": "https://cointelegraph.com/news/world-liberty-financial-launches-usd1-natively-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T20:35:10+00:00",
+      "raw_text": "World Liberty Financial launches USD1 natively on Canton Network\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"World Liberty Financial launches USD1 natively on Canton Network\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-company-want",
+      "impact": {}
+    },
     {
       "event_id": "9a0fa407-a17f-423f-ae62-c4b6c9761506",
       "source": "rss:bitcoinmagazine",
@@ -234,7 +282,8 @@
       "impact": {
         "t_plus_5m": -0.1412,
         "t_plus_15m": -0.288,
-        "t_plus_1h": -0.4974
+        "t_plus_1h": -0.4974,
+        "t_plus_4h": -0.8821
       }
     },
     {
@@ -6355,80 +6404,32 @@
       "timestamp_utc": "2026-08-17T22:16:03+00:00",
       "raw_text": "Minnesota Says xAI's Grok Created 'Marketplace for Digital Sexual Violence'\n\nElon Musk’s AI firm says the state’s first-of-its-kind nudification ban violates the First Amendment. Minnesota says it regulates a tool, not speech.",
       "impact": {}
-    },
-    {
-      "event_id": "d3b04061-91c4-45f5-986a-f04ac13b82ce",
-      "source": "rss:coindesk",
-      "title": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push",
-      "url": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T22:12:00+00:00",
-      "raw_text": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push",
-      "impact": {}
-    },
-    {
-      "event_id": "92673e64-7f10-4fa4-96b0-043262a965ee",
-      "source": "rss:bitcoinmagazine",
-      "title": "Losses Top $115M In Coldcard Bitcoin Hack: Galaxy Research",
-      "url": "https://bitcoinmagazine.com/news/losses-top-115-million-in-coldcard-hack",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T21:32:34+00:00",
-      "raw_text": "Losses Top $115M In Coldcard Bitcoin Hack: Galaxy Research\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Losses-Top-115M-In-Coldcard-Bitcoin-Hack-Galaxy-Research.jpg\" style=\"display: block; margin:",
-      "impact": {}
-    },
-    {
-      "event_id": "b3978dde-f76a-4cc8-b958-0fbc618f8d5e",
-      "source": "rss:cointelegraph",
-      "title": "OCC approves Trump family crypto company for trust charter",
-      "url": "https://cointelegraph.com/news/occ-donald-trump-world-liberty-financial-trust-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T21:17:30+00:00",
-      "raw_text": "OCC approves Trump family crypto company for trust charter\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OCC approves Trump family crypto company for trust charter\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-donald-trump-and-wlfi.jp",
-      "impact": {}
-    },
-    {
-      "event_id": "4d52aefa-cdba-4902-ba18-5edda4b9d562",
-      "source": "rss:decrypt",
-      "title": "Prediction Markets Give the Fed 74% Odds of Standing Pat in September",
-      "url": "https://decrypt.co/375821/prediction-fed-rate-change-september",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T21:16:17+00:00",
-      "raw_text": "Prediction Markets Give the Fed 74% Odds of Standing Pat in September\n\nTraders across Polymarket, Kalshi, and Myriad are leaning the same way: no change at the September meeting.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 117,
-        "avg_1h": 0.34,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 196,
+        "count": 197,
         "avg_1h": -0.03,
         "avg_24h": -0.93,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 33,
-        "avg_1h": -0.11,
-        "avg_24h": 1.56,
+      "macro": {
+        "count": 116,
+        "avg_1h": 0.34,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 144,
+        "count": 145,
         "avg_1h": -0.09,
         "avg_24h": 2.08,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 32,
+        "avg_1h": -0.11,
+        "avg_24h": 1.56,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
