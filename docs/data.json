@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-25T08:55:03.699970+00:00",
+  "generated_at": "2026-08-25T09:47:52.122131+00:00",
   "events": [
+    {
+      "event_id": "c6b36c0f-c879-48c8-b3f0-f6652c414525",
+      "source": "rss:decrypt",
+      "title": "Franklin Templeton's Tokenized Treasury Fund Lands on HashKey",
+      "url": "https://decrypt.co/376422/franklin-templetons-tokenized-treasury-fund-lands-on-hashkey",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T09:30:27+00:00",
+      "raw_text": "Franklin Templeton's Tokenized Treasury Fund Lands on HashKey\n\nThe $1.8 trillion manager is putting its onchain money market fund on the Hong Kong exchange's Earn channel.",
+      "impact": {}
+    },
+    {
+      "event_id": "66954f0b-f660-4f9f-81a8-131afef33f87",
+      "source": "rss:coindesk",
+      "title": "U.S. widens Iran crackdown to encompass crypto, gold, shipping and technology",
+      "url": "https://www.coindesk.com/policy/2026/08/25/u-s-widens-iran-crackdown-to-encompass-crypto-gold-shipping-and-technology",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T08:47:18+00:00",
+      "raw_text": "U.S. widens Iran crackdown to encompass crypto, gold, shipping and technology",
+      "impact": {}
+    },
+    {
+      "event_id": "1fd9b003-10ed-4aa4-bb1c-eb172946e010",
+      "source": "rss:cointelegraph",
+      "title": "Galaxy puts Coldcard hack losses at 1,789 BTC, with 87% unmoved",
+      "url": "https://cointelegraph.com/news/coldcard-hack-galaxy-btc-lost-87-unmoved?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T08:46:47+00:00",
+      "raw_text": "Galaxy puts Coldcard hack losses at 1,789 BTC, with 87% unmoved\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Galaxy puts Coldcard hack losses at 1,789 BTC, with 87% unmoved\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-supply-",
+      "impact": {}
+    },
     {
       "event_id": "c547fe72-ae45-4ccc-8378-e7dc0c1e6f79",
       "source": "rss:cointelegraph",
@@ -23,6 +59,30 @@
       "tokens": [],
       "timestamp_utc": "2026-08-25T07:55:18+00:00",
       "raw_text": "Franklin Templeton and Hashkey roll out U.S. tokenized money fund in Asia",
+      "impact": {}
+    },
+    {
+      "event_id": "6e584e4b-68fe-4d33-9b79-740e3bb8081b",
+      "source": "rss:theblock",
+      "title": "Las Vegas businessman faces 280 years in prison after $24 million crypto fraud conviction",
+      "url": "https://www.theblock.co/news/regulation/2026-08-25-las-vegas-businessman-24-million-crypto-fraud-412690",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T07:53:23+00:00",
+      "raw_text": "Las Vegas businessman faces 280 years in prison after $24 million crypto fraud conviction\n\nA federal jury convicted Las Vegas businessman Brent Kovar in a $24 million cryptocurrency scheme involving at least 400 investors.",
+      "impact": {}
+    },
+    {
+      "event_id": "a4f49418-ca26-446a-aea2-6a7f745fc16e",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin ETFs draw a sixth straight day of inflows as the rally holds above $80,000",
+      "url": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-25T07:40:11+00:00",
+      "raw_text": "Live updates: Bitcoin ETFs draw a sixth straight day of inflows as the rally holds above $80,000",
       "impact": {}
     },
     {
@@ -172,7 +232,8 @@
       "impact": {
         "t_plus_5m": -0.027,
         "t_plus_15m": 0.0009,
-        "t_plus_1h": -0.2066
+        "t_plus_1h": -0.2066,
+        "t_plus_4h": -1.359
       }
     },
     {
@@ -6368,74 +6429,14 @@
       "timestamp_utc": "2026-08-17T09:31:47+00:00",
       "raw_text": "Bitpanda fined in Austria’s first published MiCA penalty\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitpanda fined in Austria’s first published MiCA penalty\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-european-union-moves-to-regu",
       "impact": {}
-    },
-    {
-      "event_id": "089089b0-ad59-45a2-a8a0-a86e1c5e5a04",
-      "source": "rss:decrypt",
-      "title": "SafePal Bitcoin Wallet Data Breach Stokes Fears of Physical Attacks",
-      "url": "https://decrypt.co/375743/safepal-bitcoin-wallet-data-breach",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T09:31:04+00:00",
-      "raw_text": "SafePal Bitcoin Wallet Data Breach Stokes Fears of Physical Attacks\n\nA flaw in an order-tracking plug-in of bitcoin wallet provider SafePal exposed names, addresses and phone numbers of nearly 40,000 customers.",
-      "impact": {}
-    },
-    {
-      "event_id": "74ccd1f0-51bb-4de4-bfc9-e76b29c7dcd8",
-      "source": "rss:coindesk",
-      "title": "Binance handed user data to Russia that led to a Ukrainian donor's arrest",
-      "url": "https://www.coindesk.com/policy/2026/08/17/binance-handed-user-data-to-russia-that-led-to-a-ukrainian-donor-s-arrest",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T09:16:14+00:00",
-      "raw_text": "Binance handed user data to Russia that led to a Ukrainian donor's arrest",
-      "impact": {}
-    },
-    {
-      "event_id": "61ed8999-5381-461e-8cd8-61f7db2fe4d2",
-      "source": "rss:coindesk",
-      "title": "Coinbase-Circle USDC collaboration, FOMC minutes, oil price: Crypto Week Ahead",
-      "url": "https://www.coindesk.com/markets/2026/08/17/coinbase-circle-usdc-collaboration-fomc-minutes-oil-price-crypto-week-ahead",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T09:13:02+00:00",
-      "raw_text": "Coinbase-Circle USDC collaboration, FOMC minutes, oil price: Crypto Week Ahead",
-      "impact": {}
-    },
-    {
-      "event_id": "5ce37e05-8297-4189-a95b-fd3eface0f0e",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin rises above $64,000 as big AI compute deals continue to roll in",
-      "url": "https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T08:38:26+00:00",
-      "raw_text": "Live updates: Bitcoin rises above $64,000 as big AI compute deals continue to roll in",
-      "impact": {}
-    },
-    {
-      "event_id": "4c655c61-ea36-4380-901f-2f06a61cddc2",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin remains trapped in tight range as big AI compute deals continue to roll in",
-      "url": "https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-17T08:38:26+00:00",
-      "raw_text": "Live updates: Bitcoin remains trapped in tight range as big AI compute deals continue to roll in",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 120,
-        "avg_1h": 0.25,
-        "avg_24h": null,
+      "narrative": {
+        "count": 142,
+        "avg_1h": -0.04,
+        "avg_24h": 2.08,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
@@ -6444,16 +6445,16 @@
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 144,
-        "avg_1h": -0.04,
-        "avg_24h": 2.08,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
         "count": 34,
         "avg_1h": -0.12,
         "avg_24h": 1.56,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 122,
+        "avg_1h": 0.25,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
