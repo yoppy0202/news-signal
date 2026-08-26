@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T07:04:18.607469+00:00",
+  "generated_at": "2026-08-26T07:55:10.994816+00:00",
   "events": [
     {
       "event_id": "7745726b-284c-4b85-8ce7-f543201d7cb7",
@@ -32,10 +32,16 @@
       "url": "https://www.coindesk.com/markets/2026/08/26/xrp-s-44-rally-brings-leverage-back-raising-risk-of-sharper-pullback",
       "event_type": "narrative",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-08-26T05:16:32+00:00",
       "raw_text": "XRP’s 44% rally brings leverage back, raising risk of sharper pullback",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2776,
+        "t_plus_15m": 0.4422,
+        "t_plus_1h": 0.8869
+      }
     },
     {
       "event_id": "d6a90188-75f3-4e00-8029-b998eaa98399",
@@ -6398,7 +6404,7 @@
     "by_event_type": {
       "narrative": {
         "count": 146,
-        "avg_1h": -0.06,
+        "avg_1h": -0.01,
         "avg_24h": 2.08,
         "win_rate_1h_gt5pct": 0.0
       },
