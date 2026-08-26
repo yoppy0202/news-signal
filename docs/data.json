@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-26T05:46:16.880779+00:00",
+  "generated_at": "2026-08-26T07:04:18.607469+00:00",
   "events": [
+    {
+      "event_id": "7745726b-284c-4b85-8ce7-f543201d7cb7",
+      "source": "rss:theblock",
+      "title": "Japan to work on blockchain-based stock settlement system, details expected early 2027: Nikkei",
+      "url": "https://www.theblock.co/news/regulation/2026-08-26-japan-blockchain-stock-settlement-system-412755",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-26T06:40:31+00:00",
+      "raw_text": "Japan to work on blockchain-based stock settlement system, details expected early 2027: Nikkei\n\nIf the plan is approved, the agencies could launch the system within a few years, and fully operational in the early 2030s.",
+      "impact": {}
+    },
+    {
+      "event_id": "6325196a-42cf-43f0-a444-f8dd1ffd4581",
+      "source": "rss:coindesk",
+      "title": "BlackRock cuts bitcoin ETF swap minimum to $1 million: Report",
+      "url": "https://www.coindesk.com/markets/2026/08/26/E",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-26T05:52:53+00:00",
+      "raw_text": "BlackRock cuts bitcoin ETF swap minimum to $1 million: Report",
+      "impact": {}
+    },
+    {
+      "event_id": "a52f67c9-e866-4d42-9fa1-7c458bf367e5",
+      "source": "rss:coindesk",
+      "title": "XRP’s 44% rally brings leverage back, raising risk of sharper pullback",
+      "url": "https://www.coindesk.com/markets/2026/08/26/xrp-s-44-rally-brings-leverage-back-raising-risk-of-sharper-pullback",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-26T05:16:32+00:00",
+      "raw_text": "XRP’s 44% rally brings leverage back, raising risk of sharper pullback",
+      "impact": {}
+    },
     {
       "event_id": "d6a90188-75f3-4e00-8029-b998eaa98399",
       "source": "rss:theblock",
@@ -6356,83 +6392,26 @@
       "timestamp_utc": "2026-08-18T05:55:43+00:00",
       "raw_text": "The bitcoin price level where leveraged bulls could get whacked",
       "impact": {}
-    },
-    {
-      "event_id": "d6693270-074c-422e-8d54-8f35dbbfff02",
-      "source": "rss:coindesk",
-      "title": "XRP sinks below $1 for first time since 2024 even as Korean bank adopts Ripple Payments",
-      "url": "https://www.coindesk.com/markets/2026/08/18/xrp-slips-below-usd1-even-as-korean-regional-bank-adopts-ripple-payments",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-08-18T05:34:32+00:00",
-      "raw_text": "XRP sinks below $1 for first time since 2024 even as Korean bank adopts Ripple Payments",
-      "impact": {
-        "t_plus_5m": -0.0277,
-        "t_plus_15m": 0.0647,
-        "t_plus_1h": 0.5061,
-        "t_plus_4h": 0.0553
-      }
-    },
-    {
-      "event_id": "83e4e7d9-916f-435d-9b66-e5955928cde2",
-      "source": "rss:coindesk",
-      "title": "XRP sinks below $1 for first time since 2024 as Korean bank adopts Ripple Payments",
-      "url": "https://www.coindesk.com/markets/2026/08/18/xrp-slips-below-usd1-even-as-korean-regional-bank-adopts-ripple-payments",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-08-18T05:34:32+00:00",
-      "raw_text": "XRP sinks below $1 for first time since 2024 as Korean bank adopts Ripple Payments",
-      "impact": {
-        "t_plus_5m": -0.5238,
-        "t_plus_15m": -0.4318,
-        "t_plus_1h": 0.0073,
-        "t_plus_4h": -0.4412
-      }
-    },
-    {
-      "event_id": "85606e9d-06da-408b-a227-7b1bc50a95fe",
-      "source": "rss:coindesk",
-      "title": "XRP slips below $1 even as a Korean regional bank adopts Ripple Payments",
-      "url": "https://www.coindesk.com/markets/2026/08/18/xrp-slips-below-usd1-even-as-korean-regional-bank-adopts-ripple-payments",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-08-18T05:34:32+00:00",
-      "raw_text": "XRP slips below $1 even as a Korean regional bank adopts Ripple Payments",
-      "impact": {
-        "t_plus_5m": -0.0365,
-        "t_plus_15m": 0.056,
-        "t_plus_1h": 0.4973,
-        "t_plus_4h": 0.0466
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 146,
+        "avg_1h": -0.06,
+        "avg_24h": 2.08,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 115,
+        "count": 116,
         "avg_1h": 0.34,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 198,
-        "avg_1h": -0.03,
+        "count": 195,
+        "avg_1h": -0.08,
         "avg_24h": -0.93,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 144,
-        "avg_1h": -0.06,
-        "avg_24h": 2.08,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
