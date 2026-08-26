@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-26T04:51:35.959297+00:00",
+  "generated_at": "2026-08-26T05:46:16.880779+00:00",
   "events": [
+    {
+      "event_id": "d6a90188-75f3-4e00-8029-b998eaa98399",
+      "source": "rss:theblock",
+      "title": "Kalshi raised $1.12 billion via private equity offering since April, latest SEC filing shows",
+      "url": "https://www.theblock.co/news/web3/2026-08-26-kalshi-latest-form-d-412749",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-26T04:51:58+00:00",
+      "raw_text": "Kalshi raised $1.12 billion via private equity offering since April, latest SEC filing shows\n\nIt was reported earlier this month that Kalshi is looking to raise $750 million in fresh capital at a $40 billion valuation.",
+      "impact": {}
+    },
+    {
+      "event_id": "baeb8c5f-e954-4913-bda6-6fb44cf5a7a2",
+      "source": "rss:coindesk",
+      "title": "Crypto greed gauge hits highest since just before October’s $19 billion wipeout",
+      "url": "https://www.coindesk.com/markets/2026/08/26/crypto-greed-gauge-hits-highest-since-just-before-october-s-usd19-billion-wipeout",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-26T04:51:49+00:00",
+      "raw_text": "Crypto greed gauge hits highest since just before October’s $19 billion wipeout",
+      "impact": {}
+    },
     {
       "event_id": "14186173-6fc3-4370-8c40-afb4686ef482",
       "source": "rss:cointelegraph",
@@ -6389,38 +6413,14 @@
         "t_plus_1h": 0.4973,
         "t_plus_4h": 0.0466
       }
-    },
-    {
-      "event_id": "b478ea4c-4117-42b9-a132-383b75d3b0e2",
-      "source": "rss:theblock",
-      "title": "Upbit and Bithumb report 50% declines in H1 revenue, reflecting market contraction",
-      "url": "https://www.theblock.co/news/markets/2026-08-18-upbit-bithumb-h1-decline-412034",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-18T05:30:25+00:00",
-      "raw_text": "Upbit and Bithumb report 50% declines in H1 revenue, reflecting market contraction\n\nInvestor capital in South Korea largely shifted toward domestic equities, with the benchmark KOSPI more than doubling in H1 2026.",
-      "impact": {}
-    },
-    {
-      "event_id": "a2d56e73-7d4f-44ca-8ceb-50d57c591400",
-      "source": "rss:coindesk",
-      "title": "Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no",
-      "url": "https://www.coindesk.com/markets/2026/08/18/monad-an-ethereum-rival-offered-early-investors-up-to-usd60-million-to-cash-out-almost-all-said-no",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-18T05:18:18+00:00",
-      "raw_text": "Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 145,
-        "avg_1h": -0.06,
-        "avg_24h": 2.08,
+      "macro": {
+        "count": 115,
+        "avg_1h": 0.34,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
@@ -6429,10 +6429,10 @@
         "avg_24h": -0.93,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 114,
-        "avg_1h": 0.34,
-        "avg_24h": null,
+      "narrative": {
+        "count": 144,
+        "avg_1h": -0.06,
+        "avg_24h": 2.08,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
