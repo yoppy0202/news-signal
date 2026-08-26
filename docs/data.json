@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-26T03:14:49.148685+00:00",
+  "generated_at": "2026-08-26T04:51:35.959297+00:00",
   "events": [
+    {
+      "event_id": "14186173-6fc3-4370-8c40-afb4686ef482",
+      "source": "rss:cointelegraph",
+      "title": "US banking groups plan nationwide blockchain network for 2027",
+      "url": "https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-26T04:17:39+00:00",
+      "raw_text": "US banking groups plan nationwide blockchain network for 2027\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US banking groups plan nationwide blockchain network for 2027 \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-us-banks-have-dee",
+      "impact": {}
+    },
+    {
+      "event_id": "b30ec110-ec00-4d9b-93f0-82307b04b4d3",
+      "source": "rss:coindesk",
+      "title": "Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains",
+      "url": "https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-26T04:13:10+00:00",
+      "raw_text": "Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains",
+      "impact": {}
+    },
+    {
+      "event_id": "b658b7eb-d259-4ebd-acf5-f2560158d916",
+      "source": "rss:theblock",
+      "title": "RockawayX acquires Relayer Capital to expand crypto offerings in US",
+      "url": "https://www.theblock.co/news/business/2026-08-25-rockawayx-relayer-capital-412743",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-26T03:35:32+00:00",
+      "raw_text": "RockawayX acquires Relayer Capital to expand crypto offerings in US\n\nRelayer will become the RockawayX Liquid Opportunities Fund, identifying 'undervalued liquid tokens and crypto-related equities.'",
+      "impact": {}
+    },
     {
       "event_id": "d0b3f26f-8747-49bd-8bab-206a36f2e84d",
       "source": "rss:decrypt",
@@ -6377,56 +6413,20 @@
       "timestamp_utc": "2026-08-18T05:18:18+00:00",
       "raw_text": "Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no",
       "impact": {}
-    },
-    {
-      "event_id": "a8564e38-14e9-486d-947f-9becc24e8014",
-      "source": "rss:cointelegraph",
-      "title": "Ethereum Foundation warns some tools may break with Glamsterdam upgrade",
-      "url": "https://cointelegraph.com/news/ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-18T05:12:18+00:00",
-      "raw_text": "Ethereum Foundation warns some tools may break with Glamsterdam upgrade\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum Foundation warns some tools may break with Glamsterdam upgrade\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/s",
-      "impact": {}
-    },
-    {
-      "event_id": "f8d621fd-3703-4d6c-a334-e05f84459a67",
-      "source": "rss:coindesk",
-      "title": "Bitcoin climbs above $64,000 while most majors slip",
-      "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-climbs-above-usd64-000-while-most-majors-slip",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-18T04:32:38+00:00",
-      "raw_text": "Bitcoin climbs above $64,000 while most majors slip",
-      "impact": {}
-    },
-    {
-      "event_id": "b989eea8-e319-4b09-9a46-32973285422f",
-      "source": "rss:cointelegraph",
-      "title": "South Korea’s Jeonbuk Bank taps Ripple for cross-border payments",
-      "url": "https://cointelegraph.com/news/jeonbuk-bank-ripple-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-18T04:11:02+00:00",
-      "raw_text": "South Korea’s Jeonbuk Bank taps Ripple for cross-border payments\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea’s Jeonbuk Bank taps Ripple for cross-border payments\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-negot",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 198,
-        "avg_1h": -0.03,
-        "avg_24h": -0.93,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
         "count": 145,
         "avg_1h": -0.06,
         "avg_24h": 2.08,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 198,
+        "avg_1h": -0.03,
+        "avg_24h": -0.93,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
