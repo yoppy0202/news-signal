@@ -1,6 +1,90 @@
 {
-  "generated_at": "2026-08-26T19:16:40.421435+00:00",
+  "generated_at": "2026-08-26T23:26:19.558487+00:00",
   "events": [
+    {
+      "event_id": "e95d3c99-47dc-483f-8bbc-c4f0ff89002e",
+      "source": "rss:bitcoinmagazine",
+      "title": "Billions Pour Into Bitcoin ETFs as Rally Rolls On",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-etfs-receive-billions-in-new-cash",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-26T20:56:47+00:00",
+      "raw_text": "Billions Pour Into Bitcoin ETFs as Rally Rolls On\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Pics-3.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/n",
+      "impact": {}
+    },
+    {
+      "event_id": "9742927a-38aa-4033-bbf2-7c3dc469ec35",
+      "source": "rss:coindesk",
+      "title": "Nvidia tops earnings estimates, guides to $108 billion in revenue next quarter",
+      "url": "https://www.coindesk.com/markets/2026/08/26/nvidia-tops-earnings-estimates-guides-to-usd108-billion-in-revenue-next-quarter",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-26T20:24:31+00:00",
+      "raw_text": "Nvidia tops earnings estimates, guides to $108 billion in revenue next quarter",
+      "impact": {}
+    },
+    {
+      "event_id": "a6aeb17d-ff49-4885-8eb1-94f834f80f00",
+      "source": "rss:decrypt",
+      "title": "What Traders Are Watching for Bitcoin's Next Move",
+      "url": "https://decrypt.co/376649/what-traders-watching-bitcoin-next-move",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-26T20:22:17+00:00",
+      "raw_text": "What Traders Are Watching for Bitcoin's Next Move\n\nBitcoin's monster rally just hit its first real test. Here's why each catalyst matters and how they could move the price from here.",
+      "impact": {}
+    },
+    {
+      "event_id": "b8f4107d-df70-4d13-b0e1-d974901dcff7",
+      "source": "rss:cointelegraph",
+      "title": "Better launches Bitcoin-backed mortgages powered by Coinbase",
+      "url": "https://cointelegraph.com/news/better-launches-bitcoin-backed-mortgages-powered-by-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-26T20:09:23+00:00",
+      "raw_text": "Better launches Bitcoin-backed mortgages powered by Coinbase\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Better launches Bitcoin-backed mortgages powered by Coinbase\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-japan-what-is-a-hous",
+      "impact": {}
+    },
+    {
+      "event_id": "a8275f5f-b14c-4454-bdd4-6ac6887d8db3",
+      "source": "rss:decrypt",
+      "title": "Galaxy Opens Retail Crypto-Backed Credit Lines on Bitcoin, Ethereum and Solana",
+      "url": "https://decrypt.co/376646/galaxy-crypto-credit-lines-bitcoin-ethereum-solana",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-26T19:56:03+00:00",
+      "raw_text": "Galaxy Opens Retail Crypto-Backed Credit Lines on Bitcoin, Ethereum and Solana\n\nGalaxyOne clients can borrow cash against Bitcoin, Ethereum, and staked Solana at 8.99% APR without selling a coin.",
+      "impact": {}
+    },
+    {
+      "event_id": "d0c30c94-2125-4506-9e41-0d25885ae3b9",
+      "source": "rss:bitcoinmagazine",
+      "title": "Forget the Trump Bump — Bitcoin Would Be Fine Under Democrats, Says VanEck",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-would-be-fine-under-democrats",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-26T19:39:19+00:00",
+      "raw_text": "Forget the Trump Bump — Bitcoin Would Be Fine Under Democrats, Says VanEck\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Trump-Bump-Bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<",
+      "impact": {}
+    },
+    {
+      "event_id": "219ff4aa-faab-49fb-a73e-4c6e63eec1e2",
+      "source": "rss:decrypt",
+      "title": "US Banks Join Forces to Build a Blockchain of Their Own",
+      "url": "https://decrypt.co/376644/banks-build-blockchain-bankchain-alliance",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-26T19:21:25+00:00",
+      "raw_text": "US Banks Join Forces to Build a Blockchain of Their Own\n\nThe BankChain Alliance aims to give smaller financial institutions access to tokenized deposits and blockchain payments through a shared network targeted for 2027.",
+      "impact": {}
+    },
     {
       "event_id": "d202dcb5-beea-4a7a-84cc-730efdd3bb71",
       "source": "rss:decrypt",
@@ -8,10 +92,15 @@
       "url": "https://decrypt.co/376641/bitcoin-wallets-dormant-decade-move-40m",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-26T18:44:17+00:00",
       "raw_text": "Bitcoin Wallets Dormant for Over a Decade Move $40M in One Week\n\nSix wallets that slept through Bitcoin's entire boom woke up between Aug. 16 and Aug. 26, moving tens of millions in BTC.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0595,
+        "t_plus_15m": 0.0482
+      }
     },
     {
       "event_id": "990d644c-506f-4c4e-971f-0e52b72c7d85",
@@ -20,10 +109,16 @@
       "url": "https://decrypt.co/376619/solana-treasury-sol-data-beyond-price",
       "event_type": "listing",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "SOL"
+      ],
       "timestamp_utc": "2026-08-26T17:52:22+00:00",
       "raw_text": "Solana Treasury Firm Invites Investors to Look 'Beyond the Price of SOL'\n\nNasdaq-listed SOL treasury company DeFi Development Corp launched a free network dashboard on Wednesday. Its pitch: judge Solana on more than just price.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1811,
+        "t_plus_15m": 0.0391,
+        "t_plus_1h": -0.0055
+      }
     },
     {
       "event_id": "753d8c91-47d9-4671-b339-6371c7236220",
@@ -159,7 +254,8 @@
       "raw_text": "XRP Leads Crypto Pullback as Leverage Unwind Tests Rally\n\nXRP led losses among the 10 biggest cryptocurrencies today. The charts show the real test for its rally is only getting started.",
       "impact": {
         "t_plus_5m": 0.1126,
-        "t_plus_15m": 0.3499
+        "t_plus_15m": 0.3499,
+        "t_plus_1h": 0.3154
       }
     },
     {
@@ -172,6 +268,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-26T15:29:13+00:00",
       "raw_text": "SEC Sends Proposal to White House To Modernize Crypto Custody\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/SEC-CHair-Paul-Atkins-Supports-Clairty.jpg\" style=\"display: block; margin: 1em auto;\" /><",
+      "impact": {}
+    },
+    {
+      "event_id": "0cd84fa2-1e60-49cb-9085-0d9c333dfd61",
+      "source": "rss:coindesk",
+      "title": "South Korea’s top financial conglomerate team up with Visa to test stablecoin issuance and B2B settlements",
+      "url": "https://www.coindesk.com/business/2026/08/26/south-korea-s-shinhan-financial-joins-visa-to-build-stablecoin-infrastructure",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-26T15:15:13+00:00",
+      "raw_text": "South Korea’s top financial conglomerate team up with Visa to test stablecoin issuance and B2B settlements",
       "impact": {}
     },
     {
@@ -261,7 +369,8 @@
       "impact": {
         "t_plus_5m": 0.0402,
         "t_plus_15m": 0.0924,
-        "t_plus_1h": -1.4481
+        "t_plus_1h": -1.4481,
+        "t_plus_4h": 0.1944
       }
     },
     {
@@ -291,7 +400,8 @@
       "impact": {
         "t_plus_5m": 0.1793,
         "t_plus_15m": 0.4535,
-        "t_plus_1h": 0.1145
+        "t_plus_1h": 0.1145,
+        "t_plus_4h": 0.6184
       }
     },
     {
@@ -556,6 +666,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-26T09:06:00+00:00",
       "raw_text": "Japan targets early 2030s launch for blockchain-based stock and bond settlement system",
+      "impact": {}
+    },
+    {
+      "event_id": "e9ef6d10-0ed1-40ad-9e8d-ef448274207c",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin trades in tight range above $78,000 as Nvidia tops estimates",
+      "url": "https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-26T08:51:18+00:00",
+      "raw_text": "Live updates: Bitcoin trades in tight range above $78,000 as Nvidia tops estimates",
       "impact": {}
     },
     {
@@ -6252,128 +6374,20 @@
       "timestamp_utc": "2026-08-18T20:25:35+00:00",
       "raw_text": "White House crypto adviser Patrick Witt says he is ‘optimistic and bullish’ on Clarity Act as stablecoin fight resurfaces\n\nThe White House’s top crypto adviser said he is feeling \"optimistic and bullish\" ahead of the first planned vote on sweeping crypto legislation.",
       "impact": {}
-    },
-    {
-      "event_id": "e553a964-33f4-4a8b-ad55-8aa67460dcca",
-      "source": "rss:decrypt",
-      "title": "SEC Proposes Crypto Fundraising Exemptions in Abrupt About-Face",
-      "url": "https://decrypt.co/375902/sec-regulation-crypto-fundraising-exemptions",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-18T20:00:25+00:00",
-      "raw_text": "SEC Proposes Crypto Fundraising Exemptions in Abrupt About-Face\n\nThe proposed rules would let crypto projects raise capital through token sales without full securities registration and create a path for tokens to separate from investment contracts.",
-      "impact": {}
-    },
-    {
-      "event_id": "32d12843-d548-417d-81b7-de1cd3bcb017",
-      "source": "rss:cointelegraph",
-      "title": "Ripple- and Coinbase-funded PAC spends $2M in Florida race with little mention of crypto",
-      "url": "https://cointelegraph.com/news/crypto-pac-ads-florida-congress-spending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-18T19:54:16+00:00",
-      "raw_text": "Ripple- and Coinbase-funded PAC spends $2M in Florida race with little mention of crypto\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ripple- and Coinbase-funded PAC spends $2M in Florida race with little mention of crypto\" class=\"type:primaryImage\" src=\"https://s3-images",
-      "impact": {}
-    },
-    {
-      "event_id": "8f8d58ee-ce6f-46c3-aecd-25caf73cfdcd",
-      "source": "rss:theblock",
-      "title": "Ripple CLO says Sept. 15 will be a ‘bellwether’ for Clarity Act market structure bill",
-      "url": "https://www.theblock.co/news/regulation/2026-08-18-ripple-clo-september-15-bellwether-clarity-act-market-structure-bill-412142",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-18T19:49:12+00:00",
-      "raw_text": "Ripple CLO says Sept. 15 will be a ‘bellwether’ for Clarity Act market structure bill\n\nStuart Alderoty calls Sept. 15 a key test for the Clarity Act and warns the U.S. could \"miss an incredible opportunity.\"",
-      "impact": {}
-    },
-    {
-      "event_id": "765e3d74-5b7e-4eca-b559-a01a81cafc25",
-      "source": "rss:bitcoinmagazine",
-      "title": "SEC Proposes Crypto Rulebook as Clarity Act Stalls",
-      "url": "https://bitcoinmagazine.com/news/sec-proposes-crypto-rules",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-18T19:46:11+00:00",
-      "raw_text": "SEC Proposes Crypto Rulebook as Clarity Act Stalls\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/SEC-Delaying-Plan-to-Allow-Crypto-Versions-of-US-Stocks-Report.jpg\" style=\"display: block; margin: 1",
-      "impact": {}
-    },
-    {
-      "event_id": "de8b5b23-c623-4db4-87d6-7db2fb974238",
-      "source": "rss:cointelegraph",
-      "title": "Cypherpunk launches Zcash mining fleet controlling 18% of network hashrate",
-      "url": "https://cointelegraph.com/news/cypherpunk-zcash-mining-winklevoss-capital-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-18T19:31:16+00:00",
-      "raw_text": "Cypherpunk launches Zcash mining fleet controlling 18% of network hashrate\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cypherpunk launches Zcash mining fleet controlling 18% of network hashrate\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-co",
-      "impact": {}
-    },
-    {
-      "event_id": "5ceacb53-fa50-4a97-86c4-52efcb2f3444",
-      "source": "rss:theblock",
-      "title": "SEC proposes new crypto offering rules as Congress stalls on digital asset legislation",
-      "url": "https://www.theblock.co/news/regulation/2026-08-18-sec-proposes-new-crypto-offering-rules-congress-stalls-digital-asset-legislation-412145",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-18T19:23:53+00:00",
-      "raw_text": "SEC proposes new crypto offering rules as Congress stalls on digital asset legislation\n\nOn Tuesday, the SEC proposed a new rule that seeks to offer a pathway for investments involving digital assets.",
-      "impact": {}
-    },
-    {
-      "event_id": "e08ddca3-5cba-4093-9b24-68836c9b9e51",
-      "source": "rss:decrypt",
-      "title": "Markets Confident OpenAI Releases Its Next AI Model in Weeks",
-      "url": "https://decrypt.co/375892/openai-next-ai-model-gpt6-astra-prediction",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-18T19:15:26+00:00",
-      "raw_text": "Markets Confident OpenAI Releases Its Next AI Model in Weeks\n\nTraders are betting OpenAI's next frontier model lands within weeks—even after the company pumped the brakes.",
-      "impact": {}
-    },
-    {
-      "event_id": "87df5681-6b03-45d2-afa9-1dd246d1f3a5",
-      "source": "rss:coindesk",
-      "title": "U.S. SEC proposes first major crypto rule in surprise announcement",
-      "url": "https://www.coindesk.com/policy/2026/08/18/r",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-18T19:09:33+00:00",
-      "raw_text": "U.S. SEC proposes first major crypto rule in surprise announcement",
-      "impact": {}
-    },
-    {
-      "event_id": "b6a6a516-b668-4ec5-87f0-19fa0e818224",
-      "source": "rss:coindesk",
-      "title": "Wyoming joins $15 billion LayerZero exodus with state stablecoin move",
-      "url": "https://www.coindesk.com/business/2026/08/18/wyoming-joins-usd15-billion-layerzero-exodus-with-state-stablecoin-move",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-18T18:57:00+00:00",
-      "raw_text": "Wyoming joins $15 billion LayerZero exodus with state stablecoin move",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 189,
-        "avg_1h": -0.08,
-        "avg_24h": -0.93,
+      "macro": {
+        "count": 114,
+        "avg_1h": 0.39,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "listing": {
-        "count": 6,
-        "avg_1h": -0.81,
-        "avg_24h": null,
+      "unknown": {
+        "count": 191,
+        "avg_1h": -0.05,
+        "avg_24h": -0.93,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
@@ -6382,9 +6396,9 @@
         "avg_24h": 2.19,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 116,
-        "avg_1h": 0.39,
+      "listing": {
+        "count": 6,
+        "avg_1h": -0.61,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
