@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-08-26T09:53:17.634049+00:00",
+  "generated_at": "2026-08-26T10:48:12.519985+00:00",
   "events": [
+    {
+      "event_id": "30acf96b-388c-4dad-a71f-9758c9e1732d",
+      "source": "rss:theblock",
+      "title": "Bernstein sees bitcoin reaching $150,000 by mid-2027 amid ‘debasement trade,’ but cuts Strategy target to $350",
+      "url": "https://www.theblock.co/news/markets/2026-08-26-bernstein-sees-bitcoin-reaching-150000-by-mid-2027-amid-debasement-trade-but-cuts-strategy-target-to-350-412778",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-26T10:21:18+00:00",
+      "raw_text": "Bernstein sees bitcoin reaching $150,000 by mid-2027 amid ‘debasement trade,’ but cuts Strategy target to $350\n\nBernstein expects bitcoin to reach $150,000 by mid-2027 in its base case, before reaching a cycle peak of around $300,000 in 2029.",
+      "impact": {}
+    },
+    {
+      "event_id": "f7fd3cca-7f48-47d1-ad11-d80ed5165ebb",
+      "source": "rss:cointelegraph",
+      "title": "Kalshi’s $1.5B equity offering is three-quarters sold at $1.12B",
+      "url": "https://cointelegraph.com/news/kalshi-1-5-billion-equity-offering-1-12-billion-sold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-26T10:15:44+00:00",
+      "raw_text": "Kalshi’s $1.5B equity offering is three-quarters sold at $1.12B\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi’s $1.5B equity offering is three-quarters sold at $1.12B\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-legal-implicat",
+      "impact": {}
+    },
+    {
+      "event_id": "844adfb6-4ee2-4c6e-9413-8527286573d3",
+      "source": "rss:coindesk",
+      "title": "Euro stablecoins get a mainstream push as Revolut begins rolling out EURR in Europe",
+      "url": "https://www.coindesk.com/business/2026/08/26/euro-stablecoins-get-a-mainstream-push-as-revolut-begins-rolling-out-eurr-in-europe",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-26T10:03:43+00:00",
+      "raw_text": "Euro stablecoins get a mainstream push as Revolut begins rolling out EURR in Europe",
+      "impact": {}
+    },
+    {
+      "event_id": "37c1e15c-0e49-4b8b-a59e-baebe4cb688d",
+      "source": "rss:theblock",
+      "title": "Revolut begins phased EURR stablecoin rollout in Denmark, Poland and Portugal",
+      "url": "https://www.theblock.co/news/business/2026-08-26-revolut-begins-phased-eurr-stablecoin-rollout-in-denmark-poland-and-portugal-412772",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-26T09:12:54+00:00",
+      "raw_text": "Revolut begins phased EURR stablecoin rollout in Denmark, Poland and Portugal\n\nRevolut began rolling out EURR, its first euro-pegged stablecoin, to customers in Denmark, Poland, and Portugal.",
+      "impact": {}
+    },
+    {
+      "event_id": "0adb33d3-d0b8-4305-96e1-5530a5f0e1a9",
+      "source": "rss:coindesk",
+      "title": "Japan to start stocks and bonds tokenization development plans this year",
+      "url": "https://www.coindesk.com/business/2026/08/26/japan-plans-blockchain-settlement-network-for-stocks-and-government-bonds",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-26T09:06:00+00:00",
+      "raw_text": "Japan to start stocks and bonds tokenization development plans this year",
+      "impact": {}
+    },
     {
       "event_id": "546579b1-fa04-4afb-b762-4e21c2f60dd7",
       "source": "rss:coindesk",
@@ -23,6 +83,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-26T08:51:18+00:00",
       "raw_text": "Live updates: Zcash pulls back 8% as its Grayscale ETF goes live, capping a 60% rally",
+      "impact": {}
+    },
+    {
+      "event_id": "24482427-ff6a-46ac-8098-51e4d6b5363d",
+      "source": "rss:cointelegraph",
+      "title": "Revolut rolls out euro stablecoin in 3 European markets",
+      "url": "https://cointelegraph.com/news/revolut-eurr-euro-stablecoin-europe-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-26T08:45:41+00:00",
+      "raw_text": "Revolut rolls out euro stablecoin in 3 European markets\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Revolut rolls out euro stablecoin in 3 European markets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the-digital-token-how-it-will-",
       "impact": {}
     },
     {
@@ -136,7 +208,8 @@
       "impact": {
         "t_plus_5m": -0.2776,
         "t_plus_15m": 0.4422,
-        "t_plus_1h": 0.8869
+        "t_plus_1h": 0.8869,
+        "t_plus_4h": -0.127
       }
     },
     {
@@ -6319,93 +6392,14 @@
       "timestamp_utc": "2026-08-18T10:34:53+00:00",
       "raw_text": "Curve founder says FATF pressure could make DeFi safer and more decentralized\n\nCurve founder Michael Egorov said FATF pressure could push DeFi protocols toward greater decentralization and stronger security.",
       "impact": {}
-    },
-    {
-      "event_id": "c2f3d986-57e8-47b3-a670-55b8b0fe8d54",
-      "source": "rss:coindesk",
-      "title": "Bitcoin scores a rare win over S&P 500 with 2.6% rise versus 0.5% fall",
-      "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-scored-a-rare-win-over-s-and-p-500-on-monday",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-18T10:01:23+00:00",
-      "raw_text": "Bitcoin scores a rare win over S&P 500 with 2.6% rise versus 0.5% fall",
-      "impact": {}
-    },
-    {
-      "event_id": "63b3cd34-dab3-40b8-8d98-eca15b37c0f0",
-      "source": "rss:theblock",
-      "title": "Blockchain Association backs SEC’s proposal to scrap outdated NMS rules, citing tokenization benefits",
-      "url": "https://www.theblock.co/news/regulation/2026-08-18-blockchain-association-backs-secs-proposal-to-scrap-outdated-nms-rules-citing-tokenization-benefits-412069",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-18T09:35:26+00:00",
-      "raw_text": "Blockchain Association backs SEC’s proposal to scrap outdated NMS rules, citing tokenization benefits\n\nThe rules, established in 2005, have \"failed to achieve their stated purposes,\" the Blockchain Association said.",
-      "impact": {}
-    },
-    {
-      "event_id": "df3f8cb2-98f5-44bb-bd9b-0cf07a983771",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin price spike to $64.5K was ‘low-volume liquidity trap’: Analysis",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-spike-to-645k-was-low-volume-liquidity-trap-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-18T09:31:15+00:00",
-      "raw_text": "Bitcoin price spike to $64.5K was ‘low-volume liquidity trap’: Analysis\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price spike to $64.5K was ‘low-volume liquidity trap’: Analysis\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/p",
-      "impact": {
-        "t_plus_5m": -0.0033,
-        "t_plus_15m": -0.0446,
-        "t_plus_1h": -0.0273,
-        "t_plus_4h": -0.153
-      }
-    },
-    {
-      "event_id": "f492ae86-62f6-4a1d-ba3b-ca274a800511",
-      "source": "rss:decrypt",
-      "title": "Bitpanda Hit With Europe's First Published MiCA Penalty in Austria",
-      "url": "https://decrypt.co/375841/bitpanda-europe-first-mica-penalty",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-18T09:31:04+00:00",
-      "raw_text": "Bitpanda Hit With Europe's First Published MiCA Penalty in Austria\n\nAustria's Financial Market Authority fined the Vienna-based exchange 70,000 euros for procedural and disclosure breaches, an early marker of how EU regulators intend to enforce the bloc's new crypto rulebook.",
-      "impact": {}
-    },
-    {
-      "event_id": "c9bdb5de-c7eb-4d34-97aa-f2594cd4ae92",
-      "source": "rss:cointelegraph",
-      "title": "China adds 8 banks to digital yuan network as operator count hits 30",
-      "url": "https://cointelegraph.com/news/china-adds-8-banks-to-digital-yuan-network-as-operator-count-hits-30?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-18T08:48:51+00:00",
-      "raw_text": "China adds 8 banks to digital yuan network as operator count hits 30\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"China adds 8 banks to digital yuan network as operator count hits 30\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-an-o",
-      "impact": {}
-    },
-    {
-      "event_id": "b927786b-51b5-4f56-8377-8394575c759e",
-      "source": "rss:cointelegraph",
-      "title": "South Korea moves to block Polymarket over gambling concerns",
-      "url": "https://cointelegraph.com/news/south-korea-block-polymarket-gambling-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-18T08:39:57+00:00",
-      "raw_text": "South Korea moves to block Polymarket over gambling concerns\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea moves to block Polymarket over gambling concerns\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-you-are-once-again-b",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 148,
-        "avg_1h": -0.01,
-        "avg_24h": 2.08,
+      "unknown": {
+        "count": 193,
+        "avg_1h": -0.09,
+        "avg_24h": -0.93,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
@@ -6414,10 +6408,10 @@
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 194,
-        "avg_1h": -0.08,
-        "avg_24h": -0.93,
+      "narrative": {
+        "count": 149,
+        "avg_1h": -0.01,
+        "avg_24h": 2.08,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
