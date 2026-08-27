@@ -1,6 +1,73 @@
 {
-  "generated_at": "2026-08-26T23:26:19.558487+00:00",
+  "generated_at": "2026-08-27T09:35:09.642487+00:00",
   "events": [
+    {
+      "event_id": "8e955bf9-040d-4415-9b45-76b01e3148fd",
+      "source": "rss:bitcoinmagazine",
+      "title": "Coinkite’s Coldcard Bug Exposed Single-Sig Risk. Multi-Vendor Multisig Is the New Bitcoin Custody Baseline",
+      "url": "https://bitcoinmagazine.com/business/coinkites-coldcard-bug-exposed-single-sig-risk-multi-vendor-multisig-is-the-new-bitcoin-custody-baseline",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-08-26T23:39:32+00:00",
+      "raw_text": "Coinkite’s Coldcard Bug Exposed Single-Sig Risk. Multi-Vendor Multisig Is the New Bitcoin Custody Baseline\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/tn-4.webp\" style=\"display: block; margin: 1e",
+      "impact": {
+        "t_plus_5m": 0.3929,
+        "t_plus_15m": 0.4093,
+        "t_plus_1h": 0.127,
+        "t_plus_4h": 0.1337
+      }
+    },
+    {
+      "event_id": "4d2f2a14-4954-4d29-8ceb-37ec0ddbf369",
+      "source": "rss:coindesk",
+      "title": "SEC resurrecting U.S. crypto custody rule the previous administration failed to land",
+      "url": "https://www.coindesk.com/news-analysis/2026/08/26/sec-resurrecting-u-s-crypto-custody-rule-the-previous-administration-failed-to-land",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-26T23:01:44+00:00",
+      "raw_text": "SEC resurrecting U.S. crypto custody rule the previous administration failed to land",
+      "impact": {}
+    },
+    {
+      "event_id": "16c1c36f-399a-4fbe-a884-d878807b23ca",
+      "source": "rss:decrypt",
+      "title": "Russian Influence Network Used ChatGPT to Masquerade as Academic Experts",
+      "url": "https://decrypt.co/376662/russia-chatgpt-influence-campaign",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-26T22:46:03+00:00",
+      "raw_text": "Russian Influence Network Used ChatGPT to Masquerade as Academic Experts\n\nThe operation promoted a purported Israeli think tank that published copied scholarship under academics’ names and circulated pro-Russian analysis across social media.",
+      "impact": {}
+    },
+    {
+      "event_id": "4591649a-e117-4186-8c4b-4101a61cbec0",
+      "source": "rss:decrypt",
+      "title": "Bill Gates Wants a Robot Tax and Jobs Humans Can't Be Fired From",
+      "url": "https://decrypt.co/376663/bill-gates-robot-tax-jobs-humans-cant-be-fired",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-26T22:16:03+00:00",
+      "raw_text": "Bill Gates Wants a Robot Tax and Jobs Humans Can't Be Fired From\n\nGates is calling for AI tokens and robots to be taxed so firms think twice before swapping out workers, plus a bracket of \"human reserved\" roles that stay off-limits to automation.",
+      "impact": {}
+    },
+    {
+      "event_id": "df08f559-e87c-4407-a62d-7ab170fa0f00",
+      "source": "rss:decrypt",
+      "title": "Nvidia Shares Surge in After-Hours Trading After Record $96.2 Billion Revenue",
+      "url": "https://decrypt.co/376664/nvidia-shares-surge-record-q2-revenue",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-26T21:42:42+00:00",
+      "raw_text": "Nvidia Shares Surge in After-Hours Trading After Record $96.2 Billion Revenue\n\nThe chipmaker doubled quarterly revenue while disclosing $366 billion in future commitments and up to $108.5 billion in guarantee exposure.",
+      "impact": {}
+    },
     {
       "event_id": "e95d3c99-47dc-483f-8bbc-c4f0ff89002e",
       "source": "rss:bitcoinmagazine",
@@ -11,6 +78,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-26T20:56:47+00:00",
       "raw_text": "Billions Pour Into Bitcoin ETFs as Rally Rolls On\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Pics-3.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/n",
+      "impact": {}
+    },
+    {
+      "event_id": "f7730fa6-8792-4b68-91da-70f8c143f35d",
+      "source": "rss:coindesk",
+      "title": "Nvidia shares rise after earnings top estimates, guides to $108 billion in revenue next quarter",
+      "url": "https://www.coindesk.com/markets/2026/08/26/nvidia-tops-earnings-estimates-guides-to-usd108-billion-in-revenue-next-quarter",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-26T20:24:31+00:00",
+      "raw_text": "Nvidia shares rise after earnings top estimates, guides to $108 billion in revenue next quarter",
       "impact": {}
     },
     {
@@ -99,7 +178,9 @@
       "raw_text": "Bitcoin Wallets Dormant for Over a Decade Move $40M in One Week\n\nSix wallets that slept through Bitcoin's entire boom woke up between Aug. 16 and Aug. 26, moving tens of millions in BTC.",
       "impact": {
         "t_plus_5m": -0.0595,
-        "t_plus_15m": 0.0482
+        "t_plus_15m": 0.0482,
+        "t_plus_1h": 0.0011,
+        "t_plus_4h": 0.3149
       }
     },
     {
@@ -117,7 +198,8 @@
       "impact": {
         "t_plus_5m": 0.1811,
         "t_plus_15m": 0.0391,
-        "t_plus_1h": -0.0055
+        "t_plus_1h": -0.0055,
+        "t_plus_4h": 0.9432
       }
     },
     {
@@ -255,7 +337,8 @@
       "impact": {
         "t_plus_5m": 0.1126,
         "t_plus_15m": 0.3499,
-        "t_plus_1h": 0.3154
+        "t_plus_1h": 0.3154,
+        "t_plus_4h": 1.2563
       }
     },
     {
@@ -6302,82 +6385,16 @@
       "timestamp_utc": "2026-08-18T21:25:42+00:00",
       "raw_text": "U.S. accounting-standards group proposes way to see stablecoins as 'cash equivalent'",
       "impact": {}
-    },
-    {
-      "event_id": "9e091e3f-a990-43b5-ae84-98c7e7de50ca",
-      "source": "rss:cointelegraph",
-      "title": "SEC proposes new crypto rules in absence of CLARITY Act",
-      "url": "https://cointelegraph.com/news/us-sec-crypto-rules-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-18T21:24:15+00:00",
-      "raw_text": "SEC proposes new crypto rules in absence of CLARITY Act\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC proposes new crypto rules in absence of CLARITY Act\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-sec-cftc-event-overview.jpg\" /",
-      "impact": {}
-    },
-    {
-      "event_id": "10123b3a-1d7f-4ea4-b9a0-2768842500ae",
-      "source": "rss:theblock",
-      "title": "Solana Policy Institute CEO says Clarity Act in ‘August recess purgatory,’ gives it 10% odds before midterms",
-      "url": "https://www.theblock.co/news/regulation/2026-08-18-solana-policy-institute-ceo-larity-act-august-recess-purgatory-gives-10-odds-midterms-412171",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-18T21:22:47+00:00",
-      "raw_text": "Solana Policy Institute CEO says Clarity Act in ‘August recess purgatory,’ gives it 10% odds before midterms\n\nMiller Whitehouse-Levine urged regulators to move quickly, saying the industry \"can’t afford to keep waiting for Congress.\"",
-      "impact": {}
-    },
-    {
-      "event_id": "809ba6f9-3c91-4b60-8c9d-fb6b302f7234",
-      "source": "rss:decrypt",
-      "title": "Arguing With People on X May Get You More Posts You Hate as Algo Feeds on Ragebait",
-      "url": "https://decrypt.co/375899/arguing-twitter-x-more-posts-hate-algorithm-ragebait",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-18T21:20:04+00:00",
-      "raw_text": "Arguing With People on X May Get You More Posts You Hate as Algo Feeds on Ragebait\n\nX’s algorithm may turn argumentative replies into a feedback loop that serves users more content that clashes with their values, with the effect stronger among Democrats, researchers found.",
-      "impact": {}
-    },
-    {
-      "event_id": "8983b07c-3381-400e-89fa-a0bb029d10fb",
-      "source": "rss:bitcoinmagazine",
-      "title": "BitBox Warns Bitcoiners After Discovering ‘Severe’ Vulnerability In Firmware",
-      "url": "https://bitcoinmagazine.com/news/bitbox-warns-users-about-vulnerability",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-18T21:06:52+00:00",
-      "raw_text": "BitBox Warns Bitcoiners After Discovering ‘Severe’ Vulnerability In Firmware\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/BitBox-Warns-Bitcoiners-After-Discovering-Severe-Vulnerability-In-Firmware",
-      "impact": {}
-    },
-    {
-      "event_id": "793996e4-479d-474b-b05b-e7f0c130812f",
-      "source": "rss:cointelegraph",
-      "title": "FalconX, Interstice Connect Canton to Ethereum, Solana and Robinhood Chain",
-      "url": "https://cointelegraph.com/news/interstice-falconx-cross-chain-swap-engine-canton-solana-ethereum-robinhood-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-18T20:45:48+00:00",
-      "raw_text": "FalconX, Interstice Connect Canton to Ethereum, Solana and Robinhood Chain\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"FalconX, Interstice Connect Canton to Ethereum, Solana and Robinhood Chain\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-co",
-      "impact": {}
-    },
-    {
-      "event_id": "e653ea5a-623c-4fb8-b5fe-ecc6e0a54c42",
-      "source": "rss:theblock",
-      "title": "White House crypto adviser Patrick Witt says he is ‘optimistic and bullish’ on Clarity Act as stablecoin fight resurfaces",
-      "url": "https://www.theblock.co/news/regulation/2026-08-18-white-house-crypto-adviser-patrick-witt-optimistic-bullish-clarity-act-stablecoin-fight-412160",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-18T20:25:35+00:00",
-      "raw_text": "White House crypto adviser Patrick Witt says he is ‘optimistic and bullish’ on Clarity Act as stablecoin fight resurfaces\n\nThe White House’s top crypto adviser said he is feeling \"optimistic and bullish\" ahead of the first planned vote on sweeping crypto legislation.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 31,
+        "avg_1h": -0.06,
+        "avg_24h": 1.56,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 114,
         "avg_1h": 0.39,
@@ -6385,13 +6402,13 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 191,
+        "count": 194,
         "avg_1h": -0.05,
         "avg_24h": -0.93,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 156,
+        "count": 153,
         "avg_1h": -0.01,
         "avg_24h": 2.19,
         "win_rate_1h_gt5pct": 0.0
@@ -6400,12 +6417,6 @@
         "count": 6,
         "avg_1h": -0.61,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 31,
-        "avg_1h": -0.1,
-        "avg_24h": 1.56,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
