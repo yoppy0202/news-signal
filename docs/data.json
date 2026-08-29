@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-29T02:07:20.810242+00:00",
+  "generated_at": "2026-08-29T08:59:09.596020+00:00",
   "events": [
+    {
+      "event_id": "72b0b756-8d10-469a-a578-05d6db9598fb",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-29T06:47:12+00:00",
+      "raw_text": "Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/08/01M162QNJPWZZW5MZ",
+      "impact": {}
+    },
+    {
+      "event_id": "51253c08-08d4-49ca-9dd3-a948e022bea2",
+      "source": "rss:coindesk",
+      "title": "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges",
+      "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-29T04:30:00+00:00",
+      "raw_text": "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges",
+      "impact": {}
+    },
+    {
+      "event_id": "55c27269-39af-4d0d-8e2b-1a677c0fa19e",
+      "source": "rss:coindesk",
+      "title": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
+      "url": "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-29T02:30:00+00:00",
+      "raw_text": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
+      "impact": {}
+    },
     {
       "event_id": "fa43c17e-c026-4d41-99b7-82d6205b047b",
       "source": "rss:bitcoinmagazine",
@@ -32,10 +68,17 @@
       "url": "https://decrypt.co/376846/bitcoin-rally-stalls-sentiment-bullish",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-28T21:16:04+00:00",
       "raw_text": "Bitcoin Rally Stalls, But Long-Term Sentiment Remains Bullish\n\nBTC gave back some of its gains after Fed Chair Kevin Warsh talked tough on inflation, but prediction market traders are still leaning bullish.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.3749,
+        "t_plus_15m": -0.353,
+        "t_plus_1h": -0.2999,
+        "t_plus_4h": -0.0419
+      }
     },
     {
       "event_id": "1e09aca4-96fa-45b5-9360-29963f6bc8eb",
@@ -44,10 +87,18 @@
       "url": "https://bitcoinmagazine.com/news/debasement-trade-to-benefit-bitcoin",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC",
+        "ETH"
+      ],
       "timestamp_utc": "2026-08-28T20:45:06+00:00",
       "raw_text": "Debasement Trade Is Here Thanks to Government Debt — And Bitcoin Will Benefit: Grayscale\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Debasement-Trade-Is-Here-Thanks-to-Government-Debt.jpg\" style=",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.3187,
+        "t_plus_15m": -0.3536,
+        "t_plus_1h": -0.2644,
+        "t_plus_4h": 0.1435
+      }
     },
     {
       "event_id": "2e7f4005-e0b5-46a0-904e-d8de23357677",
@@ -80,10 +131,17 @@
       "url": "https://cointelegraph.com/news/solana-validators-approve-proposal-to-accelerate-sol-disinflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "SOL"
+      ],
       "timestamp_utc": "2026-08-28T19:53:12+00:00",
       "raw_text": "Solana validators approve proposal to accelerate SOL disinflation\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana validators approve proposal to accelerate SOL disinflation\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.5256,
+        "t_plus_15m": -0.5803,
+        "t_plus_1h": -0.0992,
+        "t_plus_4h": 0.1621
+      }
     },
     {
       "event_id": "34bc3d12-b382-4b62-b801-820580e55d91",
@@ -104,10 +162,17 @@
       "url": "https://decrypt.co/376840/xrp-treasury-evernorths-clears-sec-nasdaq",
       "event_type": "listing",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-08-28T19:46:03+00:00",
       "raw_text": "XRP Treasury Company Gets One Step Closer to Listing on Nasdaq\n\nEvernorth has gained SEC clearance, teeing up a shareholder vote on its Nasdaq listing—while the firm's XRP stash sits well below what it paid for it.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2517,
+        "t_plus_15m": -0.1181,
+        "t_plus_1h": 0.0443,
+        "t_plus_4h": 0.2176
+      }
     },
     {
       "event_id": "8d2d9d2b-5983-439b-ad1a-5a32c54b9b68",
@@ -128,10 +193,17 @@
       "url": "https://bitcoinmagazine.com/news/capital-b-raises-money-for-bitcoin",
       "event_type": "listing",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-28T18:10:42+00:00",
       "raw_text": "Capital B Raises €21M From Adam Back and TOBAM To Buy More BTC\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Capital-B-Raises-E21M-From-Adam-Back-and-TOBAM-To-Buy-More-BTC.jpg\" style=\"display: bloc",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0942,
+        "t_plus_15m": -0.1891,
+        "t_plus_1h": -0.0105,
+        "t_plus_4h": -0.3306
+      }
     },
     {
       "event_id": "de380efb-8bf2-47af-84f6-fd0644af97b9",
@@ -6371,66 +6443,30 @@
         "t_plus_1h": -1.1093,
         "t_plus_4h": -0.4285
       }
-    },
-    {
-      "event_id": "b39b9f5f-3f45-40c0-b82b-0ed16339f246",
-      "source": "rss:theblock",
-      "title": "Inside the Oval Office meeting: Trump appears ‘bullish’ on Clarity Act as he solicits feedback from crypto, finance CEOs",
-      "url": "https://www.theblock.co/news/regulation/2026-08-20-inside-oval-office-meeting-trump-bullish-clarity-act-solicits-feedback-crypto-finance-ceos-412340",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-20T17:44:28+00:00",
-      "raw_text": "Inside the Oval Office meeting: Trump appears ‘bullish’ on Clarity Act as he solicits feedback from crypto, finance CEOs\n\nDuring a private Oval Office meeting, President Trump appeared “bullish” on passing the Clarity Act, one source said.",
-      "impact": {}
-    },
-    {
-      "event_id": "a3447036-4d95-4a35-918a-f9b6a37c8ef8",
-      "source": "rss:cointelegraph",
-      "title": "US debt tops $40T stoking debate on what it means for Bitcoin",
-      "url": "https://cointelegraph.com/markets/bitcoin-surges-after-us-debt-crosses-40t?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-20T17:43:58+00:00",
-      "raw_text": "US debt tops $40T stoking debate on what it means for Bitcoin\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US debt tops $40T stoking debate on what it means for Bitcoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-can-bitcoins-hard-",
-      "impact": {}
-    },
-    {
-      "event_id": "66f12bf2-c53b-4fd3-9e4c-14936b57d227",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin ETFs Add Over $1B as Investor Sentiment Turns Bullish",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-etfs-receive-over-1-billion",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-20T17:19:30+00:00",
-      "raw_text": "Bitcoin ETFs Add Over $1B as Investor Sentiment Turns Bullish\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-ETFs-Add-Over-1B-as-Investor-Sentiment-Turns-Bullish.jpg\" style=\"display: block; ",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "macro": {
         "count": 109,
-        "avg_1h": -0.58,
+        "avg_1h": -0.52,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 185,
-        "avg_1h": 0.03,
+        "count": 187,
+        "avg_1h": 0.02,
         "avg_24h": -0.93,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
         "count": 12,
-        "avg_1h": -0.5,
+        "avg_1h": -0.35,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 160,
+        "count": 158,
         "avg_1h": 0.11,
         "avg_24h": 2.19,
         "win_rate_1h_gt5pct": 0.0
