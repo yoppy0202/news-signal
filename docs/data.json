@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-29T08:59:09.596020+00:00",
+  "generated_at": "2026-08-29T14:25:22.150161+00:00",
   "events": [
+    {
+      "event_id": "14146788-2e99-4cca-890e-1a5543fd9fd4",
+      "source": "rss:decrypt",
+      "title": "BitGo Buys NYDIG's Institutional Trading Arm to Beef Up Derivatives and Financing",
+      "url": "https://decrypt.co/376864/bitgo-buys-nydig-institutional-trading-arm",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-29T13:31:04+00:00",
+      "raw_text": "BitGo Buys NYDIG's Institutional Trading Arm to Beef Up Derivatives and Financing\n\nThe roughly $42.5 million cash-and-stock deal adds derivatives, structured products and capital-markets capabilities, while letting NYDIG focus on its power and data-center business.",
+      "impact": {}
+    },
+    {
+      "event_id": "3e66b6c5-0c60-45e5-8901-287a716271f8",
+      "source": "rss:coindesk",
+      "title": "Tokenized assets are busier than the data shows",
+      "url": "https://www.coindesk.com/opinion/2026/08/29/tokenized-assets-are-busier-than-the-data-shows",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-29T13:00:00+00:00",
+      "raw_text": "Tokenized assets are busier than the data shows",
+      "impact": {}
+    },
+    {
+      "event_id": "92fe3b3a-dbaa-4d93-80a2-a7ce80f1d5ad",
+      "source": "rss:cointelegraph",
+      "title": "Trump-promoted brand touts GOLD before token collapse",
+      "url": "https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-29T10:53:41+00:00",
+      "raw_text": "Trump-promoted brand touts GOLD before token collapse\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump-promoted brand touts GOLD before token collapse\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/08/01M16D9NH0P7JYVR3ND526E5F5/tr",
+      "impact": {}
+    },
+    {
+      "event_id": "0641cfd8-e263-4475-bf66-2b6c27f7dcd9",
+      "source": "rss:cointelegraph",
+      "title": "Stablecoins not credible for payments at scale, BIS chief says",
+      "url": "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "listing",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-29T08:01:04+00:00",
+      "raw_text": "Stablecoins not credible for payments at scale, BIS chief says\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stablecoins not credible for payments at scale, BIS chief says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/08/01M166CFV82",
+      "impact": {}
+    },
     {
       "event_id": "72b0b756-8d10-469a-a578-05d6db9598fb",
       "source": "rss:cointelegraph",
@@ -8,10 +56,16 @@
       "url": "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-29T06:47:12+00:00",
       "raw_text": "Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/08/01M162QNJPWZZW5MZ",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2595,
+        "t_plus_15m": -0.2241,
+        "t_plus_1h": 0.0171
+      }
     },
     {
       "event_id": "51253c08-08d4-49ca-9dd3-a948e022bea2",
@@ -32,10 +86,17 @@
       "url": "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-08-29T02:30:00+00:00",
       "raw_text": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0192,
+        "t_plus_15m": 0.1371,
+        "t_plus_1h": 0.1977,
+        "t_plus_4h": -0.071
+      }
     },
     {
       "event_id": "fa43c17e-c026-4d41-99b7-82d6205b047b",
@@ -6388,85 +6449,30 @@
       "timestamp_utc": "2026-08-20T18:54:18+00:00",
       "raw_text": "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
       "impact": {}
-    },
-    {
-      "event_id": "e6a3c112-66c0-48ff-ab0d-965c4939bd4f",
-      "source": "rss:decrypt",
-      "title": "CFTC Chair Readies Crypto Rules If Congress Fails to Pass Clarity Act",
-      "url": "https://decrypt.co/376151/cftc-chair-crypto-rules-if-congress-fails-clarity-act",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-20T18:44:08+00:00",
-      "raw_text": "CFTC Chair Readies Crypto Rules If Congress Fails to Pass Clarity Act\n\nThe CFTC chair said staff is already exploring a crypto market structure framework and could move quickly to propose rules if Congress fails to act.",
-      "impact": {}
-    },
-    {
-      "event_id": "44a16b81-af3e-4b27-b0ac-2274d25b9ac0",
-      "source": "rss:decrypt",
-      "title": "Alibaba's Revenue Jumps 9% as AI Cloud Growth Hits 45%—But a Profit Plunge Sends Shares Lower",
-      "url": "https://decrypt.co/376143/alibaba-revenue-jumps-ai-cloud-growth",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-20T18:32:25+00:00",
-      "raw_text": "Alibaba's Revenue Jumps 9% as AI Cloud Growth Hits 45%—But a Profit Plunge Sends Shares Lower\n\nCloud and AI product revenue accelerated in the June quarter, but a 75% drop in net income extended Alibaba's run of profit misses to a fifth straight quarter.",
-      "impact": {}
-    },
-    {
-      "event_id": "46bb7db4-05bf-471a-b8f7-153f512ffb5c",
-      "source": "rss:theblock",
-      "title": "Ondo executive says tokenization is following the same path as early ETFs",
-      "url": "https://www.theblock.co/news/business/2026-08-20-ondo-executive-says-tokenization-following-same-path-as-early-etfs-412346",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-20T17:53:38+00:00",
-      "raw_text": "Ondo executive says tokenization is following the same path as early ETFs\n\nThe firm hopes that passage of the Clarity Act will help open the door for it to offer tokenized products in the U.S.",
-      "impact": {}
-    },
-    {
-      "event_id": "115d6976-e1ee-4518-bbab-105b53c09e64",
-      "source": "rss:decrypt",
-      "title": "XRP Notches Best Week Since 2024 Election Pump on Bitcoin Short Squeeze",
-      "url": "https://decrypt.co/376120/xrp-price-best-week-since-2024-election-pump",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-08-20T17:46:08+00:00",
-      "raw_text": "XRP Notches Best Week Since 2024 Election Pump on Bitcoin Short Squeeze\n\nThe token's steepest daily and weekly gains in months rode Bitcoin's record liquidation wave—though ETF flows and futures data hint the move is running on borrowed momentum.",
-      "impact": {
-        "t_plus_5m": 4.8603,
-        "t_plus_15m": 3.2617,
-        "t_plus_1h": -1.1093,
-        "t_plus_4h": -0.4285
-      }
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 109,
-        "avg_1h": -0.52,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 187,
-        "avg_1h": 0.02,
+        "count": 190,
+        "avg_1h": 0.03,
         "avg_24h": -0.93,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
-        "count": 12,
+        "count": 13,
         "avg_1h": -0.35,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
+      "macro": {
+        "count": 107,
+        "avg_1h": -0.4,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 158,
+        "count": 156,
         "avg_1h": 0.11,
         "avg_24h": 2.19,
         "win_rate_1h_gt5pct": 0.0
