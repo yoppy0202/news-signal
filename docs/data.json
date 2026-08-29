@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-29T18:23:58.119328+00:00",
+  "generated_at": "2026-08-29T21:41:25.664305+00:00",
   "events": [
+    {
+      "event_id": "2c4e9755-7719-4df2-bbc4-108463a31b7e",
+      "source": "rss:cointelegraph",
+      "title": "Stellar tokenized RWA market more than quadruples to nearly $4B",
+      "url": "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-29T19:12:42+00:00",
+      "raw_text": "Stellar tokenized RWA market more than quadruples to nearly $4B\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stellar tokenized RWA market more than quadruples to nearly $4B\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/08/01M17DHDV",
+      "impact": {}
+    },
+    {
+      "event_id": "11d8c2a9-1000-49a3-9020-1315413868e5",
+      "source": "rss:decrypt",
+      "title": "Bernie Sanders Vows Legislation to 'Stop Flock and AI Mass Surveillance'",
+      "url": "https://decrypt.co/376878/bernie-sanders-ban-flock-ai-surveillance",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-29T17:31:03+00:00",
+      "raw_text": "Bernie Sanders Vows Legislation to 'Stop Flock and AI Mass Surveillance'\n\nThe Vermont senator warned that the surveillance company's 120,000-plus AI cameras are pushing the US toward a \"surveillance state,\" adding a prominent voice to a growing bipartisan backlash.",
+      "impact": {}
+    },
     {
       "event_id": "83772795-4786-4c7a-9309-770c46dccd1c",
       "source": "rss:cointelegraph",
@@ -6419,43 +6443,12 @@
         "t_plus_4h": 1.5122,
         "t_plus_24h": 6.5128
       }
-    },
-    {
-      "event_id": "fc535ea0-5c5a-4b65-97f4-ad566a8507dc",
-      "source": "rss:cointelegraph",
-      "title": "CFTC chair says agency will move forward on crypto regulation if CLARITY fails",
-      "url": "https://cointelegraph.com/news/cftc-chair-crypto-regulation-without-clarity-act-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-20T20:56:23+00:00",
-      "raw_text": "CFTC chair says agency will move forward on crypto regulation if CLARITY fails\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC chair says agency will move forward on crypto regulation if CLARITY fails\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar",
-      "impact": {}
-    },
-    {
-      "event_id": "8788b2b2-228d-4693-8738-4dbceb3ee9cc",
-      "source": "rss:bitcoinmagazine",
-      "title": "Open Source vs. Source-Available: What the Coldcard Failure Teaches About Bitcoin Software Incentives",
-      "url": "https://bitcoinmagazine.com/culture/open-source-vs-source-available-what-the-coldcard-failure-teaches-about-bitcoin-software-incentives",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-20T20:49:28+00:00",
-      "raw_text": "Open Source vs. Source-Available: What the Coldcard Failure Teaches About Bitcoin Software Incentives\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/tn-3.webp\" style=\"display: block; margin: 1em aut",
-      "impact": {
-        "t_plus_5m": -0.193,
-        "t_plus_15m": -0.1866,
-        "t_plus_1h": -0.0356,
-        "t_plus_4h": 1.3916
-      }
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 157,
+        "count": 159,
         "avg_1h": 0.11,
         "avg_24h": 2.19,
         "win_rate_1h_gt5pct": 0.0
@@ -6467,7 +6460,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 107,
+        "count": 106,
         "avg_1h": -0.4,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
@@ -6479,8 +6472,8 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 31,
-        "avg_1h": 0.33,
+        "count": 30,
+        "avg_1h": 0.39,
         "avg_24h": 1.56,
         "win_rate_1h_gt5pct": 0.0
       },
