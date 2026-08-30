@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-29T21:41:25.664305+00:00",
+  "generated_at": "2026-08-30T00:14:37.969292+00:00",
   "events": [
+    {
+      "event_id": "b2a37457-2284-4e08-b3f4-ccf794dffd7a",
+      "source": "rss:theblock",
+      "title": "Layer 1 blockchain Fogo halts mainnet after attacker receives 400 million FOGO tokens, 10% of circulating supply",
+      "url": "https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-29T21:16:51+00:00",
+      "raw_text": "Layer 1 blockchain Fogo halts mainnet after attacker receives 400 million FOGO tokens, 10% of circulating supply\n\nThe affected tokens make up about 4% of FOGO's genesis supply and were worth about $3 million at the time of the incident.",
+      "impact": {}
+    },
+    {
+      "event_id": "14780242-1e67-4b82-a174-70458071dbd9",
+      "source": "rss:cointelegraph",
+      "title": "Polygon discloses security flaws fixed in recent hard forks",
+      "url": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-29T20:28:51+00:00",
+      "raw_text": "Polygon discloses security flaws fixed in recent hard forks\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Polygon discloses security flaws fixed in recent hard forks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/08/01M17JHBKVPG032T0",
+      "impact": {}
+    },
+    {
+      "event_id": "7197ada5-044b-47c3-a495-fe643930ecb1",
+      "source": "rss:theblock",
+      "title": "Cosmos Labs says it wrongly cleared the bug behind a $5.7 million six-chain hack",
+      "url": "https://www.theblock.co/news/defi/2026-08-29-cosmos-labs-says-it-wrongly-cleared-the-bug-behind-a-5-7-million-six-chain-hack-413061",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-29T20:15:32+00:00",
+      "raw_text": "Cosmos Labs says it wrongly cleared the bug behind a $5.7 million six-chain hack\n\nMANTRA Chain, which lost $3.6 million, claimed the patch was only released 20 hours before the attack began and did not identify the flaw it fixed.",
+      "impact": {}
+    },
     {
       "event_id": "2c4e9755-7719-4df2-bbc4-108463a31b7e",
       "source": "rss:cointelegraph",
@@ -235,7 +271,8 @@
         "t_plus_5m": -0.3749,
         "t_plus_15m": -0.353,
         "t_plus_1h": -0.2999,
-        "t_plus_4h": -0.0419
+        "t_plus_4h": -0.0419,
+        "t_plus_24h": 0.5817
       }
     },
     {
@@ -6399,58 +6436,26 @@
       "timestamp_utc": "2026-08-20T23:39:38+00:00",
       "raw_text": "CME CEO Terrence Duffy trades barbs with CFTC’s Selig and Kalshi’s COO over prediction market oversight\n\nA CFTC ommittee meeting exposed a sharp divide between the worlds of traditional finance and prediction market platforms.",
       "impact": {}
-    },
-    {
-      "event_id": "f8df0fc2-f6fc-4f70-b4d4-de30c7a989a4",
-      "source": "rss:decrypt",
-      "title": "Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC",
-      "url": "https://decrypt.co/376158/tensions-flare-cme-kalshi-clash-prediction-markets-dc",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-20T22:32:11+00:00",
-      "raw_text": "Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC\n\nCME Group Chairman Terry Duffy and Kalshi co-founder Luana Lopes Lara traded barbs during a CFTC meeting over prediction markets, manipulation, and regulatory standards.",
-      "impact": {}
-    },
-    {
-      "event_id": "464049ae-7866-43a8-917c-8bfcb499921f",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin Could Attract More Buyers As Fast Money Is Washed Out, Says Lyn Alden",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-price-to-rise-says-lyn-alden",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-20T21:16:08+00:00",
-      "raw_text": "Bitcoin Could Attract More Buyers As Fast Money Is Washed Out, Says Lyn Alden\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/05/Lyn-Alden.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href",
-      "impact": {}
-    },
-    {
-      "event_id": "818e271b-ce22-41e1-8936-51865569b8c8",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin breaks above 200-day moving average for first time since November",
-      "url": "https://cointelegraph.com/markets/bitcoin-breaks-200-day-moving-average?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-20T21:03:21+00:00",
-      "raw_text": "Bitcoin breaks above 200-day moving average for first time since November\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin breaks above 200-day moving average for first time since November\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
-      "impact": {
-        "t_plus_5m": -0.1875,
-        "t_plus_15m": -0.0219,
-        "t_plus_1h": -0.3208,
-        "t_plus_4h": 1.5122,
-        "t_plus_24h": 6.5128
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 32,
+        "avg_1h": 0.39,
+        "avg_24h": 1.56,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 106,
+        "avg_1h": -0.4,
+        "avg_24h": 0.58,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 159,
-        "avg_1h": 0.11,
-        "avg_24h": 2.19,
+        "count": 157,
+        "avg_1h": 0.13,
+        "avg_24h": 0.03,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
@@ -6459,22 +6464,10 @@
         "avg_24h": -0.93,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 106,
-        "avg_1h": -0.4,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "listing": {
         "count": 13,
         "avg_1h": -0.35,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 30,
-        "avg_1h": 0.39,
-        "avg_24h": 1.56,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
