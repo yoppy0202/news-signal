@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-30T00:14:37.969292+00:00",
+  "generated_at": "2026-08-30T06:34:59.160095+00:00",
   "events": [
+    {
+      "event_id": "976bbb9c-7996-4ea8-b856-ede6b9ce45f3",
+      "source": "rss:coindesk",
+      "title": "A $1.1 million crypto card hack crashed a neobank's token 49%",
+      "url": "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49",
+      "event_type": "hack",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-29T23:49:17+00:00",
+      "raw_text": "A $1.1 million crypto card hack crashed a neobank's token 49%",
+      "impact": {}
+    },
     {
       "event_id": "b2a37457-2284-4e08-b3f4-ccf794dffd7a",
       "source": "rss:theblock",
@@ -83,6 +95,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-29T15:31:04+00:00",
       "raw_text": "Bitcoin's Oldest Coins Are Waking Up in 2026 at a Pace Rarely Seen\n\nGalaxy Research shows coins untouched for 10-plus years moving at an unusual pace in 2026, with six ancient wallets shifting $40 million in a single 10-day stretch this month.",
+      "impact": {}
+    },
+    {
+      "event_id": "7b98a869-af7a-4dfb-a0a6-90cea36570e9",
+      "source": "rss:coindesk",
+      "title": "Inside the high-stakes battle between digital dollars and Swift's massive money engine",
+      "url": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-29T15:00:00+00:00",
+      "raw_text": "Inside the high-stakes battle between digital dollars and Swift's massive money engine",
       "impact": {}
     },
     {
@@ -199,6 +223,18 @@
         "t_plus_1h": 0.0171,
         "t_plus_4h": 0.0636
       }
+    },
+    {
+      "event_id": "753ab797-82c0-429f-bf1f-6dff4b513098",
+      "source": "rss:coindesk",
+      "title": "Bitcoin wallets untouched for 10 years moved $40 million worth of coins",
+      "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-29T04:30:00+00:00",
+      "raw_text": "Bitcoin wallets untouched for 10 years moved $40 million worth of coins",
+      "impact": {}
     },
     {
       "event_id": "51253c08-08d4-49ca-9dd3-a948e022bea2",
@@ -6393,55 +6429,12 @@
       "timestamp_utc": "2026-08-21T02:22:44+00:00",
       "raw_text": "Bitcoin breaks through $75,500 while analyst calls current rally ‘premature’\n\nShawn Young, chief analyst at MEXC Research, said that the crypto market is giving Treasury's intervention 'more credit than it deserves.'",
       "impact": {}
-    },
-    {
-      "event_id": "50ae023d-0b27-4462-a1d9-76347d6d320e",
-      "source": "rss:coindesk",
-      "title": "Bitcoin pushes past $75,000 as rally continues.",
-      "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-pushes-past-usd75-000-as-rally-continues",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-21T01:55:50+00:00",
-      "raw_text": "Bitcoin pushes past $75,000 as rally continues.",
-      "impact": {}
-    },
-    {
-      "event_id": "29ffb521-d18c-481d-bfb1-62a70fcc6a7e",
-      "source": "rss:coindesk",
-      "title": "A $2 million bet on XRP volatility crosses the tape as prices surge",
-      "url": "https://www.coindesk.com/markets/2026/08/21/a-usd2-million-bet-on-xrp-volatility-crosses-the-tape-as-prices-surge",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-08-21T01:51:56+00:00",
-      "raw_text": "A $2 million bet on XRP volatility crosses the tape as prices surge",
-      "impact": {
-        "t_plus_5m": 0.627,
-        "t_plus_15m": 0.1067,
-        "t_plus_1h": 0.1126,
-        "t_plus_4h": 1.28
-      }
-    },
-    {
-      "event_id": "4fbf5614-eef0-4175-876b-57a431885ff6",
-      "source": "rss:theblock",
-      "title": "CME CEO Terrence Duffy trades barbs with CFTC’s Selig and Kalshi’s COO over prediction market oversight",
-      "url": "https://www.theblock.co/news/regulation/2026-08-20-cme-ceo-terrence-duffy-trades-barbs-with-cftcs-selig-and-kalshis-coo-over-prediction-market-oversight-412397",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-20T23:39:38+00:00",
-      "raw_text": "CME CEO Terrence Duffy trades barbs with CFTC’s Selig and Kalshi’s COO over prediction market oversight\n\nA CFTC ommittee meeting exposed a sharp divide between the worlds of traditional finance and prediction market platforms.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "hack": {
-        "count": 32,
+        "count": 33,
         "avg_1h": 0.39,
         "avg_24h": 1.56,
         "win_rate_1h_gt5pct": 0.0
@@ -6459,8 +6452,8 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 190,
-        "avg_1h": 0.03,
+        "count": 189,
+        "avg_1h": 0.02,
         "avg_24h": -0.93,
         "win_rate_1h_gt5pct": 0.0
       },
