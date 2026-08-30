@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-30T06:34:59.160095+00:00",
+  "generated_at": "2026-08-30T12:49:14.705557+00:00",
   "events": [
+    {
+      "event_id": "7586f72a-abd8-40d3-92d5-aa8bf7c4f548",
+      "source": "rss:cointelegraph",
+      "title": "Russia’s Sber eyes USDT loans, questions digital ruble demand",
+      "url": "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-30T09:45:01+00:00",
+      "raw_text": "Russia’s Sber eyes USDT loans, questions digital ruble demand\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Russia’s Sber eyes USDT loans, questions digital ruble demand\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/08/01M190WE0Y455",
+      "impact": {}
+    },
+    {
+      "event_id": "20d13c50-b659-4f13-95d6-284d14bc1db3",
+      "source": "rss:cointelegraph",
+      "title": "Real Trump Coins denies launching GOLD token, blames ‘bad actors’",
+      "url": "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-30T08:04:56+00:00",
+      "raw_text": "Real Trump Coins denies launching GOLD token, blames ‘bad actors’\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Real Trump Coins denies launching GOLD token, blames ‘bad actors’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/08/01M18",
+      "impact": {}
+    },
     {
       "event_id": "976bbb9c-7996-4ea8-b856-ede6b9ce45f3",
       "source": "rss:coindesk",
@@ -264,7 +288,8 @@
         "t_plus_5m": 0.0192,
         "t_plus_15m": 0.1371,
         "t_plus_1h": 0.1977,
-        "t_plus_4h": -0.071
+        "t_plus_4h": -0.071,
+        "t_plus_24h": 0.834
       }
     },
     {
@@ -6405,34 +6430,22 @@
       "timestamp_utc": "2026-08-21T04:47:29+00:00",
       "raw_text": "MANTRA freezes all transactions and network following unspecified incident\n\nMANTRA Chain has halted the network and all transactions after discovering an incident, the nature of which remains undisclosed.",
       "impact": {}
-    },
-    {
-      "event_id": "73e7990c-4741-47c7-8b44-2b8b72b8e2e0",
-      "source": "rss:cointelegraph",
-      "title": "Capital.com plans UAE spot crypto services after affiliate wins licence",
-      "url": "https://cointelegraph.com/news/capital-com-uae-spot-crypto-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-21T03:33:11+00:00",
-      "raw_text": "Capital.com plans UAE spot crypto services after affiliate wins licence\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Capital.com plans UAE spot crypto services after affiliate wins licence \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/",
-      "impact": {}
-    },
-    {
-      "event_id": "8a10f164-4556-4e04-b84e-4b0836fd75de",
-      "source": "rss:theblock",
-      "title": "Bitcoin breaks through $75,500 while analyst calls current rally ‘premature’",
-      "url": "https://www.theblock.co/news/markets/2026-08-20-bitcoin-breaks-through-75500-412404",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-21T02:22:44+00:00",
-      "raw_text": "Bitcoin breaks through $75,500 while analyst calls current rally ‘premature’\n\nShawn Young, chief analyst at MEXC Research, said that the crypto market is giving Treasury's intervention 'more credit than it deserves.'",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 189,
+        "avg_1h": 0.02,
+        "avg_24h": -0.05,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 157,
+        "avg_1h": 0.13,
+        "avg_24h": 0.03,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
         "count": 33,
         "avg_1h": 0.39,
@@ -6443,18 +6456,6 @@
         "count": 106,
         "avg_1h": -0.4,
         "avg_24h": 0.58,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 157,
-        "avg_1h": 0.13,
-        "avg_24h": 0.03,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 189,
-        "avg_1h": 0.02,
-        "avg_24h": -0.93,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
