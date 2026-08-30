@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-30T12:49:14.705557+00:00",
+  "generated_at": "2026-08-30T17:24:17.827400+00:00",
   "events": [
+    {
+      "event_id": "9176c802-f5da-466f-bee2-9c0c21a4208a",
+      "source": "rss:coindesk",
+      "title": "From Hawala to Swift: Inside the 1,000-year battle to move money safely",
+      "url": "https://www.coindesk.com/business/2026/08/30/from-hawala-to-swift-inside-the-1-000-year-battle-to-move-money-safely",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-30T15:00:00+00:00",
+      "raw_text": "From Hawala to Swift: Inside the 1,000-year battle to move money safely",
+      "impact": {}
+    },
+    {
+      "event_id": "8db5632f-6e81-494f-a848-404b1f0f6cd0",
+      "source": "rss:decrypt",
+      "title": "After Their AI Models Hacked Real Companies, AI Labs Call for Stronger Cyber Defenses",
+      "url": "https://decrypt.co/376863/ai-models-hacked-companies-ai-labs-cyber-defenses",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-30T13:31:04+00:00",
+      "raw_text": "After Their AI Models Hacked Real Companies, AI Labs Call for Stronger Cyber Defenses\n\nMore than 100 AI, security, finance, and technology organizations want governments and industry to prepare for attacks powered by increasingly capable models.",
+      "impact": {}
+    },
+    {
+      "event_id": "9411cf5a-06bf-4063-9d0a-e92b26da441c",
+      "source": "rss:coindesk",
+      "title": "Crypto market makers are cashing in on bitcoin's rally - without betting on direction",
+      "url": "https://www.coindesk.com/markets/2026/08/28/crypto-market-makers-are-cashing-in-on-bitcoin-s-rally-without-betting-on-direction",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-30T12:00:00+00:00",
+      "raw_text": "Crypto market makers are cashing in on bitcoin's rally - without betting on direction",
+      "impact": {}
+    },
     {
       "event_id": "7586f72a-abd8-40d3-92d5-aa8bf7c4f548",
       "source": "rss:cointelegraph",
@@ -6394,62 +6430,26 @@
       "timestamp_utc": "2026-08-21T05:04:52+00:00",
       "raw_text": "MANTRA token sinks 18% to record low amid blockchain halt\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MANTRA token sinks 18% to record low amid blockchain halt \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-transactions-stopped-halt",
       "impact": {}
-    },
-    {
-      "event_id": "b2d001cb-8d07-40a2-be68-328d803d1273",
-      "source": "rss:coindesk",
-      "title": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
-      "url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-21T04:56:30+00:00",
-      "raw_text": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
-      "impact": {}
-    },
-    {
-      "event_id": "48b1262b-c25b-4a51-b8bc-ab9dc6926c00",
-      "source": "rss:theblock",
-      "title": "MANTRA freezes all transactions and network following incident",
-      "url": "https://www.theblock.co/news/defi/2026-08-21-mantra-freezes-network-412416",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-21T04:47:29+00:00",
-      "raw_text": "MANTRA freezes all transactions and network following incident\n\nMANTRA Chain halted the network and all transactions after discovering an incident related to its Cosmos EVM module.",
-      "impact": {}
-    },
-    {
-      "event_id": "24580ad4-c890-4f47-943d-9f725bb1a87c",
-      "source": "rss:theblock",
-      "title": "MANTRA freezes all transactions and network following unspecified incident",
-      "url": "https://www.theblock.co/news/defi/2026-08-21-mantra-freezes-network-412416",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-21T04:47:29+00:00",
-      "raw_text": "MANTRA freezes all transactions and network following unspecified incident\n\nMANTRA Chain has halted the network and all transactions after discovering an incident, the nature of which remains undisclosed.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 189,
+        "count": 190,
         "avg_1h": 0.02,
         "avg_24h": -0.05,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 157,
-        "avg_1h": 0.13,
-        "avg_24h": 0.03,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 33,
+        "count": 34,
         "avg_1h": 0.39,
         "avg_24h": 1.56,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 155,
+        "avg_1h": 0.13,
+        "avg_24h": 0.03,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
