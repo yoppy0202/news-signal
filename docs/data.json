@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-30T20:59:53.843293+00:00",
+  "generated_at": "2026-08-30T23:26:34.079869+00:00",
   "events": [
+    {
+      "event_id": "625ad2fc-95f3-4252-bee6-534b7934bc3a",
+      "source": "rss:decrypt",
+      "title": "Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run",
+      "url": "https://decrypt.co/376897/bitcoin-etfs-snap-streak-ethereum-funds-extend",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-30T21:31:04+00:00",
+      "raw_text": "Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run\n\nSpot Bitcoin ETFs shed $201.9 million on Aug. 28, ending a nine-day inflow run, even as Ethereum funds extended a 10-day streak with fresh cash.",
+      "impact": {}
+    },
+    {
+      "event_id": "0e668e24-8378-42cf-a90f-12cb84f17a91",
+      "source": "rss:theblock",
+      "title": "Kalshi becomes exclusive prediction market partner of US Open: report",
+      "url": "https://www.theblock.co/news/deals/2026-08-30-kalshi-becomes-exclusive-prediction-market-partner-of-us-open-report-413074",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-30T20:28:52+00:00",
+      "raw_text": "Kalshi becomes exclusive prediction market partner of US Open: report\n\nAs part of the agreement, rival prediction market platforms are reportedly barred from advertising at the tournament and on its ESPN broadcasts.",
+      "impact": {}
+    },
+    {
+      "event_id": "1a47143e-f35b-4bac-a141-0283a78121af",
+      "source": "rss:decrypt",
+      "title": "Strategy’s Bitcoin Is $2.8 Billion in Profit—Is Saylor Teeing Up a Buy?",
+      "url": "https://decrypt.co/376884/strategy-bitcoin-2-8-billion-profit-saylor-btc-buy",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-30T19:39:55+00:00",
+      "raw_text": "Strategy’s Bitcoin Is $2.8 Billion in Profit—Is Saylor Teeing Up a Buy?\n\nA Bitcoin rally to around $79,000 lifted the company's 840,447 BTC roughly $2.8 billion above its cost basis, as Saylor's \"We're Back\" post fueled speculation that Strategy may resume buying.",
+      "impact": {}
+    },
     {
       "event_id": "5693d4b3-cd9f-4b37-b07c-a7188defbaf7",
       "source": "rss:theblock",
@@ -6380,69 +6416,26 @@
         "t_plus_1h": -1.6183,
         "t_plus_4h": -0.0121
       }
-    },
-    {
-      "event_id": "17d939eb-98cb-45ba-ae26-4be7a7dfb0fc",
-      "source": "rss:coindesk",
-      "title": "Live updates: BTC tops $76,000; bitcoin, ether ETFs pull in $800 million",
-      "url": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-21T06:43:24+00:00",
-      "raw_text": "Live updates: BTC tops $76,000; bitcoin, ether ETFs pull in $800 million",
-      "impact": {
-        "t_plus_5m": -1.4938,
-        "t_plus_15m": -1.3422,
-        "t_plus_1h": -0.0544,
-        "t_plus_4h": 1.5774
-      }
-    },
-    {
-      "event_id": "7b8f4f38-7fd8-42b6-8369-c99f114167e9",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin, ether ETFs pull in $800 million as inflows surge for a second day",
-      "url": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-21T06:43:24+00:00",
-      "raw_text": "Live updates: Bitcoin, ether ETFs pull in $800 million as inflows surge for a second day",
-      "impact": {}
-    },
-    {
-      "event_id": "a50ce06f-7ec0-45da-a5a6-2983bccd22f8",
-      "source": "rss:theblock",
-      "title": "South Korea’s Shinhan partners with Solana Foundation, Etherfuse, Orca for tokenized fund issuance",
-      "url": "https://www.theblock.co/news/regulation/2026-08-21-south-korea-shinhan-partners-solana-412420",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-21T06:32:48+00:00",
-      "raw_text": "South Korea’s Shinhan partners with Solana Foundation, Etherfuse, Orca for tokenized fund issuance\n\nThe agreement covers a proof-of-concept for the issuance and distribution of a Korean won-denominated tokenized fund.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "hack": {
-        "count": 34,
-        "avg_1h": 0.39,
-        "avg_24h": 1.56,
+      "macro": {
+        "count": 105,
+        "avg_1h": -0.44,
+        "avg_24h": 0.58,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 191,
+        "count": 192,
         "avg_1h": 0.05,
         "avg_24h": -0.05,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 106,
-        "avg_1h": -0.4,
-        "avg_24h": 0.58,
+      "hack": {
+        "count": 34,
+        "avg_1h": 0.39,
+        "avg_24h": 1.56,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
