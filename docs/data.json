@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-08-30T23:26:34.079869+00:00",
+  "generated_at": "2026-08-31T05:25:26.851310+00:00",
   "events": [
+    {
+      "event_id": "46dc9bbb-fb5f-4463-9844-9c15ff8afe9f",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest",
+      "url": "https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-30T23:36:16+00:00",
+      "raw_text": "Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/08",
+      "impact": {}
+    },
+    {
+      "event_id": "eb027a8d-3b50-4e3e-a430-1ed9506848b5",
+      "source": "rss:decrypt",
+      "title": "Ex-White House Teleprompter Operator Fined for Prediction Market Insider Trading",
+      "url": "https://decrypt.co/376909/white-house-teleprompter-fined-prediction-market-trading",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-30T23:31:03+00:00",
+      "raw_text": "Ex-White House Teleprompter Operator Fined for Prediction Market Insider Trading\n\nGabriel Perez used his access to Trump's speeches before delivery to bet on \"presidential mention market\" contracts, profiting more than $107,500 before the CFTC caught up with him.",
+      "impact": {}
+    },
+    {
+      "event_id": "0e80cf58-ede7-4b49-8c15-da6351d98436",
+      "source": "rss:decrypt",
+      "title": "Polygon Quietly Patched Security Flaws in Two Hard Forks Before Disclosing Them",
+      "url": "https://decrypt.co/376911/polygon-quietly-patched-security-flaws",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-30T22:31:04+00:00",
+      "raw_text": "Polygon Quietly Patched Security Flaws in Two Hard Forks Before Disclosing Them\n\nThe Austin and Kyoto hard forks, deployed quietly on the Bor and Heimdall clients before public disclosure, closed denial-of-service and consensus-hardening flaws that Polygon says were never exploited.",
+      "impact": {}
+    },
     {
       "event_id": "625ad2fc-95f3-4252-bee6-534b7934bc3a",
       "source": "rss:decrypt",
@@ -32,10 +68,16 @@
       "url": "https://decrypt.co/376884/strategy-bitcoin-2-8-billion-profit-saylor-btc-buy",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-30T19:39:55+00:00",
       "raw_text": "Strategy’s Bitcoin Is $2.8 Billion in Profit—Is Saylor Teeing Up a Buy?\n\nA Bitcoin rally to around $79,000 lifted the company's 840,447 BTC roughly $2.8 billion above its cost basis, as Saylor's \"We're Back\" post fueled speculation that Strategy may resume buying.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1096,
+        "t_plus_15m": 0.1623,
+        "t_plus_1h": 0.035
+      }
     },
     {
       "event_id": "5693d4b3-cd9f-4b37-b07c-a7188defbaf7",
@@ -71,6 +113,18 @@
       "tokens": [],
       "timestamp_utc": "2026-08-30T17:51:54+00:00",
       "raw_text": "Chainalysis accuses ICE of unfairly steering $95 million blockchain contract to TRM Labs\n\nThe lawsuit asks a federal court to block the $95 million TRM contract and require ICE to conduct a full and open competition.",
+      "impact": {}
+    },
+    {
+      "event_id": "1159e668-33ec-4a18-a2a7-d205a606186e",
+      "source": "rss:coindesk",
+      "title": "Michael Saylor hints at first bitcoin purchase in two months",
+      "url": "https://www.coindesk.com/markets/2026/08/30/bitcoin-nears-usd79-000-as-michael-saylor-hints-at-first-bitcoin-purchase-in-two-months",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-30T15:39:55+00:00",
+      "raw_text": "Michael Saylor hints at first bitcoin purchase in two months",
       "impact": {}
     },
     {
@@ -6360,86 +6414,30 @@
       "timestamp_utc": "2026-08-21T08:24:52+00:00",
       "raw_text": "Strategy sits on $1.4 billion profit on bitcoin holdings as price surges",
       "impact": {}
-    },
-    {
-      "event_id": "f7464cb3-5e7c-420c-8d5f-62eeb4281751",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin ETFs draw $608M as Ether ETFs see largest inflow since October",
-      "url": "https://cointelegraph.com/markets/bitcoin-etfs-ether-etfs-largest-inflow-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-21T07:50:01+00:00",
-      "raw_text": "Bitcoin ETFs draw $608M as Ether ETFs see largest inflow since October\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs draw $608M as Ether ETFs see largest inflow since October\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/fut",
-      "impact": {}
-    },
-    {
-      "event_id": "dfa7ec3c-3ae2-4f37-a586-5095d5d3f2d1",
-      "source": "rss:theblock",
-      "title": "Anchorage CEO says AI agents need bank accounts for ‘The Jetsons’-like future",
-      "url": "https://www.theblock.co/news/business/2026-08-21-anchorage-ceo-ai-the-jetsons-412427",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-21T07:11:13+00:00",
-      "raw_text": "Anchorage CEO says AI agents need bank accounts for ‘The Jetsons’-like future\n\nThe firm has built an agentic banking platform with a 'know-your-agent' setup to facilitate AI-driven transactions.",
-      "impact": {}
-    },
-    {
-      "event_id": "335ef1b8-45e4-4014-b40c-04853cce84af",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin slips back to $77,000 after challenging $80,000 overnight",
-      "url": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-21T06:43:24+00:00",
-      "raw_text": "Live updates: Bitcoin slips back to $77,000 after challenging $80,000 overnight",
-      "impact": {}
-    },
-    {
-      "event_id": "25836f69-b7ec-47cc-8803-55d988c232a0",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin tops $79,500; BTC, ETH record $800 million inflows",
-      "url": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC",
-        "ETH"
-      ],
-      "timestamp_utc": "2026-08-21T06:43:24+00:00",
-      "raw_text": "Live updates: Bitcoin tops $79,500; BTC, ETH record $800 million inflows",
-      "impact": {
-        "t_plus_5m": -3.0353,
-        "t_plus_15m": -2.8861,
-        "t_plus_1h": -1.6183,
-        "t_plus_4h": -0.0121
-      }
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 105,
-        "avg_1h": -0.44,
-        "avg_24h": 0.58,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 192,
-        "avg_1h": 0.05,
+        "count": 193,
+        "avg_1h": 0.13,
         "avg_24h": -0.05,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 34,
+        "count": 35,
         "avg_1h": 0.39,
         "avg_24h": 1.56,
         "win_rate_1h_gt5pct": 0.0
       },
+      "macro": {
+        "count": 104,
+        "avg_1h": -0.44,
+        "avg_24h": 0.58,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 154,
+        "count": 153,
         "avg_1h": 0.13,
         "avg_24h": 0.03,
         "win_rate_1h_gt5pct": 0.0
