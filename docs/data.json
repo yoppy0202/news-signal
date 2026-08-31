@@ -1,6 +1,138 @@
 {
-  "generated_at": "2026-08-31T05:25:26.851310+00:00",
+  "generated_at": "2026-08-31T13:36:30.905504+00:00",
   "events": [
+    {
+      "event_id": "724c0414-b327-4652-87cd-fcdbe0e7cd8e",
+      "source": "rss:decrypt",
+      "title": "Crypto.com's Cronos Halts Entire Blockchain After $75M Tectonic Exploit",
+      "url": "https://decrypt.co/376913/crypto-coms-cronos-halts-entire-blockchain-after-75m-tectonic-exploit",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-31T09:41:27+00:00",
+      "raw_text": "Crypto.com's Cronos Halts Entire Blockchain After $75M Tectonic Exploit\n\nSome $6 million reached Ethereum before validators froze the chain, stranding the rest on a network that still is not producing blocks.",
+      "impact": {}
+    },
+    {
+      "event_id": "02c9c9ff-bdd8-49e4-9de3-5a0a57ba4293",
+      "source": "rss:cointelegraph",
+      "title": "More Markets lending reserve drained for $9.3M: Blockaid",
+      "url": "https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-31T08:57:10+00:00",
+      "raw_text": "More Markets lending reserve drained for $9.3M: Blockaid\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"More Markets lending reserve drained for $9.3M: Blockaid\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1BE6GQ6SXNVS4KFF2WV7",
+      "impact": {}
+    },
+    {
+      "event_id": "ecf77a1b-c7ad-4519-a9ce-1f3dbbf784f0",
+      "source": "rss:coindesk",
+      "title": "U.S. jobs report, Russia’s digital ruble rollout: Crypto Week Ahead",
+      "url": "https://www.coindesk.com/markets/2026/08/31/u-s-jobs-report-russia-s-digital-ruble-rollout-crypto-week-ahead",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-31T08:22:28+00:00",
+      "raw_text": "U.S. jobs report, Russia’s digital ruble rollout: Crypto Week Ahead",
+      "impact": {}
+    },
+    {
+      "event_id": "091b7fc2-bbda-4afe-b244-9bea4986a3a4",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin holds $78,000 as yen breaks 160 and rate-hike bets lift the dollar",
+      "url": "https://www.coindesk.com/tech/2026/08/31/live-updates-bitcoin-holds-usd78-000-as-yen-breaks-160-and-rate-hike-bets-lift-the-dollar",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-31T08:18:03+00:00",
+      "raw_text": "Live updates: Bitcoin holds $78,000 as yen breaks 160 and rate-hike bets lift the dollar",
+      "impact": {}
+    },
+    {
+      "event_id": "80fba23c-4394-4f94-b04e-5652196165a8",
+      "source": "rss:theblock",
+      "title": "Russia’s largest bank forecasts $46 billion in first-year crypto exchange trading under new rules: report",
+      "url": "https://www.theblock.co/news/business/2026-08-31-russias-largest-bank-forecasts-46-billion-in-first-year-crypto-exchange-trading-under-new-rules-report-413082",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-31T08:15:48+00:00",
+      "raw_text": "Russia’s largest bank forecasts $46 billion in first-year crypto exchange trading under new rules: report\n\nSberbank's forecast comes as the country's new crypto regulations are set to take effect on Sept. 1, 2026.",
+      "impact": {}
+    },
+    {
+      "event_id": "b5a61601-7869-4b14-b7aa-214ebfab407b",
+      "source": "rss:coindesk",
+      "title": "Luke Dashjr exits mining pool Ocean after split over Bitcoin mining’s future",
+      "url": "https://www.coindesk.com/business/2026/08/31/luke-dashjr-exits-mining-pool-ocean-after-split-over-bitcoin-mining-s-future",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-31T08:04:54+00:00",
+      "raw_text": "Luke Dashjr exits mining pool Ocean after split over Bitcoin mining’s future",
+      "impact": {}
+    },
+    {
+      "event_id": "b981cf06-31b7-4222-91db-2c2c212a4e39",
+      "source": "rss:coindesk",
+      "title": "September Fed rate hike fears look overblown as the probability stands at just 58%, not 90%",
+      "url": "https://www.coindesk.com/markets/2026/08/31/september-fed-rate-hike-fears-appear-overblown-as-the-probability-is-just-58-not-90",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-31T06:42:45+00:00",
+      "raw_text": "September Fed rate hike fears look overblown as the probability stands at just 58%, not 90%",
+      "impact": {}
+    },
+    {
+      "event_id": "6f9911f7-ed69-4ec0-b68a-72fd3d8c6230",
+      "source": "rss:coindesk",
+      "title": "Zcash private transactions could go from three-second waits to under 200 milliseconds",
+      "url": "https://www.coindesk.com/tech/2026/08/31/zcash-private-transactions-could-go-from-three-second-waits-to-under-200-milliseconds",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-08-31T05:23:57+00:00",
+      "raw_text": "Zcash private transactions could go from three-second waits to under 200 milliseconds",
+      "impact": {}
+    },
+    {
+      "event_id": "79d69458-73b9-4566-b2f4-e885f1735393",
+      "source": "rss:coindesk",
+      "title": "Cronos halts blockchain after $75 million lending exploit hits lending app Tectonic",
+      "url": "https://www.coindesk.com/tech/2026/08/31/cronos-halts-blockchain-after-usd75-million-lending-exploit-hits-lending-app-tectonic",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-31T04:57:13+00:00",
+      "raw_text": "Cronos halts blockchain after $75 million lending exploit hits lending app Tectonic",
+      "impact": {}
+    },
+    {
+      "event_id": "4af53d14-ac53-4c84-bb24-4c7fc6cb01ec",
+      "source": "rss:coindesk",
+      "title": "Bitcoin barely blinks as U.S. hits Iran, sending oil higher and stocks lower",
+      "url": "https://www.coindesk.com/markets/2026/08/31/bitcoin-barely-blinks-as-u-s-hits-iran-sending-oil-higher-and-stocks-lower",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-31T04:29:10+00:00",
+      "raw_text": "Bitcoin barely blinks as U.S. hits Iran, sending oil higher and stocks lower",
+      "impact": {}
+    },
+    {
+      "event_id": "f01c461c-82f3-419e-8dae-848acdec4bc5",
+      "source": "rss:cointelegraph",
+      "title": "Cronos halts network after Tectonic exploit involving estimated $75M",
+      "url": "https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-08-31T03:25:48+00:00",
+      "raw_text": "Cronos halts network after Tectonic exploit involving estimated $75M\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cronos halts network after Tectonic exploit involving estimated $75M\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/08",
+      "impact": {}
+    },
     {
       "event_id": "46dc9bbb-fb5f-4463-9844-9c15ff8afe9f",
       "source": "rss:cointelegraph",
@@ -8,10 +140,17 @@
       "url": "https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "SOL"
+      ],
       "timestamp_utc": "2026-08-30T23:36:16+00:00",
       "raw_text": "Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/08",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2948,
+        "t_plus_15m": -0.3544,
+        "t_plus_1h": 0.9594,
+        "t_plus_4h": 0.4288
+      }
     },
     {
       "event_id": "eb027a8d-3b50-4e3e-a430-1ed9506848b5",
@@ -76,7 +215,8 @@
       "impact": {
         "t_plus_5m": 0.1096,
         "t_plus_15m": 0.1623,
-        "t_plus_1h": 0.035
+        "t_plus_1h": 0.035,
+        "t_plus_4h": -1.4914
       }
     },
     {
@@ -6275,170 +6415,31 @@
       "timestamp_utc": "2026-08-21T11:30:00+00:00",
       "raw_text": "The hard truth is that the Clarity Act is an anti-crypto bill",
       "impact": {}
-    },
-    {
-      "event_id": "9099a000-24c5-406b-82e8-4dd8215821c4",
-      "source": "rss:coindesk",
-      "title": "Bitcoin faces $80,000 test as thinner weekend liquidity looms",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/21/bitcoin-faces-usd80-000-test-as-thinner-weekend-liquidity-looms",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-21T11:26:27+00:00",
-      "raw_text": "Bitcoin faces $80,000 test as thinner weekend liquidity looms",
-      "impact": {}
-    },
-    {
-      "event_id": "a159ef78-1966-4334-a373-bd4153d37c19",
-      "source": "rss:theblock",
-      "title": "Bitcoin surge toward $80K points to liquidity-driven momentum shift as ETF flows rebound: Bernstein",
-      "url": "https://www.theblock.co/news/markets/2026-08-21-bitcoin-surge-80k-liquidity-driven-momentum-shift-etf-flows-rebound-bernstein-412443",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-21T10:57:54+00:00",
-      "raw_text": "Bitcoin surge toward $80K points to liquidity-driven momentum shift as ETF flows rebound: Bernstein\n\nU.S. spot bitcoin ETF flows have also rebounded, while Strategy's bitcoin holdings are now back above their average purchase price.",
-      "impact": {}
-    },
-    {
-      "event_id": "f5145486-c7fe-4334-b3ac-e25499adaf2c",
-      "source": "rss:coindesk",
-      "title": "Nomura-backed Laser Digital wins Japan's first crypto approval in four years",
-      "url": "https://www.coindesk.com/policy/2026/08/21/nomura-backed-laser-digital-wins-japan-s-first-crypto-approval-in-four-years",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-21T10:38:47+00:00",
-      "raw_text": "Nomura-backed Laser Digital wins Japan's first crypto approval in four years",
-      "impact": {}
-    },
-    {
-      "event_id": "b483a256-7135-475e-88b9-6ecefcb32a28",
-      "source": "rss:coindesk",
-      "title": "Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride",
-      "url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-tops-usd77-000-as-best-week-since-2023-pulls-altcoins-along-for-the-ride",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-21T10:15:36+00:00",
-      "raw_text": "Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride",
-      "impact": {}
-    },
-    {
-      "event_id": "f1e05a76-94fb-46ee-aa74-9b6a0c1a2991",
-      "source": "rss:cointelegraph",
-      "title": "Coldcard strengthens seed generation with firmware update",
-      "url": "https://cointelegraph.com/news/coldcard-upgrade-strengthen-seed-phrase-generation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-21T10:13:23+00:00",
-      "raw_text": "Coldcard strengthens seed generation with firmware update\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard strengthens seed generation with firmware update\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/crimes-code-tweezers-theft-ha",
-      "impact": {}
-    },
-    {
-      "event_id": "5b70980d-ff06-4ba0-8e4e-d884eac55237",
-      "source": "rss:decrypt",
-      "title": "Binance Opens the Door to AI Agents That Can Trade Crypto for You",
-      "url": "https://decrypt.co/376161/binance-ai-agents-trade-crypto",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-21T09:31:05+00:00",
-      "raw_text": "Binance Opens the Door to AI Agents That Can Trade Crypto for You\n\nBinance Agent OS connects tools like ChatGPT and Claude directly to the exchange's markets, though safeguards wall agents off from user funds—and leave much of the oversight to users themselves.",
-      "impact": {}
-    },
-    {
-      "event_id": "25a250bb-834b-409d-ab44-054099f73020",
-      "source": "rss:theblock",
-      "title": "Upbit trading volume spikes 273% as South Korean investors re-enter crypto",
-      "url": "https://www.theblock.co/news/markets/2026-08-21-upbit-trading-volume-spikes-412435",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-21T09:17:58+00:00",
-      "raw_text": "Upbit trading volume spikes 273% as South Korean investors re-enter crypto\n\nOne analyst said South Korean capital is slowly moving back to crypto, as investors are 'return-chasing' rather than 'asset-loyal.'",
-      "impact": {}
-    },
-    {
-      "event_id": "c758f4d6-8de8-4ccb-b8d9-4d5f736e2d36",
-      "source": "rss:coindesk",
-      "title": "Treasury's latest measure isn't QE or YCC. Still, bitcoin is skyrocketing. Here's why.",
-      "url": "https://www.coindesk.com/markets/2026/08/21/treasury-s-latest-measure-isn-t-qe-or-ycc-still-bitcoin-is-skyrocketing-here-s-why",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-21T09:17:15+00:00",
-      "raw_text": "Treasury's latest measure isn't QE or YCC. Still, bitcoin is skyrocketing. Here's why.",
-      "impact": {}
-    },
-    {
-      "event_id": "cca028e5-9330-48f9-aa3c-00f4d99a08fa",
-      "source": "rss:theblock",
-      "title": "Avalanche’s Nahas: Token prices are down, but ‘I’ve never seen more opportunities’ in crypto",
-      "url": "https://www.theblock.co/news/ecosystems/2026-08-21-avalanches-nahas-token-prices-are-down-but-ive-never-seen-more-opportunities-in-crypto-412431",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-21T09:00:26+00:00",
-      "raw_text": "Avalanche’s Nahas: Token prices are down, but ‘I’ve never seen more opportunities’ in crypto\n\nAva Labs CBO John Nahas says crypto prices are down, but real-world adoption is creating more opportunities across the sector.",
-      "impact": {}
-    },
-    {
-      "event_id": "99785174-d1f1-489b-b76b-cf5062f85478",
-      "source": "rss:cointelegraph",
-      "title": "Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K",
-      "url": "https://cointelegraph.com/markets/strategy-bitcoin-treasury-hits-breakeven-point-as-btc-price-passes-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-21T08:48:52+00:00",
-      "raw_text": "Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/b",
-      "impact": {
-        "t_plus_5m": 0.9528,
-        "t_plus_15m": 0.0781,
-        "t_plus_1h": 0.503,
-        "t_plus_4h": -0.6164
-      }
-    },
-    {
-      "event_id": "17c0c726-f994-4a46-a96f-6c1dfb2c60bc",
-      "source": "rss:coindesk",
-      "title": "Strategy sits on $1.4 billion profit on bitcoin holdings as price surges",
-      "url": "https://www.coindesk.com/markets/2026/08/21/strategy-sits-on-usd1-4-billion-profit-on-bitcoin-holdings-as-price-surges",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-21T08:24:52+00:00",
-      "raw_text": "Strategy sits on $1.4 billion profit on bitcoin holdings as price surges",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 193,
-        "avg_1h": 0.13,
-        "avg_24h": -0.05,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 35,
+        "count": 38,
         "avg_1h": 0.39,
         "avg_24h": 1.56,
         "win_rate_1h_gt5pct": 0.0
       },
+      "unknown": {
+        "count": 192,
+        "avg_1h": 0.17,
+        "avg_24h": -0.05,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 104,
+        "count": 105,
         "avg_1h": -0.44,
         "avg_24h": 0.58,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 153,
-        "avg_1h": 0.13,
+        "count": 150,
+        "avg_1h": 0.11,
         "avg_24h": 0.03,
         "win_rate_1h_gt5pct": 0.0
       },
