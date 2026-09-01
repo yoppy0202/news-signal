@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-08-31T23:47:17.276170+00:00",
+  "generated_at": "2026-09-01T04:59:25.831658+00:00",
   "events": [
+    {
+      "event_id": "1f80f9c0-ca1f-4083-9d60-1594ce40ac95",
+      "source": "rss:theblock",
+      "title": "Robinhood Chain hits record $989 million in daily DEX volume as TVL grows",
+      "url": "https://www.theblock.co/news/markets/2026-08-31-robinhood-chain-activity-surges-in-august-as-dex-volume-near-1-billion-413136",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-08-31T22:21:03+00:00",
+      "raw_text": "Robinhood Chain hits record $989 million in daily DEX volume as TVL grows\n\nRobinhood Chain DEX volume hit a record in the month of August as utility tokens gain ground on memecoins.",
+      "impact": {}
+    },
     {
       "event_id": "57c8069e-d31e-495f-96f3-3306366cf020",
       "source": "rss:decrypt",
@@ -20,10 +32,16 @@
       "url": "https://decrypt.co/376992/strive-adds-143-million-bitcoin",
       "event_type": "listing",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-08-31T21:01:05+00:00",
       "raw_text": "Strive Adds $143 Million in Bitcoin as Treasury Firms Pile Back In\n\nThe Nasdaq-listed asset manager paid an average of $79,431 per coin, lifting its total stash to 23,156 BTC amid a wave of renewed treasury buying.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2111,
+        "t_plus_15m": -0.1949,
+        "t_plus_1h": -0.0352
+      }
     },
     {
       "event_id": "0c67038c-e9db-41ce-b41a-b9a7ad039905",
@@ -80,10 +98,16 @@
       "url": "https://www.theblock.co/news/ecosystems/2026-08-31-solana-fees-hit-record-as-validators-double-pace-of-inflation-cuts-413135",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "SOL"
+      ],
       "timestamp_utc": "2026-08-31T20:14:57+00:00",
       "raw_text": "Solana fees hit record as validators double pace of inflation cuts\n\nLess new supply of SOL will reach the market every year, which also means validators will earn less for the same amount of work.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.3772,
+        "t_plus_15m": 0.2978,
+        "t_plus_1h": -0.2783
+      }
     },
     {
       "event_id": "c025b826-630b-40bf-8a34-03512d181652",
@@ -104,10 +128,17 @@
       "url": "https://decrypt.co/376973/xrp-etfs-inflow-streak-9-days",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-08-31T19:31:04+00:00",
       "raw_text": "XRP ETFs Extend Inflow Streak to 9 Days, Pulling In $1.6 Billion Since Launch\n\nSpot XRP funds have drawn inflows for nine straight days, reaching $1.6 billion in cumulative net inflows even as the token's price cools.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0511,
+        "t_plus_15m": -0.2319,
+        "t_plus_1h": -0.2426,
+        "t_plus_4h": -0.7208
+      }
     },
     {
       "event_id": "834f4194-9b3e-41e2-b001-743642897a70",
@@ -184,7 +215,8 @@
       "impact": {
         "t_plus_5m": -0.1113,
         "t_plus_15m": 0.2221,
-        "t_plus_1h": 0.3757
+        "t_plus_1h": 0.3757,
+        "t_plus_4h": 0.3182
       }
     },
     {
@@ -6369,31 +6401,19 @@
       "timestamp_utc": "2026-08-23T13:00:00+00:00",
       "raw_text": "Crypto’s next billion users might be AI agents, and they’re paying with stablecoins",
       "impact": {}
-    },
-    {
-      "event_id": "7c3ede72-61ca-4d57-93c7-8e8a42a812ac",
-      "source": "rss:theblock",
-      "title": "Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume",
-      "url": "https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-22T19:31:35+00:00",
-      "raw_text": "Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume\n\nCombined ETF weekly trading volume more than tripled to $29 billion as bitcoin and ether prices rallied, though both categories are negative on the year.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 154,
+        "count": 155,
         "avg_1h": 0.06,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
         "count": 16,
-        "avg_1h": -0.26,
+        "avg_1h": -0.24,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6404,14 +6424,14 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 105,
+        "count": 104,
         "avg_1h": -0.34,
         "avg_24h": 0.58,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
         "count": 190,
-        "avg_1h": 0.21,
+        "avg_1h": 0.18,
         "avg_24h": -0.05,
         "win_rate_1h_gt5pct": 0.0
       },
