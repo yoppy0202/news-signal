@@ -1,6 +1,90 @@
 {
-  "generated_at": "2026-09-01T04:59:25.831658+00:00",
+  "generated_at": "2026-09-01T10:01:03.088902+00:00",
   "events": [
+    {
+      "event_id": "899b0606-8de9-4d45-a876-d0d65e5a2860",
+      "source": "rss:theblock",
+      "title": "Ark Invest buys $37 million worth of shares in Jack Dorsey’s Block Inc",
+      "url": "https://www.theblock.co/news/markets/2026-09-01-ark-invest-buys-37-million-block-413195",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-01T04:57:33+00:00",
+      "raw_text": "Ark Invest buys $37 million worth of shares in Jack Dorsey’s Block Inc\n\nLast month, Ark had purchased a bulk of Block shares after its second-quarter results that raised its full-year profit forecast to $12.5 billion",
+      "impact": {}
+    },
+    {
+      "event_id": "7478ed98-9b19-4816-ba52-4e37548ad0aa",
+      "source": "rss:cointelegraph",
+      "title": "BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks",
+      "url": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-inflow-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-01T04:48:47+00:00",
+      "raw_text": "BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl",
+      "impact": {}
+    },
+    {
+      "event_id": "31df72a5-d485-47b7-93ef-15a31759bb2d",
+      "source": "rss:coindesk",
+      "title": "Bitcoin steady above $78,000, HYPE leads as majors slip on hawkish Fed bets",
+      "url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-steady-above-usd78-000-hype-leads-as-majors-slip-on-hawkish-fed-bets",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-01T04:30:28+00:00",
+      "raw_text": "Bitcoin steady above $78,000, HYPE leads as majors slip on hawkish Fed bets",
+      "impact": {}
+    },
+    {
+      "event_id": "86506784-cac4-4163-9582-eef5c0b265ac",
+      "source": "rss:coindesk",
+      "title": "Trump Jr's firm leads $1 billion Polymarket raise at $21 billion value: Report",
+      "url": "https://www.coindesk.com/business/2026/09/01/trump-jr-s-firm-leads-usd1-billion-polymarket-raise-at-usd21-billion-value-report",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-01T04:19:54+00:00",
+      "raw_text": "Trump Jr's firm leads $1 billion Polymarket raise at $21 billion value: Report",
+      "impact": {}
+    },
+    {
+      "event_id": "6871ae45-f512-432e-a500-8bfcb0d17dc1",
+      "source": "rss:coindesk",
+      "title": "CME’s share of XRP futures jumps as token rallies 40% in a week",
+      "url": "https://www.coindesk.com/markets/2026/09/01/xrp-futures-are-shifting-toward-cme-as-institutional-participation-grows",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-01T03:49:39+00:00",
+      "raw_text": "CME’s share of XRP futures jumps as token rallies 40% in a week",
+      "impact": {}
+    },
+    {
+      "event_id": "427eef05-39e5-484b-9c1b-42331f7288fe",
+      "source": "rss:cointelegraph",
+      "title": "Thailand SEC proposes retail access to regulated overseas crypto derivatives",
+      "url": "https://cointelegraph.com/news/thailand-sec-retail-overseas-crypto-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-01T03:49:00+00:00",
+      "raw_text": "Thailand SEC proposes retail access to regulated overseas crypto derivatives\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Thailand SEC proposes retail access to regulated overseas crypto derivatives\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl",
+      "impact": {}
+    },
+    {
+      "event_id": "7c1b4579-0999-4bfe-85fa-285b07c3a5a6",
+      "source": "rss:theblock",
+      "title": "DeFi Development Corp proposes $20 million preferred stock offering to buy more SOL",
+      "url": "https://www.theblock.co/news/business/2026-08-31-solana-defi-development-preferred-stock-offering-413190",
+      "event_type": "listing",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-01T03:46:02+00:00",
+      "raw_text": "DeFi Development Corp proposes $20 million preferred stock offering to buy more SOL\n\nThe Nasdaq-listed company intends to use the proceeds to acquire more Solana and crypto-related investments.",
+      "impact": {}
+    },
     {
       "event_id": "1f80f9c0-ca1f-4083-9d60-1594ce40ac95",
       "source": "rss:theblock",
@@ -40,7 +124,8 @@
       "impact": {
         "t_plus_5m": -0.2111,
         "t_plus_15m": -0.1949,
-        "t_plus_1h": -0.0352
+        "t_plus_1h": -0.0352,
+        "t_plus_4h": -0.4468
       }
     },
     {
@@ -106,7 +191,8 @@
       "impact": {
         "t_plus_5m": 0.3772,
         "t_plus_15m": 0.2978,
-        "t_plus_1h": -0.2783
+        "t_plus_1h": -0.2783,
+        "t_plus_4h": -0.4924
       }
     },
     {
@@ -6310,109 +6396,30 @@
       "timestamp_utc": "2026-08-23T18:30:00+00:00",
       "raw_text": "Regulation Crypto is here: State of Crypto",
       "impact": {}
-    },
-    {
-      "event_id": "55c71bb8-e580-4e57-a9c5-97129fe6e302",
-      "source": "rss:theblock",
-      "title": "Tether’s $120 million Uruguay bitcoin mining project collapsed over a power contract dispute: Reuters",
-      "url": "https://www.theblock.co/news/business/2026-08-23-tethers-120-million-uruguay-bitcoin-mining-project-collapsed-over-a-power-contract-dispute-reuters-412536",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-23T17:02:20+00:00",
-      "raw_text": "Tether’s $120 million Uruguay bitcoin mining project collapsed over a power contract dispute: Reuters\n\nUTE cut power to Tether's mining sites in July 2025 after Tether representatives did not attend the signing of a revised contract, per the report.",
-      "impact": {}
-    },
-    {
-      "event_id": "6ed43284-0f5c-4c33-9790-d2f30ed21be3",
-      "source": "rss:decrypt",
-      "title": "63% of Religious Books on Amazon Are Likely AI-Written, Study Finds",
-      "url": "https://decrypt.co/376295/religious-books-amazon-ai-written-study",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-23T16:31:04+00:00",
-      "raw_text": "63% of Religious Books on Amazon Are Likely AI-Written, Study Finds\n\nWitchcraft books had the highest rate of likely AI-generated content at 78%, according to an Originality.ai analysis of more than 2,000 titles.",
-      "impact": {}
-    },
-    {
-      "event_id": "c8dd8cd4-1202-48c7-86d9-36dbab007cd8",
-      "source": "rss:coindesk",
-      "title": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
-      "url": "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-08-23T15:52:21+00:00",
-      "raw_text": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
-      "impact": {
-        "t_plus_5m": -0.1105,
-        "t_plus_15m": 0.0751,
-        "t_plus_1h": 0.324,
-        "t_plus_4h": 0.1846
-      }
-    },
-    {
-      "event_id": "66e06fac-4033-4c06-96b9-084b21752b97",
-      "source": "rss:cointelegraph",
-      "title": "Fed study finds crypto investors driven by beliefs, easily swayed by returns",
-      "url": "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-23T15:30:53+00:00",
-      "raw_text": "Fed study finds crypto investors driven by beliefs, easily swayed by returns\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fed study finds crypto investors driven by beliefs, easily swayed by returns\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl",
-      "impact": {}
-    },
-    {
-      "event_id": "126d3823-ca73-4c2d-9dfd-01fcc853f76a",
-      "source": "rss:coindesk",
-      "title": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
-      "url": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-23T15:00:00+00:00",
-      "raw_text": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
-      "impact": {}
-    },
-    {
-      "event_id": "336a9aad-f747-4431-8437-6781511d3cf2",
-      "source": "rss:decrypt",
-      "title": "Robot Brains Could Have Their ‘ChatGPT Moment’ by 2027, ACE Robotics Chairman Says",
-      "url": "https://decrypt.co/376265/robot-brains-chatgpt-moment-ace-robotics",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-23T14:31:04+00:00",
-      "raw_text": "Robot Brains Could Have Their ‘ChatGPT Moment’ by 2027, ACE Robotics Chairman Says\n\nThe breakthrough could come from AI models that help robots understand and interact with the physical world, though widespread adoption may still be years away.",
-      "impact": {}
-    },
-    {
-      "event_id": "72d81443-f2aa-4bb7-9470-30f048d1a68b",
-      "source": "rss:coindesk",
-      "title": "Crypto’s next billion users might be AI agents, and they’re paying with stablecoins",
-      "url": "https://www.coindesk.com/business/2026/08/23/crypto-s-next-billion-users-might-be-ai-agents-and-they-re-paying-with-stablecoins",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-23T13:00:00+00:00",
-      "raw_text": "Crypto’s next billion users might be AI agents, and they’re paying with stablecoins",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 107,
+        "avg_1h": -0.34,
+        "avg_24h": 0.58,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 155,
-        "avg_1h": 0.06,
+        "count": 152,
+        "avg_1h": 0.04,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
+      "unknown": {
+        "count": 189,
+        "avg_1h": 0.18,
+        "avg_24h": -0.05,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "listing": {
-        "count": 16,
+        "count": 17,
         "avg_1h": -0.24,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
@@ -6421,18 +6428,6 @@
         "count": 34,
         "avg_1h": 0.7,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 104,
-        "avg_1h": -0.34,
-        "avg_24h": 0.58,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 190,
-        "avg_1h": 0.18,
-        "avg_24h": -0.05,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
