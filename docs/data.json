@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-02T00:04:42.969842+00:00",
+  "generated_at": "2026-09-02T04:22:33.417254+00:00",
   "events": [
+    {
+      "event_id": "80ebf982-c5e4-49bb-b572-fe93da1eebab",
+      "source": "rss:coindesk",
+      "title": "SEC proposes transfer agent rule, sets event to figure out round-the-clock U.S. trading",
+      "url": "https://www.coindesk.com/policy/2026/09/01/sec-proposes-transfer-agent-rule-sets-event-to-figure-out-round-the-clock-u-s-trading",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-01T23:55:46+00:00",
+      "raw_text": "SEC proposes transfer agent rule, sets event to figure out round-the-clock U.S. trading",
+      "impact": {}
+    },
+    {
+      "event_id": "af9bdca2-f737-4560-97e2-146a0f3bece8",
+      "source": "rss:decrypt",
+      "title": "OpenClaw 2.0 Is Here: What Changed, Why It Took Two Months, and How It Stacks Up Against Hermes",
+      "url": "https://decrypt.co/377135/openclaw-2-0-is-here-whats-new",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-01T22:16:04+00:00",
+      "raw_text": "OpenClaw 2.0 Is Here: What Changed, Why It Took Two Months, and How It Stacks Up Against Hermes\n\nThe open-source agent framework that started the \"autonomous AI\" hype cycle just shipped its biggest update ever, almost by accident, and it's coming for the enterprise now.",
+      "impact": {}
+    },
     {
       "event_id": "4ee1dec4-228e-4312-84ac-b8a6a66681bf",
       "source": "rss:decrypt",
@@ -172,7 +196,8 @@
       "impact": {
         "t_plus_5m": 0.424,
         "t_plus_15m": -0.1694,
-        "t_plus_1h": -0.0969
+        "t_plus_1h": -0.0969,
+        "t_plus_4h": -0.2043
       }
     },
     {
@@ -6340,36 +6365,18 @@
       "timestamp_utc": "2026-08-24T19:23:02+00:00",
       "raw_text": "US escalates Iran pressure with sanctions on crypto, aviation, shipping and gold as part of ‘economic D-Day’\n\nThe U.S. Treasury Department is zeroing in on digital assets it says are being used to bolster Iran’s economy.",
       "impact": {}
-    },
-    {
-      "event_id": "0485b9d3-f65b-4523-ae7c-5732527483e5",
-      "source": "rss:cointelegraph",
-      "title": "Coinbase-affiliated advocacy group endorses candidates for US midterms",
-      "url": "https://cointelegraph.com/news/coinbase-stand-crypto-advocacy-group-endorses-midterm-candidates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-24T19:18:06+00:00",
-      "raw_text": "Coinbase-affiliated advocacy group endorses candidates for US midterms\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase-affiliated advocacy group endorses candidates for US midterms\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-",
-      "impact": {}
-    },
-    {
-      "event_id": "fc5b5f1a-6357-4e95-b309-ca3ea85dd04a",
-      "source": "rss:cointelegraph",
-      "title": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
-      "url": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-24T19:11:48+00:00",
-      "raw_text": "Coinbase tokenized stocks go live on Base with Chainlink price feeds\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase tokenized stocks go live on Base with Chainlink price feeds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 113,
+        "avg_1h": -0.2,
+        "avg_24h": 0.58,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 156,
+        "count": 155,
         "avg_1h": 0.35,
         "avg_24h": -0.77,
         "win_rate_1h_gt5pct": 0.0
@@ -6378,12 +6385,6 @@
         "count": 35,
         "avg_1h": 0.7,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 112,
-        "avg_1h": -0.2,
-        "avg_24h": 0.58,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
