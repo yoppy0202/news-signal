@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-09-03T04:20:38.932359+00:00",
+  "generated_at": "2026-09-03T09:41:15.277460+00:00",
   "events": [
+    {
+      "event_id": "a6f2f6db-8dd4-40f3-9395-e93c8bd35087",
+      "source": "rss:coindesk",
+      "title": "Dogecoin becomes only losing bet for Japan-listed firm as it sells altcoins for bitcoin",
+      "url": "https://www.coindesk.com/markets/2026/09/03/dogecoin-becomes-losing-bet-for-japan-listed-firm-remixpoint-as-it-sells-altcoins-for-bitcoin",
+      "event_type": "listing",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-03T04:58:05+00:00",
+      "raw_text": "Dogecoin becomes only losing bet for Japan-listed firm as it sells altcoins for bitcoin",
+      "impact": {}
+    },
+    {
+      "event_id": "640a3316-e321-4e9a-88c3-6f54963bd5b5",
+      "source": "rss:theblock",
+      "title": "Michigan court orders Kalshi to keep blocking sports prediction markets",
+      "url": "https://www.theblock.co/news/regulation/2026-09-03-michigan-court-orders-kalshi-sports-prediction-markets-413422",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-03T04:30:32+00:00",
+      "raw_text": "Michigan court orders Kalshi to keep blocking sports prediction markets\n\nThe injunction converts a temporary restraining order issued in June, and violations would result in a fine of $500,000 per day.",
+      "impact": {}
+    },
+    {
+      "event_id": "d675a10b-cd38-4a72-b896-adf75b5b2557",
+      "source": "rss:coindesk",
+      "title": "Bitcoin back above $77,500, XRP leads majors as Fed hike odds slide to 62%",
+      "url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-back-above-usd77-500-xrp-leads-majors-as-fed-hike-odds-near-66",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-03T04:22:40+00:00",
+      "raw_text": "Bitcoin back above $77,500, XRP leads majors as Fed hike odds slide to 62%",
+      "impact": {}
+    },
+    {
+      "event_id": "b94c2de7-72a6-48cf-a250-10cd1a6b1b20",
+      "source": "rss:theblock",
+      "title": "‘Much ado about nothing’: CFTC files to dismiss CME’s lawsuit over crypto perpetual futures",
+      "url": "https://www.theblock.co/news/regulation/2026-09-02-cftc-dismiss-cme-413416",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-03T03:39:02+00:00",
+      "raw_text": "‘Much ado about nothing’: CFTC files to dismiss CME’s lawsuit over crypto perpetual futures\n\nThe CFTC said CME lacks standing on its competitive-injury claims, as the exchange is free to list perp futures as a DCM.",
+      "impact": {}
+    },
     {
       "event_id": "9375505d-e980-4a86-9fa1-f52a4d6e4734",
       "source": "rss:decrypt",
@@ -68,7 +116,8 @@
       "impact": {
         "t_plus_5m": 0.4728,
         "t_plus_15m": 0.899,
-        "t_plus_1h": 0.1516
+        "t_plus_1h": 0.1516,
+        "t_plus_4h": 1.655
       }
     },
     {
@@ -6347,61 +6396,13 @@
       "timestamp_utc": "2026-08-25T19:40:00+00:00",
       "raw_text": "South Korea trade giant POSCO brings trade receivables to Avalanche in latest tokenization move",
       "impact": {}
-    },
-    {
-      "event_id": "e3300dd9-fcad-493f-949b-232be3cdb116",
-      "source": "rss:bitcoinmagazine",
-      "title": "Kraken Says ‘Dust Attack’ From Sanctioned HTX Wallet Locked Out Customers",
-      "url": "https://bitcoinmagazine.com/news/kraken-says-users-were-dust-attacked",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-25T19:27:12+00:00",
-      "raw_text": "Kraken Says ‘Dust Attack’ From Sanctioned HTX Wallet Locked Out Customers\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Kraken-Launches-Krak-a-No-Fee-App-to-Use-and-Store-Bitcoin-and-Crypto.jpg\" st",
-      "impact": {}
-    },
-    {
-      "event_id": "dab3ea93-e362-4991-804c-92345bc66e72",
-      "source": "rss:decrypt",
-      "title": "Crypto Market Flips From Fear to 'Extreme Greed' for First Time Since 2024",
-      "url": "https://decrypt.co/376503/crypto-fear-greed-index-extreme-greed",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-25T19:11:04+00:00",
-      "raw_text": "Crypto Market Flips From Fear to 'Extreme Greed' for First Time Since 2024\n\nThe Crypto Fear and Greed Index was at 36, firmly in the fear zone, just a month ago.",
-      "impact": {}
-    },
-    {
-      "event_id": "c1107360-34f4-4191-95d8-3d31ccba6758",
-      "source": "rss:theblock",
-      "title": "ZRO token surges as LayerZero unveils ATLAS exchange infrastructure built on Zero blockchain",
-      "url": "https://www.theblock.co/news/ecosystems/2026-08-25-zro-token-layerzero-atlas-exchange-infrastructure-zero-blockchain-412736",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-25T18:41:50+00:00",
-      "raw_text": "ZRO token surges as LayerZero unveils ATLAS exchange infrastructure built on Zero blockchain\n\nLayerZero has announced ATLAS, new exchange infrastructure built on its Zero blockchain for trading platforms and financial institutions.",
-      "impact": {}
-    },
-    {
-      "event_id": "9909a8b4-74f2-4da9-b80c-5cc7c81c1b99",
-      "source": "rss:decrypt",
-      "title": "Mistral and HUMAIN Are Building 'Sovereign AI' in Saudi Arabia",
-      "url": "https://decrypt.co/376514/mistral-humain-sovereign-ai-saudi-arabia",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-25T18:39:26+00:00",
-      "raw_text": "Mistral and HUMAIN Are Building 'Sovereign AI' in Saudi Arabia\n\nMistral and HUMAIN announced plans to build sovereign AI infrastructure in Saudi Arabia and across the region—a tie-up valued in the hundreds of millions of euros that deepens Gulf money flowing into European AI.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "hack": {
-        "count": 32,
-        "avg_1h": 0.97,
+      "listing": {
+        "count": 21,
+        "avg_1h": -0.15,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6412,21 +6413,21 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 117,
+        "count": 118,
         "avg_1h": -0.08,
         "avg_24h": 0.58,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 180,
-        "avg_1h": 0.19,
-        "avg_24h": -0.32,
+      "hack": {
+        "count": 31,
+        "avg_1h": 0.97,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "listing": {
-        "count": 20,
-        "avg_1h": -0.15,
-        "avg_24h": null,
+      "unknown": {
+        "count": 179,
+        "avg_1h": 0.19,
+        "avg_24h": -0.32,
         "win_rate_1h_gt5pct": 0.0
       }
     }
