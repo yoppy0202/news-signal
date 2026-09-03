@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-09-03T00:09:11.293529+00:00",
+  "generated_at": "2026-09-03T04:20:38.932359+00:00",
   "events": [
+    {
+      "event_id": "9375505d-e980-4a86-9fa1-f52a4d6e4734",
+      "source": "rss:decrypt",
+      "title": "Anthropic Admits Security Failures Behind Claude Hacking Incidents",
+      "url": "https://decrypt.co/377232/anthropic-security-claude-ai-hacks",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-02T23:46:04+00:00",
+      "raw_text": "Anthropic Admits Security Failures Behind Claude Hacking Incidents\n\nAfter Claude models accessed real systems during cyber tests, Anthropic tightened its safeguards and warned that flawed training can encourage dangerous behavior.",
+      "impact": {}
+    },
+    {
+      "event_id": "bcc884f7-f13d-44b5-9c8d-5787746e1efb",
+      "source": "rss:decrypt",
+      "title": "An AI Training Data Startup Just Became Y Combinator's Fastest-Ever Unicorn",
+      "url": "https://decrypt.co/377231/afterquery-ai-tradining-data-unicorn-y-combinator",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-02T23:16:04+00:00",
+      "raw_text": "An AI Training Data Startup Just Became Y Combinator's Fastest-Ever Unicorn\n\nAfterquery's valuation jumped more than tenfold in five months, making it Y Combinator's fastest unicorn ever.",
+      "impact": {}
+    },
+    {
+      "event_id": "93ec9324-1c09-4086-b673-facbe53e113c",
+      "source": "rss:decrypt",
+      "title": "FBI Seizes $560K in Crypto Bound for Hamas, Takes Over Fundraising Sites",
+      "url": "https://decrypt.co/377230/fbi-seizes-560k-crypto-hamas",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-02T22:47:06+00:00",
+      "raw_text": "FBI Seizes $560K in Crypto Bound for Hamas, Takes Over Fundraising Sites\n\nAgents seized digital assets, domains, and servers allegedly used by Hamas’ military wing to collect donations and recruit supporters.",
+      "impact": {}
+    },
     {
       "event_id": "484f35ab-6b85-4d24-a778-9a43d21a1fc1",
       "source": "rss:bitcoinmagazine",
@@ -20,10 +56,20 @@
       "url": "https://decrypt.co/377228/remixpoint-xrp-ethereum-bitcoin-only",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "XRP",
+        "ETH",
+        "SOL",
+        "DOGE",
+        "BTC"
+      ],
       "timestamp_utc": "2026-09-02T21:31:05+00:00",
       "raw_text": "Japan’s Remixpoint Dumps Ethereum, XRP in Shift to Bitcoin-Only Treasury\n\nThe Japanese company booked a ¥117.8 million profit after selling its ETH, SOL, XRP and DOGE, leaving roughly 1,506 BTC as its only cryptocurrency holding.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.4728,
+        "t_plus_15m": 0.899,
+        "t_plus_1h": 0.1516
+      }
     },
     {
       "event_id": "2839e3da-b604-4655-9d96-8ceee3cb3184",
@@ -6349,53 +6395,22 @@
       "timestamp_utc": "2026-08-25T18:39:26+00:00",
       "raw_text": "Mistral and HUMAIN Are Building 'Sovereign AI' in Saudi Arabia\n\nMistral and HUMAIN announced plans to build sovereign AI infrastructure in Saudi Arabia and across the region—a tie-up valued in the hundreds of millions of euros that deepens Gulf money flowing into European AI.",
       "impact": {}
-    },
-    {
-      "event_id": "77beacb0-1c71-4540-8fef-55a321a7e261",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin enters ‘initial phase’ of new bull market, but $83K remains key: CryptoQuant",
-      "url": "https://cointelegraph.com/markets/bitcoin-enters-initial-phase-of-new-bull-market-but-83k-remains-key-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-25T18:13:11+00:00",
-      "raw_text": "Bitcoin enters ‘initial phase’ of new bull market, but $83K remains key: CryptoQuant\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin enters ‘initial phase’ of new bull market, but $83K remains key: CryptoQuant\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia",
-      "impact": {}
-    },
-    {
-      "event_id": "48b4ddab-0c63-43de-95ef-bfaa055a05c2",
-      "source": "rss:cointelegraph",
-      "title": "Solana transactions hit record 4.2B as SOL rallies 40%",
-      "url": "https://cointelegraph.com/news/solana-record-transactions-rwa-sol-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "SOL"
-      ],
-      "timestamp_utc": "2026-08-25T18:08:58+00:00",
-      "raw_text": "Solana transactions hit record 4.2B as SOL rallies 40%\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana transactions hit record 4.2B as SOL rallies 40%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-solana-coin.jpg\" /></p><p>Tokeni",
-      "impact": {
-        "t_plus_5m": -0.1158,
-        "t_plus_15m": 0.1461,
-        "t_plus_1h": -0.1332,
-        "t_plus_4h": -1.0714
-      }
-    },
-    {
-      "event_id": "6d8b3210-4d05-4508-819d-30df8540b307",
-      "source": "rss:decrypt",
-      "title": "Gold Hits Three-Month High as Bitcoin Tests $80,000",
-      "url": "https://decrypt.co/376489/gold-price-three-month-high-bitcoin",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-25T17:24:54+00:00",
-      "raw_text": "Gold Hits Three-Month High as Bitcoin Tests $80,000\n\nGold extended its August rally as a weaker dollar and falling yields boosted demand, while Bitcoin briefly climbed above $80,000 for the first time since May.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 32,
+        "avg_1h": 0.97,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 151,
+        "avg_1h": 0.36,
+        "avg_24h": -0.72,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 117,
         "avg_1h": -0.08,
@@ -6403,26 +6418,14 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 182,
-        "avg_1h": 0.17,
+        "count": 180,
+        "avg_1h": 0.19,
         "avg_24h": -0.32,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 150,
-        "avg_1h": 0.36,
-        "avg_24h": -0.72,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
         "count": 20,
         "avg_1h": -0.15,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 31,
-        "avg_1h": 0.97,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       }
