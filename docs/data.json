@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-04T00:00:51.528701+00:00",
+  "generated_at": "2026-09-04T04:23:17.872978+00:00",
   "events": [
+    {
+      "event_id": "2352825d-5d9e-4aa0-8bbe-2352887f52e1",
+      "source": "rss:cointelegraph",
+      "title": "Tether sued over frozen ‘pig butcher’ coins, 6,600 students get crypto loans: Asia Express",
+      "url": "https://cointelegraph.com/magazine/tether-sued-over-frozen-pig-butcher-coins-6600-students-get-crypto-loans-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-03T23:40:09+00:00",
+      "raw_text": "Tether sued over frozen ‘pig butcher’ coins, 6,600 students get crypto loans: Asia Express\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether sued over frozen ‘pig butcher’ coins, 6,600 students get crypto loans: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-im",
+      "impact": {}
+    },
     {
       "event_id": "b964a3de-288b-48d3-96de-97cc69dfc593",
       "source": "rss:bitcoinmagazine",
@@ -220,7 +232,8 @@
       "impact": {
         "t_plus_5m": -0.432,
         "t_plus_15m": -0.6934,
-        "t_plus_1h": -0.5829
+        "t_plus_1h": -0.5829,
+        "t_plus_4h": -0.9007
       }
     },
     {
@@ -381,10 +394,17 @@
       "url": "https://solana.com/news/how-to-reclaim-excess-sol-after-rent-reduction",
       "event_type": "narrative",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "SOL"
+      ],
       "timestamp_utc": "2026-09-03T15:15:00+00:00",
       "raw_text": "How to Reclaim Excess SOL After Rent Reduction\n\nRent on Solana has been Reduced. Every Account Is Now Over-Funded. Here's How to Reclaim Excess SOL.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2461,
+        "t_plus_15m": 0.2053,
+        "t_plus_1h": 0.1928,
+        "t_plus_4h": 0.95
+      }
     },
     {
       "event_id": "6cf13917-42df-4f40-bf49-d53845799350",
@@ -6399,25 +6419,13 @@
       "timestamp_utc": "2026-08-26T15:04:32+00:00",
       "raw_text": "Protocol upgrade decouples consensus from execution to solve scaling bottlenecks\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Protocol upgrade decouples consensus from execution to solve scaling bottlenecks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
       "impact": {}
-    },
-    {
-      "event_id": "988a586e-58d0-4396-af46-5f2988468be8",
-      "source": "rss:theblock",
-      "title": "Coinbase, Better make token-backed mortgages generally available",
-      "url": "https://www.theblock.co/news/business/2026-08-26-coinbase-better-make-token-backed-mortgages-generally-available-412810",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-26T15:00:35+00:00",
-      "raw_text": "Coinbase, Better make token-backed mortgages generally available\n\nCoinbase and Better expand token-backed mortgage access to Coinbase One members, with a 1% closing-cost credit now available.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
         "count": 148,
-        "avg_1h": 0.29,
+        "avg_1h": 0.28,
         "avg_24h": -0.72,
         "win_rate_1h_gt5pct": 0.0
       },
