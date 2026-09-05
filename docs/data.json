@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-09-05T12:37:54.999411+00:00",
+  "generated_at": "2026-09-05T16:00:13.583802+00:00",
   "events": [
+    {
+      "event_id": "fc9fac8a-f431-4817-b6be-a90e396567ac",
+      "source": "rss:decrypt",
+      "title": "AI Just Solved a 350-Year-Old Math Problem By Writing the Longest Proof Ever",
+      "url": "https://decrypt.co/377491/ai-solved-350-year-old-math-problem",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-05T13:01:03+00:00",
+      "raw_text": "AI Just Solved a 350-Year-Old Math Problem By Writing the Longest Proof Ever\n\nAnthropic says Claude spent 11 days turning Fermat's Last Theorem into 13 million lines of code a computer can check itself, no human trust required",
+      "impact": {}
+    },
+    {
+      "event_id": "8cabf8b9-6916-429b-9e14-794662cf1e1d",
+      "source": "rss:coindesk",
+      "title": "British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million",
+      "url": "https://www.coindesk.com/business/2026/09/02/british-investor-thought-he-lost-usd2-000-in-bitcoin-in-2012-he-just-recovered-usd4-5-million",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-05T12:00:00+00:00",
+      "raw_text": "British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million",
+      "impact": {}
+    },
+    {
+      "event_id": "6cce76d5-8a90-485d-8963-ae4fbc33d057",
+      "source": "rss:cointelegraph",
+      "title": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
+      "url": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-05T10:44:29+00:00",
+      "raw_text": "Poland upholds crypto bill veto as Zondacrypto scandal widens\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Poland upholds crypto bill veto as Zondacrypto scandal widens\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1RDG59G42A",
+      "impact": {}
+    },
     {
       "event_id": "ec7eca84-1906-4535-adc9-04476b7917b0",
       "source": "rss:cointelegraph",
@@ -28,7 +64,8 @@
       "impact": {
         "t_plus_5m": -0.1023,
         "t_plus_15m": -0.096,
-        "t_plus_1h": 0.0975
+        "t_plus_1h": 0.0975,
+        "t_plus_4h": 0.5447
       }
     },
     {
@@ -6348,66 +6385,30 @@
       "timestamp_utc": "2026-08-27T13:54:19+00:00",
       "raw_text": "Chainalysis says global crypto taxable activity topped $457 billion in 2025\n\nChainalysis estimates at least $457 billion in onchain taxable crypto activity in 2025, with CARF covering only 14%.",
       "impact": {}
-    },
-    {
-      "event_id": "46879970-428c-42cd-915e-2933c59df0f9",
-      "source": "rss:theblock",
-      "title": "Moonwell investigates lending market issue on Base as security firms flag multimillion-dollar exploit",
-      "url": "https://www.theblock.co/news/defi/2026-08-27-moonwell-investigates-base-lending-market-issue-412913",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-27T12:59:46+00:00",
-      "raw_text": "Moonwell investigates lending market issue on Base as security firms flag multimillion-dollar exploit\n\nSecurity firms CertiK and PeckShield estimate losses of around $8.7 million after an attacker manipulated the collateral price of MAMO.",
-      "impact": {}
-    },
-    {
-      "event_id": "7beefa85-78f3-426d-bf95-11f7c2f96f12",
-      "source": "rss:cointelegraph",
-      "title": "Bank of England set for new innovation mandate covering stablecoins",
-      "url": "https://cointelegraph.com/news/uk-boe-innovation-mandate-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-27T12:51:59+00:00",
-      "raw_text": "Bank of England set for new innovation mandate covering stablecoins\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bank of England set for new innovation mandate covering stablecoins\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-uk-reg",
-      "impact": {}
-    },
-    {
-      "event_id": "20da38e0-9c11-449c-9dbc-ee1a555fad9d",
-      "source": "rss:coindesk",
-      "title": "The Clarity Act will put Main Street banks at a disadvantage",
-      "url": "https://www.coindesk.com/opinion/2026/08/27/the-clarity-act-will-put-main-street-banks-at-a-disadvantage",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-27T12:30:00+00:00",
-      "raw_text": "The Clarity Act will put Main Street banks at a disadvantage",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 130,
-        "avg_1h": 0.04,
-        "avg_24h": 0.18,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 173,
-        "avg_1h": 0.22,
-        "avg_24h": -0.32,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 145,
+        "count": 146,
         "avg_1h": 0.28,
         "avg_24h": -1.53,
         "win_rate_1h_gt5pct": 0.0
       },
+      "unknown": {
+        "count": 174,
+        "avg_1h": 0.22,
+        "avg_24h": -0.32,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 129,
+        "avg_1h": 0.04,
+        "avg_24h": 0.18,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
-        "count": 32,
+        "count": 31,
         "avg_1h": 1.28,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
