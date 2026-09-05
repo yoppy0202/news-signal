@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-05T04:18:23.588869+00:00",
+  "generated_at": "2026-09-05T08:59:31.055177+00:00",
   "events": [
+    {
+      "event_id": "af512646-4e18-41ed-bd0c-92e3c47e760f",
+      "source": "rss:coindesk",
+      "title": "XRP Ledger has fewer active accounts than last year, but bigger trades and more value",
+      "url": "https://www.coindesk.com/markets/2026/09/05/xrp-ledger-has-fewer-active-accounts-but-bigger-trades-and-more-value",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-05T05:30:45+00:00",
+      "raw_text": "XRP Ledger has fewer active accounts than last year, but bigger trades and more value",
+      "impact": {}
+    },
+    {
+      "event_id": "47086a6a-b8fd-49ad-a463-4517cfd54d87",
+      "source": "rss:coindesk",
+      "title": "Southeast Asia’s crypto funding rebounds to $680 million as investors focus on mature firms",
+      "url": "https://www.coindesk.com/business/2026/09/05/southeast-asia-s-crypto-funding-rebounds-to-usd680-million-as-investors-focus-on-mature-firms",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-05T05:00:00+00:00",
+      "raw_text": "Southeast Asia’s crypto funding rebounds to $680 million as investors focus on mature firms",
+      "impact": {}
+    },
     {
       "event_id": "07f53da6-17c3-4d68-a3f6-10823616dbe9",
       "source": "rss:decrypt",
@@ -6354,48 +6378,24 @@
       "timestamp_utc": "2026-08-27T12:13:26+00:00",
       "raw_text": "Morning Minute: Robinhood Chain Levels Up as Memes and RWAs Soar\n\nThe chain just put up its strongest day since mid-July, with $443 million in DEX volume and more than 3 million transactions.",
       "impact": {}
-    },
-    {
-      "event_id": "7e2f23a1-4833-4826-ac8d-d3c942557efd",
-      "source": "rss:coindesk",
-      "title": "AI bug reports trigger emergency warning for Bitcoin Lightning node operators",
-      "url": "https://www.coindesk.com/tech/2026/08/27/ai-bug-reports-trigger-emergency-warning-for-bitcoin-lightning-node-operators",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-27T12:08:33+00:00",
-      "raw_text": "AI bug reports trigger emergency warning for Bitcoin Lightning node operators",
-      "impact": {}
-    },
-    {
-      "event_id": "81a653be-32eb-4a1f-a51c-32c5538c5a18",
-      "source": "rss:theblock",
-      "title": "BlackRock’s Mitchnick says bitcoin’s risk-off narrative is ‘the one to bet on’ long term as rally consolidates near $80,000",
-      "url": "https://www.theblock.co/news/markets/2026-08-27-blackrocks-mitchnick-says-bitcoins-risk-off-narrative-is-the-one-to-bet-on-long-term-as-rally-consolidates-near-80000-412897",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-27T12:00:09+00:00",
-      "raw_text": "BlackRock’s Mitchnick says bitcoin’s risk-off narrative is ‘the one to bet on’ long term as rally consolidates near $80,000\n\nRenewed spot ETF inflows and bitcoin's declining correlation with equities are also constructive signs, according to analysts.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 130,
-        "avg_1h": 0.04,
-        "avg_24h": 0.18,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 171,
+        "count": 173,
         "avg_1h": 0.23,
         "avg_24h": -0.32,
         "win_rate_1h_gt5pct": 0.0
       },
+      "macro": {
+        "count": 129,
+        "avg_1h": 0.04,
+        "avg_24h": 0.18,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 147,
+        "count": 146,
         "avg_1h": 0.28,
         "avg_24h": -1.53,
         "win_rate_1h_gt5pct": 0.0
