@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-09-05T16:00:13.583802+00:00",
+  "generated_at": "2026-09-05T18:12:25.390882+00:00",
   "events": [
+    {
+      "event_id": "ac0a7c62-23c6-43a7-bb58-74a6347b56b8",
+      "source": "rss:decrypt",
+      "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks and Meme Coins",
+      "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-05T16:06:41+00:00",
+      "raw_text": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks and Meme Coins\n\nRobinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.",
+      "impact": {}
+    },
+    {
+      "event_id": "fa688ffe-265c-4d23-93ee-5fde8dd1eae0",
+      "source": "rss:decrypt",
+      "title": "Update Your Browser: Google Patches Chrome Flaw Hackers Were Already Using",
+      "url": "https://decrypt.co/377501/google-chrome-zero-day-exploited",
+      "event_type": "hack",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-05T15:01:04+00:00",
+      "raw_text": "Update Your Browser: Google Patches Chrome Flaw Hackers Were Already Using\n\nThe update fixes a high-severity flaw in Chrome’s V8 engine, but Google has not revealed who is using it or whom they targeted.",
+      "impact": {}
+    },
+    {
+      "event_id": "fab76658-93a3-4bbc-b755-45370b94e418",
+      "source": "rss:theblock",
+      "title": "LeBron James teases Polymarket partnership in new social media video",
+      "url": "https://www.theblock.co/news/deals/2026-09-05-lebron-james-teases-polymarket-partnership-in-new-social-media-video-413608",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-05T14:01:40+00:00",
+      "raw_text": "LeBron James teases Polymarket partnership in new social media video\n\nThe announcement comes after James' free agency decision generated $273 million in prediction market volume across platforms.",
+      "impact": {}
+    },
     {
       "event_id": "fc9fac8a-f431-4817-b6be-a90e396567ac",
       "source": "rss:decrypt",
@@ -6349,42 +6385,6 @@
       "timestamp_utc": "2026-08-27T14:20:05+00:00",
       "raw_text": "Charles Schwab to add Solana, Avalanche and Chainlink to crypto trading platform\n\nSchwab Crypto began rolling out to clients in May with direct access to BTC and ETH trading and charges 75 basis points per transaction.",
       "impact": {}
-    },
-    {
-      "event_id": "c277cf0b-1e42-472d-8212-ce665dfddf50",
-      "source": "rss:coindesk",
-      "title": "Crypto traders brace for Fed Chair Kevin Warsh’s Jackson Hole speech",
-      "url": "https://www.coindesk.com/markets/2026/08/27/bitcoin-holds-near-usd80-000-as-traders-brace-for-warsh-s-jackson-hole-fed-speech",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-27T14:01:05+00:00",
-      "raw_text": "Crypto traders brace for Fed Chair Kevin Warsh’s Jackson Hole speech",
-      "impact": {}
-    },
-    {
-      "event_id": "3b53a7c3-fca5-4a53-b478-41ae84808b6e",
-      "source": "rss:cointelegraph",
-      "title": "Ripple Prime expands into US equity derivatives with Delta One business",
-      "url": "https://cointelegraph.com/news/ripple-prime-us-equities-delta-one?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-27T13:54:22+00:00",
-      "raw_text": "Ripple Prime expands into US equity derivatives with Delta One business\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ripple Prime expands into US equity derivatives with Delta One business\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/h",
-      "impact": {}
-    },
-    {
-      "event_id": "35cd1309-f5d7-4e56-ba5a-34f53bb12fac",
-      "source": "rss:theblock",
-      "title": "Chainalysis says global crypto taxable activity topped $457 billion in 2025",
-      "url": "https://www.theblock.co/news/regulation/2026-08-27-chainalysis-says-global-crypto-taxable-activity-topped-457-billion-in-2025-412919",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-27T13:54:19+00:00",
-      "raw_text": "Chainalysis says global crypto taxable activity topped $457 billion in 2025\n\nChainalysis estimates at least $457 billion in onchain taxable crypto activity in 2025, with CARF covering only 14%.",
-      "impact": {}
     }
   ],
   "stats": {
@@ -6395,26 +6395,26 @@
         "avg_24h": -1.53,
         "win_rate_1h_gt5pct": 0.0
       },
+      "hack": {
+        "count": 32,
+        "avg_1h": 1.28,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 174,
+        "count": 175,
         "avg_1h": 0.22,
         "avg_24h": -0.32,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 129,
+        "count": 128,
         "avg_1h": 0.04,
         "avg_24h": 0.18,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 31,
-        "avg_1h": 1.28,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "listing": {
-        "count": 20,
+        "count": 19,
         "avg_1h": 0.02,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
