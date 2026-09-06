@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-09-06T16:59:20.720707+00:00",
+  "generated_at": "2026-09-06T19:06:27.126676+00:00",
   "events": [
+    {
+      "event_id": "fb710cfd-fbb4-415f-87c1-22a96977d1c4",
+      "source": "rss:decrypt",
+      "title": "OpenAI's GPT-6 Astra Is Shockingly Good at Almost Everything",
+      "url": "https://decrypt.co/377514/openai-gpt-6-astra-review-shockingly-good",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-06T17:01:04+00:00",
+      "raw_text": "OpenAI's GPT-6 Astra Is Shockingly Good at Almost Everything\n\nEarly testers spent OpenAI's launch weekend pushing Astra through 3D cities, playable games, Bach chorales and research papers.",
+      "impact": {}
+    },
+    {
+      "event_id": "34558268-8853-4135-ad63-0b0ef951c538",
+      "source": "rss:decrypt",
+      "title": "XRP Gets Another Boost Through Ripple Deal With Florida Athletics",
+      "url": "https://decrypt.co/377512/xrp-boost-ripple-florida-athletics",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-06T16:01:03+00:00",
+      "raw_text": "XRP Gets Another Boost Through Ripple Deal With Florida Athletics\n\nThe multi-year deal will place the XRP logo on the field at Ben Hill Griffin Stadium starting this season, extending Ripple's push into college athletics.",
+      "impact": {}
+    },
+    {
+      "event_id": "0d27c33e-af75-4107-be85-85b6f8793728",
+      "source": "rss:coindesk",
+      "title": "Ukrainian police took down a crypto scam that stole up to $1 million a month",
+      "url": "https://www.coindesk.com/business/2026/09/06/ukrainian-police-took-down-a-crypto-scam-that-stole-up-to-usd1-million-a-month",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-06T16:00:00+00:00",
+      "raw_text": "Ukrainian police took down a crypto scam that stole up to $1 million a month",
+      "impact": {}
+    },
     {
       "event_id": "e5390765-4ad0-42ec-b225-cde8245e0688",
       "source": "rss:decrypt",
@@ -6342,55 +6378,18 @@
       "timestamp_utc": "2026-08-27T16:13:10+00:00",
       "raw_text": "Charles Schwab adda Solana, Avalanche and Chainlink to nascent crypto platform\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Charles Schwab adda Solana, Avalanche and Chainlink to nascent crypto platform\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar",
       "impact": {}
-    },
-    {
-      "event_id": "9b5aff8d-3a3c-4e28-854c-8cf0f95e6042",
-      "source": "rss:coindesk",
-      "title": "Polish Olympic chief arrested as prosecutors probe suspected crypto-linked bribe",
-      "url": "https://www.coindesk.com/business/2026/08/27/polish-olympic-chief-arrested-as-prosecutors-probe-suspected-crypto-linked-bribe",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-27T16:12:10+00:00",
-      "raw_text": "Polish Olympic chief arrested as prosecutors probe suspected crypto-linked bribe",
-      "impact": {}
-    },
-    {
-      "event_id": "baa4b8bb-5f50-4052-94fd-a29c4d3a461b",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin’s 23% rally sends beaten-down miners soaring past AI stocks",
-      "url": "https://cointelegraph.com/markets/bitcoin-miner-stocks-rally-crypto-demand-ai-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-27T16:04:15+00:00",
-      "raw_text": "Bitcoin’s 23% rally sends beaten-down miners soaring past AI stocks\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin’s 23% rally sends beaten-down miners soaring past AI stocks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-b-anno",
-      "impact": {
-        "t_plus_5m": 0.1836,
-        "t_plus_15m": 0.5055,
-        "t_plus_1h": 0.3219,
-        "t_plus_4h": -0.2071
-      }
-    },
-    {
-      "event_id": "b4e0af7b-67ec-4bf3-99cc-00bd3cdc018a",
-      "source": "rss:cointelegraph",
-      "title": "UK government reports 240 crypto millionaires in 2025",
-      "url": "https://cointelegraph.com/news/uk-government-crypto-millionaires-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-27T15:56:00+00:00",
-      "raw_text": "UK government reports 240 crypto millionaires in 2025\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK government reports 240 crypto millionaires in 2025\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-uk-and-crypto.jpg\" /></p><p>About ",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 141,
+        "avg_1h": 0.27,
+        "avg_24h": -1.53,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 178,
+        "count": 179,
         "avg_1h": 0.22,
         "avg_24h": -0.32,
         "win_rate_1h_gt5pct": 0.0
@@ -6401,14 +6400,8 @@
         "avg_24h": null,
         "win_rate_1h_gt5pct": null
       },
-      "narrative": {
-        "count": 141,
-        "avg_1h": 0.28,
-        "avg_24h": -1.53,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 129,
+        "count": 128,
         "avg_1h": 0.04,
         "avg_24h": 0.18,
         "win_rate_1h_gt5pct": 0.0
