@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-06T21:17:01.826969+00:00",
+  "generated_at": "2026-09-06T23:49:27.938600+00:00",
   "events": [
+    {
+      "event_id": "ba131c13-072e-4042-93be-866da36b08ed",
+      "source": "rss:theblock",
+      "title": "Liquid Network pauses after purported ‘white-hat’ hackers withdraw $320 million in bitcoin",
+      "url": "https://www.theblock.co/news/defi/2026-09-06-liquid-network-pauses-after-purported-white-hat-hackers-withdraw-320-million-in-bitcoin-413626",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-06T21:14:36+00:00",
+      "raw_text": "Liquid Network pauses after purported ‘white-hat’ hackers withdraw $320 million in bitcoin\n\nThe Bitcoin sidechain has been paused, with exchanges suspending LBTC deposits and withdrawals as Blockstream works to contact those responsible.",
+      "impact": {}
+    },
+    {
+      "event_id": "9bf0b077-7133-4ca1-bb3c-26b1540e6c42",
+      "source": "rss:theblock",
+      "title": "STONK surges 250% to $140 million market cap as stock-paired Solana launchpad StonkFun pulls volume to Raydium and Jupiter",
+      "url": "https://www.theblock.co/news/defi/2026-09-06-stonk-surges-250-to-140-million-market-cap-as-stock-paired-solana-launchpad-stonkfun-pulls-volume-to-raydium-and-jupiter-413621",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-06T20:51:40+00:00",
+      "raw_text": "STONK surges 250% to $140 million market cap as stock-paired Solana launchpad StonkFun pulls volume to Raydium and Jupiter\n\nThe platform integrated with Raydium's LaunchLab on Saturday as RAY also saw gains of more than 40%.",
+      "impact": {}
+    },
     {
       "event_id": "eb633fbe-3142-4172-811e-e2a857ddf056",
       "source": "rss:coindesk",
@@ -52,7 +76,8 @@
       "impact": {
         "t_plus_5m": -0.0424,
         "t_plus_15m": 0.1095,
-        "t_plus_1h": 0.1516
+        "t_plus_1h": 0.1516,
+        "t_plus_4h": -0.0041
       }
     },
     {
@@ -6353,51 +6378,26 @@
       "timestamp_utc": "2026-08-27T17:09:32+00:00",
       "raw_text": "Why Nvidia’s Acquisition of Hugging Face Would Reshape Open-Source AI\n\nThe chipmaker's reported acquisition would concentrate the open-source AI pipeline inside one company, from silicon to distribution — with consequences for builders and users alike.",
       "impact": {}
-    },
-    {
-      "event_id": "9ae17f2a-5750-419b-94be-79ac3eba883c",
-      "source": "rss:coindesk",
-      "title": "GTA 6 leaker cashes out of his own memecoin hours before Rockstar's gameplay reveal",
-      "url": "https://www.coindesk.com/business/2026/08/27/gta-6-leaker-cashes-out-of-his-own-memecoin-hours-before-rockstar-s-gameplay-reveal",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-27T16:32:38+00:00",
-      "raw_text": "GTA 6 leaker cashes out of his own memecoin hours before Rockstar's gameplay reveal",
-      "impact": {}
-    },
-    {
-      "event_id": "a86b4c9d-4265-4b87-a6e6-baa013eb481a",
-      "source": "rss:decrypt",
-      "title": "Bitcoin Could Overtake Gold in the Next Bull Run: Binance Founder CZ",
-      "url": "https://decrypt.co/376717/bitcoin-could-overtake-gold-in-the-next-bull-run-binance-founder-cz",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-27T16:17:28+00:00",
-      "raw_text": "Bitcoin Could Overtake Gold in the Next Bull Run: Binance Founder CZ\n\nGold is worth around ten times more than BTC, Changpeng Zhao said, noting that countries face a years-long process to \"shift into Bitcoin.\"",
-      "impact": {
-        "t_plus_5m": 0.5133,
-        "t_plus_15m": 0.4131,
-        "t_plus_1h": 0.6628,
-        "t_plus_4h": -0.1285
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 33,
+        "avg_1h": 1.28,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 140,
+        "avg_1h": 0.23,
+        "avg_24h": -1.53,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 180,
         "avg_1h": 0.22,
         "avg_24h": -0.32,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 141,
-        "avg_1h": 0.27,
-        "avg_24h": -1.53,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
@@ -6410,12 +6410,6 @@
         "count": 127,
         "avg_1h": 0.04,
         "avg_24h": 0.18,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 32,
-        "avg_1h": 1.28,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
