@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-06T10:50:23.530499+00:00",
+  "generated_at": "2026-09-06T14:07:36.163405+00:00",
   "events": [
+    {
+      "event_id": "c7eb7402-7111-4000-a5e3-50ea3b41f8cd",
+      "source": "rss:cointelegraph",
+      "title": "Tether-backed Orionx to shut down after audit flags $7M custody gap",
+      "url": "https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-06T09:07:08+00:00",
+      "raw_text": "Tether-backed Orionx to shut down after audit flags $7M custody gap\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether-backed Orionx to shut down after audit flags $7M custody gap\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/0",
+      "impact": {}
+    },
     {
       "event_id": "7f3831fb-bfe5-4d29-b3a0-17f5cc5e8a50",
       "source": "rss:theblock",
@@ -6373,32 +6385,20 @@
       "timestamp_utc": "2026-08-27T15:32:13+00:00",
       "raw_text": "DeFi Development Corp resumes Solana purchases, acquiring nearly 20,000 SOL\n\nDFDV's return has been more than twice that of SOL in the month of August, while quarter-to-date, shares have outperformed SOL by 1.8x.",
       "impact": {}
-    },
-    {
-      "event_id": "fad0b173-a7ff-4886-bca4-933f46741b77",
-      "source": "rss:decrypt",
-      "title": "Solana Is Having Its Best Month Since 2024—With a Historic Governance Vote on Deck",
-      "url": "https://decrypt.co/376706/solana-best-month-since-2024-historic-governance-vote",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-27T15:12:18+00:00",
-      "raw_text": "Solana Is Having Its Best Month Since 2024—With a Historic Governance Vote on Deck\n\nSolana is up more than 8% in 24 hours and 44% on the month. Coming changes to the network could add a supply squeeze to the mix.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 129,
-        "avg_1h": 0.04,
-        "avg_24h": 0.18,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
         "count": 177,
         "avg_1h": 0.22,
         "avg_24h": -0.32,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 129,
+        "avg_1h": 0.04,
+        "avg_24h": 0.18,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
