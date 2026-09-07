@@ -1,6 +1,102 @@
 {
-  "generated_at": "2026-09-07T20:32:09.196759+00:00",
+  "generated_at": "2026-09-07T23:27:50.135082+00:00",
   "events": [
+    {
+      "event_id": "af803db0-d296-476b-b8a5-9ff81f5fa13c",
+      "source": "rss:decrypt",
+      "title": "Your LG TV Might Still Be Listening to You—Even When It Looks Like It’s Off",
+      "url": "https://decrypt.co/377637/lg-tv-might-be-listening-even-when-off",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-07T21:46:04+00:00",
+      "raw_text": "Your LG TV Might Still Be Listening to You—Even When It Looks Like It’s Off\n\nA Gamers Nexus investigation found LG sets scanning every device on a home network and capturing microphone audio with the screen off, four months after LG promised Texas regulators it had cleaned up its tracking.",
+      "impact": {}
+    },
+    {
+      "event_id": "1e9af254-4bb1-4ed4-acce-af9547fe523b",
+      "source": "rss:decrypt",
+      "title": "OpenAI Chief Scientist Warns AI Labs May Need to Slow Down",
+      "url": "https://decrypt.co/377635/openai-chief-scientist-warns-ai-slow-down",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-07T21:16:03+00:00",
+      "raw_text": "OpenAI Chief Scientist Warns AI Labs May Need to Slow Down\n\nJakub Pachocki is calling for mandatory safety standards as OpenAI finds it harder to monitor advanced AI models’ reasoning.",
+      "impact": {}
+    },
+    {
+      "event_id": "c8acc742-8fef-4cfc-8c51-c43110352401",
+      "source": "rss:cointelegraph",
+      "title": "UK financial watchdog weighs lifting prediction markets ban: Report",
+      "url": "https://cointelegraph.com/news/uk-financial-watchdog-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-07T20:40:17+00:00",
+      "raw_text": "UK financial watchdog weighs lifting prediction markets ban: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK financial watchdog weighs lifting prediction markets ban: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/0",
+      "impact": {}
+    },
+    {
+      "event_id": "b9eb2389-4dfc-4feb-a4c3-91d087a77331",
+      "source": "rss:decrypt",
+      "title": "Brazilian Banks Expand Crypto Offerings as Regulation Takes Hold",
+      "url": "https://decrypt.co/377621/brazilian-banks-expand-crypto-offerings",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-07T20:31:03+00:00",
+      "raw_text": "Brazilian Banks Expand Crypto Offerings as Regulation Takes Hold\n\nItaú, Nubank, and Banco do Brasil now sell more than a dozen tokens each to retail clients, even as none of them touch crypto with their own balance sheet.",
+      "impact": {}
+    },
+    {
+      "event_id": "58aa409f-118a-44b5-b20e-80d5fa647280",
+      "source": "rss:cointelegraph",
+      "title": "Ethereum Foundation names 2 ‘must ship’ EIPs for Hegotá upgrade",
+      "url": "https://cointelegraph.com/news/ethereum-foundation-names-2-must-ship-eips-for-hegot-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-07T20:21:31+00:00",
+      "raw_text": "Ethereum Foundation names 2 ‘must ship’ EIPs for Hegotá upgrade\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum Foundation names 2 ‘must ship’ EIPs for Hegotá upgrade\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1YPGJP",
+      "impact": {}
+    },
+    {
+      "event_id": "78de79d8-8516-4e3c-92ad-9c2d0d6c85ac",
+      "source": "rss:decrypt",
+      "title": "Will the Crypto Trenches Show Up for Hunter Biden's Meme Coin?",
+      "url": "https://decrypt.co/377613/will-crypto-traders-buy-hunter-biden-meme-coin",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-07T19:47:27+00:00",
+      "raw_text": "Will the Crypto Trenches Show Up for Hunter Biden's Meme Coin?\n\nBiden's LAPTOP meme coin drops this week. Most crypto traders out there so far don't seem too enthused.",
+      "impact": {}
+    },
+    {
+      "event_id": "f0fe9828-d041-4259-bb05-6d5d325b7405",
+      "source": "rss:decrypt",
+      "title": "Liquid Hackers Return $270M in Bitcoin After Swiping $320 Million",
+      "url": "https://decrypt.co/377600/liquid-hackers-return-270m-bitcoin",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-07T19:13:56+00:00",
+      "raw_text": "Liquid Hackers Return $270M in Bitcoin After Swiping $320 Million\n\nNearly 600 BTC remains outstanding after Blockstream told the actors in an on-chain message that Liquid’s bridge nodes had been patched.",
+      "impact": {}
+    },
+    {
+      "event_id": "c68ee909-261b-4eb1-961d-de688d0ed5a7",
+      "source": "rss:cointelegraph",
+      "title": "Joe Biden’s son to launch memecoin, will send to TRUMP holders: WSJ",
+      "url": "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-reimburse-trump-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-07T18:53:47+00:00",
+      "raw_text": "Joe Biden’s son to launch memecoin, will send to TRUMP holders: WSJ\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Joe Biden’s son to launch memecoin, will send to TRUMP holders: WSJ\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/0",
+      "impact": {}
+    },
     {
       "event_id": "9fa0d475-4e7d-4e50-8808-5ff255ff4e81",
       "source": "rss:decrypt",
@@ -56,10 +152,16 @@
       "url": "https://cointelegraph.com/news/capital-b-adds-376-bitcoin-in-29m-purchase-holdings-reach-3521-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-09-07T16:42:49+00:00",
       "raw_text": "Capital B adds 376 Bitcoin in $29M purchase, boosting holdings to 3,521 BTC\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Capital B adds 376 Bitcoin in $29M purchase, boosting holdings to 3,521 BTC\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.217,
+        "t_plus_15m": -0.1631,
+        "t_plus_1h": 0.0042
+      }
     },
     {
       "event_id": "54adb74a-aeec-4a3f-ae18-7be29066b40f",
@@ -116,10 +218,17 @@
       "url": "https://decrypt.co/377566/bitcoin-starts-flat-chainlink-price-flying",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "LINK"
+      ],
       "timestamp_utc": "2026-09-07T15:42:34+00:00",
       "raw_text": "Bitcoin Starts the Week Flat, But Chainlink Is Flying—Here's Why\n\nLINK hit an eight-month high after Bottomline, a top-three SWIFT services provider moving $16 trillion a year, tapped Chainlink to connect 600-plus banks to blockchain settlement.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 1.2721,
+        "t_plus_15m": 0.9039,
+        "t_plus_1h": 1.3531,
+        "t_plus_4h": 0.4259
+      }
     },
     {
       "event_id": "ce745352-dca6-4cf7-bb61-1830c2a9c202",
@@ -140,10 +249,17 @@
       "url": "https://decrypt.co/377559/ethereum-proposal-would-let-users-pay-gas-without-holding-eth",
       "event_type": "narrative",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-09-07T15:03:44+00:00",
       "raw_text": "Ethereum Proposal Would Let Users Pay Gas Without Holding ETH\n\nEIP-8141 has been a draft since January, and its authors pitch it first as a defense against quantum computers.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.124,
+        "t_plus_15m": -0.0258,
+        "t_plus_1h": -0.5834,
+        "t_plus_4h": 0.1064
+      }
     },
     {
       "event_id": "2a25bbaa-c833-4c7f-905a-1c73abd0410c",
@@ -172,7 +288,8 @@
       "impact": {
         "t_plus_5m": 0.5467,
         "t_plus_15m": 0.0989,
-        "t_plus_1h": 0.2162
+        "t_plus_1h": 0.2162,
+        "t_plus_4h": 0.4347
       }
     },
     {
@@ -338,10 +455,17 @@
       "url": "https://www.theblock.co/news/defi/2026-09-07-liquid-network-attacker-says-they-will-return-most-of-4000-btc-after-bug-fix-413673",
       "event_type": "hack",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-09-07T10:20:16+00:00",
       "raw_text": "Liquid Network attacker returns 3,400 BTC after bug fix, retains nearly 600 BTC\n\nThe Liquid Network attacker returned 3,400 BTC after Blockstream said its bridge nodes had been patched, leaving about 598.5 BTC behind.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.315,
+        "t_plus_15m": 0.3356,
+        "t_plus_1h": 0.3503,
+        "t_plus_4h": -0.0174
+      }
     },
     {
       "event_id": "daed0d62-34d4-4fb5-be50-c4ad65dc28f8",
@@ -6295,117 +6419,20 @@
       "timestamp_utc": "2026-08-28T14:05:12+00:00",
       "raw_text": "Fed Chair Kevin Warsh at Jackson Hole: 'We have work to do' on inflation",
       "impact": {}
-    },
-    {
-      "event_id": "d20e5e92-006a-4209-be31-8a2cb7612a1d",
-      "source": "rss:theblock",
-      "title": "SBI Holdings invests $270 million in Ajaib, taking 20% stake amid Asia digital asset push",
-      "url": "https://www.theblock.co/news/deals/2026-08-28-sbi-holdings-invests-270-million-in-ajaib-taking-20-stake-amid-asia-digital-asset-push-413023",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-28T13:32:26+00:00",
-      "raw_text": "SBI Holdings invests $270 million in Ajaib, taking 20% stake amid Asia digital asset push\n\nAjaib offers crypto and stablecoins alongside traditional investments, including OTC settlement services for institutional clients.",
-      "impact": {}
-    },
-    {
-      "event_id": "833d8e9e-1017-4ca5-8d12-d60183e5cdf3",
-      "source": "rss:cointelegraph",
-      "title": "Who is legally liable when an AI agent goes rogue?",
-      "url": "https://cointelegraph.com/magazine/who-is-legally-liable-when-an-ai-agent-goes-rogue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-28T13:30:00+00:00",
-      "raw_text": "Who is legally liable when an AI agent goes rogue?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Who is legally liable when an AI agent goes rogue? \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/charlyn-ho-2.webp\" /></p><p>If your person",
-      "impact": {}
-    },
-    {
-      "event_id": "8a287826-3c28-4378-a287-6780d29fcb36",
-      "source": "rss:cointelegraph",
-      "title": "Polish Olympic chief charged in Zondacrypto probe, justice minister says",
-      "url": "https://cointelegraph.com/news/polish-olympic-chief-charged-zondacrypto-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-28T13:16:37+00:00",
-      "raw_text": "Polish Olympic chief charged in Zondacrypto probe, justice minister says\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Polish Olympic chief charged in Zondacrypto probe, justice minister says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
-      "impact": {}
-    },
-    {
-      "event_id": "245de4a8-3566-4899-9b5f-1acd52215f9a",
-      "source": "rss:coindesk",
-      "title": "The Clarity Act slipped to September. Banks are building anyway",
-      "url": "https://www.coindesk.com/opinion/2026/08/28/the-clarity-act-slipped-to-september-banks-are-building-anyway",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-28T13:00:00+00:00",
-      "raw_text": "The Clarity Act slipped to September. Banks are building anyway",
-      "impact": {}
-    },
-    {
-      "event_id": "7716e19a-f845-4e16-baf5-1d79b11ea91a",
-      "source": "rss:theblock",
-      "title": "IREN’s $25 billion-$30 billion AI buildout may have ‘spooked’ investors, Bernstein says",
-      "url": "https://www.theblock.co/news/business/2026-08-28-irens-25-billion-30-billion-ai-buildout-may-have-spooked-investors-bernstein-says-413016",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-28T12:57:52+00:00",
-      "raw_text": "IREN’s $25 billion-$30 billion AI buildout may have ‘spooked’ investors, Bernstein says\n\nIREN has $4 billion in contracted cloud ARR for 2026 capacity and has secured over $20M in annual revenue per IT megawatt on recent deals.",
-      "impact": {}
-    },
-    {
-      "event_id": "d7b69997-9044-4778-ae39-cb2fe0dd1be4",
-      "source": "rss:coindesk",
-      "title": "Ethena looks beyond crypto to squeeze yield from booming equity perpetuals",
-      "url": "https://www.coindesk.com/business/2026/08/28/ethena-looks-beyond-crypto-to-squeeze-yield-from-booming-equity-perpetuals",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-28T12:30:57+00:00",
-      "raw_text": "Ethena looks beyond crypto to squeeze yield from booming equity perpetuals",
-      "impact": {}
-    },
-    {
-      "event_id": "4498bc4f-8de0-4f25-a984-4d69fc36a516",
-      "source": "rss:coindesk",
-      "title": "SBI buys 20% stake in Indonesia's Ajaib for $270 million to expand yen stablecoin in Southeast Asia",
-      "url": "https://www.coindesk.com/business/2026/08/28/sbi-stakes-usd270-million-in-ajaib-to-expand-yen-stablecoin-in-southeast-asia",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-28T12:18:31+00:00",
-      "raw_text": "SBI buys 20% stake in Indonesia's Ajaib for $270 million to expand yen stablecoin in Southeast Asia",
-      "impact": {}
-    },
-    {
-      "event_id": "8c4b29d7-09a5-493f-ab72-df8e4903567a",
-      "source": "rss:decrypt",
-      "title": "Morning Minute: Solana Jumps with Network Inflation Set to Drop",
-      "url": "https://decrypt.co/376800/morning-minute-solana-jumps-with-network-inflation-set-to-drop",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [
-        "SOL"
-      ],
-      "timestamp_utc": "2026-08-28T12:13:35+00:00",
-      "raw_text": "Morning Minute: Solana Jumps with Network Inflation Set to Drop\n\nTwo majors proposals are set to pass, its leading DATs are back, and Schwab is offering SOL to its clients—quite the setup for Solana.",
-      "impact": {
-        "t_plus_5m": 0.9099,
-        "t_plus_15m": 0.371,
-        "t_plus_1h": 0.2198,
-        "t_plus_4h": -0.1388
-      }
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 173,
-        "avg_1h": 0.11,
+        "count": 172,
+        "avg_1h": 0.1,
         "avg_24h": -0.32,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 137,
+        "avg_1h": 0.29,
+        "avg_24h": -1.53,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
@@ -6414,15 +6441,9 @@
         "avg_24h": 0.18,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 136,
-        "avg_1h": 0.28,
-        "avg_24h": -1.53,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
         "count": 40,
-        "avg_1h": 0.16,
+        "avg_1h": 0.19,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
