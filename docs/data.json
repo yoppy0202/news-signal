@@ -1,6 +1,150 @@
 {
-  "generated_at": "2026-09-07T04:29:15.432458+00:00",
+  "generated_at": "2026-09-07T10:11:18.687390+00:00",
   "events": [
+    {
+      "event_id": "20e2b6ef-9109-45d3-9799-cd03e2e97a5f",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin holds $79,000 as hike odds climb, zcash runs 45% in a week",
+      "url": "https://www.coindesk.com/business/2026/09/07/live-updates-bitcoin-holds-usd79-000-as-hike-odds-climb-zcash-runs-45-in-a-week",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-07T08:17:12+00:00",
+      "raw_text": "Live updates: Bitcoin holds $79,000 as hike odds climb, zcash runs 45% in a week",
+      "impact": {}
+    },
+    {
+      "event_id": "d16426fe-112d-46b2-bde0-939984d25dfb",
+      "source": "rss:coindesk",
+      "title": "U.S. inflation, Coinbase’s Deribit switch: Crypto Week Ahead",
+      "url": "https://www.coindesk.com/markets/2026/09/07/u-s-inflation-coinbase-s-deribit-switch-crypto-week-ahead",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-07T08:07:05+00:00",
+      "raw_text": "U.S. inflation, Coinbase’s Deribit switch: Crypto Week Ahead",
+      "impact": {}
+    },
+    {
+      "event_id": "f2e1138d-4da9-4095-8839-3d1e07326d6a",
+      "source": "rss:coindesk",
+      "title": "Once-hyped Ethereum rival Harmony wants to shut its blockchain over AI threats",
+      "url": "https://www.coindesk.com/markets/2026/09/07/once-hyped-ethereum-rival-harmony-wants-to-shut-its-blockchain-over-ai-threats",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-07T08:02:18+00:00",
+      "raw_text": "Once-hyped Ethereum rival Harmony wants to shut its blockchain over AI threats",
+      "impact": {}
+    },
+    {
+      "event_id": "113fcbed-d515-47cc-a448-dabd4a823cfc",
+      "source": "rss:cointelegraph",
+      "title": "Fomo overtakes Pump.fun in daily revenue on Solana",
+      "url": "https://cointelegraph.com/news/fomo-pumpfun-revenue-app-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-07T07:45:39+00:00",
+      "raw_text": "Fomo overtakes Pump.fun in daily revenue on Solana\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fomo overtakes Pump.fun in daily revenue on Solana\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XA5XHGVP1S4E8DGH0JJ4XZ/sponsor-",
+      "impact": {}
+    },
+    {
+      "event_id": "0ea99da6-ffe4-4687-9b2a-8dd1463d2141",
+      "source": "rss:theblock",
+      "title": "Coldcard exploiter moves 45% of funds stolen from ‘Wave 3’ attacks, Galaxy says",
+      "url": "https://www.theblock.co/news/defi/2026-09-07-coldcard-exploiter-moves-wave-3-413661",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-07T07:30:32+00:00",
+      "raw_text": "Coldcard exploiter moves 45% of funds stolen from ‘Wave 3’ attacks, Galaxy says\n\nAs of mid-August, Galaxy said it had identified roughly 1,779 BTC stolen from 190 victims and more than 8,600 addresses.",
+      "impact": {}
+    },
+    {
+      "event_id": "0d1971e3-2bc9-4380-8970-2ddb87e97459",
+      "source": "rss:solana_official",
+      "title": "# How BitRobot Crowdsources Real-World Data for Embodied AI, with Jonathan Victor",
+      "url": "https://solana.com/news/bits-to-bricks-bitrobot-jonathan-victor",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-07T07:00:00+00:00",
+      "raw_text": "# How BitRobot Crowdsources Real-World Data for Embodied AI, with Jonathan Victor\n\nBitRobot open-sourced 2,000 hours of robot navigation data and uses Solana to track and reward embodied AI data contributors.",
+      "impact": {}
+    },
+    {
+      "event_id": "95aa9628-a996-4188-b321-5d56e136a416",
+      "source": "rss:theblock",
+      "title": "South Korea’s Hanwha develops tokenized securities platform on Avalanche as local regulation takes shape: report",
+      "url": "https://www.theblock.co/news/business/2026-09-07-south-korea-hanwha-tokenized-securities-platform-avalanche-413652",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-07T06:24:46+00:00",
+      "raw_text": "South Korea’s Hanwha develops tokenized securities platform on Avalanche as local regulation takes shape: report\n\nSouth Korea passed amendments that integrate tokenized securities into the existing financial system, coming into effect next February.",
+      "impact": {}
+    },
+    {
+      "event_id": "f1d4c857-d2fb-4b38-9190-9541e2630d42",
+      "source": "rss:coindesk",
+      "title": "This cat memecoin has paid holders $2.8 million in Zcash as ZEC tops $1,200",
+      "url": "https://www.coindesk.com/markets/2026/09/07/this-cat-memecoin-has-paid-holders-usd2-8-million-in-zcash-as-zec-tops-usd1-200",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-07T05:52:44+00:00",
+      "raw_text": "This cat memecoin has paid holders $2.8 million in Zcash as ZEC tops $1,200",
+      "impact": {}
+    },
+    {
+      "event_id": "63d8ae1a-ce72-4f93-b72a-5630efebc22d",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin sidechain Liquid pauses after purported ‘white hats’ withdraw $320M in BTC",
+      "url": "https://cointelegraph.com/news/liquid-network-pauses-320m-bitcoin-withdrawal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-07T05:40:05+00:00",
+      "raw_text": "Bitcoin sidechain Liquid pauses after purported ‘white hats’ withdraw $320M in BTC\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin sidechain Liquid pauses after purported ‘white hats’ withdraw $320M in BTC \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io",
+      "impact": {}
+    },
+    {
+      "event_id": "c2647744-cf52-4ba2-9bd7-86b783e56284",
+      "source": "rss:cointelegraph",
+      "title": "Harmony proposes shutting down layer 1, migrating ONE to Ethereum",
+      "url": "https://cointelegraph.com/news/harmony-proposes-shutting-down-layer-1-migrating-one-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-07T05:00:49+00:00",
+      "raw_text": "Harmony proposes shutting down layer 1, migrating ONE to Ethereum\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Harmony proposes shutting down layer 1, migrating ONE to Ethereum\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1X",
+      "impact": {}
+    },
+    {
+      "event_id": "acb56aef-c9b5-4919-ad9f-7e1183d382f2",
+      "source": "rss:coindesk",
+      "title": "Oil up, bitcoin down as U.S. strikes Iranian crude carriers",
+      "url": "https://www.coindesk.com/markets/2026/09/07/oil-up-bitcoin-down-as-u-s-strikes-iranian-crude-carriers",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-07T04:44:16+00:00",
+      "raw_text": "Oil up, bitcoin down as U.S. strikes Iranian crude carriers",
+      "impact": {}
+    },
+    {
+      "event_id": "7bc633ca-41e0-482c-835e-b80ba3e8b503",
+      "source": "rss:coindesk",
+      "title": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
+      "url": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-07T03:43:12+00:00",
+      "raw_text": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
+      "impact": {}
+    },
     {
       "event_id": "75bcff28-a3c0-4d3e-ae97-ec67c25ad9e0",
       "source": "rss:theblock",
@@ -32,10 +176,17 @@
       "url": "https://cointelegraph.com/magazine/white-hats-take-4000-btc-from-liquid-btc-etfs-best-week-of-2026-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "hack",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-09-07T00:05:02+00:00",
       "raw_text": "‘White hats’ take 4000 BTC from Liquid, ETFs see best inflows of 2026: Hodler’s Digest\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"‘White hats’ take 4000 BTC from Liquid, ETFs see best inflows of 2026: Hodler’s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctm",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.7526,
+        "t_plus_15m": 0.4018,
+        "t_plus_1h": 0.5306,
+        "t_plus_4h": -0.2089
+      }
     },
     {
       "event_id": "fea5c55a-b8d7-4efc-8396-dbfa844c8779",
@@ -44,10 +195,17 @@
       "url": "https://bitcoinmagazine.com/news/alleged-white-hat-hackers-withdraw-4000-bitcoin-from-blockstreams-liquid-network-federation-reserves",
       "event_type": "hack",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-09-06T22:16:53+00:00",
       "raw_text": "Alleged White-Hat Hackers Withdraw 4,000 bitcoin from Blockstream’s Liquid Network Federation Reserves\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/tn.webp\" style=\"display: block; margin: 1em auto",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.9737,
+        "t_plus_15m": -0.7694,
+        "t_plus_1h": -0.3037,
+        "t_plus_4h": -0.7619
+      }
     },
     {
       "event_id": "ba131c13-072e-4042-93be-866da36b08ed",
@@ -1107,6 +1265,18 @@
       "tokens": [],
       "timestamp_utc": "2026-09-04T04:22:01+00:00",
       "raw_text": "Bitcoin back above $81,000 as hike odds fade, Zcash leads with 15% jump",
+      "impact": {}
+    },
+    {
+      "event_id": "4e7bf3fb-683a-47ee-8b87-2b9a95af1d67",
+      "source": "rss:solana_official",
+      "title": "Solana Ecosystem Roundup: August 2026",
+      "url": "https://solana.com/news/solana-ecosystem-roundup-august-2026",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-04T04:18:00+00:00",
+      "raw_text": "Solana Ecosystem Roundup: August 2026\n\nSolana’s August 2026 roundup: record transactions, $4B in RWAs, growing stablecoin payments, tokenized stocks, DeFi innovation, ETFs, and governance.",
       "impact": {}
     },
     {
@@ -6201,209 +6371,32 @@
       "timestamp_utc": "2026-08-27T21:00:57+00:00",
       "raw_text": "Red Flag? OpenAI's Agentic ChatGPT Work Signs Into Your Accounts Without You\n\nOpenAI says the model never sees your password—but a signed-in session can persist across tasks, and you can step away while it works.",
       "impact": {}
-    },
-    {
-      "event_id": "0ff6c991-8868-4290-84fa-5edda546f769",
-      "source": "rss:cointelegraph",
-      "title": "Virtu, Tradeweb complete onchain repo using Marshall Islands digital bond",
-      "url": "https://cointelegraph.com/news/virtu-tradeweb-complete-onchain-repo-using-marshall-islands-digital-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-27T20:39:40+00:00",
-      "raw_text": "Virtu, Tradeweb complete onchain repo using Marshall Islands digital bond\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Virtu, Tradeweb complete onchain repo using Marshall Islands digital bond\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
-      "impact": {}
-    },
-    {
-      "event_id": "c607f44c-0c86-4b29-ae81-cc00e9c98bfe",
-      "source": "rss:bitcoinmagazine",
-      "title": "Genius Group Sets $2B Dual Treasury Target Months After Liquidating Bitcoin Holdings",
-      "url": "https://bitcoinmagazine.com/news/genius-group-to-rebuild-bitcoin-holdings",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-27T20:17:43+00:00",
-      "raw_text": "Genius Group Sets $2B Dual Treasury Target Months After Liquidating Bitcoin Holdings\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Pics-1-1.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<",
-      "impact": {
-        "t_plus_5m": -0.039,
-        "t_plus_15m": -0.0891,
-        "t_plus_1h": -0.0418,
-        "t_plus_4h": 0.3653
-      }
-    },
-    {
-      "event_id": "d09ed196-10d5-439d-91e9-991cc121d327",
-      "source": "rss:decrypt",
-      "title": "$6.4 Billion in Bitcoin Options Expire Tomorrow—Here's What It Means",
-      "url": "https://decrypt.co/376752/billion-bitcoin-options-expire-what-it-means",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-27T19:47:21+00:00",
-      "raw_text": "$6.4 Billion in Bitcoin Options Expire Tomorrow—Here's What It Means\n\nDeribit's Friday settlement covers nearly a fifth of the exchange's Bitcoin open interest, and max pain sits well below where BTC is trading right now.",
-      "impact": {
-        "t_plus_5m": -0.0407,
-        "t_plus_15m": -0.162,
-        "t_plus_1h": -0.0593,
-        "t_plus_4h": 0.2489
-      }
-    },
-    {
-      "event_id": "d6d1f892-b1e1-4440-a943-6f09a68d7831",
-      "source": "rss:bitcoinmagazine",
-      "title": "Japanese Bitcoin Industry Unveils ‘Aurora’ to Let Global Anime Fans Support $2 Trillion Yen Space",
-      "url": "https://bitcoinmagazine.com/news/japanese-bitcoin-industry-unveils-aurora",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-27T19:45:32+00:00",
-      "raw_text": "Japanese Bitcoin Industry Unveils ‘Aurora’ to Let Global Anime Fans Support $2 Trillion Yen Space\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Pics-2.jpg\" style=\"display: block; margin: 1em auto;\"",
-      "impact": {}
-    },
-    {
-      "event_id": "2079b9e7-5e24-42de-a668-284fbf6d6f55",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin Again Flirts With $81,000 Ahead of Fed’s Jackson Hole Meeting",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-rises-ahead-of-fed-meeting",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-27T19:38:38+00:00",
-      "raw_text": "Bitcoin Again Flirts With $81,000 Ahead of Fed’s Jackson Hole Meeting\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Flirts-With-81000-—-Again-—-Ahead-of-Feds-Jackson-Hole-Meeting.jpg\" style",
-      "impact": {}
-    },
-    {
-      "event_id": "8b00b6bc-eb5d-4732-80cb-7bbd25183479",
-      "source": "rss:cointelegraph",
-      "title": "Trump cost investors $4.7B through crypto ‘schemes’: Public Citizen",
-      "url": "https://cointelegraph.com/news/donald-trump-crypto-investors-losses-public-citizen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-27T19:22:14+00:00",
-      "raw_text": "Trump cost investors $4.7B through crypto ‘schemes’: Public Citizen\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump cost investors $4.7B through crypto ‘schemes’: Public Citizen\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/analytics",
-      "impact": {}
-    },
-    {
-      "event_id": "651328af-087f-46ef-8d0e-c8564c37cc83",
-      "source": "rss:cointelegraph",
-      "title": "Mirae Asset lays out crypto, stablecoin, tokenization plans for Digital X",
-      "url": "https://cointelegraph.com/news/mirae-asset-lays-out-crypto-stablecoin-and-tokenization-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-27T19:00:00+00:00",
-      "raw_text": "Mirae Asset lays out crypto, stablecoin, tokenization plans for Digital X\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Mirae Asset lays out crypto, stablecoin, tokenization plans for Digital X \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cov",
-      "impact": {}
-    },
-    {
-      "event_id": "2a410516-e4d4-4ede-9f2b-9a04481dfad8",
-      "source": "rss:cointelegraph",
-      "title": "Grayscale says Zcash can challenge Bitcoin’s network effects as privacy demand grows",
-      "url": "https://cointelegraph.com/markets/zcash-bitcoin-network-effects-grayscale-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-27T18:51:02+00:00",
-      "raw_text": "Grayscale says Zcash can challenge Bitcoin’s network effects as privacy demand grows\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Grayscale says Zcash can challenge Bitcoin’s network effects as privacy demand grows\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia",
-      "impact": {}
-    },
-    {
-      "event_id": "4280b58b-8518-4001-826c-519ba4657302",
-      "source": "rss:bitcoinmagazine",
-      "title": "No Fork Required: Bitcoin’s First Quantum-Safe Transaction Just Happened",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-quantum-resistant-transaction",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-27T18:48:16+00:00",
-      "raw_text": "No Fork Required: Bitcoin’s First Quantum-Safe Transaction Just Happened\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Damian-Chen.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"h",
-      "impact": {}
-    },
-    {
-      "event_id": "acf7abfe-2e6b-400a-af9b-81ddf4fb2413",
-      "source": "rss:coindesk",
-      "title": "Connecticut's new lawsuit against Kalshi piles on to prediction market legal fight",
-      "url": "https://www.coindesk.com/news-analysis/2026/08/27/connecticut-s-new-lawsuit-against-kalshi-piles-on-to-prediction-market-legal-fight",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-27T18:28:53+00:00",
-      "raw_text": "Connecticut's new lawsuit against Kalshi piles on to prediction market legal fight",
-      "impact": {}
-    },
-    {
-      "event_id": "3c3d199f-f173-47cd-9dc0-e6d5fc5e49fb",
-      "source": "rss:theblock",
-      "title": "Polish Olympic Committee president detained in Zondacrypto bribery probe",
-      "url": "https://www.theblock.co/news/regulation/2026-08-27-polish-olympic-committee-president-detained-in-zondacrypto-bribery-probe-412961",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-27T18:23:53+00:00",
-      "raw_text": "Polish Olympic Committee president detained in Zondacrypto bribery probe\n\nPolish Olympic Committee President Radosław Piesiewicz was detained as part of an investigation into digital asset platform ZondaCrypto.",
-      "impact": {}
-    },
-    {
-      "event_id": "e42badd8-8af9-4149-af9e-e44f1864ba10",
-      "source": "rss:decrypt",
-      "title": "No, Ledger Wasn’t Hacked: Vulnerable Ethereum App Was Patched Before Exploit, Company Says",
-      "url": "https://decrypt.co/376750/no-ledger-wasnt-hacked-ethereum-app-exploit",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-27T18:16:03+00:00",
-      "raw_text": "No, Ledger Wasn’t Hacked: Vulnerable Ethereum App Was Patched Before Exploit, Company Says\n\nOneKey demonstrated how an outdated Ethereum app could sign a transaction different from the one shown on a Ledger device, but the wallet maker says the vulnerability had already been fixed.",
-      "impact": {}
-    },
-    {
-      "event_id": "c9050c5f-349b-487c-83c4-324999dd7d5c",
-      "source": "rss:decrypt",
-      "title": "Bitcoin Eyes Major Resistance as Jackson Hole Kicks Off With Unusual Fed Agenda",
-      "url": "https://decrypt.co/376737/bitcoin-resistance-jackson-hole-fed-agenda",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-27T17:36:04+00:00",
-      "raw_text": "Bitcoin Eyes Major Resistance as Jackson Hole Kicks Off With Unusual Fed Agenda\n\nBTC is holding above $80,000 into a Fed symposium that, for the first time in 40 years, is built around crypto's own turf—payments and financial infrastructure.",
-      "impact": {
-        "t_plus_5m": 0.7603,
-        "t_plus_15m": 0.5235,
-        "t_plus_1h": -0.2424,
-        "t_plus_4h": 0.0458
-      }
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 139,
-        "avg_1h": 0.23,
-        "avg_24h": -1.53,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 128,
-        "avg_1h": 0.04,
-        "avg_24h": 0.18,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 35,
-        "avg_1h": 1.28,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
         "count": 178,
         "avg_1h": 0.22,
         "avg_24h": -0.32,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 140,
+        "avg_1h": 0.27,
+        "avg_24h": -1.53,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 36,
+        "avg_1h": 0.7,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 127,
+        "avg_1h": 0.06,
+        "avg_24h": 0.18,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
@@ -6413,8 +6406,8 @@
         "win_rate_1h_gt5pct": null
       },
       "listing": {
-        "count": 19,
-        "avg_1h": 0.02,
+        "count": 18,
+        "avg_1h": 0.04,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       }
