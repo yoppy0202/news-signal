@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-07T23:27:50.135082+00:00",
+  "generated_at": "2026-09-08T04:27:23.060448+00:00",
   "events": [
+    {
+      "event_id": "ba11f3bb-5d45-46da-873d-e5c49f056293",
+      "source": "rss:coindesk",
+      "title": "Metaplanet CEO breaks silence but shareholders say the hard questions remain unanswered",
+      "url": "https://www.coindesk.com/markets/2026/09/08/metaplanet-ceo-breaks-silence-but-shareholders-say-the-hard-questions-remain-unanswered",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-07T23:01:00+00:00",
+      "raw_text": "Metaplanet CEO breaks silence but shareholders say the hard questions remain unanswered",
+      "impact": {}
+    },
+    {
+      "event_id": "187f3f73-6c6b-4e0c-bff9-7163cee73c28",
+      "source": "rss:bitcoinmagazine",
+      "title": "Liquid Gets 3,400 BTC Back After On-Chain Talks; White Hats Keep 598.5 BTC",
+      "url": "https://bitcoinmagazine.com/news/liquid-gets-3400-btc-back-after-on-chain-talks-white-hats-keep-598-5-btc",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-07T22:02:19+00:00",
+      "raw_text": "Liquid Gets 3,400 BTC Back After On-Chain Talks; White Hats Keep 598.5 BTC\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/tn-2.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https",
+      "impact": {}
+    },
     {
       "event_id": "af803db0-d296-476b-b8a5-9ff81f5fa13c",
       "source": "rss:decrypt",
@@ -80,10 +104,17 @@
       "url": "https://decrypt.co/377600/liquid-hackers-return-270m-bitcoin",
       "event_type": "hack",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-09-07T19:13:56+00:00",
       "raw_text": "Liquid Hackers Return $270M in Bitcoin After Swiping $320 Million\n\nNearly 600 BTC remains outstanding after Blockstream told the actors in an on-chain message that Liquid’s bridge nodes had been patched.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0108,
+        "t_plus_15m": 0.0852,
+        "t_plus_1h": 0.0806,
+        "t_plus_4h": -0.0594
+      }
     },
     {
       "event_id": "c68ee909-261b-4eb1-961d-de688d0ed5a7",
@@ -160,7 +191,8 @@
       "impact": {
         "t_plus_5m": -0.217,
         "t_plus_15m": -0.1631,
-        "t_plus_1h": 0.0042
+        "t_plus_1h": 0.0042,
+        "t_plus_4h": 0.0523
       }
     },
     {
@@ -6395,56 +6427,32 @@
       "timestamp_utc": "2026-08-28T14:37:14+00:00",
       "raw_text": "BitGo to buy NYDIG trading arm for $42.5M in cash and stock plus $15M earnout",
       "impact": {}
-    },
-    {
-      "event_id": "89ff53a5-0efd-4d05-9a5b-baade02214c5",
-      "source": "rss:decrypt",
-      "title": "Ethereum ETFs Take $226M in a Day, Almost Matching Bitcoin's Haul",
-      "url": "https://decrypt.co/376810/ethereum-etfs-take-226m-in-a-day-almost-matching-bitcoins-haul",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-28T14:17:21+00:00",
-      "raw_text": "Ethereum ETFs Take $226M in a Day, Almost Matching Bitcoin's Haul\n\nNine straight sessions have brought in $1.4 billion, with Thursday marking the funds' strongest day in 10 months.",
-      "impact": {}
-    },
-    {
-      "event_id": "9ac8d2dc-0274-49ab-9ddb-83d643de0d17",
-      "source": "rss:coindesk",
-      "title": "Fed Chair Kevin Warsh at Jackson Hole: 'We have work to do' on inflation",
-      "url": "https://www.coindesk.com/markets/2026/08/28/warsh-at-jackson-hole-we-have-work-to-do-on-inflaiton",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-28T14:05:12+00:00",
-      "raw_text": "Fed Chair Kevin Warsh at Jackson Hole: 'We have work to do' on inflation",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 138,
+        "avg_1h": 0.29,
+        "avg_24h": -1.53,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 41,
+        "avg_1h": 0.18,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 172,
         "avg_1h": 0.1,
         "avg_24h": -0.32,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 137,
-        "avg_1h": 0.29,
-        "avg_24h": -1.53,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 132,
+        "count": 130,
         "avg_1h": 0.06,
         "avg_24h": 0.18,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 40,
-        "avg_1h": 0.19,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
