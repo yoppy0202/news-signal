@@ -1,6 +1,318 @@
 {
-  "generated_at": "2026-09-09T14:30:15.719387+00:00",
+  "generated_at": "2026-09-09T18:31:31.171631+00:00",
   "events": [
+    {
+      "event_id": "27ded7cc-3dc8-4b25-97e2-ad0987c331f4",
+      "source": "rss:decrypt",
+      "title": "Secret Service Freezes $52.8 Million in Crypto Tied to Telegram Bazaar Behind Global Scams",
+      "url": "https://decrypt.co/377804/secret-service-freezes-crypto-telegram-bazaar-xinbi",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-09T17:16:08+00:00",
+      "raw_text": "Secret Service Freezes $52.8 Million in Crypto Tied to Telegram Bazaar Behind Global Scams\n\nBlockchain sleuths at Elliptic traced the money, Treasury sanctioned the marketplace, and Xinbi—which ran $24 billion through a Telegram scam bazaar—called the freeze unfair.",
+      "impact": {}
+    },
+    {
+      "event_id": "c52a25fd-a7d6-4687-abca-0a53def3e1df",
+      "source": "rss:decrypt",
+      "title": "While Bitcoin Devs Debate Next Moves, IonQ Unveils Superion 256 Quantum Computer",
+      "url": "https://decrypt.co/377737/bitcoin-debate-ionq-quantum-computer",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-09T16:46:05+00:00",
+      "raw_text": "While Bitcoin Devs Debate Next Moves, IonQ Unveils Superion 256 Quantum Computer\n\nThe company has built its first chips and begun testing prototypes as it seeks to manufacture quantum computers in larger quantities.",
+      "impact": {}
+    },
+    {
+      "event_id": "c11ef56f-a495-452a-aca0-ccd0fa816342",
+      "source": "rss:cointelegraph",
+      "title": "U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction",
+      "url": "https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-09T16:37:08+00:00",
+      "raw_text": "U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-co",
+      "impact": {}
+    },
+    {
+      "event_id": "b5abe111-abba-4450-b867-b6795683da74",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin fails to reclaim $80K as Bessent fuels yen strength around 153 per dollar",
+      "url": "https://cointelegraph.com/markets/bitcoin-fails-to-reclaim-80k-as-bessent-fuels-yen-strength-around-153-per-dollar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-09T16:28:19+00:00",
+      "raw_text": "Bitcoin fails to reclaim $80K as Bessent fuels yen strength around 153 per dollar\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin fails to reclaim $80K as Bessent fuels yen strength around 153 per dollar\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me",
+      "impact": {}
+    },
+    {
+      "event_id": "9c6a70bf-565a-4b1e-9d44-c589a8cb0c04",
+      "source": "rss:theblock",
+      "title": "Hyperliquid Policy Center backs CFTC in fight over perpetual futures, asks court to drop CME’s case",
+      "url": "https://www.theblock.co/news/regulation/2026-09-09-hyperliquid-policy-center-backs-cftc-fight-perpetual-futures-asks-court-drop-cme-case-414046",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-09T16:17:59+00:00",
+      "raw_text": "Hyperliquid Policy Center backs CFTC in fight over perpetual futures, asks court to drop CME’s case\n\nThe Hyperliquid Policy Center accused CME Group of stifling innovation and urged a court to dismiss the exchange’s lawsuit against the CFTC.",
+      "impact": {}
+    },
+    {
+      "event_id": "485b421b-a6f2-4b64-b1ba-3f7f19abf605",
+      "source": "rss:decrypt",
+      "title": "Mexican Musician and Family Killed Over Bitcoin Cold Wallet Believed to Hold Millions",
+      "url": "https://decrypt.co/377795/mexican-family-killed-bitcoin-cold-wallet",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-09T16:16:04+00:00",
+      "raw_text": "Mexican Musician and Family Killed Over Bitcoin Cold Wallet Believed to Hold Millions\n\nMexican prosecutors allege suspects targeted Camilo Séptimo keyboardist Jonathan Meléndez and his family while searching for a cold wallet they believed contained millions in Bitcoin.",
+      "impact": {}
+    },
+    {
+      "event_id": "729d73b7-81e8-4240-a4a7-0beda29e72cb",
+      "source": "rss:coindesk",
+      "title": "Robinhood’s CEO Vlad Tenev fires back at AMC CEO in escalating fight over stock tokens",
+      "url": "https://www.coindesk.com/markets/2026/09/09/robinhood-s-ceo-vlad-tenev-defends-stock-tokens-in-escalating-fight-with-amc-ceo",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-09T16:11:07+00:00",
+      "raw_text": "Robinhood’s CEO Vlad Tenev fires back at AMC CEO in escalating fight over stock tokens",
+      "impact": {}
+    },
+    {
+      "event_id": "bdf1a579-a428-4ef0-bd04-ee9f8c17568f",
+      "source": "rss:theblock",
+      "title": "Hunter Biden’s LAPTOP airdrops briefly worth over $1 million each before 99% crash",
+      "url": "https://www.theblock.co/news/markets/2026-09-09-hunter-biden-laptop-airdrops-briefly-worth-over-1-million-each-before-99-crash-414034",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-09T16:05:45+00:00",
+      "raw_text": "Hunter Biden’s LAPTOP airdrops briefly worth over $1 million each before 99% crash\n\nSubstack subscribers were reportedly able to claim 4,276 LAPTOP tokens each, with some quickly selling their allocations.",
+      "impact": {}
+    },
+    {
+      "event_id": "3003402d-c2fa-4d94-9cb0-51b9d1689641",
+      "source": "rss:coindesk",
+      "title": "U.S. Treasury sanctions another widespread cyber-scam hub, Xinbi Guarantee",
+      "url": "https://www.coindesk.com/policy/2026/09/09/u-s-treasury-sanctions-another-widespread-cyber-scam-hub-xinbi-guarantee",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-09T16:05:11+00:00",
+      "raw_text": "U.S. Treasury sanctions another widespread cyber-scam hub, Xinbi Guarantee",
+      "impact": {}
+    },
+    {
+      "event_id": "06ef87b6-223e-4f58-9455-b9a3f1f4c452",
+      "source": "rss:cointelegraph",
+      "title": "Trade groups seek to block Illinois crypto tax before January effective date",
+      "url": "https://cointelegraph.com/news/trade-groups-seek-block-illinois-crypto-tax-before-january-effective-date?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-09T15:57:07+00:00",
+      "raw_text": "Trade groups seek to block Illinois crypto tax before January effective date\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trade groups seek to block Illinois crypto tax before January effective date\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl",
+      "impact": {}
+    },
+    {
+      "event_id": "607104a7-fa0d-455b-b33e-fd888fcaa99a",
+      "source": "rss:coindesk",
+      "title": "Tether pushes into private credit with $400 million fund with Fasanara",
+      "url": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-09T15:51:25+00:00",
+      "raw_text": "Tether pushes into private credit with $400 million fund with Fasanara",
+      "impact": {}
+    },
+    {
+      "event_id": "cda31695-b858-4543-8b21-bcdab32ab341",
+      "source": "rss:decrypt",
+      "title": "Hunter Biden's LAPTOP Meme Coin Crashes 99% on Debut",
+      "url": "https://decrypt.co/377783/hunter-biden-laptop-meme-coin-crashes",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-09T15:47:09+00:00",
+      "raw_text": "Hunter Biden's LAPTOP Meme Coin Crashes 99% on Debut\n\nLAPTOP hit a $190.81 peak within minutes of launching on Base, then shed roughly 99% as thin liquidity met a wave of selling.",
+      "impact": {}
+    },
+    {
+      "event_id": "b7fc3054-0118-4df5-9a42-b0a0ed6784f9",
+      "source": "rss:coindesk",
+      "title": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
+      "url": "https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-09T15:30:00+00:00",
+      "raw_text": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
+      "impact": {}
+    },
+    {
+      "event_id": "13a1ee1d-1a24-4154-b649-b52b5c8668a9",
+      "source": "rss:coindesk",
+      "title": "Consensys to split MetaMask into its own firm while staying silent on IPO",
+      "url": "https://www.coindesk.com/business/2026/09/09/consensys-to-split-metamask-into-its-own-firm-while-staying-silent-on-ipo",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-09T15:24:01+00:00",
+      "raw_text": "Consensys to split MetaMask into its own firm while staying silent on IPO",
+      "impact": {}
+    },
+    {
+      "event_id": "d13cb8d8-10dc-4273-a567-8af01145dba6",
+      "source": "rss:cointelegraph",
+      "title": "Tether, Fasanara launch $400M private credit fund targeting $3B",
+      "url": "https://cointelegraph.com/news/tether-fasanara-launch-400m-private-credit-fund-targeting-3b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-09T15:21:44+00:00",
+      "raw_text": "Tether, Fasanara launch $400M private credit fund targeting $3B\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether, Fasanara launch $400M private credit fund targeting $3B  \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23AK",
+      "impact": {}
+    },
+    {
+      "event_id": "8e39b3ce-7b4d-43e0-8ece-65f617eef2de",
+      "source": "rss:decrypt",
+      "title": "Prediction Markets Abandon Cheap Oil as Brent Passes $100",
+      "url": "https://decrypt.co/377766/prediction-markets-abandon-cheap-oil-as-brent-passes-100",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-09T15:15:01+00:00",
+      "raw_text": "Prediction Markets Abandon Cheap Oil as Brent Passes $100\n\nMyriad's $120 side overtook $55 at the start of September, while Polymarket puts WTI reaching $100 this month at 59%.",
+      "impact": {}
+    },
+    {
+      "event_id": "7e1cdf0c-bfa4-4c5d-9a47-56a7113f7c36",
+      "source": "rss:decrypt",
+      "title": "Consensys Is Splitting in Two as MetaMask Goes Its Own Way",
+      "url": "https://decrypt.co/377768/consensys-split-metamask-new-institutional-crypto-company",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-09T15:07:24+00:00",
+      "raw_text": "Consensys Is Splitting in Two as MetaMask Goes Its Own Way\n\nConsensys Software Inc. will become MetaMask, while a newly formed Consensys will take over the firm's Ethereum protocols and institutional blockchain infrastructure business.",
+      "impact": {}
+    },
+    {
+      "event_id": "29bb1b93-ab29-49de-9ca0-176dfe09aa06",
+      "source": "rss:theblock",
+      "title": "Crypto industry groups escalate fight against Illinois, asking court to block controversial crypto tax",
+      "url": "https://www.theblock.co/news/regulation/2026-09-09-crypto-industry-groups-escalate-fight-illinois-asking-court-block-crypto-tax-414036",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-09T15:04:41+00:00",
+      "raw_text": "Crypto industry groups escalate fight against Illinois, asking court to block controversial crypto tax\n\nCrypto groups representing a slew of digital asset firms are escalating its legal fight in Illinois over its controversial crypto tax.",
+      "impact": {}
+    },
+    {
+      "event_id": "833345d6-2994-4e58-aa6f-1a1decbfb756",
+      "source": "rss:coindesk",
+      "title": "Crypto Long & Short:  Inside the 300-to-1 onchain gap between the dollar and euro",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/09/08/crypto-long-and-short-inside-the-300-to-1-onchain-gap-between-the-dollar-and-euro",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-09T14:58:07+00:00",
+      "raw_text": "Crypto Long & Short:  Inside the 300-to-1 onchain gap between the dollar and euro",
+      "impact": {}
+    },
+    {
+      "event_id": "e4c72252-4679-40b5-86fc-705a3a851679",
+      "source": "rss:theblock",
+      "title": "Consensys splits MetaMask from institutional and Ethereum infrastructure businesses",
+      "url": "https://www.theblock.co/news/business/2026-09-09-consensys-splits-metamask-institutional-ethereum-infrastructure-businesses-414022",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-09T14:54:15+00:00",
+      "raw_text": "Consensys splits MetaMask from institutional and Ethereum infrastructure businesses\n\nThe separation is expected to be completed by the end of 2026, with the existing entity rebranding as MetaMask under CEO Joe Lubin.",
+      "impact": {}
+    },
+    {
+      "event_id": "d0b390e3-c1a0-4c93-afdc-187b8c1a48a7",
+      "source": "rss:theblock",
+      "title": "Ink Foundation, GSR and others open Charter Foundation to help cut token launch costs",
+      "url": "https://www.theblock.co/news/ecosystems/2026-09-09-ink-foundation-gsr-crypto-charter-foundation-token-launch-costs-414023",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-09T14:49:03+00:00",
+      "raw_text": "Ink Foundation, GSR and others open Charter Foundation to help cut token launch costs\n\nA group of crypto firms has launched Charter Foundation to offer a new framework to help founders reduce the cost of launching tokens.",
+      "impact": {}
+    },
+    {
+      "event_id": "b01b7c0a-9479-4db4-8d95-bc90db508182",
+      "source": "rss:decrypt",
+      "title": "German Finance Ministry Drafts 25% Tax on Crypto Gains From 2027",
+      "url": "https://decrypt.co/377764/german-finance-ministry-drafts-25-tax-on-crypto-gains-from-2027",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-09T14:37:18+00:00",
+      "raw_text": "German Finance Ministry Drafts 25% Tax on Crypto Gains From 2027\n\nAnything bought before 2027 keeps the twelve-month exemption, so the change lands only on Germany's future crypto buyers.",
+      "impact": {}
+    },
+    {
+      "event_id": "4979c431-ace1-49f1-b647-7d90939621cc",
+      "source": "rss:bitcoinmagazine",
+      "title": "VerifiedX Launches $15 Million Financing Round to Deploy Institutional Bitcoin Infrastructure",
+      "url": "https://bitcoinmagazine.com/news/cantor-fitzgerald-working-with-verifiedx",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-09T14:36:50+00:00",
+      "raw_text": "VerifiedX Launches $15 Million Financing Round to Deploy Institutional Bitcoin Infrastructure\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-3.jpg\" style=\"display: block; margin: 1em auto;\" /",
+      "impact": {}
+    },
+    {
+      "event_id": "b4d83a0a-d0c6-4f4f-abc0-79b4e0ed1c17",
+      "source": "rss:coindesk",
+      "title": "PayPal expands stablecoin rails with custom token issuance platform",
+      "url": "https://www.coindesk.com/business/2026/09/09/paypal-expands-stablecoin-rails-with-launch-of-custom-token-issuance-platform",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-09T14:00:00+00:00",
+      "raw_text": "PayPal expands stablecoin rails with custom token issuance platform",
+      "impact": {}
+    },
+    {
+      "event_id": "d84944fb-60c9-4a06-b2f9-25ba716b3352",
+      "source": "rss:coindesk",
+      "title": "Kalshi election data goes live on DoubleZero ahead of U.S. midterms",
+      "url": "https://www.coindesk.com/tech/2026/09/09/kalshi-election-data-goes-live-on-doublezero-ahead-of-u-s-midterms",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-09T14:00:00+00:00",
+      "raw_text": "Kalshi election data goes live on DoubleZero ahead of U.S. midterms",
+      "impact": {}
+    },
+    {
+      "event_id": "8e8a3b70-7f46-4c38-b928-44a5bccf4b79",
+      "source": "rss:coindesk",
+      "title": "Hunter Biden's new LAPTOP token lost 98% of its value in under an hour after $1.6 billion debut",
+      "url": "https://www.coindesk.com/business/2026/09/09/hunter-biden-s-laptop-memecoin-debuts-at-usd1-6-billion-market-cap",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-09T13:57:57+00:00",
+      "raw_text": "Hunter Biden's new LAPTOP token lost 98% of its value in under an hour after $1.6 billion debut",
+      "impact": {}
+    },
     {
       "event_id": "87056453-4989-492e-b831-902864871e0b",
       "source": "rss:theblock",
@@ -11,6 +323,18 @@
       "tokens": [],
       "timestamp_utc": "2026-09-09T13:53:28+00:00",
       "raw_text": "Tether, Fasanara launch $400 million fund for stablecoin-enabled private credit\n\nThe firms seek up to $3 billion from institutional investors to deploy through Fasanara's global fintech lending network.",
+      "impact": {}
+    },
+    {
+      "event_id": "986ee278-7019-4870-b76d-823f25f6faa8",
+      "source": "rss:cointelegraph",
+      "title": "German finance ministry proposes 25% crypto tax starting 2028: Report",
+      "url": "https://cointelegraph.com/news/german-finance-ministry-25-crypto-tax-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-09T13:49:55+00:00",
+      "raw_text": "German finance ministry proposes 25% crypto tax starting 2028: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"German finance ministry proposes 25% crypto tax starting 2028: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/",
       "impact": {}
     },
     {
@@ -116,10 +440,16 @@
       "url": "https://www.theblock.co/news/defi/2026-09-09-renzo-crypto-basis-trade-product-hyperliquid-413979",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-09-09T12:06:21+00:00",
       "raw_text": "Renzo expands beyond restaking with basis trade product on Hyperliquid\n\nRenzo Basis will first support BTC and HYPE and is designed to let users earn yield from funding rates through automated positions.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0846,
+        "t_plus_15m": 0.0429,
+        "t_plus_1h": 0.3073
+      }
     },
     {
       "event_id": "d05249ff-0dbf-45db-aa3b-b9ed4e2a6a0f",
@@ -236,10 +566,17 @@
       "url": "https://cointelegraph.com/markets/bitcoin-sopr-metric-sees-longest-profit-run-of-2026-as-new-analysis-challenges-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-09-09T10:12:16+00:00",
       "raw_text": "Bitcoin SOPR metric sees longest profit run of 2026 as new analysis challenges bear market\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin SOPR metric sees longest profit run of 2026 as new analysis challenges bear market\" class=\"type:primaryImage\" src=\"https://s3-im",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.3689,
+        "t_plus_15m": -0.3259,
+        "t_plus_1h": -0.6302,
+        "t_plus_4h": -0.439
+      }
     },
     {
       "event_id": "d1147838-0b55-4bd5-8f10-966b582b3c8b",
@@ -335,6 +672,18 @@
       "tokens": [],
       "timestamp_utc": "2026-09-09T07:36:21+00:00",
       "raw_text": "Jack Dorsey’s Block seeks US trust bank charter for Bitcoin, stablecoin\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Jack Dorsey’s Block seeks US trust bank charter for Bitcoin, stablecoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2",
+      "impact": {}
+    },
+    {
+      "event_id": "68934efc-8492-4963-abb3-da96eb2e02e1",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin gives up gains as yields head higher following Treasury buyback announcement",
+      "url": "https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-09T07:20:51+00:00",
+      "raw_text": "Live updates: Bitcoin gives up gains as yields head higher following Treasury buyback announcement",
       "impact": {}
     },
     {
@@ -6028,401 +6377,37 @@
       "timestamp_utc": "2026-09-01T10:33:52+00:00",
       "raw_text": "Binance adds options on 1,000 US stocks and ETFs as monthly TradFi perpetual volume hits $433 billion\n\nTradFi perpetual futures volume reached approximately $433.4 billion on Binance in August, up roughly 15 times since January.",
       "impact": {}
-    },
-    {
-      "event_id": "490da93c-7687-4983-a7ef-4e0d94c7b50b",
-      "source": "rss:coindesk",
-      "title": "Bitcoin consolidates near $78,000 as Arbitrum surges 30% on Robinhood Chain revenue",
-      "url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-consolidates-near-usd78-000-as-arbitrum-surges-30-on-robinhood-chain-revenue",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-01T10:29:00+00:00",
-      "raw_text": "Bitcoin consolidates near $78,000 as Arbitrum surges 30% on Robinhood Chain revenue",
-      "impact": {}
-    },
-    {
-      "event_id": "77848c84-95dc-4bff-ac62-81a10fa17426",
-      "source": "rss:cointelegraph",
-      "title": "Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet",
-      "url": "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-01T10:00:00+00:00",
-      "raw_text": "Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/202",
-      "impact": {}
-    },
-    {
-      "event_id": "43fe5b47-50a9-4f19-a05c-7c8c1bc76e3d",
-      "source": "rss:cointelegraph",
-      "title": "Singapore weighs recognizing some foreign-issued stablecoins",
-      "url": "https://cointelegraph.com/news/singapore-weighs-foreign-regulated-stablecoins-mas-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-01T09:55:11+00:00",
-      "raw_text": "Singapore weighs recognizing some foreign-issued stablecoins\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Singapore weighs recognizing some foreign-issued stablecoins\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1E3MSKNNCKBC",
-      "impact": {}
-    },
-    {
-      "event_id": "2eb97e87-2187-4c2a-a712-4136902c398c",
-      "source": "rss:decrypt",
-      "title": "UK's National Crime Agency Freezes $13.6M Sent by Sorare to Premier League: Report",
-      "url": "https://decrypt.co/377006/uks-national-crime-agency-freezes-13-6m-of-premier-league-money-in-sorare-probe-report",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-01T09:46:27+00:00",
-      "raw_text": "UK's National Crime Agency Freezes $13.6M Sent by Sorare to Premier League: Report\n\nThe sum was the first payment under a $163 million deal with the Messi-backed fantasy card game, now facing a gambling prosecution.",
-      "impact": {}
-    },
-    {
-      "event_id": "9b90d76b-2d20-4ee2-9b33-a48a489954f2",
-      "source": "rss:decrypt",
-      "title": "UK's National Crime Agency Freezes $13.6M of Premier League Money in Sorare Probe: Report",
-      "url": "https://decrypt.co/377006/uks-national-crime-agency-freezes-13-6m-of-premier-league-money-in-sorare-probe-report",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-01T09:46:27+00:00",
-      "raw_text": "UK's National Crime Agency Freezes $13.6M of Premier League Money in Sorare Probe: Report\n\nThe sum was the first payment under a $163 million deal with the Messi-backed fantasy card game, now facing a gambling prosecution.",
-      "impact": {}
-    },
-    {
-      "event_id": "39b33c6b-815b-43bf-bbbf-6b73b63665d8",
-      "source": "rss:theblock",
-      "title": "Kraken parent Payward to tokenize 100 London-listed stocks, with LSE 24 trading planned",
-      "url": "https://www.theblock.co/news/business/2026-09-01-kraken-parent-payward-to-tokenize-100-london-listed-stocks-with-lse-24-trading-planned-413208",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-01T09:39:20+00:00",
-      "raw_text": "Kraken parent Payward to tokenize 100 London-listed stocks, with LSE 24 trading planned\n\nPayward will tokenize 100 London-listed stocks as xStocks, with LSE 24 to support trading, subject to regulatory approval.",
-      "impact": {}
-    },
-    {
-      "event_id": "de835859-067c-4980-8a21-9dc976e784e0",
-      "source": "rss:coindesk",
-      "title": "Strategy spends $635M buying back STRC as perpetual preferred stock lags $100 par",
-      "url": "https://www.coindesk.com/markets/2026/09/01/strategy-spends-usd635m-buying-back-strc-as-perpetual-preferred-stock-lags-usd100-par",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-01T09:29:33+00:00",
-      "raw_text": "Strategy spends $635M buying back STRC as perpetual preferred stock lags $100 par",
-      "impact": {}
-    },
-    {
-      "event_id": "8b352344-8f91-420e-acb4-74f3a2a1c639",
-      "source": "rss:solana_official",
-      "title": "Webinar Recap: Cross-Border Payments in Latin America",
-      "url": "https://solana.com/news/webinar-recap-cross-border-payments-in-latin-america",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-01T09:00:00+00:00",
-      "raw_text": "Webinar Recap: Cross-Border Payments in Latin America\n\nJorge Borges, Head of Latin America at Fireblocks, and Antonio Neto of the Solana Foundation discussed how firms across LATAM are putting stablecoin payments into production.",
-      "impact": {}
-    },
-    {
-      "event_id": "e2746c20-c057-4649-8550-b77fa20bee58",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin slumps as oil surges to three-month high on new Iran strikes",
-      "url": "https://www.coindesk.com/business/2026/09/01/live-updates-bitcoin-etfs-resume-buying-as-ether-funds-stretch-streak-to-11-days",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-01T08:35:57+00:00",
-      "raw_text": "Live updates: Bitcoin slumps as oil surges to three-month high on new Iran strikes",
-      "impact": {}
-    },
-    {
-      "event_id": "d4ae828b-1c30-4090-89d6-7c13e9393b02",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin trades around $78,000 as crude surges, global bond sell-off deepens",
-      "url": "https://www.coindesk.com/business/2026/09/01/live-updates-bitcoin-etfs-resume-buying-as-ether-funds-stretch-streak-to-11-days",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-01T08:35:57+00:00",
-      "raw_text": "Live updates: Bitcoin trades around $78,000 as crude surges, global bond sell-off deepens",
-      "impact": {}
-    },
-    {
-      "event_id": "2a10730d-3fae-4be2-88d3-2644f17e1f3d",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin trades around $78,000 as global bond sell-off deepens",
-      "url": "https://www.coindesk.com/business/2026/09/01/live-updates-bitcoin-etfs-resume-buying-as-ether-funds-stretch-streak-to-11-days",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-01T08:35:57+00:00",
-      "raw_text": "Live updates: Bitcoin trades around $78,000 as global bond sell-off deepens",
-      "impact": {}
-    },
-    {
-      "event_id": "b2c45d0f-e787-4ada-bfac-ee26bfd0880b",
-      "source": "rss:coindesk",
-      "title": "London Stock Exchange to work with Payward to bring biggest UK stocks onchain",
-      "url": "https://www.coindesk.com/markets/2026/09/01/london-stock-exchange-to-work-with-payward-to-bring-biggest-uk-stocks-onchain",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-01T07:49:16+00:00",
-      "raw_text": "London Stock Exchange to work with Payward to bring biggest UK stocks onchain",
-      "impact": {}
-    },
-    {
-      "event_id": "ccb4819c-ec11-414a-ab0d-b7a18e2b749d",
-      "source": "rss:cointelegraph",
-      "title": "Trump Jr.-linked 1789 Capital leads Polymarket’s $1B raise: Report",
-      "url": "https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-01T07:47:13+00:00",
-      "raw_text": "Trump Jr.-linked 1789 Capital leads Polymarket’s $1B raise: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump Jr.-linked 1789 Capital leads Polymarket’s $1B raise: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M",
-      "impact": {}
-    },
-    {
-      "event_id": "af83b96a-e509-4e67-95c9-427821e03a6a",
-      "source": "rss:theblock",
-      "title": "Strategy hits back at MSCI proposal, calling it ‘discriminatory’ against DATs",
-      "url": "https://www.theblock.co/news/business/2026-09-01-strategy-hits-back-against-msci-413201",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-01T07:03:29+00:00",
-      "raw_text": "Strategy hits back at MSCI proposal, calling it ‘discriminatory’ against DATs\n\nMSCI opened a new consultation targeting companies that have operating assets lower than 50% of its total assets.",
-      "impact": {}
-    },
-    {
-      "event_id": "fe761c94-b831-4010-bcbc-9e00ce3afe73",
-      "source": "rss:coindesk",
-      "title": "OpenAI’s ‘Trust Us’ TIME cover raises an old warning for AI bulls",
-      "url": "https://www.coindesk.com/markets/2026/09/01/time-is-putting-openai-s-founders-on-its-cover-paul-montgomery-s-contrary-indicator-says-hello",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-01T06:52:10+00:00",
-      "raw_text": "OpenAI’s ‘Trust Us’ TIME cover raises an old warning for AI bulls",
-      "impact": {}
-    },
-    {
-      "event_id": "899b0606-8de9-4d45-a876-d0d65e5a2860",
-      "source": "rss:theblock",
-      "title": "Ark Invest buys $37 million worth of shares in Jack Dorsey’s Block Inc",
-      "url": "https://www.theblock.co/news/markets/2026-09-01-ark-invest-buys-37-million-block-413195",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-01T04:57:33+00:00",
-      "raw_text": "Ark Invest buys $37 million worth of shares in Jack Dorsey’s Block Inc\n\nLast month, Ark had purchased a bulk of Block shares after its second-quarter results that raised its full-year profit forecast to $12.5 billion",
-      "impact": {}
-    },
-    {
-      "event_id": "7478ed98-9b19-4816-ba52-4e37548ad0aa",
-      "source": "rss:cointelegraph",
-      "title": "BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks",
-      "url": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-inflow-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-09-01T04:48:47+00:00",
-      "raw_text": "BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl",
-      "impact": {
-        "t_plus_5m": -0.6609,
-        "t_plus_15m": -0.4297,
-        "t_plus_1h": 0.3152,
-        "t_plus_4h": -1.8797
-      }
-    },
-    {
-      "event_id": "31df72a5-d485-47b7-93ef-15a31759bb2d",
-      "source": "rss:coindesk",
-      "title": "Bitcoin steady above $78,000, HYPE leads as majors slip on hawkish Fed bets",
-      "url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-steady-above-usd78-000-hype-leads-as-majors-slip-on-hawkish-fed-bets",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-01T04:30:28+00:00",
-      "raw_text": "Bitcoin steady above $78,000, HYPE leads as majors slip on hawkish Fed bets",
-      "impact": {}
-    },
-    {
-      "event_id": "86506784-cac4-4163-9582-eef5c0b265ac",
-      "source": "rss:coindesk",
-      "title": "Trump Jr's firm leads $1 billion Polymarket raise at $21 billion value: Report",
-      "url": "https://www.coindesk.com/business/2026/09/01/trump-jr-s-firm-leads-usd1-billion-polymarket-raise-at-usd21-billion-value-report",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-01T04:19:54+00:00",
-      "raw_text": "Trump Jr's firm leads $1 billion Polymarket raise at $21 billion value: Report",
-      "impact": {}
-    },
-    {
-      "event_id": "6871ae45-f512-432e-a500-8bfcb0d17dc1",
-      "source": "rss:coindesk",
-      "title": "CME’s share of XRP futures jumps as token rallies 40% in a week",
-      "url": "https://www.coindesk.com/markets/2026/09/01/xrp-futures-are-shifting-toward-cme-as-institutional-participation-grows",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-09-01T03:49:39+00:00",
-      "raw_text": "CME’s share of XRP futures jumps as token rallies 40% in a week",
-      "impact": {
-        "t_plus_5m": -0.2289,
-        "t_plus_15m": -0.2639,
-        "t_plus_1h": -0.5236,
-        "t_plus_4h": -0.7055
-      }
-    },
-    {
-      "event_id": "427eef05-39e5-484b-9c1b-42331f7288fe",
-      "source": "rss:cointelegraph",
-      "title": "Thailand SEC proposes retail access to regulated overseas crypto derivatives",
-      "url": "https://cointelegraph.com/news/thailand-sec-retail-overseas-crypto-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-01T03:49:00+00:00",
-      "raw_text": "Thailand SEC proposes retail access to regulated overseas crypto derivatives\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Thailand SEC proposes retail access to regulated overseas crypto derivatives\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl",
-      "impact": {}
-    },
-    {
-      "event_id": "7c1b4579-0999-4bfe-85fa-285b07c3a5a6",
-      "source": "rss:theblock",
-      "title": "DeFi Development Corp proposes $20 million preferred stock offering to buy more SOL",
-      "url": "https://www.theblock.co/news/business/2026-08-31-solana-defi-development-preferred-stock-offering-413190",
-      "event_type": "listing",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "SOL"
-      ],
-      "timestamp_utc": "2026-09-01T03:46:02+00:00",
-      "raw_text": "DeFi Development Corp proposes $20 million preferred stock offering to buy more SOL\n\nThe Nasdaq-listed company intends to use the proceeds to acquire more Solana and crypto-related investments.",
-      "impact": {
-        "t_plus_5m": -0.1837,
-        "t_plus_15m": -0.2591,
-        "t_plus_1h": -0.0864,
-        "t_plus_4h": -0.8555
-      }
-    },
-    {
-      "event_id": "1f80f9c0-ca1f-4083-9d60-1594ce40ac95",
-      "source": "rss:theblock",
-      "title": "Robinhood Chain hits record $989 million in daily DEX volume as TVL grows",
-      "url": "https://www.theblock.co/news/markets/2026-08-31-robinhood-chain-activity-surges-in-august-as-dex-volume-near-1-billion-413136",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-31T22:21:03+00:00",
-      "raw_text": "Robinhood Chain hits record $989 million in daily DEX volume as TVL grows\n\nRobinhood Chain DEX volume hit a record in the month of August as utility tokens gain ground on memecoins.",
-      "impact": {}
-    },
-    {
-      "event_id": "57c8069e-d31e-495f-96f3-3306366cf020",
-      "source": "rss:decrypt",
-      "title": "As Public Fury Mounts, Texas Pulls the Plug on Flock Surveillance Funding",
-      "url": "https://decrypt.co/376999/texas-bans-flock-surveillance-funding",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-08-31T21:46:04+00:00",
-      "raw_text": "As Public Fury Mounts, Texas Pulls the Plug on Flock Surveillance Funding\n\nGov. Greg Abbott ordered state agencies to stop paying for the AI-powered license-plate readers as privacy concerns and officer-misuse scandals mount across Texas.",
-      "impact": {}
-    },
-    {
-      "event_id": "35442be5-e27c-4e12-9a89-547d0dc8843e",
-      "source": "rss:decrypt",
-      "title": "Strive Adds $143 Million in Bitcoin as Treasury Firms Pile Back In",
-      "url": "https://decrypt.co/376992/strive-adds-143-million-bitcoin",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-08-31T21:01:05+00:00",
-      "raw_text": "Strive Adds $143 Million in Bitcoin as Treasury Firms Pile Back In\n\nThe Nasdaq-listed asset manager paid an average of $79,431 per coin, lifting its total stash to 23,156 BTC amid a wave of renewed treasury buying.",
-      "impact": {
-        "t_plus_5m": -0.2111,
-        "t_plus_15m": -0.1949,
-        "t_plus_1h": -0.0352,
-        "t_plus_4h": -0.4468
-      }
-    },
-    {
-      "event_id": "0c67038c-e9db-41ce-b41a-b9a7ad039905",
-      "source": "rss:coindesk",
-      "title": "North Korean hackers are moving tens of millions on Hyperliquid as Trump pushes to onshore the crypto platform",
-      "url": "https://www.coindesk.com/business/2026/08/31/north-korean-hackers-are-moving-tens-of-millions-on-hyperliquid-as-trump-pushes-to-onshore-the-crypto-platform",
-      "event_type": "hack",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-08-31T20:48:40+00:00",
-      "raw_text": "North Korean hackers are moving tens of millions on Hyperliquid as Trump pushes to onshore the crypto platform",
-      "impact": {}
-    },
-    {
-      "event_id": "566271c7-96dc-4a58-97ec-ddf5cdcf78bd",
-      "source": "rss:bitcoinmagazine",
-      "title": "Strategy Opposes MSCI Proposal, Says Bitcoin Treasury Firms Are Being Targeted a Second Time",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-treasury-strategy-opposes-msci",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-31T20:44:36+00:00",
-      "raw_text": "Strategy Opposes MSCI Proposal, Says Bitcoin Treasury Firms Are Being Targeted a Second Time\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time-in-Years-as-Bit",
-      "impact": {}
-    },
-    {
-      "event_id": "e6b7fc40-08b7-4fdf-afa9-d97d8d97ad28",
-      "source": "rss:cointelegraph",
-      "title": "Ireland excludes crypto from new tax-advantaged investment accounts",
-      "url": "https://cointelegraph.com/news/ireland-crypto-tax-advantaged-investment-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-31T20:25:25+00:00",
-      "raw_text": "Ireland excludes crypto from new tax-advantaged investment accounts\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ireland excludes crypto from new tax-advantaged investment accounts\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/08/0",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 108,
+        "avg_1h": 0.14,
+        "avg_24h": 0.04,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 175,
-        "avg_1h": 0.04,
+        "count": 180,
+        "avg_1h": 0.11,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 155,
-        "avg_1h": 0.25,
+        "count": 159,
+        "avg_1h": 0.2,
         "avg_24h": -1.91,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 39,
-        "avg_1h": 0.12,
+      "listing": {
+        "count": 11,
+        "avg_1h": 0.02,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 113,
-        "avg_1h": 0.15,
-        "avg_24h": 0.04,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "listing": {
-        "count": 14,
-        "avg_1h": -0.01,
+      "hack": {
+        "count": 38,
+        "avg_1h": 0.12,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
