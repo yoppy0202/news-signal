@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-09T00:09:15.537781+00:00",
+  "generated_at": "2026-09-09T04:37:27.660076+00:00",
   "events": [
+    {
+      "event_id": "11af9b2b-2222-491e-ab17-1e680fbd558f",
+      "source": "rss:theblock",
+      "title": "Pons propels Robinhood Chain fees to record $6 million in daily fees as DEX volume doubles",
+      "url": "https://www.theblock.co/news/ecosystems/2026-09-08-pons-propels-robinhood-chain-fees-record-6-million-daily-fees-dex-volume-doubles-413852",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-08T22:26:02+00:00",
+      "raw_text": "Pons propels Robinhood Chain fees to record $6 million in daily fees as DEX volume doubles\n\nPONS reached an all-time high valuation of over $970 million on Friday, with the token up over 200% in the last week alone.",
+      "impact": {}
+    },
     {
       "event_id": "22a12136-b129-46e6-a1a5-df0e40c0fc49",
       "source": "rss:theblock",
@@ -68,10 +80,16 @@
       "url": "https://decrypt.co/377723/liquid-hack-47m-blockstream-bargains-white-hat",
       "event_type": "hack",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-09-08T20:46:34+00:00",
       "raw_text": "$47M Still Missing After Liquid Hack as Blockstream Bargains With 'White Hats'\n\nThe hackers have returned 3,400 of the roughly 4,000 BTC drained from the sidechain, but about 600 BTC remains outstanding—and some doubt the actors' \"white hat\" claims.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0632,
+        "t_plus_15m": 0.0202,
+        "t_plus_1h": 0.0585
+      }
     },
     {
       "event_id": "7e573e76-62cb-4985-a2ff-68607f44116e",
@@ -80,10 +98,16 @@
       "url": "https://bitcoinmagazine.com/news/coincorner-debuts-multisig-vault",
       "event_type": "hack",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-09-08T20:16:20+00:00",
       "raw_text": "CoinCorner Launches Lloyd’s-Insured Multisig Bitcoin Vault with AnchorWatch\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-11.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"ht",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0666,
+        "t_plus_15m": 0.0996,
+        "t_plus_1h": 0.1051
+      }
     },
     {
       "event_id": "b67967d6-9772-4663-9ac4-4d7b97ecf7ea",
@@ -172,7 +196,8 @@
       "impact": {
         "t_plus_5m": 0.2018,
         "t_plus_15m": 0.3805,
-        "t_plus_1h": 0.0137
+        "t_plus_1h": 0.0137,
+        "t_plus_4h": 0.0997
       }
     },
     {
@@ -190,7 +215,8 @@
       "impact": {
         "t_plus_5m": 0.2117,
         "t_plus_15m": 0.2018,
-        "t_plus_1h": 0.313
+        "t_plus_1h": 0.313,
+        "t_plus_4h": 0.2092
       }
     },
     {
@@ -6422,32 +6448,20 @@
       "timestamp_utc": "2026-08-31T11:25:34+00:00",
       "raw_text": "Here's 1 metric on U.S. debt that makes bitcoin's bull case look stronger than ever",
       "impact": {}
-    },
-    {
-      "event_id": "b700b163-c699-4c83-ab16-d1a0e4dbda15",
-      "source": "rss:cointelegraph",
-      "title": "Hyperliquid, Pump.fun account for nearly 90% of record $638M crypto buybacks: FT",
-      "url": "https://cointelegraph.com/news/hyperliquid-pumpfun-90-record-638m-crypto-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-08-31T11:21:57+00:00",
-      "raw_text": "Hyperliquid, Pump.fun account for nearly 90% of record $638M crypto buybacks: FT\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hyperliquid, Pump.fun account for nearly 90% of record $638M crypto buybacks: FT\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 120,
-        "avg_1h": 0.12,
-        "avg_24h": 0.04,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
         "count": 149,
         "avg_1h": 0.25,
         "avg_24h": -1.53,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 120,
+        "avg_1h": 0.12,
+        "avg_24h": 0.04,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
@@ -6458,7 +6472,7 @@
       },
       "hack": {
         "count": 38,
-        "avg_1h": 0.13,
+        "avg_1h": 0.12,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
