@@ -1,6 +1,90 @@
 {
-  "generated_at": "2026-09-10T18:22:19.231347+00:00",
+  "generated_at": "2026-09-10T21:34:51.236920+00:00",
   "events": [
+    {
+      "event_id": "b9f2b8c5-7535-4420-8ac9-14e9ed672a7a",
+      "source": "rss:theblock",
+      "title": "Senate Republicans unveil revised crypto bill ahead of key Clarity Act vote next week",
+      "url": "https://www.theblock.co/news/regulation/2026-09-10-senate-republicans-unveil-revised-crypto-bill-ahead-of-key-clarity-act-vote-next-week-414180",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-10T19:42:06+00:00",
+      "raw_text": "Senate Republicans unveil revised crypto bill ahead of key Clarity Act vote next week\n\nAhead of a pivotal initial vote next week, Senate Republicans released a revised version of landmark cryptocurrency legislation.",
+      "impact": {}
+    },
+    {
+      "event_id": "b7e8f179-b251-42fc-ad91-db62c7f9c8c4",
+      "source": "rss:coindesk",
+      "title": "Why a new SEC plan could ease a legal headache for tokenized securities",
+      "url": "https://www.coindesk.com/business/2026/09/10/why-a-new-sec-plan-could-end-the-legal-headaches-of-holding-tokenized-securities",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-10T19:01:30+00:00",
+      "raw_text": "Why a new SEC plan could ease a legal headache for tokenized securities",
+      "impact": {}
+    },
+    {
+      "event_id": "e5fe7db4-57c9-4cc3-8b48-48e70b664aac",
+      "source": "rss:decrypt",
+      "title": "Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up",
+      "url": "https://decrypt.co/377601/coinbase-wallet-rebrand-robinhood-chain",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-10T18:51:04+00:00",
+      "raw_text": "Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up\n\nHead of Product Ryan Kass says the return to Coinbase Wallet reflects a broader trading strategy, with the self-custody app serving as a testing ground for new assets and experiences.",
+      "impact": {}
+    },
+    {
+      "event_id": "0275c043-6ab3-4dab-b54f-d14a1f7fe476",
+      "source": "rss:decrypt",
+      "title": "Bitcoin Rally Cools, But a Golden Cross Is Coming",
+      "url": "https://decrypt.co/377903/bitcoin-price-golden-cross-coming",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-10T18:46:04+00:00",
+      "raw_text": "Bitcoin Rally Cools, But a Golden Cross Is Coming\n\nBitcoin couldn't escape today's inflation-driven selloff, but a bearish pattern on its chart is about to flip for the first time since November.",
+      "impact": {}
+    },
+    {
+      "event_id": "42383804-a403-4cdd-8764-6153462a6aef",
+      "source": "rss:decrypt",
+      "title": "Banks Have Minutes, Not Weeks, to Fix Flaws as AI Speeds Up Attacks: BIS",
+      "url": "https://decrypt.co/377902/ai-hacks-shrinking-bank-time-fix-flaws-bis",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-10T18:13:13+00:00",
+      "raw_text": "Banks Have Minutes, Not Weeks, to Fix Flaws as AI Speeds Up Attacks: BIS\n\nThe Bank for International Settlements says routine patching schedules are increasingly inadequate and cites guidance urging banks to accept planned downtime for urgent fixes.",
+      "impact": {}
+    },
+    {
+      "event_id": "94d32f46-42f7-4cc3-8989-47e4158813fa",
+      "source": "rss:theblock",
+      "title": "Coinbase rebrands Base App back to Coinbase Wallet after just over a year as social experiment falls short",
+      "url": "https://www.theblock.co/news/defi/2026-09-10-coinbase-rebrands-base-app-back-to-coinbase-wallet-after-just-over-a-year-as-social-experiment-falls-short-414115",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-10T18:00:00+00:00",
+      "raw_text": "Coinbase rebrands Base App back to Coinbase Wallet after just over a year as social experiment falls short\n\nThe wallet now supports more than 10 networks, including Robinhood Chain and Monad, plus perps, prediction markets, and tokenized stocks.",
+      "impact": {}
+    },
+    {
+      "event_id": "e3759470-8a33-4837-876f-dd6b9b2ce8fd",
+      "source": "rss:cointelegraph",
+      "title": "UK House of Lords backs mandatory digital asset strategy over Labour position",
+      "url": "https://cointelegraph.com/news/uk-house-of-lords-backs-mandatory-digital-asset-strategy-in-194138-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-10T17:54:12+00:00",
+      "raw_text": "UK House of Lords backs mandatory digital asset strategy over Labour position\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK House of Lords backs mandatory digital asset strategy over Labour position\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti",
+      "impact": {}
+    },
     {
       "event_id": "8fdfcb62-936b-4d2b-85b5-b8c5d4b5629c",
       "source": "rss:coindesk",
@@ -80,10 +164,16 @@
       "url": "https://bitcoinmagazine.com/news/bitcoin-bottom-is-in-says-brian-armstrong",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-09-10T16:24:43+00:00",
       "raw_text": "Coinbase CEO Brian Armstrong Says Clarity Act Will Pass — And That Bitcoin Bottom Is In\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/image6_1920x1080.png\" style=\"display: block; margin: 1em auto;\"",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.5711,
+        "t_plus_15m": -0.4831,
+        "t_plus_1h": -0.1191
+      }
     },
     {
       "event_id": "750f6388-7428-42d9-9069-7b5bdc71d99c",
@@ -6265,122 +6355,38 @@
       "timestamp_utc": "2026-09-02T12:00:00+00:00",
       "raw_text": "Thai businessmen sue Tether for freezing $42M in $61M pig butchering case\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Thai businessmen sue Tether for freezing $42M in $61M pig butchering case\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
       "impact": {}
-    },
-    {
-      "event_id": "fcffcf5d-48cf-48c5-8b66-197f00b35199",
-      "source": "rss:decrypt",
-      "title": "Morning Minute: Bitcoin Enters ‘Rektember’ After Best August Since 2017",
-      "url": "https://decrypt.co/377159/morning-minute-bitcoin-enters-rektember-after-best-august-since-2017",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-02T11:55:48+00:00",
-      "raw_text": "Morning Minute: Bitcoin Enters ‘Rektember’ After Best August Since 2017\n\nSo far, Rektember is living up to its name as Bitcoin slips. Will this September follow the historical averages, or break the trend?",
-      "impact": {}
-    },
-    {
-      "event_id": "9e3a600b-04da-49b4-a96f-e27edce999b0",
-      "source": "rss:coindesk",
-      "title": "Capital B aims to add 376 BTC to bitcoin treasury following $8.8 million Adam Back investment",
-      "url": "https://www.coindesk.com/business/2026/08/29/capital-b-aims-to-add-376-btc-to-bitcoin-treasury-following-usd8-8-million-adam-back-investment",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-02T11:45:16+00:00",
-      "raw_text": "Capital B aims to add 376 BTC to bitcoin treasury following $8.8 million Adam Back investment",
-      "impact": {}
-    },
-    {
-      "event_id": "08ac888a-0021-4445-a2c0-c8e1918b7e51",
-      "source": "rss:theblock",
-      "title": "Japan-listed Remixpoint sells all ETH, SOL, XRP and DOGE holdings in shift to bitcoin-only crypto strategy",
-      "url": "https://www.theblock.co/news/business/2026-09-02-japan-listed-remixpoint-sells-all-eth-sol-xrp-and-doge-holdings-in-shift-to-bitcoin-only-crypto-strategy-413333",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-02T11:32:55+00:00",
-      "raw_text": "Japan-listed Remixpoint sells all ETH, SOL, XRP and DOGE holdings in shift to bitcoin-only crypto strategy\n\nBitcoin is now Remixpoint's only cryptocurrency holding, with approximately 1,506 BTC, worth around $115 million.",
-      "impact": {}
-    },
-    {
-      "event_id": "08b11243-fe94-4f43-9887-3bdebc1323fd",
-      "source": "rss:decrypt",
-      "title": "Sality Botnet Dismantled After Eight Years of Stealing Bitcoin and Ethereum",
-      "url": "https://decrypt.co/377156/sality-botnet-dismantled-after-eight-years-of-stealing-bitcoin-and-ethereum",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-02T11:30:45+00:00",
-      "raw_text": "Sality Botnet Dismantled After Eight Years of Stealing Bitcoin and Ethereum\n\nCrowdStrike and the DOJ isolated more than 15,000 infected machines in a malware takedown spanning four countries.",
-      "impact": {}
-    },
-    {
-      "event_id": "4920007d-8200-4f0b-9922-355bf8dcadd6",
-      "source": "rss:coindesk",
-      "title": "A Fed rate increase would be a mistake, some observers say as bitcoin, gold, stocks fall",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/02/a-fed-rate-increase-would-be-a-mistake-some-observers-say-as-bitcoin-gold-stocks-fall",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-02T11:14:58+00:00",
-      "raw_text": "A Fed rate increase would be a mistake, some observers say as bitcoin, gold, stocks fall",
-      "impact": {}
-    },
-    {
-      "event_id": "2a4dd6d0-f1bb-456f-a70b-90963e354ba1",
-      "source": "rss:coindesk",
-      "title": "Lawsuit challenges Tether for allegedly freezing $42.4 million USDT before U.S. warrant",
-      "url": "https://www.coindesk.com/business/2026/09/02/tether-sued-over-usd42-4-million-usdt-freeze-allegedly-made-months-before-u-s-warrant",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-02T11:03:46+00:00",
-      "raw_text": "Lawsuit challenges Tether for allegedly freezing $42.4 million USDT before U.S. warrant",
-      "impact": {}
-    },
-    {
-      "event_id": "88eaa5e8-3b47-4f35-aa4b-7fa2d2ece372",
-      "source": "rss:cointelegraph",
-      "title": "Thailand adopts crypto Travel Rule with self-custodial wallet checks",
-      "url": "https://cointelegraph.com/news/thailand-crypto-travel-rule-self-custodial-wallet-checks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-02T10:56:15+00:00",
-      "raw_text": "Thailand adopts crypto Travel Rule with self-custodial wallet checks\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Thailand adopts crypto Travel Rule with self-custodial wallet checks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 163,
-        "avg_1h": 0.13,
-        "avg_24h": -2.45,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "listing": {
-        "count": 12,
-        "avg_1h": -0.06,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 183,
+        "count": 182,
         "avg_1h": 0.11,
         "avg_24h": -1.89,
         "win_rate_1h_gt5pct": 0.0
       },
+      "macro": {
+        "count": 99,
+        "avg_1h": -0.3,
+        "avg_24h": -4.97,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 164,
+        "avg_1h": 0.13,
+        "avg_24h": -2.45,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
-        "count": 39,
+        "count": 40,
         "avg_1h": 0.12,
         "avg_24h": -0.33,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 99,
-        "avg_1h": -0.33,
-        "avg_24h": -4.97,
+      "listing": {
+        "count": 11,
+        "avg_1h": -0.06,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
