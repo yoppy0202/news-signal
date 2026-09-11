@@ -1,6 +1,114 @@
 {
-  "generated_at": "2026-09-10T21:34:51.236920+00:00",
+  "generated_at": "2026-09-11T00:05:02.276812+00:00",
   "events": [
+    {
+      "event_id": "ee0b80aa-a10e-4065-b681-bbeab0214972",
+      "source": "rss:bitcoinmagazine",
+      "title": "Ringleader of $245M Crypto Theft Pleads Guilty",
+      "url": "https://bitcoinmagazine.com/news/ringleader-in-bitcoin-theft-guilty",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-10T22:24:40+00:00",
+      "raw_text": "Ringleader of $245M Crypto Theft Pleads Guilty\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-5.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/ne",
+      "impact": {}
+    },
+    {
+      "event_id": "a1ab922f-98a4-4f33-8112-f62e680ce314",
+      "source": "rss:bitcoinmagazine",
+      "title": "Trezor Reveals Another Data Breach After Scammers Target Marketing Platform",
+      "url": "https://bitcoinmagazine.com/news/trezor-reveals-another-data-breach",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-10T21:28:55+00:00",
+      "raw_text": "Trezor Reveals Another Data Breach After Scammers Target Marketing Platform\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-16.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"ht",
+      "impact": {}
+    },
+    {
+      "event_id": "ff2e7de8-75d7-4cf5-a362-5c73ac269166",
+      "source": "rss:decrypt",
+      "title": "Senate Republicans Release Revised Clarity Act Ahead of September 15 Vote",
+      "url": "https://decrypt.co/377928/senate-republicans-revised-clarity-act-draft",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-10T21:18:48+00:00",
+      "raw_text": "Senate Republicans Release Revised Clarity Act Ahead of September 15 Vote\n\nThe draft adds registration requirements for controlled trading protocols and leaves its ethics provisions largely unchanged.",
+      "impact": {}
+    },
+    {
+      "event_id": "68a73578-4e0e-4670-a220-945d35bbbaf7",
+      "source": "rss:decrypt",
+      "title": "DeepSeek's New Model Nearly Matches GPT-6 Astra on Design—at 1.4% of the Cost",
+      "url": "https://decrypt.co/377917/deepseek-openai-gpt-6-astra-design-benchmark",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-10T21:16:03+00:00",
+      "raw_text": "DeepSeek's New Model Nearly Matches GPT-6 Astra on Design—at 1.4% of the Cost\n\nOpenDesign put 13 AI models through the same design tasks. DeepSeek V4.1 Flash landed a point and a half behind GPT-6 Astra and roughly 70 times cheaper.",
+      "impact": {}
+    },
+    {
+      "event_id": "744bd2c0-e5d5-4691-b007-2458c3c2c3f9",
+      "source": "rss:decrypt",
+      "title": "AI Agents Just Slashed the Cost of a Quantum Attack on Bitcoin",
+      "url": "https://decrypt.co/377925/ai-agents-slash-cost-quantum-attack-bitcoin",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-10T20:34:50+00:00",
+      "raw_text": "AI Agents Just Slashed the Cost of a Quantum Attack on Bitcoin\n\nThe ECDSA.Fail challenge cut a resource benchmark for one component of a potential quantum attack by 86%.",
+      "impact": {}
+    },
+    {
+      "event_id": "17db1d28-f011-4e30-8349-ecd3f0766bdd",
+      "source": "rss:theblock",
+      "title": "Bitwise shuts down Dogecoin ETF less than a year after launch",
+      "url": "https://www.theblock.co/news/markets/2026-09-10-bitwise-shuts-down-dogecoin-etf-less-than-a-year-after-launch-414184",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-10T20:28:46+00:00",
+      "raw_text": "Bitwise shuts down Dogecoin ETF less than a year after launch\n\nBWOW generated about $3 million in trading volume when it launched in November 2025, but has failed to come anywhere close ever since.",
+      "impact": {}
+    },
+    {
+      "event_id": "5ca7ae37-0f36-426a-845e-47edb4cbf983",
+      "source": "rss:bitcoinmagazine",
+      "title": "Updated Crypto Clarity Act Starts Circulating Days Before Key Vote",
+      "url": "https://bitcoinmagazine.com/news/updated-clarity-act-starts-circulating",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-10T20:23:59+00:00",
+      "raw_text": "Updated Crypto Clarity Act Starts Circulating Days Before Key Vote\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Younger-Democrats-Understand-Clarity-Act.jpg\" style=\"display: block; margin: 1em aut",
+      "impact": {}
+    },
+    {
+      "event_id": "759d96a6-cbc2-4507-8a85-1ce2bb8b2530",
+      "source": "rss:coindesk",
+      "title": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
+      "url": "https://www.coindesk.com/policy/2026/09/10/new-clarity-act-text-tweaks-defi-credit-union-provisions-but-road-ahead-for-bill-remains-murky",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-10T20:21:57+00:00",
+      "raw_text": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
+      "impact": {}
+    },
+    {
+      "event_id": "6d4f886a-8087-44d5-9e43-500f52c23d1b",
+      "source": "rss:cointelegraph",
+      "title": "ESMA warns growing crypto ties could amplify risks to traditional finance",
+      "url": "https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-10T20:10:29+00:00",
+      "raw_text": "ESMA warns growing crypto ties could amplify risks to traditional finance\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ESMA warns growing crypto ties could amplify risks to traditional finance\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
+      "impact": {}
+    },
     {
       "event_id": "b9f2b8c5-7535-4420-8ac9-14e9ed672a7a",
       "source": "rss:theblock",
@@ -172,7 +280,8 @@
       "impact": {
         "t_plus_5m": -0.5711,
         "t_plus_15m": -0.4831,
-        "t_plus_1h": -0.1191
+        "t_plus_1h": -0.1191,
+        "t_plus_4h": -0.1104
       }
     },
     {
@@ -6219,168 +6328,32 @@
       "timestamp_utc": "2026-09-02T13:40:03+00:00",
       "raw_text": "Sui DeFi protocol Full Sail to wind down after Switchboard incident\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Sui DeFi protocol Full Sail to wind down after Switchboard incident\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/0",
       "impact": {}
-    },
-    {
-      "event_id": "d18a089d-f58d-4e0e-b7da-86bcf4aea80b",
-      "source": "rss:cointelegraph",
-      "title": "BTC will hit $1M by 2030... but Arthur Hayes is buying ETH instead",
-      "url": "https://cointelegraph.com/magazine/btc-will-hit-1m-by-2030-but-arthur-hayes-is-buying-eth-instead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC",
-        "ETH"
-      ],
-      "timestamp_utc": "2026-09-02T13:30:00+00:00",
-      "raw_text": "BTC will hit $1M by 2030... but Arthur Hayes is buying ETH instead\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BTC will hit $1M by 2030... but Arthur Hayes is buying ETH instead \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01",
-      "impact": {
-        "t_plus_5m": 0.1162,
-        "t_plus_15m": 0.8356,
-        "t_plus_1h": 0.8273,
-        "t_plus_4h": 0.5365
-      }
-    },
-    {
-      "event_id": "8f1afec4-6766-4763-81c0-4859f6cb2915",
-      "source": "rss:coindesk",
-      "title": "CrowdStrike and federal authorities dismantle Russian malware that secretly stole crypto for 8 years",
-      "url": "https://www.coindesk.com/tech/2026/09/02/crowdstrike-and-federal-authorities-dismantle-russian-malware-that-secretly-stole-crypto-for-8-years",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-02T13:14:47+00:00",
-      "raw_text": "CrowdStrike and federal authorities dismantle Russian malware that secretly stole crypto for 8 years",
-      "impact": {}
-    },
-    {
-      "event_id": "be7afb87-fc34-4898-b707-42b4b86b5d9f",
-      "source": "rss:cointelegraph",
-      "title": "Hashkey joins DTCC working group as first Asian crypto service provider",
-      "url": "https://cointelegraph.com/news/hashkey-dtcc-first-asian-crypto-service-provider?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-02T13:11:25+00:00",
-      "raw_text": "Hashkey joins DTCC working group as first Asian crypto service provider\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hashkey joins DTCC working group as first Asian crypto service provider\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2",
-      "impact": {}
-    },
-    {
-      "event_id": "dc0120a3-5661-49f3-809c-b3e77dd98ee0",
-      "source": "rss:theblock",
-      "title": "Wyoming expands Chainlink partnership with onchain reserve verification for FRNT",
-      "url": "https://www.theblock.co/news/ecosystems/2026-09-02-wyoming-expands-chainlink-partnership-onchain-reserve-verification-frnt-413294",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-02T13:05:03+00:00",
-      "raw_text": "Wyoming expands Chainlink partnership with onchain reserve verification for FRNT\n\nLast month, Wyoming’s Stable Token Commission fully migrated FRNT from LayerZero to Chainlink CCIP after a security review.",
-      "impact": {}
-    },
-    {
-      "event_id": "44c67068-c381-4523-a09a-e9ca8ce735ff",
-      "source": "rss:coindesk",
-      "title": "The token supercycle: everything of value is becoming programmable",
-      "url": "https://www.coindesk.com/opinion/2026/09/02/the-token-supercycle-everything-of-value-is-becoming-programmable",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-02T13:00:00+00:00",
-      "raw_text": "The token supercycle: everything of value is becoming programmable",
-      "impact": {}
-    },
-    {
-      "event_id": "db562aa2-8760-4dbb-858a-c158b80ce1b5",
-      "source": "rss:theblock",
-      "title": "Adam Back invests another $8.8 million in Capital B as bitcoin treasury firm targets 3,521 BTC",
-      "url": "https://www.theblock.co/news/business/2026-09-02-adam-back-invests-another-8-8-million-in-capital-b-as-bitcoin-treasury-firm-targets-3521-btc-413339",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-09-02T12:31:27+00:00",
-      "raw_text": "Adam Back invests another $8.8 million in Capital B as bitcoin treasury firm targets 3,521 BTC\n\nCapital B raised $8.8 million from Adam Back in a private placement as the French bitcoin treasury firm targets 3,521 BTC.",
-      "impact": {
-        "t_plus_5m": 0.3082,
-        "t_plus_15m": 0.1732,
-        "t_plus_1h": 0.2542,
-        "t_plus_4h": 1.0302
-      }
-    },
-    {
-      "event_id": "1d35ce78-963e-46eb-a473-e90e72ac5a89",
-      "source": "rss:coindesk",
-      "title": "The bearish 'Bart Simpson' pattern is back as bitcoin and XRP prices pull back",
-      "url": "https://www.coindesk.com/markets/2026/09/02/bitcoin-flashes-the-bart-simpsom-pattern-analyst-debate-whether-it-will-actually-form",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-09-02T12:13:26+00:00",
-      "raw_text": "The bearish 'Bart Simpson' pattern is back as bitcoin and XRP prices pull back",
-      "impact": {
-        "t_plus_5m": -0.3552,
-        "t_plus_15m": -0.0297,
-        "t_plus_1h": -0.6322,
-        "t_plus_4h": 0.6324
-      }
-    },
-    {
-      "event_id": "e0a2bbfd-f87b-4bb2-baa8-ee5f5fa985b2",
-      "source": "rss:cointelegraph",
-      "title": "Japan’s Remixpoint dumps altcoins, leaves 1,506 BTC as sole crypto bet",
-      "url": "https://cointelegraph.com/news/remixpoint-dumps-altcoins-1506-btc-sole-crypto-bet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-09-02T12:00:00+00:00",
-      "raw_text": "Japan’s Remixpoint dumps altcoins, leaves 1,506 BTC as sole crypto bet\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Japan’s Remixpoint dumps altcoins, leaves 1,506 BTC as sole crypto bet\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/202",
-      "impact": {
-        "t_plus_5m": 0.0578,
-        "t_plus_15m": 0.153,
-        "t_plus_1h": -0.0725
-      }
-    },
-    {
-      "event_id": "0dd144c4-3bc0-40e3-827f-9174a9442e20",
-      "source": "rss:cointelegraph",
-      "title": "Thai businessmen sue Tether for freezing $42M in $61M pig butchering case",
-      "url": "https://cointelegraph.com/news/thai-sue-tether-freezing-61m-pig-butchering-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-02T12:00:00+00:00",
-      "raw_text": "Thai businessmen sue Tether for freezing $42M in $61M pig butchering case\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Thai businessmen sue Tether for freezing $42M in $61M pig butchering case\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 44,
+        "avg_1h": 0.12,
+        "avg_24h": -0.33,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 182,
+        "count": 179,
         "avg_1h": 0.11,
         "avg_24h": -1.89,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 163,
+        "avg_1h": 0.13,
+        "avg_24h": -2.45,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
         "count": 99,
         "avg_1h": -0.3,
         "avg_24h": -4.97,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 164,
-        "avg_1h": 0.13,
-        "avg_24h": -2.45,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 40,
-        "avg_1h": 0.12,
-        "avg_24h": -0.33,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
