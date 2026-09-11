@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-09-11T18:25:50.231344+00:00",
+  "generated_at": "2026-09-11T21:40:54.967451+00:00",
   "events": [
+    {
+      "event_id": "16b99fa3-83db-463a-b282-6f3f4024bd19",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin Suisse to shift up to half of Swiss jobs abroad",
+      "url": "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-11T19:46:24+00:00",
+      "raw_text": "Bitcoin Suisse to shift up to half of Swiss jobs abroad\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin Suisse to shift up to half of Swiss jobs abroad\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28YVKDSD0D0GM8BAF7TVC4",
+      "impact": {}
+    },
+    {
+      "event_id": "f78fb89a-0007-4c8e-b4d7-a17bdbbe7bd5",
+      "source": "rss:bitcoinmagazine",
+      "title": "Italy’s Second Biggest Bank UniCredit Is Weighting up Crypto Custody: Report",
+      "url": "https://bitcoinmagazine.com/news/unicredit-working-on-crypto-custody",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-11T18:47:07+00:00",
+      "raw_text": "Italy’s Second Biggest Bank UniCredit Is Weighting up Crypto Custody: Report\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-6.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"",
+      "impact": {}
+    },
+    {
+      "event_id": "de4af2bb-1a8e-43b2-87a1-0f45af2ce0c3",
+      "source": "rss:cointelegraph",
+      "title": "Hyperliquid’s biggest risk is regulation, says Ran Neuner",
+      "url": "https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-11T18:45:15+00:00",
+      "raw_text": "Hyperliquid’s biggest risk is regulation, says Ran Neuner\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hyperliquid’s biggest risk is regulation, says Ran Neuner\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28T3HE65MV02Y41NGX",
+      "impact": {}
+    },
+    {
+      "event_id": "22570eb1-df7d-468f-b15c-d43788f822ec",
+      "source": "rss:decrypt",
+      "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
+      "url": "https://decrypt.co/377990/openai-congress-ai-slowdown-legal",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-11T18:16:04+00:00",
+      "raw_text": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal\n\nThe company is seeking clarity on antitrust rules as researchers call for restraint and experts warn that competition encourages companies to overlook risks.",
+      "impact": {}
+    },
     {
       "event_id": "085b7ce1-2f5c-4885-b9cf-013f73156bb8",
       "source": "rss:theblock",
@@ -98,6 +146,18 @@
       "impact": {}
     },
     {
+      "event_id": "0075f356-a6e1-4ef5-9d31-38a3b546a517",
+      "source": "rss:bitcoinmagazine",
+      "title": "Bitcoin Price Spikes, Shrugs off Hot US Inflation Data",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-spikes-on-hot-inflation-data",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-11T15:46:05+00:00",
+      "raw_text": "Bitcoin Price Spikes, Shrugs off Hot US Inflation Data\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-17.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine",
+      "impact": {}
+    },
+    {
       "event_id": "bde4271e-03f4-4478-b1b2-e9e60c1b8dcd",
       "source": "rss:bitcoinmagazine",
       "title": "Bitcoin Price Spikes, Shrugs off Hot US Inflation Data",
@@ -164,10 +224,17 @@
       "url": "https://decrypt.co/377959/blockstream-refuses-ransom-for-return-of-47m-in-bitcoin-from-liquid-hack-it-is-theft",
       "event_type": "hack",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-09-11T14:17:38+00:00",
       "raw_text": "Blockstream Refuses Ransom for Return of $47M in Bitcoin from Liquid Hack: 'It Is Theft'\n\nWith 598.5 BTC still outstanding, the company says it will go to law enforcement should the funds not be returned.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 1.8366,
+        "t_plus_15m": 1.517,
+        "t_plus_1h": 1.3793,
+        "t_plus_4h": -0.5
+      }
     },
     {
       "event_id": "f71b0619-cdad-49a9-80c2-2c29b4f0c598",
@@ -256,7 +323,8 @@
       "impact": {
         "t_plus_5m": -2.9705,
         "t_plus_15m": -2.9225,
-        "t_plus_1h": -2.1097
+        "t_plus_1h": -2.1097,
+        "t_plus_4h": -1.6616
       }
     },
     {
@@ -322,7 +390,8 @@
       "impact": {
         "t_plus_5m": -3.1013,
         "t_plus_15m": -3.1132,
-        "t_plus_1h": -2.8825
+        "t_plus_1h": -2.8825,
+        "t_plus_4h": -0.7506
       }
     },
     {
@@ -335,6 +404,18 @@
       "tokens": [],
       "timestamp_utc": "2026-09-11T11:20:26+00:00",
       "raw_text": "Rising yields, oil prices leave bitcoin vulnerable ahead of U.S. inflation report",
+      "impact": {}
+    },
+    {
+      "event_id": "8979d6a0-32bb-4114-803e-7d22492da403",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin gives up early gains, with markets moving to price in multiple rate hikes",
+      "url": "https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-11T11:04:12+00:00",
+      "raw_text": "Live updates: Bitcoin gives up early gains, with markets moving to price in multiple rate hikes",
       "impact": {}
     },
     {
@@ -888,7 +969,8 @@
         "t_plus_5m": -0.5711,
         "t_plus_15m": -0.4831,
         "t_plus_1h": -0.1191,
-        "t_plus_4h": -0.1104
+        "t_plus_4h": -0.1104,
+        "t_plus_24h": 0.4503
       }
     },
     {
@@ -6223,99 +6305,20 @@
       "timestamp_utc": "2026-09-03T10:42:15+00:00",
       "raw_text": "Live updates: Bitcoin rises to $78,000, with next week's CPI report looming large",
       "impact": {}
-    },
-    {
-      "event_id": "280b58b0-d99f-4b26-a990-861ed25832ca",
-      "source": "rss:coindesk",
-      "title": "Bitcoin recovers toward $78,000 as pons and arbitrum extend Robinhood Chain rally",
-      "url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-recovers-toward-usd78-000-as-pons-and-arbitrum-extend-robinhood-chain-rally",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-03T10:29:52+00:00",
-      "raw_text": "Bitcoin recovers toward $78,000 as pons and arbitrum extend Robinhood Chain rally",
-      "impact": {}
-    },
-    {
-      "event_id": "7448fed2-dd3f-4bf7-b650-148fc3c46118",
-      "source": "rss:cointelegraph",
-      "title": "Standard Chartered launches spot Bitcoin and Ether trading in UAE",
-      "url": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-03T10:15:34+00:00",
-      "raw_text": "Standard Chartered launches spot Bitcoin and Ether trading in UAE\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Standard Chartered launches spot Bitcoin and Ether trading in UAE\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1K",
-      "impact": {}
-    },
-    {
-      "event_id": "3df77890-0aa2-47f4-bcae-dfa493919ae6",
-      "source": "rss:coindesk",
-      "title": "Australia is cracking down on crypto businesses as its strict new regulatory deadline nears",
-      "url": "https://www.coindesk.com/business/2026/09/03/australia-is-cracking-down-on-crypto-businesses-as-its-strict-new-regulatory-deadline-nears",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-03T10:09:31+00:00",
-      "raw_text": "Australia is cracking down on crypto businesses as its strict new regulatory deadline nears",
-      "impact": {}
-    },
-    {
-      "event_id": "1f88da80-e8fd-448d-8271-ceaf5eeccf4c",
-      "source": "rss:decrypt",
-      "title": "Ukraine Busts Kyiv Crypto Drainer Ring Moving Up to $1M Monthly",
-      "url": "https://decrypt.co/377245/ukraine-busts-kyiv-crypto-drainer-ring-moving-up-to-1m-monthly",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-03T09:53:41+00:00",
-      "raw_text": "Ukraine Busts Kyiv Crypto Drainer Ring Moving Up to $1M Monthly\n\nFake investment ads on Telegram channels funneled EU victims to a lookalike exchange that emptied their wallets.",
-      "impact": {}
-    },
-    {
-      "event_id": "32e51475-70e5-4338-ae53-3417b118654a",
-      "source": "rss:cointelegraph",
-      "title": "Coldcard hacker swaps stolen Bitcoin for ETH via THORChain",
-      "url": "https://cointelegraph.com/news/coldcard-hacker-swaps-stolen-bitcoin-eth-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-09-03T09:31:07+00:00",
-      "raw_text": "Coldcard hacker swaps stolen Bitcoin for ETH via THORChain\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard hacker swaps stolen Bitcoin for ETH via THORChain\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1K817QH0K358EBX7",
-      "impact": {
-        "t_plus_5m": 0.0025,
-        "t_plus_15m": -0.059,
-        "t_plus_1h": -0.0899,
-        "t_plus_4h": 0.9248
-      }
-    },
-    {
-      "event_id": "6ff2e738-f3e6-4839-8fc6-97e0438762e7",
-      "source": "rss:cointelegraph",
-      "title": "Kalshi seeks CFTC approval for WTI crude perpetual futures: Report",
-      "url": "https://cointelegraph.com/news/kalshi-cftc-greenlight-regulated-wti-oil-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-03T09:28:34+00:00",
-      "raw_text": "Kalshi seeks CFTC approval for WTI crude perpetual futures: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi seeks CFTC approval for WTI crude perpetual futures: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 104,
-        "avg_1h": -0.22,
-        "avg_24h": -4.97,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 184,
+        "count": 183,
         "avg_1h": 0.11,
         "avg_24h": -1.89,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 106,
+        "avg_1h": -0.22,
+        "avg_24h": -2.26,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
@@ -6325,8 +6328,8 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 47,
-        "avg_1h": -0.27,
+        "count": 46,
+        "avg_1h": -0.16,
         "avg_24h": -0.33,
         "win_rate_1h_gt5pct": 0.0
       },
