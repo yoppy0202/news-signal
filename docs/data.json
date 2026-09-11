@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-11T00:05:02.276812+00:00",
+  "generated_at": "2026-09-11T04:31:14.355929+00:00",
   "events": [
+    {
+      "event_id": "37f1b3b1-f6d4-4fdf-b202-8a884f861b49",
+      "source": "rss:cointelegraph",
+      "title": "Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express",
+      "url": "https://cointelegraph.com/magazine/metaplanet-equity-backlash-se-asia-crypto-funding-doubles-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-10T23:21:26+00:00",
+      "raw_text": "Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
+      "impact": {}
+    },
     {
       "event_id": "ee0b80aa-a10e-4065-b681-bbeab0214972",
       "source": "rss:bitcoinmagazine",
@@ -6316,32 +6328,20 @@
       "timestamp_utc": "2026-09-02T14:16:44+00:00",
       "raw_text": "AI Billionaires Fund Ad Blitz as Data Center Opposition Hits 61%\n\nMarc Andreessen, Ben Horowitz and OpenAI's Greg Brockman have backed the super PAC behind the campaign, which faces surging opposition.",
       "impact": {}
-    },
-    {
-      "event_id": "3510ff58-f550-43b7-884d-f76ce01ecf47",
-      "source": "rss:cointelegraph",
-      "title": "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
-      "url": "https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-02T13:40:03+00:00",
-      "raw_text": "Sui DeFi protocol Full Sail to wind down after Switchboard incident\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Sui DeFi protocol Full Sail to wind down after Switchboard incident\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/0",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "hack": {
-        "count": 44,
-        "avg_1h": 0.12,
-        "avg_24h": -0.33,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 179,
+        "count": 180,
         "avg_1h": 0.11,
         "avg_24h": -1.89,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 43,
+        "avg_1h": 0.12,
+        "avg_24h": -0.33,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
