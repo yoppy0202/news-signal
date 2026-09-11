@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-09-11T04:31:14.355929+00:00",
+  "generated_at": "2026-09-11T09:35:09.793493+00:00",
   "events": [
+    {
+      "event_id": "22655a5e-1178-40ab-8307-f432b56408a4",
+      "source": "rss:coindesk",
+      "title": "India starts tokenizing $620 billion corporate bond market with digital rupee settlement",
+      "url": "https://www.coindesk.com/markets/2026/09/11/india-starts-tokenizing-usd620-billion-corporate-bond-market-with-digital-rupee-settlement",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-11T05:13:15+00:00",
+      "raw_text": "India starts tokenizing $620 billion corporate bond market with digital rupee settlement",
+      "impact": {}
+    },
+    {
+      "event_id": "c2cd48e4-f6bd-4ed7-9bd0-caaa43075ede",
+      "source": "rss:coindesk",
+      "title": "Bitcoin below $77,000, Zcash leads losses as traders bet on a Fed rate hike",
+      "url": "https://www.coindesk.com/markets/2026/09/11/bitcoin-below-usd77-000-zcash-leads-losses-as-traders-bet-on-a-fed-rate-hike",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-11T04:46:15+00:00",
+      "raw_text": "Bitcoin below $77,000, Zcash leads losses as traders bet on a Fed rate hike",
+      "impact": {}
+    },
+    {
+      "event_id": "0ae27965-00aa-4530-8bc6-6545b1591dc4",
+      "source": "rss:coindesk",
+      "title": "Ripple puts AI agents inside its $1 billion corporate treasury bet",
+      "url": "https://www.coindesk.com/markets/2026/09/11/ripple-puts-ai-agents-inside-its-usd1-billion-corporate-treasury-bet",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-11T04:25:21+00:00",
+      "raw_text": "Ripple puts AI agents inside its $1 billion corporate treasury bet",
+      "impact": {}
+    },
+    {
+      "event_id": "7bb6bcb7-2fba-4544-96db-8d85f49c531d",
+      "source": "rss:cointelegraph",
+      "title": "Brevo login flaw enabled phishing email targeting 347K Trezor subscribers",
+      "url": "https://cointelegraph.com/news/brevo-login-flaw-trezor-bitbox-cointracking-phishing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-11T04:21:14+00:00",
+      "raw_text": "Brevo login flaw enabled phishing email targeting 347K Trezor subscribers\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Brevo login flaw enabled phishing email targeting 347K Trezor subscribers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
+      "impact": {}
+    },
+    {
+      "event_id": "f673e364-26ae-411a-9366-bf7e10db0115",
+      "source": "rss:theblock",
+      "title": "Sam Bankman-Fried asks Supreme Court to overturn fraud conviction and $11 billion forfeiture",
+      "url": "https://www.theblock.co/news/regulation/2026-09-11-sam-bankman-fried-supreme-court-petition-414226",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-11T04:20:15+00:00",
+      "raw_text": "Sam Bankman-Fried asks Supreme Court to overturn fraud conviction and $11 billion forfeiture\n\nBankman-Fried says he was unfairly barred from providing evidence that FTX had more than enough assets to cover losses from the collapse.",
+      "impact": {}
+    },
     {
       "event_id": "37f1b3b1-f6d4-4fdf-b202-8a884f861b49",
       "source": "rss:cointelegraph",
@@ -318,6 +378,18 @@
       "tokens": [],
       "timestamp_utc": "2026-09-10T15:59:37+00:00",
       "raw_text": "MoneyGram launches Visa stablecoin card as remittance rivals expand\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MoneyGram launches Visa stablecoin card as remittance rivals expand\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/0",
+      "impact": {}
+    },
+    {
+      "event_id": "e9f9dd1d-9dd1-4743-9436-11803efb6086",
+      "source": "rss:coindesk",
+      "title": "Monument Bank delays retail tokenized deposits while onboarding custody partner",
+      "url": "https://www.coindesk.com/business/2026/09/10/monument-bank-delays-retail-tokenized-deposits-cites-regulatory-issues-in-the-uk",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-10T15:53:24+00:00",
+      "raw_text": "Monument Bank delays retail tokenized deposits while onboarding custody partner",
       "impact": {}
     },
     {
@@ -6256,92 +6328,20 @@
       "timestamp_utc": "2026-09-02T15:42:13+00:00",
       "raw_text": "Tether Sued Over Alleged Unlawful Freeze of $42.4 Million in USDT\n\nTwo Thai businessmen claim Tether blocked access to their stablecoins months before federal authorities secured a seizure warrant.",
       "impact": {}
-    },
-    {
-      "event_id": "036b4692-a626-481e-ba58-16431f120e75",
-      "source": "rss:cointelegraph",
-      "title": "G20 members tout ‘clear pathways’ for digital asset innovation",
-      "url": "https://cointelegraph.com/news/g20-members-clear-pathways-digital-asset-innovation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-02T15:34:06+00:00",
-      "raw_text": "G20 members tout ‘clear pathways’ for digital asset innovation\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"G20 members tout ‘clear pathways’ for digital asset innovation\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1H85V728",
-      "impact": {}
-    },
-    {
-      "event_id": "11a0390e-77c0-465b-a5e4-8e4796824548",
-      "source": "rss:theblock",
-      "title": "Hyperscale Data shares hit all-time low as company flips Michigan site from bitcoin mining into AI",
-      "url": "https://www.theblock.co/news/markets/2026-09-02-hyperscale-data-shares-all-time-low-company-flips-michigan-site-bitcoin-mining-into-ai-413357",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-02T15:29:15+00:00",
-      "raw_text": "Hyperscale Data shares hit all-time low as company flips Michigan site from bitcoin mining into AI\n\nThe Michigan AI agreement could generate more than $1.2 billion, with expansion options potentially lifting that above $3 billion.",
-      "impact": {}
-    },
-    {
-      "event_id": "e351094b-7a36-45ac-99e0-ca4fffee722c",
-      "source": "rss:bitcoinmagazine",
-      "title": "Strategy CEO Defends Bitcoin Sale as the ‘Right Trade’",
-      "url": "https://bitcoinmagazine.com/news/strategy-ceo-phong-le-defends-bitcoin-sale",
-      "event_type": "listing",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-02T15:20:59+00:00",
-      "raw_text": "Strategy CEO Defends Bitcoin Sale as the ‘Right Trade’\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Strategy-MSTR-scaled.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bi",
-      "impact": {}
-    },
-    {
-      "event_id": "159150a5-358d-4d57-9af8-080ccbbfb213",
-      "source": "rss:decrypt",
-      "title": "Norway Moves to Regulate 'Pervert Glasses,' Weighs Facial Recognition Ban",
-      "url": "https://decrypt.co/377169/norway-moves-to-regulate-pervert-glasses-weighs-facial-recognition-ban",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-02T15:18:44+00:00",
-      "raw_text": "Norway Moves to Regulate 'Pervert Glasses,' Weighs Facial Recognition Ban\n\nThe country's consumer watchdog went further, urging retailers to stop selling the devices until the law is clear.",
-      "impact": {}
-    },
-    {
-      "event_id": "a614c4df-e188-424a-9957-44e07f1b4013",
-      "source": "rss:coindesk",
-      "title": "Crypto Long & Short: Crypto VCs are mistaking consensus for discipline",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/09/02/crypto-long-and-short-crypto-vcs-are-mistaking-consensus-for-discipline",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-02T15:15:02+00:00",
-      "raw_text": "Crypto Long & Short: Crypto VCs are mistaking consensus for discipline",
-      "impact": {}
-    },
-    {
-      "event_id": "ced1a791-34a2-4725-b538-9fba0886ab75",
-      "source": "rss:decrypt",
-      "title": "AI Billionaires Fund Ad Blitz as Data Center Opposition Hits 61%",
-      "url": "https://decrypt.co/377162/ai-billionaires-fund-ad-blitz-as-data-center-opposition-hits-61",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-02T14:16:44+00:00",
-      "raw_text": "AI Billionaires Fund Ad Blitz as Data Center Opposition Hits 61%\n\nMarc Andreessen, Ben Horowitz and OpenAI's Greg Brockman have backed the super PAC behind the campaign, which faces surging opposition.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 180,
+        "count": 179,
         "avg_1h": 0.11,
         "avg_24h": -1.89,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 43,
-        "avg_1h": 0.12,
-        "avg_24h": -0.33,
+      "macro": {
+        "count": 100,
+        "avg_1h": -0.3,
+        "avg_24h": -4.97,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
@@ -6350,14 +6350,14 @@
         "avg_24h": -2.45,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 99,
-        "avg_1h": -0.3,
-        "avg_24h": -4.97,
+      "hack": {
+        "count": 44,
+        "avg_1h": 0.12,
+        "avg_24h": -0.33,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
-        "count": 11,
+        "count": 10,
         "avg_1h": -0.06,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
