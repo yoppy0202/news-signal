@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-09-11T21:40:54.967451+00:00",
+  "generated_at": "2026-09-12T00:12:50.311747+00:00",
   "events": [
+    {
+      "event_id": "0edca7a6-2ee0-4acf-af06-a2e81425f853",
+      "source": "rss:decrypt",
+      "title": "Cyberattacks on Law Firms Nearly Double as Stolen Documents Hit the Dark Web",
+      "url": "https://decrypt.co/378094/cyberattacks-law-firms-stolen-documents-dark-web",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-11T21:45:05+00:00",
+      "raw_text": "Cyberattacks on Law Firms Nearly Double as Stolen Documents Hit the Dark Web\n\nGreenberg Traurig said documents were posted to the dark web, while BakerHostetler recorded a near-doubling of law-firm incidents in 2025.",
+      "impact": {}
+    },
+    {
+      "event_id": "1151f600-189a-41e5-8563-c9256ba95a27",
+      "source": "rss:theblock",
+      "title": "Former Alameda CEO Caroline Ellison joins nonprofit charity Manifund",
+      "url": "https://www.theblock.co/news/business/2026-09-11-former-alameda-ceo-caroline-ellison-joins-nonprofit-charity-manifund-414310",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-11T21:37:02+00:00",
+      "raw_text": "Former Alameda CEO Caroline Ellison joins nonprofit charity Manifund\n\nFormer Alameda Research CEO Caroline Ellison has a new gig at the charity Manifund, its cofounder Austin Chen said Friday.",
+      "impact": {}
+    },
+    {
+      "event_id": "bc44483c-76f6-4f8e-a3a0-b00e4db88056",
+      "source": "rss:bitcoinmagazine",
+      "title": "Bitcoin’s ‘Unusual Mix’: Bearish Inflation Print, Bullish Buyback Failure",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-has-unusual-mix-says-coinshares",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-11T21:22:59+00:00",
+      "raw_text": "Bitcoin’s ‘Unusual Mix’: Bearish Inflation Print, Bullish Buyback Failure\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-7.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"htt",
+      "impact": {}
+    },
+    {
+      "event_id": "0f7b17f8-fd62-467e-930b-a70dec71639a",
+      "source": "rss:bitcoinmagazine",
+      "title": "Blockstream Tells Hackers To Return Remaining Bitcoin Stolen in Liquid Theft",
+      "url": "https://bitcoinmagazine.com/news/blockstream-tells-demands-bitcoin",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-11T21:13:48+00:00",
+      "raw_text": "Blockstream Tells Hackers To Return Remaining Bitcoin Stolen in Liquid Theft\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-19.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"h",
+      "impact": {}
+    },
+    {
+      "event_id": "434bc6d7-f308-4b5b-bbd6-d789ab754e8f",
+      "source": "rss:decrypt",
+      "title": "Bitcoin Golden Cross Flickers Off as Rate-Hike Bets Firm Up",
+      "url": "https://decrypt.co/378081/bitcoin-golden-cross-flickers-off",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-11T20:53:39+00:00",
+      "raw_text": "Bitcoin Golden Cross Flickers Off as Rate-Hike Bets Firm Up\n\nA rapidly changing interest rates market has changed the near-term outlook on the Bitcoin chart. Here’s why.",
+      "impact": {}
+    },
     {
       "event_id": "16b99fa3-83db-463a-b282-6f3f4024bd19",
       "source": "rss:cointelegraph",
@@ -6245,80 +6305,14 @@
       "timestamp_utc": "2026-09-03T11:26:00+00:00",
       "raw_text": "FX has stopped reading bond yields the old way. Bitcoin should too.",
       "impact": {}
-    },
-    {
-      "event_id": "0e1b9f87-ce3b-4595-9228-8e2236ddd5c0",
-      "source": "rss:coindesk",
-      "title": "The yen is surging and it’s helping bitcoin, for now",
-      "url": "https://www.coindesk.com/markets/2026/09/03/the-yen-is-surging-and-it-s-helping-bitcoin-for-now",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-03T11:19:56+00:00",
-      "raw_text": "The yen is surging and it’s helping bitcoin, for now",
-      "impact": {}
-    },
-    {
-      "event_id": "d5042a9a-bec5-487d-a3e4-39efb95f88c3",
-      "source": "rss:theblock",
-      "title": "Bitcoin-gold correlation hits six-year high, but analysts question whether equity decoupling will last",
-      "url": "https://www.theblock.co/news/markets/2026-09-03-bitcoin-gold-correlation-hits-six-year-high-but-analysts-question-whether-equity-decoupling-will-last-413437",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-03T11:01:46+00:00",
-      "raw_text": "Bitcoin-gold correlation hits six-year high, but analysts question whether equity decoupling will last\n\nGlassnode is less convinced by bitcoin's recent divergence from U.S. equities, saying similar moves have previously been short-lived.",
-      "impact": {}
-    },
-    {
-      "event_id": "2905d2b7-93a4-499a-9156-946bbc5083d4",
-      "source": "rss:cointelegraph",
-      "title": "Pencil Finance completes $1M onchain lending cycle for 6.6K students in Southeast Asia",
-      "url": "https://cointelegraph.com/news/pencil-finance-1m-onchain-lending-cycle-students?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-03T10:59:34+00:00",
-      "raw_text": "Pencil Finance completes $1M onchain lending cycle for 6.6K students in Southeast Asia\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Pencil Finance completes $1M onchain lending cycle for 6.6K students in Southeast Asia\" class=\"type:primaryImage\" src=\"https://s3-images.ctm",
-      "impact": {}
-    },
-    {
-      "event_id": "51d90b76-7422-43da-9fee-e3f8c5adc6f1",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin jumps above $81,000 as rates fall, dollar weakens",
-      "url": "https://www.coindesk.com/business/2026/09/03/live-updates-crypto-majors-bounce-while-global-funds-run-their-lowest-dollar-hedges-since-2015",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-03T10:42:15+00:00",
-      "raw_text": "Live updates: Bitcoin jumps above $81,000 as rates fall, dollar weakens",
-      "impact": {}
-    },
-    {
-      "event_id": "5b8d5279-3013-4f31-a64e-2ae38ce85723",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin rises to $78,000, with next week's CPI report looming large",
-      "url": "https://www.coindesk.com/business/2026/09/03/live-updates-crypto-majors-bounce-while-global-funds-run-their-lowest-dollar-hedges-since-2015",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-03T10:42:15+00:00",
-      "raw_text": "Live updates: Bitcoin rises to $78,000, with next week's CPI report looming large",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 183,
-        "avg_1h": 0.11,
-        "avg_24h": -1.89,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 106,
-        "avg_1h": -0.22,
-        "avg_24h": -2.26,
+      "hack": {
+        "count": 48,
+        "avg_1h": -0.16,
+        "avg_24h": -0.33,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
@@ -6327,10 +6321,16 @@
         "avg_24h": -2.45,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 46,
-        "avg_1h": -0.16,
-        "avg_24h": -0.33,
+      "macro": {
+        "count": 106,
+        "avg_1h": -0.22,
+        "avg_24h": -2.26,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 181,
+        "avg_1h": 0.11,
+        "avg_24h": -1.89,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
