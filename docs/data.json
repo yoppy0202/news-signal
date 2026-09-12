@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-12T17:03:33.059117+00:00",
+  "generated_at": "2026-09-12T19:14:49.062727+00:00",
   "events": [
+    {
+      "event_id": "a3c18491-b808-4789-8508-db361c9a39b7",
+      "source": "rss:decrypt",
+      "title": "Revolut Leaks Passports, Bitcoin Transaction Histories to Fake Government Request",
+      "url": "https://decrypt.co/378114/revolut-passports-bitcoin-activity-data-breach",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-12T17:01:04+00:00",
+      "raw_text": "Revolut Leaks Passports, Bitcoin Transaction Histories to Fake Government Request\n\nThe fintech company fulfilled a fraudulent information request sent from a government agency's own email domain, exposing ID documents and full crypto transaction histories for a \"limited\" number of users.",
+      "impact": {}
+    },
+    {
+      "event_id": "c84b7c28-77f9-409a-ae6a-d04a84fd0bd6",
+      "source": "rss:theblock",
+      "title": "Crypto billionaires Ben Delo and Christopher Harborne each donate £36 million to Farage’s Reform UK",
+      "url": "https://www.theblock.co/news/regulation/2026-09-12-crypto-billionaires-ben-delo-and-christopher-harborne-each-donate-36-million-to-farages-reform-uk-414509",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-12T16:18:05+00:00",
+      "raw_text": "Crypto billionaires Ben Delo and Christopher Harborne each donate £36 million to Farage’s Reform UK\n\nMeanwhile, the House of Lords is considering a bill which would halt crypto donations and cap overseas giving at £100,000 a year.",
+      "impact": {}
+    },
     {
       "event_id": "a4734f5f-34f2-4807-bfbc-056308bfe9fd",
       "source": "rss:decrypt",
@@ -432,7 +456,8 @@
         "t_plus_5m": 1.8366,
         "t_plus_15m": 1.517,
         "t_plus_1h": 1.3793,
-        "t_plus_4h": -0.5
+        "t_plus_4h": -0.5,
+        "t_plus_24h": -0.3072
       }
     },
     {
@@ -6282,52 +6307,20 @@
       "timestamp_utc": "2026-09-03T15:40:08+00:00",
       "raw_text": "SoFi Links Banking Network and Stablecoin to Kraken in New Deal\n\nKraken will list SoFiUSD and gain access to SoFi’s round-the-clock dollar settlement network, while Kraken Prime will execute trades for SoFi’s crypto customers.",
       "impact": {}
-    },
-    {
-      "event_id": "ce22e281-d5c2-4bc0-a989-89240eb31714",
-      "source": "rss:solana_official",
-      "title": "How to Reclaim Excess SOL After Rent Reduction",
-      "url": "https://solana.com/news/how-to-reclaim-excess-sol-after-rent-reduction",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "SOL"
-      ],
-      "timestamp_utc": "2026-09-03T15:15:00+00:00",
-      "raw_text": "How to Reclaim Excess SOL After Rent Reduction\n\nRent on Solana has been Reduced. Every Account Is Now Over-Funded. Here's How to Reclaim Excess SOL.",
-      "impact": {
-        "t_plus_5m": 0.2461,
-        "t_plus_15m": 0.2053,
-        "t_plus_1h": 0.1928,
-        "t_plus_4h": 0.95,
-        "t_plus_24h": -3.161
-      }
-    },
-    {
-      "event_id": "6cf13917-42df-4f40-bf49-d53845799350",
-      "source": "rss:bitcoinmagazine",
-      "title": "Standard Chartered Debuts Bitcoin Trading In the United Arab Emirates",
-      "url": "https://bitcoinmagazine.com/news/standard-chartered-debuts-bitcoin-trading",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-03T15:14:25+00:00",
-      "raw_text": "Standard Chartered Debuts Bitcoin Trading In the United Arab Emirates\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-2.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://b",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 105,
-        "avg_1h": -0.22,
-        "avg_24h": -2.26,
+      "narrative": {
+        "count": 156,
+        "avg_1h": 0.11,
+        "avg_24h": -1.73,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 155,
-        "avg_1h": 0.12,
-        "avg_24h": -2.45,
+      "macro": {
+        "count": 104,
+        "avg_1h": -0.22,
+        "avg_24h": -2.26,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
@@ -6339,7 +6332,7 @@
       "hack": {
         "count": 48,
         "avg_1h": -0.15,
-        "avg_24h": -1.73,
+        "avg_24h": -1.37,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
