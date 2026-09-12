@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-12T00:12:50.311747+00:00",
+  "generated_at": "2026-09-12T05:42:46.109410+00:00",
   "events": [
+    {
+      "event_id": "5b31d795-269a-4514-8a7d-93b0c744a9ce",
+      "source": "rss:coindesk",
+      "title": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
+      "url": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-11T23:47:51+00:00",
+      "raw_text": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
+      "impact": {}
+    },
     {
       "event_id": "0edca7a6-2ee0-4acf-af06-a2e81425f853",
       "source": "rss:decrypt",
@@ -44,10 +56,16 @@
       "url": "https://bitcoinmagazine.com/news/blockstream-tells-demands-bitcoin",
       "event_type": "hack",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-09-11T21:13:48+00:00",
       "raw_text": "Blockstream Tells Hackers To Return Remaining Bitcoin Stolen in Liquid Theft\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-19.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"h",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.3272,
+        "t_plus_15m": 0.2741,
+        "t_plus_1h": 0.0453
+      }
     },
     {
       "event_id": "434bc6d7-f308-4b5b-bbd6-d789ab754e8f",
@@ -6293,25 +6311,19 @@
       "timestamp_utc": "2026-09-03T11:36:41+00:00",
       "raw_text": "Mamdani Imposes One-Year Moratorium on Generative AI in NYC Schools\n\nNearly 600,000 students lose access to generative AI tools, while five named vendors keep metered pilots running in high schools.",
       "impact": {}
-    },
-    {
-      "event_id": "01bfc2be-3c74-4552-b027-fa04192c9df6",
-      "source": "rss:coindesk",
-      "title": "FX has stopped reading bond yields the old way. Bitcoin should too.",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/03/fx-has-stopped-reading-bond-yields-the-old-way-bitcoin-should-too",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-03T11:26:00+00:00",
-      "raw_text": "FX has stopped reading bond yields the old way. Bitcoin should too.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 181,
+        "avg_1h": 0.11,
+        "avg_24h": -1.89,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
         "count": 48,
-        "avg_1h": -0.16,
+        "avg_1h": -0.15,
         "avg_24h": -0.33,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6325,12 +6337,6 @@
         "count": 106,
         "avg_1h": -0.22,
         "avg_24h": -2.26,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 181,
-        "avg_1h": 0.11,
-        "avg_24h": -1.89,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
