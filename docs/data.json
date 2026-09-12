@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-12T10:39:52.487520+00:00",
+  "generated_at": "2026-09-12T14:03:18.170301+00:00",
   "events": [
+    {
+      "event_id": "fa2a01c8-7391-4abb-92a7-aaa479f5e7d6",
+      "source": "rss:coindesk",
+      "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
+      "url": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-12T10:11:01+00:00",
+      "raw_text": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
+      "impact": {}
+    },
     {
       "event_id": "5b31d795-269a-4514-8a7d-93b0c744a9ce",
       "source": "rss:coindesk",
@@ -6300,24 +6312,12 @@
       "timestamp_utc": "2026-09-03T11:43:14+00:00",
       "raw_text": "Morning Minute: Strategy CEO Says Selling The Bottom Was Correct Move\n\nStrategy sold millions in Bitcoin in the low $60k range and just rebought at $80k. Now they’re sharing the rationale behind the moves.",
       "impact": {}
-    },
-    {
-      "event_id": "5fa5cade-7518-42e9-861a-99343804068a",
-      "source": "rss:decrypt",
-      "title": "Mamdani Imposes One-Year Moratorium on Generative AI in NYC Schools",
-      "url": "https://decrypt.co/377253/mamdani-imposes-one-year-moratorium-on-generative-ai-in-nyc-schools",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-03T11:36:41+00:00",
-      "raw_text": "Mamdani Imposes One-Year Moratorium on Generative AI in NYC Schools\n\nNearly 600,000 students lose access to generative AI tools, while five named vendors keep metered pilots running in high schools.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 181,
+        "count": 182,
         "avg_1h": 0.11,
         "avg_24h": -1.89,
         "win_rate_1h_gt5pct": 0.0
@@ -6329,7 +6329,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 153,
+        "count": 152,
         "avg_1h": 0.12,
         "avg_24h": -2.45,
         "win_rate_1h_gt5pct": 0.0
