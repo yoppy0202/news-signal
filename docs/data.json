@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-09-13T19:25:08.523510+00:00",
+  "generated_at": "2026-09-13T22:21:59.250435+00:00",
   "events": [
+    {
+      "event_id": "d06211b6-ffe9-486a-aabb-d3128ff16e2f",
+      "source": "rss:theblock",
+      "title": "Symbiosis says it recovered 15 BTC after Bitcoin bridge exploit, offers attacker 20% bounty",
+      "url": "https://www.theblock.co/news/defi/2026-09-13-symbiosis-says-it-recovered-15-btc-after-bitcoin-bridge-exploit-offers-attacker-20-bounty-414568",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-13T21:51:11+00:00",
+      "raw_text": "Symbiosis says it recovered 15 BTC after Bitcoin bridge exploit, offers attacker 20% bounty\n\nBlockchain security firm Blockaid said roughly 46.1 billion syBTC were minted but the attacker realized only about $336,000 in proceeds.",
+      "impact": {}
+    },
+    {
+      "event_id": "634a0237-e937-4596-88d5-1395a8456e24",
+      "source": "rss:coindesk",
+      "title": "Is Clarity dead? A vibes-based analysis: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-13T18:45:08+00:00",
+      "raw_text": "Is Clarity dead? A vibes-based analysis: State of Crypto",
+      "impact": {}
+    },
+    {
+      "event_id": "2a46c67c-8a71-455b-8c66-0608151935bb",
+      "source": "rss:theblock",
+      "title": "Mexican authorities raid hidden crypto mine, suspecting power theft and money laundering",
+      "url": "https://www.theblock.co/news/ecosystems/2026-09-13-mexican-authorities-raid-hidden-crypto-mine-suspecting-power-theft-and-money-laundering-414564",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-13T18:29:23+00:00",
+      "raw_text": "Mexican authorities raid hidden crypto mine, suspecting power theft and money laundering\n\nReuters reported that the site was the fourth crypto farm discovered in the area since early 2025, near a local hydroelectric dam.",
+      "impact": {}
+    },
     {
       "event_id": "08a45832-6043-4d73-bc12-ae784c62617c",
       "source": "rss:coindesk",
@@ -6257,68 +6293,32 @@
       "timestamp_utc": "2026-09-03T19:36:56+00:00",
       "raw_text": "Mantle adds Paxos’ USDG stablecoin, joins Global Dollar Network\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Mantle adds Paxos’ USDG stablecoin, joins Global Dollar Network\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1M9T0J",
       "impact": {}
-    },
-    {
-      "event_id": "07a45312-421b-4bca-bbe2-507bc5e10930",
-      "source": "rss:decrypt",
-      "title": "OpenAI Releases GPT-6 Astra: The Closest AI Model Yet to AGI",
-      "url": "https://decrypt.co/377341/openai-releases-gpt-6-astra-agi",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-03T19:24:24+00:00",
-      "raw_text": "OpenAI Releases GPT-6 Astra: The Closest AI Model Yet to AGI\n\nThe model can independently discover and exploit unknown security flaws across hardened systems, triggering a staged rollout and White House review before public access.",
-      "impact": {}
-    },
-    {
-      "event_id": "6f461635-4908-407b-8481-2c5e2c0c1e3a",
-      "source": "rss:cointelegraph",
-      "title": "Michigan authorities continue pursuit to block Kalshi as Supreme Court fight looms",
-      "url": "https://cointelegraph.com/news/michigan-block-kalshi-supreme-court-legal-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-03T19:11:46+00:00",
-      "raw_text": "Michigan authorities continue pursuit to block Kalshi as Supreme Court fight looms\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Michigan authorities continue pursuit to block Kalshi as Supreme Court fight looms\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/",
-      "impact": {}
-    },
-    {
-      "event_id": "e264e9cd-4e1d-4710-ae8f-21f5002f4fa8",
-      "source": "rss:bitcoinmagazine",
-      "title": "Kraken and SoFi Link Crypto Trading To Banking Rails",
-      "url": "https://bitcoinmagazine.com/news/kraken-sofi-partnership",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-03T18:49:39+00:00",
-      "raw_text": "Kraken and SoFi Link Crypto Trading To Banking Rails\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/sofi.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 161,
-        "avg_1h": 0.11,
-        "avg_24h": -1.73,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 180,
-        "avg_1h": 0.11,
-        "avg_24h": -1.89,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 100,
-        "avg_1h": -0.1,
-        "avg_24h": 0.45,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
         "count": 48,
         "avg_1h": -0.15,
         "avg_24h": -1.09,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 181,
+        "avg_1h": 0.11,
+        "avg_24h": -1.89,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 162,
+        "avg_1h": 0.11,
+        "avg_24h": -1.73,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 98,
+        "avg_1h": -0.1,
+        "avg_24h": 0.45,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
