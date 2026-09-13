@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-09-12T22:12:57.581335+00:00",
+  "generated_at": "2026-09-13T00:55:26.664643+00:00",
   "events": [
+    {
+      "event_id": "6e01e8c1-5fff-4439-99e8-604ca640ce4f",
+      "source": "rss:theblock",
+      "title": "CryptoQuant says bitcoin must clear resistance at $81,700 to confirm new bull market",
+      "url": "https://www.theblock.co/news/markets/2026-09-12-cryptoquant-bitcoin-resistance-support-levels-414519",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-12T21:39:49+00:00",
+      "raw_text": "CryptoQuant says bitcoin must clear resistance at $81,700 to confirm new bull market\n\nBitcoin's outlook remains bullish, but it needs to clear a significant range of resistance levels stretching to $88,700, CryptoQuant said.",
+      "impact": {}
+    },
+    {
+      "event_id": "720c63c3-0421-477f-aa11-9d4612d67b24",
+      "source": "rss:coindesk",
+      "title": "OpenAI IPO won't happen this year, says Sam Altman",
+      "url": "https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-12T21:09:31+00:00",
+      "raw_text": "OpenAI IPO won't happen this year, says Sam Altman",
+      "impact": {}
+    },
+    {
+      "event_id": "59e0049b-34cf-49cc-a549-ef94abd3c192",
+      "source": "rss:coindesk",
+      "title": "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
+      "url": "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-12T21:09:06+00:00",
+      "raw_text": "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
+      "impact": {}
+    },
     {
       "event_id": "329027ba-2eba-4b72-9129-b736593c63ec",
       "source": "rss:theblock",
@@ -23,6 +59,18 @@
       "tokens": [],
       "timestamp_utc": "2026-09-12T18:51:04+00:00",
       "raw_text": "Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
+      "impact": {}
+    },
+    {
+      "event_id": "8f30055e-f499-44b6-8b45-da86dcac2ada",
+      "source": "rss:coindesk",
+      "title": "Anthropic CEO calls for AI race to slow down citing safety. Musk and OpenAI's Altman agrees",
+      "url": "https://www.coindesk.com/tech/2026/09/12/anthropic-ceo-calls-for-ai-race-to-slow-down-musk-and-openai-s-altman-agrees",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-12T18:43:33+00:00",
+      "raw_text": "Anthropic CEO calls for AI race to slow down citing safety. Musk and OpenAI's Altman agrees",
       "impact": {}
     },
     {
@@ -269,7 +317,8 @@
         "t_plus_5m": 0.3272,
         "t_plus_15m": 0.2741,
         "t_plus_1h": 0.0453,
-        "t_plus_4h": 0.289
+        "t_plus_4h": 0.289,
+        "t_plus_24h": 0.0305
       }
     },
     {
@@ -6252,79 +6301,24 @@
       "timestamp_utc": "2026-09-03T17:06:28+00:00",
       "raw_text": "BitMEX co-founder contributed 75% of Reform UK’s donations in Q2 2026\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitMEX co-founder contributed 75% of Reform UK’s donations in Q2 2026\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/",
       "impact": {}
-    },
-    {
-      "event_id": "9824d38d-2596-4c08-9344-d43aae877f51",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin Rallies Over $81,000 — And Brings BTC-Related Stocks With It",
-      "url": "https://bitcoinmagazine.com/markets/bitcoin-rallies-over-81000",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-09-03T16:46:05+00:00",
-      "raw_text": "Bitcoin Rallies Over $81,000 — And Brings BTC-Related Stocks With It\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-3.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bi",
-      "impact": {
-        "t_plus_5m": -0.1987,
-        "t_plus_15m": -0.2246,
-        "t_plus_1h": -0.0771,
-        "t_plus_4h": 0.4142
-      }
-    },
-    {
-      "event_id": "bca08b01-493c-44bb-9559-e1a12b286ecd",
-      "source": "rss:decrypt",
-      "title": "Bitcoin Pumps as Fed Signals Rate Pause, $415 Million in Shorts Get Rekt",
-      "url": "https://decrypt.co/377314/bitcoin-pump-fed-rate-pause-shorts-get-rekt",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-03T16:38:17+00:00",
-      "raw_text": "Bitcoin Pumps as Fed Signals Rate Pause, $415 Million in Shorts Get Rekt\n\nStocks and crypto rallied together after Governor Christopher Waller said he could back holding rates steady, with short sellers absorbing the brunt of the squeeze.",
-      "impact": {}
-    },
-    {
-      "event_id": "6ef2cf28-8855-43f7-a3db-45f1ed9d39f5",
-      "source": "rss:decrypt",
-      "title": "Sony Dismisses PS5 Buyers' $508M Tariff Refund Claim as 'Illogical'",
-      "url": "https://decrypt.co/377313/sony-dismisses-ps5-buyers-508m-tariff-refund-claim-as-illogical",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-03T16:28:27+00:00",
-      "raw_text": "Sony Dismisses PS5 Buyers' $508M Tariff Refund Claim as 'Illogical'\n\nThe company raised PlayStation prices for a second time in March, five weeks after the tariffs were struck down.",
-      "impact": {}
-    },
-    {
-      "event_id": "e191f076-d988-4ad6-82ee-652c5dd35b0a",
-      "source": "rss:theblock",
-      "title": "Strive CEO says company could end 2026 as second-largest public bitcoin holder as ASST climbs",
-      "url": "https://www.theblock.co/news/markets/2026-09-03-strive-ceo-company-could-end-2026-second-largest-bitcoin-holder-asst-413455",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-03T16:27:35+00:00",
-      "raw_text": "Strive CEO says company could end 2026 as second-largest public bitcoin holder as ASST climbs\n\nStrive shares climbed to a year-to-date high of $26.84 on Thursday, placing the stock less than 1% below the warrants’ exercise price.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 157,
+        "count": 160,
         "avg_1h": 0.11,
         "avg_24h": -1.73,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 180,
+        "count": 181,
         "avg_1h": 0.11,
         "avg_24h": -1.89,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 103,
+        "count": 100,
         "avg_1h": -0.22,
         "avg_24h": -2.26,
         "win_rate_1h_gt5pct": 0.0
@@ -6332,11 +6326,11 @@
       "hack": {
         "count": 48,
         "avg_1h": -0.15,
-        "avg_24h": -1.37,
+        "avg_24h": -1.09,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
-        "count": 8,
+        "count": 7,
         "avg_1h": -0.06,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
