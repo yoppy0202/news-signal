@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T22:21:59.250435+00:00",
+  "generated_at": "2026-09-14T00:59:38.158891+00:00",
   "events": [
     {
       "event_id": "d06211b6-ffe9-486a-aabb-d3128ff16e2f",
@@ -8,10 +8,15 @@
       "url": "https://www.theblock.co/news/defi/2026-09-13-symbiosis-says-it-recovered-15-btc-after-bitcoin-bridge-exploit-offers-attacker-20-bounty-414568",
       "event_type": "hack",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-09-13T21:51:11+00:00",
       "raw_text": "Symbiosis says it recovered 15 BTC after Bitcoin bridge exploit, offers attacker 20% bounty\n\nBlockchain security firm Blockaid said roughly 46.1 billion syBTC were minted but the attacker realized only about $336,000 in proceeds.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2276,
+        "t_plus_15m": -0.0685
+      }
     },
     {
       "event_id": "634a0237-e937-4596-88d5-1395a8456e24",
