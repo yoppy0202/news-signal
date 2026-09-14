@@ -1,6 +1,452 @@
 {
-  "generated_at": "2026-09-14T13:57:13.680015+00:00",
+  "generated_at": "2026-09-14T19:17:45.393895+00:00",
   "events": [
+    {
+      "event_id": "bc8807a8-e975-4f2b-86de-836e7c6e8fbc",
+      "source": "rss:cointelegraph",
+      "title": "S&P Global backs Kaiko as Series B reaches $110M",
+      "url": "https://cointelegraph.com/news/sp-global-leads-110m-kaiko-funding-round-as-wall-street-eyes-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T16:17:52+00:00",
+      "raw_text": "S&P Global backs Kaiko as Series B reaches $110M\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"S&amp;P Global backs Kaiko as Series B reaches $110M\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2GA9N8SV4RP2PV1J1A9GWVD/hi-crypt",
+      "impact": {}
+    },
+    {
+      "event_id": "d1f98022-6eb6-43d7-a9b4-68f923d0cde6",
+      "source": "rss:decrypt",
+      "title": "Bitmine Adds $68 Million in Ethereum as Holdings Near 6 Million ETH",
+      "url": "https://decrypt.co/378132/bitmine-adds-68-million-ethereum",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [
+        "ETH"
+      ],
+      "timestamp_utc": "2026-09-14T16:02:25+00:00",
+      "raw_text": "Bitmine Adds $68 Million in Ethereum as Holdings Near 6 Million ETH\n\nThe purchase brings the company closer to its goal of owning 5% of Ethereum’s supply, with most of its tokens earning staking rewards.",
+      "impact": {
+        "t_plus_5m": -0.7528,
+        "t_plus_15m": -0.6932,
+        "t_plus_1h": 0.1677
+      }
+    },
+    {
+      "event_id": "543afebb-2d57-40bb-b9e5-7ee88c6841af",
+      "source": "rss:coindesk",
+      "title": "A bipartisan coalition of 17 state attorneys generals urge Senate to reject Clarity Act",
+      "url": "https://www.coindesk.com/policy/2026/09/14/bipartisan-group-of-state-attorneys-general-oppose-clarity-act-over-federal-preemption-worry",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T15:57:01+00:00",
+      "raw_text": "A bipartisan coalition of 17 state attorneys generals urge Senate to reject Clarity Act",
+      "impact": {}
+    },
+    {
+      "event_id": "be080fa1-3d1d-49f1-bdd6-e9eff35df09a",
+      "source": "rss:cointelegraph",
+      "title": "Bitmine projects $334M in annual staking revenue from $15.8B crypto treasury",
+      "url": "https://cointelegraph.com/news/bitmine-5-million-eth-staked-334-million-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [
+        "ETH"
+      ],
+      "timestamp_utc": "2026-09-14T15:55:59+00:00",
+      "raw_text": "Bitmine projects $334M in annual staking revenue from $15.8B crypto treasury\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitmine projects $334M in annual staking revenue from $15.8B crypto treasury\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl",
+      "impact": {
+        "t_plus_5m": -0.6603,
+        "t_plus_15m": -0.7528,
+        "t_plus_1h": 0.3785
+      }
+    },
+    {
+      "event_id": "3274d7b5-6769-427d-b2d5-abb3ae2b7225",
+      "source": "rss:decrypt",
+      "title": "Strategy Buys Back $139 Million of STRC, Bitcoin Stack Frozen for Second Week",
+      "url": "https://decrypt.co/378134/strategy-buys-139-million-strc-bitcoin-frozen",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-09-14T15:41:46+00:00",
+      "raw_text": "Strategy Buys Back $139 Million of STRC, Bitcoin Stack Frozen for Second Week\n\nThe Bitcoin treasury firm slowed its preferred-stock buyback from last week's $176 million pace and left its 845,050 BTC untouched, per a Monday SEC filing.",
+      "impact": {
+        "t_plus_5m": -0.3634,
+        "t_plus_15m": -0.2724,
+        "t_plus_1h": -0.1588
+      }
+    },
+    {
+      "event_id": "c307384e-7314-416f-b60f-1b1b3d388584",
+      "source": "rss:bitcoinmagazine",
+      "title": "Strategy Buys Back Stock, Skips Bitcoin Purchase",
+      "url": "https://bitcoinmagazine.com/news/strategy-again-skips-bitcoin-buy",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-09-14T15:33:44+00:00",
+      "raw_text": "Strategy Buys Back Stock, Skips Bitcoin Purchase\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time-in-Years-as-Bitcoin-Price-Tumbles.jpg\" style=\"display: bloc",
+      "impact": {
+        "t_plus_5m": -0.4678,
+        "t_plus_15m": -0.3319,
+        "t_plus_1h": -0.1578
+      }
+    },
+    {
+      "event_id": "2186190c-97d1-4a3b-85eb-46d147db4097",
+      "source": "rss:decrypt",
+      "title": "Why Trump Backed Tougher Ethics Rules in Clarity Act, and Why the Crypto Industry Thinks It Can Pass",
+      "url": "https://decrypt.co/378125/clarity-act-crypto-ethics-trump-key-vote",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T15:22:51+00:00",
+      "raw_text": "Why Trump Backed Tougher Ethics Rules in Clarity Act, and Why the Crypto Industry Thinks It Can Pass\n\nRepublicans' \"last, best and final offer\" wins Trump's backing on stronger ethics rules and concedes on DeFi and stablecoin sticking points, but it's unclear if enough Democrats will cross over Tues",
+      "impact": {}
+    },
+    {
+      "event_id": "5ef5dbf4-b503-4a7b-8c64-cf202b012eb9",
+      "source": "rss:cointelegraph",
+      "title": "Why are AI’s biggest companies suddenly asking to slow down?",
+      "url": "https://cointelegraph.com/magazine/why-are-biggest-ai-companies-suddenly-asking-to-slow-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T15:18:46+00:00",
+      "raw_text": "Why are AI’s biggest companies suddenly asking to slow down?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Why are AI’s biggest companies suddenly asking to slow down?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2G1M9RG81KG7",
+      "impact": {}
+    },
+    {
+      "event_id": "6e395778-89e7-4211-a305-2c5db536906f",
+      "source": "rss:theblock",
+      "title": "Strive reaches 25,000 BTC milestone with latest $36.6 million purchase",
+      "url": "https://www.theblock.co/news/markets/2026-09-14-strive-reaches-25000-btc-milestone-36-6-million-purchase-414631",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-09-14T15:15:51+00:00",
+      "raw_text": "Strive reaches 25,000 BTC milestone with latest $36.6 million purchase\n\nThe latest acquisition marks a slowdown from the prior week, when Strive purchased 1,375 BTC for approximately $109 million.",
+      "impact": {
+        "t_plus_5m": -0.3206,
+        "t_plus_15m": -0.4751,
+        "t_plus_1h": -0.4584
+      }
+    },
+    {
+      "event_id": "958ae507-3467-46b8-9160-5887a0d88e92",
+      "source": "rss:coindesk",
+      "title": "Clarity Act odds surge on prediction markets, but crypto bill still faces long road",
+      "url": "https://www.coindesk.com/policy/2026/09/14/clarity-act-odds-surge-on-prediction-markets-but-crypto-bill-still-faces-long-road",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T15:10:29+00:00",
+      "raw_text": "Clarity Act odds surge on prediction markets, but crypto bill still faces long road",
+      "impact": {}
+    },
+    {
+      "event_id": "ec3fb8a1-c2d9-4b53-ac4f-47f4fe849479",
+      "source": "rss:theblock",
+      "title": "NY Attorney General James leads bipartisan push against the Clarity Act ahead of initial Senate vote",
+      "url": "https://www.theblock.co/news/regulation/2026-09-14-ny-attorney-general-james-bipartisan-push-against-clarity-act-initial-senate-vote-414635",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T14:43:34+00:00",
+      "raw_text": "NY Attorney General James leads bipartisan push against the Clarity Act ahead of initial Senate vote\n\nNew York Attorney General Letitia James led a group of 17 bipartisan attorneys general urging lawmakers to vote against crypto legislation.",
+      "impact": {}
+    },
+    {
+      "event_id": "18466105-9a3a-4d5c-8572-fee137f81e41",
+      "source": "rss:theblock",
+      "title": "DeFi Development Corp expands Solana treasury to 2.39 million SOL, sets up $300 million CHAD ATM",
+      "url": "https://www.theblock.co/news/markets/2026-09-14-defi-development-corp-expands-solana-treasury-2-39-million-sol-sets-300-million-chad-atm-414633",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [
+        "SOL"
+      ],
+      "timestamp_utc": "2026-09-14T14:40:16+00:00",
+      "raw_text": "DeFi Development Corp expands Solana treasury to 2.39 million SOL, sets up $300 million CHAD ATM\n\nThe Solana treasury company established a $300 million at-the-market offering for its CHAD perpetual preferred stock.",
+      "impact": {
+        "t_plus_5m": -1.0485,
+        "t_plus_15m": -0.9397,
+        "t_plus_1h": -0.665
+      }
+    },
+    {
+      "event_id": "27f73429-c3e3-4486-86e7-e4f8cf61352f",
+      "source": "rss:coindesk",
+      "title": "Consensus heads to Hong Kong for third year with expanded focus on AI",
+      "url": "https://www.coindesk.com/business/2026/09/14/consensus-heads-to-hong-kong-for-third-straight-year-with-expanded-focus-on-ai",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T14:37:56+00:00",
+      "raw_text": "Consensus heads to Hong Kong for third year with expanded focus on AI",
+      "impact": {}
+    },
+    {
+      "event_id": "888eef14-e98b-4998-93f6-88b48040be7d",
+      "source": "rss:decrypt",
+      "title": "Morning Minute: Clarity Act Odds Soar as Trump Agrees to Ethics Provisions",
+      "url": "https://decrypt.co/378122/morning-minute-clarity-act-odds-soar-trump-ethics",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T14:37:21+00:00",
+      "raw_text": "Morning Minute: Clarity Act Odds Soar as Trump Agrees to Ethics Provisions\n\nWhat had been written off is now very back alive ahead of a key vote on Tuesday, followed by a pivotal FOMC on Wednesday. Big week ahead...",
+      "impact": {}
+    },
+    {
+      "event_id": "605d5304-0fae-4197-a5df-636a025ed31f",
+      "source": "rss:coindesk",
+      "title": "Don’t let perfect be the enemy of Clarity",
+      "url": "https://www.coindesk.com/opinion/2026/09/14/don-t-let-perfect-be-the-enemy-of-clarity",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T14:34:56+00:00",
+      "raw_text": "Don’t let perfect be the enemy of Clarity",
+      "impact": {}
+    },
+    {
+      "event_id": "7672245e-0480-45fa-9bb7-6d5fe4d32a86",
+      "source": "rss:coindesk",
+      "title": "Here is the revised Clarity Act ethics provision Donald Trump has agreed to",
+      "url": "https://www.coindesk.com/policy/2026/09/14/here-is-the-revised-clarity-act-ethics-provision-donald-trump-has-agreed-to",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T14:27:48+00:00",
+      "raw_text": "Here is the revised Clarity Act ethics provision Donald Trump has agreed to",
+      "impact": {}
+    },
+    {
+      "event_id": "91852f12-078a-4c58-95f0-ac9f7bdc4e22",
+      "source": "rss:coindesk",
+      "title": "Kaiko extends Series B funding round to $110 million with S&P Global, BNP Paribas",
+      "url": "https://www.coindesk.com/business/2026/09/14/kaiko-extends-series-b-funding-round-to-usd110-million-with-s-and-p-global-bnp-paribas",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T14:06:28+00:00",
+      "raw_text": "Kaiko extends Series B funding round to $110 million with S&P Global, BNP Paribas",
+      "impact": {}
+    },
+    {
+      "event_id": "395b3b92-1408-4a53-8e8e-8fbbbd4dc40c",
+      "source": "rss:decrypt",
+      "title": "MetaMask Adds New Wallet Protections Against Crypto Scams",
+      "url": "https://decrypt.co/378117/metamask-adds-wallet-protections",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T14:01:04+00:00",
+      "raw_text": "MetaMask Adds New Wallet Protections Against Crypto Scams\n\nMetaMask’s latest safeguards flag suspicious transfers and stop transactions that don’t match their previews.",
+      "impact": {}
+    },
+    {
+      "event_id": "d9a8788d-91fb-47ef-b5d4-7f1ee422fcbe",
+      "source": "rss:cointelegraph",
+      "title": "HYPE price could suffer as Binance takes its revenue: Alice Liu",
+      "url": "https://cointelegraph.com/magazine/hype-price-could-suffer-as-binance-takes-its-revenue-alice-liu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T13:30:00+00:00",
+      "raw_text": "HYPE price could suffer as Binance takes its revenue: Alice Liu\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"HYPE price could suffer as Binance takes its revenue: Alice Liu\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2EQBXG",
+      "impact": {}
+    },
+    {
+      "event_id": "72877c1d-d8bd-46a7-b119-c25874919565",
+      "source": "rss:cointelegraph",
+      "title": "Fragmented regulations limit stablecoin adoption in international finance: WTO head",
+      "url": "https://cointelegraph.com/news/fragmented-regulations-limit-stablecoin-adoption-in-international-finance-wto-director?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T13:30:00+00:00",
+      "raw_text": "Fragmented regulations limit stablecoin adoption in international finance: WTO head\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fragmented regulations limit stablecoin adoption in international finance: WTO head\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i",
+      "impact": {}
+    },
+    {
+      "event_id": "24959045-be78-4dd3-bfcd-454ac023f79f",
+      "source": "rss:theblock",
+      "title": "Bitmine adds 27,180 ETH as adviser Tom DeMark sees sharp move in coming weeks",
+      "url": "https://www.theblock.co/news/business/2026-09-14-bitmine-adds-27180-eth-as-adviser-tom-demark-sees-sharp-move-in-coming-weeks-414621",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [
+        "ETH"
+      ],
+      "timestamp_utc": "2026-09-14T13:20:51+00:00",
+      "raw_text": "Bitmine adds 27,180 ETH as adviser Tom DeMark sees sharp move in coming weeks\n\nBitmine added 27,180 ETH, taking its holdings to 5.96 million as advisor Tom DeMark forecasts a sharp upward move.",
+      "impact": {
+        "t_plus_5m": -0.995,
+        "t_plus_15m": -0.4385,
+        "t_plus_1h": -0.4171,
+        "t_plus_4h": 0.2374
+      }
+    },
+    {
+      "event_id": "bee9dc85-8d0c-4d57-99c4-1b65bd918f36",
+      "source": "rss:theblock",
+      "title": "S&P Global leads strategic investment in crypto data firm Kaiko, extending Series B to $110 million",
+      "url": "https://www.theblock.co/news/deals/2026-09-14-sp-global-leads-strategic-investment-in-crypto-data-firm-kaiko-extending-series-b-to-110-million-414618",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T13:13:06+00:00",
+      "raw_text": "S&P Global leads strategic investment in crypto data firm Kaiko, extending Series B to $110 million\n\nBNP Paribas, Nasdaq Ventures, RBC, Coinbase Ventures, DRW Venture Capital and several others joined the extension round.",
+      "impact": {}
+    },
+    {
+      "event_id": "f2116c85-f026-4c4c-b49a-e94adcc409f6",
+      "source": "rss:coindesk",
+      "title": "Bitmine adds $68 million in ether as Tom Lee sees more upside catalysts ahead",
+      "url": "https://www.coindesk.com/business/2026/09/14/bitmine-adds-usd68-million-in-ether-as-tom-lee-sees-more-upside-catalysts-ahead",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T12:58:42+00:00",
+      "raw_text": "Bitmine adds $68 million in ether as Tom Lee sees more upside catalysts ahead",
+      "impact": {}
+    },
+    {
+      "event_id": "34999c92-c4a9-4dff-9fdc-c21a8844ffda",
+      "source": "rss:bitcoinmagazine",
+      "title": "A Bitcoin Berkshire Model: Orange Juice",
+      "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/bitcoin-berkshire-orange-juice",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T12:43:26+00:00",
+      "raw_text": "A Bitcoin Berkshire Model: Orange Juice\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/orange-juice-bitcoin.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.c",
+      "impact": {}
+    },
+    {
+      "event_id": "c3ff4eaa-e4ca-4fc4-8ec0-8d677e68cadf",
+      "source": "rss:theblock",
+      "title": "Strategy repurchases $139 million of STRC shares, leaves bitcoin holdings unchanged",
+      "url": "https://www.theblock.co/news/business/2026-09-14-strategy-strc-bitcoin-mstr-414603",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T12:08:37+00:00",
+      "raw_text": "Strategy repurchases $139 million of STRC shares, leaves bitcoin holdings unchanged\n\nStrategy's total holdings account for roughly 4% of the 21 million bitcoin supply cap — worth roughly $66 billion.",
+      "impact": {}
+    },
+    {
+      "event_id": "97e95b2c-ed87-4995-b9d5-60d30fe5269d",
+      "source": "rss:coindesk",
+      "title": "Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion",
+      "url": "https://www.coindesk.com/markets/2026/09/14/dogecoin-etfs-struggled-for-buyers-while-rival-xrp-and-solana-funds-pulled-in-usd3-billion",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [
+        "XRP"
+      ],
+      "timestamp_utc": "2026-09-14T12:08:35+00:00",
+      "raw_text": "Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion",
+      "impact": {
+        "t_plus_5m": -1.6039,
+        "t_plus_15m": -1.5874,
+        "t_plus_1h": -2.3217,
+        "t_plus_4h": -1.2012
+      }
+    },
+    {
+      "event_id": "c03d5bc3-c025-4296-9271-fd9b23c0d7c7",
+      "source": "rss:coindesk",
+      "title": "Trump agrees to stricter ethics rules to save Clarity Act crypto bill: AP",
+      "url": "https://www.coindesk.com/policy/2026/09/14/trump-agrees-to-stricter-ethics-rules-to-save-clarity-act-crypto-bill-ap",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T12:07:19+00:00",
+      "raw_text": "Trump agrees to stricter ethics rules to save Clarity Act crypto bill: AP",
+      "impact": {}
+    },
+    {
+      "event_id": "0c075443-59fd-4155-8854-8257d81b4a4d",
+      "source": "rss:coindesk",
+      "title": "FCA considers exempting tokenized gold from fund rules to defend London market",
+      "url": "https://www.coindesk.com/business/2026/09/14/fca-considers-exempting-tokenized-gold-from-fund-rules-to-defend-london-market",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T11:58:28+00:00",
+      "raw_text": "FCA considers exempting tokenized gold from fund rules to defend London market",
+      "impact": {}
+    },
+    {
+      "event_id": "06fd2d3e-6970-4e77-8dec-248482cda71c",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin climbs as stocks drop, U.S. 10-year yield rises to 5%",
+      "url": "https://www.coindesk.com/tech/2026/09/14/live-updates-bitcoin-manages-small-gains-as-stocks-drop-on-ai-concern-oil-surges",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T11:44:21+00:00",
+      "raw_text": "Live updates: Bitcoin climbs as stocks drop, U.S. 10-year yield rises to 5%",
+      "impact": {}
+    },
+    {
+      "event_id": "dffaedb7-7090-4ce6-a722-210785717e30",
+      "source": "rss:cointelegraph",
+      "title": "EU cyber rules put crypto wallet makers on 24-hour reporting clock",
+      "url": "https://cointelegraph.com/news/eu-cyber-rules-put-crypto-wallet-24-hour-reporting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T11:38:44+00:00",
+      "raw_text": "EU cyber rules put crypto wallet makers on 24-hour reporting clock\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EU cyber rules put crypto wallet makers on 24-hour reporting clock\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M",
+      "impact": {}
+    },
+    {
+      "event_id": "64586027-a327-4e3f-b8b2-6141f75303af",
+      "source": "rss:coindesk",
+      "title": "Crypto market outperforms as call for slower AI development weighs on tech stocks",
+      "url": "https://www.coindesk.com/daybook-us/2026/09/14/crypto-market-outperforms-as-call-for-slower-ai-development-weighs-on-tech-stocks",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T11:15:00+00:00",
+      "raw_text": "Crypto market outperforms as call for slower AI development weighs on tech stocks",
+      "impact": {}
+    },
+    {
+      "event_id": "86b0c0c9-8051-40a4-877f-c8cca519b5d4",
+      "source": "rss:decrypt",
+      "title": "India Begins Tokenizing Its $620 Billion Corporate Bond Market",
+      "url": "https://decrypt.co/378120/india-begins-tokenizing-its-620-billion-corporate-bond-market",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T11:01:05+00:00",
+      "raw_text": "India Begins Tokenizing Its $620 Billion Corporate Bond Market\n\nSEBI and the RBI's \"Demat 2.0\" pilot issues corporate bonds as digital tokens and settles them with the wholesale digital rupee, with three companies already raising about $107 million.",
+      "impact": {}
+    },
+    {
+      "event_id": "d79020fa-c57f-4054-9549-9d5b7577cc1a",
+      "source": "rss:solana_official",
+      "title": "Solana: Building, Proving and Earning Trust in Public",
+      "url": "https://solana.com/news/solana-building-trust-in-public",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T11:00:00+00:00",
+      "raw_text": "Solana: Building, Proving and Earning Trust in Public\n\nSolana has maintained 100% uptime since February 2024, including when a routing failure took nearly 29% of network stake offline.",
+      "impact": {}
+    },
     {
       "event_id": "30381372-f45e-438a-9748-c02241a0ddba",
       "source": "rss:coindesk",
@@ -40,7 +486,8 @@
       "impact": {
         "t_plus_5m": 0.1824,
         "t_plus_15m": 0.0871,
-        "t_plus_1h": -0.1065
+        "t_plus_1h": -0.1065,
+        "t_plus_4h": 0.2953
       }
     },
     {
@@ -312,6 +759,18 @@
       "tokens": [],
       "timestamp_utc": "2026-09-13T13:00:00+00:00",
       "raw_text": "Fed rate hike is about Wall Street, not inflation, says economist",
+      "impact": {}
+    },
+    {
+      "event_id": "59db1e88-da3f-4c69-a323-950050da9c8f",
+      "source": "rss:coindesk",
+      "title": "Crypto’s Clarity Act heads into a make-or-break week with no clear outcome",
+      "url": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-13T12:00:00+00:00",
+      "raw_text": "Crypto’s Clarity Act heads into a make-or-break week with no clear outcome",
       "impact": {}
     },
     {
@@ -5891,453 +6350,38 @@
       "timestamp_utc": "2026-09-04T14:56:00+00:00",
       "raw_text": "Robinhood isn't backing down after AMC CEO demands halt to stock tokens",
       "impact": {}
-    },
-    {
-      "event_id": "b0e9442b-111d-4b4a-866c-7f54a686043e",
-      "source": "rss:coindesk",
-      "title": "AMC CEO tells Robinhood to stop issuing stock token as industry executives weigh in",
-      "url": "https://www.coindesk.com/business/2026/09/04/amc-ceo-tells-robinhood-to-stop-issuing-stock-token-as-industry-executives-weigh-in",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T14:56:00+00:00",
-      "raw_text": "AMC CEO tells Robinhood to stop issuing stock token as industry executives weigh in",
-      "impact": {}
-    },
-    {
-      "event_id": "ff65eb52-4224-42bc-84ff-7d2703b9c225",
-      "source": "rss:coindesk",
-      "title": "From warning to listing: UK’s largest retail investment platform opens access to crypto ETNs",
-      "url": "https://www.coindesk.com/business/2026/09/04/from-warning-to-listing-uk-s-largest-wealth-platform-opens-access-to-crypto-etns",
-      "event_type": "listing",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T14:23:11+00:00",
-      "raw_text": "From warning to listing: UK’s largest retail investment platform opens access to crypto ETNs",
-      "impact": {}
-    },
-    {
-      "event_id": "4fb0c604-6eaf-4a31-881e-0f2c4d70d7ca",
-      "source": "rss:coindesk",
-      "title": "U.S. Sheriff’s association shifts opposition stance to Clarity Act to 'neutral'",
-      "url": "https://www.coindesk.com/policy/2026/09/04/u-s-sheriff-s-association-shifts-opposition-stance-to-clarity-act-to-neutral",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T14:12:34+00:00",
-      "raw_text": "U.S. Sheriff’s association shifts opposition stance to Clarity Act to 'neutral'",
-      "impact": {}
-    },
-    {
-      "event_id": "7717ee3c-9b4e-4c7b-afcd-edb45bf2a57e",
-      "source": "rss:cointelegraph",
-      "title": "Revolut, OpenReserve get preliminary US bank approval with crypto plans",
-      "url": "https://cointelegraph.com/news/revolut-openreserve-occ-approval-national-bank-crypto-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T13:34:30+00:00",
-      "raw_text": "Revolut, OpenReserve get preliminary US bank approval with crypto plans\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Revolut, OpenReserve get preliminary US bank approval with crypto plans\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2",
-      "impact": {}
-    },
-    {
-      "event_id": "43de9735-b909-4c27-909c-0875a56180f6",
-      "source": "rss:cointelegraph",
-      "title": "Token buybacks are booming. But are they good for crypto projects?",
-      "url": "https://cointelegraph.com/magazine/token-buybacks-are-booming-but-are-they-good-for-crypto-projects?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T13:30:00+00:00",
-      "raw_text": "Token buybacks are booming. But are they good for crypto projects?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Token buybacks are booming. But are they good for crypto projects?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M",
-      "impact": {}
-    },
-    {
-      "event_id": "a36c322c-d16b-44b2-b2bb-a16faa39d3c1",
-      "source": "rss:coindesk",
-      "title": "U.S. added stronger than expected 162,000 jobs in August as labor market bounced back",
-      "url": "https://www.coindesk.com/markets/2026/09/04/u-s-added-stronger-than-expected-162-000-jobs-in-august-as-labor-market-bounced-back",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T12:31:47+00:00",
-      "raw_text": "U.S. added stronger than expected 162,000 jobs in August as labor market bounced back",
-      "impact": {}
-    },
-    {
-      "event_id": "ac7163c6-28d5-4295-9f13-0cc1862d22ed",
-      "source": "rss:decrypt",
-      "title": "Morning Minute: Crypto Stages Major Rally on Rate Hopes",
-      "url": "https://decrypt.co/377393/morning-minute-crypto-stages-major-rally-on-rate-hopes",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T12:31:31+00:00",
-      "raw_text": "Morning Minute: Crypto Stages Major Rally on Rate Hopes\n\nBitcoin soared past $81k, HYPE and ZEC hit smashing new ATHs and the onchain rally leveled up. Is this the first stage of the next leg up?",
-      "impact": {}
-    },
-    {
-      "event_id": "54a00416-e1d9-49be-a610-d609ff9de3a3",
-      "source": "rss:decrypt",
-      "title": "IMF Now Says Donations Funded El Salvador's Bitcoin Growth",
-      "url": "https://decrypt.co/377392/imf-now-says-donations-funded-el-salvadors-bitcoin-growth",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T12:26:01+00:00",
-      "raw_text": "IMF Now Says Donations Funded El Salvador's Bitcoin Growth\n\nA year ago the fund claimed the total had not moved, and that the reserve was only shuffling coins between government wallets.",
-      "impact": {}
-    },
-    {
-      "event_id": "82e1575c-a5ec-4a02-8b58-9ba76f01cb10",
-      "source": "rss:theblock",
-      "title": "Trezor says ShipMonk breach affected another 67,000 customers",
-      "url": "https://www.theblock.co/news/business/2026-09-04-trezor-says-shipmonk-breach-affected-another-67000-customers-413540",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T12:03:16+00:00",
-      "raw_text": "Trezor says ShipMonk breach affected another 67,000 customers\n\nThe newly identified records date from 2019 to 2021 and include names, emails, phone numbers, shipping addresses, and order numbers.",
-      "impact": {}
-    },
-    {
-      "event_id": "544fbdd5-cac3-43d7-a1fe-b0b632483c41",
-      "source": "rss:decrypt",
-      "title": "67,000 More Trezor Customers Exposed as Data Breach Widens",
-      "url": "https://decrypt.co/377389/67000-more-trezor-customers-exposed-as-data-breach-widens",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T11:32:49+00:00",
-      "raw_text": "67,000 More Trezor Customers Exposed as Data Breach Widens\n\nSome records exposed in the breach date to 2019, years beyond the 90-day retention Trezor said its partners had agreed to.",
-      "impact": {}
-    },
-    {
-      "event_id": "5909e484-964d-4916-ae3d-43301ff96987",
-      "source": "rss:cointelegraph",
-      "title": "Kalshi US visits soar 1,500% as regulatory pressure mounts",
-      "url": "https://cointelegraph.com/news/kalshi-traffic-soars-regulatory-pressure-mounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T11:32:28+00:00",
-      "raw_text": "Kalshi US visits soar 1,500% as regulatory pressure mounts\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi US visits soar 1,500% as regulatory pressure mounts\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NT59AV4MSNB8HZB",
-      "impact": {}
-    },
-    {
-      "event_id": "b61e10ae-62a1-48b9-9433-698b38c066a0",
-      "source": "rss:coindesk",
-      "title": "We checked 6 years of bitcoin data. The NFP report isn't big price mover",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/04/we-checked-6-years-of-bitcoin-data-the-nfp-report-isn-t-big-price-mover",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T11:29:05+00:00",
-      "raw_text": "We checked 6 years of bitcoin data. The NFP report isn't big price mover",
-      "impact": {}
-    },
-    {
-      "event_id": "038edcf2-9553-44d2-a296-1391a35cc546",
-      "source": "rss:theblock",
-      "title": "El Salvador has not used public funds to accumulate bitcoin since June 2025, IMF says",
-      "url": "https://www.theblock.co/news/regulation/2026-09-04-el-salvador-has-not-used-public-funds-to-accumulate-bitcoin-since-june-2025-imf-says-413535",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T11:28:46+00:00",
-      "raw_text": "El Salvador has not used public funds to accumulate bitcoin since June 2025, IMF says\n\nIMF says El Salvador used no public funds for bitcoin accumulation since June 2025, with purchases coming from private donations.",
-      "impact": {}
-    },
-    {
-      "event_id": "f642bf12-18a3-44c6-add8-9c37e6a8a569",
-      "source": "rss:theblock",
-      "title": "Crypto firms urge SEC to speed ETF reviews and allow confidential draft filings",
-      "url": "https://www.theblock.co/news/regulation/2026-09-04-crypto-firms-urge-sec-to-speed-etf-reviews-and-allow-confidential-draft-filings-413532",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T11:21:09+00:00",
-      "raw_text": "Crypto firms urge SEC to speed ETF reviews and allow confidential draft filings\n\nIn contrast, Jane Street and Charles Schwab raised concerns over rushed ETF launches and confidential filings limiting market scrutiny.",
-      "impact": {}
-    },
-    {
-      "event_id": "e94827b0-fd93-45de-ae94-7c5e86db43e6",
-      "source": "rss:cointelegraph",
-      "title": "Trezor says data breach affects another 67K US customers",
-      "url": "https://cointelegraph.com/news/trezor-data-breach-affects-67k-us-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T11:19:19+00:00",
-      "raw_text": "Trezor says data breach affects another 67K US customers\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trezor says data breach affects another 67K US customers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P1ZHH851JBMYW8FC0YF",
-      "impact": {}
-    },
-    {
-      "event_id": "1cd6169a-1779-47c9-9833-9fddaa5df228",
-      "source": "rss:cointelegraph",
-      "title": "South Korean regulators introduce tokenized securities roadmap",
-      "url": "https://cointelegraph.com/news/south-korean-regulators-tokenized-securities-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T10:42:10+00:00",
-      "raw_text": "South Korean regulators introduce tokenized securities roadmap\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korean regulators introduce tokenized securities roadmap\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NZDZRJB",
-      "impact": {}
-    },
-    {
-      "event_id": "d06b8fb0-f474-4183-9c30-87d4bc2463dc",
-      "source": "rss:coindesk",
-      "title": "Zcash jumps 20% to landmark $1,000 level as short sellers lose $34 million",
-      "url": "https://www.coindesk.com/markets/2026/09/04/zcash-jumps-20-to-landmark-usd1-000-level-as-short-sellers-lose-usd34-million",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T10:40:14+00:00",
-      "raw_text": "Zcash jumps 20% to landmark $1,000 level as short sellers lose $34 million",
-      "impact": {}
-    },
-    {
-      "event_id": "1b52e9be-49d8-4e7d-aaf5-eeddb4c91b19",
-      "source": "rss:decrypt",
-      "title": "FinCEN Ties $12.7B to Crypto Scams Run From Asian Compounds",
-      "url": "https://decrypt.co/377386/fincen-ties-12-7b-to-crypto-scams-run-from-asian-compounds",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T10:22:57+00:00",
-      "raw_text": "FinCEN Ties $12.7B to Crypto Scams Run From Asian Compounds\n\nMonthly reported sums rose 18% on average, and the compounds now appear to be spreading beyond Southeast Asia.",
-      "impact": {}
-    },
-    {
-      "event_id": "a4943601-88de-4f4c-b52a-d4c4bb9d535b",
-      "source": "rss:theblock",
-      "title": "Andreessen Horowitz-backed OpenReserve secures preliminary OCC approval for national bank charter",
-      "url": "https://www.theblock.co/news/regulation/2026-09-04-andreessen-horowitz-backed-openreserve-secures-preliminary-occ-approval-for-national-bank-charter-413528",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T10:18:40+00:00",
-      "raw_text": "Andreessen Horowitz-backed OpenReserve secures preliminary OCC approval for national bank charter\n\nOpenReserve Holdings received preliminary OCC approval for a national bank focused on onchain settlement, following a $25 million seed round.",
-      "impact": {}
-    },
-    {
-      "event_id": "5b9487e4-641d-4a5c-a1f0-87259455d02c",
-      "source": "rss:coindesk",
-      "title": "Bitcoin clears $81,000 as privacy coins lead a broad crypto rally",
-      "url": "https://www.coindesk.com/markets/2026/09/04/bitcoin-clears-usd81-000-as-privacy-coins-lead-a-broad-crypto-rally",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T09:57:01+00:00",
-      "raw_text": "Bitcoin clears $81,000 as privacy coins lead a broad crypto rally",
-      "impact": {}
-    },
-    {
-      "event_id": "16d50281-cba8-4c60-8789-4f90c951cbc1",
-      "source": "rss:cointelegraph",
-      "title": "AMC chief criticizes Robinhood’s tokenized stock plan",
-      "url": "https://cointelegraph.com/news/amc-ceo-criticizes-robinhoods-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T09:56:52+00:00",
-      "raw_text": "AMC chief criticizes Robinhood’s tokenized stock plan\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"AMC chief criticizes Robinhood’s tokenized stock plan\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NX00RHX337C9BD43FDVDSS/hi",
-      "impact": {}
-    },
-    {
-      "event_id": "6512e557-7fdd-4260-ad4a-ee51cc657c82",
-      "source": "rss:coindesk",
-      "title": "IMF confirms El Salvador’s bitcoin growth was funded by private donations, not public money",
-      "url": "https://www.coindesk.com/business/2026/09/04/imf-confirms-el-salvador-s-bitcoin-growth-was-funded-by-private-donations-not-public-money",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T09:47:15+00:00",
-      "raw_text": "IMF confirms El Salvador’s bitcoin growth was funded by private donations, not public money",
-      "impact": {}
-    },
-    {
-      "event_id": "47547207-add3-428e-be3e-ec38489d315c",
-      "source": "rss:theblock",
-      "title": "South Korea to start tokenizing ‘all types’ of securities in three stages from 2027",
-      "url": "https://www.theblock.co/news/regulation/2026-09-04-south-korea-to-start-tokenizing-all-types-of-securities-in-three-stages-from-2027-413523",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T09:46:06+00:00",
-      "raw_text": "South Korea to start tokenizing ‘all types’ of securities in three stages from 2027\n\nSouth Korea ultimately aims to allow participants to settle tokenized securities onchain with stablecoins, as part of a three-stage plan.",
-      "impact": {}
-    },
-    {
-      "event_id": "67ad39d6-ae20-4b68-9bb2-a12d1e272bcd",
-      "source": "rss:coindesk",
-      "title": "South Korea targets February 2027 rollout for full tokenized securities market",
-      "url": "https://www.coindesk.com/business/2026/09/04/south-korea-targets-february-2027-rollout-for-full-tokenized-securities-market",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T09:41:31+00:00",
-      "raw_text": "South Korea targets February 2027 rollout for full tokenized securities market",
-      "impact": {}
-    },
-    {
-      "event_id": "285c7702-2de9-4e69-b510-671521c0ef62",
-      "source": "rss:decrypt",
-      "title": "AMC CEO Calls Robinhood Stock Tokens 'Contemptible' and 'Vile'",
-      "url": "https://decrypt.co/377378/amc-ceo-calls-robinhood-stock-tokens-contemptible-and-vile",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T09:24:56+00:00",
-      "raw_text": "AMC CEO Calls Robinhood Stock Tokens 'Contemptible' and 'Vile'\n\nAdam Aron says AMC Entertainment has no connection to the tokens and is putting outside securities counsel on the case.",
-      "impact": {}
-    },
-    {
-      "event_id": "ec9c1166-581e-4660-a43d-2ed0072febc5",
-      "source": "rss:theblock",
-      "title": "US bitcoin ETFs report the largest inflow day since January, worth $731 million",
-      "url": "https://www.theblock.co/news/markets/2026-09-04-us-bitcoin-etfs-largest-inflow-day-since-january-413515",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T08:47:05+00:00",
-      "raw_text": "US bitcoin ETFs report the largest inflow day since January, worth $731 million\n\nAnalysts attributed Fed Governor Christopher Waller’s dovish comments to the significant inflow of capital into bitcoin products.",
-      "impact": {}
-    },
-    {
-      "event_id": "c2964980-474b-4d43-a5c6-2a8478eaf81f",
-      "source": "rss:theblock",
-      "title": "AMC stock jumps 21% overnight as CEO slams Robinhood over ‘outrageous’ tokenized shares",
-      "url": "https://www.theblock.co/news/business/2026-09-04-amc-ceo-slams-robinhood-413513",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T07:59:34+00:00",
-      "raw_text": "AMC stock jumps 21% overnight as CEO slams Robinhood over ‘outrageous’ tokenized shares\n\nOpenAI had previously made a similar criticism of Robinhood’s tokenized equities, saying it did not approve the transfer of its shares.",
-      "impact": {}
-    },
-    {
-      "event_id": "f8f754be-39c6-4d9d-a3fd-d82abb044cb3",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin ETF inflows hit $731M, highest since January as BTC reclaims $80K",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-draw-731-million-highest-january-btc-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-09-04T07:37:13+00:00",
-      "raw_text": "Bitcoin ETF inflows hit $731M, highest since January as BTC reclaims $80K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETF inflows hit $731M, highest since January as BTC reclaims $80K\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
-      "impact": {
-        "t_plus_5m": -0.6228,
-        "t_plus_15m": -0.6622,
-        "t_plus_1h": -0.2193,
-        "t_plus_4h": -0.0163
-      }
-    },
-    {
-      "event_id": "764da188-ba1f-4514-9a1a-b5d8f2a91241",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin tumbles after blowout August jobs print",
-      "url": "https://www.coindesk.com/business/2026/09/04/live-updates-bitcoin-etfs-take-usd731-million-their-biggest-day-since-january",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T07:34:07+00:00",
-      "raw_text": "Live updates: Bitcoin tumbles after blowout August jobs print",
-      "impact": {}
-    },
-    {
-      "event_id": "6b6b5d25-7d91-45df-93d4-c9f911827216",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin ETFs take $731 million, their biggest day since January",
-      "url": "https://www.coindesk.com/business/2026/09/04/live-updates-bitcoin-etfs-take-usd731-million-their-biggest-day-since-january",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T07:34:07+00:00",
-      "raw_text": "Live updates: Bitcoin ETFs take $731 million, their biggest day since January",
-      "impact": {}
-    },
-    {
-      "event_id": "dcc4a49b-6832-4e2a-a37e-3e462c2f422a",
-      "source": "rss:cointelegraph",
-      "title": "El Salvador’s post-review Bitcoin accumulation used no public funds: IMF",
-      "url": "https://cointelegraph.com/news/el-salvador-bitcoin-private-donations-imf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T06:16:35+00:00",
-      "raw_text": "El Salvador’s post-review Bitcoin accumulation used no public funds: IMF\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"El Salvador’s post-review Bitcoin accumulation used no public funds: IMF\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
-      "impact": {}
-    },
-    {
-      "event_id": "7f263f93-c4df-4ee2-8611-2728448c69fe",
-      "source": "rss:coindesk",
-      "title": "OpenAI puts $1 billion behind cyber defense after unveiling AI that can find zero-days",
-      "url": "https://www.coindesk.com/tech/2026/09/04/openai-puts-usd1-billion-behind-cyber-defense-after-unveiling-ai-that-can-find-zero-days",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T05:49:43+00:00",
-      "raw_text": "OpenAI puts $1 billion behind cyber defense after unveiling AI that can find zero-days",
-      "impact": {}
-    },
-    {
-      "event_id": "dc998c32-5070-4b13-9104-8726f58811ff",
-      "source": "rss:coindesk",
-      "title": "One full bitcoin now buys a little more than 18 ounces of gold, the most since January",
-      "url": "https://www.coindesk.com/markets/2026/09/04/one-full-bitcoin-now-buys-a-little-more-than-18-ounces-of-gold-the-most-since-january",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T05:10:34+00:00",
-      "raw_text": "One full bitcoin now buys a little more than 18 ounces of gold, the most since January",
-      "impact": {}
-    },
-    {
-      "event_id": "20cbeec5-9357-43cb-8045-e29641169744",
-      "source": "rss:cointelegraph",
-      "title": "US, UK launch joint alliance targeting crypto scam centers",
-      "url": "https://cointelegraph.com/news/us-uk-joint-alliance-crypto-scam-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T04:33:55+00:00",
-      "raw_text": "US, UK launch joint alliance targeting crypto scam centers\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US, UK launch joint alliance targeting crypto scam centers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NB3D2EEQMKVH8E9",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 163,
-        "avg_1h": 0.11,
-        "avg_24h": -1.73,
+      "macro": {
+        "count": 90,
+        "avg_1h": -0.64,
+        "avg_24h": 0.45,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 96,
-        "avg_1h": -0.1,
-        "avg_24h": 0.45,
+      "unknown": {
+        "count": 182,
+        "avg_1h": 0.05,
+        "avg_24h": -1.89,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "listing": {
+        "count": 7,
+        "avg_1h": -0.08,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 167,
+        "avg_1h": 0.04,
+        "avg_24h": -1.73,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
         "count": 50,
         "avg_1h": -0.17,
         "avg_24h": -1.09,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 180,
-        "avg_1h": 0.11,
-        "avg_24h": -1.89,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "listing": {
-        "count": 7,
-        "avg_1h": -0.06,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
