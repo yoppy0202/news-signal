@@ -1,6 +1,180 @@
 {
-  "generated_at": "2026-09-14T06:10:49.986927+00:00",
+  "generated_at": "2026-09-14T13:57:13.680015+00:00",
   "events": [
+    {
+      "event_id": "30381372-f45e-438a-9748-c02241a0ddba",
+      "source": "rss:coindesk",
+      "title": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
+      "url": "https://www.coindesk.com/markets/2026/09/14/bitcoin-climbs-to-usd78-000-as-crypto-sits-out-the-ai-selloff",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T10:09:41+00:00",
+      "raw_text": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
+      "impact": {}
+    },
+    {
+      "event_id": "4d2ca3dd-9244-4358-b176-cb5749b59a4b",
+      "source": "rss:cointelegraph",
+      "title": "CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week",
+      "url": "https://cointelegraph.com/markets/clarity-act-vote-meets-fed-rate-hike-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T10:00:17+00:00",
+      "raw_text": "CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar",
+      "impact": {}
+    },
+    {
+      "event_id": "c95d4a5c-cd3d-4c90-9cdc-4a064169cff0",
+      "source": "rss:cointelegraph",
+      "title": "Symbiosis says recovered 15 BTC from bridge hack, offers 20% bounty",
+      "url": "https://cointelegraph.com/news/symbiosis-recovered-15-btc-bridge-hack-20-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-09-14T09:55:35+00:00",
+      "raw_text": "Symbiosis says recovered 15 BTC from bridge hack, offers 20% bounty\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Symbiosis says recovered 15 BTC from bridge hack, offers 20% bounty\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/0",
+      "impact": {
+        "t_plus_5m": 0.1824,
+        "t_plus_15m": 0.0871,
+        "t_plus_1h": -0.1065
+      }
+    },
+    {
+      "event_id": "05c7d188-2da2-4072-a1d8-80f8b854c1fd",
+      "source": "rss:coindesk",
+      "title": "TikTok developer ByteDance arranges $29.6 billion loan as it builds AI ambitions",
+      "url": "https://www.coindesk.com/business/2026/09/14/tiktok-developer-bytedance-arranges-usd29-6-billion-loan-as-it-builds-ai-ambitions",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T09:43:45+00:00",
+      "raw_text": "TikTok developer ByteDance arranges $29.6 billion loan as it builds AI ambitions",
+      "impact": {}
+    },
+    {
+      "event_id": "11d1dce6-88b0-4cce-a5dd-9d20c8974566",
+      "source": "rss:theblock",
+      "title": "Bernstein sees more Clarity Act progress than markets expected, says ‘any positive surprise is definitely not priced in’",
+      "url": "https://www.theblock.co/news/regulation/2026-09-14-bernstein-sees-more-clarity-act-progress-than-markets-expected-says-any-positive-surprise-is-definitely-not-priced-in-414593",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T09:36:08+00:00",
+      "raw_text": "Bernstein sees more Clarity Act progress than markets expected, says ‘any positive surprise is definitely not priced in’\n\nThe analysts argued crypto markets currently have a bearish bias ahead of Tuesday's cloture vote and Wednesday's Federal Reserve decision.",
+      "impact": {}
+    },
+    {
+      "event_id": "2f5e43f3-3be5-4deb-834a-07e82a21194d",
+      "source": "rss:coindesk",
+      "title": "Fed, BOE, BOJ interest-rate decisions: Crypto Week Ahead",
+      "url": "https://www.coindesk.com/markets/2026/09/14/fed-boe-boj-interest-rate-decisions-crypto-week-ahead",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T09:29:57+00:00",
+      "raw_text": "Fed, BOE, BOJ interest-rate decisions: Crypto Week Ahead",
+      "impact": {}
+    },
+    {
+      "event_id": "32c3fd4d-54e0-43b8-aa9a-8081e30f63e3",
+      "source": "rss:theblock",
+      "title": "TD Cowen sees 90% upside for bitcoin treasury firm Smarter Web following proposed ‘MORE’ preferred IPO",
+      "url": "https://www.theblock.co/news/markets/2026-09-14-td-cowen-sees-90-upside-for-bitcoin-treasury-firm-smarter-web-following-proposed-more-preferred-ipo-414590",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T09:29:39+00:00",
+      "raw_text": "TD Cowen sees 90% upside for bitcoin treasury firm Smarter Web following proposed ‘MORE’ preferred IPO\n\nTD Cowen raised its Smarter Web price target after its proposed MORE preferred IPO, citing broader funding options and capital efficiency.",
+      "impact": {}
+    },
+    {
+      "event_id": "80b36289-f7ff-4a8d-a103-f5c735d91082",
+      "source": "rss:decrypt",
+      "title": "Bitcoin Suisse to Cut Up to Half Its Swiss Jobs in Overseas Shift",
+      "url": "https://decrypt.co/378119/bitcoin-suisse-cut-half-swiss-jobs",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T09:01:03+00:00",
+      "raw_text": "Bitcoin Suisse to Cut Up to Half Its Swiss Jobs in Overseas Shift\n\nThe Crypto Valley pioneer is moving up to 60 Zug jobs to Bratislava or Vietnam as it pivots from a Swiss crypto specialist into a global wealth manager.",
+      "impact": {}
+    },
+    {
+      "event_id": "96b9773d-b082-486d-ad7a-e750cc2ceea8",
+      "source": "rss:cointelegraph",
+      "title": "UK FCA seeks views on fund rule exemptions for tokenized gold",
+      "url": "https://cointelegraph.com/news/uk-fca-weighs-fund-rules-exemption-for-tokenized-gold-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T08:57:00+00:00",
+      "raw_text": "UK FCA seeks views on fund rule exemptions for tokenized gold\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK FCA seeks views on fund rule exemptions for tokenized gold\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2FH25D983B",
+      "impact": {}
+    },
+    {
+      "event_id": "da0f6e72-2a92-4d27-b67a-36073c3d430a",
+      "source": "rss:theblock",
+      "title": "South Korean investors push for fourth crypto tax delay as regulators stand firm",
+      "url": "https://www.theblock.co/news/regulation/2026-09-14-south-korean-investors-crypto-tax-delay-414581",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T08:31:06+00:00",
+      "raw_text": "South Korean investors push for fourth crypto tax delay as regulators stand firm\n\nA petition to postpone the planned digital asset gains tax in South Korea reached its threshold of 50,000 signatures.",
+      "impact": {}
+    },
+    {
+      "event_id": "96ba6823-6159-4e1a-a035-342bcfbe29ce",
+      "source": "rss:coindesk",
+      "title": "Bitcoin bucks tech selloff as AI safety concerns weigh on stocks",
+      "url": "https://www.coindesk.com/markets/2026/09/14/bitcoin-bucks-tech-selloff-as-ai-safety-concerns-weigh-on-stocks",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T08:07:16+00:00",
+      "raw_text": "Bitcoin bucks tech selloff as AI safety concerns weigh on stocks",
+      "impact": {}
+    },
+    {
+      "event_id": "bfd2ee75-2795-47ee-a809-c28d253b7704",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin ETFs shed $463M in weekly reversal as Ether ETFs gain $197M",
+      "url": "https://cointelegraph.com/markets/bitcoin-etfs-shed-463m-ether-etfs-gain-197m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T07:07:54+00:00",
+      "raw_text": "Bitcoin ETFs shed $463M in weekly reversal as Ether ETFs gain $197M\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs shed $463M in weekly reversal as Ether ETFs gain $197M\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/0",
+      "impact": {}
+    },
+    {
+      "event_id": "aaf1a553-b81e-4e1f-8753-37b53b121ff6",
+      "source": "rss:cointelegraph",
+      "title": "King Charles to host AI chiefs amid industry call to slow development",
+      "url": "https://cointelegraph.com/news/king-charles-host-ai-chiefs-amid-industry-call-slow-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T05:16:59+00:00",
+      "raw_text": "King Charles to host AI chiefs amid industry call to slow development\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"King Charles to host AI chiefs amid industry call to slow development\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/",
+      "impact": {}
+    },
+    {
+      "event_id": "dd670065-4beb-4bc8-acdc-44ebacae1255",
+      "source": "rss:cointelegraph",
+      "title": "Robinhood CEO says issuers should not have veto over tokenized stocks",
+      "url": "https://cointelegraph.com/news/robinhood-ceo-issuer-veto-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-14T04:55:28+00:00",
+      "raw_text": "Robinhood CEO says issuers should not have veto over tokenized stocks\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Robinhood CEO says issuers should not have veto over tokenized stocks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/",
+      "impact": {}
+    },
     {
       "event_id": "98f84a6b-20b5-446e-b6c0-08e099950e66",
       "source": "rss:theblock",
@@ -64,7 +238,8 @@
       "impact": {
         "t_plus_5m": 0.2276,
         "t_plus_15m": -0.0685,
-        "t_plus_1h": -0.5278
+        "t_plus_1h": -0.5278,
+        "t_plus_4h": -0.392
       }
     },
     {
@@ -6131,182 +6306,14 @@
       "timestamp_utc": "2026-09-04T04:33:55+00:00",
       "raw_text": "US, UK launch joint alliance targeting crypto scam centers\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US, UK launch joint alliance targeting crypto scam centers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NB3D2EEQMKVH8E9",
       "impact": {}
-    },
-    {
-      "event_id": "dc9bf50c-4bb9-43ba-84c4-a119149e76bd",
-      "source": "rss:coindesk",
-      "title": "Bitcoin back above $81,000 as hike odds fade, Zcash leads with 15% jump",
-      "url": "https://www.coindesk.com/markets/2026/09/04/bitcoin-back-above-usd81-000-as-hike-odds-fade-zcash-leads-with-15-jump",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T04:22:01+00:00",
-      "raw_text": "Bitcoin back above $81,000 as hike odds fade, Zcash leads with 15% jump",
-      "impact": {}
-    },
-    {
-      "event_id": "4e7bf3fb-683a-47ee-8b87-2b9a95af1d67",
-      "source": "rss:solana_official",
-      "title": "Solana Ecosystem Roundup: August 2026",
-      "url": "https://solana.com/news/solana-ecosystem-roundup-august-2026",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T04:18:00+00:00",
-      "raw_text": "Solana Ecosystem Roundup: August 2026\n\nSolana’s August 2026 roundup: record transactions, $4B in RWAs, growing stablecoin payments, tokenized stocks, DeFi innovation, ETFs, and governance.",
-      "impact": {}
-    },
-    {
-      "event_id": "f7c3df7b-d6df-466b-b411-f9397bf7e637",
-      "source": "rss:coindesk",
-      "title": "U.S. banking agency gives blockchain bank OpenReserve initial OK to operate",
-      "url": "https://www.coindesk.com/policy/2026/09/03/u-s-banking-agency-gives-blockchain-bank-openreserve-initial-ok-to-operate",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T03:26:50+00:00",
-      "raw_text": "U.S. banking agency gives blockchain bank OpenReserve initial OK to operate",
-      "impact": {}
-    },
-    {
-      "event_id": "a80e794b-9b49-4515-8dae-fb9d972c63bb",
-      "source": "rss:coindesk",
-      "title": "AMC CEO blasts Robinhood for stock token, putting synthetic shares in spotlight",
-      "url": "https://www.coindesk.com/business/2026/09/03/amc-ceo-blasts-robinhood-for-stock-token-putting-synthetic-shares-in-spotlight",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-04T03:03:25+00:00",
-      "raw_text": "AMC CEO blasts Robinhood for stock token, putting synthetic shares in spotlight",
-      "impact": {}
-    },
-    {
-      "event_id": "b32ec8c7-d0eb-4967-a3e8-9f5045f89731",
-      "source": "rss:cointelegraph",
-      "title": "Tether sued over $42M in frozen coins, 6,600 students get crypto loans: Asia Express",
-      "url": "https://cointelegraph.com/magazine/tether-sued-over-frozen-pig-butcher-coins-6600-students-get-crypto-loans-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-03T23:40:09+00:00",
-      "raw_text": "Tether sued over $42M in frozen coins, 6,600 students get crypto loans: Asia Express\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether sued over $42M in frozen coins, 6,600 students get crypto loans: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia",
-      "impact": {}
-    },
-    {
-      "event_id": "2352825d-5d9e-4aa0-8bbe-2352887f52e1",
-      "source": "rss:cointelegraph",
-      "title": "Tether sued over frozen ‘pig butcher’ coins, 6,600 students get crypto loans: Asia Express",
-      "url": "https://cointelegraph.com/magazine/tether-sued-over-frozen-pig-butcher-coins-6600-students-get-crypto-loans-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-03T23:40:09+00:00",
-      "raw_text": "Tether sued over frozen ‘pig butcher’ coins, 6,600 students get crypto loans: Asia Express\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether sued over frozen ‘pig butcher’ coins, 6,600 students get crypto loans: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-im",
-      "impact": {}
-    },
-    {
-      "event_id": "b964a3de-288b-48d3-96de-97cc69dfc593",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin Bear Market May Not Yet Be Over, Says Fidelity",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-bear-market-not-over-says-fidelity",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-03T22:19:41+00:00",
-      "raw_text": "Bitcoin Bear Market May Not Yet Be Over, Says Fidelity\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-6.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.",
-      "impact": {}
-    },
-    {
-      "event_id": "79ecf621-fc3a-4144-a216-81369848e8cc",
-      "source": "rss:decrypt",
-      "title": "Utah Becomes First State to Target VPNs in Age-Verification Crackdown",
-      "url": "https://decrypt.co/377370/utah-websites-check-vpn-age-verification",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-03T22:16:04+00:00",
-      "raw_text": "Utah Becomes First State to Target VPNs in Age-Verification Crackdown\n\nPrivacy advocates say the law raises First Amendment questions the courts have yet to address.",
-      "impact": {}
-    },
-    {
-      "event_id": "d57a8a67-b6e2-44c2-aea5-1d9b12b4c72c",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin-Gold Correlation Hits Six-Year High as Debasement Fears Mount",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-gold-correlation-soars",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-03T21:31:34+00:00",
-      "raw_text": "Bitcoin-Gold Correlation Hits Six-Year High as Debasement Fears Mount\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-5.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://b",
-      "impact": {}
-    },
-    {
-      "event_id": "7b305e0a-475e-46bd-8914-fc0b822af0eb",
-      "source": "rss:decrypt",
-      "title": "Bitcoin Miner Ditches Site for AI Deal That Could Top $1.2 Billion",
-      "url": "https://decrypt.co/377363/bitcoin-mine-ai-deal-1-2-billion",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-03T21:31:05+00:00",
-      "raw_text": "Bitcoin Miner Ditches Site for AI Deal That Could Top $1.2 Billion\n\nThe projected revenue requires two contract extensions, while an option for more computing capacity could bring the total above $3 billion.",
-      "impact": {}
-    },
-    {
-      "event_id": "8d614900-5e57-41c3-8c13-5ab1ee770c65",
-      "source": "rss:cointelegraph",
-      "title": "CFTC files to dismiss CME lawsuit over crypto perpetual futures",
-      "url": "https://cointelegraph.com/news/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-03T21:09:13+00:00",
-      "raw_text": "CFTC files to dismiss CME lawsuit over crypto perpetual futures\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC files to dismiss CME lawsuit over crypto perpetual futures\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1MD85W",
-      "impact": {}
-    },
-    {
-      "event_id": "e873115c-0a22-45bc-839f-e5926727f5d1",
-      "source": "rss:theblock",
-      "title": "Coinbase seeks SEC greenlight to list equity perpetuals",
-      "url": "https://www.theblock.co/news/regulation/2026-09-03-coinbase-seeks-sec-greenlight-to-list-24-7-equity-perpetuals-413487",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-03T20:46:52+00:00",
-      "raw_text": "Coinbase seeks SEC greenlight to list equity perpetuals\n\nCoinbase, the largest U.S. based crypto exchange, is seeking to list equity products as perpetual gain momentum.",
-      "impact": {}
-    },
-    {
-      "event_id": "000c770c-528c-4637-a624-e32978ebdd02",
-      "source": "rss:theblock",
-      "title": "Coinbase seeks SEC greenlight to list 24/7 equity perpetuals",
-      "url": "https://www.theblock.co/news/regulation/2026-09-03-coinbase-seeks-sec-greenlight-to-list-24-7-equity-perpetuals-413487",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-03T20:46:52+00:00",
-      "raw_text": "Coinbase seeks SEC greenlight to list 24/7 equity perpetuals\n\nCoinbase, the largest U.S. based crypto exchange, is seeking to list 24/7 equity products as perpetual gain momentum.",
-      "impact": {}
-    },
-    {
-      "event_id": "c39102a8-d5b4-40cc-8ab6-28cb0400ef6d",
-      "source": "rss:decrypt",
-      "title": "What Is Pons? The Robinhood Chain Meme Coin Factory Token Up 18,000% Since July",
-      "url": "https://decrypt.co/377349/pons-robinhood-chain-meme-coin-token-factory",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-03T20:46:04+00:00",
-      "raw_text": "What Is Pons? The Robinhood Chain Meme Coin Factory Token Up 18,000% Since July\n\nPONS, the token behind Robinhood Chain's biggest meme coin factory, flipped CASHCAT to become the chain's largest cryptocurrency by market cap—and its chart looks like a hockey stick.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 181,
+      "narrative": {
+        "count": 163,
         "avg_1h": 0.11,
-        "avg_24h": -1.89,
+        "avg_24h": -1.73,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
@@ -6316,15 +6323,15 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 49,
+        "count": 50,
         "avg_1h": -0.17,
         "avg_24h": -1.09,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 163,
+      "unknown": {
+        "count": 180,
         "avg_1h": 0.11,
-        "avg_24h": -1.73,
+        "avg_24h": -1.89,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
