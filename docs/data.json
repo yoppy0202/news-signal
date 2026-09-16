@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T20:04:16.784044+00:00",
+  "generated_at": "2026-09-16T22:53:24.658014+00:00",
   "events": [
     {
       "event_id": "35770838-42ef-4c4a-b28a-f8a2270ed517",
@@ -164,10 +164,18 @@
       "url": "https://bitcoinmagazine.com/print/the-quantum-issue-to-freeze-coins-or-not",
       "event_type": "listing",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC",
+        "ETH"
+      ],
       "timestamp_utc": "2026-09-16T16:39:01+00:00",
       "raw_text": "The Quantum Issue: To Freeze Coins Or Not\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Quantum-Issue-Article-Header-2400x1400-To-Freeze-Coins-or-Not.png\" style=\"display: block; margin: 1em auto;\" ",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.364,
+        "t_plus_15m": -0.2359,
+        "t_plus_1h": -0.6725,
+        "t_plus_4h": 0.1595
+      }
     },
     {
       "event_id": "4fb951e6-8692-4124-99a1-5bee13d93a70",
@@ -224,10 +232,17 @@
       "url": "https://decrypt.co/378382/bitcoin-etfs-clarity-act-vote",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-09-16T15:50:07+00:00",
       "raw_text": "Bitcoin ETFs Had Their Worst Day Since June Following Failed Clarity Act Vote\n\nBitcoin, Ethereum, and XRP ETFs shed roughly $593 million combined Tuesday, their heaviest single-day drawdown since June.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -1.8125,
+        "t_plus_15m": -1.8316,
+        "t_plus_1h": -1.8342,
+        "t_plus_4h": 0.7066
+      }
     },
     {
       "event_id": "2290756f-7ed9-4393-be55-b40325d9e2ee",
@@ -943,7 +958,8 @@
         "t_plus_5m": -0.0506,
         "t_plus_15m": -0.0695,
         "t_plus_1h": -0.6521,
-        "t_plus_4h": 0.2749
+        "t_plus_4h": 0.2749,
+        "t_plus_24h": 0.5847
       }
     },
     {
@@ -6325,8 +6341,8 @@
     "by_event_type": {
       "macro": {
         "count": 104,
-        "avg_1h": -0.34,
-        "avg_24h": -1.73,
+        "avg_1h": -0.48,
+        "avg_24h": -0.96,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
@@ -6349,7 +6365,7 @@
       },
       "listing": {
         "count": 11,
-        "avg_1h": -0.39,
+        "avg_1h": -0.44,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
