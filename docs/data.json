@@ -1,6 +1,258 @@
 {
-  "generated_at": "2026-09-16T16:47:00.786180+00:00",
+  "generated_at": "2026-09-16T20:04:16.784044+00:00",
   "events": [
+    {
+      "event_id": "35770838-42ef-4c4a-b28a-f8a2270ed517",
+      "source": "rss:decrypt",
+      "title": "Bitcoin Core Software Update Aims for Speed and Security Patches",
+      "url": "https://decrypt.co/378430/bitcoin-core-software-october-update",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-16T18:53:48+00:00",
+      "raw_text": "Bitcoin Core Software Update Aims for Speed and Security Patches\n\nBitcoin Core 32.0 has entered final testing, bringing faster block checks and changes to how wallets prepare payments.",
+      "impact": {}
+    },
+    {
+      "event_id": "c11d9f8b-039b-48e3-ad07-abc007e4e30b",
+      "source": "rss:bitcoinmagazine",
+      "title": "CFTC Chairman Says Agency Will Write Crypto Rules After Clarity Act Vote Fails",
+      "url": "https://bitcoinmagazine.com/news/cftc-chair-will-write-rules-clarity-fail",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-16T18:27:14+00:00",
+      "raw_text": "CFTC Chairman Says Agency Will Write Crypto Rules After Clarity Act Vote Fails\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/CFTC-Cracks-Open-U.S.-Market-for-Bitcoin-and-Crypto-Perpetual-Futures.jp",
+      "impact": {}
+    },
+    {
+      "event_id": "4a195774-4b1d-49e9-8732-d0df9552a996",
+      "source": "rss:decrypt",
+      "title": "Fed Hikes Rates for the First Time Since 2023, Bitcoin Spikes",
+      "url": "https://decrypt.co/378417/fed-hikes-rates-first-time-since-2023-bitcoin",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-16T18:15:38+00:00",
+      "raw_text": "Fed Hikes Rates for the First Time Since 2023, Bitcoin Spikes\n\nThe Federal Reserve delivered the hike Wall Street had almost unanimously priced in.",
+      "impact": {}
+    },
+    {
+      "event_id": "897e5004-3329-4a42-9cce-9c3cc0b27e5a",
+      "source": "rss:theblock",
+      "title": "‘Go time’: SEC, CFTC prepare to push crypto rules as Clarity Act stalls in Senate",
+      "url": "https://www.theblock.co/news/regulation/2026-09-16-go-time-sec-cftc-prepare-push-crypto-rules-clarity-act-stalls-senate-415281",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-16T18:06:15+00:00",
+      "raw_text": "‘Go time’: SEC, CFTC prepare to push crypto rules as Clarity Act stalls in Senate\n\nCFTC Chair Mike Selig said his agency is \"locked in and ready to ship its rules for the new frontier of finance.\"",
+      "impact": {}
+    },
+    {
+      "event_id": "67b6f5b0-9047-40ac-8ab7-ebea7c531172",
+      "source": "rss:cointelegraph",
+      "title": "US House tax committee advances crypto tax overhaul in 38–5 vote",
+      "url": "https://cointelegraph.com/news/house-tax-committee-advances-crypto-tax-overhaul-in-385-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-16T18:01:55+00:00",
+      "raw_text": "US House tax committee advances crypto tax overhaul in 38–5 vote\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US House tax committee advances crypto tax overhaul in 38–5 vote\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NKZ",
+      "impact": {}
+    },
+    {
+      "event_id": "8aa7e1fa-d5c7-4599-8816-937ee79fa244",
+      "source": "rss:coindesk",
+      "title": "Fed raises rates by 25 basis points in first hike since July 2023",
+      "url": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-16T17:54:55+00:00",
+      "raw_text": "Fed raises rates by 25 basis points in first hike since July 2023",
+      "impact": {}
+    },
+    {
+      "event_id": "cc0b6f0d-f67e-4590-9a2d-47ed1a824a00",
+      "source": "rss:coindesk",
+      "title": "Celsius sues BitMEX for $495 million over 2020 crash liquidations",
+      "url": "https://www.coindesk.com/business/2026/09/16/celsius-sues-bitmex-for-usd495-million-over-2020-crash-liquidations",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-16T17:34:04+00:00",
+      "raw_text": "Celsius sues BitMEX for $495 million over 2020 crash liquidations",
+      "impact": {}
+    },
+    {
+      "event_id": "6474eabe-5c16-4a96-b6af-23505b851e57",
+      "source": "rss:theblock",
+      "title": "House panel approves first federal crypto tax framework, one day after Senate’s Clarity Act stumbles",
+      "url": "https://www.theblock.co/news/regulation/2026-09-16-house-panel-approves-first-federal-crypto-tax-framework-one-day-after-senates-clarity-act-stumbles-415293",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-16T17:29:50+00:00",
+      "raw_text": "House panel approves first federal crypto tax framework, one day after Senate’s Clarity Act stumbles\n\nThe House Ways and Means Committee voted to advance crypto tax legislation, sending it to the House to consider.",
+      "impact": {}
+    },
+    {
+      "event_id": "e3761983-d464-49d8-a457-b322b5749b7c",
+      "source": "rss:decrypt",
+      "title": "CFTC and SEC Double Down on Crypto After Clarity Act Defeat",
+      "url": "https://decrypt.co/378408/cftc-sec-double-down-crypto-clarity-act",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-16T17:17:03+00:00",
+      "raw_text": "CFTC and SEC Double Down on Crypto After Clarity Act Defeat\n\nMichael Selig and Paul Atkins pledged to use their agencies’ existing powers to provide crypto regulatory certainty after the Senate failed to advance the bill.",
+      "impact": {}
+    },
+    {
+      "event_id": "4df2627d-4630-4bad-bc86-14201af0b4aa",
+      "source": "rss:theblock",
+      "title": "Aave founder pitches ‘Uber path’ for DeFi after Clarity Act fails Senate vote",
+      "url": "https://www.theblock.co/news/defi/2026-09-16-aave-founder-pitches-uber-path-defi-clarity-act-fails-senate-vote-415278",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-16T17:08:29+00:00",
+      "raw_text": "Aave founder pitches ‘Uber path’ for DeFi after Clarity Act fails Senate vote\n\nAave founder Stani Kulechov sees an 'Uber path' for DeFi if U.S. crypto legislation stalls, he told The Starting Block.",
+      "impact": {}
+    },
+    {
+      "event_id": "62555bb6-5e44-4480-a1f3-b84e7b856e6e",
+      "source": "rss:decrypt",
+      "title": "Hackers Hijack HBO Max’s Reddit Account to Spread Crypto-Stealing Malware",
+      "url": "https://decrypt.co/378401/hackers-hbo-max-reddit-account-crypto-malware",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-16T17:06:02+00:00",
+      "raw_text": "Hackers Hijack HBO Max’s Reddit Account to Spread Crypto-Stealing Malware\n\nAttackers ran 108 malicious ads through the streaming service’s verified account, directing users to fake software downloads.",
+      "impact": {}
+    },
+    {
+      "event_id": "dece4bea-db22-4456-9cb0-d9fa9e3fc292",
+      "source": "rss:theblock",
+      "title": "JPMorgan says Clarity Act ‘not fully dead,’ but passage window ‘extremely narrow’",
+      "url": "https://www.theblock.co/news/regulation/2026-09-16-jpmorgan-clarity-act-crypto-bill-415280",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-16T17:01:22+00:00",
+      "raw_text": "JPMorgan says Clarity Act ‘not fully dead,’ but passage window ‘extremely narrow’\n\nThe Clarity Act is \"not fully dead,\" but the window for passing the crypto bill this year is now \"extremely narrow,\" JPMorgan said.",
+      "impact": {}
+    },
+    {
+      "event_id": "e28c3f78-b15f-4bb6-aee4-9eb54c5cac2a",
+      "source": "rss:bitcoinmagazine",
+      "title": "Bitcoin Is on Sale and Should Be Accumulated, Says Morgan Creek Capital CEO",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-on-sale-says-mark-yusko",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-16T16:40:06+00:00",
+      "raw_text": "Bitcoin Is on Sale and Should Be Accumulated, Says Morgan Creek Capital CEO\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-23.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"ht",
+      "impact": {}
+    },
+    {
+      "event_id": "1790cc02-ef70-4bbd-8510-61adca9b693f",
+      "source": "rss:bitcoinmagazine",
+      "title": "The Quantum Issue: To Freeze Coins Or Not",
+      "url": "https://bitcoinmagazine.com/print/the-quantum-issue-to-freeze-coins-or-not",
+      "event_type": "listing",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-16T16:39:01+00:00",
+      "raw_text": "The Quantum Issue: To Freeze Coins Or Not\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Quantum-Issue-Article-Header-2400x1400-To-Freeze-Coins-or-Not.png\" style=\"display: block; margin: 1em auto;\" ",
+      "impact": {}
+    },
+    {
+      "event_id": "4fb951e6-8692-4124-99a1-5bee13d93a70",
+      "source": "rss:decrypt",
+      "title": "Zuckerberg Pushes Back on Coordinated AI Slowdown, Says Labs Can Act Alone",
+      "url": "https://decrypt.co/378381/zuckerberg-pushes-back-ai-slowdown",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-16T16:31:03+00:00",
+      "raw_text": "Zuckerberg Pushes Back on Coordinated AI Slowdown, Says Labs Can Act Alone\n\nMeta’s CEO says competition and potential liability give AI developers reasons to prioritize safety, citing the company’s decision to delay Muse.",
+      "impact": {}
+    },
+    {
+      "event_id": "f93f47d0-ad73-46ef-86eb-413da044d9b0",
+      "source": "rss:coindesk",
+      "title": "U.S. House's tax committee advances crypto tax bill in wake of Clarity Act loss",
+      "url": "https://www.coindesk.com/policy/2026/09/16/u-s-house-s-tax-committee-advances-crypto-tax-bill-in-wake-of-clarity-act-loss",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-16T16:21:44+00:00",
+      "raw_text": "U.S. House's tax committee advances crypto tax bill in wake of Clarity Act loss",
+      "impact": {}
+    },
+    {
+      "event_id": "31f8fff7-170d-4b57-9dc5-7e4095d6b0c1",
+      "source": "rss:cointelegraph",
+      "title": "Anchorage expands institutional custody to Etherlink, tokenized uranium",
+      "url": "https://cointelegraph.com/news/anchorage-digital-brings-tokenized-uranium-custody-to-federally-chartered-crypto-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-16T16:03:35+00:00",
+      "raw_text": "Anchorage expands institutional custody to Etherlink, tokenized uranium\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Anchorage expands institutional custody to Etherlink, tokenized uranium\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2",
+      "impact": {}
+    },
+    {
+      "event_id": "f69dd081-f459-4019-a936-ee0efe2594af",
+      "source": "rss:cointelegraph",
+      "title": "Coinbase faces greater fallout from CLARITY Act setback: Saxo",
+      "url": "https://cointelegraph.com/news/coinbase-clarity-act-exposure-saxo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-16T15:52:17+00:00",
+      "raw_text": "Coinbase faces greater fallout from CLARITY Act setback: Saxo\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase faces greater fallout from CLARITY Act setback: Saxo\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NBVNQWMFT",
+      "impact": {}
+    },
+    {
+      "event_id": "86bd1f35-3d7b-4ae5-9fd4-200bd22e9aac",
+      "source": "rss:decrypt",
+      "title": "Bitcoin ETFs Had Their Worst Day Since June Following Failed Clarity Act Vote",
+      "url": "https://decrypt.co/378382/bitcoin-etfs-clarity-act-vote",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-16T15:50:07+00:00",
+      "raw_text": "Bitcoin ETFs Had Their Worst Day Since June Following Failed Clarity Act Vote\n\nBitcoin, Ethereum, and XRP ETFs shed roughly $593 million combined Tuesday, their heaviest single-day drawdown since June.",
+      "impact": {}
+    },
+    {
+      "event_id": "2290756f-7ed9-4393-be55-b40325d9e2ee",
+      "source": "rss:bitcoinmagazine",
+      "title": "Deutsche Bank To Debut Bitcoin Custody for Institutional Clients",
+      "url": "https://bitcoinmagazine.com/news/deutsche-bank-to-debut-bitcoin-custody",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-16T15:42:24+00:00",
+      "raw_text": "Deutsche Bank To Debut Bitcoin Custody for Institutional Clients\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/image7_1920x1080.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"http",
+      "impact": {}
+    },
+    {
+      "event_id": "3771ab73-17f0-49c6-8846-ca172d68ff42",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin awaits Fed rate decision below $76K as analysis discounts ‘dovish surprise’ odds",
+      "url": "https://cointelegraph.com/markets/bitcoin-awaits-fed-rate-decision-below-76k-as-analysis-discounts-dovish-surprise-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-16T15:30:49+00:00",
+      "raw_text": "Bitcoin awaits Fed rate decision below $76K as analysis discounts ‘dovish surprise’ odds\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin awaits Fed rate decision below $76K as analysis discounts ‘dovish surprise’ odds\" class=\"type:primaryImage\" src=\"https://s3-images",
+      "impact": {}
+    },
     {
       "event_id": "04c10d6d-dcbd-4638-be4f-d9aa9f7f2898",
       "source": "rss:coindesk",
@@ -278,6 +530,18 @@
       "impact": {}
     },
     {
+      "event_id": "8060b1d5-61af-42f6-86c9-2fbe836cec1d",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin slips as Fed hikes rates and suggests more to come",
+      "url": "https://www.coindesk.com/business/2026/09/16/live-updates-zcash-climbs-6-as-majors-slide-ahead-of-fed-rate-decision",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-16T10:37:46+00:00",
+      "raw_text": "Live updates: Bitcoin slips as Fed hikes rates and suggests more to come",
+      "impact": {}
+    },
+    {
       "event_id": "057c1815-a580-43b3-bba5-39aca795bfee",
       "source": "rss:coindesk",
       "title": "Live updates: Bitcoin holds near $76,000 as traders brace for first Fed rate hike in three years",
@@ -400,7 +664,8 @@
       "impact": {
         "t_plus_5m": 0.0102,
         "t_plus_15m": 0.0414,
-        "t_plus_1h": -0.0536
+        "t_plus_1h": -0.0536,
+        "t_plus_4h": -0.2973
       }
     },
     {
@@ -6054,324 +6319,25 @@
         "t_plus_4h": 0.2947,
         "t_plus_24h": -0.3316
       }
-    },
-    {
-      "event_id": "b67967d6-9772-4663-9ac4-4d7b97ecf7ea",
-      "source": "rss:theblock",
-      "title": "Hyperliquid open interest climbs to $14.3 billion as HYPE hits all-time high",
-      "url": "https://www.theblock.co/news/ecosystems/2026-09-08-hyperliquid-open-interest-climbs-14-3-billion-hype-hits-all-time-high-413855",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-08T20:08:23+00:00",
-      "raw_text": "Hyperliquid open interest climbs to $14.3 billion as HYPE hits all-time high\n\nOn Oct. 10, 2025, Hyperliquid’s OI fell by around 56% in a single day, from $14.7 billion to just $6.5 billion.",
-      "impact": {}
-    },
-    {
-      "event_id": "6dd73736-1801-4b81-a26f-756ee953d267",
-      "source": "rss:theblock",
-      "title": "A 22 year-old crypto ringleader pleads guilty to $245 million racketeering scheme",
-      "url": "https://www.theblock.co/news/regulation/2026-09-08-a-22-year-old-crypto-ringleader-pleads-guilty-to-245-million-racketeering-scheme-413911",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-08T19:17:17+00:00",
-      "raw_text": "A 22 year-old crypto ringleader pleads guilty to $245 million racketeering scheme\n\nMalone Lam pleaded guilty for his role in leading an international \"social engineering\" scheme, stealing  $245 million worth in cryptocurrency.",
-      "impact": {}
-    },
-    {
-      "event_id": "4adbaf84-b7c6-4c66-a1ad-57c6b1656337",
-      "source": "rss:decrypt",
-      "title": "Bitcoin Holds, Wall Street Stalls as Oil Shock Revives Fed Hike Bets",
-      "url": "https://decrypt.co/377705/bitcoin-holds-wall-street-stalls-oil-shock-fed-hike",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-08T18:59:35+00:00",
-      "raw_text": "Bitcoin Holds, Wall Street Stalls as Oil Shock Revives Fed Hike Bets\n\nBitcoin is defending its golden zone support while the S&#038;P 500 grinds inside its tightest range yet, both waiting on Friday's inflation report before the Fed's September 16 rate call.",
-      "impact": {}
-    },
-    {
-      "event_id": "a33162a4-3ca5-4fca-959e-367b935bf9e6",
-      "source": "rss:cointelegraph",
-      "title": "Bybit launches 24/7 perpetuals for major currency pairs",
-      "url": "https://cointelegraph.com/news/bybit-expands-tradfi-push-with-100x-fx-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-08T18:51:08+00:00",
-      "raw_text": "Bybit launches 24/7 perpetuals for major currency pairs\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bybit launches 24/7 perpetuals for major currency pairs\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M214SKH0TJH9F4DEZTD531F",
-      "impact": {}
-    },
-    {
-      "event_id": "8d72dacd-d0a0-4cd3-b710-4b7ba900eade",
-      "source": "rss:theblock",
-      "title": "DeFi Development closes Strategy-style $11 million CHAD offering to grow Solana treasury",
-      "url": "https://www.theblock.co/news/markets/2026-09-08-defi-development-closes-strategy-style-11-million-chad-offering-grow-solana-treasury-413892",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-08T18:33:27+00:00",
-      "raw_text": "DeFi Development closes Strategy-style $11 million CHAD offering to grow Solana treasury\n\nDeFi Development Corp's CHAD is a Variable Rate Series C perpetual preferred stock, with an initial annual dividend rate of 13%.",
-      "impact": {}
-    },
-    {
-      "event_id": "ecf7f867-98b8-451f-bf9a-3ef29c97f073",
-      "source": "rss:decrypt",
-      "title": "Visa Taps Onchain Lending to Finance Stablecoin Card Programs",
-      "url": "https://decrypt.co/377696/visa-onchain-lending-finance-stablecoin-card",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-08T18:16:04+00:00",
-      "raw_text": "Visa Taps Onchain Lending to Finance Stablecoin Card Programs\n\nThe payment processor giant is pairing payment settlement data with blockchain lending tools to help fintechs and stablecoin-linked card programs access working capital.",
-      "impact": {}
-    },
-    {
-      "event_id": "3e64bac5-948d-49cf-966d-4ad253b94a25",
-      "source": "rss:bitcoinmagazine",
-      "title": "Capital B Buys 376 Bitcoins in Its Biggest Purchase of 2026",
-      "url": "https://bitcoinmagazine.com/news/capital-b-makes-biggest-2026-buy",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-09-08T17:53:33+00:00",
-      "raw_text": "Capital B Buys 376 Bitcoins in Its Biggest Purchase of 2026\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-10.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmag",
-      "impact": {
-        "t_plus_5m": 0.2018,
-        "t_plus_15m": 0.3805,
-        "t_plus_1h": 0.0137,
-        "t_plus_4h": 0.0997
-      }
-    },
-    {
-      "event_id": "17ba9902-e744-4cc4-80b3-ec089e0bc0bc",
-      "source": "rss:decrypt",
-      "title": "Strive Buys $109 Million in Bitcoin, Pushes Preferred Stock Toward $1 Billion",
-      "url": "https://decrypt.co/377689/strive-buys-109-million-bitcoin-preferred-stock-1-billion",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-09-08T17:46:05+00:00",
-      "raw_text": "Strive Buys $109 Million in Bitcoin, Pushes Preferred Stock Toward $1 Billion\n\nThe Vivek Ramaswamy-founded asset manager added 1,375 BTC last week, its third straight week of 5%-plus growth.",
-      "impact": {
-        "t_plus_5m": 0.2117,
-        "t_plus_15m": 0.2018,
-        "t_plus_1h": 0.313,
-        "t_plus_4h": 0.2092
-      }
-    },
-    {
-      "event_id": "c768ba59-1e14-489d-80e7-630233623552",
-      "source": "rss:decrypt",
-      "title": "Cronos Erased Two Hours of Transactions to Reverse $111 Million DeFi Exploit",
-      "url": "https://decrypt.co/377686/cronos-erased-two-hours-transactions-defi-exploit",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-08T17:10:51+00:00",
-      "raw_text": "Cronos Erased Two Hours of Transactions to Reverse $111 Million DeFi Exploit\n\nThe rollback reversed legitimate activity alongside the attack, while $9.19 million remains unrecovered, according to Cronos.",
-      "impact": {}
-    },
-    {
-      "event_id": "8d5e1bd1-c9c2-427b-a67c-206685c2cd75",
-      "source": "rss:cointelegraph",
-      "title": "Robinhood takes stakes in Crypto.com, OG.com in prediction markets deal",
-      "url": "https://cointelegraph.com/news/robinhood-takes-stakes-in-cryptocom-ogcom-in-prediction-markets-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-08T17:03:47+00:00",
-      "raw_text": "Robinhood takes stakes in Crypto.com, OG.com in prediction markets deal\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Robinhood takes stakes in Crypto.com, OG.com in prediction markets deal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2",
-      "impact": {}
-    },
-    {
-      "event_id": "9f8e8e82-c5e2-448a-9f10-54e64a0a25ea",
-      "source": "rss:cointelegraph",
-      "title": "Visa brings onchain credit to its growing stablecoin card business",
-      "url": "https://cointelegraph.com/news/visa-stablecoin-blockchain-lending-payment-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-08T16:11:53+00:00",
-      "raw_text": "Visa brings onchain credit to its growing stablecoin card business\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Visa brings onchain credit to its growing stablecoin card business\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M",
-      "impact": {}
-    },
-    {
-      "event_id": "e05ee03a-bca5-43c4-8954-882b7f8a859e",
-      "source": "rss:theblock",
-      "title": "Robinhood expands prediction markets with Crypto.com, OG partnerships ahead of NFL season",
-      "url": "https://www.theblock.co/news/markets/2026-09-08-robinhood-expands-prediction-markets-crypto-com-og-partnerships-nfl-season-413832",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-08T15:54:17+00:00",
-      "raw_text": "Robinhood expands prediction markets with Crypto.com, OG partnerships ahead of NFL season\n\nRobinhood will also acquire equity stakes in Crypto.com and OG.com, which will be valued based on Crypto.com's recent $20 billion valuation.",
-      "impact": {}
-    },
-    {
-      "event_id": "320bf79c-9da4-472d-94d2-f1e82811c2e2",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin faces key support test at $78.3K as US crude oil hits three-month high",
-      "url": "https://cointelegraph.com/markets/bitcoin-faces-key-support-test-at-783k-as-us-crude-oil-hits-three-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-09-08T15:41:11+00:00",
-      "raw_text": "Bitcoin faces key support test at $78.3K as US crude oil hits three-month high\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin faces key support test at $78.3K as US crude oil hits three-month high\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar",
-      "impact": {
-        "t_plus_5m": -0.0077,
-        "t_plus_15m": 0.1327,
-        "t_plus_1h": 0.1629,
-        "t_plus_4h": -0.334
-      }
-    },
-    {
-      "event_id": "0f859968-6970-4eec-a1d6-ef8ae03c3e43",
-      "source": "rss:bitcoinmagazine",
-      "title": "Castle Opens Its Bitcoin Savings Stack to Individuals",
-      "url": "https://bitcoinmagazine.com/news/castle-opens-savings-stack-individuals",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-08T15:38:33+00:00",
-      "raw_text": "Castle Opens Its Bitcoin Savings Stack to Individuals\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-9.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.c",
-      "impact": {}
-    },
-    {
-      "event_id": "bf68f8e7-a525-4695-8e32-014f9fe28690",
-      "source": "rss:bitcoinmagazine",
-      "title": "Strategy Halted Its Bitcoin Buys Again Last Week",
-      "url": "https://bitcoinmagazine.com/news/strategy-halted-bitcoin-buys-last-week",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-09-08T15:38:26+00:00",
-      "raw_text": "Strategy Halted Its Bitcoin Buys Again Last Week\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/03/Strategy-MSTR-Breaks-13-Week-Bitcoin-Buying-Streak-Holdings-Hold-at-762099-BTC.jpg\" style=\"display: bl",
-      "impact": {
-        "t_plus_5m": -0.0077,
-        "t_plus_15m": 0.1327,
-        "t_plus_1h": 0.1629,
-        "t_plus_4h": -0.334
-      }
-    },
-    {
-      "event_id": "792d8b95-64d3-4b9c-af28-4af1a269c64c",
-      "source": "rss:decrypt",
-      "title": "US Police Fear Meta Glasses Are Watching Them Back: Report",
-      "url": "https://decrypt.co/377675/us-police-fear-meta-glasses-are-watching-them-back-report",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-08T15:28:43+00:00",
-      "raw_text": "US Police Fear Meta Glasses Are Watching Them Back: Report\n\nMemos from the NYPD to Homeland Security warn the devices could be used for covert filming inside jails and police facilities.",
-      "impact": {}
-    },
-    {
-      "event_id": "23eec29e-57e5-4044-ae7d-c022eccda102",
-      "source": "rss:decrypt",
-      "title": "Robinhood Takes Equity Stake in Crypto.com, Taps Exchange to Power Prediction Markets",
-      "url": "https://decrypt.co/377676/robinhood-equity-crypto-com-prediction-markets",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-08T15:25:16+00:00",
-      "raw_text": "Robinhood Takes Equity Stake in Crypto.com, Taps Exchange to Power Prediction Markets\n\nThe multi-year deal makes OG.com the infrastructure and clearing engine behind Robinhood's fastest-growing business.",
-      "impact": {}
-    },
-    {
-      "event_id": "72c8f28b-6b85-4504-b2fc-7f6458e3b6a0",
-      "source": "rss:coindesk",
-      "title": "Copper CEO Amar Kuchinad departs as search for a buyer enters a fourth month",
-      "url": "https://www.coindesk.com/business/2026/09/08/copper-ceo-amar-kuchinad-departs-as-search-for-a-buyer-enters-a-fourth-month",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-08T15:23:46+00:00",
-      "raw_text": "Copper CEO Amar Kuchinad departs as search for a buyer enters a fourth month",
-      "impact": {}
-    },
-    {
-      "event_id": "7597d708-e21e-4f18-a370-f8f1bca3a870",
-      "source": "rss:theblock",
-      "title": "Strive adds 1,375 bitcoin as SATA approaches ‘billion-dollar’ milestone",
-      "url": "https://www.theblock.co/news/markets/2026-09-08-strive-adds-1375-bitcoin-sata-approaches-billion-dollar-milestone-413800",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-08T15:11:59+00:00",
-      "raw_text": "Strive adds 1,375 bitcoin as SATA approaches ‘billion-dollar’ milestone\n\nStrive CEO Matt Cole said 70% of the capital raised during the week came from sales of its SATA perpetual preferred stock.",
-      "impact": {}
-    },
-    {
-      "event_id": "01540a4d-b1d4-4b96-ba51-77c331e8d225",
-      "source": "rss:theblock",
-      "title": "ZKsync developer Matter Labs open-sources Prividium permissioning engine; Bundesbank tests platform",
-      "url": "https://www.theblock.co/news/ecosystems/2026-09-08-zksync-developer-matter-labs-open-sources-prividium-permissioning-engine-bundesbank-tests-platform-413814",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-08T15:05:03+00:00",
-      "raw_text": "ZKsync developer Matter Labs open-sources Prividium permissioning engine; Bundesbank tests platform\n\nZKsync developer Matter Labs has open-sourced the permissioning engine of Prividium, its DLT platform for financial institutions.",
-      "impact": {}
-    },
-    {
-      "event_id": "d1911e00-07b5-4709-8052-e87ac45bcdce",
-      "source": "rss:decrypt",
-      "title": "Tom Lee's Bitmine Adds $70 Million in Ethereum, Holdings Reach 5.93 Million ETH",
-      "url": "https://decrypt.co/377672/tom-lee-bitmine-adds-70-million-ethereum",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-09-08T15:04:44+00:00",
-      "raw_text": "Tom Lee's Bitmine Adds $70 Million in Ethereum, Holdings Reach 5.93 Million ETH\n\nThe company says it holds roughly 4.9% of Ethereum’s supply, with most of its tokens staked to earn rewards.",
-      "impact": {
-        "t_plus_5m": -0.3377,
-        "t_plus_15m": -0.2813,
-        "t_plus_1h": 0.0434,
-        "t_plus_4h": -0.2261
-      }
-    },
-    {
-      "event_id": "ad8202ad-c9f5-4c24-abf3-42f3edfd2cd7",
-      "source": "rss:coindesk",
-      "title": "Circle agrees to buy cross-border payments firm Tazapay for $400 million",
-      "url": "https://www.coindesk.com/business/2026/09/08/circle-agrees-to-buy-cross-border-payments-firm-tazapay-for-usd400-million",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-08T14:40:46+00:00",
-      "raw_text": "Circle agrees to buy cross-border payments firm Tazapay for $400 million",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 104,
+        "avg_1h": -0.34,
+        "avg_24h": -1.73,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 184,
-        "avg_1h": -0.14,
+        "count": 177,
+        "avg_1h": -0.19,
         "avg_24h": -1.22,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 171,
-        "avg_1h": -0.73,
-        "avg_24h": -1.73,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 93,
-        "avg_1h": -0.34,
+        "count": 168,
+        "avg_1h": -0.85,
         "avg_24h": -1.73,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6382,8 +6348,8 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
-        "count": 12,
-        "avg_1h": -0.23,
+        "count": 11,
+        "avg_1h": -0.39,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
