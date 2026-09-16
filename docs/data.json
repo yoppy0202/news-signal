@@ -1,6 +1,84 @@
 {
-  "generated_at": "2026-09-16T05:57:58.810384+00:00",
+  "generated_at": "2026-09-16T11:24:47.082388+00:00",
   "events": [
+    {
+      "event_id": "5fa1244e-0205-4a28-a1cd-781cdbea0eb3",
+      "source": "rss:cointelegraph",
+      "title": "US charges ex-Robinhood engineers over alleged pre-listing crypto trades",
+      "url": "https://cointelegraph.com/news/robinhood-engineers-hyperliquid-listing-trades-charges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "listing",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-16T04:48:20+00:00",
+      "raw_text": "US charges ex-Robinhood engineers over alleged pre-listing crypto trades\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US charges ex-Robinhood engineers over alleged pre-listing crypto trades\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
+      "impact": {}
+    },
+    {
+      "event_id": "385b835f-c3ef-4e63-947a-c4e7bb141b72",
+      "source": "rss:coindesk",
+      "title": "Crypto longs worth $570 million wiped out as Clarity Act fails",
+      "url": "https://www.coindesk.com/markets/2026/09/16/crypto-bulls-take-a-usd570-million-liquidation-hit-as-clarity-act-fails",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-16T04:07:27+00:00",
+      "raw_text": "Crypto longs worth $570 million wiped out as Clarity Act fails",
+      "impact": {}
+    },
+    {
+      "event_id": "7204cf27-8656-42e9-9959-e35b4dac459a",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin ETFs shed $450M in biggest outflow since June",
+      "url": "https://cointelegraph.com/news/bitcoin-etfs-shed-450m-in-biggest-outflow-since-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-16T04:05:39+00:00",
+      "raw_text": "Bitcoin ETFs shed $450M in biggest outflow since June\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs shed $450M in biggest outflow since June\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2M5WQHM74XV1CTRDCQ9ZXS3/bi",
+      "impact": {}
+    },
+    {
+      "event_id": "a3c4cf58-e786-461a-aceb-5fc3624f3f5d",
+      "source": "rss:coindesk",
+      "title": "XRP sinks 10% as the Clarity Act fails and bitcoin slides toward $76,000",
+      "url": "https://www.coindesk.com/markets/2026/09/16/xrp-sinks-10-as-the-clarity-act-fails-and-bitcoin-slides-toward-usd76-000",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [
+        "XRP"
+      ],
+      "timestamp_utc": "2026-09-16T03:37:45+00:00",
+      "raw_text": "XRP sinks 10% as the Clarity Act fails and bitcoin slides toward $76,000",
+      "impact": {
+        "t_plus_5m": -0.3314,
+        "t_plus_15m": -0.3261,
+        "t_plus_1h": 0.711
+      }
+    },
+    {
+      "event_id": "2c9d7996-3867-478b-a41e-d2423272266e",
+      "source": "rss:theblock",
+      "title": "‘Nothing truly structural’: Analysts downplay Clarity Act defeat as bitcoin, major crypto stocks dip",
+      "url": "https://www.theblock.co/news/markets/2026-09-15-analysts-downplay-clarity-act-415234",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-16T02:48:42+00:00",
+      "raw_text": "‘Nothing truly structural’: Analysts downplay Clarity Act defeat as bitcoin, major crypto stocks dip\n\nAnalysts told The Block that the crypto market will continue to move with interest rates and the broader monetary environment.",
+      "impact": {}
+    },
+    {
+      "event_id": "0be8a599-703c-4edc-9d66-3dd2a9c418b3",
+      "source": "rss:cointelegraph",
+      "title": "Crypto industry turns to US regulators after CLARITY setback",
+      "url": "https://cointelegraph.com/news/crypto-industry-turns-to-us-regulators-after-clarity-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-16T02:24:07+00:00",
+      "raw_text": "Crypto industry turns to US regulators after CLARITY setback\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto industry turns to US regulators after CLARITY setback\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2KZR03KE34Y9",
+      "impact": {}
+    },
     {
       "event_id": "57754a75-fa82-45a6-a20f-b1b9eb34e05a",
       "source": "rss:coindesk",
@@ -76,7 +154,8 @@
       "impact": {
         "t_plus_5m": -0.0506,
         "t_plus_15m": -0.0695,
-        "t_plus_1h": -0.6521
+        "t_plus_1h": -0.6521,
+        "t_plus_4h": 0.2749
       }
     },
     {
@@ -94,7 +173,8 @@
       "impact": {
         "t_plus_5m": 0.1131,
         "t_plus_15m": -0.0798,
-        "t_plus_1h": -0.6624
+        "t_plus_1h": -0.6624,
+        "t_plus_4h": 0.0945
       }
     },
     {
@@ -6294,110 +6374,38 @@
       "timestamp_utc": "2026-09-08T05:56:23+00:00",
       "raw_text": "Bitcoin’s golden cross is here",
       "impact": {}
-    },
-    {
-      "event_id": "78b4177c-0049-4d01-89de-bc3569a097a7",
-      "source": "rss:theblock",
-      "title": "Cronos says $9.2 million remains unrecovered after Tectonic exploit, chain rollback",
-      "url": "https://www.theblock.co/news/ecosystems/2026-09-08-cronos-post-mortem-413724",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-08T05:51:16+00:00",
-      "raw_text": "Cronos says $9.2 million remains unrecovered after Tectonic exploit, chain rollback\n\nA subsequent rollback reversed roughly $111.2 million, but $9.19 million had already left the chain and remains unrecovered, Cronos says.",
-      "impact": {}
-    },
-    {
-      "event_id": "a334efba-931a-4433-93e0-6c6923c24f16",
-      "source": "rss:cointelegraph",
-      "title": "Australia says it removed 45 crypto, remittance registrations over the past year",
-      "url": "https://cointelegraph.com/news/australia-removes-45-crypto-remittance-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-08T05:10:33+00:00",
-      "raw_text": "Australia says it removed 45 crypto, remittance registrations over the past year\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Australia says it removed 45 crypto, remittance registrations over the past year\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
-      "impact": {}
-    },
-    {
-      "event_id": "0b37b88a-facd-4501-8147-319e0adfc6d0",
-      "source": "rss:coindesk",
-      "title": "Liquid Network gets back 3,400 bitcoin from whitehat hackers; talks underway for the rest",
-      "url": "https://www.coindesk.com/markets/2026/09/08/white-hat-hackers-return-most-of-usd320m-bitcoin-taken-from-liquid-network",
-      "event_type": "hack",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-08T04:41:17+00:00",
-      "raw_text": "Liquid Network gets back 3,400 bitcoin from whitehat hackers; talks underway for the rest",
-      "impact": {}
-    },
-    {
-      "event_id": "2dcd767b-68b0-475f-9422-d07481a43f4f",
-      "source": "rss:coindesk",
-      "title": "Bitcoin slips under $79,000, Zcash leads losses as Fed hike odds hold near 60%",
-      "url": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-under-usd79-000-zcash-leads-losses-as-fed-hike-odds-hold-near-60",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-08T04:40:57+00:00",
-      "raw_text": "Bitcoin slips under $79,000, Zcash leads losses as Fed hike odds hold near 60%",
-      "impact": {}
-    },
-    {
-      "event_id": "9c22a44a-7c12-44ee-8de3-c19a01421ae7",
-      "source": "rss:theblock",
-      "title": "Ethereum aims for quantum-safe L1 by 2029 as Hegotá upgrade takes form",
-      "url": "https://www.theblock.co/news/ecosystems/2026-09-08-ethereum-foundation-quantum-resistance-2029-413716",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-08T04:17:21+00:00",
-      "raw_text": "Ethereum aims for quantum-safe L1 by 2029 as Hegotá upgrade takes form\n\nEthereum is targeting full post-quantum security by 2029, starting with account abstraction and censorship resistance upgrades for Hegotá.",
-      "impact": {}
-    },
-    {
-      "event_id": "ce1b4f9a-7ea5-4784-af20-f700733ced2c",
-      "source": "rss:cointelegraph",
-      "title": "Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart",
-      "url": "https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-08T03:46:17+00:00",
-      "raw_text": "Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 191,
-        "avg_1h": -0.16,
-        "avg_24h": -1.89,
+      "listing": {
+        "count": 13,
+        "avg_1h": -0.2,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 169,
-        "avg_1h": -0.71,
+        "count": 171,
+        "avg_1h": -0.59,
         "avg_24h": -1.73,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 85,
+        "count": 84,
         "avg_1h": -0.34,
         "avg_24h": -1.73,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 41,
-        "avg_1h": -0.46,
-        "avg_24h": -1.09,
+      "unknown": {
+        "count": 192,
+        "avg_1h": -0.16,
+        "avg_24h": -1.89,
         "win_rate_1h_gt5pct": 0.0
       },
-      "listing": {
-        "count": 12,
-        "avg_1h": -0.2,
-        "avg_24h": null,
+      "hack": {
+        "count": 38,
+        "avg_1h": -0.46,
+        "avg_24h": -1.09,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
