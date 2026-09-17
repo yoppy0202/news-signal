@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-09-17T01:19:59.885159+00:00",
+  "generated_at": "2026-09-17T07:34:29.428413+00:00",
   "events": [
+    {
+      "event_id": "7d5cdb83-4320-4d97-afce-14313e6c86aa",
+      "source": "rss:coindesk",
+      "title": "Zcash jumps 23% as bitcoin and major tokens rise despite Fed’s first hike since 2023",
+      "url": "https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T04:47:27+00:00",
+      "raw_text": "Zcash jumps 23% as bitcoin and major tokens rise despite Fed’s first hike since 2023",
+      "impact": {}
+    },
+    {
+      "event_id": "2a5b42e6-e0f2-437e-b81a-e8fb96130c72",
+      "source": "rss:coindesk",
+      "title": "Goldman pivots, now forecasts Fed rate hike in October",
+      "url": "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T04:17:55+00:00",
+      "raw_text": "Goldman pivots, now forecasts Fed rate hike in October",
+      "impact": {}
+    },
+    {
+      "event_id": "a456b8dd-2df4-4725-bd6a-d861ecb4fe53",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin absorbs Fed rate hike as officials see more tightening",
+      "url": "https://cointelegraph.com/markets/bitcoin-absorbs-fed-rate-hike-as-officials-see-more-tightening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T02:52:08+00:00",
+      "raw_text": "Bitcoin absorbs Fed rate hike as officials see more tightening\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin absorbs Fed rate hike as officials see more tightening\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2PM955XF",
+      "impact": {}
+    },
+    {
+      "event_id": "6e7e87ad-441d-44ff-8f06-44825f613b72",
+      "source": "rss:theblock",
+      "title": "‘Not the end’: Sen. Gillibrand says Democrats still committed to passing Clarity Act",
+      "url": "https://www.theblock.co/news/regulation/2026-09-16-sen-gillibrand-still-committed-to-clarity-415326",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T02:09:31+00:00",
+      "raw_text": "‘Not the end’: Sen. Gillibrand says Democrats still committed to passing Clarity Act\n\nIndustry analysts say it is highly unlikely for the bill to pass this Congress, and instead pointed to the SEC and CFTC's rulemaking efforts.",
+      "impact": {}
+    },
+    {
+      "event_id": "3d045c6f-c97a-448d-a627-3228739839a1",
+      "source": "rss:theblock",
+      "title": "House committee moves to codify Trump’s Strategic Bitcoin Reserve",
+      "url": "https://www.theblock.co/news/regulation/2026-09-16-house-committee-moves-bitcoin-reserve-bill-415317",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T00:56:10+00:00",
+      "raw_text": "House committee moves to codify Trump’s Strategic Bitcoin Reserve\n\nA House committee advanced a bill to create a strategic bitcoin reserve, which would codify Trump's plan for permanent bitcoin holdings.",
+      "impact": {}
+    },
+    {
+      "event_id": "d0fdb2d0-3806-44ae-b53e-fd46efe8305a",
+      "source": "rss:cointelegraph",
+      "title": "US lawmakers advance bill to lock Trump’s Bitcoin reserve into law",
+      "url": "https://cointelegraph.com/news/us-bitcoin-reserve-bill-passes-house-committee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T00:23:44+00:00",
+      "raw_text": "US lawmakers advance bill to lock Trump’s Bitcoin reserve into law\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US lawmakers advance bill to lock Trump’s Bitcoin reserve into law\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M",
+      "impact": {}
+    },
     {
       "event_id": "92945360-aad6-45a3-9d09-292a5ecccf6c",
       "source": "rss:cointelegraph",
@@ -68,10 +140,17 @@
       "url": "https://bitcoinmagazine.com/videos/peter-schiff-the-fed-has-already-lost-the-battle",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-09-16T20:28:50+00:00",
       "raw_text": "Peter Schiff: “The Fed Has Already Lost The Battle Against Inflation” & BTC vs GOLD Debate\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Peter-Schiff-22The-Fed-Has-Already-Lost-The-Battle-Against-I",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2716,
+        "t_plus_15m": -0.3827,
+        "t_plus_1h": -0.4361,
+        "t_plus_4h": -0.0037
+      }
     },
     {
       "event_id": "d4f80028-75be-439b-8653-0ebcebc3b977",
@@ -6241,82 +6320,16 @@
       "timestamp_utc": "2026-09-09T07:20:51+00:00",
       "raw_text": "Live updates: Brent crude hits $100 for first time since July as bitcoin holds above $79,000",
       "impact": {}
-    },
-    {
-      "event_id": "0bac6be7-57f3-4b2b-b38d-4be1dafb4768",
-      "source": "rss:coindesk",
-      "title": "AI could kill us, Anthropic researcher says after resigning",
-      "url": "https://www.coindesk.com/markets/2026/09/09/anthropic-researcher-quits-with-a-warning-on-ai-that-echoes-the-terminator-script",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T06:20:38+00:00",
-      "raw_text": "AI could kill us, Anthropic researcher says after resigning",
-      "impact": {}
-    },
-    {
-      "event_id": "9ac42627-485b-4f28-a35a-23c13d456e6c",
-      "source": "rss:coindesk",
-      "title": "Anthropic researcher quits with a warning on AI that echoes 'The Terminator' script",
-      "url": "https://www.coindesk.com/markets/2026/09/09/anthropic-researcher-quits-with-a-warning-on-ai-that-echoes-the-terminator-script",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T06:20:38+00:00",
-      "raw_text": "Anthropic researcher quits with a warning on AI that echoes 'The Terminator' script",
-      "impact": {}
-    },
-    {
-      "event_id": "edbfb09a-3bac-490c-92b5-52953fc79271",
-      "source": "rss:cointelegraph",
-      "title": "Gemini receives Singapore payment license for crypto services",
-      "url": "https://cointelegraph.com/news/gemini-singapore-mpi-license-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T05:27:12+00:00",
-      "raw_text": "Gemini receives Singapore payment license for crypto services\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Gemini receives Singapore payment license for crypto services\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22A0GM1G22",
-      "impact": {}
-    },
-    {
-      "event_id": "b543d4cc-bc4c-4d03-a1d1-a8f70d73f116",
-      "source": "rss:coindesk",
-      "title": "Hunter Biden defends LAPTOP ahead of Wednesday launch, calls TRUMP a ‘grift’",
-      "url": "https://www.coindesk.com/markets/2026/09/09/hunter-biden-defends-laptop-ahead-of-wednesday-launch-calls-trump-a-grift",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T05:22:57+00:00",
-      "raw_text": "Hunter Biden defends LAPTOP ahead of Wednesday launch, calls TRUMP a ‘grift’",
-      "impact": {}
-    },
-    {
-      "event_id": "4b962718-6d46-4a92-bd9b-dcc65c9dde67",
-      "source": "rss:coindesk",
-      "title": "Moonshot’s Kimi rattled markets. U.S. agencies now say it was trained on American models",
-      "url": "https://www.coindesk.com/tech/2026/09/09/moonshot-s-kimi-rattled-markets-u-s-agencies-now-say-it-was-trained-on-american-models",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T04:40:54+00:00",
-      "raw_text": "Moonshot’s Kimi rattled markets. U.S. agencies now say it was trained on American models",
-      "impact": {}
-    },
-    {
-      "event_id": "369a5db2-a7fd-4523-b968-5c2960d9ec3f",
-      "source": "rss:coindesk",
-      "title": "Bitcoin recovers toward $79,000 as Zcash records a $500 million ETF haul",
-      "url": "https://www.coindesk.com/markets/2026/09/09/bitcoin-recovers-toward-usd79-000-as-zcash-records-a-usd500-million-etf-haul",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T04:35:55+00:00",
-      "raw_text": "Bitcoin recovers toward $79,000 as Zcash records a $500 million ETF haul",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 108,
+        "avg_1h": -0.52,
+        "avg_24h": -0.96,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 178,
         "avg_1h": -0.19,
@@ -6324,7 +6337,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 166,
+        "count": 163,
         "avg_1h": -0.85,
         "avg_24h": -1.73,
         "win_rate_1h_gt5pct": 0.0
@@ -6333,12 +6346,6 @@
         "count": 39,
         "avg_1h": -0.58,
         "avg_24h": -1.28,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 105,
-        "avg_1h": -0.53,
-        "avg_24h": -0.96,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
