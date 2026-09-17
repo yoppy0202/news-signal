@@ -1,6 +1,355 @@
 {
-  "generated_at": "2026-09-17T13:23:15.826045+00:00",
+  "generated_at": "2026-09-17T18:09:31.386401+00:00",
   "events": [
+    {
+      "event_id": "5e4d2865-e249-4056-abb2-ebc4b89aa4f5",
+      "source": "rss:coindesk",
+      "title": "Crypto for Advisors: Beyond bitcoin and ether",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/09/17/crypto-for-advisors-beyond-bitcoin-and-ether",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T14:57:11+00:00",
+      "raw_text": "Crypto for Advisors: Beyond bitcoin and ether",
+      "impact": {}
+    },
+    {
+      "event_id": "5697069a-7603-4470-b8ca-db5c9aa04aaa",
+      "source": "rss:decrypt",
+      "title": "SEC Clears a Path for Tokenized Stocks After Clarity Act Stumbles",
+      "url": "https://decrypt.co/378492/sec-innovation-exemption-tokenized-stocks-clarity-act",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T14:52:03+00:00",
+      "raw_text": "SEC Clears a Path for Tokenized Stocks After Clarity Act Stumbles\n\nThe \"innovation exemption\" lets qualifying venues trade tokenized versions of U.S. stocks on public blockchains without registering as exchanges—though it excludes price-tracking \"synthetics\" and lets companies block tokenization of ",
+      "impact": {}
+    },
+    {
+      "event_id": "fe4b0499-6bbe-4b60-be25-0ad62423e23c",
+      "source": "rss:coindesk",
+      "title": "Clarity Act failure may hamper U.S. crypto as industry seeks legal clarity elsewhere",
+      "url": "https://www.coindesk.com/policy/2026/09/17/crypto-industry-leaders-debate-who-the-winners-and-losers-of-the-clarity-act-vote-failure-are",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T14:50:58+00:00",
+      "raw_text": "Clarity Act failure may hamper U.S. crypto as industry seeks legal clarity elsewhere",
+      "impact": {}
+    },
+    {
+      "event_id": "56f787f1-4ba8-42bf-9c5d-070dfe055a5c",
+      "source": "rss:cointelegraph",
+      "title": "OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO",
+      "url": "https://cointelegraph.com/news/ogcom-cleared-sec-stock-futures-cryptocom-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T13:35:57+00:00",
+      "raw_text": "OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
+      "impact": {}
+    },
+    {
+      "event_id": "d28ae5de-2375-4145-97bc-83af3158d2df",
+      "source": "rss:cointelegraph",
+      "title": "SEC grants temporary exemption for tokenized US stock trading",
+      "url": "https://cointelegraph.com/news/sec-temporary-exemption-tokenized-us-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T13:34:17+00:00",
+      "raw_text": "SEC grants temporary exemption for tokenized US stock trading\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC grants temporary exemption for tokenized US stock trading\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QQZ3RZHH7",
+      "impact": {}
+    },
+    {
+      "event_id": "b2edc0cb-5e4c-4137-8ef4-3bfeba95ddff",
+      "source": "rss:theblock",
+      "title": "S&P Global agrees to acquire OpenZeppelin in onchain security push",
+      "url": "https://www.theblock.co/news/business/2026-09-17-sp-global-agrees-to-acquire-openzeppelin-in-onchain-security-push-415360",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T13:32:01+00:00",
+      "raw_text": "S&P Global agrees to acquire OpenZeppelin in onchain security push\n\nOpenZeppelin will continue operating as a standalone business unit under S&amp;P Global, with financial terms of the deal not disclosed.",
+      "impact": {}
+    },
+    {
+      "event_id": "d55865f4-6b8a-4fe4-b275-91a8a9915c62",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin treasury firms can outperform BTC... but is the risk worth taking?",
+      "url": "https://cointelegraph.com/magazine/bitcoin-treasuries-can-outperform-btc-but-is-it-a-risk-worth-taking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-09-17T13:30:00+00:00",
+      "raw_text": "Bitcoin treasury firms can outperform BTC... but is the risk worth taking?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin treasury firms can outperform BTC... but is the risk worth taking?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-co",
+      "impact": {
+        "t_plus_5m": -0.0669,
+        "t_plus_15m": -0.394,
+        "t_plus_1h": 0.6958
+      }
+    },
+    {
+      "event_id": "7cb9fe58-c459-4a80-9549-ca7f6ed0d098",
+      "source": "rss:coindesk",
+      "title": "Ratings giant S&P Global acquires OpenZeppelin in tokenized finance risk push",
+      "url": "https://www.coindesk.com/business/2026/09/17/ratings-giant-s-and-p-global-acquires-openzeppelin-in-tokenized-finance-risk-push",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T13:15:21+00:00",
+      "raw_text": "Ratings giant S&P Global acquires OpenZeppelin in tokenized finance risk push",
+      "impact": {}
+    },
+    {
+      "event_id": "22651d3e-3623-48ac-b533-e6639e7b1e9a",
+      "source": "rss:theblock",
+      "title": "It’s here — SEC releases long-awaited innovation exemption to ‘bring America’s capital markets into the digital age’",
+      "url": "https://www.theblock.co/news/regulation/2026-09-17-sec-releases-innovation-exemption-415324",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T13:00:00+00:00",
+      "raw_text": "It’s here — SEC releases long-awaited innovation exemption to ‘bring America’s capital markets into the digital age’\n\nThe SEC released its 'innovation exemption,' positioning the measure as a response to the Senate's failure to advance crypto legislation.",
+      "impact": {}
+    },
+    {
+      "event_id": "4f0d9dad-12dc-4656-a715-435e9ff5a167",
+      "source": "rss:coindesk",
+      "title": "SEC rolls out long-awaited 'innovation exemption' for tokenized securities venues",
+      "url": "https://www.coindesk.com/policy/2026/09/17/sec-rolls-out-long-awaited-innovation-exemption-for-tokenized-securities-venues",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T13:00:00+00:00",
+      "raw_text": "SEC rolls out long-awaited 'innovation exemption' for tokenized securities venues",
+      "impact": {}
+    },
+    {
+      "event_id": "98670027-d06b-4ab3-af7a-d601266fd51a",
+      "source": "rss:cointelegraph",
+      "title": "S&P Global to acquire blockchain security platform OpenZeppelin",
+      "url": "https://cointelegraph.com/news/sp-global-openzeppelin-acquisition-blockchain-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T12:56:23+00:00",
+      "raw_text": "S&P Global to acquire blockchain security platform OpenZeppelin\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"S&amp;P Global to acquire blockchain security platform OpenZeppelin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2Q",
+      "impact": {}
+    },
+    {
+      "event_id": "d8e39f25-809c-48fd-9eaa-2776d6040fe6",
+      "source": "rss:decrypt",
+      "title": "Revolut Hackers Demand $3M Monero Ransom, Threaten to Sell Customer Data: Report",
+      "url": "https://decrypt.co/378472/revolut-hackers-demand-3m-monero-ransom-threaten-to-sell-customer-data-report",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T12:53:01+00:00",
+      "raw_text": "Revolut Hackers Demand $3M Monero Ransom, Threaten to Sell Customer Data: Report\n\nThe group says it chose whom to target by scanning the blockchain for Revolut accounts holding significant crypto.",
+      "impact": {}
+    },
+    {
+      "event_id": "96d8ceac-330e-4d55-a08b-34e2f838bfcc",
+      "source": "rss:theblock",
+      "title": "Crypto.com registers with SEC for single-stock futures, plans US stock perps",
+      "url": "https://www.theblock.co/news/business/2026-09-17-crypto-com-registers-with-sec-for-single-stock-futures-plans-us-stock-perps-415355",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T12:41:53+00:00",
+      "raw_text": "Crypto.com registers with SEC for single-stock futures, plans US stock perps\n\nCEO Kris Marszalek said the company is also working with the SEC and CFTC to offer single-stock perpetual futures in the U.S.",
+      "impact": {}
+    },
+    {
+      "event_id": "39d28ded-6aec-4c83-ab99-c2f46e0d4f48",
+      "source": "rss:coindesk",
+      "title": "Ethereum’s upcoming Glamsterdam upgrade clears rehearsal for a big jump in capacity",
+      "url": "https://www.coindesk.com/tech/2026/09/17/ethereum-s-upcoming-glamsterdam-upgrade-clears-rehearsal-for-a-big-jump-in-capacity",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T12:37:21+00:00",
+      "raw_text": "Ethereum’s upcoming Glamsterdam upgrade clears rehearsal for a big jump in capacity",
+      "impact": {}
+    },
+    {
+      "event_id": "2732a259-0c82-49a4-95ed-1749b18fada1",
+      "source": "rss:cointelegraph",
+      "title": "Crypto adoption blooming in Germany, while UK is falling ‘behind,’ says CoinShares researcher",
+      "url": "https://cointelegraph.com/news/crypto-adoption-blooming-germany-uk-behind-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T12:34:11+00:00",
+      "raw_text": "Crypto adoption blooming in Germany, while UK is falling ‘behind,’ says CoinShares researcher\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto adoption blooming in Germany, while UK is falling ‘behind,’ says CoinShares researcher\" class=\"type:primaryImage\" src=\"https:/",
+      "impact": {}
+    },
+    {
+      "event_id": "76f9eb6c-0338-42c5-ae9a-67d5adf0ad20",
+      "source": "rss:decrypt",
+      "title": "Morning Minute: Crypto Rebounds After The Fed’s First Hike Since 2023",
+      "url": "https://decrypt.co/378462/morning-minute-crypto-rebounds-after-the-feds-first-hike-since-2023",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T12:13:20+00:00",
+      "raw_text": "Morning Minute: Crypto Rebounds After The Fed’s First Hike Since 2023\n\nThe Clarity Act failed to pass and FOMC hiked rates, and yet, crypto majors are green and alt leaders are flying. What does it mean?",
+      "impact": {}
+    },
+    {
+      "event_id": "a7c39e0e-b32b-406b-b765-1f1cf006fc4a",
+      "source": "rss:decrypt",
+      "title": "Zcash Closes On $1,400 After Coinholders Vote to Keep Bitcoin-Style Halvings",
+      "url": "https://decrypt.co/378460/zcash-closes-on-1400-after-coinholders-vote-to-keep-bitcoin-style-halvings",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T12:05:13+00:00",
+      "raw_text": "Zcash Closes On $1,400 After Coinholders Vote to Keep Bitcoin-Style Halvings\n\nThe privacy coin rose double digits Thursday and 168% over the past month in the wake of the NU7 upgrade vote.",
+      "impact": {}
+    },
+    {
+      "event_id": "c9d7af6f-762b-478c-89e0-8373b06b3eca",
+      "source": "rss:cointelegraph",
+      "title": "State hackers drive 420% surge in onchain malware, Chainalysis finds",
+      "url": "https://cointelegraph.com/news/onchain-malware-writes-surge-420-north-korea-iran-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [
+        "BNB"
+      ],
+      "timestamp_utc": "2026-09-17T12:00:00+00:00",
+      "raw_text": "State hackers drive 420% surge in onchain malware, Chainalysis finds\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"State hackers drive 420% surge in onchain malware, Chainalysis finds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09",
+      "impact": {
+        "t_plus_5m": 0.0266,
+        "t_plus_15m": 0.4031,
+        "t_plus_1h": 0.5146,
+        "t_plus_4h": 0.3584
+      }
+    },
+    {
+      "event_id": "07365308-efca-4f2c-b1e5-e9adb9c86232",
+      "source": "rss:coindesk",
+      "title": "Zcash miner Fortitude names former Hut 8 chief Jaime Leverton CEO ahead of Nasdaq deal",
+      "url": "https://www.coindesk.com/business/2026/09/17/zcash-miner-fortitude-names-former-hut-8-chief-jaime-leverton-ceo-ahead-of-nasdaq-deal",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T12:00:00+00:00",
+      "raw_text": "Zcash miner Fortitude names former Hut 8 chief Jaime Leverton CEO ahead of Nasdaq deal",
+      "impact": {}
+    },
+    {
+      "event_id": "972b2246-85cb-4295-9b57-940750126e51",
+      "source": "rss:theblock",
+      "title": "Grayscale’s Pandl still sees bitcoin’s $58K low as the bottom, gives clients ‘green light’",
+      "url": "https://www.theblock.co/news/markets/2026-09-17-grayscales-pandl-still-sees-bitcoins-58k-low-as-the-bottom-gives-clients-green-light-415346",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T11:47:30+00:00",
+      "raw_text": "Grayscale’s Pandl still sees bitcoin’s $58K low as the bottom, gives clients ‘green light’\n\nGrayscale's Zach Pandl maintains bitcoin bottomed near $58,000 as the firm gives clients a \"green light\" to allocate.",
+      "impact": {}
+    },
+    {
+      "event_id": "e603983b-7802-46c7-8d9a-62071c0fce04",
+      "source": "rss:coindesk",
+      "title": "How Circle’s institutional Arc blockchain got taken over by memecoins on day one",
+      "url": "https://www.coindesk.com/business/2026/09/17/circle-launched-a-corporate-l2-backed-by-blackrock-but-traders-immediately-turned-it-into-a-memecoin-casino",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T11:42:22+00:00",
+      "raw_text": "How Circle’s institutional Arc blockchain got taken over by memecoins on day one",
+      "impact": {}
+    },
+    {
+      "event_id": "9f0b60af-3a97-434a-b5c8-3bc75bdbeaa7",
+      "source": "rss:coindesk",
+      "title": "Optimism creeps back into crypto, with the 2022 test still to come",
+      "url": "https://www.coindesk.com/daybook-us/2026/09/17/optimism-creeps-back-into-crypto-with-the-2022-test-still-to-come",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T11:19:09+00:00",
+      "raw_text": "Optimism creeps back into crypto, with the 2022 test still to come",
+      "impact": {}
+    },
+    {
+      "event_id": "2ffe44e9-8f76-412c-ad91-5fa55d65289a",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin continues near $76,000 as stocks surge following Fed rate hike",
+      "url": "https://www.coindesk.com/tech/2026/09/17/live-updates-zcash-jumps-17-as-usd345-million-of-liquidations-hit-crypto-traders",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T10:41:15+00:00",
+      "raw_text": "Live updates: Bitcoin continues near $76,000 as stocks surge following Fed rate hike",
+      "impact": {}
+    },
+    {
+      "event_id": "4d1b461e-92f5-465d-a9ce-eac724f57860",
+      "source": "rss:coindesk",
+      "title": "Crypto rallies through the Fed's first rate increase since 2023",
+      "url": "https://www.coindesk.com/markets/2026/09/17/crypto-rallies-through-the-fed-s-first-rate-increase-since-2023",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T10:40:01+00:00",
+      "raw_text": "Crypto rallies through the Fed's first rate increase since 2023",
+      "impact": {}
+    },
+    {
+      "event_id": "5bda6d9e-d03c-4b03-9f63-bba140813005",
+      "source": "rss:cointelegraph",
+      "title": "Zcash gains 20% as Paradigm founder reveals firm made ZEC investment",
+      "url": "https://cointelegraph.com/markets/zcash-zec-price-paradigm-investment-privacy-coins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T10:35:29+00:00",
+      "raw_text": "Zcash gains 20% as Paradigm founder reveals firm made ZEC investment\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zcash gains 20% as Paradigm founder reveals firm made ZEC investment \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/0",
+      "impact": {}
+    },
+    {
+      "event_id": "d29406a5-d1f3-4940-b6af-4ead5194c0b6",
+      "source": "rss:decrypt",
+      "title": "House Committee Advances US Bitcoin Reserve Bill on Party-Line Split",
+      "url": "https://decrypt.co/378457/house-committee-advances-us-bitcoin-reserve-bill-on-party-line-split",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T10:24:21+00:00",
+      "raw_text": "House Committee Advances US Bitcoin Reserve Bill on Party-Line Split\n\nA substitute text adopted before the vote strips out the Federal Reserve funding routes and thins the transparency rules.",
+      "impact": {}
+    },
+    {
+      "event_id": "3f4a36b8-e6c5-40b0-814b-72648c6a8235",
+      "source": "rss:theblock",
+      "title": "Bitwise CIO Hougan revises Clarity Act outlook, says crypto bull market may continue without legislation",
+      "url": "https://www.theblock.co/news/markets/2026-09-17-bitwise-cio-hougan-revises-clarity-act-outlook-says-crypto-bull-market-may-continue-without-legislation-415339",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T10:19:55+00:00",
+      "raw_text": "Bitwise CIO Hougan revises Clarity Act outlook, says crypto bull market may continue without legislation\n\nBitcoin climbed above $80,000 in early September despite declining odds of the legislation passing this year, Hougan noted.",
+      "impact": {}
+    },
+    {
+      "event_id": "14db73c0-6996-454b-b6c0-ba106f915771",
+      "source": "rss:cointelegraph",
+      "title": "Revolut says no direct contact from hackers after $3M public ransom demand",
+      "url": "https://cointelegraph.com/news/revolut-data-breach-monero-ransom-no-direct-contact?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T09:57:51+00:00",
+      "raw_text": "Revolut says no direct contact from hackers after $3M public ransom demand\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Revolut says no direct contact from hackers after $3M public ransom demand\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-co",
+      "impact": {}
+    },
     {
       "event_id": "6ee85d8a-beb5-4043-8155-a8b170097ce0",
       "source": "rss:cointelegraph",
@@ -40,7 +389,8 @@
       "impact": {
         "t_plus_5m": 0.3149,
         "t_plus_15m": 0.354,
-        "t_plus_1h": 0.0737
+        "t_plus_1h": 0.0737,
+        "t_plus_4h": 0.4323
       }
     },
     {
@@ -70,7 +420,8 @@
       "impact": {
         "t_plus_5m": 0.8374,
         "t_plus_15m": 0.7612,
-        "t_plus_1h": 0.993
+        "t_plus_1h": 0.993,
+        "t_plus_4h": 0.285
       }
     },
     {
@@ -325,6 +676,18 @@
       "tokens": [],
       "timestamp_utc": "2026-09-16T19:19:23+00:00",
       "raw_text": "UK FCA sets crypto authorization guidance ahead of September application window\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK FCA sets crypto authorization guidance ahead of September application window\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/",
+      "impact": {}
+    },
+    {
+      "event_id": "20e7dbe1-92ab-494a-a302-3debb3d91f82",
+      "source": "rss:coindesk",
+      "title": "Group behind Revolut data breach demands $3 million in Monero, threaten to sell customer data",
+      "url": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-16T19:07:34+00:00",
+      "raw_text": "Group behind Revolut data breach demands $3 million in Monero, threaten to sell customer data",
       "impact": {}
     },
     {
@@ -5968,408 +6331,37 @@
       "timestamp_utc": "2026-09-09T14:49:03+00:00",
       "raw_text": "Ink Foundation, GSR and others open Charter Foundation to help cut token launch costs\n\nA group of crypto firms has launched Charter Foundation to offer a new framework to help founders reduce the cost of launching tokens.",
       "impact": {}
-    },
-    {
-      "event_id": "b01b7c0a-9479-4db4-8d95-bc90db508182",
-      "source": "rss:decrypt",
-      "title": "German Finance Ministry Drafts 25% Tax on Crypto Gains From 2027",
-      "url": "https://decrypt.co/377764/german-finance-ministry-drafts-25-tax-on-crypto-gains-from-2027",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T14:37:18+00:00",
-      "raw_text": "German Finance Ministry Drafts 25% Tax on Crypto Gains From 2027\n\nAnything bought before 2027 keeps the twelve-month exemption, so the change lands only on Germany's future crypto buyers.",
-      "impact": {}
-    },
-    {
-      "event_id": "4979c431-ace1-49f1-b647-7d90939621cc",
-      "source": "rss:bitcoinmagazine",
-      "title": "VerifiedX Launches $15 Million Financing Round to Deploy Institutional Bitcoin Infrastructure",
-      "url": "https://bitcoinmagazine.com/news/cantor-fitzgerald-working-with-verifiedx",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-09-09T14:36:50+00:00",
-      "raw_text": "VerifiedX Launches $15 Million Financing Round to Deploy Institutional Bitcoin Infrastructure\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-3.jpg\" style=\"display: block; margin: 1em auto;\" /",
-      "impact": {
-        "t_plus_5m": 0.5394,
-        "t_plus_15m": 0.3461,
-        "t_plus_1h": -0.3979,
-        "t_plus_4h": -0.3172
-      }
-    },
-    {
-      "event_id": "b4d83a0a-d0c6-4f4f-abc0-79b4e0ed1c17",
-      "source": "rss:coindesk",
-      "title": "PayPal expands stablecoin rails with custom token issuance platform",
-      "url": "https://www.coindesk.com/business/2026/09/09/paypal-expands-stablecoin-rails-with-launch-of-custom-token-issuance-platform",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T14:00:00+00:00",
-      "raw_text": "PayPal expands stablecoin rails with custom token issuance platform",
-      "impact": {}
-    },
-    {
-      "event_id": "d84944fb-60c9-4a06-b2f9-25ba716b3352",
-      "source": "rss:coindesk",
-      "title": "Kalshi election data goes live on DoubleZero ahead of U.S. midterms",
-      "url": "https://www.coindesk.com/tech/2026/09/09/kalshi-election-data-goes-live-on-doublezero-ahead-of-u-s-midterms",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T14:00:00+00:00",
-      "raw_text": "Kalshi election data goes live on DoubleZero ahead of U.S. midterms",
-      "impact": {}
-    },
-    {
-      "event_id": "8e8a3b70-7f46-4c38-b928-44a5bccf4b79",
-      "source": "rss:coindesk",
-      "title": "Hunter Biden's new LAPTOP token lost 98% of its value in under an hour after $1.6 billion debut",
-      "url": "https://www.coindesk.com/business/2026/09/09/hunter-biden-s-laptop-memecoin-debuts-at-usd1-6-billion-market-cap",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T13:57:57+00:00",
-      "raw_text": "Hunter Biden's new LAPTOP token lost 98% of its value in under an hour after $1.6 billion debut",
-      "impact": {}
-    },
-    {
-      "event_id": "87056453-4989-492e-b831-902864871e0b",
-      "source": "rss:theblock",
-      "title": "Tether, Fasanara launch $400 million fund for stablecoin-enabled private credit",
-      "url": "https://www.theblock.co/news/deals/2026-09-09-tether-fasanara-launch-400-million-fund-for-stablecoin-enabled-private-credit-414011",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T13:53:28+00:00",
-      "raw_text": "Tether, Fasanara launch $400 million fund for stablecoin-enabled private credit\n\nThe firms seek up to $3 billion from institutional investors to deploy through Fasanara's global fintech lending network.",
-      "impact": {}
-    },
-    {
-      "event_id": "986ee278-7019-4870-b76d-823f25f6faa8",
-      "source": "rss:cointelegraph",
-      "title": "German finance ministry proposes 25% crypto tax starting 2028: Report",
-      "url": "https://cointelegraph.com/news/german-finance-ministry-25-crypto-tax-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T13:49:55+00:00",
-      "raw_text": "German finance ministry proposes 25% crypto tax starting 2028: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"German finance ministry proposes 25% crypto tax starting 2028: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/",
-      "impact": {}
-    },
-    {
-      "event_id": "c4264d67-1eeb-44b8-a49c-83cbed3ec22d",
-      "source": "rss:cointelegraph",
-      "title": "10 of the greatest unsolved crypto mysteries",
-      "url": "https://cointelegraph.com/magazine/10-of-the-greatest-unsolved-crypto-mysteries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T13:30:00+00:00",
-      "raw_text": "10 of the greatest unsolved crypto mysteries\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"10 of the greatest unsolved crypto mysteries\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20R6KSTHFBMH9CFKJSGWB2N/hi-front-running-vs-",
-      "impact": {}
-    },
-    {
-      "event_id": "8646c64f-9d36-4920-8ec8-16d09f99ce6b",
-      "source": "rss:decrypt",
-      "title": "Morning Minute: Venice’s VVV Token Soars After OpenAI Dispute",
-      "url": "https://decrypt.co/377761/morning-minute-venices-vvv-token-soars-after-openai-dispute",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T13:28:52+00:00",
-      "raw_text": "Morning Minute: Venice’s VVV Token Soars After OpenAI Dispute\n\nConcerns over frontier AI labs stealing user data has driven demand for private inference (or at least tokens tied to private inference).",
-      "impact": {}
-    },
-    {
-      "event_id": "882c2dc6-2e39-477e-9687-6cc9dfd3faf8",
-      "source": "rss:cointelegraph",
-      "title": "BitMart misses roadmap deadline, appoints financial adviser",
-      "url": "https://cointelegraph.com/news/bitmart-misses-roadmap-deadline-appoints-financial-adviser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T13:04:28+00:00",
-      "raw_text": "BitMart misses roadmap deadline, appoints financial adviser\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitMart misses roadmap deadline, appoints financial adviser\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M232R0N5F96J1MT",
-      "impact": {}
-    },
-    {
-      "event_id": "32921402-bb2e-4044-b4c2-ca49721c66d3",
-      "source": "rss:coindesk",
-      "title": "KYC data is an irresistible honeypot for hackers, and we must change how it is collected",
-      "url": "https://www.coindesk.com/opinion/2026/09/09/kyc-data-is-an-irresistible-honeypot-for-hackers-and-we-must-change-how-it-is-collected",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T13:02:49+00:00",
-      "raw_text": "KYC data is an irresistible honeypot for hackers, and we must change how it is collected",
-      "impact": {}
-    },
-    {
-      "event_id": "9212e968-7e0c-414a-b241-b414a90da80b",
-      "source": "rss:coindesk",
-      "title": "Algorand names former Chainlink executive William Herkelrath as CEO",
-      "url": "https://www.coindesk.com/business/2026/09/09/algorand-names-former-chainlink-executive-william-herkelrath-as-ceo",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T13:00:00+00:00",
-      "raw_text": "Algorand names former Chainlink executive William Herkelrath as CEO",
-      "impact": {}
-    },
-    {
-      "event_id": "2f88b8d4-9af7-4313-81b5-433b60769b47",
-      "source": "rss:cointelegraph",
-      "title": "Hunter Biden’s laptop controversy gets a memecoin afterlife",
-      "url": "https://cointelegraph.com/news/hunter-bidens-laptop-memecoin-afterlife?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T12:36:00+00:00",
-      "raw_text": "Hunter Biden’s laptop controversy gets a memecoin afterlife\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hunter Biden’s laptop controversy gets a memecoin afterlife\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M230B9QSF000WZ9",
-      "impact": {}
-    },
-    {
-      "event_id": "3dbbb3fc-1f02-4b5d-a715-8aef6a904493",
-      "source": "rss:cointelegraph",
-      "title": "Italy’s central bank orders sanctions screening for crypto transfers",
-      "url": "https://cointelegraph.com/news/italys-central-bank-orders-sanctions-screening-for-crypto-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T12:20:33+00:00",
-      "raw_text": "Italy’s central bank orders sanctions screening for crypto transfers\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Italy’s central bank orders sanctions screening for crypto transfers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09",
-      "impact": {}
-    },
-    {
-      "event_id": "61191e07-f7cc-4695-8167-e4861e871edc",
-      "source": "rss:coindesk",
-      "title": "Germany moves to tax bitcoin like stocks as new draft bill targets tax-free gains",
-      "url": "https://www.coindesk.com/business/2026/09/09/germany-moves-to-tax-bitcoin-like-stocks-as-new-draft-bill-targets-tax-free-gains",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T12:13:59+00:00",
-      "raw_text": "Germany moves to tax bitcoin like stocks as new draft bill targets tax-free gains",
-      "impact": {}
-    },
-    {
-      "event_id": "d9481331-3c80-4d11-b897-c4ff92db91e8",
-      "source": "rss:theblock",
-      "title": "Renzo expands beyond restaking with basis trade product on Hyperliquid",
-      "url": "https://www.theblock.co/news/defi/2026-09-09-renzo-crypto-basis-trade-product-hyperliquid-413979",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-09-09T12:06:21+00:00",
-      "raw_text": "Renzo expands beyond restaking with basis trade product on Hyperliquid\n\nRenzo Basis will first support BTC and HYPE and is designed to let users earn yield from funding rates through automated positions.",
-      "impact": {
-        "t_plus_5m": 0.0846,
-        "t_plus_15m": 0.0429,
-        "t_plus_1h": 0.3073,
-        "t_plus_4h": -0.7735,
-        "t_plus_24h": -1.8852
-      }
-    },
-    {
-      "event_id": "d05249ff-0dbf-45db-aa3b-b9ed4e2a6a0f",
-      "source": "rss:coindesk",
-      "title": "Crypto lobbying orgs ask court to suspend Illinois tax as legal case continues",
-      "url": "https://www.coindesk.com/policy/2026/09/09/crypto-lobbying-orgs-ask-court-to-suspend-illinois-tax-as-legal-case-continues",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T12:00:00+00:00",
-      "raw_text": "Crypto lobbying orgs ask court to suspend Illinois tax as legal case continues",
-      "impact": {}
-    },
-    {
-      "event_id": "de512ebe-6f5a-455f-8bab-a53cdc84f222",
-      "source": "rss:cointelegraph",
-      "title": "What could happen if the CLARITY Act fails to pass in 2026",
-      "url": "https://cointelegraph.com/news/clarity-act-fails-passage-next-session-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T11:54:41+00:00",
-      "raw_text": "What could happen if the CLARITY Act fails to pass in 2026\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"What could happen if the CLARITY Act fails to pass in 2026\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20RQ63SNVA0RPYQR",
-      "impact": {}
-    },
-    {
-      "event_id": "aef9fd0e-9d72-42be-b8c4-55f6181fd6fc",
-      "source": "rss:decrypt",
-      "title": "UK Crime Agency Warns of 'Innovative Use' of Crypto by Launderers",
-      "url": "https://decrypt.co/377757/uk-crime-agency-warns-of-innovative-use-of-crypto-by-launderers",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T11:43:53+00:00",
-      "raw_text": "UK Crime Agency Warns of 'Innovative Use' of Crypto by Launderers\n\nThe agency ranks cryptoassets third among nine economic crime priorities, and says it wants to generate its own targets.",
-      "impact": {}
-    },
-    {
-      "event_id": "3beefbaa-94fd-4c2b-85f1-7313340215b6",
-      "source": "rss:coindesk",
-      "title": "U.S. Bank takes next step towards launching its stablecoin with cross-border payment test",
-      "url": "https://www.coindesk.com/business/2026/09/08/u-s-bank-takes-next-step-towards-launching-its-stablecoin-with-cross-border-payment-test",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T11:40:44+00:00",
-      "raw_text": "U.S. Bank takes next step towards launching its stablecoin with cross-border payment test",
-      "impact": {}
-    },
-    {
-      "event_id": "5894218c-9075-4904-913a-dc31becb3115",
-      "source": "rss:coindesk",
-      "title": "OpenAI says 10,000 AI agents solved a $1 million math problem. Now mathematicians are fighting",
-      "url": "https://www.coindesk.com/tech/2026/09/09/openai-says-10-000-ai-agents-solved-a-usd1-million-math-problem-now-mathematicians-are-fighting",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T11:23:50+00:00",
-      "raw_text": "OpenAI says 10,000 AI agents solved a $1 million math problem. Now mathematicians are fighting",
-      "impact": {}
-    },
-    {
-      "event_id": "2a02f245-bf16-4d52-bd4b-e3228e5eae86",
-      "source": "rss:coindesk",
-      "title": "Wall Street's newest crypto fund comes with a staking feature to boost returns",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/09/wall-street-s-newest-crypto-fund-comes-with-a-staking-feature-to-boost-returns",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T11:23:36+00:00",
-      "raw_text": "Wall Street's newest crypto fund comes with a staking feature to boost returns",
-      "impact": {}
-    },
-    {
-      "event_id": "03d2d6ff-da5a-4f5d-a8ce-dfb09dd7f6a3",
-      "source": "rss:cointelegraph",
-      "title": "Metaplanet’s executive stock pool sparks shareholder backlash as CEO addresses MMXX ties",
-      "url": "https://cointelegraph.com/news/metaplanets-executive-stock-pool-backlash-ceo-mmxx-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T11:15:23+00:00",
-      "raw_text": "Metaplanet’s executive stock pool sparks shareholder backlash as CEO addresses MMXX ties\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Metaplanet’s executive stock pool sparks shareholder backlash as CEO addresses MMXX ties\" class=\"type:primaryImage\" src=\"https://s3-images",
-      "impact": {}
-    },
-    {
-      "event_id": "5ac1552f-9a94-451e-ad77-07815f99d5d9",
-      "source": "rss:theblock",
-      "title": "India seeks takedowns of 15 crypto platforms over AML compliance",
-      "url": "https://www.theblock.co/news/regulation/2026-09-09-india-seeks-takedowns-of-15-crypto-platforms-over-aml-compliance-413975",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T11:12:43+00:00",
-      "raw_text": "India seeks takedowns of 15 crypto platforms over AML compliance\n\nIndia's FIU issued non-compliance notices to 15 crypto platforms and sought takedowns of their apps and URLs.",
-      "impact": {}
-    },
-    {
-      "event_id": "1bfeb60c-bb6f-48cd-9038-219387cc23ce",
-      "source": "rss:coindesk",
-      "title": "Bitcoin climbs as oil tops $100, equities drop after Iran strikes",
-      "url": "https://www.coindesk.com/markets/2026/09/09/bitcoin-climbs-as-oil-tops-usd100-equities-drop-after-iran-strikes",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T10:47:23+00:00",
-      "raw_text": "Bitcoin climbs as oil tops $100, equities drop after Iran strikes",
-      "impact": {}
-    },
-    {
-      "event_id": "51ff4e3a-5644-4875-92b9-8072b0ac06dd",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin SOPR metric sees longest profit run of 2026 as new analysis challenges bear market",
-      "url": "https://cointelegraph.com/markets/bitcoin-sopr-metric-sees-longest-profit-run-of-2026-as-new-analysis-challenges-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-09-09T10:12:16+00:00",
-      "raw_text": "Bitcoin SOPR metric sees longest profit run of 2026 as new analysis challenges bear market\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin SOPR metric sees longest profit run of 2026 as new analysis challenges bear market\" class=\"type:primaryImage\" src=\"https://s3-im",
-      "impact": {
-        "t_plus_5m": -0.3689,
-        "t_plus_15m": -0.3259,
-        "t_plus_1h": -0.6302,
-        "t_plus_4h": -0.439,
-        "t_plus_24h": -1.734
-      }
-    },
-    {
-      "event_id": "d1147838-0b55-4bd5-8f10-966b582b3c8b",
-      "source": "rss:cointelegraph",
-      "title": "Silvergate ex-CEO blames Biden pressure for bank’s 2023 wind-down",
-      "url": "https://cointelegraph.com/news/silvergate-ex-ceo-biden-pressure-bank-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T10:05:00+00:00",
-      "raw_text": "Silvergate ex-CEO blames Biden pressure for bank’s 2023 wind-down\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Silvergate ex-CEO blames Biden pressure for bank’s 2023 wind-down \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2",
-      "impact": {}
-    },
-    {
-      "event_id": "302e0191-236a-4eba-b281-a6d0aef589b4",
-      "source": "rss:coindesk",
-      "title": "Iran eases currency controls to let traders bring earnings home in crypto: FT",
-      "url": "https://www.coindesk.com/business/2026/09/09/iran-eases-currency-controls-to-let-traders-bring-earnings-home-in-crypto-ft",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T09:59:39+00:00",
-      "raw_text": "Iran eases currency controls to let traders bring earnings home in crypto: FT",
-      "impact": {}
-    },
-    {
-      "event_id": "b93321e3-820d-41ed-b573-995322f8b176",
-      "source": "rss:coindesk",
-      "title": "Singaporean 22-year old pleads guilty to being the ringleader in $245 million crypto fraud case",
-      "url": "https://www.coindesk.com/business/2026/09/09/singaporean-22-year-old-pleads-guilty-to-being-the-ringleader-in-usd245-million-crypto-fraud-case",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T09:54:42+00:00",
-      "raw_text": "Singaporean 22-year old pleads guilty to being the ringleader in $245 million crypto fraud case",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "hack": {
-        "count": 41,
-        "avg_1h": -0.58,
-        "avg_24h": -1.28,
+      "unknown": {
+        "count": 168,
+        "avg_1h": -0.13,
+        "avg_24h": -0.89,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 109,
+        "count": 121,
         "avg_1h": -0.52,
         "avg_24h": -0.96,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 163,
+        "count": 158,
         "avg_1h": -0.59,
-        "avg_24h": -1.73,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 175,
-        "avg_1h": -0.16,
-        "avg_24h": -1.22,
+      "hack": {
+        "count": 42,
+        "avg_1h": -0.47,
+        "avg_24h": -1.28,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
-        "count": 11,
-        "avg_1h": -0.44,
+        "count": 10,
+        "avg_1h": -0.45,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
