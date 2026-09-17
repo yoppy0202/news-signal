@@ -1,6 +1,133 @@
 {
-  "generated_at": "2026-09-17T07:34:29.428413+00:00",
+  "generated_at": "2026-09-17T13:23:15.826045+00:00",
   "events": [
+    {
+      "event_id": "6ee85d8a-beb5-4043-8155-a8b170097ce0",
+      "source": "rss:cointelegraph",
+      "title": "Revolut says no direct contact after $3 million public ransom demand",
+      "url": "https://cointelegraph.com/news/revolut-data-breach-monero-ransom-no-direct-contact?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T09:57:51+00:00",
+      "raw_text": "Revolut says no direct contact after $3 million public ransom demand\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Revolut says no direct contact after $3 million public ransom demand\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09",
+      "impact": {}
+    },
+    {
+      "event_id": "99a2f6b6-11c3-4610-9572-78f658b11865",
+      "source": "rss:cointelegraph",
+      "title": "Polymarket users referred to prosecutors in South Korea: Report",
+      "url": "https://cointelegraph.com/news/south-korea-polymarket-users-prosecutors-gambling-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T09:37:32+00:00",
+      "raw_text": "Polymarket users referred to prosecutors in South Korea: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Polymarket users referred to prosecutors in South Korea: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2Q8HM2",
+      "impact": {}
+    },
+    {
+      "event_id": "2a38eb09-4364-42e5-81c6-8446021e73c5",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin treasuries buy just 5.9K BTC in three months as paper losses linger",
+      "url": "https://cointelegraph.com/markets/bitcoin-treasuries-buy-just-59k-btc-in-three-months-as-paper-losses-linger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-09-17T09:00:31+00:00",
+      "raw_text": "Bitcoin treasuries buy just 5.9K BTC in three months as paper losses linger\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin treasuries buy just 5.9K BTC in three months as paper losses linger\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-",
+      "impact": {
+        "t_plus_5m": 0.3149,
+        "t_plus_15m": 0.354,
+        "t_plus_1h": 0.0737
+      }
+    },
+    {
+      "event_id": "92e48a42-ba40-4231-b510-379a80c2dfea",
+      "source": "rss:coindesk",
+      "title": "Bitcoin faces 2022 parallels as Federal Reserve resumes rate increases",
+      "url": "https://www.coindesk.com/markets/2026/09/17/bitcoin-faces-2022-parallels-as-federal-reserve-resumes-rate-hikes",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T08:41:48+00:00",
+      "raw_text": "Bitcoin faces 2022 parallels as Federal Reserve resumes rate increases",
+      "impact": {}
+    },
+    {
+      "event_id": "ec1932ec-304c-4e37-abca-a1e26417d836",
+      "source": "rss:coindesk",
+      "title": "Ripple adds XRP payments to Stripe and Tempo’s AI standard in new developer kit",
+      "url": "https://www.coindesk.com/tech/2026/09/17/ripple-adds-xrp-payments-to-stripe-and-tempo-s-ai-standard-in-new-developer-kit",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [
+        "XRP"
+      ],
+      "timestamp_utc": "2026-09-17T07:54:33+00:00",
+      "raw_text": "Ripple adds XRP payments to Stripe and Tempo’s AI standard in new developer kit",
+      "impact": {
+        "t_plus_5m": 0.8374,
+        "t_plus_15m": 0.7612,
+        "t_plus_1h": 0.993
+      }
+    },
+    {
+      "event_id": "65277ced-cdbb-41b1-befe-c964628694b0",
+      "source": "rss:coindesk",
+      "title": "U.S. diesel prices hit record high as bitcoin and gold struggle",
+      "url": "https://www.coindesk.com/markets/2026/09/17/u-s-diesel-prices-hit-record-high-as-bitcoin-and-gold-struggle",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T07:27:07+00:00",
+      "raw_text": "U.S. diesel prices hit record high as bitcoin and gold struggle",
+      "impact": {}
+    },
+    {
+      "event_id": "6e46733a-db73-4ab1-b1de-6f12ee05fbf8",
+      "source": "rss:theblock",
+      "title": "South Korean police charge 26 Polymarket users for illegal gambling: report",
+      "url": "https://www.theblock.co/news/regulation/2026-09-17-south-korean-police-charge-polymarket-users-415333",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T06:12:50+00:00",
+      "raw_text": "South Korean police charge 26 Polymarket users for illegal gambling: report\n\nThe country blocked local access to Polymarket last month after its media regulator ruled that the platform offers illegal gambling.",
+      "impact": {}
+    },
+    {
+      "event_id": "7fb59efc-4102-4d99-a4cf-86a681dc7db9",
+      "source": "rss:cointelegraph",
+      "title": "BitMEX faces Celsius lawsuit ahead of exchange closure",
+      "url": "https://cointelegraph.com/news/celsius-estate-bitmex-6360-btc-liquidation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-09-17T05:55:18+00:00",
+      "raw_text": "BitMEX faces Celsius lawsuit ahead of exchange closure\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitMEX faces Celsius lawsuit ahead of exchange closure\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2PXB2KEBNHRB3GT02WG649G/",
+      "impact": {
+        "t_plus_5m": -0.122,
+        "t_plus_15m": 0.0413,
+        "t_plus_1h": 0.115,
+        "t_plus_4h": 0.1508
+      }
+    },
+    {
+      "event_id": "d8a936dd-1429-4a31-a90c-4c8686655f9a",
+      "source": "rss:cointelegraph",
+      "title": "OpenAI discloses 6 new cases of ‘misaligned’ AI behavior",
+      "url": "https://cointelegraph.com/news/openai-discloses-6-new-cases-of-misaligned-ai-behavior?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-17T05:49:06+00:00",
+      "raw_text": "OpenAI discloses 6 new cases of ‘misaligned’ AI behavior\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OpenAI discloses 6 new cases of ‘misaligned’ AI behavior\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2PYG783YDGVTZQ6W3CRT",
+      "impact": {}
+    },
     {
       "event_id": "7d5cdb83-4320-4d97-afce-14313e6c86aa",
       "source": "rss:coindesk",
@@ -6212,140 +6339,32 @@
       "timestamp_utc": "2026-09-09T09:54:42+00:00",
       "raw_text": "Singaporean 22-year old pleads guilty to being the ringleader in $245 million crypto fraud case",
       "impact": {}
-    },
-    {
-      "event_id": "97418586-f617-418b-bcc2-e3eba334d2be",
-      "source": "rss:decrypt",
-      "title": "Mexico Seizes 300 Crypto Mining Rigs Wired Into a Hydroelectric Dam",
-      "url": "https://decrypt.co/377748/mexico-seizes-300-crypto-mining-rigs-wired-into-a-hydroelectric-dam",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T09:28:29+00:00",
-      "raw_text": "Mexico Seizes 300 Crypto Mining Rigs Wired Into a Hydroelectric Dam\n\nForensic accountants are tracing who paid for the mining hardware, and money laundering has not been ruled out.",
-      "impact": {}
-    },
-    {
-      "event_id": "3a10cf1f-dbe2-46c3-8d3f-8819c25a1a63",
-      "source": "rss:decrypt",
-      "title": "Jack Dorsey's Block Applies for Bank Charter to Custody Bitcoin",
-      "url": "https://decrypt.co/377746/jack-dorseys-block-applies-for-bank-charter-to-custody-bitcoin",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T08:26:08+00:00",
-      "raw_text": "Jack Dorsey's Block Applies for Bank Charter to Custody Bitcoin\n\nBuilders Bank would consolidate custody work Block now runs under more than 50 state money transmitter licenses.",
-      "impact": {}
-    },
-    {
-      "event_id": "825a3233-ce37-490a-a583-ff30012e85df",
-      "source": "rss:coindesk",
-      "title": "India’s financial intelligence unit flags 15 crypto platforms for AML lapses",
-      "url": "https://www.coindesk.com/policy/2026/09/09/india-s-financial-intelligence-unit-flags-15-crypto-platforms-for-aml-lapses",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T08:17:54+00:00",
-      "raw_text": "India’s financial intelligence unit flags 15 crypto platforms for AML lapses",
-      "impact": {}
-    },
-    {
-      "event_id": "60958d46-5075-437c-a02e-38c4ff773414",
-      "source": "rss:cointelegraph",
-      "title": "Iran eases currency rules to bypass US sanctions with crypto: Report",
-      "url": "https://cointelegraph.com/news/iran-central-bank-encourages-crypto-evade-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T07:36:39+00:00",
-      "raw_text": "Iran eases currency rules to bypass US sanctions with crypto: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Iran eases currency rules to bypass US sanctions with crypto: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09",
-      "impact": {}
-    },
-    {
-      "event_id": "6a173833-3c8d-417d-9bae-fe46862c21fb",
-      "source": "rss:cointelegraph",
-      "title": "Jack Dorsey’s Block seeks US trust bank charter for Bitcoin, stablecoin",
-      "url": "https://cointelegraph.com/news/block-us-trust-bank-charter-bitcoin-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T07:36:21+00:00",
-      "raw_text": "Jack Dorsey’s Block seeks US trust bank charter for Bitcoin, stablecoin\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Jack Dorsey’s Block seeks US trust bank charter for Bitcoin, stablecoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2",
-      "impact": {}
-    },
-    {
-      "event_id": "0e1aca39-b3a1-4ad8-9985-ebab27265efa",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin slips as yields head higher following Treasury buyback announcement",
-      "url": "https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T07:20:51+00:00",
-      "raw_text": "Live updates: Bitcoin slips as yields head higher following Treasury buyback announcement",
-      "impact": {}
-    },
-    {
-      "event_id": "68934efc-8492-4963-abb3-da96eb2e02e1",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin gives up gains as yields head higher following Treasury buyback announcement",
-      "url": "https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T07:20:51+00:00",
-      "raw_text": "Live updates: Bitcoin gives up gains as yields head higher following Treasury buyback announcement",
-      "impact": {}
-    },
-    {
-      "event_id": "1dff61c4-48cf-47d0-aac9-49ab9e9c5732",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin climbs past $79,000 as Brent Crude tops $100 for first time since July",
-      "url": "https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T07:20:51+00:00",
-      "raw_text": "Live updates: Bitcoin climbs past $79,000 as Brent Crude tops $100 for first time since July",
-      "impact": {}
-    },
-    {
-      "event_id": "3e458075-1743-4700-ba8c-32b51374793b",
-      "source": "rss:coindesk",
-      "title": "Live updates: Brent crude hits $100 for first time since July as bitcoin holds above $79,000",
-      "url": "https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-09T07:20:51+00:00",
-      "raw_text": "Live updates: Brent crude hits $100 for first time since July as bitcoin holds above $79,000",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 41,
+        "avg_1h": -0.58,
+        "avg_24h": -1.28,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 108,
+        "count": 109,
         "avg_1h": -0.52,
         "avg_24h": -0.96,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 178,
-        "avg_1h": -0.19,
-        "avg_24h": -1.22,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
         "count": 163,
-        "avg_1h": -0.85,
+        "avg_1h": -0.59,
         "avg_24h": -1.73,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 39,
-        "avg_1h": -0.58,
-        "avg_24h": -1.28,
+      "unknown": {
+        "count": 175,
+        "avg_1h": -0.16,
+        "avg_24h": -1.22,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
