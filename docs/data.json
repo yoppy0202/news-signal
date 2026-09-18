@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-09-18T18:23:12.665035+00:00",
+  "generated_at": "2026-09-18T21:37:17.090158+00:00",
   "events": [
+    {
+      "event_id": "b357b3f2-5415-4722-8bcf-91e4bff01eb0",
+      "source": "rss:decrypt",
+      "title": "Zcash Is Running—Devs Want to Make It Faster",
+      "url": "https://decrypt.co/378667/zcash-upgrade-make-private-payments-3x-faster",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-18T19:16:03+00:00",
+      "raw_text": "Zcash Is Running—Devs Want to Make It Faster\n\nA new upgrade would cut Zcash block time from 75 seconds to 25, while quietly rewriting how the network pays for its own security after 2031.",
+      "impact": {}
+    },
+    {
+      "event_id": "50c9f85a-7191-4458-bbfb-c9eadb109ac5",
+      "source": "rss:cointelegraph",
+      "title": "Binance launches 24/7 FX perps with weekend pricing system",
+      "url": "https://cointelegraph.com/news/binance-expands-tradfi-push-with-247-foreign-exchange-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-18T19:06:30+00:00",
+      "raw_text": "Binance launches 24/7 FX perps with weekend pricing system\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance launches 24/7 FX perps with weekend pricing system\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TWPXVTDCGSQ1MYS",
+      "impact": {}
+    },
+    {
+      "event_id": "f5b0a2cb-7c52-4256-8c7d-c5a54656412c",
+      "source": "rss:decrypt",
+      "title": "Bitcoin Will Hit $1 Million, Says Kevin O’Leary—But There’s a Quantum Catch",
+      "url": "https://decrypt.co/378664/kevin-oleary-bitcoin-1-million-quantum-catch",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-18T18:35:54+00:00",
+      "raw_text": "Bitcoin Will Hit $1 Million, Says Kevin O’Leary—But There’s a Quantum Catch\n\nKevin O'Leary believes Bitcoin could hit $1 million if crypto beats its quantum computing problem, and explained why he's ditching Ethereum.",
+      "impact": {}
+    },
+    {
+      "event_id": "05c4e34a-c50b-4aed-97ef-b5da08dce2de",
+      "source": "rss:cointelegraph",
+      "title": "Crypto stocks rebound after CLARITY Act selloff",
+      "url": "https://cointelegraph.com/news/crypto-stocks-rebound-after-clarity-selloff-as-us-regulators-move-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-18T17:55:57+00:00",
+      "raw_text": "Crypto stocks rebound after CLARITY Act selloff\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto stocks rebound after CLARITY Act selloff\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TRCGEVT9CNFA3RQBK4NDTE/hi-japan-ipo-s",
+      "impact": {}
+    },
     {
       "event_id": "98b8e933-668c-4998-9654-8f75122fbf96",
       "source": "rss:bitcoinmagazine",
@@ -20,10 +68,16 @@
       "url": "https://decrypt.co/378641/xrp-surges-bitcoin-rebound-reopens-golden-cross",
       "event_type": "narrative",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-09-18T16:42:32+00:00",
       "raw_text": "XRP Surges 6.9% as Bitcoin Rebound Reopens Door to Golden Cross\n\nXRP is roaring back as Bitcoin claws its way above $800,000 again, but the charts continue to give traders mixed signals.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0192,
+        "t_plus_15m": 0.008,
+        "t_plus_1h": 0.3683
+      }
     },
     {
       "event_id": "4ddbee3f-d6de-4dae-8efb-0bab273034f9",
@@ -292,7 +346,8 @@
       "impact": {
         "t_plus_5m": -2.2305,
         "t_plus_15m": -2.2881,
-        "t_plus_1h": -2.23
+        "t_plus_1h": -2.23,
+        "t_plus_4h": 2.7569
       }
     },
     {
@@ -353,6 +408,18 @@
       "tokens": [],
       "timestamp_utc": "2026-09-18T09:57:33+00:00",
       "raw_text": "UAE, Sweden Arrest Seven Over $7.1M Crypto Laundering Ring Linked to Contract Killings\n\nInvestigators say tracing the network's crypto transactions exposed links to organized crime and murder-for-hire.",
+      "impact": {}
+    },
+    {
+      "event_id": "d5dea982-3606-4973-9e37-70371087ac25",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin climbs over $80,000 as crypto shakes off Clarity failure and higher interest rates",
+      "url": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-18T09:49:51+00:00",
+      "raw_text": "Live updates: Bitcoin climbs over $80,000 as crypto shakes off Clarity failure and higher interest rates",
       "impact": {}
     },
     {
@@ -6285,88 +6352,14 @@
       "timestamp_utc": "2026-09-10T17:07:50+00:00",
       "raw_text": "This Guy Cloned Sam Altman, Elon Musk, and Zuckerberg Into AI Bots. They Immediately Started Fighting\n\nKun Chen built chatbot versions of four AI CEOs on SpaceXAI's new Grok Bot templates, locked them in one chat, and told them to debate the AI race until they agreed on something.",
       "impact": {}
-    },
-    {
-      "event_id": "f03fcdcf-1dc7-4e13-805d-2f1e9550e5fd",
-      "source": "rss:bitcoinmagazine",
-      "title": "Nasdaq Invests $100M in Kraken Parent Company: Report",
-      "url": "https://bitcoinmagazine.com/news/nasdaq-invests-in-kraken",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-10T17:05:28+00:00",
-      "raw_text": "Nasdaq Invests $100M in Kraken Parent Company: Report\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-4.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine",
-      "impact": {}
-    },
-    {
-      "event_id": "2133d71d-5cc8-47ef-b286-eae7856ecc3e",
-      "source": "rss:coindesk",
-      "title": "Europe’s top regulator questions Polymarket and Kalshi’s EU access, warns of authorization gaps",
-      "url": "https://www.coindesk.com/business/2026/09/10/europe-s-top-regulator-questions-polymarket-and-kalshi-s-eu-access-warns-of-authorization-gaps",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-10T17:03:34+00:00",
-      "raw_text": "Europe’s top regulator questions Polymarket and Kalshi’s EU access, warns of authorization gaps",
-      "impact": {}
-    },
-    {
-      "event_id": "2db8c3d6-7fb5-4fc3-9fec-af49703ff562",
-      "source": "rss:cointelegraph",
-      "title": "Liquid Network resumes block production after $320M exploit",
-      "url": "https://cointelegraph.com/news/liquid-network-resumes-block-production-after-320m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-10T16:38:16+00:00",
-      "raw_text": "Liquid Network resumes block production after $320M exploit\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Liquid Network resumes block production after $320M exploit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M261Y4R153J5N1Q",
-      "impact": {}
-    },
-    {
-      "event_id": "eb1afa88-6f0d-4351-bde4-fcc9b989d244",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin Suffers On Renewed US-Iran Fighting",
-      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-drops-on-us-iran-fighting",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-10T16:31:42+00:00",
-      "raw_text": "Bitcoin Suffers On Renewed US-Iran Fighting\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-15.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/market",
-      "impact": {}
-    },
-    {
-      "event_id": "0fad94a4-de70-4a4f-a0b0-56b508856610",
-      "source": "rss:bitcoinmagazine",
-      "title": "Coinbase CEO Brian Armstrong Says Clarity Act Will Pass — And That Bitcoin Bottom Is In",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-bottom-is-in-says-brian-armstrong",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-09-10T16:24:43+00:00",
-      "raw_text": "Coinbase CEO Brian Armstrong Says Clarity Act Will Pass — And That Bitcoin Bottom Is In\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/image6_1920x1080.png\" style=\"display: block; margin: 1em auto;\"",
-      "impact": {
-        "t_plus_5m": -0.5711,
-        "t_plus_15m": -0.4831,
-        "t_plus_1h": -0.1191,
-        "t_plus_4h": -0.1104,
-        "t_plus_24h": 0.4503
-      }
     }
   ],
   "stats": {
     "by_event_type": {
       "macro": {
-        "count": 136,
-        "avg_1h": -0.56,
-        "avg_24h": -0.96,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 152,
-        "avg_1h": -0.64,
-        "avg_24h": null,
+        "count": 137,
+        "avg_1h": -0.6,
+        "avg_24h": -1.66,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
@@ -6375,14 +6368,20 @@
         "avg_24h": 0.12,
         "win_rate_1h_gt5pct": 0.0
       },
+      "narrative": {
+        "count": 154,
+        "avg_1h": -0.54,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
-        "count": 39,
+        "count": 37,
         "avg_1h": -0.47,
         "avg_24h": -1.28,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
-        "count": 10,
+        "count": 9,
         "avg_1h": -0.45,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
