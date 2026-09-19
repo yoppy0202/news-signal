@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-09-18T21:37:17.090158+00:00",
+  "generated_at": "2026-09-19T00:14:55.434359+00:00",
   "events": [
+    {
+      "event_id": "9531df84-2c0e-409d-ab4c-68fa08d7ef06",
+      "source": "rss:bitcoinmagazine",
+      "title": "European Central Bank President Blocked Binance’s EU Entry: Report",
+      "url": "https://bitcoinmagazine.com/news/eu-central-bank-president-blocked-binance",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-18T21:48:01+00:00",
+      "raw_text": "European Central Bank President Blocked Binance’s EU Entry: Report\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/image14_1920x1080.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"h",
+      "impact": {}
+    },
+    {
+      "event_id": "b42cd84e-acf7-4ab8-9856-f8b872089bdd",
+      "source": "rss:decrypt",
+      "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
+      "url": "https://decrypt.co/378681/coinbase-single-stock-perps-apple-tesla-nvidia",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-18T21:01:30+00:00",
+      "raw_text": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia\n\nThe filing seeks CFTC approval for contracts giving US traders 24/5 leveraged exposure to individual stocks without ownership.",
+      "impact": {}
+    },
+    {
+      "event_id": "a0a16f5d-d7e1-4db1-ab7e-7132f315a317",
+      "source": "rss:bitcoinmagazine",
+      "title": "CFTC Sends Proposal To Regulate Crypto Transactions Following Clarity Act Fail",
+      "url": "https://bitcoinmagazine.com/news/cftc-proposes-rules-following-clarity-fail",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-18T20:00:13+00:00",
+      "raw_text": "CFTC Sends Proposal To Regulate Crypto Transactions Following Clarity Act Fail\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/image13_1920x1080.jpg\" style=\"display: block; margin: 1em auto;\" /><br /",
+      "impact": {}
+    },
+    {
+      "event_id": "146ca91a-9a8f-42f9-bc78-4297ac15ab43",
+      "source": "rss:cointelegraph",
+      "title": "Coinbase files to bring single-stock perpetual futures to US market",
+      "url": "https://cointelegraph.com/news/coinbase-files-to-bring-single-stock-perpetual-futures-to-us-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-18T19:53:54+00:00",
+      "raw_text": "Coinbase files to bring single-stock perpetual futures to US market\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase files to bring single-stock perpetual futures to US market\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/0",
+      "impact": {}
+    },
     {
       "event_id": "b357b3f2-5415-4722-8bcf-91e4bff01eb0",
       "source": "rss:decrypt",
@@ -76,7 +124,8 @@
       "impact": {
         "t_plus_5m": 0.0192,
         "t_plus_15m": 0.008,
-        "t_plus_1h": 0.3683
+        "t_plus_1h": 0.3683,
+        "t_plus_4h": 1.8157
       }
     },
     {
@@ -6304,72 +6353,24 @@
       "timestamp_utc": "2026-09-10T18:13:13+00:00",
       "raw_text": "Banks Have Minutes, Not Weeks, to Fix Flaws as AI Speeds Up Attacks: BIS\n\nThe Bank for International Settlements says routine patching schedules are increasingly inadequate and cites guidance urging banks to accept planned downtime for urgent fixes.",
       "impact": {}
-    },
-    {
-      "event_id": "94d32f46-42f7-4cc3-8989-47e4158813fa",
-      "source": "rss:theblock",
-      "title": "Coinbase rebrands Base App back to Coinbase Wallet after just over a year as social experiment falls short",
-      "url": "https://www.theblock.co/news/defi/2026-09-10-coinbase-rebrands-base-app-back-to-coinbase-wallet-after-just-over-a-year-as-social-experiment-falls-short-414115",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-10T18:00:00+00:00",
-      "raw_text": "Coinbase rebrands Base App back to Coinbase Wallet after just over a year as social experiment falls short\n\nThe wallet now supports more than 10 networks, including Robinhood Chain and Monad, plus perps, prediction markets, and tokenized stocks.",
-      "impact": {}
-    },
-    {
-      "event_id": "e3759470-8a33-4837-876f-dd6b9b2ce8fd",
-      "source": "rss:cointelegraph",
-      "title": "UK House of Lords backs mandatory digital asset strategy over Labour position",
-      "url": "https://cointelegraph.com/news/uk-house-of-lords-backs-mandatory-digital-asset-strategy-in-194138-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-10T17:54:12+00:00",
-      "raw_text": "UK House of Lords backs mandatory digital asset strategy over Labour position\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK House of Lords backs mandatory digital asset strategy over Labour position\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti",
-      "impact": {}
-    },
-    {
-      "event_id": "8fdfcb62-936b-4d2b-85b5-b8c5d4b5629c",
-      "source": "rss:coindesk",
-      "title": "OKX brings OpenAI and Anthropic bets to Europe as pre-IPO trading grows",
-      "url": "https://www.coindesk.com/markets/2026/09/10/okx-brings-openai-and-anthropic-bets-to-europe-as-pre-ipo-trading-grows",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-10T17:07:59+00:00",
-      "raw_text": "OKX brings OpenAI and Anthropic bets to Europe as pre-IPO trading grows",
-      "impact": {}
-    },
-    {
-      "event_id": "a07a608b-5b3b-4e29-9163-b7555516a650",
-      "source": "rss:decrypt",
-      "title": "This Guy Cloned Sam Altman, Elon Musk, and Zuckerberg Into AI Bots. They Immediately Started Fighting",
-      "url": "https://decrypt.co/377898/sam-altman-elon-musk-zuckerberg-ai-bots",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-10T17:07:50+00:00",
-      "raw_text": "This Guy Cloned Sam Altman, Elon Musk, and Zuckerberg Into AI Bots. They Immediately Started Fighting\n\nKun Chen built chatbot versions of four AI CEOs on SpaceXAI's new Grok Bot templates, locked them in one chat, and told them to debate the AI race until they agreed on something.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "macro": {
-        "count": 137,
+        "count": 138,
         "avg_1h": -0.6,
         "avg_24h": -1.66,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 162,
+        "count": 163,
         "avg_1h": -0.29,
         "avg_24h": 0.12,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 154,
+        "count": 152,
         "avg_1h": -0.54,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
