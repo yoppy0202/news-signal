@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-19T20:33:57.248089+00:00",
+  "generated_at": "2026-09-19T22:57:26.864167+00:00",
   "events": [
+    {
+      "event_id": "9ed84a3d-e0bb-4fa2-b0f7-7a7c244042e6",
+      "source": "rss:cointelegraph",
+      "title": "REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive",
+      "url": "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-19T19:14:38+00:00",
+      "raw_text": "REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M",
+      "impact": {}
+    },
     {
       "event_id": "8dc10402-47f4-4996-a1f3-42fd695732e7",
       "source": "rss:cointelegraph",
@@ -198,6 +210,18 @@
       "tokens": [],
       "timestamp_utc": "2026-09-19T11:28:00+00:00",
       "raw_text": "Solana Changelog: September 18, 2026\n\nTransaction V1 reaches mainnet as Solana targets 250ms slots, lower rent, and program deployments with four times lower fees.",
+      "impact": {}
+    },
+    {
+      "event_id": "c3563cf0-4d84-4efa-a32b-f994f96489fa",
+      "source": "rss:solana_official",
+      "title": "How AI Is Reshaping Crypto Security, with Michael Coates",
+      "url": "https://solana.com/news/bits-to-bricks-crypto-security-michael-coates",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-19T10:00:00+00:00",
+      "raw_text": "How AI Is Reshaping Crypto Security, with Michael Coates\n\nA ~$116 million Coldcard exploit shows why crypto security must eliminate single points of failure and automate defenses for AI-speed threats.",
       "impact": {}
     },
     {
@@ -6337,44 +6361,20 @@
       "timestamp_utc": "2026-09-11T04:25:21+00:00",
       "raw_text": "Ripple puts AI agents inside its $1 billion corporate treasury bet",
       "impact": {}
-    },
-    {
-      "event_id": "7bb6bcb7-2fba-4544-96db-8d85f49c531d",
-      "source": "rss:cointelegraph",
-      "title": "Brevo login flaw enabled phishing email targeting 347K Trezor subscribers",
-      "url": "https://cointelegraph.com/news/brevo-login-flaw-trezor-bitbox-cointracking-phishing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-11T04:21:14+00:00",
-      "raw_text": "Brevo login flaw enabled phishing email targeting 347K Trezor subscribers\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Brevo login flaw enabled phishing email targeting 347K Trezor subscribers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
-      "impact": {}
-    },
-    {
-      "event_id": "f673e364-26ae-411a-9366-bf7e10db0115",
-      "source": "rss:theblock",
-      "title": "Sam Bankman-Fried asks Supreme Court to overturn fraud conviction and $11 billion forfeiture",
-      "url": "https://www.theblock.co/news/regulation/2026-09-11-sam-bankman-fried-supreme-court-petition-414226",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-11T04:20:15+00:00",
-      "raw_text": "Sam Bankman-Fried asks Supreme Court to overturn fraud conviction and $11 billion forfeiture\n\nBankman-Fried says he was unfairly barred from providing evidence that FTX had more than enough assets to cover losses from the collapse.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 156,
-        "avg_1h": -0.54,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 139,
+        "count": 140,
         "avg_1h": -0.6,
         "avg_24h": -1.66,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 155,
+        "avg_1h": -0.54,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
