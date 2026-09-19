@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-19T05:47:35.204854+00:00",
+  "generated_at": "2026-09-19T10:51:19.832745+00:00",
   "events": [
+    {
+      "event_id": "9084421b-7b54-40df-abf8-f59cf54a0010",
+      "source": "rss:cointelegraph",
+      "title": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
+      "url": "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-19T07:50:58+00:00",
+      "raw_text": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia",
+      "impact": {}
+    },
     {
       "event_id": "9531df84-2c0e-409d-ab4c-68fa08d7ef06",
       "source": "rss:bitcoinmagazine",
@@ -6341,22 +6353,16 @@
       "timestamp_utc": "2026-09-10T18:46:04+00:00",
       "raw_text": "Bitcoin Rally Cools, But a Golden Cross Is Coming\n\nBitcoin couldn't escape today's inflation-driven selloff, but a bearish pattern on its chart is about to flip for the first time since November.",
       "impact": {}
-    },
-    {
-      "event_id": "42383804-a403-4cdd-8764-6153462a6aef",
-      "source": "rss:decrypt",
-      "title": "Banks Have Minutes, Not Weeks, to Fix Flaws as AI Speeds Up Attacks: BIS",
-      "url": "https://decrypt.co/377902/ai-hacks-shrinking-bank-time-fix-flaws-bis",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-10T18:13:13+00:00",
-      "raw_text": "Banks Have Minutes, Not Weeks, to Fix Flaws as AI Speeds Up Attacks: BIS\n\nThe Bank for International Settlements says routine patching schedules are increasingly inadequate and cites guidance urging banks to accept planned downtime for urgent fixes.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 153,
+        "avg_1h": -0.54,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 138,
         "avg_1h": -0.6,
@@ -6369,14 +6375,8 @@
         "avg_24h": 0.12,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 152,
-        "avg_1h": -0.54,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 37,
+        "count": 36,
         "avg_1h": -0.47,
         "avg_24h": -1.28,
         "win_rate_1h_gt5pct": 0.0
