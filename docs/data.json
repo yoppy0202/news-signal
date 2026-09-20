@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-20T18:43:22.631423+00:00",
+  "generated_at": "2026-09-20T21:29:24.083236+00:00",
   "events": [
+    {
+      "event_id": "1fde4c33-1bac-4b53-878f-9d806ae8d089",
+      "source": "rss:theblock",
+      "title": "ZetaChain votes to shut down Layer 1 network and move ZETA to Solana",
+      "url": "https://www.theblock.co/news/defi/2026-09-20-zetachain-votes-to-shut-down-layer-1-network-and-move-zeta-to-solana-415878",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-20T20:11:49+00:00",
+      "raw_text": "ZetaChain votes to shut down Layer 1 network and move ZETA to Solana\n\nThe team plans to focus instead on Anuma, its private AI app, though the migration will still take one more vote.",
+      "impact": {}
+    },
     {
       "event_id": "7629931a-607a-4091-9f62-4ec18e9fc3aa",
       "source": "rss:theblock",
@@ -64,7 +76,8 @@
       "impact": {
         "t_plus_5m": -0.4028,
         "t_plus_15m": -0.3003,
-        "t_plus_1h": -0.2923
+        "t_plus_1h": -0.2923,
+        "t_plus_4h": 0.6069
       }
     },
     {
@@ -82,7 +95,8 @@
       "impact": {
         "t_plus_5m": -0.3302,
         "t_plus_15m": -0.4028,
-        "t_plus_1h": -0.3521
+        "t_plus_1h": -0.3521,
+        "t_plus_4h": 0.5706
       }
     },
     {
@@ -100,7 +114,8 @@
       "impact": {
         "t_plus_5m": -0.3252,
         "t_plus_15m": -0.3302,
-        "t_plus_1h": -0.2437
+        "t_plus_1h": -0.2437,
+        "t_plus_4h": 0.5392
       }
     },
     {
@@ -118,7 +133,8 @@
       "impact": {
         "t_plus_5m": -0.2669,
         "t_plus_15m": -0.3252,
-        "t_plus_1h": -0.1255
+        "t_plus_1h": -0.1255,
+        "t_plus_4h": 0.7047
       }
     },
     {
@@ -136,7 +152,8 @@
       "impact": {
         "t_plus_5m": -0.3071,
         "t_plus_15m": -0.2818,
-        "t_plus_1h": -0.2829
+        "t_plus_1h": -0.2829,
+        "t_plus_4h": 0.6691
       }
     },
     {
@@ -185,6 +202,18 @@
       "tokens": [],
       "timestamp_utc": "2026-09-20T09:14:27+00:00",
       "raw_text": "Grayscale’s Zcash ETF files for 3-for-1 forward share split\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Grayscale’s Zcash ETF files for 3-for-1 forward share split\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2Z0TBMW51CTC0H",
+      "impact": {}
+    },
+    {
+      "event_id": "7ee74e27-146a-48a0-8c7f-9451f1d910eb",
+      "source": "rss:cointelegraph",
+      "title": "Anthropic taps Accenture as embedded evaluator to help with AI slowdown proposal",
+      "url": "https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-20T07:51:24+00:00",
+      "raw_text": "Anthropic taps Accenture as embedded evaluator to help with AI slowdown proposal\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Anthropic taps Accenture as embedded evaluator to help with AI slowdown proposal  \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me",
       "impact": {}
     },
     {
@@ -6360,48 +6389,24 @@
       "timestamp_utc": "2026-09-11T11:04:12+00:00",
       "raw_text": "Live updates: Bitcoin gives up early gains as markets fully price in Fed rate hike",
       "impact": {}
-    },
-    {
-      "event_id": "8b17d936-a495-4862-a188-92b47f7c8a01",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin volatile as U.S. inflation data could point to rate hike next week.",
-      "url": "https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-11T11:04:12+00:00",
-      "raw_text": "Live updates: Bitcoin volatile as U.S. inflation data could point to rate hike next week.",
-      "impact": {}
-    },
-    {
-      "event_id": "5bebec1b-bdc5-455d-9fb5-e51b9a3ce253",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin buyers wary of July sub-$58K floor amid onchain data ‘anomaly’",
-      "url": "https://cointelegraph.com/markets/bitcoin-buyers-wary-of-july-sub-58k-floor-amid-onchain-data-anomaly?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-11T10:53:55+00:00",
-      "raw_text": "Bitcoin buyers wary of July sub-$58K floor amid onchain data ‘anomaly’\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin buyers wary of July sub-$58K floor amid onchain data ‘anomaly’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/202",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 158,
+        "avg_1h": -0.54,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
         "count": 31,
         "avg_1h": -0.51,
         "avg_24h": -1.28,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 157,
-        "avg_1h": -0.54,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 158,
+        "count": 157,
         "avg_1h": -0.28,
         "avg_24h": 1.34,
         "win_rate_1h_gt5pct": 0.0
