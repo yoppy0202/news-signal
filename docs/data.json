@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-20T15:59:15.217845+00:00",
+  "generated_at": "2026-09-20T18:43:22.631423+00:00",
   "events": [
+    {
+      "event_id": "7629931a-607a-4091-9f62-4ec18e9fc3aa",
+      "source": "rss:theblock",
+      "title": "Polymarket faced $10 million fraud attempt as its CEO pushed growth over compliance concerns: WSJ",
+      "url": "https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-20T16:07:19+00:00",
+      "raw_text": "Polymarket faced $10 million fraud attempt as its CEO pushed growth over compliance concerns: WSJ\n\nIn a separate attack, hackers compromised nearly 500 users' accounts using stolen personal information, according to the report.",
+      "impact": {}
+    },
+    {
+      "event_id": "1329f0bd-d38a-4c8b-9ddc-f9d195119e02",
+      "source": "rss:decrypt",
+      "title": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
+      "url": "https://decrypt.co/378697/visa-close-meme-coin-credit-card-rewards-loophole",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-20T16:01:03+00:00",
+      "raw_text": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole\n\nAfter banks lost their push for tighter stablecoin rules in the failed Clarity Act, JP Morgan scored a narrower win as Visa moves to stop meme coin purchases from being coded as ordinary \"digital media\" and earning card rewards.",
+      "impact": {}
+    },
     {
       "event_id": "92ab3c31-8143-4b76-b115-74a96ea2f23f",
       "source": "rss:coindesk",
@@ -32,10 +56,16 @@
       "url": "https://bitcoinmagazine.com/videos/move-over-housing-bitcoin-is-gen-zs-new-wealth-building-asset",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-09-20T13:34:01+00:00",
       "raw_text": "Move Over Housing – Bitcoin is Gen Z’s New Wealth Building Asset\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Move-Over-Housing-Bitcoin-is-Gen-Zs-New-Wealth-Building-Asset-.jpg\" style=\"display: bl",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.4028,
+        "t_plus_15m": -0.3003,
+        "t_plus_1h": -0.2923
+      }
     },
     {
       "event_id": "8a7c1bb7-0f45-4eaf-af0e-2a86994ef51f",
@@ -44,10 +74,16 @@
       "url": "https://bitcoinmagazine.com/videos/t-rowe-prices-blue-macellari-bitcoin-is-now-core-to-the-debasement-conversation",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-09-20T13:24:37+00:00",
       "raw_text": "T. Rowe Price’s Blue Macellari: Bitcoin is Now Core to the Debasement Conversation\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/T.-Rowe-Prices-Blue-Machellari-Bitcoin-is-Now-Core-to-the-Debasement",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.3302,
+        "t_plus_15m": -0.4028,
+        "t_plus_1h": -0.3521
+      }
     },
     {
       "event_id": "a4ad2417-402b-41f8-85af-8fcaa7e3407d",
@@ -56,10 +92,16 @@
       "url": "https://bitcoinmagazine.com/videos/coinbase-policy-chief-strategic-bitcoin-reserve-bill-outlook",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-09-20T13:15:42+00:00",
       "raw_text": "Coinbase Policy Chief: Strategic Bitcoin Reserve Bill Outlook\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Coinbase-Policy-Chief-Strategic-Bitcoin-Reserve-Bill-Outlook-.jpg\" style=\"display: block;",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.3252,
+        "t_plus_15m": -0.3302,
+        "t_plus_1h": -0.2437
+      }
     },
     {
       "event_id": "be706f45-b5bc-4ee9-b1eb-771309bc9edb",
@@ -68,10 +110,16 @@
       "url": "https://bitcoinmagazine.com/videos/strategy-ceo-phong-le-jpmorgan-of-bitcoin",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-09-20T13:06:46+00:00",
       "raw_text": "Strategy CEO Phong Le: We Want to Be the JPMorgan of Bitcoin\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Strategy-CEO-Phong-Le-We-Want-to-Be-the-JPMorgan-of-Bitcoin.jpg\" style=\"display: block; ma",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2669,
+        "t_plus_15m": -0.3252,
+        "t_plus_1h": -0.1255
+      }
     },
     {
       "event_id": "5f6e535b-ca04-4289-9b50-b516d3b96e77",
@@ -80,10 +128,16 @@
       "url": "https://bitcoinmagazine.com/videos/bill-miller-iv-bullish-on-bitcoin",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-09-20T12:57:34+00:00",
       "raw_text": "Why Legendary Investor Bill Miller IV has “Never Been More Bullish on Bitcoin”\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Why-Legendary-Investor-Bill-Miller-IV-has-Never-Been-More-Bullish-on-Bit",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.3071,
+        "t_plus_15m": -0.2818,
+        "t_plus_1h": -0.2829
+      }
     },
     {
       "event_id": "ed4ffd3a-61d4-4946-a893-c010f2319e48",
@@ -6330,56 +6384,32 @@
       "timestamp_utc": "2026-09-11T10:53:55+00:00",
       "raw_text": "Bitcoin buyers wary of July sub-$58K floor amid onchain data ‘anomaly’\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin buyers wary of July sub-$58K floor amid onchain data ‘anomaly’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/202",
       "impact": {}
-    },
-    {
-      "event_id": "750c91ca-2078-4d65-8dbd-bac610dddf21",
-      "source": "rss:coindesk",
-      "title": "Bitcoin recovers toward $77,300 as zcash leverage unwinds",
-      "url": "https://www.coindesk.com/markets/2026/09/11/bitcoin-recovers-toward-usd77-300-as-zcash-leverage-unwinds",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-11T10:50:47+00:00",
-      "raw_text": "Bitcoin recovers toward $77,300 as zcash leverage unwinds",
-      "impact": {}
-    },
-    {
-      "event_id": "e581f3d4-2b9e-495a-95c2-47541d6fdcfa",
-      "source": "rss:cointelegraph",
-      "title": "Standard Chartered forecasts SKY rising fivefold to $0.325 by 2028",
-      "url": "https://cointelegraph.com/news/sky-value-token-holders-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-11T10:44:28+00:00",
-      "raw_text": "Standard Chartered forecasts SKY rising fivefold to $0.325 by 2028\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Standard Chartered forecasts SKY rising fivefold to $0.325 by 2028\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 160,
-        "avg_1h": -0.28,
-        "avg_24h": 1.34,
+      "hack": {
+        "count": 31,
+        "avg_1h": -0.51,
+        "avg_24h": -1.28,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 156,
+        "count": 157,
         "avg_1h": -0.54,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 144,
-        "avg_1h": -0.6,
-        "avg_24h": -1.66,
+      "unknown": {
+        "count": 158,
+        "avg_1h": -0.28,
+        "avg_24h": 1.34,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 30,
-        "avg_1h": -0.51,
-        "avg_24h": -1.28,
+      "macro": {
+        "count": 144,
+        "avg_1h": -0.5,
+        "avg_24h": -1.66,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
