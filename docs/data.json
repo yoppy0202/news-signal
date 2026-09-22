@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-21T23:13:59.337528+00:00",
+  "generated_at": "2026-09-22T04:46:35.349873+00:00",
   "events": [
+    {
+      "event_id": "940ef684-f985-4233-88fc-b165cf6766b7",
+      "source": "rss:decrypt",
+      "title": "Google Admits Gemini AI Hacked Three Companies—It Stayed Silent for 7 Weeks",
+      "url": "https://decrypt.co/378900/google-gemini-ai-hacked-companies-stayed-silent",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-21T22:46:03+00:00",
+      "raw_text": "Google Admits Gemini AI Hacked Three Companies—It Stayed Silent for 7 Weeks\n\nGoogle learned in late July that Gemini had breached three real companies during a May security test, but said nothing publicly for seven weeks.",
+      "impact": {}
+    },
+    {
+      "event_id": "424831f9-02a3-4f44-8237-a452e2d9c554",
+      "source": "rss:decrypt",
+      "title": "After Clarity Act Fails, Crypto Super PAC Fairshake Targets Sherrod Brown With $30 Million",
+      "url": "https://decrypt.co/378891/clarity-act-crypto-super-pac-fairshake-sherrod-brown-30-million",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-21T22:16:03+00:00",
+      "raw_text": "After Clarity Act Fails, Crypto Super PAC Fairshake Targets Sherrod Brown With $30 Million\n\nThe Ohio spending comes days after the Senate blocked the crypto industry’s Clarity Act.",
+      "impact": {}
+    },
     {
       "event_id": "d4a947ab-f096-496b-8abc-bf1561d3b104",
       "source": "rss:bitcoinmagazine",
@@ -8,10 +32,16 @@
       "url": "https://bitcoinmagazine.com/videos/bitcoin-bull-market-flips-bullish",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-09-21T21:49:17+00:00",
       "raw_text": "Bitcoin Bull Market Engaged? 50-Week Moving Average Flips Bullish\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Bitcoin-Bull-Market-Engaged-50-Week-Moving-Average-Flips-Bullish.jpg\" style=\"display:",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0058,
+        "t_plus_15m": 0.0975,
+        "t_plus_1h": -0.2968
+      }
     },
     {
       "event_id": "4e2de460-097b-48f7-93b6-730e64944494",
@@ -80,10 +110,16 @@
       "url": "https://bitcoinmagazine.com/videos/jordi-visser-ai-agents-btc-bull-case",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-09-21T19:45:51+00:00",
       "raw_text": "Jordi Visser: Why AI Agents Make the BTC Bull Case\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Jordi-Visser-Why-AI-Agents-Make-the-BTC-Bull-Case-.jpg\" style=\"display: block; margin: 1em auto;\" />",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0842,
+        "t_plus_15m": -0.0481,
+        "t_plus_1h": 0.4
+      }
     },
     {
       "event_id": "06e7f4e5-7dd4-4453-a944-33b47ab995b5",
@@ -92,10 +128,16 @@
       "url": "https://bitcoinmagazine.com/news/strategy-strive-buy-bitcoin",
       "event_type": "listing",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-09-21T19:31:48+00:00",
       "raw_text": "Strategy and Strive Announce $182.7 Million Bitcoin Buy as Price Surges Past $86,000\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-29.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2883,
+        "t_plus_15m": -0.0262,
+        "t_plus_1h": 0.7891
+      }
     },
     {
       "event_id": "737a23c5-a118-472b-a99d-90729793a9f3",
@@ -208,7 +250,8 @@
       "impact": {
         "t_plus_5m": 0.2106,
         "t_plus_15m": 0.285,
-        "t_plus_1h": -0.076
+        "t_plus_1h": -0.076,
+        "t_plus_4h": 1.339
       }
     },
     {
@@ -6369,44 +6412,25 @@
       "timestamp_utc": "2026-09-14T00:54:08+00:00",
       "raw_text": "Revolut attackers threaten daily customer data leaks\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Revolut attackers threaten daily customer data leaks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2EP9WWPA3TQ0VSDG71BW9GG/data",
       "impact": {}
-    },
-    {
-      "event_id": "df174e83-0d4d-4b76-8fa7-904bd7b22f3a",
-      "source": "rss:cointelegraph",
-      "title": "Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest",
-      "url": "https://cointelegraph.com/magazine/cryptos-biggest-week-ever-swarm-fears-prompt-ai-slowdown-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-14T00:15:37+00:00",
-      "raw_text": "Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-",
-      "impact": {}
-    },
-    {
-      "event_id": "d06211b6-ffe9-486a-aabb-d3128ff16e2f",
-      "source": "rss:theblock",
-      "title": "Symbiosis says it recovered 15 BTC after Bitcoin bridge exploit, offers attacker 20% bounty",
-      "url": "https://www.theblock.co/news/defi/2026-09-13-symbiosis-says-it-recovered-15-btc-after-bitcoin-bridge-exploit-offers-attacker-20-bounty-414568",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-09-13T21:51:11+00:00",
-      "raw_text": "Symbiosis says it recovered 15 BTC after Bitcoin bridge exploit, offers attacker 20% bounty\n\nBlockchain security firm Blockaid said roughly 46.1 billion syBTC were minted but the attacker realized only about $336,000 in proceeds.",
-      "impact": {
-        "t_plus_5m": 0.2276,
-        "t_plus_15m": -0.0685,
-        "t_plus_1h": -0.5278,
-        "t_plus_4h": -0.392
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 27,
+        "avg_1h": -0.13,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 157,
+        "avg_1h": -0.32,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 142,
-        "avg_1h": -0.5,
+        "avg_1h": -0.45,
         "avg_24h": 1.97,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6418,18 +6442,6 @@
       },
       "listing": {
         "count": 10,
-        "avg_1h": -0.45,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 157,
-        "avg_1h": -0.32,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 27,
         "avg_1h": -0.21,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
