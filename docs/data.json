@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-09-22T04:46:35.349873+00:00",
+  "generated_at": "2026-09-22T09:53:26.065940+00:00",
   "events": [
+    {
+      "event_id": "e9c5156f-fb49-4847-a491-161a67443dec",
+      "source": "rss:coindesk",
+      "title": "Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000",
+      "url": "https://www.coindesk.com/markets/2026/09/22/dogecoin-leads-market-rebound-with-15-pump-bitcoin-steady-above-usd85-000",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-22T04:33:11+00:00",
+      "raw_text": "Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000",
+      "impact": {}
+    },
+    {
+      "event_id": "843baffa-a086-4707-a59e-21d0e177c02f",
+      "source": "rss:coindesk",
+      "title": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
+      "url": "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-22T04:15:45+00:00",
+      "raw_text": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
+      "impact": {}
+    },
+    {
+      "event_id": "30656548-d782-4844-9f05-c18dc707e892",
+      "source": "rss:cointelegraph",
+      "title": "Trueo prediction market moves from Base to Ethereum",
+      "url": "https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-22T04:03:00+00:00",
+      "raw_text": "Trueo prediction market moves from Base to Ethereum\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trueo prediction market moves from Base to Ethereum\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33KTK93MZM3BCWENYNYT64S/ethere",
+      "impact": {}
+    },
+    {
+      "event_id": "cf13a967-509a-47fb-9674-af58af598ef1",
+      "source": "rss:cointelegraph",
+      "title": "Kakao Pay, KakaoBank to explore stablecoin opportunities with Fireblocks",
+      "url": "https://cointelegraph.com/news/kakao-pay-kakaobank-fireblocks-stablecoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-22T03:13:22+00:00",
+      "raw_text": "Kakao Pay, KakaoBank to explore stablecoin opportunities with Fireblocks\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kakao Pay, KakaoBank to explore stablecoin opportunities with Fireblocks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
+      "impact": {}
+    },
+    {
+      "event_id": "61bb8a1e-1859-4b5c-9ea8-9fe8cce29eaa",
+      "source": "rss:theblock",
+      "title": "Animoca Brands suspends merger deal that would have taken it public",
+      "url": "https://www.theblock.co/news/business/2026-09-21-animoca-brands-suspends-merger-deal-415991",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-22T02:46:02+00:00",
+      "raw_text": "Animoca Brands suspends merger deal that would have taken it public\n\nAnimoca Chairman Yat Siu says that the 'corporate agility must take precedence' over pursuing the Currenc merger.",
+      "impact": {}
+    },
+    {
+      "event_id": "5b14a15e-edc9-45f4-aa8b-a019f7f63413",
+      "source": "rss:cointelegraph",
+      "title": "Manhattan US Attorney leading probe into Binance’s Iran compliance: Bloomberg",
+      "url": "https://cointelegraph.com/news/doj-probing-binance-over-alleged-iran-sanction-violations-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-22T02:22:59+00:00",
+      "raw_text": "Manhattan US Attorney leading probe into Binance’s Iran compliance: Bloomberg\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Manhattan US Attorney leading probe into Binance’s Iran compliance: Bloomberg\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti",
+      "impact": {}
+    },
     {
       "event_id": "940ef684-f985-4233-88fc-b165cf6766b7",
       "source": "rss:decrypt",
@@ -40,7 +112,8 @@
       "impact": {
         "t_plus_5m": -0.0058,
         "t_plus_15m": 0.0975,
-        "t_plus_1h": -0.2968
+        "t_plus_1h": -0.2968,
+        "t_plus_4h": -1.1667
       }
     },
     {
@@ -118,7 +191,8 @@
       "impact": {
         "t_plus_5m": -0.0842,
         "t_plus_15m": -0.0481,
-        "t_plus_1h": 0.4
+        "t_plus_1h": 0.4,
+        "t_plus_4h": -0.1518
       }
     },
     {
@@ -136,7 +210,8 @@
       "impact": {
         "t_plus_5m": 0.2883,
         "t_plus_15m": -0.0262,
-        "t_plus_1h": 0.7891
+        "t_plus_1h": 0.7891,
+        "t_plus_4h": -0.1221
       }
     },
     {
@@ -6340,104 +6415,32 @@
       "timestamp_utc": "2026-09-14T08:07:16+00:00",
       "raw_text": "Bitcoin bucks tech selloff as AI safety concerns weigh on stocks",
       "impact": {}
-    },
-    {
-      "event_id": "bfd2ee75-2795-47ee-a809-c28d253b7704",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin ETFs shed $463M in weekly reversal as Ether ETFs gain $197M",
-      "url": "https://cointelegraph.com/markets/bitcoin-etfs-shed-463m-ether-etfs-gain-197m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-14T07:07:54+00:00",
-      "raw_text": "Bitcoin ETFs shed $463M in weekly reversal as Ether ETFs gain $197M\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs shed $463M in weekly reversal as Ether ETFs gain $197M\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/0",
-      "impact": {}
-    },
-    {
-      "event_id": "aaf1a553-b81e-4e1f-8753-37b53b121ff6",
-      "source": "rss:cointelegraph",
-      "title": "King Charles to host AI chiefs amid industry call to slow development",
-      "url": "https://cointelegraph.com/news/king-charles-host-ai-chiefs-amid-industry-call-slow-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-14T05:16:59+00:00",
-      "raw_text": "King Charles to host AI chiefs amid industry call to slow development\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"King Charles to host AI chiefs amid industry call to slow development\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/",
-      "impact": {}
-    },
-    {
-      "event_id": "dd670065-4beb-4bc8-acdc-44ebacae1255",
-      "source": "rss:cointelegraph",
-      "title": "Robinhood CEO says issuers should not have veto over tokenized stocks",
-      "url": "https://cointelegraph.com/news/robinhood-ceo-issuer-veto-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-14T04:55:28+00:00",
-      "raw_text": "Robinhood CEO says issuers should not have veto over tokenized stocks\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Robinhood CEO says issuers should not have veto over tokenized stocks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/",
-      "impact": {}
-    },
-    {
-      "event_id": "98f84a6b-20b5-446e-b6c0-08e099950e66",
-      "source": "rss:theblock",
-      "title": "Senate Republicans release ‘final’ Clarity Act draft as Trump accepts most ethics provisions",
-      "url": "https://www.theblock.co/news/regulation/2026-09-14-senate-republicans-release-final-clarity-act-draft-414575",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-14T04:24:37+00:00",
-      "raw_text": "Senate Republicans release ‘final’ Clarity Act draft as Trump accepts most ethics provisions\n\nPresident Donald Trump agreed to ethics restrictions on the bill, which would limit officials and their spouses from crypto-related dealings.",
-      "impact": {}
-    },
-    {
-      "event_id": "ba0b276d-5bf7-47f7-88f1-b71f96fd9f2c",
-      "source": "rss:cointelegraph",
-      "title": "US Republicans send ‘final’ CLARITY Act offer to Democrats",
-      "url": "https://cointelegraph.com/news/us-republicans-send-final-clarity-act-offer-to-democrats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-14T03:22:49+00:00",
-      "raw_text": "US Republicans send ‘final’ CLARITY Act offer to Democrats\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Republicans send ‘final’ CLARITY Act offer to Democrats\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2EYQFNBQWHSKS9XV",
-      "impact": {}
-    },
-    {
-      "event_id": "ef5a3404-3eb4-4380-bf1a-3caa3b5b239a",
-      "source": "rss:cointelegraph",
-      "title": "Revolut attackers threaten daily customer data leaks",
-      "url": "https://cointelegraph.com/news/revolut-attackers-threaten-daily-customer-data-leaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-14T00:54:08+00:00",
-      "raw_text": "Revolut attackers threaten daily customer data leaks\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Revolut attackers threaten daily customer data leaks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2EP9WWPA3TQ0VSDG71BW9GG/data",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "hack": {
-        "count": 27,
-        "avg_1h": -0.13,
-        "avg_24h": null,
+      "unknown": {
+        "count": 165,
+        "avg_1h": -0.24,
+        "avg_24h": 1.34,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 157,
+        "count": 158,
         "avg_1h": -0.32,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 142,
-        "avg_1h": -0.45,
-        "avg_24h": 1.97,
+      "hack": {
+        "count": 26,
+        "avg_1h": -0.13,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 163,
-        "avg_1h": -0.24,
-        "avg_24h": 1.34,
+      "macro": {
+        "count": 140,
+        "avg_1h": -0.45,
+        "avg_24h": 1.97,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
