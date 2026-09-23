@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-09-22T22:02:00.753147+00:00",
+  "generated_at": "2026-09-23T00:24:39.746033+00:00",
   "events": [
+    {
+      "event_id": "bea9d2c6-35d2-4461-a92e-fa51fa063656",
+      "source": "rss:theblock",
+      "title": "Crypto VC Hashed anchors new digital asset private credit fund targeting $300 million",
+      "url": "https://www.theblock.co/news/markets/2026-09-22-hashed-private-credit-fund-416013",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-22T22:30:00+00:00",
+      "raw_text": "Crypto VC Hashed anchors new digital asset private credit fund targeting $300 million\n\nThe fund aims to address a critical financing bottleneck in the institutional digital asset sector by using 'covenant-based' underwriting.",
+      "impact": {}
+    },
+    {
+      "event_id": "ee455405-b857-4414-a838-e34527d333c3",
+      "source": "rss:decrypt",
+      "title": "UN Security Council Will Get Advice on AI Risks From Tech Giants Building It",
+      "url": "https://decrypt.co/379008/un-security-council-ai-risks-anthropic-openai-deepseek",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-22T22:16:03+00:00",
+      "raw_text": "UN Security Council Will Get Advice on AI Risks From Tech Giants Building It\n\nDeepSeek will address the UN Security Council on AI risks this week, sharing a stage with Dario Amodei—who has spent a year calling China's government the industry's biggest threat.",
+      "impact": {}
+    },
+    {
+      "event_id": "9f5f0569-ee94-4653-bc30-4361e05a4e76",
+      "source": "rss:theblock",
+      "title": "CFTC warns ‘mention market’ prediction contracts carry heightened manipulation risk",
+      "url": "https://www.theblock.co/news/regulation/2026-09-22-cftc-advisory-mention-markets-manipulation-risk-416120",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-22T21:42:19+00:00",
+      "raw_text": "CFTC warns ‘mention market’ prediction contracts carry heightened manipulation risk\n\nThe CFTC is warning that bets on prediction markets based on whether someone will \"mention\" specific words carries manipulation risks.",
+      "impact": {}
+    },
     {
       "event_id": "3706ebae-55b9-415b-878b-55919db6a625",
       "source": "rss:coindesk",
@@ -20,10 +56,15 @@
       "url": "https://decrypt.co/379006/161-million-decade-old-bitcoin-moves-two-weeks",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-09-22T21:16:03+00:00",
       "raw_text": "$161 Million in Decade-Old Bitcoin Has Moved in Just Two Weeks\n\nFour ancient wallets moved 1,971 BTC between Sept. 6 and Sept. 22, including a 600 BTC transfer worth $51.9 million just hours ago, with three of the four carrying \"Noah Doe\" lawsuit tags.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0243,
+        "t_plus_15m": -0.0205
+      }
     },
     {
       "event_id": "fc1739af-ef64-4e27-a153-207c81b592a5",
@@ -116,10 +157,16 @@
       "url": "https://bitcoinmagazine.com/news/bitcoin-etf-investors-buy-nearly-1-billion",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-09-22T19:55:41+00:00",
       "raw_text": "Bitcoin Investors Buy Nearly $1B in BTC ETFs as Bull Market Returns\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Bitcoin-ETFs.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0455,
+        "t_plus_15m": -0.0297,
+        "t_plus_1h": -0.0439
+      }
     },
     {
       "event_id": "7089402c-da0a-4b79-b556-02a8dac55b99",
@@ -232,7 +279,8 @@
       "impact": {
         "t_plus_5m": 0.1393,
         "t_plus_15m": 0.2503,
-        "t_plus_1h": 0.2397
+        "t_plus_1h": 0.2397,
+        "t_plus_4h": -0.1493
       }
     },
     {
@@ -6326,62 +6374,26 @@
       "timestamp_utc": "2026-09-14T21:46:04+00:00",
       "raw_text": "Banks Want More: Trade Groups Demand Stricter Stablecoin Limits in Clarity Act\n\nEight trade associations say exceptions for interest-like rewards could pull deposits from banks and reduce lending.",
       "impact": {}
-    },
-    {
-      "event_id": "24a8990f-1872-4325-af2c-eae4ee62b723",
-      "source": "rss:theblock",
-      "title": "Where the Clarity Act stands ahead of Tuesday’s Senate vote",
-      "url": "https://www.theblock.co/news/regulation/2026-09-14-where-the-clarity-act-stands-ahead-of-tuesdays-senate-vote-414720",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-14T21:32:37+00:00",
-      "raw_text": "Where the Clarity Act stands ahead of Tuesday’s Senate vote\n\nThe Senate heads into a consequential vote Tuesday on sweeping cryptocurrency legislation, but does it have enough support to pass?",
-      "impact": {}
-    },
-    {
-      "event_id": "fdd8d3e3-b14b-4d1f-a66a-7b1bbfcb4d47",
-      "source": "rss:decrypt",
-      "title": "OpenAI’s Sam Altman Warns Humans Could Lose Control of AI",
-      "url": "https://decrypt.co/378179/openai-sam-altman-humans-lose-control-ai",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-14T21:16:04+00:00",
-      "raw_text": "OpenAI’s Sam Altman Warns Humans Could Lose Control of AI\n\nThe OpenAI chief called for safeguards during training and shared industry standards, saying developers can act before legislation arrives.",
-      "impact": {}
-    },
-    {
-      "event_id": "b81b5fff-d91b-412d-b537-5ade02d6f676",
-      "source": "rss:coindesk",
-      "title": "Robinhood plans share redemptions, voting rights for stock tokens, after criticism",
-      "url": "https://www.coindesk.com/business/2026/09/14/robinhood-plans-share-redemptions-voting-rights-for-stock-tokens-after-criticism",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-14T21:05:13+00:00",
-      "raw_text": "Robinhood plans share redemptions, voting rights for stock tokens, after criticism",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 146,
+        "avg_1h": -0.3,
+        "avg_24h": 3.93,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 165,
+        "count": 164,
         "avg_1h": -0.1,
         "avg_24h": 1.34,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 154,
+        "count": 153,
         "avg_1h": -0.22,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 144,
-        "avg_1h": -0.31,
-        "avg_24h": 3.93,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
