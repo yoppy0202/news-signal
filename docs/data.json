@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-09-23T23:38:07.106989+00:00",
+  "generated_at": "2026-09-24T04:39:20.100422+00:00",
   "events": [
+    {
+      "event_id": "aef62f88-80dc-4775-8b28-f3dad376be45",
+      "source": "rss:cointelegraph",
+      "title": "Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity",
+      "url": "https://cointelegraph.com/news/kalshi-says-cftc-hasnt-contacted-it-over-unusual-5b-trading-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-24T00:53:09+00:00",
+      "raw_text": "Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
+      "impact": {}
+    },
+    {
+      "event_id": "8426991c-5747-4ece-9771-bef5eb78a039",
+      "source": "rss:decrypt",
+      "title": "Anthropic Says Claude Found Something Big in DNA. It Just Doesn't Know What",
+      "url": "https://decrypt.co/379128/anthropic-claude-found-something-big-dna-doesnt-know-what",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-23T22:56:03+00:00",
+      "raw_text": "Anthropic Says Claude Found Something Big in DNA. It Just Doesn't Know What\n\nAnthropic says Claude autonomously found a new CRISPR-like enzyme system. Even Dario Amodei admits nobody knows what it actually does.",
+      "impact": {}
+    },
+    {
+      "event_id": "98bb2b30-cdcd-4f6d-adbb-acc02d81cde2",
+      "source": "rss:decrypt",
+      "title": "An AI Agent Just Hacked a Government Website for the First Time, Australia PM Says",
+      "url": "https://decrypt.co/379134/an-ai-agent-just-hacked-a-government-website-for-the-first-time-australia-pm-says",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-23T22:31:45+00:00",
+      "raw_text": "An AI Agent Just Hacked a Government Website for the First Time, Australia PM Says\n\nAnthony Albanese said the agent accessed public and non-public files on a Medicare statistics portal in June, calling OpenAI's three-month delay in disclosing the breach \"unacceptable.\"",
+      "impact": {}
+    },
+    {
+      "event_id": "f68ac370-ddd0-461c-b67d-1a231e68a28e",
+      "source": "rss:decrypt",
+      "title": "OpenAI Gives Ukraine Access to Daybreak AI Cyber-Defense Tool",
+      "url": "https://decrypt.co/379126/openai-ukraine-access-daybreak-ai-cyber-defense-tool",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-23T22:06:04+00:00",
+      "raw_text": "OpenAI Gives Ukraine Access to Daybreak AI Cyber-Defense Tool\n\nOpenAI is giving Ukraine's government access to Daybreak, its AI vulnerability-hunting system, as the country's cyber defenders face a record wave of attacks on hospitals, power grids, and government networks.",
+      "impact": {}
+    },
+    {
+      "event_id": "ca1bae6e-d61a-4783-8c85-6f656ce117ab",
+      "source": "rss:cointelegraph",
+      "title": "Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility",
+      "url": "https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-23T21:47:52+00:00",
+      "raw_text": "Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me",
+      "impact": {}
+    },
     {
       "event_id": "54619315-f103-48c8-8a0b-5b9de9bafafa",
       "source": "rss:decrypt",
@@ -256,7 +316,8 @@
       "impact": {
         "t_plus_5m": -0.2094,
         "t_plus_15m": -0.441,
-        "t_plus_1h": 0.0874
+        "t_plus_1h": 0.0874,
+        "t_plus_4h": 0.0722
       }
     },
     {
@@ -6280,98 +6341,13 @@
       "timestamp_utc": "2026-09-15T20:37:34+00:00",
       "raw_text": "Crypto stocks slide after CLARITY Act fails to advance in Senate\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto stocks slide after CLARITY Act fails to advance in Senate\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2KBJ",
       "impact": {}
-    },
-    {
-      "event_id": "dfe6e286-71c9-47ec-bf0b-2f3df3db1967",
-      "source": "rss:decrypt",
-      "title": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work",
-      "url": "https://decrypt.co/378300/openai-safety-concerns-slowed-most-advanced-ai-work",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-15T20:09:19+00:00",
-      "raw_text": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work\n\nGreg Brockman says OpenAI delayed launches and reworked its processes after a pre-release model broke out of a sandbox and hacked into Hugging Face.",
-      "impact": {}
-    },
-    {
-      "event_id": "c5aafa07-0256-47a6-9640-41d16d1c837a",
-      "source": "rss:bitcoinmagazine",
-      "title": "Lightning Lands on BitBox — And It Doesn’t Ask for a New Seed Phrase",
-      "url": "https://bitcoinmagazine.com/news/lightning-lands-on-bitbox",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-15T20:07:45+00:00",
-      "raw_text": "Lightning Lands on BitBox — And It Doesn’t Ask for a New Seed Phrase\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/floating-disconnect.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a hre",
-      "impact": {}
-    },
-    {
-      "event_id": "f2c42121-0c76-4f76-8147-92a0018bee72",
-      "source": "rss:coindesk",
-      "title": "Crypto stocks sink after Senate rejects Clarity Act",
-      "url": "https://www.coindesk.com/markets/2026/09/15/crypto-stocks-sink-after-senate-rejects-clarity-act",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-15T20:03:17+00:00",
-      "raw_text": "Crypto stocks sink after Senate rejects Clarity Act",
-      "impact": {}
-    },
-    {
-      "event_id": "f14b2ebe-5b73-4399-8274-823663fbcd33",
-      "source": "rss:bitcoinmagazine",
-      "title": "Senate Blocks Clarity Act, Likely Killing It for 2026",
-      "url": "https://bitcoinmagazine.com/news/senate-blocks-clarity-act",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-15T19:58:39+00:00",
-      "raw_text": "Senate Blocks Clarity Act, Likely Killing It for 2026\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/White-House-Now-Reviewing-Crypto-Clarity-Act-Ethics-Text-Ahead-of-August-Deadline.jpg\" style=\"dis",
-      "impact": {}
-    },
-    {
-      "event_id": "9ce447b9-3a53-440c-b8c5-3570fd93dcc1",
-      "source": "rss:bitcoinmagazine",
-      "title": "Why the Clarity Act Could Decide America’s Financial Future w/ John Deaton",
-      "url": "https://bitcoinmagazine.com/videos/why-the-clarity-act-could-decide-americas-financial-future",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-09-15T19:51:41+00:00",
-      "raw_text": "Why the Clarity Act Could Decide America’s Financial Future w/ John Deaton\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Why-the-Clarity-Act-Could-Decide-Americas-Financial-Future-w-John-Deaton-.jp",
-      "impact": {
-        "t_plus_5m": -0.0433,
-        "t_plus_15m": 0.0247,
-        "t_plus_1h": -0.1156,
-        "t_plus_4h": -0.5376
-      }
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 160,
-        "avg_1h": -0.43,
-        "avg_24h": 3.93,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 151,
+        "count": 152,
         "avg_1h": 0.42,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 26,
-        "avg_1h": -0.24,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "listing": {
-        "count": 9,
-        "avg_1h": 0.06,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6379,6 +6355,24 @@
         "count": 154,
         "avg_1h": -0.17,
         "avg_24h": 3.58,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 27,
+        "avg_1h": -0.24,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 158,
+        "avg_1h": -0.44,
+        "avg_24h": 3.93,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "listing": {
+        "count": 9,
+        "avg_1h": 0.06,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       }
     }
