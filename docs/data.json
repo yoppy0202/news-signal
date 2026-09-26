@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-09-26T01:28:59.987288+00:00",
+  "generated_at": "2026-09-26T07:35:13.946769+00:00",
   "events": [
+    {
+      "event_id": "6845e288-fe43-4b10-bd7e-01b8a2401d75",
+      "source": "rss:coindesk",
+      "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
+      "url": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-26T05:00:00+00:00",
+      "raw_text": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
+      "impact": {}
+    },
+    {
+      "event_id": "3d3ed5c4-495a-490f-9c9e-84ce65ffe0e4",
+      "source": "rss:coindesk",
+      "title": "XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets",
+      "url": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-26T04:30:00+00:00",
+      "raw_text": "XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets",
+      "impact": {}
+    },
+    {
+      "event_id": "658dcd0d-632c-4f4b-8669-9d3f3cf16b36",
+      "source": "rss:coindesk",
+      "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+      "url": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-26T04:02:13+00:00",
+      "raw_text": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+      "impact": {}
+    },
     {
       "event_id": "a302090c-ced7-4cc9-9dd1-6c8f7d2aa494",
       "source": "rss:coindesk",
@@ -172,7 +208,8 @@
       "impact": {
         "t_plus_5m": -0.007,
         "t_plus_15m": -0.0148,
-        "t_plus_1h": -0.0732
+        "t_plus_1h": -0.0732,
+        "t_plus_4h": -0.0381
       }
     },
     {
@@ -6303,42 +6340,6 @@
       "tokens": [],
       "timestamp_utc": "2026-09-17T19:01:05+00:00",
       "raw_text": "Ethereum Founder Vitalik Buterin Says AI Won’t Doom Crypto Security\n\nThe Ethereum co-founder said AI could help developers mathematically verify entire software systems, turning the same technology powering new attacks into a tool for defense.",
-      "impact": {}
-    },
-    {
-      "event_id": "94446110-277e-4c4d-9c0a-594e790cf29b",
-      "source": "rss:coindesk",
-      "title": "Kevin O’Leary says Congress will revisit Clarity early next year as crypto tax bill advances",
-      "url": "https://www.coindesk.com/policy/2026/09/17/kevin-o-leary-says-congress-will-revisit-clarity-by-second-quarter-as-crypto-tax-bill-advances",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-17T18:40:38+00:00",
-      "raw_text": "Kevin O’Leary says Congress will revisit Clarity early next year as crypto tax bill advances",
-      "impact": {}
-    },
-    {
-      "event_id": "b59135f0-aadb-4953-a5a3-83dc3c29ea2c",
-      "source": "rss:coindesk",
-      "title": "Kevin O’Leary says Congress will revisit CLARITY early next year as crypto tax bill advances",
-      "url": "https://www.coindesk.com/policy/2026/09/17/kevin-o-leary-says-congress-will-revisit-clarity-by-second-quarter-as-crypto-tax-bill-advances",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-17T18:40:38+00:00",
-      "raw_text": "Kevin O’Leary says Congress will revisit CLARITY early next year as crypto tax bill advances",
-      "impact": {}
-    },
-    {
-      "event_id": "3f69e373-daeb-4a35-91fb-39efb07a36aa",
-      "source": "rss:coindesk",
-      "title": "SEC opens door to tokenized U.S. stock trading. Here’s who could benefit",
-      "url": "https://www.coindesk.com/business/2026/09/17/sec-opens-door-to-tokenized-u-s-stock-trading-here-s-who-could-benefit",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-17T18:38:10+00:00",
-      "raw_text": "SEC opens door to tokenized U.S. stock trading. Here’s who could benefit",
       "impact": {}
     }
   ],
