@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-26T07:35:13.946769+00:00",
+  "generated_at": "2026-09-26T13:00:47.120708+00:00",
   "events": [
+    {
+      "event_id": "d9fddad9-6fdd-4192-8f78-2bd269b1bf03",
+      "source": "rss:cointelegraph",
+      "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
+      "url": "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-26T09:02:22+00:00",
+      "raw_text": "SEC Commissioner Hester Peirce to leave post on Oct. 2\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC Commissioner Hester Peirce to leave post on Oct. 2\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3EF3D5VFWA1TXNZDN794WQV/",
+      "impact": {}
+    },
+    {
+      "event_id": "70affecb-338a-4b53-8143-142fe0784372",
+      "source": "rss:cointelegraph",
+      "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
+      "url": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-26T06:59:29+00:00",
+      "raw_text": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC sues Cash FX, alleges $950M crypto-linked forex scheme\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3E7R5YFBEX21VB",
+      "impact": {}
+    },
     {
       "event_id": "6845e288-fe43-4b10-bd7e-01b8a2401d75",
       "source": "rss:coindesk",
@@ -20,9 +44,27 @@
       "url": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-09-26T04:30:00+00:00",
       "raw_text": "XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets",
+      "impact": {
+        "t_plus_5m": 0.3172,
+        "t_plus_15m": 0.3853,
+        "t_plus_1h": 0.1147
+      }
+    },
+    {
+      "event_id": "0259ba9b-6f8e-4175-b3f8-4414f5d67d16",
+      "source": "rss:coindesk",
+      "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+      "url": "https://www.coindesk.com/tech/2026/09/26/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-26T04:02:13+00:00",
+      "raw_text": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
       "impact": {}
     },
     {
@@ -6305,60 +6347,24 @@
       "timestamp_utc": "2026-09-17T19:32:22+00:00",
       "raw_text": "OpenAI Says It's Made Progress on a Second $1 Million Math Problem\n\nDays after its disputed Navier-Stokes claim, OpenAI says it's made \"substantial progress\" on another Millennium Prize math problem—and won't say which one yet.",
       "impact": {}
-    },
-    {
-      "event_id": "def405f1-e791-42be-9544-a0ffbba6c98e",
-      "source": "rss:cointelegraph",
-      "title": "CFTC expands regulatory relief for passive trading software providers",
-      "url": "https://cointelegraph.com/news/cftc-expands-regulatory-relief-for-passive-trading-software-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-17T19:30:48+00:00",
-      "raw_text": "CFTC expands regulatory relief for passive trading software providers\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC expands regulatory relief for passive trading software providers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/",
-      "impact": {}
-    },
-    {
-      "event_id": "d457d346-332c-4b57-b4cc-67766d19b90e",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin ETFs Could Triple Gold Counterparts as Asset Matures: Expert",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-etfs-could-triple-gold-etfs",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-17T19:24:01+00:00",
-      "raw_text": "Bitcoin ETFs Could Triple Gold Counterparts as Asset Matures: Expert\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/image12_1920x1080.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=",
-      "impact": {}
-    },
-    {
-      "event_id": "864a0637-308f-4097-8ba3-ef4cb8166d68",
-      "source": "rss:decrypt",
-      "title": "Ethereum Founder Vitalik Buterin Says AI Won’t Doom Crypto Security",
-      "url": "https://decrypt.co/378544/ethereum-vitalik-buterin-ai-crypto-security",
-      "event_type": "hack",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-17T19:01:05+00:00",
-      "raw_text": "Ethereum Founder Vitalik Buterin Says AI Won’t Doom Crypto Security\n\nThe Ethereum co-founder said AI could help developers mathematically verify entire software systems, turning the same technology powering new attacks into a tool for defense.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "macro": {
-        "count": 135,
+        "count": 136,
         "avg_1h": -0.34,
         "avg_24h": 3.85,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
         "count": 166,
-        "avg_1h": -0.21,
+        "avg_1h": -0.18,
         "avg_24h": 5.03,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 43,
+        "count": 42,
         "avg_1h": -0.62,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
