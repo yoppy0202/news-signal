@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-09-26T13:00:47.120708+00:00",
+  "generated_at": "2026-09-26T17:06:09.568508+00:00",
   "events": [
+    {
+      "event_id": "3d3ea558-b723-4a2c-b30f-a4183a567031",
+      "source": "rss:coindesk",
+      "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
+      "url": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-26T14:00:00+00:00",
+      "raw_text": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
+      "impact": {}
+    },
+    {
+      "event_id": "db8b1661-bd1c-4c5d-9b72-7f78613b02ff",
+      "source": "rss:cointelegraph",
+      "title": "Kalshi loses appeal, setting up potential Supreme Court case",
+      "url": "https://cointelegraph.com/news/kalshi-loses-appeal-setting-up-potential-supreme-court-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-26T13:21:12+00:00",
+      "raw_text": "Kalshi loses appeal, setting up potential Supreme Court case\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi loses appeal, setting up potential Supreme Court case\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1M5NCSJSS1MA",
+      "impact": {}
+    },
+    {
+      "event_id": "0bf44d3a-09b5-44dc-87d3-184b87bc686c",
+      "source": "rss:decrypt",
+      "title": "Google Just Made Free 1080p AI Video Generation Available to Anyone",
+      "url": "https://decrypt.co/379353/google-free-1080p-ai-video-generation",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-26T13:01:03+00:00",
+      "raw_text": "Google Just Made Free 1080p AI Video Generation Available to Anyone\n\nGoogle Vids now lets any Google account holder generate free HD AI video using Gemini Omni 1.1 Flash, with new scene, timing, and watermark controls.",
+      "impact": {}
+    },
+    {
+      "event_id": "a9e844b0-1cc5-41b6-9ffe-cc1e1dd42805",
+      "source": "rss:coindesk",
+      "title": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
+      "url": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-26T13:00:00+00:00",
+      "raw_text": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
+      "impact": {}
+    },
+    {
+      "event_id": "14a4db63-c980-4aed-9c79-90077e3629e1",
+      "source": "rss:coindesk",
+      "title": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
+      "url": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-26T12:56:41+00:00",
+      "raw_text": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
+      "impact": {}
+    },
     {
       "event_id": "d9fddad9-6fdd-4192-8f78-2bd269b1bf03",
       "source": "rss:cointelegraph",
@@ -52,7 +112,8 @@
       "impact": {
         "t_plus_5m": 0.3172,
         "t_plus_15m": 0.3853,
-        "t_plus_1h": 0.1147
+        "t_plus_1h": 0.1147,
+        "t_plus_4h": -0.0508
       }
     },
     {
@@ -6287,92 +6348,32 @@
       "timestamp_utc": "2026-09-17T21:16:03+00:00",
       "raw_text": "Your Data Could Outlive the Startup You Gave It To. Elon Musk Wants to Buy What's Left\n\nSpaceX's AI division has held internal talks about buying customer records from dead startups—cheap fuel for Grok, no questions asked, because there's nobody left to ask them.",
       "impact": {}
-    },
-    {
-      "event_id": "8a99e47f-f4ea-473f-a131-8f6aa096f602",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin Price Unlikely To Be Bothered by Interest Rate Hike: Grayscale",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-not-bothered-by-fed-says-grayscale",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-17T21:08:51+00:00",
-      "raw_text": "Bitcoin Price Unlikely To Be Bothered by Interest Rate Hike: Grayscale\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-24.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https:/",
-      "impact": {}
-    },
-    {
-      "event_id": "64759a40-e581-4a31-911f-f29f50b303df",
-      "source": "rss:decrypt",
-      "title": "Why Is Chipotle Now Working With the CIA-Funded Palantir?",
-      "url": "https://decrypt.co/378553/why-chipotle-working-with-palantir",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-17T20:46:03+00:00",
-      "raw_text": "Why Is Chipotle Now Working With the CIA-Funded Palantir?\n\nChipotle is piloting a Palantir-built food safety dashboard after a summer of outbreaks, putting employee data in the hands of a company seeded by the CIA's venture arm.",
-      "impact": {}
-    },
-    {
-      "event_id": "fe1a5e6d-10bd-4671-90bf-d14e8f1670fc",
-      "source": "rss:decrypt",
-      "title": "CFTC Opens Door for Crypto Apps to Offer Regulated Derivatives Access",
-      "url": "https://decrypt.co/378560/cftc-crypto-apps-regulated-derivatives-access",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-17T20:16:04+00:00",
-      "raw_text": "CFTC Opens Door for Crypto Apps to Offer Regulated Derivatives Access\n\nIn a no-action letter, the CFTC said certain software providers can connect users to regulated derivatives markets without registering as brokers.",
-      "impact": {}
-    },
-    {
-      "event_id": "c985d230-8260-46e4-8e8e-3f3b7660a51c",
-      "source": "rss:theblock",
-      "title": "US sanctions Iranian crypto exchange BitBank over alleged bitcoin transfers to IRGC",
-      "url": "https://www.theblock.co/news/regulation/2026-09-17-us-sanctions-iranian-crypto-exchange-bitbank-alleged-bitcoin-transfers-to-irgc-415462",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-17T20:05:28+00:00",
-      "raw_text": "US sanctions Iranian crypto exchange BitBank over alleged bitcoin transfers to IRGC\n\nTreasury said the previously sanctioned Hormuz Safe platform used BitBank to transfer payments collected since June.",
-      "impact": {}
-    },
-    {
-      "event_id": "93f1edd9-d899-411a-8191-9498aa045bfa",
-      "source": "rss:decrypt",
-      "title": "OpenAI Says It's Made Progress on a Second $1 Million Math Problem",
-      "url": "https://decrypt.co/378551/openai-progress-second-millennium-prize-math-problem",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-17T19:32:22+00:00",
-      "raw_text": "OpenAI Says It's Made Progress on a Second $1 Million Math Problem\n\nDays after its disputed Navier-Stokes claim, OpenAI says it's made \"substantial progress\" on another Millennium Prize math problem—and won't say which one yet.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 136,
-        "avg_1h": -0.34,
-        "avg_24h": 3.85,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 166,
+        "count": 167,
         "avg_1h": -0.18,
         "avg_24h": 5.03,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 42,
-        "avg_1h": -0.62,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
         "count": 146,
         "avg_1h": 0.31,
         "avg_24h": -0.82,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 43,
+        "avg_1h": -0.62,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 134,
+        "avg_1h": -0.34,
+        "avg_24h": 3.85,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
