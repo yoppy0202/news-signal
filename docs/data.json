@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-09-27T13:53:10.339123+00:00",
+  "generated_at": "2026-09-27T18:18:30.934563+00:00",
   "events": [
+    {
+      "event_id": "37bdd439-c740-4860-918b-0d6f44be3aa4",
+      "source": "rss:decrypt",
+      "title": "AI Agents Keep Escaping Their Creators' Control—Here's What We Know",
+      "url": "https://decrypt.co/379402/ai-agents-keep-escaping-creators-control",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-27T16:01:03+00:00",
+      "raw_text": "AI Agents Keep Escaping Their Creators' Control—Here's What We Know\n\nAn OpenAI agent's breach of an Australian government website is the starkest example yet of a pattern building for months—and of how hard autonomous AI is to contain.",
+      "impact": {}
+    },
+    {
+      "event_id": "39c24e66-991c-42d2-8de2-b66fe039bea7",
+      "source": "rss:decrypt",
+      "title": "Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It",
+      "url": "https://decrypt.co/379400/bitcoins-quantum-problem-three-ways-researchers-are-trying-to-fix-it",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-27T15:01:03+00:00",
+      "raw_text": "Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It\n\nThree developments this week—a cost breakthrough, a new privacy design, and a custody playbook—show a field moving from theory to logistics, even as \"Q-Day\" remains hypotheti",
+      "impact": {}
+    },
+    {
+      "event_id": "9e0c1054-c66a-4efd-a305-833e9a864411",
+      "source": "rss:theblock",
+      "title": "‘It’s really not just a blockchain anymore’: Vitalik Buterin maps Ethereum’s path to 2030",
+      "url": "https://www.theblock.co/news/ecosystems/2026-09-27-its-really-not-just-a-blockchain-anymore-vitalik-buterin-maps-ethereums-path-to-2030-416953",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-27T14:35:53+00:00",
+      "raw_text": "‘It’s really not just a blockchain anymore’: Vitalik Buterin maps Ethereum’s path to 2030\n\nEthereum co-founder Vitalik Buterin said Ethereum is \"really not just a blockchain anymore\" and laid out how its design will change by 2030 in a post.",
+      "impact": {}
+    },
+    {
+      "event_id": "d9ce4e26-1f1d-4f46-b661-67a141640940",
+      "source": "rss:coindesk",
+      "title": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
+      "url": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-27T14:29:13+00:00",
+      "raw_text": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
+      "impact": {}
+    },
     {
       "event_id": "93c616a9-3b8f-4bb7-b04f-4b0c72be2e26",
       "source": "rss:decrypt",
@@ -6323,58 +6371,16 @@
       "timestamp_utc": "2026-09-18T06:52:23+00:00",
       "raw_text": "Iran’s Strait of Hormuz toll booth ran through a bitcoin exchange, U.S. says",
       "impact": {}
-    },
-    {
-      "event_id": "b256c8da-4a66-49eb-bb3b-602967d531b7",
-      "source": "rss:coindesk",
-      "title": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
-      "url": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-18T06:16:57+00:00",
-      "raw_text": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
-      "impact": {}
-    },
-    {
-      "event_id": "6f1d4eba-430f-4b40-b25d-624a040e3f64",
-      "source": "rss:coindesk",
-      "title": "Corporate treasuries bought just 5,900 bitcoin in 3 months. Other demand signals look weak, too.",
-      "url": "https://www.coindesk.com/markets/2026/09/18/corporate-treasuries-bought-just-5-900-bitcoin-in-3-months-other-demand-signals-look-weak-too",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-18T05:43:21+00:00",
-      "raw_text": "Corporate treasuries bought just 5,900 bitcoin in 3 months. Other demand signals look weak, too.",
-      "impact": {}
-    },
-    {
-      "event_id": "d23ed6ad-4382-41dc-abac-66de3420ff5d",
-      "source": "rss:theblock",
-      "title": "Stablecoin payments firm dtcpay closes $25 million Series A with SBI Group investment",
-      "url": "https://www.theblock.co/news/business/2026-09-18-dtcpay-series-a-sbi-group-415483",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-18T05:29:10+00:00",
-      "raw_text": "Stablecoin payments firm dtcpay closes $25 million Series A with SBI Group investment\n\nThe fresh capital enables it to scale product suite and merchant network, including a revamped business portal for enterprise clients.",
-      "impact": {}
-    },
-    {
-      "event_id": "4faa6bf8-3723-46c2-943a-96579f74b312",
-      "source": "rss:coindesk",
-      "title": "Ethereum confirms Glamsterdam dates, but warns 'fake' builders could stall the chain",
-      "url": "https://www.coindesk.com/tech/2026/09/18/ethereum-confirms-glamsterdam-dates-but-warns-fake-builders-could-stall-the-chain",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-18T05:23:29+00:00",
-      "raw_text": "Ethereum confirms Glamsterdam dates, but warns 'fake' builders could stall the chain",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 146,
+        "avg_1h": 0.31,
+        "avg_24h": -0.82,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 136,
         "avg_1h": -0.23,
@@ -6388,15 +6394,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 166,
+        "count": 163,
         "avg_1h": -0.18,
         "avg_24h": 1.95,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 143,
-        "avg_1h": 0.31,
-        "avg_24h": -0.82,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
