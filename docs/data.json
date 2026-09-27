@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-09-27T08:02:53.297349+00:00",
+  "generated_at": "2026-09-27T13:53:10.339123+00:00",
   "events": [
+    {
+      "event_id": "93c616a9-3b8f-4bb7-b04f-4b0c72be2e26",
+      "source": "rss:decrypt",
+      "title": "SEC Staff Says Token Buybacks Don't Make Crypto a Security—If the Network Works",
+      "url": "https://decrypt.co/379398/sec-staff-token-buybacks-dont-make-crypto-security",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-27T13:01:03+00:00",
+      "raw_text": "SEC Staff Says Token Buybacks Don't Make Crypto a Security—If the Network Works\n\nNew SEC staff guidance says announcing a token buyback on a functional network isn't a promise that turns the token into a security, a shift one attorney says makes securities laws look \"opt-in.\"",
+      "impact": {}
+    },
+    {
+      "event_id": "a65af8d7-9712-4b64-9ba8-a442527eb561",
+      "source": "rss:cointelegraph",
+      "title": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report",
+      "url": "https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-27T12:46:28+00:00",
+      "raw_text": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report  \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
+      "impact": {}
+    },
+    {
+      "event_id": "05ad62a2-5ade-42c1-ad07-c9c4d30f3e09",
+      "source": "rss:coindesk",
+      "title": "How months of work on the Clarity Act all fell apart",
+      "url": "https://www.coindesk.com/news-analysis/2026/09/27/how-months-of-work-on-the-clarity-act-all-fell-apart",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-27T12:00:00+00:00",
+      "raw_text": "How months of work on the Clarity Act all fell apart",
+      "impact": {}
+    },
+    {
+      "event_id": "f6a1d807-6478-42aa-9221-0ac34fecea6e",
+      "source": "rss:cointelegraph",
+      "title": "Riot Platforms repays $200M credit facility, releases collateral",
+      "url": "https://cointelegraph.com/news/riot-platforms-repays-200m-credit-facility-releases-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-27T09:57:19+00:00",
+      "raw_text": "Riot Platforms repays $200M credit facility, releases collateral\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Riot Platforms repays $200M credit facility, releases collateral\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3H4K",
+      "impact": {}
+    },
     {
       "event_id": "8650f00e-87d3-4fe2-8137-aef3cf3c0fa5",
       "source": "rss:cointelegraph",
@@ -6323,94 +6371,32 @@
       "timestamp_utc": "2026-09-18T05:23:29+00:00",
       "raw_text": "Ethereum confirms Glamsterdam dates, but warns 'fake' builders could stall the chain",
       "impact": {}
-    },
-    {
-      "event_id": "19c3e6e9-de6e-47d5-8bf5-e877a7b67a3e",
-      "source": "rss:cointelegraph",
-      "title": "Zcash targets November for NU7 mainnet upgrade with 25-second blocks",
-      "url": "https://cointelegraph.com/news/zcash-nu7-november-mainnet-activation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-18T04:51:29+00:00",
-      "raw_text": "Zcash targets November for NU7 mainnet upgrade with 25-second blocks\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zcash targets November for NU7 mainnet upgrade with 25-second blocks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09",
-      "impact": {}
-    },
-    {
-      "event_id": "4c6ee7a1-c183-4d33-b3ca-39a864d88758",
-      "source": "rss:coindesk",
-      "title": "Ether and XRP ETFs post outflows as crypto majors move higher",
-      "url": "https://www.coindesk.com/markets/2026/09/18/ether-and-xrp-etfs-post-outflows-as-bitcoin-moves-above-usd77-000",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-09-18T04:49:17+00:00",
-      "raw_text": "Ether and XRP ETFs post outflows as crypto majors move higher",
-      "impact": {
-        "t_plus_5m": -0.7308,
-        "t_plus_15m": -0.7254,
-        "t_plus_1h": -0.9803,
-        "t_plus_4h": 0.1841
-      }
-    },
-    {
-      "event_id": "6fa4b917-760c-4043-96f5-828b1c73b931",
-      "source": "rss:coindesk",
-      "title": "Ether and XRP ETFs post outflows as bitcoin moves above $77,000",
-      "url": "https://www.coindesk.com/markets/2026/09/18/ether-and-xrp-etfs-post-outflows-as-bitcoin-moves-above-usd77-000",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-09-18T04:49:17+00:00",
-      "raw_text": "Ether and XRP ETFs post outflows as bitcoin moves above $77,000",
-      "impact": {
-        "t_plus_5m": 0.0212,
-        "t_plus_15m": 0.0267,
-        "t_plus_1h": -0.2302,
-        "t_plus_4h": 0.943
-      }
-    },
-    {
-      "event_id": "a7c06a34-df0c-4cbe-95ba-7829cf186209",
-      "source": "rss:cointelegraph",
-      "title": "Cardano’s IOG warns users to avoid YouTube channel amid apparent hijack",
-      "url": "https://cointelegraph.com/news/cardanos-iog-warns-users-to-avoid-youtube-channel-amid-giveaway-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-18T04:11:40+00:00",
-      "raw_text": "Cardano’s IOG warns users to avoid YouTube channel amid apparent hijack\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cardano’s IOG warns users to avoid YouTube channel amid apparent hijack\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 143,
-        "avg_1h": 0.31,
-        "avg_24h": -0.82,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 138,
-        "avg_1h": -0.26,
+        "count": 136,
+        "avg_1h": -0.23,
         "avg_24h": 2.92,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 44,
+        "count": 45,
         "avg_1h": -0.45,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 165,
+        "count": 166,
         "avg_1h": -0.18,
         "avg_24h": 1.95,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 143,
+        "avg_1h": 0.31,
+        "avg_24h": -0.82,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
