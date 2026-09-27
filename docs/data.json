@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-27T01:22:00.469153+00:00",
+  "generated_at": "2026-09-27T08:02:53.297349+00:00",
   "events": [
+    {
+      "event_id": "8650f00e-87d3-4fe2-8137-aef3cf3c0fa5",
+      "source": "rss:cointelegraph",
+      "title": "Saylor outlines ‘bill of digital rights’ to help build prosperity in future economy",
+      "url": "https://cointelegraph.com/news/saylor-outlines-bill-of-digital-rights-to-help-build-prosperity-in-future-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-27T07:18:42+00:00",
+      "raw_text": "Saylor outlines ‘bill of digital rights’ to help build prosperity in future economy\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Saylor outlines ‘bill of digital rights’ to help build prosperity in future economy\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i",
+      "impact": {}
+    },
     {
       "event_id": "ae9bc55d-9a19-4029-9f10-9918f9b0a8c0",
       "source": "rss:theblock",
@@ -6373,22 +6385,16 @@
       "timestamp_utc": "2026-09-18T04:11:40+00:00",
       "raw_text": "Cardano’s IOG warns users to avoid YouTube channel amid apparent hijack\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cardano’s IOG warns users to avoid YouTube channel amid apparent hijack\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2",
       "impact": {}
-    },
-    {
-      "event_id": "0d5f35f9-c2bf-434a-816a-ffe02f3d2b85",
-      "source": "rss:cointelegraph",
-      "title": "World launches self-custodial ‘super app’ World Money",
-      "url": "https://cointelegraph.com/news/world-launches-self-custodial-super-app-world-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-18T03:40:28+00:00",
-      "raw_text": "World launches self-custodial ‘super app’ World Money\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"World launches self-custodial ‘super app’ World Money\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2S9HGXJ2F33PMBZSJ22CVNG/wo",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 143,
+        "avg_1h": 0.31,
+        "avg_24h": -0.82,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 138,
         "avg_1h": -0.26,
@@ -6401,14 +6407,8 @@
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 142,
-        "avg_1h": 0.31,
-        "avg_24h": -0.82,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 166,
+        "count": 165,
         "avg_1h": -0.18,
         "avg_24h": 1.95,
         "win_rate_1h_gt5pct": 0.0
