@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-28T00:38:08.468559+00:00",
+  "generated_at": "2026-09-28T06:45:42.851738+00:00",
   "events": [
+    {
+      "event_id": "e15e4ad3-435f-4d12-8010-3d48d80fad28",
+      "source": "rss:cointelegraph",
+      "title": "Zano rolls blockchain back a month after Gateway Address exploit",
+      "url": "https://cointelegraph.com/news/zano-rolls-blockchain-back-a-month-after-gateway-address-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-28T01:09:22+00:00",
+      "raw_text": "Zano rolls blockchain back a month after Gateway Address exploit\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zano rolls blockchain back a month after Gateway Address exploit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3JRE",
+      "impact": {}
+    },
+    {
+      "event_id": "62a1f9ae-894b-464e-aad1-751114d69939",
+      "source": "rss:cointelegraph",
+      "title": "THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest",
+      "url": "https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-27T23:43:18+00:00",
+      "raw_text": "THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
+      "impact": {}
+    },
     {
       "event_id": "7e6dc243-036b-45a6-a0a8-0c2970af0c11",
       "source": "rss:theblock",
@@ -6349,36 +6373,18 @@
       "timestamp_utc": "2026-09-18T08:50:38+00:00",
       "raw_text": "Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
       "impact": {}
-    },
-    {
-      "event_id": "229fe279-0451-4efa-a176-830480b39bca",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin cycle bottom may already be in at $58K, says analyst James Check",
-      "url": "https://cointelegraph.com/markets/bitcoin-cycle-bottom-58k-james-check?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-18T08:47:20+00:00",
-      "raw_text": "Bitcoin cycle bottom may already be in at $58K, says analyst James Check\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin cycle bottom may already be in at $58K, says analyst James Check\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
-      "impact": {}
-    },
-    {
-      "event_id": "48db01d8-a066-4d08-b29c-1d274e856e33",
-      "source": "rss:coindesk",
-      "title": "SBI Group backs payments firm dtcpay in $25 million funding round",
-      "url": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-18T07:37:32+00:00",
-      "raw_text": "SBI Group backs payments firm dtcpay in $25 million funding round",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 47,
+        "avg_1h": -0.45,
+        "avg_24h": 0.38,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 146,
+        "count": 145,
         "avg_1h": 0.31,
         "avg_24h": -0.82,
         "win_rate_1h_gt5pct": 0.0
@@ -6389,14 +6395,8 @@
         "avg_24h": 2.44,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 45,
-        "avg_1h": -0.45,
-        "avg_24h": 0.38,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 163,
+        "count": 162,
         "avg_1h": -0.18,
         "avg_24h": 1.95,
         "win_rate_1h_gt5pct": 0.0
