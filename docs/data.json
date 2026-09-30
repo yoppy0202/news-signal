@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-30T00:21:54.229366+00:00",
+  "generated_at": "2026-09-30T06:39:00.678333+00:00",
   "events": [
+    {
+      "event_id": "c662d8a5-5e13-4e3b-90cc-5848708e83fc",
+      "source": "rss:cointelegraph",
+      "title": "Trump accord calls for tech firms to ‘self police’ their own frontier AI",
+      "url": "https://cointelegraph.com/news/trump-accord-calls-for-tech-firms-to-self-police-their-own-frontier-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-30T00:28:38+00:00",
+      "raw_text": "Trump accord calls for tech firms to ‘self police’ their own frontier AI\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump accord calls for tech firms to ‘self police’ their own frontier AI\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
+      "impact": {}
+    },
     {
       "event_id": "c207ddcf-6e21-4318-a6b0-f5bd918b6175",
       "source": "rss:coindesk",
@@ -6333,38 +6345,19 @@
       "timestamp_utc": "2026-09-21T17:16:03+00:00",
       "raw_text": "xAI Launches Grok 4.7. It's Bigger, But Late to the AI Frontier Party\n\nxAI says the new model is a \"notable improvement\" over Grok 4.6 at the same price. The benchmarks say it's still in second place.",
       "impact": {}
-    },
-    {
-      "event_id": "78404bbd-b8bd-425c-bb8d-1231c193347b",
-      "source": "rss:cointelegraph",
-      "title": "Circle launches Bitcoin-backed USDC borrowing for institutional clients",
-      "url": "https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-09-21T16:56:53+00:00",
-      "raw_text": "Circle launches Bitcoin-backed USDC borrowing for institutional clients\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Circle launches Bitcoin-backed USDC borrowing for institutional clients\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2",
-      "impact": {
-        "t_plus_5m": 0.2106,
-        "t_plus_15m": 0.285,
-        "t_plus_1h": -0.076,
-        "t_plus_4h": 1.339
-      }
     }
   ],
   "stats": {
     "by_event_type": {
       "narrative": {
-        "count": 134,
+        "count": 135,
         "avg_1h": 0.13,
         "avg_24h": -0.01,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 160,
-        "avg_1h": 0.0,
+        "count": 159,
+        "avg_1h": 0.01,
         "avg_24h": 0.2,
         "win_rate_1h_gt5pct": 0.0
       },
