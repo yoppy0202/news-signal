@@ -1,6 +1,90 @@
 {
-  "generated_at": "2026-09-30T23:43:04.073732+00:00",
+  "generated_at": "2026-10-01T05:43:24.932288+00:00",
   "events": [
+    {
+      "event_id": "954e56d8-4afc-49bc-832c-8cb50f7e8899",
+      "source": "rss:decrypt",
+      "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
+      "url": "https://decrypt.co/379784/gemini-4-google-flagship-tops-ai-models-cybersecurity",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-30T23:20:59+00:00",
+      "raw_text": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity\n\nGemini 4 Argon tops 12 of 18 benchmarks in Google's own table, writes a million tokens per reply and resists hijacking best. Cyber defenders get it first, with the guardrails off.",
+      "impact": {}
+    },
+    {
+      "event_id": "68999e4c-3d6c-4c10-b116-4a2b965deeb0",
+      "source": "rss:theblock",
+      "title": "Clarity Act’s failure gave crypto ‘faster’ regulatory wins, Bitwise CIO says",
+      "url": "https://www.theblock.co/news/markets/2026-09-30-clarity-acts-failure-gave-crypto-faster-regulatory-wins-bitwise-says-417362",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-09-30T21:53:05+00:00",
+      "raw_text": "Clarity Act’s failure gave crypto ‘faster’ regulatory wins, Bitwise CIO says\n\nBitwise’s Matt Hougan says Clarity’s defeat left crypto with fewer restrictions and faster SEC action.",
+      "impact": {}
+    },
+    {
+      "event_id": "291f1d43-f293-41d2-a8e2-bd8a0d0bb967",
+      "source": "rss:decrypt",
+      "title": "Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet",
+      "url": "https://decrypt.co/379772/dogecoin-getting-apps-dogeos-public-testnet",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-30T21:46:03+00:00",
+      "raw_text": "Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet\n\nThe team behind the MyDoge wallet opened a public test of DogeOS, a layer that lets developers build lending platforms and games on top of the meme coin network.",
+      "impact": {}
+    },
+    {
+      "event_id": "94b48c36-e4dc-4b4d-8f6e-4613e28c5a59",
+      "source": "rss:decrypt",
+      "title": "FBI Tells Its Employees to Assume Hackers Have Their Personal Data",
+      "url": "https://decrypt.co/379769/fbi-employees-assume-hackers-personal-data",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-30T21:16:04+00:00",
+      "raw_text": "FBI Tells Its Employees to Assume Hackers Have Their Personal Data\n\nAn internal memo warned FBI staff that ShinyHunters, the group claiming it hacked the bureau's jobs site, may hold their private details.",
+      "impact": {}
+    },
+    {
+      "event_id": "fd756e2d-0067-4c50-aa2f-f8b5918bb35d",
+      "source": "rss:cointelegraph",
+      "title": "Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2",
+      "url": "https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-30T20:57:32+00:00",
+      "raw_text": "Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/0",
+      "impact": {}
+    },
+    {
+      "event_id": "ee4b3087-0c08-4b0d-8d45-81c6a8cafdb0",
+      "source": "rss:theblock",
+      "title": "CFTC secures over $30 million judgment against defendants in Fundsz fraud case",
+      "url": "https://www.theblock.co/news/regulation/2026-09-30-cftc-secures-over-30-million-judgment-against-defendants-in-fundsz-fraud-case-417365",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-09-30T20:37:08+00:00",
+      "raw_text": "CFTC secures over $30 million judgment against defendants in Fundsz fraud case\n\nThe CFTC secured a win in court after the agency said two defendants participated in a crypto scheme that they then tried to walk back.",
+      "impact": {}
+    },
+    {
+      "event_id": "1d0705d9-7bec-44ce-be84-9ba341beb1be",
+      "source": "rss:decrypt",
+      "title": "Coinbase-Backed Crypto Group Reveals Midterm Endorsements After Clarity Act Collapse",
+      "url": "https://decrypt.co/379767/coinbase-crypto-group-senate-midterm-endorsements-clarity-act",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-30T20:31:04+00:00",
+      "raw_text": "Coinbase-Backed Crypto Group Reveals Midterm Endorsements After Clarity Act Collapse\n\nThe Coinbase-backed group's first Senate endorsements—Republicans Jon Husted and Ashley Hinson and Democrat Chris Pappas—come two weeks after the Clarity Act's collapse, as the industry's fight shifts to the campai",
+      "impact": {}
+    },
     {
       "event_id": "4e4755c7-ee13-47e4-9fa7-ffecbdf314a1",
       "source": "rss:bitcoinmagazine",
@@ -361,6 +445,18 @@
       "tokens": [],
       "timestamp_utc": "2026-09-30T13:33:30+00:00",
       "raw_text": "Hyperliquid Co-founder Jeff Yan says 24-hour clock is not onchain finance’s true differentiator\n\nHyperliquid (HYPE) Co-founder Jeff Yan said at Korea Blockchain Week that around-the-clock trading is not what sets onchain venues apart from traditional exchanges. Speaking in a fireside chat at Korea B",
+      "impact": {}
+    },
+    {
+      "event_id": "514bd9e6-290a-467f-a477-79b5a2fc8a0a",
+      "source": "rss:cointelegraph",
+      "title": "Could THORChain face prosecution over stolen Bitget funds? Legal opinion",
+      "url": "https://cointelegraph.com/magazine/does-thorchain-face-a-criminal-reckoning-near-intents-bitget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-09-30T13:30:00+00:00",
+      "raw_text": "Could THORChain face prosecution over stolen Bitget funds? Legal opinion\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Could THORChain face prosecution over stolen Bitget funds? Legal opinion\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
       "impact": {}
     },
     {
@@ -6221,135 +6317,32 @@
       "timestamp_utc": "2026-09-22T19:00:38+00:00",
       "raw_text": "OpenAI Launches GPT-6 Sol and Luna Minutes After Anthropic Drops Claude Opus 5.5\n\nOpenAI cut prices 50% on its mid-tier models the same day Anthropic shipped a cheaper flagship, escalating a rivalry now measured in minutes.",
       "impact": {}
-    },
-    {
-      "event_id": "94022add-c3ef-4815-a831-a2e1998996a6",
-      "source": "rss:decrypt",
-      "title": "Bitcoin Breaks Out as Nasdaq Hits Records and Oil Slides on Iran Hopes",
-      "url": "https://decrypt.co/378972/bitcoin-breaks-out-nasdaq-hits-records-oil-slides",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-22T18:46:03+00:00",
-      "raw_text": "Bitcoin Breaks Out as Nasdaq Hits Records and Oil Slides on Iran Hopes\n\nA stretched but firmly bullish Bitcoin chart is riding the same tailwind lifting stocks: falling oil, a record Nasdaq, and a Fed that hiked rates while quietly pumping liquidity into the system.",
-      "impact": {}
-    },
-    {
-      "event_id": "13cc80f6-5330-42df-a4f7-185e7d7664d5",
-      "source": "rss:theblock",
-      "title": "Coinbase, Circle shares positioned for crypto recovery as estimates stabilize: William Blair",
-      "url": "https://www.theblock.co/news/markets/2026-09-22-coinbase-circle-shares-positioned-crypto-recovery-estimates-stabilize-william-blair-416083",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-22T18:44:53+00:00",
-      "raw_text": "Coinbase, Circle shares positioned for crypto recovery as estimates stabilize: William Blair\n\nBlair says COIN offers an attractive entry after a 31% rise, trims its EBITDA estimate and sees USDC growth driving Circle's next leg.",
-      "impact": {}
-    },
-    {
-      "event_id": "9507bf70-147c-4e21-9b48-086696dd748c",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin’s Bull Run Is Back — and the Data Agrees",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-bull-run-is-back-data-shows",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-22T18:44:51+00:00",
-      "raw_text": "Bitcoin’s Bull Run Is Back — and the Data Agrees\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Bitcoins-Bull-Run-Is-Back-—-and-the-Data-Agrees.jpg\" style=\"display: block; margin: 1em auto;\" /><br /",
-      "impact": {}
-    },
-    {
-      "event_id": "3ce62831-cfbf-48e8-b617-24a2631e90c7",
-      "source": "rss:decrypt",
-      "title": "Bernstein Predicts $10 Trillion Prediction Market by 2035—10X Its Original Forecast",
-      "url": "https://decrypt.co/378963/bernstein-10-trillion-prediction-markets",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-22T18:16:03+00:00",
-      "raw_text": "Bernstein Predicts $10 Trillion Prediction Market by 2035—10X Its Original Forecast\n\nBernstein now projects prediction markets will handle $10 trillion a year by 2035, up from its own $1 trillion by 2030 forecast made just five months ago.",
-      "impact": {}
-    },
-    {
-      "event_id": "6ad0236d-ef5f-4db2-9c66-3bae1872359c",
-      "source": "rss:decrypt",
-      "title": "Anthropic’s New Claude Opus 5.5 Matches Fable at 60% the Price",
-      "url": "https://decrypt.co/378947/anthropic-claude-opus-5-5-fable-price-comparison",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-22T17:49:07+00:00",
-      "raw_text": "Anthropic’s New Claude Opus 5.5 Matches Fable at 60% the Price\n\nAnthropic's new flagship claims Fable 5.1-level performance at a fraction of the cost—but GPT-6 Astra still beats it on two published benchmarks.",
-      "impact": {}
-    },
-    {
-      "event_id": "14aa66e6-85a9-4311-826a-42dbcac594d8",
-      "source": "rss:coindesk",
-      "title": "Canada's 'Big Six' banks to launch interbank tokenized deposit initiative",
-      "url": "https://www.coindesk.com/business/2026/09/22/canada-s-big-six-banks-unite-to-launch-interbank-tokenized-deposit-initiative",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-22T17:34:03+00:00",
-      "raw_text": "Canada's 'Big Six' banks to launch interbank tokenized deposit initiative",
-      "impact": {}
-    },
-    {
-      "event_id": "546aee8e-7e2d-4df5-a365-d695012cf099",
-      "source": "rss:bitcoinmagazine",
-      "title": "White Hats Move Over $4.5 in Bitcoins From Coldcard to Recovery Trust",
-      "url": "https://bitcoinmagazine.com/news/white-hats-move-bitcoins-from-coldcard",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-09-22T17:20:11+00:00",
-      "raw_text": "White Hats Move Over $4.5 in Bitcoins From Coldcard to Recovery Trust\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-32.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://",
-      "impact": {
-        "t_plus_5m": 0.1393,
-        "t_plus_15m": 0.2503,
-        "t_plus_1h": 0.2397,
-        "t_plus_4h": -0.1493
-      }
-    },
-    {
-      "event_id": "9927eadc-7501-4b08-81f7-ab8cbd06d73e",
-      "source": "rss:decrypt",
-      "title": "Dogecoin Jumps to Highest Price in Months: Here's What's Going On",
-      "url": "https://decrypt.co/378934/dogecoin-price-jumps-highest-months",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-22T17:09:30+00:00",
-      "raw_text": "Dogecoin Jumps to Highest Price in Months: Here's What's Going On\n\nDogecoin is rallying, and once again, Elon Musk may have something to do with it.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "macro": {
-        "count": 127,
+        "count": 128,
         "avg_1h": -0.23,
         "avg_24h": 0.33,
         "win_rate_1h_gt5pct": 0.0
       },
+      "narrative": {
+        "count": 141,
+        "avg_1h": -0.02,
+        "avg_24h": -0.01,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
-        "count": 59,
-        "avg_1h": -0.2,
+        "count": 60,
+        "avg_1h": -0.31,
         "avg_24h": 0.71,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 159,
+        "count": 158,
         "avg_1h": -0.04,
         "avg_24h": 0.2,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 142,
-        "avg_1h": -0.02,
-        "avg_24h": -0.01,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
