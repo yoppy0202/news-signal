@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-01T23:07:47.087456+00:00",
+  "generated_at": "2026-10-02T02:12:02.687417+00:00",
   "events": [
+    {
+      "event_id": "d5cd064c-4060-4eea-8011-90b5232caa48",
+      "source": "rss:cointelegraph",
+      "title": "SEC moves to clear custody hurdle for advisers offering crypto",
+      "url": "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-02T01:07:08+00:00",
+      "raw_text": "SEC moves to clear custody hurdle for advisers offering crypto\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC moves to clear custody hurdle for advisers offering crypto \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XP9EEW",
+      "impact": {}
+    },
+    {
+      "event_id": "9c3a155f-6e28-4439-b56f-b2134e4c4f86",
+      "source": "rss:theblock",
+      "title": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
+      "url": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-02T00:22:58+00:00",
+      "raw_text": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity\n\nUsers deposit funds into an Ethereum vault and authorize spending with zero-knowledge proofs, so the API provider can't link requests to a payer.",
+      "impact": {}
+    },
+    {
+      "event_id": "6c52004d-7927-457a-a4c2-ada1bf8e622d",
+      "source": "rss:cointelegraph",
+      "title": "China warns foreign spies about crypto, Singapore dominates Asia: Asia Express",
+      "url": "https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-01T23:17:47+00:00",
+      "raw_text": "China warns foreign spies about crypto, Singapore dominates Asia: Asia Express\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"China warns foreign spies about crypto, Singapore dominates Asia: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar",
+      "impact": {}
+    },
     {
       "event_id": "71486475-f72c-4c52-ab3b-5de526309d42",
       "source": "rss:bitcoinmagazine",
@@ -8,10 +44,16 @@
       "url": "https://bitcoinmagazine.com/videos/frank-holmes-they-will-print-100-trillion-why-to-buy-bitcoin-gold",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-10-01T21:34:00+00:00",
       "raw_text": "Frank Holmes: They Will Print $100 Trillion – Why to Buy Bitcoin & Gold\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Frank-Holmes-They-Will-Print-100-Trillion-Why-to-Buy-Bitcoin-Gold-.jpg\" style=\"",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1892,
+        "t_plus_15m": -0.1437,
+        "t_plus_1h": 0.0068
+      }
     },
     {
       "event_id": "12cdf64f-ae6d-4e9e-b40a-e2163dff927b",
@@ -32,10 +74,17 @@
       "url": "https://bitcoinmagazine.com/videos/nico-lechuga-bitcoin-will-revolutionize-the-4t-private-equity-industry",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-10-01T21:24:55+00:00",
       "raw_text": "Nico Lechuga: Bitcoin Will Revolutionize the $4T Private Equity Industry\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Nico-Lechuga-Bitcoin-Will-Revolutionize-the-4T-Private-Equity-Industry-.jpg\" s",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1099,
+        "t_plus_15m": -0.1892,
+        "t_plus_1h": 0.0603,
+        "t_plus_4h": -0.0518
+      }
     },
     {
       "event_id": "da27e4df-edfe-4d65-b486-6e789d4c9628",
@@ -44,10 +93,17 @@
       "url": "https://bitcoinmagazine.com/videos/darius-dale-will-global-liquidity-send-bitcoin-higher-in-2027",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-10-01T21:18:21+00:00",
       "raw_text": "Darius Dale: Will Global Liquidity Send Bitcoin Higher in 2027?\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Darius-Dale-Will-Global-Liquidity-Send-Bitcoin-Higher-in-2027-.jpg\" style=\"display: blo",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0736,
+        "t_plus_15m": -0.1548,
+        "t_plus_1h": 0.0447,
+        "t_plus_4h": -0.0471
+      }
     },
     {
       "event_id": "0f1ad2b6-e088-45b6-a5db-e7b88e56a0db",
@@ -68,10 +124,17 @@
       "url": "https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-10-01T21:07:45+00:00",
       "raw_text": "Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.307,
+        "t_plus_15m": 0.2949,
+        "t_plus_1h": 0.2392,
+        "t_plus_4h": 0.1209
+      }
     },
     {
       "event_id": "1de87fe2-ca61-4ce9-8be4-0ae6dd329834",
@@ -212,10 +275,17 @@
       "url": "https://decrypt.co/379856/the-largest-pure-play-xrp-treasury-is-about-to-go-public",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-10-01T18:46:03+00:00",
       "raw_text": "The 'Largest Pure-Play' XRP Treasury Is About to Go Public\n\nShareholders approved Evernorth's merger with Armada Acquisition Corp. II, clearing the way for the Ripple-backed firm to begin trading Oct. 8 with a stash of roughly 473 million XRP.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.7158,
+        "t_plus_15m": 0.7169,
+        "t_plus_1h": 0.425,
+        "t_plus_4h": 0.0838
+      }
     },
     {
       "event_id": "5ca6d15f-d5c0-4d03-9ad9-eb8f3c94a668",
@@ -6261,62 +6331,19 @@
       "timestamp_utc": "2026-09-23T17:01:03+00:00",
       "raw_text": "Canada's Six Biggest Banks Team Up on a Shared Digital-Dollar Network\n\nRBC, TD, BMO, Scotiabank, CIBC and National Bank are jointly exploring a Canadian-dollar tokenized deposit system, starting with transfers between the banks themselves.",
       "impact": {}
-    },
-    {
-      "event_id": "695b6c6b-de91-40ee-9d15-ffdeaf8de941",
-      "source": "rss:theblock",
-      "title": "‘BTC still has room to catch up’: Bitcoin’s $80,000 breakout draws institutional demand as analysts weigh durability",
-      "url": "https://www.theblock.co/news/markets/2026-09-23-bitcoin-breakout-etf-inflows-analysts-k33-nexo-resistance-416182",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-09-23T16:52:09+00:00",
-      "raw_text": "‘BTC still has room to catch up’: Bitcoin’s $80,000 breakout draws institutional demand as analysts weigh durability\n\nK33, Nexo and 21shares weigh in on bitcoin's breakout as ETF inflows hit their highest since Nov. 2024. Key levels: $87K–88K resistance.",
-      "impact": {
-        "t_plus_5m": -0.2094,
-        "t_plus_15m": -0.441,
-        "t_plus_1h": 0.0874,
-        "t_plus_4h": 0.0722
-      }
-    },
-    {
-      "event_id": "30c4abde-e1d1-4aa1-b745-17b97e6ad9ff",
-      "source": "rss:decrypt",
-      "title": "NYSE Taps Blockchain.com to Reach Crypto Investors With Tokenized Stocks",
-      "url": "https://decrypt.co/379080/nyse-taps-blockchain-com-to-reach-crypto-investors-with-tokenized-stocks-etfs",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-23T16:36:03+00:00",
-      "raw_text": "NYSE Taps Blockchain.com to Reach Crypto Investors With Tokenized Stocks\n\nBlockchain.com and NYSE Group signed a preliminary agreement to give the crypto exchange's users access to tokenized U.S. stocks and ETFs, pending regulatory approval.",
-      "impact": {}
-    },
-    {
-      "event_id": "3b3658d5-8d0c-49cd-ae18-4eda5d6e2303",
-      "source": "rss:cointelegraph",
-      "title": "Bitwise launches first Lighter ETP amid Hyperliquid rivalry",
-      "url": "https://cointelegraph.com/news/bitwise-lighter-lit-etp-europe-xetra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-23T16:34:27+00:00",
-      "raw_text": "Bitwise launches first Lighter ETP amid Hyperliquid rivalry\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitwise launches first Lighter ETP amid Hyperliquid rivalry\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M37DHCMTV7JXT1K",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "macro": {
-        "count": 133,
-        "avg_1h": -0.21,
+        "count": 132,
+        "avg_1h": -0.19,
         "avg_24h": 0.33,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 134,
-        "avg_1h": -0.25,
+        "count": 136,
+        "avg_1h": -0.13,
         "avg_24h": -0.01,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6327,8 +6354,8 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 154,
-        "avg_1h": -0.11,
+        "count": 153,
+        "avg_1h": -0.07,
         "avg_24h": 0.2,
         "win_rate_1h_gt5pct": 0.0
       },
