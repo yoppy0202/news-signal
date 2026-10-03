@@ -1,6 +1,90 @@
 {
-  "generated_at": "2026-10-02T21:17:43.801428+00:00",
+  "generated_at": "2026-10-03T01:07:44.518449+00:00",
   "events": [
+    {
+      "event_id": "afd790c3-6b0f-4065-8d1f-5b9e6fec5d33",
+      "source": "rss:bitcoinmagazine",
+      "title": "IMF Praises El Salvador — But Still Tries To Scale Back Its Bitcoin Project",
+      "url": "https://bitcoinmagazine.com/news/imf-praises-el-salvador-but-blasts-bitcoin",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-02T22:01:18+00:00",
+      "raw_text": "IMF Praises El Salvador — But Still Tries To Scale Back Its Bitcoin Project\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-1.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"htt",
+      "impact": {}
+    },
+    {
+      "event_id": "6daa8fc4-bd0d-4e09-9738-861cd735c5ea",
+      "source": "rss:coindesk",
+      "title": "Bank group sues U.S. regulator over granting crypto trust charters",
+      "url": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-02T21:23:20+00:00",
+      "raw_text": "Bank group sues U.S. regulator over granting crypto trust charters",
+      "impact": {}
+    },
+    {
+      "event_id": "5bd5f583-cd38-4f83-9c46-0665aa072554",
+      "source": "rss:decrypt",
+      "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
+      "url": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-02T21:16:04+00:00",
+      "raw_text": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test\n\nCalifornia's attorney general wants answers from OpenAI about AI models that escaped a locked test environment and hacked Hugging Face—and whether the company can be held legally accountable.",
+      "impact": {}
+    },
+    {
+      "event_id": "c35f18f4-75c7-4724-8bcb-c62f77b8d14d",
+      "source": "rss:cointelegraph",
+      "title": "European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO",
+      "url": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-02T20:40:47+00:00",
+      "raw_text": "European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO\" class=\"type:primaryImage\" src=\"https://s3-images.ctm",
+      "impact": {}
+    },
+    {
+      "event_id": "3e8576eb-8da4-49b9-bc8b-4b3e97a3c4d6",
+      "source": "rss:decrypt",
+      "title": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are",
+      "url": "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-02T20:16:04+00:00",
+      "raw_text": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are\n\nEthereum's zkAPI lets users prepay in USDC and query AI models through cryptographic proofs, so no single party sees both who they are and what they ask.",
+      "impact": {}
+    },
+    {
+      "event_id": "1d365af8-ff3b-4164-b352-31695a77b594",
+      "source": "rss:decrypt",
+      "title": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
+      "url": "https://decrypt.co/379984/circle-pushes-back-on-micas-bank-deposit-mandate-for-stablecoins",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-02T19:46:03+00:00",
+      "raw_text": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins\n\nThe USDC issuer told the European Commission that MiCA's reserve mandates and concentration caps keep the largest global stablecoins outside Europe's perimeter—siding with the ECB in calling for more flexible rules.",
+      "impact": {}
+    },
+    {
+      "event_id": "e1009abb-c136-4892-91e8-5fbf42b0d431",
+      "source": "rss:decrypt",
+      "title": "This AI Is Already Fooling People on Video Calls Into Thinking It's Human, Company Says",
+      "url": "https://decrypt.co/379975/tavus-griffin-ai-fools-people-video-thinking-human",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-02T19:05:35+00:00",
+      "raw_text": "This AI Is Already Fooling People on Video Calls Into Thinking It's Human, Company Says\n\nTavus says 26 of 54 people on a one-minute video call thought its new Griffin model was human. The results are the company's own, and the model isn't going to retail customers yet.",
+      "impact": {}
+    },
     {
       "event_id": "2771d9ba-abb0-4331-8b3f-b29f100352dd",
       "source": "rss:decrypt",
@@ -148,7 +232,8 @@
       "impact": {
         "t_plus_5m": 1.291,
         "t_plus_15m": 1.1835,
-        "t_plus_1h": 0.5153
+        "t_plus_1h": 0.5153,
+        "t_plus_4h": 0.0861
       }
     },
     {
@@ -6254,130 +6339,32 @@
       "timestamp_utc": "2026-09-24T13:00:00+00:00",
       "raw_text": "Solana Foundation taps Binance, Polygon vets to drive institutional adoption and payments\n\nSolana Foundation appointed Rachel Conlan as chief strategy officer and former Polygon Labs exec Jamal Raees as GM of payments.",
       "impact": {}
-    },
-    {
-      "event_id": "340a55c3-23a2-4f25-b512-305df07dbe28",
-      "source": "rss:cointelegraph",
-      "title": "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
-      "url": "https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-24T13:00:00+00:00",
-      "raw_text": "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.",
-      "impact": {}
-    },
-    {
-      "event_id": "aa3ffda5-4cad-47b2-9584-9de1fd000867",
-      "source": "rss:coindesk",
-      "title": "Solana Foundation hires Binance, Polygon veterans as it ramps up tokenized finance push",
-      "url": "https://www.coindesk.com/business/2026/09/24/solana-foundation-hires-binance-polygon-veterans-as-it-ramps-up-tokenized-finance-push",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-24T13:00:00+00:00",
-      "raw_text": "Solana Foundation hires Binance, Polygon veterans as it ramps up tokenized finance push",
-      "impact": {}
-    },
-    {
-      "event_id": "21151417-8f54-425b-81c9-b013fdc2a0ca",
-      "source": "rss:coindesk",
-      "title": "Cathie Wood's ARK teams with Securitize to tokenize venture fund with OpenAI, Anthropic stakes",
-      "url": "https://www.coindesk.com/business/2026/09/24/cathie-wood-s-ark-teams-with-securitize-to-tokenize-venture-fund-with-openai-anthropic-stakes",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-24T13:00:00+00:00",
-      "raw_text": "Cathie Wood's ARK teams with Securitize to tokenize venture fund with OpenAI, Anthropic stakes",
-      "impact": {}
-    },
-    {
-      "event_id": "ce22f5cb-4f00-446a-9186-802284817428",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bloomberg’s James Seyffart: Why Trillions in Advisor Wealth Could Flow Into Bitcoin",
-      "url": "https://bitcoinmagazine.com/videos/bloombergs-james-seyffart-why-trillions-in-advisor-wealth-could-flow-into-bitcoin",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-09-24T12:58:37+00:00",
-      "raw_text": "Bloomberg’s James Seyffart: Why Trillions in Advisor Wealth Could Flow Into Bitcoin\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Bloombergs-James-Seyffart-Why-Trillions-in-Advisor-Wealth-Could-Flo",
-      "impact": {
-        "t_plus_5m": -0.525,
-        "t_plus_15m": -0.5065,
-        "t_plus_1h": 0.0357,
-        "t_plus_4h": 0.3095
-      }
-    },
-    {
-      "event_id": "2aee0e32-f1b6-46d9-8450-43c6d83bf0fe",
-      "source": "rss:bitcoinmagazine",
-      "title": "Brent Johnson: BTC the Best “Pure Play” Asset for Rising Global Liquidity",
-      "url": "https://bitcoinmagazine.com/videos/brent-johnson-btc-best-asset-for-rising-global-liquidity",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-09-24T12:52:03+00:00",
-      "raw_text": "Brent Johnson: BTC the Best “Pure Play” Asset for Rising Global Liquidity\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Brent-Johnson-BTC-the-Best-22Pure-Play22-Asset-for-Rising-Global-Liquidity-.j",
-      "impact": {
-        "t_plus_5m": -0.6578,
-        "t_plus_15m": -0.525,
-        "t_plus_1h": -0.3399,
-        "t_plus_4h": 0.5538
-      }
-    },
-    {
-      "event_id": "880dd593-8d2c-4a32-80e8-f45c37b36a58",
-      "source": "rss:coindesk",
-      "title": "Crypto investment firm RockawayX is betting $150 million on yield becoming next big use case",
-      "url": "https://www.coindesk.com/business/2026/09/23/rockawayx-is-betting-usd150-million-on-yield-becoming-crypto-s-next-big-use-case",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-24T12:31:53+00:00",
-      "raw_text": "Crypto investment firm RockawayX is betting $150 million on yield becoming next big use case",
-      "impact": {}
-    },
-    {
-      "event_id": "29ded7cf-7c40-4c30-897f-3b653ab66df9",
-      "source": "rss:coindesk",
-      "title": "EU's financial regulator to make AI and tokenization a supervisory priority in 2027",
-      "url": "https://www.coindesk.com/policy/2026/09/24/eu-s-financial-regulator-to-make-ai-and-tokenization-a-supervisory-priority-in-2027",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-24T12:26:43+00:00",
-      "raw_text": "EU's financial regulator to make AI and tokenization a supervisory priority in 2027",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 134,
-        "avg_1h": -0.13,
-        "avg_24h": -0.01,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 153,
-        "avg_1h": 0.1,
-        "avg_24h": 0.2,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 134,
+        "count": 132,
         "avg_1h": -0.13,
         "avg_24h": 0.33,
         "win_rate_1h_gt5pct": 0.0
       },
+      "unknown": {
+        "count": 152,
+        "avg_1h": 0.1,
+        "avg_24h": 0.2,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
-        "count": 68,
+        "count": 69,
         "avg_1h": -0.15,
         "avg_24h": 0.71,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 136,
+        "avg_1h": -0.13,
+        "avg_24h": -0.01,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
