@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-03T06:28:12.886817+00:00",
+  "generated_at": "2026-10-03T12:28:03.601260+00:00",
   "events": [
+    {
+      "event_id": "c08053b4-569b-47ce-8031-437fb94e20a3",
+      "source": "rss:cointelegraph",
+      "title": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
+      "url": "https://cointelegraph.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-03T07:06:08+00:00",
+      "raw_text": "Trump is expected to appoint Jay Clayton as new AI czar: Reports\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump is expected to appoint Jay Clayton as new AI czar: Reports\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M408Y",
+      "impact": {}
+    },
     {
       "event_id": "afd790c3-6b0f-4065-8d1f-5b9e6fec5d33",
       "source": "rss:bitcoinmagazine",
@@ -6327,22 +6339,16 @@
       "timestamp_utc": "2026-09-24T13:01:03+00:00",
       "raw_text": "Elliptic Wants Every Cop to Read a Crypto Wallet in Seconds—With AI\n\nElliptic’s new AI-assisted tool, called Pulse, lets any officer input a wallet address or transaction hash and get a plain-language summary in seconds, aiming to bring crypto tracing beyond specialized units.",
       "impact": {}
-    },
-    {
-      "event_id": "a1015e44-54a6-49d4-9545-2cac566c43e6",
-      "source": "rss:theblock",
-      "title": "Solana Foundation taps Binance, Polygon vets to drive institutional adoption and payments",
-      "url": "https://www.theblock.co/news/ecosystems/2026-09-24-solana-foundation-taps-binance-polygon-vets-to-drive-institutional-adoption-and-payments-416254",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-24T13:00:00+00:00",
-      "raw_text": "Solana Foundation taps Binance, Polygon vets to drive institutional adoption and payments\n\nSolana Foundation appointed Rachel Conlan as chief strategy officer and former Polygon Labs exec Jamal Raees as GM of payments.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 137,
+        "avg_1h": -0.13,
+        "avg_24h": -0.01,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 132,
         "avg_1h": -0.13,
@@ -6350,7 +6356,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 152,
+        "count": 151,
         "avg_1h": 0.1,
         "avg_24h": 0.2,
         "win_rate_1h_gt5pct": 0.0
@@ -6359,12 +6365,6 @@
         "count": 69,
         "avg_1h": -0.15,
         "avg_24h": 0.71,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 136,
-        "avg_1h": -0.13,
-        "avg_24h": -0.01,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
