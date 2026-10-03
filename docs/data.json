@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-10-03T17:13:00.945910+00:00",
+  "generated_at": "2026-10-03T21:09:41.766120+00:00",
   "events": [
+    {
+      "event_id": "b9a08d6f-a73d-429c-8c04-fb1a5563277a",
+      "source": "rss:decrypt",
+      "title": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
+      "url": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-03T17:01:03+00:00",
+      "raw_text": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea\n\nThe firm says the Sept. 24 breach pushed North Korea's 2026 crypto haul past $1 billion, and detailed how it used in-house AI to trace the stolen funds across four blockchains in a race against the attackers.",
+      "impact": {}
+    },
+    {
+      "event_id": "44818aea-6f1f-4725-876e-7790b80bbc9a",
+      "source": "rss:decrypt",
+      "title": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
+      "url": "https://decrypt.co/380001/openai-banned-pewdiepie-twice-ajax-uncensored-ai",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-03T16:01:03+00:00",
+      "raw_text": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC\n\nThe YouTuber says OpenAI suspended his account twice while he trained a small, uncensored model built to run on your own computer.",
+      "impact": {}
+    },
+    {
+      "event_id": "d20018fb-d706-4daf-8b0c-0bf045aaa624",
+      "source": "rss:coindesk",
+      "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
+      "url": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-03T16:00:00+00:00",
+      "raw_text": "Crypto job postings triple to over 1,200 in September, but applications fall",
+      "impact": {}
+    },
+    {
+      "event_id": "acd99f63-4bf4-4e6f-97d9-0d920cd9ba59",
+      "source": "rss:coindesk",
+      "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
+      "url": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
+      "event_type": "listing",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-03T16:00:00+00:00",
+      "raw_text": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
+      "impact": {}
+    },
+    {
+      "event_id": "c2171650-23eb-4dd3-b41e-56c947c07dca",
+      "source": "rss:decrypt",
+      "title": "Trump Is Hosting Yet Another Meme Coin Dinner: Here Are the Details",
+      "url": "https://decrypt.co/380002/trump-third-meme-coin-dinner-details",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-03T15:01:03+00:00",
+      "raw_text": "Trump Is Hosting Yet Another Meme Coin Dinner: Here Are the Details\n\nThe TRUMP meme coin project is inviting its top 185 holders to a Nov. 22 gala dinner with President Trump two weeks after ethics disputes over his crypto interests helped stall the Clarity Act in the Senate.",
+      "impact": {}
+    },
+    {
+      "event_id": "0a8df4c3-f32a-4ec1-bf31-fc2566635569",
+      "source": "rss:coindesk",
+      "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
+      "url": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-03T15:00:00+00:00",
+      "raw_text": "Cathie Wood says smart investors need to start watching where AI agents spend money",
+      "impact": {}
+    },
     {
       "event_id": "f32b1525-ca64-405d-b03d-3a2eaa7c5067",
       "source": "rss:decrypt",
@@ -143,6 +215,18 @@
       "tokens": [],
       "timestamp_utc": "2026-10-02T19:46:03+00:00",
       "raw_text": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins\n\nThe USDC issuer told the European Commission that MiCA's reserve mandates and concentration caps keep the largest global stablecoins outside Europe's perimeter—siding with the ECB in calling for more flexible rules.",
+      "impact": {}
+    },
+    {
+      "event_id": "991a8db9-4056-4888-a45e-5288078a32f8",
+      "source": "rss:solana_official",
+      "title": "Solana x AI: The Democratization Layer",
+      "url": "https://solana.com/news/solana-ai-the-democratization-layer",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-02T19:30:00+00:00",
+      "raw_text": "Solana x AI: The Democratization Layer\n\nSolana can give AI agents permissionless access to compute, training, identity, memory, and machine-native payments.",
       "impact": {}
     },
     {
@@ -348,7 +432,8 @@
         "t_plus_5m": 1.5121,
         "t_plus_15m": 1.4099,
         "t_plus_1h": 1.2394,
-        "t_plus_4h": -0.0343
+        "t_plus_4h": -0.0343,
+        "t_plus_24h": 0.7938
       }
     },
     {
@@ -6247,122 +6332,38 @@
       "timestamp_utc": "2026-09-24T15:26:34+00:00",
       "raw_text": "Bitcoin’s bear markets are getting milder. Bull markets may be next",
       "impact": {}
-    },
-    {
-      "event_id": "714ea1ee-1bac-476f-87b9-aff256f1f5a6",
-      "source": "rss:decrypt",
-      "title": "£10K Reward Offered After UK Couple Attacked in Crypto Home Invasion",
-      "url": "https://decrypt.co/379186/10k-reward-offered-after-uk-couple-attacked-in-crypto-home-invasion",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-24T15:08:26+00:00",
-      "raw_text": "£10K Reward Offered After UK Couple Attacked in Crypto Home Invasion\n\nPolice believe the robbery was planned and targeted, with instructions relayed to the three attackers by a fourth man on a video call.",
-      "impact": {}
-    },
-    {
-      "event_id": "b491b535-95e1-4c7b-bd7e-417b8fefd781",
-      "source": "rss:coindesk",
-      "title": "UK’s largest banks complete world’s first interbank transactions using tokenized deposits",
-      "url": "https://www.coindesk.com/business/2026/09/24/uk-s-largest-banks-complete-world-s-first-interbank-transactions-using-tokenized-deposits",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-24T15:07:18+00:00",
-      "raw_text": "UK’s largest banks complete world’s first interbank transactions using tokenized deposits",
-      "impact": {}
-    },
-    {
-      "event_id": "6d3e2935-2a75-409e-ba00-f7198cd00dff",
-      "source": "rss:coindesk",
-      "title": "Crypto for Advisors:The hidden costs of holding your own bitcoin",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/09/24/crypto-for-advisors-the-hidden-costs-of-holding-your-own-bitcoin",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-24T14:49:28+00:00",
-      "raw_text": "Crypto for Advisors:The hidden costs of holding your own bitcoin",
-      "impact": {}
-    },
-    {
-      "event_id": "3939d576-0f10-4b32-9c51-a08c0afe0f55",
-      "source": "rss:coindesk",
-      "title": "European stablecoin issuer Qivalis sees transformation of global trade finance",
-      "url": "https://www.coindesk.com/business/2026/09/24/european-stablecoin-issuer-qivalis-sees-transformation-of-global-trade-finance",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-24T14:41:05+00:00",
-      "raw_text": "European stablecoin issuer Qivalis sees transformation of global trade finance",
-      "impact": {}
-    },
-    {
-      "event_id": "df186bbd-76b1-4b9c-a136-eb441448a51e",
-      "source": "rss:bitcoinmagazine",
-      "title": "[[alloc] init] Releases Shielded Bitcoin Proposal For Private Bitcoin Transactions",
-      "url": "https://bitcoinmagazine.com/technical/alloc-init-releases-shielded-bitcoin-proposal-for-private-bitcoin-transactions",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-24T14:36:22+00:00",
-      "raw_text": "[[alloc] init] Releases Shielded Bitcoin Proposal For Private Bitcoin Transactions\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/shielded2-scaled.jpeg\" style=\"display: block; margin: 1em auto;\" /><",
-      "impact": {}
-    },
-    {
-      "event_id": "74abd189-8f90-4bfb-9d13-61d4a76b7232",
-      "source": "rss:theblock",
-      "title": "Ondo launches onchain portfolio tokens based on BlackRock-developed strategies",
-      "url": "https://www.theblock.co/news/markets/2026-09-24-ondo-launches-onchain-portfolio-tokens-based-blackrock-developed-strategies-416260",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-24T14:27:45+00:00",
-      "raw_text": "Ondo launches onchain portfolio tokens based on BlackRock-developed strategies\n\nOndo has launched three onchain portfolio tokens based on model portfolio strategies developed by BlackRock.",
-      "impact": {}
-    },
-    {
-      "event_id": "bf062974-df49-4ade-8bc1-012d980a66ea",
-      "source": "rss:cointelegraph",
-      "title": "IBM opens beta Swift ledger link for 24/7 tokenized deposits",
-      "url": "https://cointelegraph.com/news/ibm-banks-swift-ledger-tokenized-deposit-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-24T13:29:06+00:00",
-      "raw_text": "IBM opens beta Swift ledger link for 24/7 tokenized deposits\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"IBM opens beta Swift ledger link for 24/7 tokenized deposits\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M39Q3HZQAQ8T6",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 138,
-        "avg_1h": -0.13,
-        "avg_24h": -0.01,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 151,
-        "avg_1h": 0.1,
-        "avg_24h": 0.2,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
         "count": 70,
         "avg_1h": -0.15,
         "avg_24h": 0.71,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 130,
-        "avg_1h": -0.14,
-        "avg_24h": 0.32,
+      "narrative": {
+        "count": 140,
+        "avg_1h": -0.13,
+        "avg_24h": -0.01,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 149,
+        "avg_1h": 0.1,
+        "avg_24h": 0.35,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
-        "count": 11,
+        "count": 12,
         "avg_1h": 0.01,
         "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 129,
+        "avg_1h": -0.14,
+        "avg_24h": 0.32,
         "win_rate_1h_gt5pct": 0.0
       }
     }
