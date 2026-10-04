@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-04T05:44:15.762029+00:00",
+  "generated_at": "2026-10-04T12:15:27.364627+00:00",
   "events": [
+    {
+      "event_id": "27910f29-2acc-4e1f-b2d1-ddb5406d617a",
+      "source": "rss:cointelegraph",
+      "title": "Russia’s Finance Ministry pays wages in digital rubles for first time",
+      "url": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-04T07:16:53+00:00",
+      "raw_text": "Russia’s Finance Ministry pays wages in digital rubles for first time\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Russia’s Finance Ministry pays wages in digital rubles for first time\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/",
+      "impact": {}
+    },
     {
       "event_id": "b9a08d6f-a73d-429c-8c04-fb1a5563277a",
       "source": "rss:decrypt",
@@ -6320,22 +6332,16 @@
       "timestamp_utc": "2026-09-24T15:27:29+00:00",
       "raw_text": "New York sues Polymarket over alleged illegal gambling business\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"New York sues Polymarket over alleged illegal gambling business\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M39Y31J",
       "impact": {}
-    },
-    {
-      "event_id": "8a30aaf8-438b-42a5-9e88-72c99035d4fa",
-      "source": "rss:coindesk",
-      "title": "Bitcoin’s bear markets are getting milder. Bull markets may be next",
-      "url": "https://www.coindesk.com/markets/2026/09/24/bitcoin-s-bear-markets-are-getting-milder-the-bull-markets-may-be-next",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-24T15:26:34+00:00",
-      "raw_text": "Bitcoin’s bear markets are getting milder. Bull markets may be next",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 149,
+        "avg_1h": 0.1,
+        "avg_24h": 0.35,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
         "count": 70,
         "avg_1h": -0.15,
@@ -6346,12 +6352,6 @@
         "count": 140,
         "avg_1h": -0.13,
         "avg_24h": -0.01,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 149,
-        "avg_1h": 0.1,
-        "avg_24h": 0.35,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
