@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:55:59.773760+00:00",
+  "generated_at": "2026-10-05T22:34:41.250366+00:00",
   "events": [
     {
       "event_id": "a333709f-d1d1-4a4e-a41b-b6a537c11991",
@@ -32,10 +32,16 @@
       "url": "https://www.coindesk.com/markets/2026/10/05/xrp-treasury-spac-surges-nearly-300-ahead-of-evernorth-merger",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-10-05T12:28:35+00:00",
       "raw_text": "An XRP treasury SPAC surges nearly 300% ahead of Evernorth merger",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0404,
+        "t_plus_15m": -0.1386,
+        "t_plus_1h": 0.3402
+      }
     },
     {
       "event_id": "6d3ef766-4f7d-4fc1-8fb9-b0f5364154b9",
@@ -44,10 +50,16 @@
       "url": "https://www.theblock.co/news/business/2026-10-05-more-orange-than-ever-michael-saylor-strategy-bitcoin-417631",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-10-05T12:13:28+00:00",
       "raw_text": "‘More orange than ever’: Michael Saylor’s Strategy buys 334 bitcoin for $28.7 million as total holdings top 848,000 BTC\n\nStrategy's total holdings account for around 4% of the 21 million bitcoin supply cap — worth roughly $73 billion.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2684,
+        "t_plus_15m": 0.1864,
+        "t_plus_1h": 0.2803
+      }
     },
     {
       "event_id": "a85f3f9b-f153-4bcb-9c42-0e2bc508d34a",
@@ -56,10 +68,16 @@
       "url": "https://www.theblock.co/news/business/2026-10-05-metaplanet-sold-10000-btc-in-q3-before-buying-back-11000-btc-to-demonstrate-liquidity-417640",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-10-05T12:04:15+00:00",
       "raw_text": "Metaplanet sold 10,000 BTC in Q3 before buying back 11,000 BTC to ‘demonstrate liquidity’\n\nMetaplanet added a net 1,000 BTC during the third quarter as its total bitcoin holdings reached 44,000 BTC.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2501,
+        "t_plus_15m": 0.2684,
+        "t_plus_1h": 0.2036
+      }
     },
     {
       "event_id": "01e32c27-651f-4ce7-b0cd-128eb887e54c",
@@ -140,10 +158,17 @@
       "url": "https://www.coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-10-05T10:58:03+00:00",
       "raw_text": "Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0959,
+        "t_plus_15m": 0.0774,
+        "t_plus_1h": 0.3623,
+        "t_plus_4h": -0.2741
+      }
     },
     {
       "event_id": "b971d3b3-ce6e-4582-9baa-a645b6cf3816",
@@ -176,10 +201,17 @@
       "url": "https://www.coindesk.com/markets/2026/10/05/cardano-s-ada-leads-gains-in-narrow-range-bound-market",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ADA"
+      ],
       "timestamp_utc": "2026-10-05T10:37:30+00:00",
       "raw_text": "Cardano's ADA leads gains in narrow range-bound market",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.4594,
+        "t_plus_15m": 1.1693,
+        "t_plus_1h": 0.6001,
+        "t_plus_4h": -0.6912
+      }
     },
     {
       "event_id": "7f354746-7758-4c3a-b5c4-6a2216129d8e",
@@ -6323,13 +6355,13 @@
     "by_event_type": {
       "narrative": {
         "count": 137,
-        "avg_1h": -0.08,
+        "avg_1h": 0.09,
         "avg_24h": 0.81,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
         "count": 159,
-        "avg_1h": 0.1,
+        "avg_1h": 0.14,
         "avg_24h": 0.35,
         "win_rate_1h_gt5pct": 0.0
       },
