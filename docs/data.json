@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-10-04T21:17:25.019929+00:00",
+  "generated_at": "2026-10-05T00:50:55.574544+00:00",
   "events": [
+    {
+      "event_id": "6c3df0ff-b39a-4db8-a0da-8411153695df",
+      "source": "rss:cointelegraph",
+      "title": "Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest",
+      "url": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-04T22:31:12+00:00",
+      "raw_text": "Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/",
+      "impact": {}
+    },
+    {
+      "event_id": "f9f3726e-f2ec-4da2-9b83-da64b7ffc92b",
+      "source": "rss:coindesk",
+      "title": "There's an election next month: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-04T18:30:00+00:00",
+      "raw_text": "There's an election next month: State of Crypto",
+      "impact": {}
+    },
     {
       "event_id": "c2be8c65-77af-4482-a3d3-cb2b78062111",
       "source": "rss:decrypt",
@@ -6300,36 +6324,12 @@
       "timestamp_utc": "2026-09-24T18:22:39+00:00",
       "raw_text": "JPMorgan says bitcoin crossing $85,000 production cost could ease miner selling pressure\n\nJPMorgan analysts said bitcoin's move above its estimated $85,000 production cost could ease miner selling if sustained.",
       "impact": {}
-    },
-    {
-      "event_id": "41499840-444d-4112-843f-479d8709a6ee",
-      "source": "rss:bitcoinmagazine",
-      "title": "Institutions Held Their Bitcoin Through Crash — and Some Bought More: Report",
-      "url": "https://bitcoinmagazine.com/news/institutions-held-bitcoin-through-crash",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-24T18:03:52+00:00",
-      "raw_text": "Institutions Held Their Bitcoin Through Crash — and Some Bought More: Report\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Institutions-Held-Their-Bitcoin-Through-Crash.jpg\" style=\"display: block; ",
-      "impact": {}
-    },
-    {
-      "event_id": "1c150359-1e06-45e0-bb21-95daeed8cb78",
-      "source": "rss:decrypt",
-      "title": "New York Wants to Ban Polymarket, Lawsuit Calls It 'Illegal Gambling Operation'",
-      "url": "https://decrypt.co/379244/new-york-ban-polymarket-lawsuit",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-24T17:51:31+00:00",
-      "raw_text": "New York Wants to Ban Polymarket, Lawsuit Calls It 'Illegal Gambling Operation'\n\nAttorney General Letitia James and Governor Kathy Hochul allege the prediction market operates without a license and exposes New Yorkers to gambling harms.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "macro": {
-        "count": 131,
+        "count": 132,
         "avg_1h": -0.14,
         "avg_24h": 0.32,
         "win_rate_1h_gt5pct": 0.0
@@ -6341,7 +6341,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 138,
+        "count": 137,
         "avg_1h": -0.08,
         "avg_24h": 0.81,
         "win_rate_1h_gt5pct": 0.0
