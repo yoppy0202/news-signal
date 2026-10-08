@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-08T01:52:26.634033+00:00",
+  "generated_at": "2026-10-08T08:52:13.022803+00:00",
   "events": [
+    {
+      "event_id": "0daad8e2-8698-4c6b-a085-2182a888acb9",
+      "source": "rss:coindesk",
+      "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
+      "url": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-08T00:35:24+00:00",
+      "raw_text": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
+      "impact": {}
+    },
+    {
+      "event_id": "78855a32-1f4d-490b-85c8-05362525614d",
+      "source": "rss:cointelegraph",
+      "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
+      "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-08T00:04:32+00:00",
+      "raw_text": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/202",
+      "impact": {}
+    },
+    {
+      "event_id": "8f677c52-8c11-4596-bca4-a97cae0b22d0",
+      "source": "rss:solana_official",
+      "title": "Samsung Partners with Solana to Natively Deliver Stablecoins in Samsung Wallet to 82 Million U.S. Galaxy Devices",
+      "url": "https://solana.com/news/samsung-wallet",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-07T23:30:00+00:00",
+      "raw_text": "Samsung Partners with Solana to Natively Deliver Stablecoins in Samsung Wallet to 82 Million U.S. Galaxy Devices\n\nBeginning the last week of October 2026, Samsung Wallet will support USDC cross-border transfers on Solana across 82 million U.S. Galaxy devices.",
+      "impact": {}
+    },
     {
       "event_id": "9f1d1b0a-532d-4d43-b0ee-ea1dd9fec9c0",
       "source": "rss:theblock",
@@ -6350,60 +6386,12 @@
       "timestamp_utc": "2026-09-29T17:14:36+00:00",
       "raw_text": "Bitwise launches first US spot NEAR ETF after token’s recent surge\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitwise launches first US spot NEAR ETF after token’s recent surge\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M",
       "impact": {}
-    },
-    {
-      "event_id": "f2e9e127-b115-434d-8dce-86b999f4d1e2",
-      "source": "rss:decrypt",
-      "title": "Is the Red September Curse Over? Bitcoin Set for Best September on Record",
-      "url": "https://decrypt.co/379549/red-september-curse-over-bitcoin-best-returns-record",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-29T16:50:46+00:00",
-      "raw_text": "Is the Red September Curse Over? Bitcoin Set for Best September on Record\n\nBitcoin is up 7.33% in September, edging past 2024 as the best September on record, with one day left before the monthly candle closes.",
-      "impact": {}
-    },
-    {
-      "event_id": "71f94b4e-926d-45ac-bf6e-2ab5d1a663f3",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin gives back gains as long-term holder supply keeps $85K out of reach",
-      "url": "https://cointelegraph.com/markets/bitcoin-gives-back-gains-long-term-holder-supply-keeps-85k-out-of-reach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-29T16:26:11+00:00",
-      "raw_text": "Bitcoin gives back gains as long-term holder supply keeps $85K out of reach\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin gives back gains as long-term holder supply keeps $85K out of reach\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-",
-      "impact": {}
-    },
-    {
-      "event_id": "6c113d11-157c-481d-83b5-930f6b71d08a",
-      "source": "rss:cointelegraph",
-      "title": "Bitget CEO ‘not very optimistic’ on recovering funds from $388M breach",
-      "url": "https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-09-29T16:18:06+00:00",
-      "raw_text": "Bitget CEO ‘not very optimistic’ on recovering funds from $388M breach\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitget CEO ‘not very optimistic’ on recovering funds from $388M breach\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/202",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 155,
-        "avg_1h": 0.03,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 136,
-        "avg_1h": -0.11,
-        "avg_24h": -0.18,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 156,
+        "count": 157,
         "avg_1h": 0.18,
         "avg_24h": 0.62,
         "win_rate_1h_gt5pct": 0.0
@@ -6412,6 +6400,18 @@
         "count": 39,
         "avg_1h": -0.36,
         "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 154,
+        "avg_1h": 0.03,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 136,
+        "avg_1h": -0.11,
+        "avg_24h": -0.18,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
