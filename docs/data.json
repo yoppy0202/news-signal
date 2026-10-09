@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-10-08T22:01:08.149225+00:00",
+  "generated_at": "2026-10-09T02:05:02.418712+00:00",
   "events": [
+    {
+      "event_id": "23235b24-d1fd-49cd-9d7f-118ca958e862",
+      "source": "rss:cointelegraph",
+      "title": "Cantor Fitzgerald faces Senate Democrat’s questions over Tether ties",
+      "url": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-09T00:46:27+00:00",
+      "raw_text": "Cantor Fitzgerald faces Senate Democrat’s questions over Tether ties\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cantor Fitzgerald faces Senate Democrat’s questions over Tether ties  \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/",
+      "impact": {}
+    },
+    {
+      "event_id": "5d437674-32df-400e-857e-83ba9857a71c",
+      "source": "rss:cointelegraph",
+      "title": "China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express",
+      "url": "https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-08T22:35:00+00:00",
+      "raw_text": "China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia",
+      "impact": {}
+    },
     {
       "event_id": "8268441d-2da5-4f4b-8022-04bdecd27ac3",
       "source": "rss:decrypt",
@@ -116,10 +140,16 @@
       "url": "https://bitcoinmagazine.com/news/whitebit-integrates-lightning-network",
       "event_type": "listing",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-10-08T19:10:07+00:00",
       "raw_text": "WhiteBIT Integrates Lightning Network for Fast and Cheap Bitcoin Transactions\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-6.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"h",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2881,
+        "t_plus_15m": -0.0076,
+        "t_plus_1h": 0.1888
+      }
     },
     {
       "event_id": "df52752e-dbd4-457e-811c-dfbbbab46011",
@@ -140,10 +170,16 @@
       "url": "https://decrypt.co/380514/satoshi-era-bitcoin-mined-2010-moves-16-years",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-10-08T18:46:04+00:00",
       "raw_text": "Satoshi-Era Bitcoin Worth $8.3 Million Moves After 16 Years\n\nA batch of 100.02 BTC mined in July 2010 moved Wednesday after 16 years. It's worth about $8.3 million, but nothing in the transaction shows who owns it.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2392,
+        "t_plus_15m": -0.2197,
+        "t_plus_1h": 0.05
+      }
     },
     {
       "event_id": "5c6c12b1-067c-436b-b65d-893f0ce21d96",
@@ -284,10 +320,17 @@
       "url": "https://bitcoinmagazine.com/business/edx-markets-and-verifiedx-partner-to-bring-verified-bitcoin-vbtc-to-institutional-markets",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-10-08T16:53:52+00:00",
       "raw_text": "EDX Markets and VerifiedX Partner to Bring Verified Bitcoin (vBTC) to Institutional Markets\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/tn.webp\" style=\"display: block; margin: 1em auto;\" /><br />",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.963,
+        "t_plus_15m": -1.0857,
+        "t_plus_1h": -1.249,
+        "t_plus_4h": 0.1063
+      }
     },
     {
       "event_id": "d76ab663-7707-42f6-8731-5bc2d594cd49",
@@ -296,10 +339,17 @@
       "url": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
       "event_type": "hack",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-10-08T16:44:20+00:00",
       "raw_text": "US Government Moves $1 Billion in Bitcoin Seized From Bitfinex Hacker\n\nA government wallet holding Bitcoin seized from the Bitfinex hacker sent 12,267 BTC to a new, unlabeled address, according to Arkham data.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0709,
+        "t_plus_15m": -0.2668,
+        "t_plus_1h": -0.35,
+        "t_plus_4h": 0.842
+      }
     },
     {
       "event_id": "507e2f97-ada9-4065-b2e5-9f1530168a17",
@@ -536,10 +586,17 @@
       "url": "https://bitcoinmagazine.com/videos/shawn-owen-bitcoins-first-institutional-cycle-has-arrived",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-10-08T13:46:59+00:00",
       "raw_text": "Shawn Owen: Bitcoin’s First Institutional Cycle Has Arrived\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Shawn-Owen-Bitcoins-First-Institutional-Cycle-Has-Arrived-.jpg\" style=\"display: block; marg",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 1.1606,
+        "t_plus_15m": 1.2675,
+        "t_plus_1h": 1.8038,
+        "t_plus_4h": -0.35
+      }
     },
     {
       "event_id": "94ba6e06-34d3-44e9-816a-c02c3ee2df4d",
@@ -6334,55 +6391,31 @@
       "timestamp_utc": "2026-09-30T19:46:04+00:00",
       "raw_text": "Bitget Hacker Turns to Zcash Privacy Pool After Near Rejects $50M in Swaps\n\nThe attacker behind the $387.5 million Bitget heist has started hiding about $3.8 million in ZEC inside Zcash's Ironwood pool, after Near Intents turned their swaps away.",
       "impact": {}
-    },
-    {
-      "event_id": "b2640e55-fa6e-4488-949b-e484278daa03",
-      "source": "rss:solana_official",
-      "title": "Open USD Is Live on Solana",
-      "url": "https://solana.com/news/open-usd-is-live-on-solana",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-09-30T19:17:00+00:00",
-      "raw_text": "Open USD Is Live on Solana\n\nOpen USD is live on Solana, letting businesses mint and burn 1:1 for dollars at no cost, with over $1 billion committed to liquidity.",
-      "impact": {}
-    },
-    {
-      "event_id": "6190974d-0eb2-4b06-8ecb-4270dabbaeb9",
-      "source": "rss:decrypt",
-      "title": "US Government's New AI Chatbot Has a Weird Minecraft Secret",
-      "url": "https://decrypt.co/379739/america-gov-ai-chatbot-minecraft-end-poem",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-09-30T19:16:02+00:00",
-      "raw_text": "US Government's New AI Chatbot Has a Weird Minecraft Secret\n\nAsk the U.S. government's new AI chatbot about Minecraft and it produces a roughly 1,800-word bureaucratic remix of the game's ending poem. It's an easter egg, not a hallucination.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 148,
-        "avg_1h": 0.03,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 158,
-        "avg_1h": 0.26,
+        "count": 159,
+        "avg_1h": 0.25,
         "avg_24h": 0.62,
         "win_rate_1h_gt5pct": 0.0
       },
+      "narrative": {
+        "count": 148,
+        "avg_1h": -0.09,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 138,
-        "avg_1h": -0.14,
+        "count": 137,
+        "avg_1h": -0.04,
         "avg_24h": -0.18,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
         "count": 12,
-        "avg_1h": -0.05,
+        "avg_1h": -0.0,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
