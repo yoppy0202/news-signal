@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-10T06:59:24.858424+00:00",
+  "generated_at": "2026-10-10T13:34:57.731948+00:00",
   "events": [
+    {
+      "event_id": "767598ef-b45e-4f76-8798-40c7ead24d85",
+      "source": "rss:coindesk",
+      "title": "Bitcoin's $19 billion wake-up call: One-year later, has crypto learned anything?",
+      "url": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-10T11:00:00+00:00",
+      "raw_text": "Bitcoin's $19 billion wake-up call: One-year later, has crypto learned anything?",
+      "impact": {}
+    },
+    {
+      "event_id": "bca6a911-6894-4581-a01a-ad74792edc29",
+      "source": "rss:cointelegraph",
+      "title": "Tech chief says EU can fend off rogue AI risk: Report",
+      "url": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-10T08:41:06+00:00",
+      "raw_text": "Tech chief says EU can fend off rogue AI risk: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tech chief says EU can fend off rogue AI risk: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4JFDB4ND4321Z9KER496JAS/ai",
+      "impact": {}
+    },
+    {
+      "event_id": "fa2908b9-7fc8-4eaa-950d-c8ccdc7120e9",
+      "source": "rss:cointelegraph",
+      "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
+      "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-10T07:10:43+00:00",
+      "raw_text": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10",
+      "impact": {}
+    },
     {
       "event_id": "bc3ccac4-547c-4321-9500-73358a2dd6dd",
       "source": "rss:coindesk",
@@ -32,10 +68,16 @@
       "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-10-10T04:20:07+00:00",
       "raw_text": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.4615,
+        "t_plus_15m": -0.4849,
+        "t_plus_1h": -0.2023
+      }
     },
     {
       "event_id": "8d707162-2970-405b-beff-3e054fdf774c",
@@ -56,10 +98,17 @@
       "url": "https://bitcoinmagazine.com/news/meanwhile-bitcoin-raises-37-million",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-10-10T00:53:09+00:00",
       "raw_text": "Bitcoin Life Insurer Meanwhile Raises $37.5M as Wealthy Families Look to Pass On Their BTC\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-7.jpg\" style=\"display: block; margin: 1em auto;\" /><br ",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2632,
+        "t_plus_15m": -0.2216,
+        "t_plus_1h": -0.1041,
+        "t_plus_4h": -0.0964
+      }
     },
     {
       "event_id": "030fa5fa-d03d-4b45-a924-207dbc1884db",
@@ -6356,68 +6405,25 @@
         "t_plus_1h": 0.0447,
         "t_plus_4h": -0.0471
       }
-    },
-    {
-      "event_id": "0f1ad2b6-e088-45b6-a5db-e7b88e56a0db",
-      "source": "rss:bitcoinmagazine",
-      "title": "SEC Proposes New Rules On Crypto Custody",
-      "url": "https://bitcoinmagazine.com/news/sec-proposes-crypto-custody-rules",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-01T21:09:53+00:00",
-      "raw_text": "SEC Proposes New Rules On Crypto Custody\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/SEC-Green-Lights-Tokenized-Stock-Trading-Despite-Clarity-Act-Fail.jpg\" style=\"display: block; margin: 1em auto",
-      "impact": {}
-    },
-    {
-      "event_id": "ad50a172-5feb-4238-b7a6-d71b011690b1",
-      "source": "rss:cointelegraph",
-      "title": "Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury",
-      "url": "https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-10-01T21:07:45+00:00",
-      "raw_text": "Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar",
-      "impact": {
-        "t_plus_5m": 0.307,
-        "t_plus_15m": 0.2949,
-        "t_plus_1h": 0.2392,
-        "t_plus_4h": 0.1209
-      }
-    },
-    {
-      "event_id": "1de87fe2-ca61-4ce9-8be4-0ae6dd329834",
-      "source": "rss:bitcoinmagazine",
-      "title": "Sazmining Launches the Wild Sats Club, a Loyalty Program That Discounts Mining Management Fees as Customer Hashrate Grows",
-      "url": "https://bitcoinmagazine.com/press-releases/sazmining-launches-the-wild-sats-club-a-loyalty-program-that-discounts-mining-management-fees-as-customer-hashrate-grows",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-01T21:05:32+00:00",
-      "raw_text": "Sazmining Launches the Wild Sats Club, a Loyalty Program That Discounts Mining Management Fees as Customer Hashrate Grows\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Release-1988-image-safe.jpeg\"",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 165,
-        "avg_1h": 0.23,
+        "count": 166,
+        "avg_1h": 0.2,
         "avg_24h": 0.62,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
         "count": 148,
-        "avg_1h": -0.05,
+        "avg_1h": -0.08,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 136,
-        "avg_1h": 0.18,
+        "count": 135,
+        "avg_1h": 0.17,
         "avg_24h": 1.55,
         "win_rate_1h_gt5pct": 0.0
       },
