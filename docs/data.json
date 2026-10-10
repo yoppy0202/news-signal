@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-10-10T18:30:43.038869+00:00",
+  "generated_at": "2026-10-10T22:26:55.770263+00:00",
   "events": [
+    {
+      "event_id": "0736c63c-6ad6-4bb3-a934-aeb044edfe65",
+      "source": "rss:theblock",
+      "title": "Kalshi is investigating bets on Trump’s press secretary pick placed before announcement: WSJ",
+      "url": "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-10T18:35:25+00:00",
+      "raw_text": "Kalshi is investigating bets on Trump’s press secretary pick placed before announcement: WSJ\n\nThree bets totaling about $173 were placed before news outlets reported Zacharia's pick and are expected to pay out roughly $9,600 combined.",
+      "impact": {}
+    },
+    {
+      "event_id": "41cbd9c9-fb6a-409a-84de-c9d0943eddbe",
+      "source": "rss:decrypt",
+      "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
+      "url": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-10T17:01:03+00:00",
+      "raw_text": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules\n\nA proposed rule would expressly fold event contracts tied to sports, politics, culture and weather into the “swap” definition, while an interim rule excludes casino-style gambling—sharpening the agency’s claim to exclusive jur",
+      "impact": {}
+    },
     {
       "event_id": "1689364d-0b70-4dee-a8fd-dadea74552cc",
       "source": "rss:decrypt",
@@ -6361,44 +6385,20 @@
       "timestamp_utc": "2026-10-02T05:02:23+00:00",
       "raw_text": "Zano exploiter minted more than a quadrillion fUSD before blockchain rollback\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zano exploiter minted more than a quadrillion fUSD before blockchain rollback\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti",
       "impact": {}
-    },
-    {
-      "event_id": "3626120f-2172-4ab8-a8a5-fd154a26657c",
-      "source": "rss:cointelegraph",
-      "title": "Core Lightning warns attackers are targeting unpatched nodes",
-      "url": "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-02T04:18:43+00:00",
-      "raw_text": "Core Lightning warns attackers are targeting unpatched nodes\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Core Lightning warns attackers are targeting unpatched nodes\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XCTY0H5CWTX",
-      "impact": {}
-    },
-    {
-      "event_id": "2013a16c-be07-4314-a52a-48d4f456c320",
-      "source": "rss:cointelegraph",
-      "title": "Ethereum’s zkAPI brings privacy-preserving API payments to mainnet",
-      "url": "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-02T03:34:25+00:00",
-      "raw_text": "Ethereum’s zkAPI brings privacy-preserving API payments to mainnet\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum’s zkAPI brings privacy-preserving API payments to mainnet\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 133,
+        "avg_1h": 0.19,
+        "avg_24h": 1.55,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 149,
         "avg_1h": -0.08,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 132,
-        "avg_1h": 0.19,
-        "avg_24h": 1.55,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
@@ -6408,7 +6408,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 36,
+        "count": 35,
         "avg_1h": -0.19,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
