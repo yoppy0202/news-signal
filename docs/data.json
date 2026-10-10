@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-10-10T00:44:30.139596+00:00",
+  "generated_at": "2026-10-10T06:59:24.858424+00:00",
   "events": [
+    {
+      "event_id": "bc3ccac4-547c-4321-9500-73358a2dd6dd",
+      "source": "rss:coindesk",
+      "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
+      "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-10T05:43:00+00:00",
+      "raw_text": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
+      "impact": {}
+    },
+    {
+      "event_id": "23dded38-fae9-4465-aa36-9403949bf49e",
+      "source": "rss:coindesk",
+      "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
+      "url": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-10T04:44:35+00:00",
+      "raw_text": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
+      "impact": {}
+    },
+    {
+      "event_id": "29b44fee-5b54-47ca-8dce-856fc208b48a",
+      "source": "rss:coindesk",
+      "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
+      "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-10T04:20:07+00:00",
+      "raw_text": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
+      "impact": {}
+    },
+    {
+      "event_id": "8d707162-2970-405b-beff-3e054fdf774c",
+      "source": "rss:coindesk",
+      "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
+      "url": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-10T03:00:00+00:00",
+      "raw_text": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
+      "impact": {}
+    },
+    {
+      "event_id": "f50065c3-8389-42ff-8d77-516b417185c5",
+      "source": "rss:bitcoinmagazine",
+      "title": "Bitcoin Life Insurer Meanwhile Raises $37.5M as Wealthy Families Look to Pass On Their BTC",
+      "url": "https://bitcoinmagazine.com/news/meanwhile-bitcoin-raises-37-million",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-10T00:53:09+00:00",
+      "raw_text": "Bitcoin Life Insurer Meanwhile Raises $37.5M as Wealthy Families Look to Pass On Their BTC\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-7.jpg\" style=\"display: block; margin: 1em auto;\" /><br ",
+      "impact": {}
+    },
     {
       "event_id": "030fa5fa-d03d-4b45-a924-207dbc1884db",
       "source": "rss:coindesk",
@@ -148,7 +208,8 @@
       "impact": {
         "t_plus_5m": 0.4157,
         "t_plus_15m": 0.4044,
-        "t_plus_1h": 0.1399
+        "t_plus_1h": 0.1399,
+        "t_plus_4h": 0.2681
       }
     },
     {
@@ -6338,91 +6399,31 @@
       "timestamp_utc": "2026-10-01T21:05:32+00:00",
       "raw_text": "Sazmining Launches the Wild Sats Club, a Loyalty Program That Discounts Mining Management Fees as Customer Hashrate Grows\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Release-1988-image-safe.jpeg\"",
       "impact": {}
-    },
-    {
-      "event_id": "cf172c11-7b66-4ed8-a6c6-01239a6df221",
-      "source": "rss:theblock",
-      "title": "SEC proposes framework allowing investment advisers, funds to self-custody crypto",
-      "url": "https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-01T21:00:53+00:00",
-      "raw_text": "SEC proposes framework allowing investment advisers, funds to self-custody crypto\n\nSEC proposed a crypto framework for investment advisers &amp; funds, allowing self-custody in some cases &amp; state trust companies as custodians.",
-      "impact": {}
-    },
-    {
-      "event_id": "5e3c7a9d-9bbe-4e71-91ab-a4183a9605d0",
-      "source": "rss:cointelegraph",
-      "title": "Trump to host 3rd ‘exclusive’ memecoin event amid corruption claims",
-      "url": "https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-01T21:00:11+00:00",
-      "raw_text": "Trump to host 3rd ‘exclusive’ memecoin event amid corruption claims\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump to host 3rd ‘exclusive’ memecoin event amid corruption claims\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/0",
-      "impact": {}
-    },
-    {
-      "event_id": "7e8eca97-7d56-46c8-8272-c863af429cef",
-      "source": "rss:decrypt",
-      "title": "SEC Proposes Rules to Clear Up How Advisers and Funds Can Hold Crypto",
-      "url": "https://decrypt.co/379899/sec-proposes-rules-advisers-funds-hold-crypto",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-01T20:46:03+00:00",
-      "raw_text": "SEC Proposes Rules to Clear Up How Advisers and Funds Can Hold Crypto\n\nThe proposal would let advisers and funds use state trust companies as custodians and permit self-custody under certain conditions, aiming to replace years of ambiguity with a clear compliance path.",
-      "impact": {}
-    },
-    {
-      "event_id": "d23e68ba-ae15-493a-bea4-74c25516e053",
-      "source": "rss:decrypt",
-      "title": "Reddit Is Killing RSS Feeds and Public API Access to Fight AI Scrapers",
-      "url": "https://decrypt.co/379892/reddit-killing-rss-feeds-public-api-access-ai-scrapers",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-01T20:31:03+00:00",
-      "raw_text": "Reddit Is Killing RSS Feeds and Public API Access to Fight AI Scrapers\n\nReddit RSS dies November 13 and outside apps lose their data pipeline by March 2027. Reddit blames scraping bots, though it licenses its own content to AI companies.",
-      "impact": {}
-    },
-    {
-      "event_id": "2e049064-82c1-41ab-84c2-cf1291ee3c8f",
-      "source": "rss:coindesk",
-      "title": "SEC proposes new crypto custody rules for investment advisers and funds",
-      "url": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-01T20:20:04+00:00",
-      "raw_text": "SEC proposes new crypto custody rules for investment advisers and funds",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 138,
-        "avg_1h": 0.18,
-        "avg_24h": 1.55,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 162,
+        "count": 165,
         "avg_1h": 0.23,
         "avg_24h": 0.62,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 148,
+        "avg_1h": -0.05,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 136,
+        "avg_1h": 0.18,
+        "avg_24h": 1.55,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
         "count": 37,
         "avg_1h": -0.19,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 149,
-        "avg_1h": -0.05,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
