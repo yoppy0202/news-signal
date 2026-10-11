@@ -1,6 +1,90 @@
 {
-  "generated_at": "2026-10-11T15:35:46.109127+00:00",
+  "generated_at": "2026-10-11T20:12:24.764739+00:00",
   "events": [
+    {
+      "event_id": "8bbd2832-939b-4fa9-bc15-42007ec60d5c",
+      "source": "rss:coindesk",
+      "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-11T18:30:00+00:00",
+      "raw_text": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
+      "impact": {}
+    },
+    {
+      "event_id": "41fcaae4-c507-4ef0-ab74-f168994c8a60",
+      "source": "rss:theblock",
+      "title": "XRP Ledger patches decade-old bug that could have minted trillions of XRP",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-11T18:07:41+00:00",
+      "raw_text": "XRP Ledger patches decade-old bug that could have minted trillions of XRP\n\nAn overflow bug in the XRP Ledger's payment engine could have let an attacker mint about 18 trillion spendable XRP in one transaction.",
+      "impact": {}
+    },
+    {
+      "event_id": "c9d2a572-993a-4bc2-8067-8fc6ce5e148b",
+      "source": "rss:decrypt",
+      "title": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
+      "url": "https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-11T17:11:03+00:00",
+      "raw_text": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds\n\nAn IMF analysis found that more than half of tokenized stock trading happens outside U.S. market hours, though the roughly $2.3 billion market remains more volatile and less liquid than traditional equities.",
+      "impact": {}
+    },
+    {
+      "event_id": "70f70b5b-7390-4647-8705-e347463b4f83",
+      "source": "rss:cointelegraph",
+      "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
+      "url": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-11T17:11:00+00:00",
+      "raw_text": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/",
+      "impact": {}
+    },
+    {
+      "event_id": "e949383b-8425-4646-a0ad-aa28c3a20ce6",
+      "source": "rss:decrypt",
+      "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
+      "url": "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-11T16:01:03+00:00",
+      "raw_text": "Bitcoin, Ethereum and Solana ETFs All in the Red for October\n\nBitcoin ETFs have seen $386.3 million in net outflows through the first seven trading days of October, while Ethereum funds have now posted nine straight days of losses.",
+      "impact": {}
+    },
+    {
+      "event_id": "1adfff34-b28d-47f3-a9cf-f4644ab7d46c",
+      "source": "rss:coindesk",
+      "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
+      "url": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-11T16:00:00+00:00",
+      "raw_text": "Clarity's failure could speed crypto innovation while shielding incumbents",
+      "impact": {}
+    },
+    {
+      "event_id": "e7f3a19e-08e4-480e-ba3c-c70c90af5c55",
+      "source": "rss:coindesk",
+      "title": "President Trump declares 'energy ceasefire' between Russia and Ukraine",
+      "url": "https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-11T15:40:47+00:00",
+      "raw_text": "President Trump declares 'energy ceasefire' between Russia and Ukraine",
+      "impact": {}
+    },
     {
       "event_id": "3af96cc7-bb49-4b05-8893-bcbfa7e7ac9b",
       "source": "rss:decrypt",
@@ -6302,114 +6386,30 @@
         "t_plus_1h": 0.5493,
         "t_plus_4h": 1.0999
       }
-    },
-    {
-      "event_id": "0947cb0c-f921-4b00-b719-f176b497d228",
-      "source": "rss:cointelegraph",
-      "title": "Aave founder says V3 unaffected after third-party adapter exploit drains $305K",
-      "url": "https://cointelegraph.com/news/aave-v3-third-party-adapter-exploit-305k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-02T09:30:49+00:00",
-      "raw_text": "Aave founder says V3 unaffected after third-party adapter exploit drains $305K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Aave founder says V3 unaffected after third-party adapter exploit drains $305K\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar",
-      "impact": {}
-    },
-    {
-      "event_id": "4be8139b-64ea-46e7-83e8-234a95230ef7",
-      "source": "rss:cointelegraph",
-      "title": "Porsche’s ‘long haul’ Web3 project ends in less than four years",
-      "url": "https://cointelegraph.com/news/porsche-shuts-down-web3-project-911-nft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-02T09:18:52+00:00",
-      "raw_text": "Porsche’s ‘long haul’ Web3 project ends in less than four years\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Porsche’s ‘long haul’ Web3 project ends in less than four years\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XVQ90",
-      "impact": {}
-    },
-    {
-      "event_id": "b702be09-e9b2-4ed8-a1d6-c61dcb1ddc84",
-      "source": "rss:coindesk",
-      "title": "Bitcoin open interest jumps $2.3 billion as traders pay more for bullish positions",
-      "url": "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-02T09:14:21+00:00",
-      "raw_text": "Bitcoin open interest jumps $2.3 billion as traders pay more for bullish positions",
-      "impact": {}
-    },
-    {
-      "event_id": "ba8a2c41-1883-414c-b966-bdf94fb3a0a9",
-      "source": "rss:decrypt",
-      "title": "Spanish Police Arrest 16-Year-Old Accused of Running KillSec Ransomware Group",
-      "url": "https://decrypt.co/379913/spanish-police-arrest-16-year-old-accused-of-running-killsec-ransomware-group",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-02T09:12:54+00:00",
-      "raw_text": "Spanish Police Arrest 16-Year-Old Accused of Running KillSec Ransomware Group\n\nA second suspect faces extradition to Puerto Rico, while Investigators are tracing the proceeds of ransoms the group demanded in crypto.",
-      "impact": {}
-    },
-    {
-      "event_id": "d2f2c795-a2e8-49a7-bc06-cc007c11dc87",
-      "source": "rss:coindesk",
-      "title": "Tether's USDT is 'coming home' to Bitcoin after more than a decade",
-      "url": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-02T08:28:19+00:00",
-      "raw_text": "Tether's USDT is 'coming home' to Bitcoin after more than a decade",
-      "impact": {}
-    },
-    {
-      "event_id": "71f8583b-529d-4ad2-9ff1-223b7e41ac42",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin ETFs kick off ‘Uptober’ with $103M inflow",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-meet-uptober-103-million-inflow-btc-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-02T08:20:08+00:00",
-      "raw_text": "Bitcoin ETFs kick off ‘Uptober’ with $103M inflow\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs kick off ‘Uptober’ with $103M inflow\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XRGDB871CK08HQ8XV7P478/hi-is-the-",
-      "impact": {}
-    },
-    {
-      "event_id": "8a2cd68f-ec8d-4933-9c4c-f97bad39fa31",
-      "source": "rss:coindesk",
-      "title": "Bitcoin tops $86,000 ahead of U.S. jobs report",
-      "url": "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-02T08:11:54+00:00",
-      "raw_text": "Bitcoin tops $86,000 ahead of U.S. jobs report",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 166,
+        "avg_1h": 0.2,
+        "avg_24h": -0.11,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
         "count": 36,
         "avg_1h": -0.19,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "unknown": {
-        "count": 169,
-        "avg_1h": 0.2,
-        "avg_24h": -0.11,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 150,
+        "count": 154,
         "avg_1h": -0.08,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 131,
+        "count": 130,
         "avg_1h": 0.19,
         "avg_24h": 1.55,
         "win_rate_1h_gt5pct": 0.0
