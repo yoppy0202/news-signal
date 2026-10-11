@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-10-11T08:42:56.420389+00:00",
+  "generated_at": "2026-10-11T15:35:46.109127+00:00",
   "events": [
+    {
+      "event_id": "3af96cc7-bb49-4b05-8893-bcbfa7e7ac9b",
+      "source": "rss:decrypt",
+      "title": "How Zcash Plans to Hide Your Keys From AI and Quantum Attacks",
+      "url": "https://decrypt.co/380637/zcash-plans-hide-keys-ai-quantum-attacks",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-11T13:00:03+00:00",
+      "raw_text": "How Zcash Plans to Hide Your Keys From AI and Quantum Attacks\n\nZakura, a Zcash full node developer, says it expects hash-based signatures to land in Zcash in January, and is rolling out a privacy tool for rotating transparent addresses this week.",
+      "impact": {}
+    },
+    {
+      "event_id": "cec77679-e483-419a-8022-31e7eeda8567",
+      "source": "rss:coindesk",
+      "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
+      "url": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-11T13:00:00+00:00",
+      "raw_text": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
+      "impact": {}
+    },
+    {
+      "event_id": "e3ef9bd2-2805-4799-aad5-9eb72c58e0fb",
+      "source": "rss:cointelegraph",
+      "title": "Coldcard says it’s investigating how phishing link appeared on its X account",
+      "url": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-11T10:22:44+00:00",
+      "raw_text": "Coldcard says it’s investigating how phishing link appeared on its X account\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard says it’s investigating how phishing link appeared on its X account  \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti",
+      "impact": {}
+    },
+    {
+      "event_id": "6dc5b602-5d85-41eb-9b2e-e7bc82e21217",
+      "source": "rss:cointelegraph",
+      "title": "Ledger confirms unauthorized hardware implant, says losses may exceed $86M",
+      "url": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-11T09:05:00+00:00",
+      "raw_text": "Ledger confirms unauthorized hardware implant, says losses may exceed $86M\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ledger confirms unauthorized hardware implant, says losses may exceed $86M\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-co",
+      "impact": {}
+    },
+    {
+      "event_id": "14eea081-3d91-4e50-8c6a-d67310ced041",
+      "source": "rss:cointelegraph",
+      "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
+      "url": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-11T07:44:51+00:00",
+      "raw_text": "CFTC proposals aimed at separating prediction markets from casino gambling\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC proposals aimed at separating prediction markets from casino gambling  \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-",
+      "impact": {}
+    },
     {
       "event_id": "0736c63c-6ad6-4bb3-a934-aeb044edfe65",
       "source": "rss:theblock",
@@ -197,7 +257,8 @@
         "t_plus_5m": -0.4615,
         "t_plus_15m": -0.4849,
         "t_plus_1h": -0.2023,
-        "t_plus_4h": -0.3312
+        "t_plus_4h": -0.3312,
+        "t_plus_24h": -1.5535
       }
     },
     {
@@ -6325,92 +6386,32 @@
       "timestamp_utc": "2026-10-02T08:11:54+00:00",
       "raw_text": "Bitcoin tops $86,000 ahead of U.S. jobs report",
       "impact": {}
-    },
-    {
-      "event_id": "15ec2f53-21bc-4bb1-8340-64b5ab1c38f4",
-      "source": "rss:cointelegraph",
-      "title": "South Korea crypto exchange profits fall 78% in H1 amid trading slump",
-      "url": "https://cointelegraph.com/news/south-korea-crypto-exchange-profits-fall-78-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-02T05:53:27+00:00",
-      "raw_text": "South Korea crypto exchange profits fall 78% in H1 amid trading slump\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea crypto exchange profits fall 78% in H1 amid trading slump\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/",
-      "impact": {}
-    },
-    {
-      "event_id": "19c1cddb-36a4-4408-88c2-26dae10abe44",
-      "source": "rss:theblock",
-      "title": "Spot bitcoin ETFs log $2.7 billion in September inflows as institutional demand holds",
-      "url": "https://www.theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-02T05:50:41+00:00",
-      "raw_text": "Spot bitcoin ETFs log $2.7 billion in September inflows as institutional demand holds\n\nUS spot bitcoin ETFs recorded $2.65 billion in net inflows in September, their second-largest monthly inflow since October 2025.",
-      "impact": {}
-    },
-    {
-      "event_id": "b1baa647-be2b-4661-b722-cc3491faaf01",
-      "source": "rss:cointelegraph",
-      "title": "South Korea advances tokenized securities rules ahead of 2027 rollout",
-      "url": "https://cointelegraph.com/news/south-korea-tokenized-securities-rules-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-02T05:08:32+00:00",
-      "raw_text": "South Korea advances tokenized securities rules ahead of 2027 rollout\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea advances tokenized securities rules ahead of 2027 rollout \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026",
-      "impact": {}
-    },
-    {
-      "event_id": "734b7db8-c2dd-4d97-b211-6857c5cc4f77",
-      "source": "rss:theblock",
-      "title": "SEC’s innovation exemption poses constraint on bringing stock tokens to US, Robinhood crypto chief says",
-      "url": "https://www.theblock.co/news/regulation/2026-10-02-secs-innovation-exemption-robinhood-417538",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-02T05:04:41+00:00",
-      "raw_text": "SEC’s innovation exemption poses constraint on bringing stock tokens to US, Robinhood crypto chief says\n\nRobinhood's Johann Kerbrat told The Block that Robinhood is still working through the SEC's latest innovation exemption on tokenized stocks.",
-      "impact": {}
-    },
-    {
-      "event_id": "bc0f2a8b-ac8c-4b43-b34a-2233f77f5cf8",
-      "source": "rss:cointelegraph",
-      "title": "Zano exploiter minted more than a quadrillion fUSD before blockchain rollback",
-      "url": "https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-02T05:02:23+00:00",
-      "raw_text": "Zano exploiter minted more than a quadrillion fUSD before blockchain rollback\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zano exploiter minted more than a quadrillion fUSD before blockchain rollback\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/arti",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 133,
-        "avg_1h": 0.19,
-        "avg_24h": 1.55,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 149,
-        "avg_1h": -0.08,
+      "hack": {
+        "count": 36,
+        "avg_1h": -0.19,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
         "count": 169,
         "avg_1h": 0.2,
-        "avg_24h": 0.62,
+        "avg_24h": -0.11,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 35,
-        "avg_1h": -0.19,
+      "narrative": {
+        "count": 150,
+        "avg_1h": -0.08,
         "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "macro": {
+        "count": 131,
+        "avg_1h": 0.19,
+        "avg_24h": 1.55,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
