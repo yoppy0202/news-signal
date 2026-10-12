@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-10-12T00:29:07.501549+00:00",
+  "generated_at": "2026-10-12T07:17:32.626944+00:00",
   "events": [
+    {
+      "event_id": "c34b3214-1c06-4ee8-b46d-f5dabe4b3dbd",
+      "source": "rss:theblock",
+      "title": "Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-12T02:00:00+00:00",
+      "raw_text": "Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui\n\nDATA Network is set to be upgraded to run as a protocol natively on Sui, and its independent chain will be retired.",
+      "impact": {}
+    },
+    {
+      "event_id": "63829f9d-4f8c-40b9-a307-7b32d7e4f00c",
+      "source": "rss:cointelegraph",
+      "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
+      "url": "https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-12T01:21:29+00:00",
+      "raw_text": "XRP Ledger defends emergency patch for unlimited XRP bug\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"XRP Ledger defends emergency patch for unlimited XRP bug\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4PTZZ4W2YTP18XY2SMEB",
+      "impact": {}
+    },
     {
       "event_id": "95bceec3-aea4-4a59-9826-dfa9e6751509",
       "source": "rss:cointelegraph",
@@ -8,10 +32,16 @@
       "url": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "hack",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-10-11T22:57:53+00:00",
       "raw_text": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/artic",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1531,
+        "t_plus_15m": -0.1938,
+        "t_plus_1h": -0.0701
+      }
     },
     {
       "event_id": "6181900d-1c4a-4184-9c5a-7bd2ba9d71b5",
@@ -20,10 +50,16 @@
       "url": "https://www.theblock.co/news/defi/2026-10-11-trader-nets-1-28-million-on-new-1000x-exchange-papertrade-by-moving-hyperliquids-eth-prices-418239",
       "event_type": "unknown",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-10-11T22:26:02+00:00",
       "raw_text": "Trader nets $1.28 million on new 1,000x exchange Papertrade by moving Hyperliquid’s ETH prices\n\nThe same wallet later lost $450,000 when 30 short positions were liquidated on Saturday night after staying open for more than three hours.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0824,
+        "t_plus_15m": -0.0688,
+        "t_plus_1h": -0.0359
+      }
     },
     {
       "event_id": "8bbd2832-939b-4fa9-bc15-42007ec60d5c",
@@ -52,7 +88,8 @@
       "impact": {
         "t_plus_5m": 0.284,
         "t_plus_15m": 0.3155,
-        "t_plus_1h": -0.1706
+        "t_plus_1h": -0.1706,
+        "t_plus_4h": -0.2924
       }
     },
     {
@@ -476,6 +513,18 @@
       "tokens": [],
       "timestamp_utc": "2026-10-09T19:47:01+00:00",
       "raw_text": "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe\n\nExecutives are war-gaming the political fallout of a major AI-driven cyberattack and preparing to brief Congress fast if and when necessary.",
+      "impact": {}
+    },
+    {
+      "event_id": "27bb3412-6411-4070-97b1-8557f923138f",
+      "source": "rss:cointelegraph",
+      "title": "THORChain dev accuses Tether of temporarily freezing USDT vaults",
+      "url": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-09T19:04:03+00:00",
+      "raw_text": "THORChain dev accuses Tether of temporarily freezing USDT vaults\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"THORChain dev accuses Tether of temporarily freezing USDT vaults\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3NT5",
       "impact": {}
     },
     {
@@ -1474,6 +1523,18 @@
       "impact": {}
     },
     {
+      "event_id": "98316ade-882a-459c-bb99-698bc6b7f3f0",
+      "source": "rss:solana_official",
+      "title": "Breakpoint 2026: Booked Breakpoint? Let's Get You Prepped (Part 2)",
+      "url": "https://solana.com/news/breakpoint-guide-part2",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-08T18:18:00+00:00",
+      "raw_text": "Breakpoint 2026: Booked Breakpoint? Let's Get You Prepped (Part 2)\n\nArrive at Breakpoint London 2026 ready for a 6,000-person event, with travel booked, devices secured, and your week mapped in advance.",
+      "impact": {}
+    },
+    {
       "event_id": "99aa757e-e323-41a1-bd5e-404dc2f7f811",
       "source": "rss:cointelegraph",
       "title": "Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison",
@@ -2236,6 +2297,18 @@
       "tokens": [],
       "timestamp_utc": "2026-10-08T08:39:23+00:00",
       "raw_text": "Samsung integrates USDC to overhaul cross-border remittances for 82 million Galaxy users",
+      "impact": {}
+    },
+    {
+      "event_id": "b22b2f83-521d-475c-8b0d-ff2aa9c69751",
+      "source": "rss:solana_official",
+      "title": "Solana Changelog: October 8, 2026",
+      "url": "https://solana.com/news/solana-changelog-october-8-2026",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-08T08:33:00+00:00",
+      "raw_text": "Solana Changelog: October 8, 2026\n\nweb3.js v3 is ready for general use, while Solana activates a feature gate to cut slot times from 250ms to 200ms after one epoch.",
       "impact": {}
     },
     {
@@ -6325,82 +6398,10 @@
       "timestamp_utc": "2026-10-02T11:28:41+00:00",
       "raw_text": "US Designates Russia's A7 Network as Transnational Criminal Organization\n\nTreasury's proposed rule aims to cut A7's front companies off from U.S. finance—including crypto, where its ruble token moved $179 billion.",
       "impact": {}
-    },
-    {
-      "event_id": "c3fc1ac0-48dd-4984-898f-50b6f94ae9af",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin reverses big early gains following soft U.S. jobs data",
-      "url": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-02T11:22:40+00:00",
-      "raw_text": "Live updates: Bitcoin reverses big early gains following soft U.S. jobs data",
-      "impact": {}
-    },
-    {
-      "event_id": "d0803dec-9567-4b06-8934-a1bfc123c413",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin trading near $87,000 after big miss on U.S. jobs",
-      "url": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-02T11:22:40+00:00",
-      "raw_text": "Live updates: Bitcoin trading near $87,000 after big miss on U.S. jobs",
-      "impact": {}
-    },
-    {
-      "event_id": "7a91c234-73b3-4a9d-8cdd-1c7d63aff092",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin treasuries may struggle to match Strategy, says Ammous",
-      "url": "https://cointelegraph.com/news/bitcoin-treasuries-struggle-strategy-says-ammous?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-02T10:54:33+00:00",
-      "raw_text": "Bitcoin treasuries may struggle to match Strategy, says Ammous\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin treasuries may struggle to match Strategy, says Ammous\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Y0CB1X2",
-      "impact": {}
-    },
-    {
-      "event_id": "2b34283c-c7ef-43db-afd4-94c3bc57b22e",
-      "source": "rss:coindesk",
-      "title": "Crypto traders are in risk-on mode as bitcoin dominance nears return to 60%",
-      "url": "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-02T10:31:16+00:00",
-      "raw_text": "Crypto traders are in risk-on mode as bitcoin dominance nears return to 60%",
-      "impact": {}
-    },
-    {
-      "event_id": "0843f5f1-dbfd-4aa1-ba82-2b59838aab7a",
-      "source": "rss:cointelegraph",
-      "title": "CONNECT recap: Arthur Hayes on money printing, Wall Street moves onchain",
-      "url": "https://cointelegraph.com/news/connect-recap-arthur-hayes-money-printing-wall-street-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-02T10:29:35+00:00",
-      "raw_text": "CONNECT recap: Arthur Hayes on money printing, Wall Street moves onchain\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CONNECT recap: Arthur Hayes on money printing, Wall Street moves onchain\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "hack": {
-        "count": 37,
-        "avg_1h": -0.18,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 166,
-        "avg_1h": 0.18,
-        "avg_24h": -0.11,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
         "count": 153,
         "avg_1h": -0.08,
@@ -6408,9 +6409,21 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 130,
+        "count": 131,
         "avg_1h": 0.19,
         "avg_24h": 1.55,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 37,
+        "avg_1h": -0.16,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 165,
+        "avg_1h": 0.17,
+        "avg_24h": -0.11,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
