@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-10-11T20:12:24.764739+00:00",
+  "generated_at": "2026-10-12T00:29:07.501549+00:00",
   "events": [
+    {
+      "event_id": "95bceec3-aea4-4a59-9826-dfa9e6751509",
+      "source": "rss:cointelegraph",
+      "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
+      "url": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-11T22:57:53+00:00",
+      "raw_text": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/artic",
+      "impact": {}
+    },
+    {
+      "event_id": "6181900d-1c4a-4184-9c5a-7bd2ba9d71b5",
+      "source": "rss:theblock",
+      "title": "Trader nets $1.28 million on new 1,000x exchange Papertrade by moving Hyperliquid’s ETH prices",
+      "url": "https://www.theblock.co/news/defi/2026-10-11-trader-nets-1-28-million-on-new-1000x-exchange-papertrade-by-moving-hyperliquids-eth-prices-418239",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-11T22:26:02+00:00",
+      "raw_text": "Trader nets $1.28 million on new 1,000x exchange Papertrade by moving Hyperliquid’s ETH prices\n\nThe same wallet later lost $450,000 when 30 short positions were liquidated on Saturday night after staying open for more than three hours.",
+      "impact": {}
+    },
     {
       "event_id": "8bbd2832-939b-4fa9-bc15-42007ec60d5c",
       "source": "rss:coindesk",
@@ -20,10 +44,16 @@
       "url": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230",
       "event_type": "hack",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-10-11T18:07:41+00:00",
       "raw_text": "XRP Ledger patches decade-old bug that could have minted trillions of XRP\n\nAn overflow bug in the XRP Ledger's payment engine could have let an attacker mint about 18 trillion spendable XRP in one transaction.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.284,
+        "t_plus_15m": 0.3155,
+        "t_plus_1h": -0.1706
+      }
     },
     {
       "event_id": "c9d2a572-993a-4bc2-8067-8fc6ce5e148b",
@@ -6355,55 +6385,24 @@
       "timestamp_utc": "2026-10-02T10:29:35+00:00",
       "raw_text": "CONNECT recap: Arthur Hayes on money printing, Wall Street moves onchain\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CONNECT recap: Arthur Hayes on money printing, Wall Street moves onchain\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
       "impact": {}
-    },
-    {
-      "event_id": "9d2707f4-502c-43b7-944f-27795ddf753b",
-      "source": "rss:theblock",
-      "title": "ECB outlines three models for putting central bank money onchain",
-      "url": "https://www.theblock.co/news/regulation/2026-10-02-ecb-outlines-three-models-for-putting-central-bank-money-onchain-417552",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-02T10:17:39+00:00",
-      "raw_text": "ECB outlines three models for putting central bank money onchain\n\nThe ECB outlined three models for bringing central bank money onchain as financial institutions explore settlement infrastructure.",
-      "impact": {}
-    },
-    {
-      "event_id": "cd7011d1-a039-472f-9a41-6e31ce14699e",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin reaches for $87K as short liquidations top $120M",
-      "url": "https://cointelegraph.com/markets/bitcoin-87k-order-book-liquidity-wall-shifts-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-10-02T09:37:06+00:00",
-      "raw_text": "Bitcoin reaches for $87K as short liquidations top $120M\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin reaches for $87K as short liquidations top $120M \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XVAAGW8Q0D84XWS8J7",
-      "impact": {
-        "t_plus_5m": 0.4575,
-        "t_plus_15m": 0.454,
-        "t_plus_1h": 0.5493,
-        "t_plus_4h": 1.0999
-      }
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 166,
-        "avg_1h": 0.2,
-        "avg_24h": -0.11,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 36,
-        "avg_1h": -0.19,
+        "count": 37,
+        "avg_1h": -0.18,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
+      "unknown": {
+        "count": 166,
+        "avg_1h": 0.18,
+        "avg_24h": -0.11,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
-        "count": 154,
+        "count": 153,
         "avg_1h": -0.08,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
