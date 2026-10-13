@@ -1,6 +1,510 @@
 {
-  "generated_at": "2026-10-13T15:53:50.896748+00:00",
+  "generated_at": "2026-10-13T21:11:51.888267+00:00",
   "events": [
+    {
+      "event_id": "c3c26331-5c29-4a6b-9600-3007332418d7",
+      "source": "rss:decrypt",
+      "title": "Trezor Cuts Its Resellers After Ledger Finds Spy Implant in Crypto Wallets",
+      "url": "https://decrypt.co/380848/trezor-cuts-resellers-ledger-finds-spy-implant-crypto-wallets",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T16:14:50+00:00",
+      "raw_text": "Trezor Cuts Its Resellers After Ledger Finds Spy Implant in Crypto Wallets\n\nTrezor is ending reseller authorizations on January 1, 2027, after Ledger confirmed that wallets sold by a Southeast Asian retailer carried a hidden implant that sent out users' recovery phrases.",
+      "impact": {}
+    },
+    {
+      "event_id": "c19ee67e-6cbd-4dd4-87fe-ca8c70726760",
+      "source": "rss:bitcoinmagazine",
+      "title": "Trezor Reduces Number of Resellers Following Ledger Drainage Incident",
+      "url": "https://bitcoinmagazine.com/news/trezor-reduces-resellers-after-ledger-mess",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T16:01:03+00:00",
+      "raw_text": "Trezor Reduces Number of Resellers Following Ledger Drainage Incident\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Generic-Trezor-photo.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a h",
+      "impact": {}
+    },
+    {
+      "event_id": "6a92caed-123d-4312-b81a-495afdce088e",
+      "source": "rss:theblock",
+      "title": "Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger",
+      "url": "https://www.theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T16:00:00+00:00",
+      "raw_text": "Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger\n\nDevelopers can now build XRPL wallets into apps via Privy, with support for XRP, RLUSD, AI agent payments and x402.",
+      "impact": {}
+    },
+    {
+      "event_id": "bf4d9cb7-c0df-44f4-a5ee-6fe5551927ab",
+      "source": "rss:cointelegraph",
+      "title": "Strive reports $208M in warrant exercises as Bitcoin holdings jump 11%",
+      "url": "https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T15:57:55+00:00",
+      "raw_text": "Strive reports $208M in warrant exercises as Bitcoin holdings jump 11%\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strive reports $208M in warrant exercises as Bitcoin holdings jump 11% \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/20",
+      "impact": {}
+    },
+    {
+      "event_id": "34064ecf-e2aa-410d-9d1b-16ae0808328c",
+      "source": "rss:coindesk",
+      "title": "Crypto exchange MNX takes on OKX, BitGet offering pre-IPO futures for AI giants",
+      "url": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T15:52:09+00:00",
+      "raw_text": "Crypto exchange MNX takes on OKX, BitGet offering pre-IPO futures for AI giants",
+      "impact": {}
+    },
+    {
+      "event_id": "e5f4f754-e0b2-4aef-934d-58df2918b0be",
+      "source": "rss:bitcoinmagazine",
+      "title": "Strive Buys More Bitcoin, Crosses 30,000 BTC Mark",
+      "url": "https://bitcoinmagazine.com/news/strive-buys-more-bitcoin-to-hit-30000-btc",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T15:48:14+00:00",
+      "raw_text": "Strive Buys More Bitcoin, Crosses 30,000 BTC Mark\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strive-ASST-Holds-19864-BTC-With-No-New-Purchases-Last-Week-Balance-Sheet-Hits-141.7M-Cash-.jpg\" styl",
+      "impact": {}
+    },
+    {
+      "event_id": "787332cf-0344-4efd-afab-1c46de7b1476",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off",
+      "url": "https://cointelegraph.com/markets/bitcoin-keeps-up-pressure-on-84k-as-us-stocks-sidestep-korea-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T15:27:32+00:00",
+      "raw_text": "Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
+      "impact": {}
+    },
+    {
+      "event_id": "74e20711-f84f-42c1-878a-cea7a9e15dd3",
+      "source": "rss:coindesk",
+      "title": "UK crypto trader says almost $800,000 lost in knife attack as wrench attacks proliferate",
+      "url": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T15:24:52+00:00",
+      "raw_text": "UK crypto trader says almost $800,000 lost in knife attack as wrench attacks proliferate",
+      "impact": {}
+    },
+    {
+      "event_id": "baf4a2f7-285f-4dfa-8767-c03578afbdc9",
+      "source": "rss:theblock",
+      "title": "Interactive Brokers expands crypto services with Ethereum staking via Zerohash",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-13-interactive-brokers-ethereum-staking-zerohash-418457",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T15:24:14+00:00",
+      "raw_text": "Interactive Brokers expands crypto services with Ethereum staking via Zerohash\n\nInteractive Brokers now lets eligible clients stake ETH through its Client Portal, with zerohash providing the service.",
+      "impact": {}
+    },
+    {
+      "event_id": "e582ca86-2f3b-4bf1-953f-ee6585414fbc",
+      "source": "rss:theblock",
+      "title": "DRW and Marex complete OTC swap referencing tokenized S&P iBoxx Index",
+      "url": "https://www.theblock.co/news/markets/2026-10-13-drw-marex-first-otc-swap-tokenized-sp-iboxx-index-canton-network-418440",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T15:00:29+00:00",
+      "raw_text": "DRW and Marex complete OTC swap referencing tokenized S&P iBoxx Index\n\nDRW and Marex completed the first OTC swap referencing a fully tokenized index on Derivnex via the Canton Network, with Kaiko data.",
+      "impact": {}
+    },
+    {
+      "event_id": "3751aff1-8b77-4e95-b5d8-8ef7e6646f72",
+      "source": "rss:decrypt",
+      "title": "AI Powered PlayStation Crack Could Let You Play GTA 6 on PC at Launch",
+      "url": "https://decrypt.co/380833/ai-powered-playstation-crack-could-let-you-play-gta-6-on-pc-at-launch",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T14:51:28+00:00",
+      "raw_text": "AI Powered PlayStation Crack Could Let You Play GTA 6 on PC at Launch\n\nAnyPS5 is working to get any PS5 game running natively on PC—and gamers are hoping it'll work for the next instalment of Grand Theft Auto.",
+      "impact": {}
+    },
+    {
+      "event_id": "7a0bd010-fc36-49b3-b3d1-7bb050cccd9d",
+      "source": "rss:theblock",
+      "title": "Ledger confirms hardware implant in CryptoBilis reseller units as MediaMarkt suspends sales in Europe",
+      "url": "https://www.theblock.co/news/business/2026-10-13-ledger-confirms-hardware-implant-cryptobilis-reseller-units-mediamarkt-suspends-sales-europe-418442",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T14:45:08+00:00",
+      "raw_text": "Ledger confirms hardware implant in CryptoBilis reseller units as MediaMarkt suspends sales in Europe\n\nLedger confirmed a hardware implant in CryptoBilis-sold devices steals recovery phrases, as MediaMarkt suspends sales.",
+      "impact": {}
+    },
+    {
+      "event_id": "de65f0a9-0e87-4425-973f-26fdb1a59fdd",
+      "source": "rss:cointelegraph",
+      "title": "Anthropic warns ‘AI worms’ may autonomously spread across devices like a virus",
+      "url": "https://cointelegraph.com/news/anthropic-ai-worms-autonomously-spread-devices-virus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T13:55:09+00:00",
+      "raw_text": "Anthropic warns ‘AI worms’ may autonomously spread across devices like a virus\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Anthropic warns ‘AI worms’ may autonomously spread across devices like a virus \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/a",
+      "impact": {}
+    },
+    {
+      "event_id": "74d14bd7-fcb3-482e-9062-8e0bd55c5cc3",
+      "source": "rss:theblock",
+      "title": "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January",
+      "url": "https://www.theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T13:42:25+00:00",
+      "raw_text": "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January\n\nStrive added 3,311 BTC between Oct. 5 and Oct. 9, bringing holdings to 32,773 BTC and narrowing the gap with MARA.",
+      "impact": {}
+    },
+    {
+      "event_id": "5f59a162-6cbb-482b-b87e-33bb8538d963",
+      "source": "rss:cointelegraph",
+      "title": "Is Bitcoin kidding itself about the Lightning Network?",
+      "url": "https://cointelegraph.com/magazine/is-bitcoin-kidding-itself-about-the-lightning-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T13:30:00+00:00",
+      "raw_text": "Is Bitcoin kidding itself about the Lightning Network?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Is Bitcoin kidding itself about the Lightning Network?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4G9K7C73KY8G43Y46W76Q1Z/",
+      "impact": {}
+    },
+    {
+      "event_id": "6905b656-679d-4256-960a-bf16f9fb23e7",
+      "source": "rss:bitcoinmagazine",
+      "title": "Alex Gladstein: How The Bitcoin-AI Convergence Impacts the Fight for Freedom",
+      "url": "https://bitcoinmagazine.com/videos/alex-gladstein-how-the-bitcoin-ai-convergence-impacts-the-fight-for-freedom",
+      "event_type": "hack",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T13:24:43+00:00",
+      "raw_text": "Alex Gladstein: How The Bitcoin-AI Convergence Impacts the Fight for Freedom\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Alex-Gladstein-How-The-Bitcoin-AI-Convergence-Impacts-the-Fight-for-Freedo",
+      "impact": {}
+    },
+    {
+      "event_id": "60408d38-d0e2-410f-84c9-3c9912d1d6ef",
+      "source": "rss:cointelegraph",
+      "title": "Digital cash offers ‘cash-like privacy,’ but bank data breaches threaten users: BIS",
+      "url": "https://cointelegraph.com/news/bis-digital-cash-privacy-bank-data-breaches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T13:17:17+00:00",
+      "raw_text": "Digital cash offers ‘cash-like privacy,’ but bank data breaches threaten users: BIS\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Digital cash offers ‘cash-like privacy,’ but bank data breaches threaten users: BIS\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i",
+      "impact": {}
+    },
+    {
+      "event_id": "ba1bdecb-8483-4adf-afe3-094c9cc5f33f",
+      "source": "rss:bitcoinmagazine",
+      "title": "Matt Dines: Why a Rising Dollar is Bullish for Bitcoin",
+      "url": "https://bitcoinmagazine.com/videos/matt-dines-why-a-rising-dollar-is-bullish-for-bitcoin",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T13:17:03+00:00",
+      "raw_text": "Matt Dines: Why a Rising Dollar is Bullish for Bitcoin\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Matt-Dines-Why-a-Rising-Dollar-is-Bullish-for-Bitcoin-.jpg\" style=\"display: block; margin: 1em a",
+      "impact": {}
+    },
+    {
+      "event_id": "fc3409e5-b139-4934-a14f-a1b1ceae94c6",
+      "source": "rss:cointelegraph",
+      "title": "Russia clears Sberbank for crypto trading ahead of December launch",
+      "url": "https://cointelegraph.com/news/sberbank-russia-crypto-trading-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T12:22:24+00:00",
+      "raw_text": "Russia clears Sberbank for crypto trading ahead of December launch\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Russia clears Sberbank for crypto trading ahead of December launch\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M",
+      "impact": {}
+    },
+    {
+      "event_id": "b2d3df77-2a87-4eb9-8009-7c39b5908626",
+      "source": "rss:coindesk",
+      "title": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
+      "url": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T11:58:04+00:00",
+      "raw_text": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
+      "impact": {}
+    },
+    {
+      "event_id": "e841c77d-a8c7-4c49-843e-47bc532f8f54",
+      "source": "rss:coindesk",
+      "title": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
+      "url": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T11:56:04+00:00",
+      "raw_text": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
+      "impact": {}
+    },
+    {
+      "event_id": "9f45db8c-7b66-4e59-928b-dfe64e7f81b4",
+      "source": "rss:decrypt",
+      "title": "Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain",
+      "url": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T11:53:15+00:00",
+      "raw_text": "Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain\n\nLedger says the hidden chip reads the 24-word phrase off the screen during setup, leaving the Secure Element and its software untouched.",
+      "impact": {}
+    },
+    {
+      "event_id": "bf47a21c-3a82-4354-900d-a1f1d08b4f9e",
+      "source": "rss:theblock",
+      "title": "Binance to shut down mining pool, cloud mining and related services",
+      "url": "https://www.theblock.co/news/business/2026-10-13-binance-to-shut-down-mining-pool-cloud-mining-and-related-services-418410",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T11:40:56+00:00",
+      "raw_text": "Binance to shut down mining pool, cloud mining and related services\n\nBinance said it will shut down its mining pool, cloud mining, and Pool Savings services on Nov. 10.",
+      "impact": {}
+    },
+    {
+      "event_id": "34bff7f4-fa9d-4050-be42-1e8a42152c24",
+      "source": "rss:decrypt",
+      "title": "Morning Minute: Bitcoin Gets Spooked as ‘Uptober’ Lets Down",
+      "url": "https://decrypt.co/380828/morning-minute-bitcoin-gets-spooked-as-uptober-lets-down",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T11:40:51+00:00",
+      "raw_text": "Morning Minute: Bitcoin Gets Spooked as ‘Uptober’ Lets Down\n\nCrypto majors are red, alts are down bad and onchain is facing capitulation. This was not the ‘Uptober’ that was promised…",
+      "impact": {}
+    },
+    {
+      "event_id": "6a792023-1148-455c-85b6-b5478d08e473",
+      "source": "rss:theblock",
+      "title": "UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin",
+      "url": "https://www.theblock.co/news/regulation/2026-10-13-uk-high-court-rules-chinese-law-governs-claims-over-5-billion-in-seized-bitcoin-418409",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T11:38:19+00:00",
+      "raw_text": "UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin\n\nA UK judge ruled Chinese law applies to victims' claims over 61,000 seized bitcoin, leaving ownership undecided.",
+      "impact": {}
+    },
+    {
+      "event_id": "f383c667-0fef-4120-a67c-1badb50b57a7",
+      "source": "rss:coindesk",
+      "title": "Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T11:26:45+00:00",
+      "raw_text": "Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks",
+      "impact": {}
+    },
+    {
+      "event_id": "d3ed6257-5bb8-4234-a837-d48c43221579",
+      "source": "rss:cointelegraph",
+      "title": "ENS seeks DAO approval to activate upgraded Ethereum naming system",
+      "url": "https://cointelegraph.com/news/ens-dao-ensv2-upgrade-eth-domain-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T11:11:27+00:00",
+      "raw_text": "ENS seeks DAO approval to activate upgraded Ethereum naming system\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ENS seeks DAO approval to activate upgraded Ethereum naming system\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M",
+      "impact": {}
+    },
+    {
+      "event_id": "587e5f5a-5acb-4b5b-b301-11b8ebc91afb",
+      "source": "rss:coindesk",
+      "title": "Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns",
+      "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-ether-slip-and-rebound-as-south-korean-stocks-slide-on-ai-related-concerns",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T11:06:39+00:00",
+      "raw_text": "Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns",
+      "impact": {}
+    },
+    {
+      "event_id": "5bcebb84-72ed-40f6-8866-31ac4118f106",
+      "source": "rss:coindesk",
+      "title": "Russia’s largest bank Sberbank secures approval to trade crypto",
+      "url": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T11:02:47+00:00",
+      "raw_text": "Russia’s largest bank Sberbank secures approval to trade crypto",
+      "impact": {}
+    },
+    {
+      "event_id": "27550a92-070c-47e8-9e97-d4049f7937a8",
+      "source": "rss:bitcoinmagazine",
+      "title": "Now Accepting Bitcoin: Moonflower Coffee and 300+ Colorado Bitcoin Merchants",
+      "url": "https://bitcoinmagazine.com/culture/moonflower-colorado-bitcoin-merchants",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T11:00:00+00:00",
+      "raw_text": "Now Accepting Bitcoin: Moonflower Coffee and 300+ Colorado Bitcoin Merchants\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/IMG_2059-scaled.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a",
+      "impact": {}
+    },
+    {
+      "event_id": "91b42825-47f8-443a-8967-3619f7be2f2e",
+      "source": "rss:decrypt",
+      "title": "UK Moves Closer to Keeping $5B Bitcoin Haul After High Court Ruling",
+      "url": "https://decrypt.co/380818/uk-moves-closer-to-keeping-5b-bitcoin-haul-after-high-court-ruling",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T10:51:33+00:00",
+      "raw_text": "UK Moves Closer to Keeping $5B Bitcoin Haul After High Court Ruling\n\nA judge ruled that Chinese law should govern fraud victims' claims to the 61,000 BTC seized from Zhimin Qian, in a blow to the claimants.",
+      "impact": {}
+    },
+    {
+      "event_id": "9b3309f6-5357-4c9f-800a-0ce6615632ee",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin trading in tight range near $83,000 ahead of key U.S. inflation data",
+      "url": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T10:46:57+00:00",
+      "raw_text": "Live updates: Bitcoin trading in tight range near $83,000 ahead of key U.S. inflation data",
+      "impact": {}
+    },
+    {
+      "event_id": "ee9f0218-4c1e-4358-b9d7-101e5341702a",
+      "source": "rss:coindesk",
+      "title": "Bitcoin diverges from South Korean stocks as AI concerns deepen the Kospi selloff",
+      "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-diverges-from-south-korean-stocks-as-ai-concerns-deepen-the-kospi-selloff",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T10:38:51+00:00",
+      "raw_text": "Bitcoin diverges from South Korean stocks as AI concerns deepen the Kospi selloff",
+      "impact": {}
+    },
+    {
+      "event_id": "db2ef9d1-3ca3-4689-9266-b6b8c7c6ff2d",
+      "source": "rss:decrypt",
+      "title": "‘Leave’: Crypto Backlash Over French Proposal to Report Wallets Over $112K",
+      "url": "https://decrypt.co/380808/leave-crypto-backlash-over-french-proposal-to-report-wallets-over-112k",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T10:30:37+00:00",
+      "raw_text": "‘Leave’: Crypto Backlash Over French Proposal to Report Wallets Over $112K\n\nThe proposal would require crypto owners to report holdings over €100,000, sparking concerns following a wave of \"wrench attacks\" in France.",
+      "impact": {}
+    },
+    {
+      "event_id": "5f28489c-ce53-495b-8811-7bca56cd274e",
+      "source": "rss:cointelegraph",
+      "title": "Metaplanet to issue $329M convertible bonds to pay debt, fund share buybacks",
+      "url": "https://cointelegraph.com/news/metaplanet-329m-convertible-bonds-pay-debt-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T10:23:07+00:00",
+      "raw_text": "Metaplanet to issue $329M convertible bonds to pay debt, fund share buybacks\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Metaplanet to issue $329M convertible bonds to pay debt, fund share buybacks \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/artic",
+      "impact": {}
+    },
+    {
+      "event_id": "272df54a-c887-400e-98ae-083f6180f0b6",
+      "source": "rss:cointelegraph",
+      "title": "MediaMarktSaturn pulls Ledger products amid tampering reports",
+      "url": "https://cointelegraph.com/news/mediamarkt-pulls-ledger-wallet-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T10:09:01+00:00",
+      "raw_text": "MediaMarktSaturn pulls Ledger products amid tampering reports\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MediaMarktSaturn pulls Ledger products amid tampering reports\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4T9QMPRVPN",
+      "impact": {}
+    },
+    {
+      "event_id": "e838ba3c-f2ce-4224-8305-fcfb18fbd36a",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin hits $84K resistance as Korean tech rout deepens KOSPI losses",
+      "url": "https://cointelegraph.com/markets/bitcoin-hits-84k-resistance-as-korea-tech-sell-off-sends-kospi-down-74?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T09:42:00+00:00",
+      "raw_text": "Bitcoin hits $84K resistance as Korean tech rout deepens KOSPI losses\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin hits $84K resistance as Korean tech rout deepens KOSPI losses\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/",
+      "impact": {}
+    },
+    {
+      "event_id": "5e2b7adb-930b-459b-9c60-a103c03af7c9",
+      "source": "rss:coindesk",
+      "title": "Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network",
+      "url": "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T09:27:47+00:00",
+      "raw_text": "Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network",
+      "impact": {}
+    },
+    {
+      "event_id": "911cb51d-07a3-4a94-85a1-a1d73c679cb2",
+      "source": "rss:coindesk",
+      "title": "UK court ruling boosts government’s chances of keeping $5 billion in seized bitcoin",
+      "url": "https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T09:25:03+00:00",
+      "raw_text": "UK court ruling boosts government’s chances of keeping $5 billion in seized bitcoin",
+      "impact": {}
+    },
+    {
+      "event_id": "ef17957a-3aa4-4c81-a065-3614c311432a",
+      "source": "rss:decrypt",
+      "title": "NFT Marketplace Blur to Shut Down Website, Stop New Blend Loans Next Month",
+      "url": "https://decrypt.co/380802/nft-marketplace-blur-to-shut-down-website-stop-new-blend-loans-next-month",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T09:12:45+00:00",
+      "raw_text": "NFT Marketplace Blur to Shut Down Website, Stop New Blend Loans Next Month\n\nThe shutdown comes as NFT trading volumes have collapsed from their 2021-2022 peak, with market revenue projected at $318 million this year.",
+      "impact": {}
+    },
+    {
+      "event_id": "3d07a9bf-e159-4e8e-ad53-6a57b7440ecd",
+      "source": "rss:cointelegraph",
+      "title": "Chinese fraud victims lose key court battle over 61,000 Bitcoin",
+      "url": "https://cointelegraph.com/news/uk-court-chinese-law-61k-bitcoin-fraud-victims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T09:03:06+00:00",
+      "raw_text": "Chinese fraud victims lose key court battle over 61,000 Bitcoin\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Chinese fraud victims lose key court battle over 61,000 Bitcoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4T4SNJ",
+      "impact": {}
+    },
+    {
+      "event_id": "7c09494f-c51b-4c25-8146-b4ad79d3aa8d",
+      "source": "rss:cointelegraph",
+      "title": "Ledger details LTE-enabled spy implants in wallets sold by CryptoBilis",
+      "url": "https://cointelegraph.com/news/ledger-cellular-implants-wallets-sold-cryptobilis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T08:45:10+00:00",
+      "raw_text": "Ledger details LTE-enabled spy implants in wallets sold by CryptoBilis\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ledger details LTE-enabled spy implants in wallets sold by CryptoBilis \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/20",
+      "impact": {}
+    },
     {
       "event_id": "d14905d5-b29e-4ec9-8a58-807780168779",
       "source": "rss:coindesk",
@@ -44,10 +548,17 @@
       "url": "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-10-13T05:27:17+00:00",
       "raw_text": "Tokenized SanDisk bets saw more liquidations than XRP as Asia’s chip rout wipes out $800 million",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.777,
+        "t_plus_15m": -0.7932,
+        "t_plus_1h": -0.27,
+        "t_plus_4h": -1.0859
+      }
     },
     {
       "event_id": "b6cd6269-36c7-4100-a4e4-21667f164e3c",
@@ -80,9 +591,28 @@
       "url": "https://www.theblock.co/news/markets/2026-10-13-bitcoin-whale-moves-378-million-418383",
       "event_type": "whale_move",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-10-13T04:18:30+00:00",
       "raw_text": "Bitcoin whale moves $378 million in BTC after six years of dormancy: onchain data\n\nThe wallet originally received 4,582 BTC in March 2020, when the holdings were worth roughly $40.8 million.",
+      "impact": {
+        "t_plus_5m": -0.663,
+        "t_plus_15m": -0.6015,
+        "t_plus_1h": -0.3248,
+        "t_plus_4h": 0.0305
+      }
+    },
+    {
+      "event_id": "f35185d5-7d05-494a-8bb8-46ddb5e238a9",
+      "source": "rss:coindesk",
+      "title": "Bitcoin rebounds above $83,000, decoupling from tumbling Korean stocks",
+      "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-13T04:18:20+00:00",
+      "raw_text": "Bitcoin rebounds above $83,000, decoupling from tumbling Korean stocks",
       "impact": {}
     },
     {
@@ -650,10 +1180,14 @@
       "url": "https://www.theblock.co/news/business/2026-10-12-theres-always-room-for-more-orange-michael-saylors-strategy-scoops-up-another-250-bitcoin-for-21-5-million-as-holdings-reach-848250-btc-418275",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-10-12T12:13:45+00:00",
       "raw_text": "‘There’s always room for more orange’: Michael Saylor’s Strategy scoops up another 250 bitcoin for $21.5 million as holdings reach 848,250 BTC\n\nStrategy's total holdings account for around 4% of the 21 million bitcoin supply cap — worth roughly $71 billion.",
-      "impact": {}
+      "impact": {
+        "t_plus_24h": 1.1872
+      }
     },
     {
       "event_id": "415b2f58-7cad-41c7-b447-c53559ddc6a8",
@@ -5868,623 +6402,43 @@
       "timestamp_utc": "2026-10-05T19:15:22+00:00",
       "raw_text": "Advocacy group pushes back on banks’ lawsuit against OCC over charters\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Advocacy group pushes back on banks’ lawsuit against OCC over charters\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/202",
       "impact": {}
-    },
-    {
-      "event_id": "eb029424-d747-4025-af5c-b01931ab4de2",
-      "source": "rss:decrypt",
-      "title": "Crypto Sleuth ZachXBT Fronted $350K to Pose as a Client of Lazarus' Chinese Launderers",
-      "url": "https://decrypt.co/380092/zachxbt-fronted-350k-pose-client-lazarus-chinese-crypto-launderers",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T18:46:02+00:00",
-      "raw_text": "Crypto Sleuth ZachXBT Fronted $350K to Pose as a Client of Lazarus' Chinese Launderers\n\nThe on-chain sleuth says he posed as a customer of a Chinese crime syndicate, fronting $349,700 and eating 5% on every order, to track Lazarus Group's Bybit loot in real time.",
-      "impact": {}
-    },
-    {
-      "event_id": "573cee6c-5fe3-4420-8143-e14920d90634",
-      "source": "rss:decrypt",
-      "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
-      "url": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T18:12:28+00:00",
-      "raw_text": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading\n\nThe agency approved a Cboe rule letting six Volatility Shares funds that triple the daily moves of Bitcoin, Ethereum, gold, silver, oil, and natural gas list on a U.S. exchange.",
-      "impact": {}
-    },
-    {
-      "event_id": "b8c1a48b-f817-4f28-8877-c2dac08295e1",
-      "source": "rss:cointelegraph",
-      "title": "S&P Global brings risk assessments to growing crypto lending vault sector",
-      "url": "https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T17:58:58+00:00",
-      "raw_text": "S&P Global brings risk assessments to growing crypto lending vault sector\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"S&amp;P Global brings risk assessments to growing crypto lending vault sector\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-",
-      "impact": {}
-    },
-    {
-      "event_id": "2464f692-de3c-4c56-8a9b-1b4fc6b81f81",
-      "source": "rss:cointelegraph",
-      "title": "CFTC joins SEC in proposing crypto framework after failed CLARITY vote",
-      "url": "https://cointelegraph.com/news/cftc-proposed-crypto-framework-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T17:40:23+00:00",
-      "raw_text": "CFTC joins SEC in proposing crypto framework after failed CLARITY vote\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC joins SEC in proposing crypto framework after failed CLARITY vote\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/202",
-      "impact": {}
-    },
-    {
-      "event_id": "3c576a9a-c1b6-435f-9d92-e337fc3c4fe3",
-      "source": "rss:theblock",
-      "title": "Treasury withdraws crypto mixing rule, citing concerns over ‘chilling effect on legitimate activity’",
-      "url": "https://www.theblock.co/news/regulation/2026-10-05-fincen-drops-crypto-mixing-rule-self-hosted-wallet-proposal-417690",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T17:22:37+00:00",
-      "raw_text": "Treasury withdraws crypto mixing rule, citing concerns over ‘chilling effect on legitimate activity’\n\nFinCEN is withdrawing a proposal that would've designated crypto mixing a \"primary money laundering concern\" under the PATRIOT Act.",
-      "impact": {}
-    },
-    {
-      "event_id": "bd36df5c-892a-491c-8e53-5f0d587f01b5",
-      "source": "rss:coindesk",
-      "title": "More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here’s how it works",
-      "url": "https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T17:18:14+00:00",
-      "raw_text": "More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here’s how it works",
-      "impact": {}
-    },
-    {
-      "event_id": "d3bbd088-00d5-4747-85f1-df0f49ed9d1a",
-      "source": "rss:cointelegraph",
-      "title": "Treasury yields at 5% threaten extending Bitcoin’s best quarter since 2017",
-      "url": "https://cointelegraph.com/markets/bitcoin-q3-rally-treasury-yields-fed-rate-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T16:53:08+00:00",
-      "raw_text": "Treasury yields at 5% threaten extending Bitcoin’s best quarter since 2017\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Treasury yields at 5% threaten extending Bitcoin’s best quarter since 2017\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-co",
-      "impact": {}
-    },
-    {
-      "event_id": "b626a648-8c6e-486d-a214-1c370c6d19d8",
-      "source": "rss:theblock",
-      "title": "Umia raises $6.1 million at $18 million FDV to help crypto projects launch tokens",
-      "url": "https://www.theblock.co/news/business/2026-10-05-umia-raises-6-1-million-at-18-million-fdv-to-help-crypto-projects-launch-tokens-417717",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T16:49:15+00:00",
-      "raw_text": "Umia raises $6.1 million at $18 million FDV to help crypto projects launch tokens\n\nUmia raised $6.11 million through a seven-day auction of its UMIA token, with ten funds and nearly 700 individual bidders taking part.",
-      "impact": {}
-    },
-    {
-      "event_id": "c5636db0-d35d-4b3d-9dde-96270404b4d2",
-      "source": "rss:decrypt",
-      "title": "CFTC Unveils Plan to Bring Crypto Exchanges Under Federal Oversight",
-      "url": "https://decrypt.co/380090/cftc-plan-crypto-exchanges-federal-oversight-leverage",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T16:46:03+00:00",
-      "raw_text": "CFTC Unveils Plan to Bring Crypto Exchanges Under Federal Oversight\n\nThe CFTC is seeking public comment on a framework that would create a new federal license for crypto exchanges, with leverage offers as the trigger for oversight.",
-      "impact": {}
-    },
-    {
-      "event_id": "1397f53a-62ef-453c-bc53-fb2f5d743e24",
-      "source": "rss:decrypt",
-      "title": "Bitcoin Just Flashed a Second, Stronger Golden Cross: Here's What That Means",
-      "url": "https://decrypt.co/380067/bitcoin-price-golden-cross-fed-rate",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T16:10:00+00:00",
-      "raw_text": "Bitcoin Just Flashed a Second, Stronger Golden Cross: Here's What That Means\n\nThe Bitcoin rally keeps bumping into the same wall, but a classic bullish signal suggests the trend is built to last.",
-      "impact": {}
-    },
-    {
-      "event_id": "80a525be-eafa-47e2-a916-55f9a5c58e35",
-      "source": "rss:theblock",
-      "title": "CFTC proposes new federal framework for leveraged retail crypto trading",
-      "url": "https://www.theblock.co/news/markets/2026-10-05-cftc-rulemaking-leveraged-retail-crypto-trading-regulation-ctx-cam-417701",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T16:09:02+00:00",
-      "raw_text": "CFTC proposes new federal framework for leveraged retail crypto trading\n\nThe CFTC launched rulemaking on leveraged and margined retail crypto trading, proposing Regulation CTX and CAM and a new \"crypto asset market\" exchange.",
-      "impact": {}
-    },
-    {
-      "event_id": "91ceb828-aac3-413a-835a-e34df3378258",
-      "source": "rss:decrypt",
-      "title": "NEXTPredict Founder: 'Nobody Was Serving' Prediction Markets' Enormous Audience",
-      "url": "https://decrypt.co/379935/nextpredict-founder-nobody-was-serving-prediction-markets-enormous-audience",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T16:03:03+00:00",
-      "raw_text": "NEXTPredict Founder: 'Nobody Was Serving' Prediction Markets' Enormous Audience\n\nReporters from CNBC and CNN are on the program beside the exchanges, two weeks before the midterms put the sector on air.",
-      "impact": {}
-    },
-    {
-      "event_id": "46333c86-7c83-422e-886b-bfa124abedd4",
-      "source": "rss:coindesk",
-      "title": "U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap lingers",
-      "url": "https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T15:54:23+00:00",
-      "raw_text": "U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap lingers",
-      "impact": {}
-    },
-    {
-      "event_id": "b70e6c74-0ff4-4e47-97a0-c6fc1ef260bc",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin price fails to break higher after best weekly close in eight months",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-fails-to-break-higher-after-best-weekly-close-in-eight-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T15:09:57+00:00",
-      "raw_text": "Bitcoin price fails to break higher after best weekly close in eight months\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price fails to break higher after best weekly close in eight months\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-",
-      "impact": {}
-    },
-    {
-      "event_id": "c485b546-c494-4515-97e6-6721af16c7cc",
-      "source": "rss:theblock",
-      "title": "Strive adds 2,000 bitcoin in biggest buy since June, closes in on MARA",
-      "url": "https://www.theblock.co/news/business/2026-10-05-strive-adds-2000-bitcoin-biggest-buy-since-june-closes-in-mara-417677",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T15:03:54+00:00",
-      "raw_text": "Strive adds 2,000 bitcoin in biggest buy since June, closes in on MARA\n\nStrive’s bitcoin holdings near 30,000 BTC as the race among the largest public treasuries heats up.",
-      "impact": {}
-    },
-    {
-      "event_id": "48c8eb0b-5fe7-4f90-b408-389f89a8907c",
-      "source": "rss:decrypt",
-      "title": "Bitmine Buys $41M More Ethereum, Reaching 99% of Its 'Alchemy of 5%' Target",
-      "url": "https://decrypt.co/380059/bitmine-41m-more-ethereum-alchemy-of-5-target",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T14:54:17+00:00",
-      "raw_text": "Bitmine Buys $41M More Ethereum, Reaching 99% of Its 'Alchemy of 5%' Target\n\nThe purchase lifts Bitmine's stash past 6 million ETH—4.9% of supply and 99% of the way to its \"Alchemy of 5%\" goal—as chairman Tom Lee says Ethereum is \"dwarfing\" other macro assets.",
-      "impact": {}
-    },
-    {
-      "event_id": "f3445fd4-4700-46ba-809a-3159aaacb593",
-      "source": "rss:theblock",
-      "title": "DeFi Development sees NAV per share more than doubling, holds 2.56 million SOL",
-      "url": "https://www.theblock.co/news/markets/2026-10-05-defi-development-nav-per-share-doubles-2-56-million-sol-417674",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "SOL"
-      ],
-      "timestamp_utc": "2026-10-05T14:33:14+00:00",
-      "raw_text": "DeFi Development sees NAV per share more than doubling, holds 2.56 million SOL\n\nDFDV says preliminary Q3 estimates show NAV per share more than doubled as its Solana treasury grew to 2.56 million SOL.",
-      "impact": {
-        "t_plus_5m": -1.0808,
-        "t_plus_15m": -0.8595,
-        "t_plus_1h": -1.1523,
-        "t_plus_4h": -0.5222
-      }
-    },
-    {
-      "event_id": "6ab40823-6ed9-4287-91c3-7cba6d353103",
-      "source": "rss:coindesk",
-      "title": "Stripe to expand stablecoin cards to over 100 countries by the end of the year",
-      "url": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T13:46:31+00:00",
-      "raw_text": "Stripe to expand stablecoin cards to over 100 countries by the end of the year",
-      "impact": {}
-    },
-    {
-      "event_id": "e1b6596a-2d1d-4da1-80d3-e984e12fd7bc",
-      "source": "rss:theblock",
-      "title": "Tom Lee says ether ‘dwarfing other macro assets’ as Bitmine adds 15,112 ETH",
-      "url": "https://www.theblock.co/news/business/2026-10-05-tom-lee-says-ether-dwarfing-other-macro-assets-as-bitmine-adds-15112-eth-417660",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "ETH"
-      ],
-      "timestamp_utc": "2026-10-05T13:23:07+00:00",
-      "raw_text": "Tom Lee says ether ‘dwarfing other macro assets’ as Bitmine adds 15,112 ETH\n\nBitmine added 15,112 ETH as Chairman Tom Lee said Ethereum outperformed the S&amp;P 500 by 6,832 basis points in Q3.",
-      "impact": {
-        "t_plus_5m": 0.2923,
-        "t_plus_15m": 0.1954,
-        "t_plus_1h": 0.3068,
-        "t_plus_4h": -0.434
-      }
-    },
-    {
-      "event_id": "87cd5c6f-6d06-4635-95c8-d704584a6e67",
-      "source": "rss:cointelegraph",
-      "title": "Strategy opts for bigger spending on STRC buybacks over BTC purchases",
-      "url": "https://cointelegraph.com/news/strategy-848k-bitcoin-strc-buybacks-outpace-btc-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-10-05T13:22:16+00:00",
-      "raw_text": "Strategy opts for bigger spending on STRC buybacks over BTC purchases\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy opts for bigger spending on STRC buybacks over BTC purchases\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/",
-      "impact": {
-        "t_plus_5m": 0.3658,
-        "t_plus_15m": 0.2493,
-        "t_plus_1h": 0.7701,
-        "t_plus_4h": -0.5273
-      }
-    },
-    {
-      "event_id": "3b38e6b8-f94f-4ef0-9176-6e073209eb56",
-      "source": "rss:cointelegraph",
-      "title": "China P2P stablecoin wallets grew 43x despite crypto restrictions: Chainalysis",
-      "url": "https://cointelegraph.com/news/china-stablecoin-p2p-wallets-crypto-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T13:00:00+00:00",
-      "raw_text": "China P2P stablecoin wallets grew 43x despite crypto restrictions: Chainalysis\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"China P2P stablecoin wallets grew 43x despite crypto restrictions: Chainalysis\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/ar",
-      "impact": {}
-    },
-    {
-      "event_id": "dfb5e2a3-ae73-4486-ba75-a9b52d726061",
-      "source": "rss:decrypt",
-      "title": "Strategy Posts $21B Q3 Gain, Buys $29M in BTC, Repurchases $176M in STRC",
-      "url": "https://decrypt.co/380056/strategy-posts-21b-q3-gain-buys-29m-in-btc-repurchases-176m-in-strc",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-10-05T12:51:42+00:00",
-      "raw_text": "Strategy Posts $21B Q3 Gain, Buys $29M in BTC, Repurchases $176M in STRC\n\nThe firm's Bitcoin holdings hit a record 848,000 BTC, while the quarterly gain is a fair-value mark carrying $1.88 billion in deferred tax.",
-      "impact": {
-        "t_plus_5m": 0.1371,
-        "t_plus_15m": 0.3227,
-        "t_plus_1h": 0.6203,
-        "t_plus_4h": -0.6701
-      }
-    },
-    {
-      "event_id": "5555df84-5921-41e3-9920-ff5059435909",
-      "source": "rss:cointelegraph",
-      "title": "Too big to pause: Could an AI slowdown crash the economy?",
-      "url": "https://cointelegraph.com/magazine/too-big-to-pause-the-economic-stakes-of-an-ai-slowdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T12:30:00+00:00",
-      "raw_text": "Too big to pause: Could an AI slowdown crash the economy?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Too big to pause: Could an AI slowdown crash the economy?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M44MJKSS0BPAD0KZPMD",
-      "impact": {}
-    },
-    {
-      "event_id": "a333709f-d1d1-4a4e-a41b-b6a537c11991",
-      "source": "rss:cointelegraph",
-      "title": "Too big to pause: Could an AI slowdown crash the economy?",
-      "url": "https://cointelegraph.com/features/too-big-to-pause-the-economic-stakes-of-an-ai-slowdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T12:30:00+00:00",
-      "raw_text": "Too big to pause: Could an AI slowdown crash the economy?\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Too big to pause: Could an AI slowdown crash the economy?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M44MJKSS0BPAD0KZPMD",
-      "impact": {}
-    },
-    {
-      "event_id": "02b1c6be-e8b5-447c-a571-359e3be9e956",
-      "source": "rss:cointelegraph",
-      "title": "Metaplanet reveals net income strategy to fuel Bitcoin accumulation",
-      "url": "https://cointelegraph.com/news/metaplanet-net-income-strategy-bitcoin-accumulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T12:28:39+00:00",
-      "raw_text": "Metaplanet reveals net income strategy to fuel Bitcoin accumulation\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Metaplanet reveals net income strategy to fuel Bitcoin accumulation\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/0",
-      "impact": {}
-    },
-    {
-      "event_id": "46856baf-f746-4722-88b7-f0016110fdf4",
-      "source": "rss:coindesk",
-      "title": "An XRP treasury SPAC surges nearly 300% ahead of Evernorth merger",
-      "url": "https://www.coindesk.com/markets/2026/10/05/xrp-treasury-spac-surges-nearly-300-ahead-of-evernorth-merger",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-10-05T12:28:35+00:00",
-      "raw_text": "An XRP treasury SPAC surges nearly 300% ahead of Evernorth merger",
-      "impact": {
-        "t_plus_5m": 0.0404,
-        "t_plus_15m": -0.1386,
-        "t_plus_1h": 0.3402,
-        "t_plus_4h": -1.4018
-      }
-    },
-    {
-      "event_id": "6d3ef766-4f7d-4fc1-8fb9-b0f5364154b9",
-      "source": "rss:theblock",
-      "title": "‘More orange than ever’: Michael Saylor’s Strategy buys 334 bitcoin for $28.7 million as total holdings top 848,000 BTC",
-      "url": "https://www.theblock.co/news/business/2026-10-05-more-orange-than-ever-michael-saylor-strategy-bitcoin-417631",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-10-05T12:13:28+00:00",
-      "raw_text": "‘More orange than ever’: Michael Saylor’s Strategy buys 334 bitcoin for $28.7 million as total holdings top 848,000 BTC\n\nStrategy's total holdings account for around 4% of the 21 million bitcoin supply cap — worth roughly $73 billion.",
-      "impact": {
-        "t_plus_5m": 0.2684,
-        "t_plus_15m": 0.1864,
-        "t_plus_1h": 0.2803,
-        "t_plus_4h": -0.7255
-      }
-    },
-    {
-      "event_id": "a85f3f9b-f153-4bcb-9c42-0e2bc508d34a",
-      "source": "rss:theblock",
-      "title": "Metaplanet sold 10,000 BTC in Q3 before buying back 11,000 BTC to ‘demonstrate liquidity’",
-      "url": "https://www.theblock.co/news/business/2026-10-05-metaplanet-sold-10000-btc-in-q3-before-buying-back-11000-btc-to-demonstrate-liquidity-417640",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-10-05T12:04:15+00:00",
-      "raw_text": "Metaplanet sold 10,000 BTC in Q3 before buying back 11,000 BTC to ‘demonstrate liquidity’\n\nMetaplanet added a net 1,000 BTC during the third quarter as its total bitcoin holdings reached 44,000 BTC.",
-      "impact": {
-        "t_plus_5m": 0.2501,
-        "t_plus_15m": 0.2684,
-        "t_plus_1h": 0.2036,
-        "t_plus_4h": -0.7539,
-        "t_plus_24h": 0.4372
-      }
-    },
-    {
-      "event_id": "01e32c27-651f-4ce7-b0cd-128eb887e54c",
-      "source": "rss:decrypt",
-      "title": "Metaplanet Sold 10,000 Bitcoin and Bought Back 11,000 to Prove a Point",
-      "url": "https://decrypt.co/380053/metaplanet-sold-10000-bitcoin-and-bought-back-11000-to-prove-a-point",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T12:04:01+00:00",
-      "raw_text": "Metaplanet Sold 10,000 Bitcoin and Bought Back 11,000 to Prove a Point\n\nRating agencies ask if a Bitcoin company will actually sell when obligations fall due. \"We answered by doing it,\" said CEO Simon Gerovich.",
-      "impact": {}
-    },
-    {
-      "event_id": "b061e0b7-8603-49d8-bb66-0b851fb7dc02",
-      "source": "rss:theblock",
-      "title": "Visa, CoinShares find growing crypto appetite among consumers and affluent investors",
-      "url": "https://www.theblock.co/news/business/2026-10-05-visa-coinshares-find-growing-crypto-appetite-among-consumers-and-affluent-investors-417642",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T12:01:06+00:00",
-      "raw_text": "Visa, CoinShares find growing crypto appetite among consumers and affluent investors\n\nVisa and CoinShares surveys show rising stablecoin interest in Asia Pacific alongside strong digital-asset ownership among affluent investors.",
-      "impact": {}
-    },
-    {
-      "event_id": "ecb23ab0-395e-47c0-877d-8c76c699938b",
-      "source": "rss:decrypt",
-      "title": "Morning Minute: Uptober Off to a Green Start",
-      "url": "https://decrypt.co/380050/morning-minute-uptober-off-to-a-green-start",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T11:39:08+00:00",
-      "raw_text": "Morning Minute: Uptober Off to a Green Start\n\nCrypto majors and alts are rallying to start October. What’s driving the early action and will it continue?",
-      "impact": {}
-    },
-    {
-      "event_id": "b2c6df31-0504-4a96-8a64-c43bc9d82f09",
-      "source": "rss:decrypt",
-      "title": "Greek Soldiers Among Alleged Leaders of $8M Crypto Pyramid Scheme",
-      "url": "https://decrypt.co/380040/greek-soldiers-among-alleged-leaders-of-8m-crypto-pyramid-scheme",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T11:18:01+00:00",
-      "raw_text": "Greek Soldiers Among Alleged Leaders of $8M Crypto Pyramid Scheme\n\nAn association for AI enthusiasts was allegedly the recruiting vehicle, and two anonymous tips to a government portal started the case.",
-      "impact": {}
-    },
-    {
-      "event_id": "4a6ad41e-bf87-478e-8c92-51aa515d20a4",
-      "source": "rss:coindesk",
-      "title": "SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T11:14:35+00:00",
-      "raw_text": "SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings",
-      "impact": {}
-    },
-    {
-      "event_id": "5da842df-c664-4015-9456-7c962b6258ec",
-      "source": "rss:coindesk",
-      "title": "Treasury crackdown exposes crypto's role in $2 million Hamas fundraising network",
-      "url": "https://www.coindesk.com/policy/2026/10/05/treasury-crackdown-exposes-crypto-s-role-in-usd2-million-hamas-fundraising-network",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T11:08:03+00:00",
-      "raw_text": "Treasury crackdown exposes crypto's role in $2 million Hamas fundraising network",
-      "impact": {}
-    },
-    {
-      "event_id": "ddd98420-9308-442a-93ac-443ad065b9a5",
-      "source": "rss:coindesk",
-      "title": "Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC",
-      "url": "https://www.coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-10-05T10:58:03+00:00",
-      "raw_text": "Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC",
-      "impact": {
-        "t_plus_5m": 0.0959,
-        "t_plus_15m": 0.0774,
-        "t_plus_1h": 0.3623,
-        "t_plus_4h": -0.2741
-      }
-    },
-    {
-      "event_id": "b971d3b3-ce6e-4582-9baa-a645b6cf3816",
-      "source": "rss:coindesk",
-      "title": "Bitcoin resilience tested as U.S. dollar climbs to 18-month high",
-      "url": "https://www.coindesk.com/markets/2026/10/05/u-s-dollar-climbs-to-18-month-high-as-bitcoin-holds-firm-around-usd86-000",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T10:44:55+00:00",
-      "raw_text": "Bitcoin resilience tested as U.S. dollar climbs to 18-month high",
-      "impact": {}
-    },
-    {
-      "event_id": "955fdd7e-d81e-4843-9599-b911c4be8a71",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin under pressure as rates continue to rise",
-      "url": "https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T10:39:57+00:00",
-      "raw_text": "Live updates: Bitcoin under pressure as rates continue to rise",
-      "impact": {}
-    },
-    {
-      "event_id": "91d7f8c4-f6f1-4c47-9af7-0a3762412cf6",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin above $86,000 as traders price out an October Fed hike",
-      "url": "https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T10:39:57+00:00",
-      "raw_text": "Live updates: Bitcoin above $86,000 as traders price out an October Fed hike",
-      "impact": {}
-    },
-    {
-      "event_id": "2cb9a454-0ff4-4ffb-acb4-0c810fd3ea12",
-      "source": "rss:coindesk",
-      "title": "Cardano's ADA leads gains in narrow range-bound market",
-      "url": "https://www.coindesk.com/markets/2026/10/05/cardano-s-ada-leads-gains-in-narrow-range-bound-market",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "ADA"
-      ],
-      "timestamp_utc": "2026-10-05T10:37:30+00:00",
-      "raw_text": "Cardano's ADA leads gains in narrow range-bound market",
-      "impact": {
-        "t_plus_5m": 0.4594,
-        "t_plus_15m": 1.1693,
-        "t_plus_1h": 0.6001,
-        "t_plus_4h": -0.6912
-      }
-    },
-    {
-      "event_id": "7f354746-7758-4c3a-b5c4-6a2216129d8e",
-      "source": "rss:decrypt",
-      "title": "OKX and NYSE Owner ICE Plan 24/7 Tokenized Stock Trading Under SEC Exemption",
-      "url": "https://decrypt.co/380032/okx-and-nyse-owner-ice-plan-24-7-tokenized-stock-trading-under-sec-exemption",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T10:22:27+00:00",
-      "raw_text": "OKX and NYSE Owner ICE Plan 24/7 Tokenized Stock Trading Under SEC Exemption\n\nFiled under the SEC's new Innovation Exemption, the notice lists more than 60 stocks, including Nvidia and SpaceX, paired with stablecoins.",
-      "impact": {}
-    },
-    {
-      "event_id": "e022e3c5-d9b2-4a77-a155-a5fd8c94a8a4",
-      "source": "rss:cointelegraph",
-      "title": "Vivek Ramaswamy’s gubernatorial run lacks the crypto rhetoric of his presidential bid",
-      "url": "https://cointelegraph.com/news/vivek-ramaswamy-crypto-gubernatorial-campaign?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T10:11:26+00:00",
-      "raw_text": "Vivek Ramaswamy’s gubernatorial run lacks the crypto rhetoric of his presidential bid\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Vivek Ramaswamy’s gubernatorial run lacks the crypto rhetoric of his presidential bid\" class=\"type:primaryImage\" src=\"https://s3-images.ctmed",
-      "impact": {}
-    },
-    {
-      "event_id": "6079b669-35a4-4774-bb34-c8b57bb11c93",
-      "source": "rss:coindesk",
-      "title": "Technicals signal bitcoin shift, Ethereum gears up for Glamsterdam: Crypto Week Ahead",
-      "url": "https://www.coindesk.com/markets/2026/10/05/technicals-signal-bitcoin-shift-ethereum-gears-up-for-glamsterdam-crypto-week-ahead",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T09:37:13+00:00",
-      "raw_text": "Technicals signal bitcoin shift, Ethereum gears up for Glamsterdam: Crypto Week Ahead",
-      "impact": {}
-    },
-    {
-      "event_id": "7d990802-5207-477c-973b-f4a4037d8c7c",
-      "source": "rss:coindesk",
-      "title": "Kraken operator Payward and Singapore Gulf Bank partner for 24/7 institutional crypto settlement",
-      "url": "https://www.coindesk.com/business/2026/10/05/kraken-operator-payward-and-singapore-gulf-bank-platform-for-24-7-institutional-crypto-settlement",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-05T09:26:24+00:00",
-      "raw_text": "Kraken operator Payward and Singapore Gulf Bank partner for 24/7 institutional crypto settlement",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "whale_move": {
-        "count": 4,
-        "avg_1h": -0.51,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 166,
-        "avg_1h": 0.26,
-        "avg_24h": -0.56,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
-        "count": 155,
-        "avg_1h": 0.21,
+        "count": 158,
+        "avg_1h": 0.27,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 33,
+        "count": 37,
         "avg_1h": -0.09,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
+      "unknown": {
+        "count": 164,
+        "avg_1h": 0.16,
+        "avg_24h": -0.18,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "listing": {
+        "count": 15,
+        "avg_1h": 0.23,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 129,
+        "count": 122,
         "avg_1h": 0.25,
         "avg_24h": 1.55,
         "win_rate_1h_gt5pct": 0.0
       },
-      "listing": {
-        "count": 13,
-        "avg_1h": 0.23,
+      "whale_move": {
+        "count": 4,
+        "avg_1h": -0.42,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       }
