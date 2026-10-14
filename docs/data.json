@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-10-14T01:10:17.371361+00:00",
+  "generated_at": "2026-10-14T07:30:16.440245+00:00",
   "events": [
+    {
+      "event_id": "957af419-f61a-4391-b592-185a3afd4ab1",
+      "source": "rss:coindesk",
+      "title": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
+      "url": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-14T04:11:16+00:00",
+      "raw_text": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
+      "impact": {}
+    },
+    {
+      "event_id": "b53091de-eff1-477f-8bfa-df291399252b",
+      "source": "rss:coindesk",
+      "title": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
+      "url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-14T03:50:54+00:00",
+      "raw_text": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
+      "impact": {}
+    },
+    {
+      "event_id": "3814c2e1-9736-476b-8d2a-21925d52fbdd",
+      "source": "rss:theblock",
+      "title": "Coinbase lays out flexible designs as key priority for Bitcoin’s post-quantum migration",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-14T02:49:34+00:00",
+      "raw_text": "Coinbase lays out flexible designs as key priority for Bitcoin’s post-quantum migration\n\nCoinbase published priorities for Bitcoin's post-quantum transition, urging early preparation for signature upgrades and fund migration.",
+      "impact": {}
+    },
+    {
+      "event_id": "41fc422d-6b65-467b-b42a-b5912ee14118",
+      "source": "rss:cointelegraph",
+      "title": "Bitwise’s Hougan says Q3 charts point to ‘crypto spring’",
+      "url": "https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-14T02:19:56+00:00",
+      "raw_text": "Bitwise’s Hougan says Q3 charts point to ‘crypto spring’\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitwise’s Hougan says Q3 charts point to ‘crypto spring’ \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4W39C53K5A0QZYE5SN4",
+      "impact": {}
+    },
+    {
+      "event_id": "532d0f49-a61f-4bee-8934-f10db134e387",
+      "source": "rss:coindesk",
+      "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+      "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-14T01:00:00+00:00",
+      "raw_text": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+      "impact": {}
+    },
     {
       "event_id": "3b73ed6d-1aa8-45c7-9648-508f204e93c2",
       "source": "rss:cointelegraph",
@@ -104,10 +164,17 @@
       "url": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BNB"
+      ],
       "timestamp_utc": "2026-10-13T19:48:06+00:00",
       "raw_text": "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0086,
+        "t_plus_15m": 0.0552,
+        "t_plus_1h": 0.1218,
+        "t_plus_4h": 0.009
+      }
     },
     {
       "event_id": "7b83cc2d-5bf1-4a9d-9984-51894bd4cac8",
@@ -116,10 +183,17 @@
       "url": "https://decrypt.co/380867/bitcoin-whale-every-crash-2020-moves-377m",
       "event_type": "whale_move",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-10-13T19:38:12+00:00",
       "raw_text": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M\n\nA wallet that received 4,581 BTC in March 2020, worth about $40 million then, moved its stash today when it was worth about $377 million.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2192,
+        "t_plus_15m": -0.1501,
+        "t_plus_1h": -0.0609,
+        "t_plus_4h": -0.1461
+      }
     },
     {
       "event_id": "b776fc95-87f2-4b1e-b325-78da7338b853",
@@ -140,10 +214,17 @@
       "url": "https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months",
       "event_type": "listing",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-10-13T18:15:05+00:00",
       "raw_text": "Strive Buys $280 Million in Bitcoin, Its Largest Purchase in Months\n\nThe Nasdaq-listed asset manager bought the Bitcoin at an average of about $84,500 during a rough week for the market, lifting its total stash to 32,773 BTC.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2237,
+        "t_plus_15m": -0.3321,
+        "t_plus_1h": -0.1997,
+        "t_plus_4h": 0.0858
+      }
     },
     {
       "event_id": "e73aea13-6a90-4320-9b84-5e0a4fd2e082",
@@ -164,10 +245,17 @@
       "url": "https://bitcoinmagazine.com/news/amount-of-bitcoin-exchanges-is-shrinking",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-10-13T17:05:39+00:00",
       "raw_text": "The Amount of Bitcoin on Exchanges Is Shrinking. Is a Rally Imminent?\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-9.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://b",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.152,
+        "t_plus_15m": -0.1598,
+        "t_plus_1h": -0.2754,
+        "t_plus_4h": 0.0666
+      }
     },
     {
       "event_id": "49e82c46-fc6a-46cc-9326-73256f8c016d",
@@ -6338,117 +6426,43 @@
       "timestamp_utc": "2026-10-06T03:40:00+00:00",
       "raw_text": "OKX eyes emerging markets with yield-offering stablecoin savings and payments app\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OKX eyes emerging markets with yield-offering stablecoin savings and payments app\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me",
       "impact": {}
-    },
-    {
-      "event_id": "f48acca0-afb6-4e1b-8d23-2b3cb0eeeca6",
-      "source": "rss:decrypt",
-      "title": "Solana Debuts Institutional Settlement Standard With J.P. Morgan Input",
-      "url": "https://decrypt.co/380126/solana-institutional-settlement-standard-jp-morgan",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-06T02:01:03+00:00",
-      "raw_text": "Solana Debuts Institutional Settlement Standard With J.P. Morgan Input\n\nBuilt with input from J.P. Morgan, the open-source \"DvP\" program lets institutions settle trades atomically on Solana with finality in seconds instead of days.",
-      "impact": {}
-    },
-    {
-      "event_id": "ba1ddd5d-cec6-4762-9c63-4d2d375e45dd",
-      "source": "rss:solana_official",
-      "title": "Solana Foundation Launches Solana DvP, an Atomic Settlement Program Built for Financial Institutions",
-      "url": "https://solana.com/news/solana-foundation-launches-solana-dv-p-an-atomic-settlement-program-built-for-financial-institutions",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-06T02:00:00+00:00",
-      "raw_text": "Solana Foundation Launches Solana DvP, an Atomic Settlement Program Built for Financial Institutions\n\nOnchain open-source delivery-versus-payment infrastructure, tailored for the world’s leading financial institutions",
-      "impact": {}
-    },
-    {
-      "event_id": "600c02a3-1594-4cbf-add4-aa9fa522e8f8",
-      "source": "rss:cointelegraph",
-      "title": "Chinese crime network laundered over $1B for Lazarus: ZachXBT",
-      "url": "https://cointelegraph.com/news/chinese-crime-network-laundered-over-1b-for-lazarus-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-06T01:47:24+00:00",
-      "raw_text": "Chinese crime network laundered over $1B for Lazarus: ZachXBT\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Chinese crime network laundered over $1B for Lazarus: ZachXBT\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M47E98M7WF0",
-      "impact": {}
-    },
-    {
-      "event_id": "99e810ab-6f00-4660-a3c2-d7d4f096d7f9",
-      "source": "rss:decrypt",
-      "title": "Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months",
-      "url": "https://decrypt.co/380129/strive-adds-169m-bitcoin-biggest-buy-four-months",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-10-05T22:30:20+00:00",
-      "raw_text": "Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months\n\nThe Nasdaq-listed bitcoin treasury company, co-founded by Vivek Ramaswamy, paid roughly $169 million for 2,000 coins last week and now holds 29,462 BTC.",
-      "impact": {
-        "t_plus_5m": 0.2248,
-        "t_plus_15m": 0.2333,
-        "t_plus_1h": 0.1777,
-        "t_plus_4h": -0.1609
-      }
-    },
-    {
-      "event_id": "3071c2e0-2cea-4ee8-87ab-76f84e973c00",
-      "source": "rss:decrypt",
-      "title": "DeFi Development Corp Adds $3 Million in Solana as SOL Buys Slow",
-      "url": "https://decrypt.co/380125/defi-development-corp-adds-3m-solana",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [
-        "SOL"
-      ],
-      "timestamp_utc": "2026-10-05T21:48:03+00:00",
-      "raw_text": "DeFi Development Corp Adds $3 Million in Solana as SOL Buys Slow\n\nNasdaq-listed DeFi Development Corp's latest SEC filing shows its Solana stash grew 1%, to about 2.56 million SOL and SOL equivalents—roughly half the prior week's gain and well below mid-September's pace.",
-      "impact": {
-        "t_plus_5m": 0.0265,
-        "t_plus_15m": 0.5159,
-        "t_plus_1h": 0.2777,
-        "t_plus_4h": -0.0847
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 116,
+        "avg_1h": 0.26,
+        "avg_24h": 2.13,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 165,
+        "count": 166,
         "avg_1h": 0.14,
         "avg_24h": -0.18,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 161,
-        "avg_1h": 0.22,
+        "count": 162,
+        "avg_1h": 0.16,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 115,
-        "avg_1h": 0.26,
-        "avg_24h": 2.13,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 39,
+        "count": 38,
         "avg_1h": -0.09,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
         "count": 4,
-        "avg_1h": -0.42,
+        "avg_1h": -0.3,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
-        "count": 16,
-        "avg_1h": 0.21,
+        "count": 14,
+        "avg_1h": 0.15,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       }
