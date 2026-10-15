@@ -1,6 +1,90 @@
 {
-  "generated_at": "2026-10-14T22:14:59.358168+00:00",
+  "generated_at": "2026-10-15T01:24:54.722678+00:00",
   "events": [
+    {
+      "event_id": "79ba13ac-88c9-494e-81cc-207cf4c3f4b7",
+      "source": "rss:decrypt",
+      "title": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",
+      "url": "https://decrypt.co/380998/scientists-want-ai-cut-off-from-internet",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-14T21:46:04+00:00",
+      "raw_text": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet\n\nAfter a summer of AI models escaping test environments and hacking real companies, hundreds of researchers say the internet itself should be treated as a security boundary.",
+      "impact": {}
+    },
+    {
+      "event_id": "9ccb96fd-85e1-4fd9-a317-2fb324f7de5b",
+      "source": "rss:bitcoinmagazine",
+      "title": "Russia’s Central Bank Authorizes Sberbank to Exchange Cryptocurrencies",
+      "url": "https://bitcoinmagazine.com/news/russia-central-bank-gives-sberbank-license",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-14T21:30:14+00:00",
+      "raw_text": "Russia’s Central Bank Authorizes Sberbank to Exchange Cryptocurrencies\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-12.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https:/",
+      "impact": {}
+    },
+    {
+      "event_id": "463e4779-937a-4390-9e3e-6bbcd19ea72d",
+      "source": "rss:decrypt",
+      "title": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office",
+      "url": "https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-14T21:16:03+00:00",
+      "raw_text": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office\n\nDeveloper Brandon Thomas used Anthropic's Claude to build free, open-source replicas of Word, Excel and PowerPoint. They're rough, but they show how cheap cloning software has become.",
+      "impact": {}
+    },
+    {
+      "event_id": "ded5ccb5-9df1-4cb8-829e-169c8b3fc545",
+      "source": "rss:cointelegraph",
+      "title": "Organizations join forces to fight Illinois crypto tax, after 6-month pause",
+      "url": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-14T20:56:22+00:00",
+      "raw_text": "Organizations join forces to fight Illinois crypto tax, after 6-month pause\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Organizations join forces to fight Illinois crypto tax, after 6-month pause \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article",
+      "impact": {}
+    },
+    {
+      "event_id": "0d8f2d72-1095-481a-b53d-e60440a0e4d1",
+      "source": "rss:theblock",
+      "title": "Patrick Witt exits White House crypto role as Clarity Act stalls",
+      "url": "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-14T20:30:15+00:00",
+      "raw_text": "Patrick Witt exits White House crypto role as Clarity Act stalls\n\nLeadership at the White House is shifting once again, as Patrick Witt’s tenure as the administration’s top crypto adviser comes to an end.",
+      "impact": {}
+    },
+    {
+      "event_id": "7c7aad47-a53e-4750-98c7-8641cd93e682",
+      "source": "rss:decrypt",
+      "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
+      "url": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-14T20:16:05+00:00",
+      "raw_text": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny\n\nA new Chainalysis report found payments through Coinbase’s x402 protocol surged from about 1,500 in mid-2025 to more than 138 million by Q3 2026, with U.S. wallets dominating spending on AI models.",
+      "impact": {}
+    },
+    {
+      "event_id": "b99b49cc-b5c7-47c2-a746-12c12e8f5fc8",
+      "source": "rss:decrypt",
+      "title": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
+      "url": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-14T19:46:03+00:00",
+      "raw_text": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin\n\nSberbank now holds both custody and exchange status under Russia's new crypto law, and plans to bring Bitcoin, Ethereum and USDT to apps used by 110 million retail clients.",
+      "impact": {}
+    },
     {
       "event_id": "42eadb91-92fb-4168-81cb-9d74e8656a48",
       "source": "rss:decrypt",
@@ -32,10 +116,16 @@
       "url": "https://www.theblock.co/news/business/2026-10-14-solana-treasury-skyai-bastion-sol-sales-tender-offer-418598",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "SOL"
+      ],
       "timestamp_utc": "2026-10-14T18:25:54+00:00",
       "raw_text": "Major shareholder presses SkyAI on Solana sales after treasury shrinks 70% in a month\n\nSkyAI's SOL treasury fell 70% in under a month, with 400,000 SOL unexplained. Bastion Trading won't tender at $3 a share and wants $3.50.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.2255,
+        "t_plus_15m": -0.2883,
+        "t_plus_1h": 0.3362
+      }
     },
     {
       "event_id": "4592f7ca-5b75-4361-a2d7-bdfa4eb8ff1a",
@@ -68,10 +158,18 @@
       "url": "https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC",
+        "ETH"
+      ],
       "timestamp_utc": "2026-10-14T17:46:05+00:00",
       "raw_text": "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients\n\nThe British bank won Dubai regulatory approval to let affluent clients buy BTC and ETH straight from their bank accounts, with custody and settlement kept in-house.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0736,
+        "t_plus_15m": -0.2052,
+        "t_plus_1h": -0.2131,
+        "t_plus_4h": 0.0824
+      }
     },
     {
       "event_id": "fb267775-2932-4bba-afea-4d32b7b1ff58",
@@ -164,10 +262,17 @@
       "url": "https://bitcoinmagazine.com/culture/the-undercurrent-three-european-artists-on-making-money-visible",
       "event_type": "hack",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-10-14T16:02:31+00:00",
       "raw_text": "The Undercurrent: Three European Artists on Making Money Visible\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/The-Undercurrent-Three-European-Artists-on-Making-Money-Visible.png\" style=\"display: b",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0046,
+        "t_plus_15m": -0.1186,
+        "t_plus_1h": 0.3824,
+        "t_plus_4h": 0.1102
+      }
     },
     {
       "event_id": "6040ecd3-45cd-438e-871e-d680b4a61e95",
@@ -6335,127 +6440,36 @@
         "t_plus_1h": 0.0179,
         "t_plus_4h": -0.2369
       }
-    },
-    {
-      "event_id": "e26fc204-9360-47a0-9873-ba27dfb9426e",
-      "source": "rss:bitcoinmagazine",
-      "title": "StoneX’s Mark Palmer: $435 MSTR Price Target Explained – DAT Consolidation Outlook",
-      "url": "https://bitcoinmagazine.com/videos/stonexs-mark-palmer-435-mstr-price-target-explained-dat-consolidation-outlook",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-10-06T21:16:05+00:00",
-      "raw_text": "StoneX’s Mark Palmer: $435 MSTR Price Target Explained – DAT Consolidation Outlook\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/StoneXs-Mark-Palmer-435-MSTR-Price-Target-Explained-DAT-Consolidatio",
-      "impact": {
-        "t_plus_5m": -0.0847,
-        "t_plus_15m": -0.0069,
-        "t_plus_1h": 0.0029,
-        "t_plus_4h": -0.155
-      }
-    },
-    {
-      "event_id": "63feb464-9908-4666-bacb-8b7ac09a9ea7",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin Privacy Legend Amir Taaki Deported From Singapore",
-      "url": "https://bitcoinmagazine.com/news/amir-taaki-deported-from-singapore",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-06T21:07:23+00:00",
-      "raw_text": "Bitcoin Privacy Legend Amir Taaki Deported From Singapore\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/selfie_1920x1080-1.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://b",
-      "impact": {}
-    },
-    {
-      "event_id": "32b59932-4d60-47b8-8f33-ce5b79c91529",
-      "source": "rss:cointelegraph",
-      "title": "Conduit sues Tether over allegedly freezing $2.8M without explanation",
-      "url": "https://cointelegraph.com/news/conduit-lawsuit-tether-usdt-freeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-06T21:00:44+00:00",
-      "raw_text": "Conduit sues Tether over allegedly freezing $2.8M without explanation\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Conduit sues Tether over allegedly freezing $2.8M without explanation\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/",
-      "impact": {}
-    },
-    {
-      "event_id": "3ea90761-0d33-43e5-80ab-60e33f373101",
-      "source": "rss:cointelegraph",
-      "title": "Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing",
-      "url": "https://cointelegraph.com/news/winklevoss-backed-zcash-etf-files-with-sec-for-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-06T20:53:19+00:00",
-      "raw_text": "Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M49DR4VPPGS",
-      "impact": {}
-    },
-    {
-      "event_id": "ab9d798d-5d83-49a6-b9d0-34e5806c2b76",
-      "source": "rss:decrypt",
-      "title": "Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down",
-      "url": "https://decrypt.co/380225/pudgy-penguin-ethereum-layer-2-abstract-shutting-down",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-06T20:28:53+00:00",
-      "raw_text": "Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down\n\nAbstract will shut down Dec. 15, saying a chain focused solely on consumer crypto proved unsustainable, and is urging users to bridge their assets off before then.",
-      "impact": {}
-    },
-    {
-      "event_id": "968fb5f1-1793-4485-a283-e21c67696fb5",
-      "source": "rss:bitcoinmagazine",
-      "title": "The Real Estate Market Is Dead in Spain. Long Live Bitcoin.",
-      "url": "https://bitcoinmagazine.com/business/the-real-estate-market-is-dead-in-spain-long-live-bitcoin",
-      "event_type": "listing",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-06T20:13:35+00:00",
-      "raw_text": "The Real Estate Market Is Dead in Spain. Long Live Bitcoin.\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/spain.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmaga",
-      "impact": {}
-    },
-    {
-      "event_id": "3528f857-89ab-4309-99dc-ccdb896322e7",
-      "source": "rss:theblock",
-      "title": "Pudgy Penguins-backed Ethereum L2 Abstract to shut down after losing ‘tens of millions’",
-      "url": "https://www.theblock.co/news/ecosystems/2026-10-06-abstract-ethereum-layer-2-shutting-down-pudgy-penguins-igloo-417855",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-06T20:11:30+00:00",
-      "raw_text": "Pudgy Penguins-backed Ethereum L2 Abstract to shut down after losing ‘tens of millions’\n\nAbstract, the Pudgy Penguins-backed Ethereum L2, will shut down on Dec. 15. Users must bridge assets off before then.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 38,
+        "avg_1h": -0.03,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
-        "count": 118,
-        "avg_1h": 0.27,
+        "count": 117,
+        "avg_1h": 0.28,
         "avg_24h": 2.13,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 164,
-        "avg_1h": 0.42,
+        "count": 167,
+        "avg_1h": 0.37,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 164,
+        "count": 163,
         "avg_1h": 0.25,
         "avg_24h": -0.18,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 37,
-        "avg_1h": -0.12,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "listing": {
-        "count": 14,
+        "count": 12,
         "avg_1h": 0.24,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
