@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-10-17T19:18:33.369174+00:00",
+  "generated_at": "2026-10-17T22:13:48.738626+00:00",
   "events": [
+    {
+      "event_id": "ba955f31-1878-42fb-a12f-aeb0bfbe03cd",
+      "source": "rss:theblock",
+      "title": "CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE",
+      "url": "https://www.theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-17T19:56:25+00:00",
+      "raw_text": "CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE\n\nApplied Optoelectronics told the WSJ it objected because it was unsure how tokenization would affect its stock price, liquidity and volatility.",
+      "impact": {}
+    },
+    {
+      "event_id": "8c7535bd-5c0e-454a-9668-969fee251474",
+      "source": "rss:theblock",
+      "title": "Turkey confirms Hex founder Richard Heart’s arrest, says police seized $7.15 million and six cold wallets",
+      "url": "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-17T18:14:43+00:00",
+      "raw_text": "Turkey confirms Hex founder Richard Heart’s arrest, says police seized $7.15 million and six cold wallets\n\nPolice reportedly seized $7.15 million in cash, six cold wallets, seven firearms and 1,400 rounds of ammunition in searches of 15 addresses.",
+      "impact": {}
+    },
     {
       "event_id": "e2191e10-6c11-48d1-ab26-2b3a859e2076",
       "source": "rss:decrypt",
@@ -6401,48 +6425,24 @@
       "timestamp_utc": "2026-10-08T17:16:23+00:00",
       "raw_text": "The Block GCCI 2026 Country Profile: Inside Korea’s Crypto Market\n\nSection 1: The Block’s Global Crypto Competitiveness Index Crypto markets have historically been measured on their trading volume, ownership, or adoption. While these metrics remain important, they speak to demand-side factors rather",
       "impact": {}
-    },
-    {
-      "event_id": "624f0a4f-8781-438c-9efb-c727bd4fe2be",
-      "source": "rss:bitcoinmagazine",
-      "title": "Bitcoin Falls Below $81,000 as Oil Spikes, Fed Talks Tough",
-      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slide-continues-below-81000",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-08T17:14:58+00:00",
-      "raw_text": "Bitcoin Falls Below $81,000 as Oil Spikes, Fed Talks Tough\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-1-2.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmag",
-      "impact": {}
-    },
-    {
-      "event_id": "cad4e672-e2dc-4e79-82d3-bc935813a869",
-      "source": "rss:decrypt",
-      "title": "Will AI Break Crypto Encryption? Ethereum’s Vitalik Buterin Weighs In on 'Bunker Mode' Shift",
-      "url": "https://decrypt.co/380503/ai-break-crypto-encryption-ethereum-vitalik-buterin-bunker-mode",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-08T17:07:48+00:00",
-      "raw_text": "Will AI Break Crypto Encryption? Ethereum’s Vitalik Buterin Weighs In on 'Bunker Mode' Shift\n\nEthereum co-founder Vitalik Buterin thinks the crypto industry needs to make sure encryption is both quantum and AI-resistant.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 162,
-        "avg_1h": 0.44,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "unknown": {
-        "count": 171,
+        "count": 173,
         "avg_1h": 0.25,
         "avg_24h": -0.18,
         "win_rate_1h_gt5pct": 0.0
       },
+      "narrative": {
+        "count": 161,
+        "avg_1h": 0.44,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
-        "count": 35,
+        "count": 34,
         "avg_1h": 0.1,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
