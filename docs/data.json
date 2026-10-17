@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-10-16T23:31:12.017465+00:00",
+  "generated_at": "2026-10-17T04:16:34.741335+00:00",
   "events": [
+    {
+      "event_id": "476ab88e-6f5d-4de4-8821-675f7d78816c",
+      "source": "rss:coindesk",
+      "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
+      "url": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-17T02:30:00+00:00",
+      "raw_text": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
+      "impact": {}
+    },
+    {
+      "event_id": "8d47d583-b2f8-4d06-88f4-a7c909437036",
+      "source": "rss:bitcoinmagazine",
+      "title": "Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves",
+      "url": "https://bitcoinmagazine.com/news/scammer-lost-bitcoin-to-ledger-thieves",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-16T22:12:36+00:00",
+      "raw_text": "Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-16.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a h",
+      "impact": {}
+    },
     {
       "event_id": "5a170f55-50b8-4d2d-a31f-b5464ca25d8a",
       "source": "rss:theblock",
@@ -6413,30 +6437,6 @@
       "timestamp_utc": "2026-10-08T15:22:29+00:00",
       "raw_text": "Understanding Digital Money and Digital Yield\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/digital-money-digital-yield.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitc",
       "impact": {}
-    },
-    {
-      "event_id": "ff2f5ac4-d674-4c68-b6a7-1cc5a1304cd2",
-      "source": "rss:coindesk",
-      "title": "Crypto for Advisors: Digital assets outran stocks and gold in Q3",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/10/08/crypto-for-advisors-digital-assets-outran-stocks-and-gold-in-q3",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-08T15:11:15+00:00",
-      "raw_text": "Crypto for Advisors: Digital assets outran stocks and gold in Q3",
-      "impact": {}
-    },
-    {
-      "event_id": "041dc45c-1780-49f0-ab1d-e631ffd7ca5e",
-      "source": "rss:decrypt",
-      "title": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
-      "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-08T15:10:49+00:00",
-      "raw_text": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana\n\nThe new Securitize Stocks product launches with 12 names backed one-to-one by real shares—preserving dividends and voting rights—trading first on Solana, with NYSE and OKX-ICE venues planned.",
-      "impact": {}
     }
   ],
   "stats": {
@@ -6447,6 +6447,12 @@
         "avg_24h": -0.18,
         "win_rate_1h_gt5pct": 0.0
       },
+      "hack": {
+        "count": 38,
+        "avg_1h": 0.01,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 160,
         "avg_1h": 0.33,
@@ -6454,15 +6460,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 117,
+        "count": 116,
         "avg_1h": 0.11,
         "avg_24h": -2.29,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 37,
-        "avg_1h": 0.01,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
