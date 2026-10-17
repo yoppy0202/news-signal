@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-17T04:16:34.741335+00:00",
+  "generated_at": "2026-10-17T09:15:32.195977+00:00",
   "events": [
+    {
+      "event_id": "cb79b308-8d0e-4915-8321-7f541e88aa30",
+      "source": "rss:coindesk",
+      "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
+      "url": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-17T06:39:48+00:00",
+      "raw_text": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
+      "impact": {}
+    },
     {
       "event_id": "476ab88e-6f5d-4de4-8821-675f7d78816c",
       "source": "rss:coindesk",
@@ -6425,24 +6437,12 @@
       "timestamp_utc": "2026-10-08T15:23:26+00:00",
       "raw_text": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
       "impact": {}
-    },
-    {
-      "event_id": "2026173a-940f-4470-98f5-61b40860ae2e",
-      "source": "rss:bitcoinmagazine",
-      "title": "Understanding Digital Money and Digital Yield",
-      "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/digital-money-digital-yield",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-08T15:22:29+00:00",
-      "raw_text": "Understanding Digital Money and Digital Yield\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/digital-money-digital-yield.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitc",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 167,
+        "count": 168,
         "avg_1h": 0.25,
         "avg_24h": -0.18,
         "win_rate_1h_gt5pct": 0.0
@@ -6466,7 +6466,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
-        "count": 15,
+        "count": 14,
         "avg_1h": 0.24,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
