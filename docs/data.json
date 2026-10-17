@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-17T09:15:32.195977+00:00",
+  "generated_at": "2026-10-17T13:41:01.796249+00:00",
   "events": [
+    {
+      "event_id": "a19a2356-c8f6-4eb3-b1c1-589574fa81e6",
+      "source": "rss:cointelegraph",
+      "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
+      "url": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-17T10:00:07+00:00",
+      "raw_text": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctm",
+      "impact": {}
+    },
+    {
+      "event_id": "1a85a0c2-64d4-4604-9739-a4f70476a4a9",
+      "source": "rss:cointelegraph",
+      "title": "Lagarde says euro-area economy is resilient, digital euro imminent",
+      "url": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-17T08:32:11+00:00",
+      "raw_text": "Lagarde says euro-area economy is resilient, digital euro imminent\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Lagarde says euro-area economy is resilient, digital euro imminent\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M",
+      "impact": {}
+    },
+    {
+      "event_id": "8f1a77a5-f60f-45aa-8f70-6d6bde72ef24",
+      "source": "rss:cointelegraph",
+      "title": "Bitget to discontinue services for some users in one-off exercise",
+      "url": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-17T07:26:57+00:00",
+      "raw_text": "Bitget to discontinue services for some users in one-off exercise\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitget to discontinue services for some users in one-off exercise   \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01",
+      "impact": {}
+    },
     {
       "event_id": "cb79b308-8d0e-4915-8321-7f541e88aa30",
       "source": "rss:coindesk",
@@ -6401,46 +6437,16 @@
       "timestamp_utc": "2026-10-08T15:43:04+00:00",
       "raw_text": "U.S. government moves $1 billion in bitcoin from Bitfinex hack wallet, no sale indicated",
       "impact": {}
-    },
-    {
-      "event_id": "1cc0c71b-b240-421e-8409-344aab30b917",
-      "source": "rss:decrypt",
-      "title": "Decrypt Money Accounts on Solana to Power The Information Exchange",
-      "url": "https://decrypt.co/380436/decrypt-money-accounts-on-solana-to-power-the-information-exchange",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-08T15:42:16+00:00",
-      "raw_text": "Decrypt Money Accounts on Solana to Power The Information Exchange\n\nOne self-custodial platform to power Earn, Swaps, Predictions and Perps on Decrypt, as it builds out its financial and intelligence market.",
-      "impact": {}
-    },
-    {
-      "event_id": "36a2d8b5-ba6a-4b38-bb2d-5d7c886203e6",
-      "source": "rss:cointelegraph",
-      "title": "US government moves $1B in seized Bitcoin after $770M transfers",
-      "url": "https://cointelegraph.com/news/us-government-seized-bitcoin-moved-one-transaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-08T15:24:16+00:00",
-      "raw_text": "US government moves $1B in seized Bitcoin after $770M transfers\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US government moves $1B in seized Bitcoin after $770M transfers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4DZ1JG",
-      "impact": {}
-    },
-    {
-      "event_id": "cd914848-50df-4e4d-ace6-b7b52386bc1d",
-      "source": "rss:coindesk",
-      "title": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
-      "url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-08T15:23:26+00:00",
-      "raw_text": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 162,
+        "avg_1h": 0.33,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 168,
         "avg_1h": 0.25,
@@ -6448,19 +6454,13 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
-        "count": 38,
+        "count": 37,
         "avg_1h": 0.01,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 160,
-        "avg_1h": 0.33,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 116,
+        "count": 115,
         "avg_1h": 0.11,
         "avg_24h": -2.29,
         "win_rate_1h_gt5pct": 0.0
