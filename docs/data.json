@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-10-18T18:02:24.964670+00:00",
+  "generated_at": "2026-10-18T20:35:00.271853+00:00",
   "events": [
+    {
+      "event_id": "feac1bb8-19e8-4aa6-8991-b22aba8bf319",
+      "source": "rss:theblock",
+      "title": "Crypto.com, Novig sue Missouri over sports event contracts; Kalshi, Polymarket, Robinhood hold off",
+      "url": "https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-18T19:50:28+00:00",
+      "raw_text": "Crypto.com, Novig sue Missouri over sports event contracts; Kalshi, Polymarket, Robinhood hold off\n\nKalshi, Polymarket, Robinhood and Underdog, which also received cease-and-desist orders, have not filed suits in Missouri, according to court records.",
+      "impact": {}
+    },
+    {
+      "event_id": "b79ee6f3-6b17-44fd-ab61-f8e82b218ee7",
+      "source": "rss:coindesk",
+      "title": "The White House's crypto chief departs: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-18T18:30:00+00:00",
+      "raw_text": "The White House's crypto chief departs: State of Crypto",
+      "impact": {}
+    },
     {
       "event_id": "0a1e0f3f-37cb-4af9-8c0f-b5aa6b26d7ec",
       "source": "rss:coindesk",
@@ -6387,42 +6411,18 @@
       "timestamp_utc": "2026-10-08T21:16:03+00:00",
       "raw_text": "Google Wants Gemini to Be Your Next Coworker—Complete With Its Own Email Address\n\nGoogle Cloud unveiled a single Gemini agent that takes goals instead of questions, works in the background for days, and can join a company as a staffer with its own inbox and calendar.",
       "impact": {}
-    },
-    {
-      "event_id": "c33b822a-bb21-47ba-a136-3c0889b190db",
-      "source": "rss:decrypt",
-      "title": "Ethereum Test Network Raises Block Limit to Over 3x Its Current Capacity",
-      "url": "https://decrypt.co/380538/ethereum-test-raises-block-limit-3x-current-capacity",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-08T20:16:03+00:00",
-      "raw_text": "Ethereum Test Network Raises Block Limit to Over 3x Its Current Capacity\n\nEthereum's Sepolia test network activated Glamsterdam on October 6 with a block gas limit near 200 million, over three times mainnet's 60 million.",
-      "impact": {}
-    },
-    {
-      "event_id": "8955306f-61c1-4d50-bb34-3911dcded22a",
-      "source": "rss:coindesk",
-      "title": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
-      "url": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-08T19:46:15+00:00",
-      "raw_text": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 176,
+        "count": 177,
         "avg_1h": 0.27,
         "avg_24h": -0.18,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 162,
+        "count": 161,
         "avg_1h": 0.44,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
