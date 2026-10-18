@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-18T00:56:53.196362+00:00",
+  "generated_at": "2026-10-18T05:49:08.845878+00:00",
   "events": [
+    {
+      "event_id": "d125e959-f8ef-4608-80be-c814516c59d8",
+      "source": "rss:coindesk",
+      "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+      "url": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-18T01:06:35+00:00",
+      "raw_text": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+      "impact": {}
+    },
     {
       "event_id": "ba955f31-1878-42fb-a12f-aeb0bfbe03cd",
       "source": "rss:theblock",
@@ -6413,24 +6425,12 @@
       "timestamp_utc": "2026-10-08T17:18:24+00:00",
       "raw_text": "Strategy shareholders face dilution drag despite brighter bitcoin forecasts, TD Cowen says\n\nTD Cowen kept its $260 price target on Strategy (MSTR) as dilution limits the benefit of higher bitcoin forecasts.",
       "impact": {}
-    },
-    {
-      "event_id": "2502eaeb-cc1f-45d1-a03d-f8cd42d028f2",
-      "source": "rss:theblock",
-      "title": "The Block GCCI 2026 Country Profile: Inside Korea’s Crypto Market",
-      "url": "https://www.theblock.co/research/institutional/block-gcci-2026-country-profile-korea-crypto-market-418081",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-08T17:16:23+00:00",
-      "raw_text": "The Block GCCI 2026 Country Profile: Inside Korea’s Crypto Market\n\nSection 1: The Block’s Global Crypto Competitiveness Index Crypto markets have historically been measured on their trading volume, ownership, or adoption. While these metrics remain important, they speak to demand-side factors rather",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "unknown": {
-        "count": 173,
+        "count": 174,
         "avg_1h": 0.25,
         "avg_24h": -0.18,
         "win_rate_1h_gt5pct": 0.0
@@ -6448,7 +6448,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 114,
+        "count": 113,
         "avg_1h": 0.11,
         "avg_24h": -1.66,
         "win_rate_1h_gt5pct": 0.0
