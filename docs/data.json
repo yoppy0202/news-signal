@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-10-19T01:08:46.660780+00:00",
+  "generated_at": "2026-10-19T06:09:28.217975+00:00",
   "events": [
+    {
+      "event_id": "e0ba5e82-f5cf-48ab-8248-f60b767fc26e",
+      "source": "rss:coindesk",
+      "title": "XRP Ledger is set to fix its lending code before anyone can use it",
+      "url": "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-19T04:54:31+00:00",
+      "raw_text": "XRP Ledger is set to fix its lending code before anyone can use it",
+      "impact": {}
+    },
+    {
+      "event_id": "7913b0b4-003b-4e4c-92db-72d0b9c71972",
+      "source": "rss:coindesk",
+      "title": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
+      "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-19T03:36:58+00:00",
+      "raw_text": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
+      "impact": {}
+    },
+    {
+      "event_id": "41ccf900-8e8d-46d1-beec-dbd34043b39a",
+      "source": "rss:coindesk",
+      "title": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
+      "url": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-19T02:00:00+00:00",
+      "raw_text": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
+      "impact": {}
+    },
+    {
+      "event_id": "c4bc2763-3afb-48f4-bbb6-b67ebdc1a631",
+      "source": "rss:theblock",
+      "title": "World launches World ID suite for banks, makes Zoom deepfake check generally available",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-18-world-launches-world-id-suite-banks-418869",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-19T01:10:00+00:00",
+      "raw_text": "World launches World ID suite for banks, makes Zoom deepfake check generally available\n\nWorld ID for Zoom is generally available after a beta that began in April, and is designed to spot deepfaked participants on Zoom calls.",
+      "impact": {}
+    },
+    {
+      "event_id": "9ad0e74a-478e-4096-a2a1-6569eabd3731",
+      "source": "rss:cointelegraph",
+      "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
+      "url": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-19T01:03:27+00:00",
+      "raw_text": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Qubic freezes chain after attacker drains 1.4K wallets with weak seeds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/202",
+      "impact": {}
+    },
     {
       "event_id": "93cd22e9-d82e-46d6-9cff-61b5f4eff9be",
       "source": "rss:coindesk",
@@ -6351,96 +6411,36 @@
         "t_plus_1h": -0.1652,
         "t_plus_4h": 0.1844
       }
-    },
-    {
-      "event_id": "f316237e-f361-4115-9e50-3bc0cad46477",
-      "source": "rss:coindesk",
-      "title": "Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush",
-      "url": "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-09T04:04:36+00:00",
-      "raw_text": "Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush",
-      "impact": {}
-    },
-    {
-      "event_id": "75cfe129-3768-43f8-916c-3359f5f125c8",
-      "source": "rss:coindesk",
-      "title": "Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops",
-      "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-09T03:27:38+00:00",
-      "raw_text": "Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops",
-      "impact": {}
-    },
-    {
-      "event_id": "71a14f87-d88e-45c4-9a03-c651447bf401",
-      "source": "rss:cointelegraph",
-      "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
-      "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-09T03:08:51+00:00",
-      "raw_text": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Thailand finalizes rules paving way for Bitcoin, Ether ETFs\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FA1413AR809PC",
-      "impact": {}
-    },
-    {
-      "event_id": "23235b24-d1fd-49cd-9d7f-118ca958e862",
-      "source": "rss:cointelegraph",
-      "title": "Cantor Fitzgerald faces Senate Democrat’s questions over Tether ties",
-      "url": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-09T00:46:27+00:00",
-      "raw_text": "Cantor Fitzgerald faces Senate Democrat’s questions over Tether ties\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cantor Fitzgerald faces Senate Democrat’s questions over Tether ties  \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/",
-      "impact": {}
-    },
-    {
-      "event_id": "5d437674-32df-400e-857e-83ba9857a71c",
-      "source": "rss:cointelegraph",
-      "title": "China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express",
-      "url": "https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-08T22:35:00+00:00",
-      "raw_text": "China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "unknown": {
+        "count": 176,
+        "avg_1h": 0.27,
+        "avg_24h": -0.18,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 161,
+        "avg_1h": 0.44,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 38,
+        "avg_1h": 0.1,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "listing": {
         "count": 14,
         "avg_1h": 0.25,
         "avg_24h": -1.04,
         "win_rate_1h_gt5pct": 0.0
       },
-      "narrative": {
-        "count": 160,
-        "avg_1h": 0.44,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 177,
-        "avg_1h": 0.27,
-        "avg_24h": -0.18,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 37,
-        "avg_1h": 0.1,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 108,
+        "count": 107,
         "avg_1h": 0.11,
         "avg_24h": -1.66,
         "win_rate_1h_gt5pct": 0.0
