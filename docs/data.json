@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-10-18T23:04:31.829705+00:00",
+  "generated_at": "2026-10-19T01:08:46.660780+00:00",
   "events": [
+    {
+      "event_id": "93cd22e9-d82e-46d6-9cff-61b5f4eff9be",
+      "source": "rss:coindesk",
+      "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
+      "url": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
+      "event_type": "listing",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-18T23:28:06+00:00",
+      "raw_text": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
+      "impact": {}
+    },
+    {
+      "event_id": "887ae599-1dd4-4f19-80c4-be7987072c25",
+      "source": "rss:cointelegraph",
+      "title": "Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest",
+      "url": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-18T22:58:17+00:00",
+      "raw_text": "Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers",
+      "impact": {}
+    },
     {
       "event_id": "feac1bb8-19e8-4aa6-8991-b22aba8bf319",
       "source": "rss:theblock",
@@ -23,6 +47,18 @@
       "tokens": [],
       "timestamp_utc": "2026-10-18T18:30:00+00:00",
       "raw_text": "The White House's crypto chief departs: State of Crypto",
+      "impact": {}
+    },
+    {
+      "event_id": "26c9443e-d9a2-4f18-82a2-c108616a1c01",
+      "source": "rss:coindesk",
+      "title": "Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.",
+      "url": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-18T16:33:00+00:00",
+      "raw_text": "Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.",
       "impact": {}
     },
     {
@@ -6375,56 +6411,26 @@
       "timestamp_utc": "2026-10-08T22:35:00+00:00",
       "raw_text": "China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia",
       "impact": {}
-    },
-    {
-      "event_id": "8268441d-2da5-4f4b-8022-04bdecd27ac3",
-      "source": "rss:decrypt",
-      "title": "AI Startup Manus Raises $500 Million After China Nixed Meta’s $2 Billion Acquisition",
-      "url": "https://decrypt.co/380546/maus-ai-startup-raises-500m-meta-acquisition-china",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-08T21:46:03+00:00",
-      "raw_text": "AI Startup Manus Raises $500 Million After China Nixed Meta’s $2 Billion Acquisition\n\nManus built a self-driving AI assistant before the hype, sold itself to Meta, then watched Beijing unwind the deal. Its first fresh money since: more than $500 million.",
-      "impact": {}
-    },
-    {
-      "event_id": "309dfd10-5098-4933-a3b4-3072992338a9",
-      "source": "rss:coindesk",
-      "title": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
-      "url": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-08T21:22:58+00:00",
-      "raw_text": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
-      "impact": {}
-    },
-    {
-      "event_id": "ba9d0240-ba41-4c23-9e99-bb8a8f5e948b",
-      "source": "rss:decrypt",
-      "title": "Google Wants Gemini to Be Your Next Coworker—Complete With Its Own Email Address",
-      "url": "https://decrypt.co/380545/google-gemini-coworker-own-email-address",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-08T21:16:03+00:00",
-      "raw_text": "Google Wants Gemini to Be Your Next Coworker—Complete With Its Own Email Address\n\nGoogle Cloud unveiled a single Gemini agent that takes goals instead of questions, works in the background for days, and can join a company as a staffer with its own inbox and calendar.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "listing": {
+        "count": 14,
+        "avg_1h": 0.25,
+        "avg_24h": -1.04,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 160,
+        "avg_1h": 0.44,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 177,
         "avg_1h": 0.27,
         "avg_24h": -0.18,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 161,
-        "avg_1h": 0.44,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
@@ -6437,12 +6443,6 @@
         "count": 108,
         "avg_1h": 0.11,
         "avg_24h": -1.66,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "listing": {
-        "count": 13,
-        "avg_1h": 0.25,
-        "avg_24h": -1.04,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
