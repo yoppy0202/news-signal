@@ -1,6 +1,224 @@
 {
-  "generated_at": "2026-10-19T06:09:28.217975+00:00",
+  "generated_at": "2026-10-19T13:09:13.046734+00:00",
   "events": [
+    {
+      "event_id": "8cd6f89a-1462-4a79-8597-85b88952d267",
+      "source": "rss:theblock",
+      "title": "Revolut secures Gibraltar crypto licence to support international expansion plans",
+      "url": "https://www.theblock.co/news/regulation/2026-10-19-revolut-secures-gibraltar-crypto-licence-to-support-international-expansion-plans-418889",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-19T10:42:07+00:00",
+      "raw_text": "Revolut secures Gibraltar crypto licence to support international expansion plans\n\nRevolut secured a Gibraltar DLT licence for a new entity to support its international crypto expansion strategy.",
+      "impact": {}
+    },
+    {
+      "event_id": "be55dd4c-b695-41c6-99b1-9e286d28690d",
+      "source": "rss:decrypt",
+      "title": "UK Trio Jailed Over Home Invasion in Failed Crypto Theft Attempt",
+      "url": "https://decrypt.co/381281/uk-trio-jailed-over-home-invasion-in-failed-crypto-theft-attempt",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-19T10:31:09+00:00",
+      "raw_text": "UK Trio Jailed Over Home Invasion in Failed Crypto Theft Attempt\n\nThe victim was hit over the head before his teenage sister alerted police, who arrested all three men at the scene in May.",
+      "impact": {}
+    },
+    {
+      "event_id": "4919aaa9-d611-419f-b30e-d26f2934f138",
+      "source": "rss:coindesk",
+      "title": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
+      "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-19T10:26:33+00:00",
+      "raw_text": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
+      "impact": {}
+    },
+    {
+      "event_id": "f99bdf68-01c4-49b6-baee-fb5db13e4b90",
+      "source": "rss:cointelegraph",
+      "title": "France advances stablecoin tax, eyes self-custodial wallets and exit tax proposals",
+      "url": "https://cointelegraph.com/news/france-stablecoin-tax-eyes-self-custodial-wallets-exit-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-19T10:22:30+00:00",
+      "raw_text": "France advances stablecoin tax, eyes self-custodial wallets and exit tax proposals\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"France advances stablecoin tax, eyes self-custodial wallets and exit tax proposals \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io",
+      "impact": {}
+    },
+    {
+      "event_id": "4933a067-0791-4449-bb51-decba0df0514",
+      "source": "rss:cointelegraph",
+      "title": "Stocks rebound into key tech earnings: Three things to know in Bitcoin this week",
+      "url": "https://cointelegraph.com/markets/stocks-rebound-into-key-tech-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-19T10:20:00+00:00",
+      "raw_text": "Stocks rebound into key tech earnings: Three things to know in Bitcoin this week\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stocks rebound into key tech earnings: Three things to know in Bitcoin this week \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/med",
+      "impact": {}
+    },
+    {
+      "event_id": "0ec26a8a-7324-4b52-a6ce-3d85d6ea189f",
+      "source": "rss:cointelegraph",
+      "title": "BingX, YouHodler added to ESMA MiCA register in latest update",
+      "url": "https://cointelegraph.com/news/bingx-youhodler-esma-mica-register-friday-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-19T10:13:00+00:00",
+      "raw_text": "BingX, YouHodler added to ESMA MiCA register in latest update\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BingX, YouHodler added to ESMA MiCA register in latest update\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59PRYYJ0CH",
+      "impact": {}
+    },
+    {
+      "event_id": "b94f0202-5954-495b-a77a-9d09df5f8677",
+      "source": "rss:decrypt",
+      "title": "Zcash Developer Zakura Proposes Fix to Stop Quantum Computers Linking Shielded Swaps",
+      "url": "https://decrypt.co/381257/zcash-developer-zakura-proposes-fix-to-stop-quantum-computers-linking-shielded-swaps",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-19T10:11:21+00:00",
+      "raw_text": "Zcash Developer Zakura Proposes Fix to Stop Quantum Computers Linking Shielded Swaps\n\nZakura says a single published Zcash address could let a future quantum attacker link every payment a wallet has ever received.",
+      "impact": {}
+    },
+    {
+      "event_id": "c377d40e-dd9b-4629-84ca-d06b73081539",
+      "source": "rss:coindesk",
+      "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
+      "url": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-19T10:03:47+00:00",
+      "raw_text": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
+      "impact": {}
+    },
+    {
+      "event_id": "62d3b8ac-5442-4737-a430-4cfb496a8584",
+      "source": "rss:coindesk",
+      "title": "Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny",
+      "url": "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-19T09:32:38+00:00",
+      "raw_text": "Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny",
+      "impact": {}
+    },
+    {
+      "event_id": "7247e9e4-d8f6-4087-9628-689a34a0bfd6",
+      "source": "rss:coindesk",
+      "title": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
+      "url": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-19T09:12:39+00:00",
+      "raw_text": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
+      "impact": {}
+    },
+    {
+      "event_id": "3c9e9510-90f1-41ea-8961-654d701db4eb",
+      "source": "rss:cointelegraph",
+      "title": "JPMorgan takes JPM Coin to Ethereum for institutional clients: Report",
+      "url": "https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-19T08:58:45+00:00",
+      "raw_text": "JPMorgan takes JPM Coin to Ethereum for institutional clients: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"JPMorgan takes JPM Coin to Ethereum for institutional clients: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/",
+      "impact": {}
+    },
+    {
+      "event_id": "f662e94b-078a-45b3-bee3-c66c3d44c597",
+      "source": "rss:theblock",
+      "title": "JPMorgan expands ‘JPM Coin’ deposit token to Ethereum for institutional clients",
+      "url": "https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-19T08:31:31+00:00",
+      "raw_text": "JPMorgan expands ‘JPM Coin’ deposit token to Ethereum for institutional clients\n\nThe USD-denominated deposit token now supports peer-to-peer transfers within the Ethereum Virtual Machine ecosystem, including Base.",
+      "impact": {}
+    },
+    {
+      "event_id": "7f3b7021-efb3-41f6-a5a4-30326de94787",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B",
+      "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "neutral",
+      "tokens": [
+        "ETH"
+      ],
+      "timestamp_utc": "2026-10-19T07:54:13+00:00",
+      "raw_text": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59F6KY",
+      "impact": {
+        "t_plus_5m": 0.1258,
+        "t_plus_15m": 0.0035,
+        "t_plus_1h": 0.2675,
+        "t_plus_4h": -0.2239
+      }
+    },
+    {
+      "event_id": "b4cc9125-6d08-45e5-8e01-aa6e7bac2d37",
+      "source": "rss:coindesk",
+      "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
+      "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
+      "event_type": "whale_move",
+      "sentiment_label": "neutral",
+      "tokens": [
+        "BTC"
+      ],
+      "timestamp_utc": "2026-10-19T06:23:16+00:00",
+      "raw_text": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
+      "impact": {
+        "t_plus_5m": 0.384,
+        "t_plus_15m": 0.509,
+        "t_plus_1h": 0.5273,
+        "t_plus_4h": 0.0992
+      }
+    },
+    {
+      "event_id": "fb0ee6ee-fc3b-416c-8515-48ce1216b800",
+      "source": "rss:cointelegraph",
+      "title": "Zoom adds ‘proof of human’ badges to show you’re not a deepfake",
+      "url": "https://cointelegraph.com/news/zoom-proof-of-human-badges-world-id-ai-deepfakes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-19T05:55:44+00:00",
+      "raw_text": "Zoom adds ‘proof of human’ badges to show you’re not a deepfake\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zoom adds ‘proof of human’ badges to show you’re not a deepfake\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59B8YT",
+      "impact": {}
+    },
+    {
+      "event_id": "f8ec8448-01dd-41cd-a746-c1d5fadcbd02",
+      "source": "rss:coindesk",
+      "title": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
+      "url": "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-19T05:23:02+00:00",
+      "raw_text": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
+      "impact": {}
+    },
+    {
+      "event_id": "f286cbae-92fb-4c78-b2b0-39ef93005018",
+      "source": "rss:cointelegraph",
+      "title": "South Korea to meet crypto exchanges amid calls for tax delay",
+      "url": "https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-19T05:14:06+00:00",
+      "raw_text": "South Korea to meet crypto exchanges amid calls for tax delay\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea to meet crypto exchanges amid calls for tax delay\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M597BM0AMWQ",
+      "impact": {}
+    },
     {
       "event_id": "e0ba5e82-f5cf-48ab-8248-f60b767fc26e",
       "source": "rss:coindesk",
@@ -8,10 +226,17 @@
       "url": "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-10-19T04:54:31+00:00",
       "raw_text": "XRP Ledger is set to fix its lending code before anyone can use it",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1785,
+        "t_plus_15m": 0.0368,
+        "t_plus_1h": 0.0967,
+        "t_plus_4h": 0.1982
+      }
     },
     {
       "event_id": "7913b0b4-003b-4e4c-92db-72d0b9c71972",
@@ -6185,246 +6410,26 @@
       "timestamp_utc": "2026-10-09T10:16:55+00:00",
       "raw_text": "Thailand opens door to locally listed bitcoin and ether ETFs",
       "impact": {}
-    },
-    {
-      "event_id": "93e96525-e2ad-4525-9afb-73208b416c8d",
-      "source": "rss:cointelegraph",
-      "title": "French lawmakers back stablecoin swap tax in 2027 budget bill",
-      "url": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-09T10:16:48+00:00",
-      "raw_text": "French lawmakers back stablecoin swap tax in 2027 budget bill\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"French lawmakers back stablecoin swap tax in 2027 budget bill\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FT35RCS7W",
-      "impact": {}
-    },
-    {
-      "event_id": "e5cce66b-735f-4565-b02d-9b4381af927f",
-      "source": "rss:coindesk",
-      "title": "UK slaps sanctions on three crypto exchanges over alleged Russia links",
-      "url": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-09T10:14:59+00:00",
-      "raw_text": "UK slaps sanctions on three crypto exchanges over alleged Russia links",
-      "impact": {}
-    },
-    {
-      "event_id": "e3369417-813c-4800-b9e7-829751e024bd",
-      "source": "rss:decrypt",
-      "title": "Empire Market Co-Creator Sentenced to 40 Years Over $430M Dark Web Bazaar",
-      "url": "https://decrypt.co/380561/empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web-bazaar",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-10-09T10:11:51+00:00",
-      "raw_text": "Empire Market Co-Creator Sentenced to 40 Years Over $430M Dark Web Bazaar\n\nRaheim Hamilton forfeited some 1,230 BTC. His co-creator Thomas Pavey, who agreed to forfeit 1,584 BTC, is due to be sentenced this month.",
-      "impact": {
-        "t_plus_5m": -0.1901,
-        "t_plus_15m": -0.2749,
-        "t_plus_1h": -0.4251,
-        "t_plus_4h": -0.0638
-      }
-    },
-    {
-      "event_id": "72b9f032-6802-481f-8c58-2d4479fb6474",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin speculators move 55K BTC to exchanges amid $1.1B liquidations",
-      "url": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-crypto-liquidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-09T09:50:01+00:00",
-      "raw_text": "Bitcoin speculators move 55K BTC to exchanges amid $1.1B liquidations\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin speculators move 55K BTC to exchanges amid $1.1B liquidations\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/",
-      "impact": {}
-    },
-    {
-      "event_id": "ee5651e9-b283-4dc5-996a-569f89be91f2",
-      "source": "rss:coindesk",
-      "title": "Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin",
-      "url": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-09T09:20:16+00:00",
-      "raw_text": "Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin",
-      "impact": {}
-    },
-    {
-      "event_id": "2883e47d-e02c-4373-a8b1-1919795fa95a",
-      "source": "rss:coindesk",
-      "title": "MARA transfers $81.1 million in bitcoin to Galaxy Digital as strategy pivots to AI",
-      "url": "https://www.coindesk.com/markets/2026/10/09/mara-transfers-usd81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-09T09:08:09+00:00",
-      "raw_text": "MARA transfers $81.1 million in bitcoin to Galaxy Digital as strategy pivots to AI",
-      "impact": {}
-    },
-    {
-      "event_id": "f5acd1ca-4309-46ed-8dd2-db29de0dfa49",
-      "source": "rss:coindesk",
-      "title": "Sam Altman-backed bitcoin insurer Meanwhile secures $37.5 million in Bain Capital Crypto-led round",
-      "url": "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-09T09:06:00+00:00",
-      "raw_text": "Sam Altman-backed bitcoin insurer Meanwhile secures $37.5 million in Bain Capital Crypto-led round",
-      "impact": {}
-    },
-    {
-      "event_id": "d556c8c6-f0d2-458c-8925-79f24e41a2a5",
-      "source": "rss:decrypt",
-      "title": "SIM-Swap Fraudster Who Spent Stolen Crypto on Gold Grills and Dubai Trips Jailed",
-      "url": "https://decrypt.co/380554/sim-swap-fraudster-who-spent-stolen-crypto-on-gold-grills-and-dubai-trips-jailed",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-09T08:59:31+00:00",
-      "raw_text": "SIM-Swap Fraudster Who Spent Stolen Crypto on Gold Grills and Dubai Trips Jailed\n\nAjay Shinjin helped steal nearly $265,000 in crypto after criminals hijacked BT customers' phone numbers in November 2021.",
-      "impact": {}
-    },
-    {
-      "event_id": "fe237b20-725f-476a-9503-a3af7b297e16",
-      "source": "rss:cointelegraph",
-      "title": "Bitcoin, Ether ETFs’ October outflows swell toward $1B",
-      "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-october-outflows-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-09T07:34:44+00:00",
-      "raw_text": "Bitcoin, Ether ETFs’ October outflows swell toward $1B\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin, Ether ETFs’ October outflows swell toward $1B\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FQAANP3H5Z0XYV77PNYB10/",
-      "impact": {}
-    },
-    {
-      "event_id": "d490aa8a-e602-4cdb-9cee-56e083bf6e77",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin slips from day's highs, set to close week with a loss",
-      "url": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-09T06:51:32+00:00",
-      "raw_text": "Live updates: Bitcoin slips from day's highs, set to close week with a loss",
-      "impact": {}
-    },
-    {
-      "event_id": "ebffac8c-d26f-48f0-bcf4-fd5e207da4a6",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin steadies near $83,000 as crypto recovers from Thursday selloff",
-      "url": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-09T06:51:32+00:00",
-      "raw_text": "Live updates: Bitcoin steadies near $83,000 as crypto recovers from Thursday selloff",
-      "impact": {}
-    },
-    {
-      "event_id": "7c60de23-3aab-405b-a876-6b9176c93e45",
-      "source": "rss:coindesk",
-      "title": "Live updates: XRP ETFs the only ones in green as BTC, ETH, ZEC funds post outflows",
-      "url": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
-      "event_type": "macro",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "XRP",
-        "BTC",
-        "ETH"
-      ],
-      "timestamp_utc": "2026-10-09T06:51:32+00:00",
-      "raw_text": "Live updates: XRP ETFs the only ones in green as BTC, ETH, ZEC funds post outflows",
-      "impact": {
-        "t_plus_5m": -0.0204,
-        "t_plus_15m": -0.0651,
-        "t_plus_1h": 0.0868
-      }
-    },
-    {
-      "event_id": "6f59ca0d-511b-426b-93f7-8c323fc492e2",
-      "source": "rss:coindesk",
-      "title": "New tech to power bitcoin lending is set to debut with $500 million in commitments",
-      "url": "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-09T06:40:54+00:00",
-      "raw_text": "New tech to power bitcoin lending is set to debut with $500 million in commitments",
-      "impact": {}
-    },
-    {
-      "event_id": "0c3a2742-6e99-4ed5-9ea7-806f7b19c58e",
-      "source": "rss:cointelegraph",
-      "title": "Crypto projects apply for Anthropic’s new frontier AI security scanner",
-      "url": "https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-09T05:34:33+00:00",
-      "raw_text": "Crypto projects apply for Anthropic’s new frontier AI security scanner\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto projects apply for Anthropic’s new frontier AI security scanner  \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2",
-      "impact": {}
-    },
-    {
-      "event_id": "3f8c67d7-ed78-46d8-9e78-d715bf89970e",
-      "source": "rss:cointelegraph",
-      "title": "Trump administration outlines quantum, AI initiatives in $6B science push",
-      "url": "https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-09T05:25:27+00:00",
-      "raw_text": "Trump administration outlines quantum, AI initiatives in $6B science push\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump administration outlines quantum, AI initiatives in $6B science push\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
-      "impact": {}
-    },
-    {
-      "event_id": "a9a1a5d8-bb08-4f2c-a164-57a1cae0a0c1",
-      "source": "rss:coindesk",
-      "title": "Solana is about to halve its block times as final 200-millisecond upgrade nears",
-      "url": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-09T05:00:52+00:00",
-      "raw_text": "Solana is about to halve its block times as final 200-millisecond upgrade nears",
-      "impact": {}
-    },
-    {
-      "event_id": "f5c38368-008e-4fea-9640-6e240731077d",
-      "source": "rss:coindesk",
-      "title": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
-      "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "XRP"
-      ],
-      "timestamp_utc": "2026-10-09T04:21:36+00:00",
-      "raw_text": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
-      "impact": {
-        "t_plus_5m": -0.3385,
-        "t_plus_15m": -0.3558,
-        "t_plus_1h": -0.1652,
-        "t_plus_4h": 0.1844
-      }
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 176,
-        "avg_1h": 0.27,
-        "avg_24h": -0.18,
+      "macro": {
+        "count": 102,
+        "avg_1h": 0.13,
+        "avg_24h": -1.66,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 161,
+        "count": 165,
         "avg_1h": 0.44,
         "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 176,
+        "avg_1h": 0.34,
+        "avg_24h": -0.18,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
@@ -6433,22 +6438,16 @@
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
+      "whale_move": {
+        "count": 5,
+        "avg_1h": 0.04,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "listing": {
         "count": 14,
         "avg_1h": 0.25,
         "avg_24h": -1.04,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 107,
-        "avg_1h": 0.11,
-        "avg_24h": -1.66,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "whale_move": {
-        "count": 4,
-        "avg_1h": -0.12,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       }
     }
