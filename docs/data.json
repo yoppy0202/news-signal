@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-19T23:33:56.319442+00:00",
+  "generated_at": "2026-10-20T04:41:09.139141+00:00",
   "events": [
+    {
+      "event_id": "7c01c552-35d7-4af2-a0e9-2d613c9ad364",
+      "source": "rss:bitcoinmagazine",
+      "title": "AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month",
+      "url": "https://bitcoinmagazine.com/news/anchorwatch-debuts-nevada-trust-company",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-19T22:28:17+00:00",
+      "raw_text": "AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-18.jpg\" style=\"display: block; margin: 1em auto;\" /><br />",
+      "impact": {}
+    },
+    {
+      "event_id": "943f4910-e0ae-476b-9fb1-c054a8b07a49",
+      "source": "rss:theblock",
+      "title": "BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT",
+      "url": "https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-19T22:00:53+00:00",
+      "raw_text": "BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT\n\nOne of the world's largest investment managers, BlackRock has filed for another bitcoin fund, marking its third tied to the asset.",
+      "impact": {}
+    },
+    {
+      "event_id": "883dfbda-614e-4c62-95d5-8eb3927514e5",
+      "source": "rss:decrypt",
+      "title": "Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million",
+      "url": "https://decrypt.co/381382/strive-buys-335-million-bitcoin",
+      "event_type": "listing",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-19T21:46:05+00:00",
+      "raw_text": "Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million\n\nThe Nasdaq-listed bitcoin holder bought as warrant holders exercised, bringing in $369 million, and it now plans a $630 million sale of 15% preferred stock.",
+      "impact": {}
+    },
     {
       "event_id": "26e2d751-a2d4-4221-9b70-5997eed67003",
       "source": "rss:decrypt",
@@ -20,10 +56,16 @@
       "url": "https://cointelegraph.com/news/solana-treasury-skyai-sells-all-sol-holdings-launches-201m-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "SOL"
+      ],
       "timestamp_utc": "2026-10-19T21:04:34+00:00",
       "raw_text": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1593,
+        "t_plus_15m": -0.0446,
+        "t_plus_1h": 0.2583
+      }
     },
     {
       "event_id": "fdba01a9-c85a-40c1-adae-eb01ae4f86ea",
@@ -32,10 +74,16 @@
       "url": "https://decrypt.co/381358/xrp-ledger-repairs-lending-protocol-before-live",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-10-19T20:46:05+00:00",
       "raw_text": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live\n\nXRP developers published a second amendment to repair the ledger’s new uncollateralized lending feature while the original still awaits validator approval.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.0355,
+        "t_plus_15m": 0.0176,
+        "t_plus_1h": 0.2448
+      }
     },
     {
       "event_id": "d2ce0428-f592-4871-aa25-f9bd462539c7",
@@ -104,10 +152,16 @@
       "url": "https://bitcoinmagazine.com/news/metaplanet-super-league-deal-approved",
       "event_type": "listing",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-10-19T19:32:17+00:00",
       "raw_text": "Super League Stockholders Approve Metaplanet’s 2,100 BTC Investment, Paving Way for ‘Superplanet’\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Metaplanet-Acquires-Siiibo-Securities-in-Push-to-Buil",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0143,
+        "t_plus_15m": 0.0348,
+        "t_plus_1h": -0.026
+      }
     },
     {
       "event_id": "8ac25ea2-908e-476c-84af-68cb0066a1cd",
@@ -220,7 +274,8 @@
       "impact": {
         "t_plus_5m": 0.0053,
         "t_plus_15m": -0.0065,
-        "t_plus_1h": -0.0391
+        "t_plus_1h": -0.0391,
+        "t_plus_4h": 0.0232
       }
     },
     {
@@ -238,7 +293,8 @@
       "impact": {
         "t_plus_5m": 0.0449,
         "t_plus_15m": -0.0018,
-        "t_plus_1h": -0.0782
+        "t_plus_1h": -0.0782,
+        "t_plus_4h": 0.0194
       }
     },
     {
@@ -6368,74 +6424,38 @@
       "timestamp_utc": "2026-10-10T08:41:06+00:00",
       "raw_text": "Tech chief says EU can fend off rogue AI risk: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tech chief says EU can fend off rogue AI risk: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4JFDB4ND4321Z9KER496JAS/ai",
       "impact": {}
-    },
-    {
-      "event_id": "fa2908b9-7fc8-4eaa-950d-c8ccdc7120e9",
-      "source": "rss:cointelegraph",
-      "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
-      "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-10T07:10:43+00:00",
-      "raw_text": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10",
-      "impact": {}
-    },
-    {
-      "event_id": "bc3ccac4-547c-4321-9500-73358a2dd6dd",
-      "source": "rss:coindesk",
-      "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
-      "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-10T05:43:00+00:00",
-      "raw_text": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
-      "impact": {}
-    },
-    {
-      "event_id": "23dded38-fae9-4465-aa36-9403949bf49e",
-      "source": "rss:coindesk",
-      "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
-      "url": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-10T04:44:35+00:00",
-      "raw_text": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 102,
+        "avg_1h": 0.08,
+        "avg_24h": -1.66,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "listing": {
+        "count": 15,
+        "avg_1h": 0.22,
+        "avg_24h": -1.04,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 180,
+        "count": 179,
         "avg_1h": 0.34,
         "avg_24h": 1.19,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 167,
+        "count": 165,
         "avg_1h": 0.39,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 100,
-        "avg_1h": 0.06,
-        "avg_24h": -1.66,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
         "count": 34,
         "avg_1h": 0.1,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "listing": {
-        "count": 14,
-        "avg_1h": 0.25,
-        "avg_24h": -1.04,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
