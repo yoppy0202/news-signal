@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-10-20T04:41:09.139141+00:00",
+  "generated_at": "2026-10-20T09:58:20.163028+00:00",
   "events": [
+    {
+      "event_id": "5395415f-1b3d-4c29-9100-3ea02261bc38",
+      "source": "rss:cointelegraph",
+      "title": "US bans DeepSeek from civilian agency IT systems",
+      "url": "https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-20T04:07:58+00:00",
+      "raw_text": "US bans DeepSeek from civilian agency IT systems\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US bans DeepSeek from civilian agency IT systems\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5BPZ4H9R43QB2KJ6EFY4RNJ/hi-can-a-blo",
+      "impact": {}
+    },
+    {
+      "event_id": "9a715f44-dbe0-4bc8-bc6f-96c67f720e49",
+      "source": "rss:theblock",
+      "title": "Blockchain Association says Treasury’s GENIUS Act rollout needs clearer DeFi, foreign issuer rules",
+      "url": "https://www.theblock.co/news/regulation/2026-10-20-blockchain-association-clearer-rules-genius-act-421092",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-20T04:07:41+00:00",
+      "raw_text": "Blockchain Association says Treasury’s GENIUS Act rollout needs clearer DeFi, foreign issuer rules\n\nThe group filed comments on Treasury's proposed rule implementing the GENIUS Act, which governs who can issue and sell payment stablecoins.",
+      "impact": {}
+    },
+    {
+      "event_id": "cfb5a338-0c24-47a2-a6a4-3312a2a1c1b3",
+      "source": "rss:bitcoinmagazine",
+      "title": "Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants",
+      "url": "https://bitcoinmagazine.com/culture/pita-cafe-arizona-bitcoin",
+      "event_type": "listing",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-20T03:54:15+00:00",
+      "raw_text": "Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pita-Cafe-Arizona.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a hre",
+      "impact": {}
+    },
+    {
+      "event_id": "be778f8f-cdec-4c52-97bc-c53f3500d6a3",
+      "source": "rss:cointelegraph",
+      "title": "Bitcoin rally could revive treasury buying, but easy-money days over",
+      "url": "https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-20T01:35:00+00:00",
+      "raw_text": "Bitcoin rally could revive treasury buying, but easy-money days over\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin rally could revive treasury buying, but easy-money days over\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10",
+      "impact": {}
+    },
     {
       "event_id": "7c01c552-35d7-4af2-a0e9-2d613c9ad364",
       "source": "rss:bitcoinmagazine",
@@ -8,10 +56,17 @@
       "url": "https://bitcoinmagazine.com/news/anchorwatch-debuts-nevada-trust-company",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-10-19T22:28:17+00:00",
       "raw_text": "AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-18.jpg\" style=\"display: block; margin: 1em auto;\" /><br />",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.4627,
+        "t_plus_15m": 0.4536,
+        "t_plus_1h": 0.3881,
+        "t_plus_4h": -0.0308
+      }
     },
     {
       "event_id": "943f4910-e0ae-476b-9fb1-c054a8b07a49",
@@ -64,7 +119,8 @@
       "impact": {
         "t_plus_5m": -0.1593,
         "t_plus_15m": -0.0446,
-        "t_plus_1h": 0.2583
+        "t_plus_1h": 0.2583,
+        "t_plus_4h": -0.295
       }
     },
     {
@@ -82,7 +138,8 @@
       "impact": {
         "t_plus_5m": 0.0355,
         "t_plus_15m": 0.0176,
-        "t_plus_1h": 0.2448
+        "t_plus_1h": 0.2448,
+        "t_plus_4h": -0.2351
       }
     },
     {
@@ -160,7 +217,8 @@
       "impact": {
         "t_plus_5m": -0.0143,
         "t_plus_15m": 0.0348,
-        "t_plus_1h": -0.026
+        "t_plus_1h": -0.026,
+        "t_plus_4h": -0.0149
       }
     },
     {
@@ -855,6 +913,18 @@
       "tokens": [],
       "timestamp_utc": "2026-10-19T09:12:39+00:00",
       "raw_text": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
+      "impact": {}
+    },
+    {
+      "event_id": "03158851-1ad7-4f50-9f84-46bfe8e83a74",
+      "source": "rss:cointelegraph",
+      "title": "JPMorgan takes JPM Coin to Ethereum for institutional clients",
+      "url": "https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-19T08:58:45+00:00",
+      "raw_text": "JPMorgan takes JPM Coin to Ethereum for institutional clients\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"JPMorgan takes JPM Coin to Ethereum for institutional clients\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59MBQFEA0Z",
       "impact": {}
     },
     {
@@ -6364,92 +6434,32 @@
       "timestamp_utc": "2026-10-10T12:00:00+00:00",
       "raw_text": "Tokenized commodities look beyond gold as lending and oil open new markets",
       "impact": {}
-    },
-    {
-      "event_id": "d039720e-db5b-487e-9730-63d3f2b0e1d4",
-      "source": "rss:coindesk",
-      "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
-      "url": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-10T12:00:00+00:00",
-      "raw_text": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
-      "impact": {}
-    },
-    {
-      "event_id": "6cb9df75-cb6f-4670-9438-93a2dd120176",
-      "source": "rss:cointelegraph",
-      "title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
-      "url": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-10T11:52:14+00:00",
-      "raw_text": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Justin Sun says Tron’s post-quantum cryptography has gone live on testnet\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cove",
-      "impact": {}
-    },
-    {
-      "event_id": "443ad9fe-449e-4b0b-a467-803209f50f33",
-      "source": "rss:coindesk",
-      "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
-      "url": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-10T11:00:00+00:00",
-      "raw_text": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
-      "impact": {}
-    },
-    {
-      "event_id": "767598ef-b45e-4f76-8798-40c7ead24d85",
-      "source": "rss:coindesk",
-      "title": "Bitcoin's $19 billion wake-up call: One-year later, has crypto learned anything?",
-      "url": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-10T11:00:00+00:00",
-      "raw_text": "Bitcoin's $19 billion wake-up call: One-year later, has crypto learned anything?",
-      "impact": {}
-    },
-    {
-      "event_id": "bca6a911-6894-4581-a01a-ad74792edc29",
-      "source": "rss:cointelegraph",
-      "title": "Tech chief says EU can fend off rogue AI risk: Report",
-      "url": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-10T08:41:06+00:00",
-      "raw_text": "Tech chief says EU can fend off rogue AI risk: Report\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tech chief says EU can fend off rogue AI risk: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4JFDB4ND4321Z9KER496JAS/ai",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "macro": {
-        "count": 102,
-        "avg_1h": 0.08,
+        "count": 103,
+        "avg_1h": 0.1,
         "avg_24h": -1.66,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "listing": {
-        "count": 15,
-        "avg_1h": 0.22,
-        "avg_24h": -1.04,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "unknown": {
-        "count": 179,
-        "avg_1h": 0.34,
-        "avg_24h": 1.19,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
         "count": 165,
         "avg_1h": 0.39,
         "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "listing": {
+        "count": 16,
+        "avg_1h": 0.22,
+        "avg_24h": -1.04,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "unknown": {
+        "count": 177,
+        "avg_1h": 0.34,
+        "avg_24h": 1.19,
         "win_rate_1h_gt5pct": 0.0
       },
       "hack": {
