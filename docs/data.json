@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-20T23:08:18.322459+00:00",
+  "generated_at": "2026-10-21T01:32:03.913204+00:00",
   "events": [
+    {
+      "event_id": "4afd8f68-07ae-4dbb-92cc-c5426102d092",
+      "source": "rss:cointelegraph",
+      "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
+      "url": "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-20T23:26:02+00:00",
+      "raw_text": "Qubic restarts blockchain, opens recovery claims after $1.4M hack\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Qubic restarts blockchain, opens recovery claims after $1.4M hack\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5D",
+      "impact": {}
+    },
     {
       "event_id": "88b2dc89-a7c7-4774-bb9a-16ac6f60c87e",
       "source": "rss:decrypt",
@@ -68,10 +80,16 @@
       "url": "https://bitcoinmagazine.com/news/liquid-network-announces-recovery",
       "event_type": "hack",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-10-20T21:10:58+00:00",
       "raw_text": "Liquid Network Announces Final Stages of Recovery Following Massive Hack\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-1-6.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"http",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.1431,
+        "t_plus_15m": -0.1541,
+        "t_plus_1h": 0.0713
+      }
     },
     {
       "event_id": "f483f914-c2b3-428a-927c-9a8b55e2470f",
@@ -92,10 +110,16 @@
       "url": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
       "event_type": "hack",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-10-20T20:46:04+00:00",
       "raw_text": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash\n\nThe North Korea-linked attacker behind April's $295 million Drift heist pushed 25,700 ETH through the mixer in two hours, and still controls roughly $198 million more.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.5075,
+        "t_plus_15m": -0.382,
+        "t_plus_1h": -0.2837
+      }
     },
     {
       "event_id": "f4f45967-f087-472b-b867-9d805e6e5a1c",
@@ -128,10 +152,16 @@
       "url": "https://bitcoinmagazine.com/news/strive-debuts-new-preferred-stock",
       "event_type": "listing",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-10-20T20:13:19+00:00",
       "raw_text": "Bitcoin Treasury Strive Debuts New Preferred Stock With 15% Dividend\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strive-ASST-Holds-19864-BTC-With-No-New-Purchases-Last-Week-Balance-Sheet-Hits-141",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.5384,
+        "t_plus_15m": -0.4712,
+        "t_plus_1h": -0.1431
+      }
     },
     {
       "event_id": "189d493e-9da2-4961-8461-a7e89fc96880",
@@ -236,10 +266,17 @@
       "url": "https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-10-20T17:40:00+00:00",
       "raw_text": "Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/0",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.5311,
+        "t_plus_15m": 0.5569,
+        "t_plus_1h": 0.1808,
+        "t_plus_4h": 0.5321
+      }
     },
     {
       "event_id": "b67b9930-674b-48f6-9111-187d5f412e52",
@@ -248,10 +285,17 @@
       "url": "https://bitcoinmagazine.com/news/jpmorgan-says-bitcoin-could-outperform",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-10-20T17:27:14+00:00",
       "raw_text": "Bitcoin Could Outperform Most Assets, JPMorgan Says — But the Bank Still Won’t Recommend It\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/01/Morgan-Stanley-Seeks-SEC-Approval-for-Spot-Bitcoin-ETF.jpg\"",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.4342,
+        "t_plus_15m": 0.5219,
+        "t_plus_1h": 0.2493,
+        "t_plus_4h": 0.6196
+      }
     },
     {
       "event_id": "12a0a19b-31be-4608-b1ed-4db34cdb1a69",
@@ -320,10 +364,17 @@
       "url": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-10-20T16:31:24+00:00",
       "raw_text": "Ethereum staking hits record as yields fall and Solana activity grows: Bitwise\n\nA record 43.8 million ETH, nearly 36% of supply, was staked in Q3 as yields fell to 2.63%. Solana staking hit a record 440.5 million SOL.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.7684,
+        "t_plus_15m": 0.7296,
+        "t_plus_1h": 0.9061,
+        "t_plus_4h": 0.5272
+      }
     },
     {
       "event_id": "3aa41052-1436-48a6-a08c-535582e86668",
@@ -6359,25 +6410,19 @@
       "timestamp_utc": "2026-10-12T17:19:33+00:00",
       "raw_text": "Ledger Investigates Fund Losses Tied to Southeast Asian Reseller After Implant Found in Device\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/laptop_ledger_1920x1080.jpg\" style=\"display: block; marg",
       "impact": {}
-    },
-    {
-      "event_id": "011a30c0-6823-4fbb-b327-e2c26151f92b",
-      "source": "rss:theblock",
-      "title": "StoneX raises Securitize price target 50% as tokenized stock platform opens new revenue stream",
-      "url": "https://www.theblock.co/news/markets/2026-10-12-stonex-raises-securitize-price-target-tokenized-stocks-418313",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-12T17:06:25+00:00",
-      "raw_text": "StoneX raises Securitize price target 50% as tokenized stock platform opens new revenue stream\n\nStoneX lifts SECZ price target to $18 from $12, citing new revenue from the Securitize Stocks tokenized trading platform on Solana.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 34,
+        "avg_1h": 0.06,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 174,
-        "avg_1h": 0.13,
+        "avg_1h": 0.19,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6387,21 +6432,15 @@
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 33,
-        "avg_1h": 0.38,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 107,
-        "avg_1h": -0.05,
+        "count": 106,
+        "avg_1h": -0.02,
         "avg_24h": -1.66,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
         "count": 17,
-        "avg_1h": 0.13,
+        "avg_1h": 0.09,
         "avg_24h": -1.04,
         "win_rate_1h_gt5pct": 0.0
       },
