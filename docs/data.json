@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-10-21T22:17:01.535719+00:00",
+  "generated_at": "2026-10-22T01:27:02.631852+00:00",
   "events": [
+    {
+      "event_id": "c18b2921-04d3-4996-96c6-195bfd6abddd",
+      "source": "rss:cointelegraph",
+      "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
+      "url": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-21T21:53:48+00:00",
+      "raw_text": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cover",
+      "impact": {}
+    },
+    {
+      "event_id": "3f1994e1-c341-4961-a6e3-d2129c870a44",
+      "source": "rss:decrypt",
+      "title": "Ken Griffin Says AI Is 'Almost Certainly' in a Bubble—And Compares GPUs to Airline Seats",
+      "url": "https://decrypt.co/381578/ken-griffin-ai-bubble-gpus-airline-seats",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-21T21:31:02+00:00",
+      "raw_text": "Ken Griffin Says AI Is 'Almost Certainly' in a Bubble—And Compares GPUs to Airline Seats\n\nCitadel's founder says investors are almost certainly in an AI bubble, warns a chip glut could crash prices like empty airline seats, yet expects the survivors to lead for decades.",
+      "impact": {}
+    },
+    {
+      "event_id": "48162600-4e83-44ac-9cbd-8c22e3808169",
+      "source": "rss:bitcoinmagazine",
+      "title": "Three Companies Have Notified the SEC of Intention To Start Tokenized Stocks Trading",
+      "url": "https://bitcoinmagazine.com/news/companies-apply-to-list-tokenized-stocks",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-21T20:55:23+00:00",
+      "raw_text": "Three Companies Have Notified the SEC of Intention To Start Tokenized Stocks Trading\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/SEC-Green-Lights-Tokenized-Stock-Trading-Despite-Clarity-Act-Fail.",
+      "impact": {}
+    },
+    {
+      "event_id": "c222b0a3-d161-4cb0-87f9-29f662451229",
+      "source": "rss:cointelegraph",
+      "title": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
+      "url": "https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-21T20:26:07+00:00",
+      "raw_text": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether backs Bolivian fintech bringing USDT payments to food delivery and banking\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/me",
+      "impact": {}
+    },
+    {
+      "event_id": "4c3d86b2-8cc3-4657-b827-78f3ca009c6b",
+      "source": "rss:cointelegraph",
+      "title": "Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable",
+      "url": "https://cointelegraph.com/news/white-house-cybercrime-roundtable-donald-trump-crypto-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-21T20:19:39+00:00",
+      "raw_text": "Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2",
+      "impact": {}
+    },
+    {
+      "event_id": "2171bfb7-7a48-46e0-9105-57b4b60251ed",
+      "source": "rss:decrypt",
+      "title": "Nvidia Unveils Its Full-Stack Blueprint to Contain and Monitor AI Agents",
+      "url": "https://decrypt.co/381570/nvidia-ai-agent-containment-tools-full-stack-blueprint",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-21T20:16:02+00:00",
+      "raw_text": "Nvidia Unveils Its Full-Stack Blueprint to Contain and Monitor AI Agents\n\nNvidia's OpenShell Reference Architecture pairs a software sandbox on Vera CPUs with Sentry monitoring on BlueField-4 chips, aiming to let companies run autonomous agents while enforcing limits agents cannot reach.",
+      "impact": {}
+    },
     {
       "event_id": "0b83500f-c2a9-49bf-88a4-0e777239198d",
       "source": "rss:theblock",
@@ -68,10 +140,17 @@
       "url": "https://decrypt.co/381555/bitcoin-price-weekly-high-crypto-rebounds",
       "event_type": "unknown",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-10-21T17:31:03+00:00",
       "raw_text": "Bitcoin Hits Weekly High as Crypto Market Rebounds\n\nBitcoin is back near $84,500 as XRP and Zcash lead a broad crypto rebound from October's slide, putting \"Uptober\" back on the table.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.5077,
+        "t_plus_15m": -0.4647,
+        "t_plus_1h": 0.3291,
+        "t_plus_4h": -0.33
+      }
     },
     {
       "event_id": "ab6c2cca-40be-4fc3-9b6c-b5bb03b48759",
@@ -116,10 +195,17 @@
       "url": "https://decrypt.co/381541/dogecoin-gets-dedicated-company-build-ecosystem",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "DOGE"
+      ],
       "timestamp_utc": "2026-10-21T16:46:04+00:00",
       "raw_text": "Dogecoin Gets a Dedicated Company to Build Out Its Ecosystem\n\nFormed with the Dogecoin Foundation and led by MyDoge founder Jordan Jefferson, the new company consolidates the MyDoge wallet, DogeOS app platform, and Such App to build an economy around DOGE.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.4799,
+        "t_plus_15m": 0.2665,
+        "t_plus_1h": 0.3003,
+        "t_plus_4h": 0.0322
+      }
     },
     {
       "event_id": "a5f8e35e-89c9-49ce-b4bf-17d8b946567e",
@@ -164,10 +250,17 @@
       "url": "https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-10-21T16:16:05+00:00",
       "raw_text": "Musk’s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth\n\nMusk said both boards formed committees to weigh a tie-up that would combine Tesla’s 11,509 BTC and SpaceX’s 18,712 BTC—roughly $2.5 billion worth—onto a single balance sheet.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1508,
+        "t_plus_15m": 0.2031,
+        "t_plus_1h": -0.1422,
+        "t_plus_4h": -0.0048
+      }
     },
     {
       "event_id": "a538dd9d-2837-44bc-ae35-6ca2d12e9dd1",
@@ -220,7 +313,8 @@
       "impact": {
         "t_plus_5m": -0.038,
         "t_plus_15m": 0.0448,
-        "t_plus_1h": 0.2018
+        "t_plus_1h": 0.2018,
+        "t_plus_4h": 0.0472
       }
     },
     {
@@ -722,6 +816,18 @@
       "impact": {}
     },
     {
+      "event_id": "c5e6d663-75a6-41bb-9b46-5edf2dda4145",
+      "source": "rss:coindesk",
+      "title": "Live updates: Bitcoin holds above $84,000 as Middle East worries resurface",
+      "url": "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-21T10:30:40+00:00",
+      "raw_text": "Live updates: Bitcoin holds above $84,000 as Middle East worries resurface",
+      "impact": {}
+    },
+    {
       "event_id": "c549ebef-0373-4289-9899-fb5ac518d2c7",
       "source": "rss:coindesk",
       "title": "Live updates: Bitcoin rises to $84,000, but rally cut short by Middle East worry",
@@ -1123,7 +1229,8 @@
         "t_plus_5m": -0.5384,
         "t_plus_15m": -0.4712,
         "t_plus_1h": -0.1431,
-        "t_plus_4h": 0.0505
+        "t_plus_4h": 0.0505,
+        "t_plus_24h": 1.7882
       }
     },
     {
@@ -6295,136 +6402,31 @@
       "timestamp_utc": "2026-10-13T21:46:04+00:00",
       "raw_text": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him\n\nA Saudi national working at OpenAI allegedly hid an encrypted audio recorder behind a TV in an executive meeting room. OpenAI says its own models helped trace it back to him.",
       "impact": {}
-    },
-    {
-      "event_id": "798edf19-8ca0-4c36-be6f-2ef1b3877088",
-      "source": "rss:decrypt",
-      "title": "Character.AI Files for Bankruptcy as Disney Bids $20 Million—And Users Get Grief Resources",
-      "url": "https://decrypt.co/380894/character-ai-bankruptcy-disney-users-grief-resources",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-13T21:16:04+00:00",
-      "raw_text": "Character.AI Files for Bankruptcy as Disney Bids $20 Million—And Users Get Grief Resources\n\nThe chatbot app once valued at $1 billion is up for sale in a Delaware court, two weeks after launching new models. If nobody buys it, it shuts down.",
-      "impact": {}
-    },
-    {
-      "event_id": "4eed476f-be1c-440f-b37c-729c8772df54",
-      "source": "rss:decrypt",
-      "title": "Binance Is Shutting Down Its Bitcoin Mining Pool After Six Years",
-      "url": "https://decrypt.co/380870/binance-shutting-down-bitcoin-mining-pool",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-13T20:16:03+00:00",
-      "raw_text": "Binance Is Shutting Down Its Bitcoin Mining Pool After Six Years\n\nBinance will discontinue Binance Pool, Pool Savings, Cloud Mining, and other related services in a retreat from mining infrastructure.",
-      "impact": {}
-    },
-    {
-      "event_id": "a93e755d-37ac-4279-bd17-98208d07d96a",
-      "source": "rss:cointelegraph",
-      "title": "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
-      "url": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BNB"
-      ],
-      "timestamp_utc": "2026-10-13T19:48:06+00:00",
-      "raw_text": "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
-      "impact": {
-        "t_plus_5m": -0.0086,
-        "t_plus_15m": 0.0552,
-        "t_plus_1h": 0.1218,
-        "t_plus_4h": 0.009
-      }
-    },
-    {
-      "event_id": "7b83cc2d-5bf1-4a9d-9984-51894bd4cac8",
-      "source": "rss:decrypt",
-      "title": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
-      "url": "https://decrypt.co/380867/bitcoin-whale-every-crash-2020-moves-377m",
-      "event_type": "whale_move",
-      "sentiment_label": "neutral",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-10-13T19:38:12+00:00",
-      "raw_text": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M\n\nA wallet that received 4,581 BTC in March 2020, worth about $40 million then, moved its stash today when it was worth about $377 million.",
-      "impact": {
-        "t_plus_5m": -0.2192,
-        "t_plus_15m": -0.1501,
-        "t_plus_1h": -0.0609,
-        "t_plus_4h": -0.1461
-      }
-    },
-    {
-      "event_id": "b776fc95-87f2-4b1e-b325-78da7338b853",
-      "source": "rss:cointelegraph",
-      "title": "Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports",
-      "url": "https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-13T19:07:04+00:00",
-      "raw_text": "Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/",
-      "impact": {}
-    },
-    {
-      "event_id": "64049eea-6290-4069-8ca0-98cc8cd6e7eb",
-      "source": "rss:decrypt",
-      "title": "Strive Buys $280 Million in Bitcoin, Its Largest Purchase in Months",
-      "url": "https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-10-13T18:15:05+00:00",
-      "raw_text": "Strive Buys $280 Million in Bitcoin, Its Largest Purchase in Months\n\nThe Nasdaq-listed asset manager bought the Bitcoin at an average of about $84,500 during a rough week for the market, lifting its total stash to 32,773 BTC.",
-      "impact": {
-        "t_plus_5m": -0.2237,
-        "t_plus_15m": -0.3321,
-        "t_plus_1h": -0.1997,
-        "t_plus_4h": 0.0858
-      }
-    },
-    {
-      "event_id": "e73aea13-6a90-4320-9b84-5e0a4fd2e082",
-      "source": "rss:decrypt",
-      "title": "AI Researchers Are Smoking Cigarettes to Prove AI Will Cure Cancer, Says Palantir Exec",
-      "url": "https://decrypt.co/380857/ai-researchers-smoking-cigarettes-prove-ai-cure-cancer",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-13T17:37:46+00:00",
-      "raw_text": "AI Researchers Are Smoking Cigarettes to Prove AI Will Cure Cancer, Says Palantir Exec\n\nPalantir CTO Shyam Sankar says many AI researchers have taken up smoking to signal their faith in AI.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 173,
-        "avg_1h": 0.31,
-        "avg_24h": 2.62,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
         "count": 160,
-        "avg_1h": 0.27,
+        "avg_1h": 0.26,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 118,
+        "count": 119,
         "avg_1h": -0.04,
         "avg_24h": -0.23,
         "win_rate_1h_gt5pct": 0.0
       },
+      "unknown": {
+        "count": 174,
+        "avg_1h": 0.31,
+        "avg_24h": 2.62,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "whale_move": {
-        "count": 5,
-        "avg_1h": 0.16,
+        "count": 4,
+        "avg_1h": 0.27,
         "avg_24h": 3.47,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6435,9 +6437,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
-        "count": 14,
-        "avg_1h": -0.03,
-        "avg_24h": -1.04,
+        "count": 13,
+        "avg_1h": 0.01,
+        "avg_24h": 0.37,
         "win_rate_1h_gt5pct": 0.0
       }
     }
