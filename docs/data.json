@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-10-22T22:15:42.188812+00:00",
+  "generated_at": "2026-10-23T01:25:51.033823+00:00",
   "events": [
+    {
+      "event_id": "6352a46d-dff5-401d-8fc3-a62db0248613",
+      "source": "rss:bitcoinmagazine",
+      "title": "The Sleeper Has Awakened: Pepenardo’s Sleeping Knights Return",
+      "url": "https://bitcoinmagazine.com/culture/the-sleeper-has-awakened-pepenardos-sleeping-knights-return",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-22T23:06:48+00:00",
+      "raw_text": "The Sleeper Has Awakened: Pepenardo’s Sleeping Knights Return\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/The-Sleeper-Has-Awakened-Pepenardos-Sleeping-Knights-Return.png\" style=\"display: block; m",
+      "impact": {}
+    },
+    {
+      "event_id": "65870b9a-1884-4b31-b982-71e5dab8417f",
+      "source": "rss:cointelegraph",
+      "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
+      "url": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-22T22:50:22+00:00",
+      "raw_text": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/0",
+      "impact": {}
+    },
+    {
+      "event_id": "0c55aa34-9e8c-49e9-901d-8c8d1f885b4a",
+      "source": "rss:coindesk",
+      "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+      "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-22T22:43:36+00:00",
+      "raw_text": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+      "impact": {}
+    },
+    {
+      "event_id": "fe653e9f-3671-4e08-a863-38765993c8eb",
+      "source": "rss:decrypt",
+      "title": "Is the Internet Safe Again After the PHP Nightmare? What You Need to Know",
+      "url": "https://decrypt.co/381662/internet-safe-again-after-php-nightmare-what-you-need-know",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-22T22:21:46+00:00",
+      "raw_text": "Is the Internet Safe Again After the PHP Nightmare? What You Need to Know\n\nPHP shipped its fix, attackers launched millions of attempts, and governments say no one has broken in yet. Here's what that means for your passwords, your crypto, and your browsing.",
+      "impact": {}
+    },
+    {
+      "event_id": "a356a73e-cd71-4fd3-9580-bfbcc614853d",
+      "source": "rss:cointelegraph",
+      "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
+      "url": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-22T21:39:18+00:00",
+      "raw_text": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/medi",
+      "impact": {}
+    },
+    {
+      "event_id": "a087f685-fdfd-4456-990a-c75e1fa442be",
+      "source": "rss:bitcoinmagazine",
+      "title": "Circle Shareholder Sues Trump, Alleging Unconstitutional Profits From $2B UAE Crypto Deals",
+      "url": "https://bitcoinmagazine.com/news/trump-sued-for-alleged-crypto-corruption",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-22T21:23:58+00:00",
+      "raw_text": "Circle Shareholder Sues Trump, Alleging Unconstitutional Profits From $2B UAE Crypto Deals\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-22.jpg\" style=\"display: block; margin: 1em auto;\" /><br",
+      "impact": {}
+    },
     {
       "event_id": "3d8c40af-71c9-4ec8-8137-2456dc622560",
       "source": "rss:decrypt",
@@ -116,10 +188,17 @@
       "url": "https://bitcoinmagazine.com/news/china-to-confiscate-billions-in-bitcoin",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-10-22T18:32:02+00:00",
       "raw_text": "China Moves to Confiscate $5 Billion in Bitcoin From Fraudster Who Fled to UK: Report\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-1-7.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0323,
+        "t_plus_15m": 0.0504,
+        "t_plus_1h": 0.2532,
+        "t_plus_4h": 0.1173
+      }
     },
     {
       "event_id": "50cd73e0-677c-4fa7-84e7-509dd305545d",
@@ -220,7 +299,8 @@
       "impact": {
         "t_plus_5m": 0.4957,
         "t_plus_15m": 0.3455,
-        "t_plus_1h": 0.2448
+        "t_plus_1h": 0.2448,
+        "t_plus_4h": 0.172
       }
     },
     {
@@ -286,7 +366,8 @@
       "impact": {
         "t_plus_5m": 0.5217,
         "t_plus_15m": 0.4324,
-        "t_plus_1h": 0.3652
+        "t_plus_1h": 0.3652,
+        "t_plus_4h": 0.3613
       }
     },
     {
@@ -6319,117 +6400,38 @@
       "timestamp_utc": "2026-10-14T20:30:15+00:00",
       "raw_text": "Patrick Witt exits White House crypto role as Clarity Act stalls\n\nLeadership at the White House is shifting once again, as Patrick Witt’s tenure as the administration’s top crypto adviser comes to an end.",
       "impact": {}
-    },
-    {
-      "event_id": "7c7aad47-a53e-4750-98c7-8641cd93e682",
-      "source": "rss:decrypt",
-      "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
-      "url": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-14T20:16:05+00:00",
-      "raw_text": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny\n\nA new Chainalysis report found payments through Coinbase’s x402 protocol surged from about 1,500 in mid-2025 to more than 138 million by Q3 2026, with U.S. wallets dominating spending on AI models.",
-      "impact": {}
-    },
-    {
-      "event_id": "b99b49cc-b5c7-47c2-a746-12c12e8f5fc8",
-      "source": "rss:decrypt",
-      "title": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
-      "url": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-14T19:46:03+00:00",
-      "raw_text": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin\n\nSberbank now holds both custody and exchange status under Russia's new crypto law, and plans to bring Bitcoin, Ethereum and USDT to apps used by 110 million retail clients.",
-      "impact": {}
-    },
-    {
-      "event_id": "42eadb91-92fb-4168-81cb-9d74e8656a48",
-      "source": "rss:decrypt",
-      "title": "Solana Sets a Date for Its Next Major Upgrade",
-      "url": "https://decrypt.co/380974/solana-alpenglow-upgrade-date",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-14T19:16:04+00:00",
-      "raw_text": "Solana Sets a Date for Its Next Major Upgrade\n\nSolana's Alpenglow upgrade replaces the TowerBFT voting system on October 21, cutting finality from 12.8 seconds to a target of 150ms and pulling vote transactions out of blocks entirely.",
-      "impact": {}
-    },
-    {
-      "event_id": "78118f0f-525e-4e25-969e-8a11acc1b53b",
-      "source": "rss:cointelegraph",
-      "title": "EU authority classifies Circle’s USDC as ‘significant’ under MiCA",
-      "url": "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-14T19:03:52+00:00",
-      "raw_text": "EU authority classifies Circle’s USDC as ‘significant’ under MiCA\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EU authority classifies Circle’s USDC as ‘significant’ under MiCA \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4",
-      "impact": {}
-    },
-    {
-      "event_id": "0c817c55-69ee-4608-a3d0-3d7be00a5612",
-      "source": "rss:theblock",
-      "title": "Major shareholder presses SkyAI on Solana sales after treasury shrinks 70% in a month",
-      "url": "https://www.theblock.co/news/business/2026-10-14-solana-treasury-skyai-bastion-sol-sales-tender-offer-418598",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [
-        "SOL"
-      ],
-      "timestamp_utc": "2026-10-14T18:25:54+00:00",
-      "raw_text": "Major shareholder presses SkyAI on Solana sales after treasury shrinks 70% in a month\n\nSkyAI's SOL treasury fell 70% in under a month, with 400,000 SOL unexplained. Bastion Trading won't tender at $3 a share and wants $3.50.",
-      "impact": {
-        "t_plus_5m": -0.2255,
-        "t_plus_15m": -0.2883,
-        "t_plus_1h": 0.3362,
-        "t_plus_4h": 0.0765
-      }
-    },
-    {
-      "event_id": "4592f7ca-5b75-4361-a2d7-bdfa4eb8ff1a",
-      "source": "rss:cointelegraph",
-      "title": "US authorities dismantle crypto scam network that stole tens of millions",
-      "url": "https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-14T17:56:45+00:00",
-      "raw_text": "US authorities dismantle crypto scam network that stole tens of millions\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US authorities dismantle crypto scam network that stole tens of millions \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cover",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "narrative": {
-        "count": 164,
-        "avg_1h": 0.13,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "macro": {
-        "count": 115,
-        "avg_1h": -0.01,
+        "count": 116,
+        "avg_1h": 0.01,
         "avg_24h": 0.79,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 169,
+        "count": 170,
         "avg_1h": 0.22,
         "avg_24h": 2.62,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "hack": {
+        "count": 34,
+        "avg_1h": 0.27,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 161,
+        "avg_1h": 0.12,
+        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
         "count": 15,
         "avg_1h": 0.09,
         "avg_24h": 0.37,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 33,
-        "avg_1h": 0.27,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
