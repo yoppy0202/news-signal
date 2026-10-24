@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T10:50:17.703850+00:00",
+  "generated_at": "2026-10-24T14:27:37.997353+00:00",
   "events": [
     {
       "event_id": "aae1d214-35ef-4989-88f1-3e8a15e66d5f",
@@ -8,10 +8,17 @@
       "url": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-10-24T04:45:43+00:00",
       "raw_text": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1165,
+        "t_plus_15m": 0.1265,
+        "t_plus_1h": -0.0528,
+        "t_plus_4h": -0.776
+      }
     },
     {
       "event_id": "7dbeee9d-e4c1-4e18-91fe-71062a1eb1e2",
@@ -6413,7 +6420,7 @@
     "by_event_type": {
       "unknown": {
         "count": 171,
-        "avg_1h": 0.19,
+        "avg_1h": 0.17,
         "avg_24h": 2.62,
         "win_rate_1h_gt5pct": 0.0
       },
