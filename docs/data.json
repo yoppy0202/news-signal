@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-10-24T18:04:17.851157+00:00",
+  "generated_at": "2026-10-24T20:41:53.224862+00:00",
   "events": [
+    {
+      "event_id": "57bcb217-f7d1-45e2-9e82-4f226f858272",
+      "source": "rss:theblock",
+      "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
+      "url": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-24T17:44:36+00:00",
+      "raw_text": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000\n\nSpot bitcoin ETFs lost $773 million on Thursday and Friday after three days of net inflows, per SoSoValue data.",
+      "impact": {}
+    },
+    {
+      "event_id": "74035545-371a-4ba6-85d0-afd26acb32ca",
+      "source": "rss:decrypt",
+      "title": "Google Quietly Updates Privacy Policy to Let Gmail and Photos Data Feed Ads",
+      "url": "https://decrypt.co/381775/google-quietly-updates-privacy-policy-gmail-photos-ads",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-24T17:01:02+00:00",
+      "raw_text": "Google Quietly Updates Privacy Policy to Let Gmail and Photos Data Feed Ads\n\nA policy change effective Oct. 16 carves out an exception to Google’s long-standing pledge—letting connected Gmail, Drive, and Photos data personalize ads through its Personal Intelligence AI features.",
+      "impact": {}
+    },
+    {
+      "event_id": "4565414e-3e23-4973-9277-335d198f4516",
+      "source": "rss:theblock",
+      "title": "Argentine judge clears Milei and 10 others in LIBRA case, finding no ‘criminally relevant deception’",
+      "url": "https://www.theblock.co/news/regulation/2026-10-24-argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no-criminally-relevant-deception-431606",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-24T16:24:13+00:00",
+      "raw_text": "Argentine judge clears Milei and 10 others in LIBRA case, finding no ‘criminally relevant deception’\n\nThe judge's 60-page ruling concluded Argentine President Javier Milei's post promoting the LIBRA token did not, by itself, establish fraud.",
+      "impact": {}
+    },
+    {
+      "event_id": "1824d01b-4aea-4b41-97ab-5c92a603a400",
+      "source": "rss:decrypt",
+      "title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
+      "url": "https://decrypt.co/381763/sweden-government-offices-block-chatgpt-claude",
+      "event_type": "macro",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-24T16:01:03+00:00",
+      "raw_text": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot\n\nSweden's Government Offices will block ChatGPT and Claude on staff computers from Monday, steering civil servants to Microsoft Copilot as the only AI that passed its security review.",
+      "impact": {}
+    },
+    {
+      "event_id": "4e90a183-13fc-49d4-9f95-0cf7cc467ef5",
+      "source": "rss:coindesk",
+      "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
+      "url": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-24T16:00:00+00:00",
+      "raw_text": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
+      "impact": {}
+    },
     {
       "event_id": "05a271ee-6a74-4c5e-9349-fd4b18022e7e",
       "source": "rss:coindesk",
@@ -71,6 +131,18 @@
       "tokens": [],
       "timestamp_utc": "2026-10-24T14:06:24+00:00",
       "raw_text": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
+      "impact": {}
+    },
+    {
+      "event_id": "0e498797-e6c0-4e4a-811a-8a9824bce508",
+      "source": "rss:coindesk",
+      "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
+      "url": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-24T14:00:00+00:00",
+      "raw_text": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
       "impact": {}
     },
     {
@@ -312,7 +384,8 @@
         "t_plus_5m": 0.1543,
         "t_plus_15m": 0.218,
         "t_plus_1h": -0.0875,
-        "t_plus_4h": -0.2042
+        "t_plus_4h": -0.2042,
+        "t_plus_24h": -1.7067
       }
     },
     {
@@ -6345,82 +6418,16 @@
         "t_plus_1h": 0.0641,
         "t_plus_4h": -0.197
       }
-    },
-    {
-      "event_id": "72b4a81f-8989-48a6-bb85-9985ede8302d",
-      "source": "rss:theblock",
-      "title": "US federal judge denies joint Gemini-CFTC bid to undo $5 million settlement",
-      "url": "https://www.theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-16T05:44:05+00:00",
-      "raw_text": "US federal judge denies joint Gemini-CFTC bid to undo $5 million settlement\n\nThe court noted that Gemini voluntarily settled three weeks before trial and that policy changes do not warrant reopening the judgment.",
-      "impact": {}
-    },
-    {
-      "event_id": "a4b611d4-9815-4ffa-8520-8241c9350db0",
-      "source": "rss:cointelegraph",
-      "title": "Balaji’s ‘Singapore of social media’ begins with a wave of bans",
-      "url": "https://cointelegraph.com/news/balajis-singapore-of-social-media-begins-with-a-wave-of-bans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-16T05:16:11+00:00",
-      "raw_text": "Balaji’s ‘Singapore of social media’ begins with a wave of bans\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Balaji’s ‘Singapore of social media’ begins with a wave of bans  \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M51HR",
-      "impact": {}
-    },
-    {
-      "event_id": "f6b31cfa-84e9-4867-9044-6646dfa14c63",
-      "source": "rss:coindesk",
-      "title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
-      "url": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-16T04:29:19+00:00",
-      "raw_text": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
-      "impact": {}
-    },
-    {
-      "event_id": "91a2295e-4d7c-4d51-89ef-6a565cb2578b",
-      "source": "rss:coindesk",
-      "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
-      "url": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-16T04:14:22+00:00",
-      "raw_text": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
-      "impact": {}
-    },
-    {
-      "event_id": "630146e8-f4bb-443b-a031-07f666af329e",
-      "source": "rss:cointelegraph",
-      "title": "MSCI adopts index exclusion rules that could oust Strategy",
-      "url": "https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-16T00:48:20+00:00",
-      "raw_text": "MSCI adopts index exclusion rules that could oust Strategy\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MSCI adopts index exclusion rules that could oust Strategy \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M512PJ7T3H0MKWY3",
-      "impact": {}
-    },
-    {
-      "event_id": "2ec55cc5-c7a6-47cf-8338-78ffd7397f77",
-      "source": "rss:cointelegraph",
-      "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
-      "url": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-15T23:34:19+00:00",
-      "raw_text": "Australia releases draft bill to adopt OECD crypto tax reporting framework\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Australia releases draft bill to adopt OECD crypto tax reporting framework \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-c",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "macro": {
+        "count": 116,
+        "avg_1h": -0.02,
+        "avg_24h": -0.3,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "narrative": {
         "count": 158,
         "avg_1h": 0.12,
@@ -6428,7 +6435,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 173,
+        "count": 172,
         "avg_1h": 0.17,
         "avg_24h": 2.62,
         "win_rate_1h_gt5pct": 0.0
@@ -6439,16 +6446,10 @@
         "avg_24h": 0.45,
         "win_rate_1h_gt5pct": 0.0
       },
-      "macro": {
-        "count": 115,
-        "avg_1h": -0.02,
-        "avg_24h": -0.3,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
         "count": 35,
         "avg_1h": 0.11,
-        "avg_24h": null,
+        "avg_24h": -1.71,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
