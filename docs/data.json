@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-26T00:15:02.677274+00:00",
+  "generated_at": "2026-10-26T06:04:47.566650+00:00",
   "events": [
+    {
+      "event_id": "979463e5-e5a8-46aa-a64f-73083534f205",
+      "source": "rss:cointelegraph",
+      "title": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin",
+      "url": "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-26T00:13:29+00:00",
+      "raw_text": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-co",
+      "impact": {}
+    },
     {
       "event_id": "262b3228-f8d8-41f3-b21f-b8ce88660124",
       "source": "rss:cointelegraph",
@@ -6398,22 +6410,16 @@
       "timestamp_utc": "2026-10-16T09:48:14+00:00",
       "raw_text": "Live updates: Bitcoin steady near $82,000 after Fed Chair Warsh's comments",
       "impact": {}
-    },
-    {
-      "event_id": "80b0e7f3-4485-4692-af3b-06f168bcfe73",
-      "source": "rss:coindesk",
-      "title": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
-      "url": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-16T09:36:21+00:00",
-      "raw_text": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 157,
+        "avg_1h": 0.14,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
         "count": 36,
         "avg_1h": -0.03,
@@ -6421,15 +6427,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 172,
+        "count": 171,
         "avg_1h": 0.17,
         "avg_24h": 2.62,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 156,
-        "avg_1h": 0.14,
-        "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
