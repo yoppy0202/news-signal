@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-25T21:42:07.103587+00:00",
+  "generated_at": "2026-10-26T00:15:02.677274+00:00",
   "events": [
+    {
+      "event_id": "262b3228-f8d8-41f3-b21f-b8ce88660124",
+      "source": "rss:cointelegraph",
+      "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
+      "url": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [
+        "ETH"
+      ],
+      "timestamp_utc": "2026-10-25T22:48:40+00:00",
+      "raw_text": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctm",
+      "impact": {
+        "t_plus_5m": 0.3571,
+        "t_plus_15m": 0.0359,
+        "t_plus_1h": -0.8329
+      }
+    },
     {
       "event_id": "37df4fbb-d8ad-4251-97f6-194d64a03a52",
       "source": "rss:theblock",
@@ -6392,22 +6410,16 @@
       "timestamp_utc": "2026-10-16T09:36:21+00:00",
       "raw_text": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
       "impact": {}
-    },
-    {
-      "event_id": "f247a5d7-5b16-4005-858f-06db4ee6d301",
-      "source": "rss:theblock",
-      "title": "Capital B posts wider H1 net loss of $78 million on bitcoin impairment charge",
-      "url": "https://www.theblock.co/news/business/2026-10-16-capital-b-wider-h1-net-loss-418781",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-16T09:30:21+00:00",
-      "raw_text": "Capital B posts wider H1 net loss of $78 million on bitcoin impairment charge\n\nThe company attributed roughly €67.5 million ($75.9 million) of the loss to an additional bitcoin impairment charge.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 36,
+        "avg_1h": -0.03,
+        "avg_24h": -1.71,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
         "count": 172,
         "avg_1h": 0.17,
@@ -6415,7 +6427,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 157,
+        "count": 156,
         "avg_1h": 0.14,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
@@ -6430,12 +6442,6 @@
         "count": 15,
         "avg_1h": 0.11,
         "avg_24h": 0.45,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 35,
-        "avg_1h": 0.11,
-        "avg_24h": -1.71,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
