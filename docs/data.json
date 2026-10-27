@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-10-26T23:48:27.970137+00:00",
+  "generated_at": "2026-10-27T04:55:12.248013+00:00",
   "events": [
+    {
+      "event_id": "b03eddae-fa65-4b4d-8542-73d2265b65ab",
+      "source": "rss:cointelegraph",
+      "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
+      "url": "https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-27T01:55:03+00:00",
+      "raw_text": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Keystone breach deepens: Hackers stole key used to verify wallets as genuine\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/articl",
+      "impact": {}
+    },
+    {
+      "event_id": "beb4e704-9151-45bc-931f-ee72621de9b0",
+      "source": "rss:theblock",
+      "title": "BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins",
+      "url": "https://www.theblock.co/news/business/2026-10-26-blackrock-sbi-startale-mou-431642",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-27T01:00:00+00:00",
+      "raw_text": "BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins\n\nBlackRock, SBI Holdings, and Startale will explore connecting tokenized money market funds with SBI's Japanese yen-pegged stablecoin JPYSC.",
+      "impact": {}
+    },
+    {
+      "event_id": "89d47397-f412-4f80-bca8-f5775347c214",
+      "source": "rss:cointelegraph",
+      "title": "Ripple wins final US approval for national trust bank",
+      "url": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "unknown",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-27T00:06:41+00:00",
+      "raw_text": "Ripple wins final US approval for national trust bank\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ripple wins final US approval for national trust bank\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5XAPPMS0KPKFXTRBD88QJZH/hi",
+      "impact": {}
+    },
+    {
+      "event_id": "2febb48c-d6a2-4348-a3ee-43b6735f23c4",
+      "source": "rss:bitcoinmagazine",
+      "title": "Cold Storage Goes South: bitcoin++ Announces Antarctica Edition",
+      "url": "https://bitcoinmagazine.com/news/cold-storage-bitcoin-antarctica",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-27T00:00:04+00:00",
+      "raw_text": "Cold Storage Goes South: bitcoin++ Announces Antarctica Edition\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/bitcoin-Announces-Antarctica-Edition.jpg\" style=\"display: block; margin: 1em auto;\" /><",
+      "impact": {}
+    },
     {
       "event_id": "a5c47119-60ab-491b-859a-1fb4ef1ef275",
       "source": "rss:decrypt",
@@ -116,10 +164,17 @@
       "url": "https://www.theblock.co/news/ecosystems/2026-10-26-cz-pitches-bnb-chains-role-ai-bnb-standard-rings-nasdaq-bell-431790",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BNB"
+      ],
       "timestamp_utc": "2026-10-26T19:43:47+00:00",
       "raw_text": "CZ pitches BNB Chain’s role in AI as BNB Standard rings Nasdaq bell\n\nCZ sees AI driving crypto use, while BNB Standard plans to expand beyond holding tokens in its treasury.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.2124,
+        "t_plus_15m": 0.2492,
+        "t_plus_1h": -0.018,
+        "t_plus_4h": 0.1683
+      }
     },
     {
       "event_id": "4ff500c0-e843-47da-b295-f21ab2a08ba8",
@@ -128,10 +183,17 @@
       "url": "https://decrypt.co/381860/ai-agents-hack-anthropic-business-systems-12-hours",
       "event_type": "narrative",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "DOGE"
+      ],
       "timestamp_utc": "2026-10-26T19:31:02+00:00",
       "raw_text": "AI Agents Found a Way Into Anthropic's Business Systems in Under 12 Hours\n\nCathedral, a startup founded by ex-DOGE staffers, says its AI agents found paths into Anthropic's sales, HR, and IT systems through third-party software.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0929,
+        "t_plus_15m": 0.0091,
+        "t_plus_1h": -0.1554,
+        "t_plus_4h": 0.2046
+      }
     },
     {
       "event_id": "be21b01d-66b7-4bd3-89f0-4040937ef064",
@@ -140,10 +202,17 @@
       "url": "https://bitcoinmagazine.com/videos/coinbase-institutional-co-ceo-bitcoins-second-wave-of-institutional-capital-has-arrived",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-10-26T19:24:08+00:00",
       "raw_text": "Coinbase Institutional Co-CEO: Bitcoin’s “Second Wave” of Institutional Capital has Arrived\n\n<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=3JLon67yVfY\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><i",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.0877,
+        "t_plus_15m": -0.0171,
+        "t_plus_1h": -0.1681,
+        "t_plus_4h": -0.1198
+      }
     },
     {
       "event_id": "cd9c879e-9912-4ca8-b594-6161fbd5ca1e",
@@ -356,10 +425,17 @@
       "url": "https://bitcoinmagazine.com/news/strategy-mstr-pauses-bitcoin-buying-205",
       "event_type": "macro",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-10-26T15:39:53+00:00",
       "raw_text": "Strategy (MSTR) Pauses Bitcoin Buying and Spends $205 Million on Preferred Stock\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time-in-Years-as-Bitcoin-Price-T",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.8412,
+        "t_plus_15m": 0.5684,
+        "t_plus_1h": -0.1333,
+        "t_plus_4h": -0.0171
+      }
     },
     {
       "event_id": "8fed325d-9221-4e60-826f-62042190b05a",
@@ -368,10 +444,17 @@
       "url": "https://decrypt.co/381826/tom-lee-bitmine-keeps-buying-ethereum-share-buybacks",
       "event_type": "unknown",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "ETH"
+      ],
       "timestamp_utc": "2026-10-26T15:36:03+00:00",
       "raw_text": "Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks\n\nThe firm added 10,452 ETH to reach 4.95% of supply, but its bigger move was repurchasing 2.04 million of its own shares—part of what it calls the largest equity buyback any crypto treasury company has run.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.8618,
+        "t_plus_15m": 0.7368,
+        "t_plus_1h": -0.2473,
+        "t_plus_4h": -0.1358
+      }
     },
     {
       "event_id": "6460d3bb-2fd5-4194-a213-ef2c4f306653",
@@ -6361,79 +6444,31 @@
       "timestamp_utc": "2026-10-18T18:30:00+00:00",
       "raw_text": "The White House's crypto chief departs: State of Crypto",
       "impact": {}
-    },
-    {
-      "event_id": "26c9443e-d9a2-4f18-82a2-c108616a1c01",
-      "source": "rss:coindesk",
-      "title": "Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.",
-      "url": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-18T16:33:00+00:00",
-      "raw_text": "Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.",
-      "impact": {}
-    },
-    {
-      "event_id": "0a1e0f3f-37cb-4af9-8c0f-b5aa6b26d7ec",
-      "source": "rss:coindesk",
-      "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
-      "url": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-18T16:33:00+00:00",
-      "raw_text": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
-      "impact": {}
-    },
-    {
-      "event_id": "aa6be51f-bd25-41b2-8fbb-dd7e749f0860",
-      "source": "rss:decrypt",
-      "title": "MapQuest Now Shows Drivers Where Flock Cameras Are Watching",
-      "url": "https://decrypt.co/381255/mapquest-shows-drivers-where-flock-cameras-watching",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-18T16:31:03+00:00",
-      "raw_text": "MapQuest Now Shows Drivers Where Flock Cameras Are Watching\n\nMapQuest’s app now offers an optional map layer that plots known license plate readers from Flock Safety and other vendors, as backlash against the cameras grows.",
-      "impact": {}
-    },
-    {
-      "event_id": "ebb7d4c9-bc9a-4c2f-939b-c21fc804bdc4",
-      "source": "rss:theblock",
-      "title": "Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum",
-      "url": "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863",
-      "event_type": "hack",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-18T16:07:43+00:00",
-      "raw_text": "Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum\n\nThe attacker, after minting 10 million CYS, managed to bridge about $727,000 in proceeds to Ethereum through Mayan, deBridge and SWFT's Bridgers.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "unknown": {
-        "count": 164,
-        "avg_1h": 0.17,
-        "avg_24h": 2.62,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 157,
-        "avg_1h": 0.14,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "hack": {
-        "count": 37,
+        "count": 38,
         "avg_1h": 0.06,
         "avg_24h": -1.71,
         "win_rate_1h_gt5pct": 0.0
       },
+      "unknown": {
+        "count": 164,
+        "avg_1h": 0.13,
+        "avg_24h": 2.62,
+        "win_rate_1h_gt5pct": 0.0
+      },
+      "narrative": {
+        "count": 156,
+        "avg_1h": 0.11,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 124,
-        "avg_1h": 0.03,
+        "avg_1h": 0.01,
         "avg_24h": -0.11,
         "win_rate_1h_gt5pct": 0.0
       },
