@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-28T01:15:11.218844+00:00",
+  "generated_at": "2026-10-28T08:21:06.442045+00:00",
   "events": [
+    {
+      "event_id": "9a5a89d8-c6c7-451e-9d47-ce6f6b1ee433",
+      "source": "rss:cointelegraph",
+      "title": "Discord is making public chats searchable on Google: How to opt out",
+      "url": "https://cointelegraph.com/news/discord-is-making-public-chats-searchable-on-google-how-to-opt-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-28T00:47:04+00:00",
+      "raw_text": "Discord is making public chats searchable on Google: How to opt out\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Discord is making public chats searchable on Google: How to opt out\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/0",
+      "impact": {}
+    },
     {
       "event_id": "88023d98-bc8a-429e-92ed-632bfa4fe74b",
       "source": "rss:cointelegraph",
@@ -116,10 +128,17 @@
       "url": "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-10-27T19:54:05+00:00",
       "raw_text": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets \" class=\"type:primaryImage\" src=\"https://s3-images.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.5547,
+        "t_plus_15m": -0.5085,
+        "t_plus_1h": -0.779,
+        "t_plus_4h": 0.0402
+      }
     },
     {
       "event_id": "c7e2c7bc-3f95-41f8-843f-f6cfdcf697d6",
@@ -6386,29 +6405,16 @@
       "timestamp_utc": "2026-10-20T04:07:41+00:00",
       "raw_text": "Blockchain Association says Treasury’s GENIUS Act rollout needs clearer DeFi, foreign issuer rules\n\nThe group filed comments on Treasury's proposed rule implementing the GENIUS Act, which governs who can issue and sell payment stablecoins.",
       "impact": {}
-    },
-    {
-      "event_id": "cfb5a338-0c24-47a2-a6a4-3312a2a1c1b3",
-      "source": "rss:bitcoinmagazine",
-      "title": "Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants",
-      "url": "https://bitcoinmagazine.com/culture/pita-cafe-arizona-bitcoin",
-      "event_type": "listing",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-10-20T03:54:15+00:00",
-      "raw_text": "Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pita-Cafe-Arizona.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a hre",
-      "impact": {
-        "t_plus_5m": 0.161,
-        "t_plus_15m": 0.1358,
-        "t_plus_1h": 0.1159,
-        "t_plus_4h": -0.5362
-      }
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 43,
+        "avg_1h": 0.03,
+        "avg_24h": -1.71,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "macro": {
         "count": 124,
         "avg_1h": -0.08,
@@ -6416,14 +6422,14 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
-        "count": 17,
-        "avg_1h": 0.08,
+        "count": 16,
+        "avg_1h": 0.07,
         "avg_24h": 1.19,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
         "count": 156,
-        "avg_1h": 0.06,
+        "avg_1h": -0.01,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6431,12 +6437,6 @@
         "count": 159,
         "avg_1h": 0.15,
         "avg_24h": 2.62,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "hack": {
-        "count": 42,
-        "avg_1h": 0.03,
-        "avg_24h": -1.71,
         "win_rate_1h_gt5pct": 0.0
       },
       "whale_move": {
