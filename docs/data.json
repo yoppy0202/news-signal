@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-10-28T20:59:33.554132+00:00",
+  "generated_at": "2026-10-29T00:50:42.760534+00:00",
   "events": [
+    {
+      "event_id": "bb2773f5-6ff9-43ce-a351-885d5400b516",
+      "source": "rss:decrypt",
+      "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
+      "url": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-28T21:46:02+00:00",
+      "raw_text": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks\n\nDatavault AI says it has been unable to withdraw its Bitcoin from Biconomy since June and will restate four financial reports tied to a $150 million Scilex deal.",
+      "impact": {}
+    },
+    {
+      "event_id": "2929442c-4d21-4fc8-87cd-e8801b309542",
+      "source": "rss:cointelegraph",
+      "title": "Canadian ‘crypto king’ case to go to jury as criminal trial winds down",
+      "url": "https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "narrative",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-28T21:35:52+00:00",
+      "raw_text": "Canadian ‘crypto king’ case to go to jury as criminal trial winds down\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Canadian ‘crypto king’ case to go to jury as criminal trial winds down \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/20",
+      "impact": {}
+    },
+    {
+      "event_id": "a3171c7e-d84c-4670-ad57-55fda93ffc66",
+      "source": "rss:decrypt",
+      "title": "Chip Maker SK Hynix Posts Record Quarter as AI Memory Demand Overwhelms Supply",
+      "url": "https://decrypt.co/382114/sk-hynix-record-quarter-ai-memory-demand",
+      "event_type": "narrative",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-28T21:16:03+00:00",
+      "raw_text": "Chip Maker SK Hynix Posts Record Quarter as AI Memory Demand Overwhelms Supply\n\nSK Hynix's quarterly revenue topped 100 trillion won for the first time, and the chipmaker says memory demand will outrun supply through 2030, with DRAM and HBM sold out through 2029.",
+      "impact": {}
+    },
+    {
+      "event_id": "7d0feb6a-e794-49f1-baae-3f51ec91a62f",
+      "source": "rss:coindesk",
+      "title": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
+      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost",
+      "event_type": "unknown",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-28T21:13:44+00:00",
+      "raw_text": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
+      "impact": {}
+    },
     {
       "event_id": "2956161e-45f2-4512-92e9-151d5652aede",
       "source": "rss:decrypt",
@@ -128,10 +176,16 @@
       "url": "https://bitcoinmagazine.com/technical/centralized-exchange-and-defi-losses-dominate-2026-crypto-hacks-despite-hardware-wallet-failures",
       "event_type": "hack",
       "sentiment_label": "negative",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-10-28T17:43:02+00:00",
       "raw_text": "Centralized Exchange and DeFi Losses Dominate 2026 Crypto Hacks Despite Hardware Wallet Failures\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/tn-6.webp\" style=\"display: block; margin: 1em auto;\" /",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.5231,
+        "t_plus_15m": -0.4134,
+        "t_plus_1h": -0.0455
+      }
     },
     {
       "event_id": "cfcaa85b-adb2-40db-ad79-aaaac4baf327",
@@ -248,10 +302,17 @@
       "url": "https://decrypt.co/382059/wall-street-fast-money-fled-bitcoin-etfs-sovereign-funds",
       "event_type": "macro",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-10-28T16:15:02+00:00",
       "raw_text": "Wall Street’s Fast Money Fled Bitcoin ETFs, Sovereign Funds Stepped In\n\nGalaxy Research found that nine hedge funds and banks cut 68,000 BTC worth of spot ETF exposure as the cash-and-carry trade dried up, while wealth platforms and sovereign funds added.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -0.8447,
+        "t_plus_15m": -0.8872,
+        "t_plus_1h": -0.9025,
+        "t_plus_4h": 0.1326
+      }
     },
     {
       "event_id": "8f7ae421-a05b-40b9-bfc6-31a5be96db53",
@@ -284,10 +345,17 @@
       "url": "https://www.theblock.co/news/business/2026-10-28-coinbase-adds-ripple-rlusd-stablecoin-432009",
       "event_type": "narrative",
       "sentiment_label": "neutral",
-      "tokens": [],
+      "tokens": [
+        "XRP"
+      ],
       "timestamp_utc": "2026-10-28T15:56:36+00:00",
       "raw_text": "Coinbase adds Ripple’s RLUSD stablecoin across retail, exchange and Prime platforms\n\nRLUSD is live on Coinbase with 1:1 USD conversion on XRP Ledger, Ethereum and Base, capping a big week of news for Ripple.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": -1.5146,
+        "t_plus_15m": -1.5216,
+        "t_plus_1h": -1.231,
+        "t_plus_4h": 0.1598
+      }
     },
     {
       "event_id": "2da1cc54-94a1-4613-a5b6-7345b866f6f9",
@@ -303,7 +371,9 @@
       "raw_text": "Strategy (MSTR) Shareholders Approve Daily Dividends on Four Preferred Stocks\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/01/Strategy-MSTR-Just-Spent-1.25-Billion-on-13627-Bitcoin-Lifts-Holdings-to-",
       "impact": {
         "t_plus_5m": -0.007,
-        "t_plus_15m": -0.0314
+        "t_plus_15m": -0.0314,
+        "t_plus_1h": -0.1501,
+        "t_plus_4h": 0.7244
       }
     },
     {
@@ -417,7 +487,8 @@
       "impact": {
         "t_plus_5m": -0.1979,
         "t_plus_15m": -0.1144,
-        "t_plus_1h": -0.152
+        "t_plus_1h": -0.152,
+        "t_plus_4h": 0.032
       }
     },
     {
@@ -6312,79 +6383,31 @@
       "timestamp_utc": "2026-10-21T04:11:58+00:00",
       "raw_text": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
       "impact": {}
-    },
-    {
-      "event_id": "66eee7f7-1667-4ecb-a3cc-5bd6938a31b8",
-      "source": "rss:coindesk",
-      "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
-      "url": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-21T04:07:07+00:00",
-      "raw_text": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
-      "impact": {}
-    },
-    {
-      "event_id": "582b3afb-eb2f-49a9-9fa3-392ed88a2c8d",
-      "source": "rss:theblock",
-      "title": "MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion",
-      "url": "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-21T02:30:08+00:00",
-      "raw_text": "MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion\n\nThe companies also plan to explore ways to broaden global access to Dunamu's Ethereum Layer 2, GIWA chain.",
-      "impact": {}
-    },
-    {
-      "event_id": "c879a581-6ca8-4d8c-a841-205b0ff9ec13",
-      "source": "rss:cointelegraph",
-      "title": "Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold",
-      "url": "https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-21T01:19:14+00:00",
-      "raw_text": "Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cover",
-      "impact": {}
-    },
-    {
-      "event_id": "4afd8f68-07ae-4dbb-92cc-c5426102d092",
-      "source": "rss:cointelegraph",
-      "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
-      "url": "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "hack",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-20T23:26:02+00:00",
-      "raw_text": "Qubic restarts blockchain, opens recovery claims after $1.4M hack\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Qubic restarts blockchain, opens recovery claims after $1.4M hack\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5D",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
-      "macro": {
-        "count": 133,
-        "avg_1h": -0.11,
-        "avg_24h": -0.57,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
         "count": 154,
-        "avg_1h": -0.03,
+        "avg_1h": -0.13,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 154,
+        "count": 155,
         "avg_1h": 0.04,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
+      "macro": {
+        "count": 133,
+        "avg_1h": -0.15,
+        "avg_24h": -0.57,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
-        "count": 45,
-        "avg_1h": 0.06,
+        "count": 44,
+        "avg_1h": 0.05,
         "avg_24h": -1.71,
         "win_rate_1h_gt5pct": 0.0
       },
