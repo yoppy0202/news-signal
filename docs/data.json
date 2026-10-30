@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-10-30T00:52:21.947882+00:00",
+  "generated_at": "2026-10-30T07:02:09.842828+00:00",
   "events": [
+    {
+      "event_id": "6fd2f2e2-c531-4bf7-98ad-f3b6a8495c6d",
+      "source": "rss:theblock",
+      "title": "Bitcoin slides below $77,000, BNB drops amid Binance hack",
+      "url": "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-30T02:22:31+00:00",
+      "raw_text": "Bitcoin slides below $77,000, BNB drops amid Binance hack\n\nBNB lost 7.1%, while Binance Co-CEO Yi He pledged that the exchange will cover all user losses resulting from the hack.",
+      "impact": {}
+    },
+    {
+      "event_id": "dcd4defd-53da-42c9-8784-3fbb93d9ee9b",
+      "source": "rss:coindesk",
+      "title": "Binance hack drained wallets backing customer assets, reserve data shows",
+      "url": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-30T00:17:10+00:00",
+      "raw_text": "Binance hack drained wallets backing customer assets, reserve data shows",
+      "impact": {}
+    },
+    {
+      "event_id": "9a6f38cf-0660-4cdf-93d7-aa24178e0494",
+      "source": "rss:cointelegraph",
+      "title": "Binance hack drained billions through private key ‘misuse’: Blockaid CEO",
+      "url": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-30T00:11:26+00:00",
+      "raw_text": "Binance hack drained billions through private key ‘misuse’: Blockaid CEO\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance hack drained billions through private key ‘misuse’: Blockaid CEO \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-cover",
+      "impact": {}
+    },
+    {
+      "event_id": "7ffbf08b-73b3-42bc-8421-2152d1d72c4c",
+      "source": "rss:cointelegraph",
+      "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
+      "url": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-29T23:24:21+00:00",
+      "raw_text": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64Y4",
+      "impact": {}
+    },
+    {
+      "event_id": "657a2dd0-d686-4cbd-847c-7faf4bea3649",
+      "source": "rss:bitcoinmagazine",
+      "title": "Strategy (MSTR) Posts Record Operating Income as Bitcoin Rebounds in Q3 2026",
+      "url": "https://bitcoinmagazine.com/news/strategy-posts-record-operating-income",
+      "event_type": "macro",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-29T23:18:27+00:00",
+      "raw_text": "Strategy (MSTR) Posts Record Operating Income as Bitcoin Rebounds in Q3 2026\n\n<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/03/Strategy-MSTR-is-About-to-Have-More-Bitcoin-Than-BlackRocks-IBIT-.jpg\" sty",
+      "impact": {}
+    },
     {
       "event_id": "50156c2f-ff65-4b80-ad11-4eb3334cb3f0",
       "source": "rss:bitcoinmagazine",
@@ -62,6 +122,18 @@
       "impact": {}
     },
     {
+      "event_id": "01bb68db-339a-4998-8f5c-6528820412db",
+      "source": "rss:cointelegraph",
+      "title": "Live updates: Binance says $3B in crypto frozen in connection to hack",
+      "url": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "positive",
+      "tokens": [],
+      "timestamp_utc": "2026-10-29T21:24:36+00:00",
+      "raw_text": "Live updates: Binance says $3B in crypto frozen in connection to hack\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Live updates: Binance says $3B in crypto frozen in connection to hack\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/",
+      "impact": {}
+    },
+    {
       "event_id": "522e0064-704f-4632-a60c-6fabcdecbc42",
       "source": "rss:cointelegraph",
       "title": "Binance hit by $5.8B hack as Tether and Circle freeze billions",
@@ -71,6 +143,18 @@
       "tokens": [],
       "timestamp_utc": "2026-10-29T21:24:36+00:00",
       "raw_text": "Binance hit by $5.8B hack as Tether and Circle freeze billions\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance hit by $5.8B hack as Tether and Circle freeze billions\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64RM2NG4",
+      "impact": {}
+    },
+    {
+      "event_id": "d58bf28e-559b-4339-b85d-c513d44adfa4",
+      "source": "rss:coindesk",
+      "title": "Binance loses $5.7 billion in 'biggest crypto hack in history'",
+      "url": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-29T21:12:45+00:00",
+      "raw_text": "Binance loses $5.7 billion in 'biggest crypto hack in history'",
       "impact": {}
     },
     {
@@ -92,10 +176,16 @@
       "url": "https://www.theblock.co/news/business/2026-10-29-strategy-q3-net-income-preferred-daily-dividends-432141",
       "event_type": "narrative",
       "sentiment_label": "positive",
-      "tokens": [],
+      "tokens": [
+        "BTC"
+      ],
       "timestamp_utc": "2026-10-29T20:58:35+00:00",
       "raw_text": "Strategy reports $19.5 billion in Q3 net income as preferred shareholders approve daily dividends\n\nStrategy reported $19.53B in Q3 net income on a $20.91B bitcoin gain, holds 848,517 BTC, and moves preferreds to daily dividends.",
-      "impact": {}
+      "impact": {
+        "t_plus_5m": 0.1934,
+        "t_plus_15m": 0.5792,
+        "t_plus_1h": 0.306
+      }
     },
     {
       "event_id": "a23cdda7-5ce4-4054-b1df-4f5cbc4d1f73",
@@ -208,7 +298,8 @@
       "impact": {
         "t_plus_5m": -0.0521,
         "t_plus_15m": 0.0114,
-        "t_plus_1h": 0.0045
+        "t_plus_1h": 0.0045,
+        "t_plus_4h": -2.3125
       }
     },
     {
@@ -334,7 +425,8 @@
       "impact": {
         "t_plus_5m": 0.7035,
         "t_plus_15m": 0.6852,
-        "t_plus_1h": 0.2589
+        "t_plus_1h": 0.2589,
+        "t_plus_4h": -0.6079
       }
     },
     {
@@ -932,6 +1024,18 @@
       "tokens": [],
       "timestamp_utc": "2026-10-29T10:44:48+00:00",
       "raw_text": "Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline",
+      "impact": {}
+    },
+    {
+      "event_id": "b66d2503-ca02-48da-b537-5b759bbd10c1",
+      "source": "rss:coindesk",
+      "title": "Live updates: Binance confirms security breach, says 'will cover all hacking losses'",
+      "url": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-29T10:41:39+00:00",
+      "raw_text": "Live updates: Binance confirms security breach, says 'will cover all hacking losses'",
       "impact": {}
     },
     {
@@ -6249,128 +6353,32 @@
       "timestamp_utc": "2026-10-22T10:38:51+00:00",
       "raw_text": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HJSX",
       "impact": {}
-    },
-    {
-      "event_id": "5b17370e-d9a9-401d-984c-9336116bbc73",
-      "source": "rss:coindesk",
-      "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
-      "url": "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-22T10:18:28+00:00",
-      "raw_text": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
-      "impact": {}
-    },
-    {
-      "event_id": "df492514-a844-4ee3-a446-40d9038bc39c",
-      "source": "rss:decrypt",
-      "title": "Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Case",
-      "url": "https://decrypt.co/381580/chinese-prosecutors-seek-to-confiscate-5-1b-in-bitcoin-seized-by-uk-in-qian-case",
-      "event_type": "macro",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-22T10:09:42+00:00",
-      "raw_text": "Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Case\n\nA Tianjin court will hear the application after a six-month notice period, while a parallel fight over the same coins continues in London.",
-      "impact": {}
-    },
-    {
-      "event_id": "2b33ae8e-0d94-4948-91d4-e33f4cabd9b8",
-      "source": "rss:theblock",
-      "title": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak",
-      "url": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-22T09:56:16+00:00",
-      "raw_text": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak\n\nSpot bitcoin ETFs attracted $528 million on Wednesday as BlackRock and Fidelity led a recovery in institutional demand.",
-      "impact": {}
-    },
-    {
-      "event_id": "4a440193-0529-4562-982a-08ac16e9a000",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin falls back to $81,000, with interest rates tumbling as stocks crack",
-      "url": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-22T09:54:26+00:00",
-      "raw_text": "Live updates: Bitcoin falls back to $81,000, with interest rates tumbling as stocks crack",
-      "impact": {}
-    },
-    {
-      "event_id": "44195849-c11e-49ae-ae72-e304e5653b07",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin slumps below $82,000 as risk off mood returns",
-      "url": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-22T09:54:26+00:00",
-      "raw_text": "Live updates: Bitcoin slumps below $82,000 as risk off mood returns",
-      "impact": {}
-    },
-    {
-      "event_id": "8e221d8b-bed1-4b50-8cce-0a6c295cc69f",
-      "source": "rss:coindesk",
-      "title": "Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge",
-      "url": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
-      "event_type": "narrative",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-22T09:54:26+00:00",
-      "raw_text": "Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge",
-      "impact": {}
-    },
-    {
-      "event_id": "6e213aab-f350-4cb1-a070-ab8a331be5ea",
-      "source": "rss:cointelegraph",
-      "title": "Starknet voters back research into life beyond Ethereum",
-      "url": "https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-22T09:37:54+00:00",
-      "raw_text": "Starknet voters back research into life beyond Ethereum\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Starknet voters back research into life beyond Ethereum\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HD0868XDVMAEX50APTK2H",
-      "impact": {}
-    },
-    {
-      "event_id": "bbfd75e4-3e04-4184-a71d-aad4c716f0dd",
-      "source": "rss:theblock",
-      "title": "Starknet community overwhelmingly backs research into becoming an independent post-quantum Layer 1",
-      "url": "https://www.theblock.co/news/ecosystems/2026-10-22-starknet-community-backs-independent-post-quantum-layer-1-421885",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-22T09:32:00+00:00",
-      "raw_text": "Starknet community overwhelmingly backs research into becoming an independent post-quantum Layer 1\n\nStarknet's community backed research into becoming an independent post-quantum Layer 1, with a draft whitepaper expected in November.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
       "hack": {
-        "count": 51,
+        "count": 58,
         "avg_1h": 0.04,
         "avg_24h": -1.71,
         "win_rate_1h_gt5pct": 0.0
       },
+      "macro": {
+        "count": 124,
+        "avg_1h": -0.13,
+        "avg_24h": -0.57,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "unknown": {
-        "count": 161,
+        "count": 157,
         "avg_1h": -0.06,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
       "narrative": {
-        "count": 145,
-        "avg_1h": -0.02,
+        "count": 143,
+        "avg_1h": 0.01,
         "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "macro": {
-        "count": 125,
-        "avg_1h": -0.13,
-        "avg_24h": -0.57,
         "win_rate_1h_gt5pct": 0.0
       },
       "listing": {
