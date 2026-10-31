@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-10-31T05:28:28.843918+00:00",
+  "generated_at": "2026-10-31T12:15:45.466828+00:00",
   "events": [
+    {
+      "event_id": "f0f0dacc-ec21-4c4b-a758-532306e1f535",
+      "source": "rss:cointelegraph",
+      "title": "Binance $6.3B record hack sparks pre-election political chatter",
+      "url": "https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "event_type": "hack",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-31T09:58:50+00:00",
+      "raw_text": "Binance $6.3B record hack sparks pre-election political chatter\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance $6.3B record hack sparks pre-election political chatter  \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M50GB",
+      "impact": {}
+    },
+    {
+      "event_id": "ea3b8762-de9e-439f-9c63-8029d11ef601",
+      "source": "rss:coindesk",
+      "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+      "url": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
+      "event_type": "hack",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-31T05:01:32+00:00",
+      "raw_text": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+      "impact": {}
+    },
     {
       "event_id": "9c4e098b-cb92-4e96-af2b-35b0a607ec5e",
       "source": "rss:bitcoinmagazine",
@@ -6392,34 +6416,16 @@
         "t_plus_1h": -0.3659,
         "t_plus_4h": -0.0615
       }
-    },
-    {
-      "event_id": "725fa7c7-5e42-43ca-a390-0b9af86fbb48",
-      "source": "rss:theblock",
-      "title": "New York seeks over $1.3 billion from NovaTech founders after couple fled the US",
-      "url": "https://www.theblock.co/news/regulation/2026-10-23-new-york-seeks-over-1-3-billion-from-novatech-founders-after-couple-fled-the-us-424453",
-      "event_type": "unknown",
-      "sentiment_label": "neutral",
-      "tokens": [],
-      "timestamp_utc": "2026-10-23T10:12:02+00:00",
-      "raw_text": "New York seeks over $1.3 billion from NovaTech founders after couple fled the US\n\nNew York wants $1.3 billion from NovaTech's founders, whose platform took in $1.16 billion and traded a fraction of it.",
-      "impact": {}
-    },
-    {
-      "event_id": "fb16b0ec-f059-490b-b4f6-e548a54eab1c",
-      "source": "rss:theblock",
-      "title": "South Korea to amend forex law to regulate stablecoins as payment instruments: report",
-      "url": "https://www.theblock.co/news/regulation/2026-10-23-south-korea-stablecoins-payment-instruments-424028",
-      "event_type": "unknown",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-23T09:52:44+00:00",
-      "raw_text": "South Korea to amend forex law to regulate stablecoins as payment instruments: report\n\nSouth Korea is currently developing the Digital Asset Basic Act, which seeks to establish a comprehensive framework for crypto.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "hack": {
+        "count": 110,
+        "avg_1h": -0.36,
+        "avg_24h": -1.71,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "listing": {
         "count": 16,
         "avg_1h": 0.06,
@@ -6432,12 +6438,6 @@
         "avg_24h": -0.57,
         "win_rate_1h_gt5pct": 0.0
       },
-      "hack": {
-        "count": 108,
-        "avg_1h": -0.36,
-        "avg_24h": -1.71,
-        "win_rate_1h_gt5pct": 0.0
-      },
       "narrative": {
         "count": 123,
         "avg_1h": -0.01,
@@ -6445,7 +6445,7 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
-        "count": 147,
+        "count": 145,
         "avg_1h": 0.23,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
