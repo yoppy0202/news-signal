@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-31T17:40:24.073370+00:00",
+  "generated_at": "2026-10-31T21:27:00.558025+00:00",
   "events": [
+    {
+      "event_id": "4c50569f-7114-4580-8280-94444073f291",
+      "source": "rss:coindesk",
+      "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
+      "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
+      "event_type": "narrative",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-31T18:00:00+00:00",
+      "raw_text": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
+      "impact": {}
+    },
+    {
+      "event_id": "409fc8d2-6bbb-4de2-a269-eedfab5e4782",
+      "source": "rss:coindesk",
+      "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
+      "url": "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem",
+      "event_type": "hack",
+      "sentiment_label": "negative",
+      "tokens": [],
+      "timestamp_utc": "2026-10-31T16:09:30+00:00",
+      "raw_text": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
+      "impact": {}
+    },
+    {
+      "event_id": "673d3d7c-dd5e-4b86-935b-56a7f0c411d2",
+      "source": "rss:coindesk",
+      "title": "Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts",
+      "url": "https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts",
+      "event_type": "unknown",
+      "sentiment_label": "neutral",
+      "tokens": [],
+      "timestamp_utc": "2026-10-31T16:00:00+00:00",
+      "raw_text": "Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts",
+      "impact": {}
+    },
     {
       "event_id": "3554dbb3-73a0-4678-9221-f87c22be15bb",
       "source": "rss:cointelegraph",
@@ -482,7 +518,8 @@
         "t_plus_5m": 0.2947,
         "t_plus_15m": 0.3262,
         "t_plus_1h": 0.2217,
-        "t_plus_4h": -0.3603
+        "t_plus_4h": -0.3603,
+        "t_plus_24h": 0.8093
       }
     },
     {
@@ -633,7 +670,8 @@
         "t_plus_5m": -0.22,
         "t_plus_15m": -0.1824,
         "t_plus_1h": 1.1109,
-        "t_plus_4h": 0.7085
+        "t_plus_4h": 0.7085,
+        "t_plus_24h": 1.1381
       }
     },
     {
@@ -6356,69 +6394,25 @@
         "t_plus_4h": 0.0062,
         "t_plus_24h": -1.0267
       }
-    },
-    {
-      "event_id": "fa31ff62-b0f7-4c39-ba51-b46364fc3b7c",
-      "source": "rss:bitcoinmagazine",
-      "title": "Block Releases THE Bitcoin National Ad Campaign",
-      "url": "https://bitcoinmagazine.com/videos/block-releases-the-bitcoin-national-ad-campaign",
-      "event_type": "macro",
-      "sentiment_label": "positive",
-      "tokens": [
-        "BTC"
-      ],
-      "timestamp_utc": "2026-10-23T13:21:52+00:00",
-      "raw_text": "Block Releases THE Bitcoin National Ad Campaign\n\n<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=E6capAzmJ3Q\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtub",
-      "impact": {
-        "t_plus_5m": 0.277,
-        "t_plus_15m": 0.1817,
-        "t_plus_1h": -0.5104,
-        "t_plus_4h": 0.218,
-        "t_plus_24h": -1.0267
-      }
-    },
-    {
-      "event_id": "b9fafce1-fde5-46ef-becf-1a5ea716d68b",
-      "source": "rss:cointelegraph",
-      "title": "China targets 2030 for its national blockchain network buildout",
-      "url": "https://cointelegraph.com/news/china-2030-national-blockchain-network-buildout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "event_type": "narrative",
-      "sentiment_label": "positive",
-      "tokens": [],
-      "timestamp_utc": "2026-10-23T13:21:07+00:00",
-      "raw_text": "China targets 2030 for its national blockchain network buildout\n\n<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"China targets 2030 for its national blockchain network buildout\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MEGNP",
-      "impact": {}
-    },
-    {
-      "event_id": "14dd4f97-ccb2-483a-9597-2e1d0467318e",
-      "source": "rss:decrypt",
-      "title": "Interpol Recovers $105M in African Cybercrime Sweep That Shut Illegal Crypto Mines",
-      "url": "https://decrypt.co/381690/interpol-recovers-105m-in-african-cybercrime-sweep-that-shut-illegal-crypto-mines",
-      "event_type": "unknown",
-      "sentiment_label": "negative",
-      "tokens": [],
-      "timestamp_utc": "2026-10-23T13:18:18+00:00",
-      "raw_text": "Interpol Recovers $105M in African Cybercrime Sweep That Shut Illegal Crypto Mines\n\nOperation Serengeti III led to 1,462 arrests across 21 countries, while Angolan police seized more than 2,000 crypto mining devices.",
-      "impact": {}
     }
   ],
   "stats": {
     "by_event_type": {
+      "narrative": {
+        "count": 121,
+        "avg_1h": -0.01,
+        "avg_24h": null,
+        "win_rate_1h_gt5pct": 0.0
+      },
       "hack": {
-        "count": 120,
+        "count": 121,
         "avg_1h": -0.36,
-        "avg_24h": -1.71,
+        "avg_24h": -0.28,
         "win_rate_1h_gt5pct": 0.0
       },
       "unknown": {
         "count": 140,
         "avg_1h": 0.23,
-        "avg_24h": null,
-        "win_rate_1h_gt5pct": 0.0
-      },
-      "narrative": {
-        "count": 121,
-        "avg_1h": -0.01,
         "avg_24h": null,
         "win_rate_1h_gt5pct": 0.0
       },
@@ -6429,9 +6423,9 @@
         "win_rate_1h_gt5pct": 0.0
       },
       "macro": {
-        "count": 102,
-        "avg_1h": -0.18,
-        "avg_24h": -0.41,
+        "count": 101,
+        "avg_1h": -0.16,
+        "avg_24h": 0.2,
         "win_rate_1h_gt5pct": 0.0
       }
     }
